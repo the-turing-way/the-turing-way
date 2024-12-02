@@ -574,6 +574,8 @@ chapters:
             file: collaboration/maintain-review/maintain-review-merge
           - title: Resources
             file: collaboration/maintain-review/maintain-review-resources
+      - title: Creating Agendas
+        file: collaboration/creating-agendas
       - title: Organising Meetings
         file: collaboration/organising-meetings
       - title: Organising Online Coworking Calls
