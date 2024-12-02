@@ -1,7 +1,7 @@
 (cl-creating-agendas)=
 # Creating agendas
 
-In this section we will cover why you might want to use an agenda, how to structure the beinging, middle, and end of an agenda, as well as how you might choose to build off of that agenda for the next meeting.
+In this section we will cover why you might want to use an agenda, how to structure the beginning, middle, and end of an agenda, as well as how you might choose to build off of that agenda for the next meeting.
 Meetings can provide the center of a community connection through shared work and networking.
 When you design an agenda for a meeting think about what you are giving to your attendees and what you are asking of them.
 
@@ -9,8 +9,6 @@ Agendas, used well, can help make your meetings more productive, transparent, an
 An agenda can help someone decide if a meeting is relevent for them or help them know what to prepare.
 During a meeting an agenda can be a written agreement on what you are spending time on as a group, showcasing what the group values enough to spend time on.
 Finally, if you combine an agenda with live notes, this can turn into a written record of what was agreed to or ideas that were explored that can be referred to in the future.
-
-
 
 ## The beginning
 
@@ -30,9 +28,9 @@ There are several conventions you can build off of here.
 - **N**ext call: When are you meeting next? Now is a good time to pull out your calendars and pick a time! The end of the meeting folks may be running off to their next appointments so getting this out of the way at the start ensures that everyone is acoomindated.
 
 Part of housekeeping is tending to the emotional wellbeing of the group.
-Providing a space for each person to check in with "How are you showing up?" can help people show up as a complete person, provide an opertunity for human-to-human connections, and set asside outside concerns to focus on the meeting.
+Providing a space for each person to check in with "How are you showing up?" can help people show up as a complete person, provide an opportunity for human-to-human connections, and set asside outside concerns to focus on the meeting.
 Folks sometimes have a hard time naming emotions and it can be helpful to link in a [feelings wheel](https://feelingswheel.com/) to help folks identify what resonates with them in the moment.
-When starting this practice it's very important to be clear that "Pass" is always an ok response.
+When starting this practice it's very important to be clear that "Pass" is always an OK response.
 Emotional sharing must be at-choice or it edges into cohersion and abuse.
 When used well this can be a powerful connecting tool for your team.
 
@@ -44,11 +42,11 @@ New groups will often require more time in this beginning phase.
 
 ## The middle
 
-This is the part that most people think of when the hear 'agenda'.
+This is the part that most people think of when they hear 'agenda'.
 Generally items in this section will fall into three categories if the group is trying to come to a shared decision:
 
 1) Sensemaking - What is the context and background that frames a decision? This is a shared experience. One person in the group might have a perfect understanding of the background and context, but if that is not shared and commonly understood, then as a collective the group has not engaged in sensemaking.
-2) Formulation or brainstorming - What are ways we could address the decision in front of us? This is where we get to be expansive and throw idea's around. The goal of this agenda is not to get it 'right' but to gather all possible idea's about something.
+2) Formulation or brainstorming - What are ways we could address the decision in front of us? This is where we get to be expansive and throw ideas around. The goal of this agenda is not to get it 'right' but to gather all possible ideas about something.
 3) Decision - What is the decision we are making as a group? This seems like an obivious topic but it's very easy for a group to leave a meeting with different understandings of what was decided. If a decision is made, say so, ideally in writing.
 
 This is also a good place to check in on sub-circles or individual to-do items.
