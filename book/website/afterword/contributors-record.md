@@ -753,6 +753,14 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="French">fr</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
       </td>
       <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
+        <br />
+        <sub><b>melibleq</b></sub>
+        <br />
+        <sub><b>4573 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
+      <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/5/medium/463393d04547cd1067cccdb0cf0e33c7.jpeg" />
         <br />
         <sub><b>acocac</b></sub>
@@ -768,6 +776,8 @@ Contributions of any kind welcome!
         <sub><b>1259 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/20/medium/32627112ab709769f5d1406937ed9558.jpg" />
         <br />
@@ -776,8 +786,6 @@ Contributions of any kind welcome!
         <sub><b>1094 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/68/medium/6deaa65b1f0997b43df812d13b2f1106.jpeg" />
         <br />
@@ -793,14 +801,6 @@ Contributions of any kind welcome!
         <br />
         <sub><b>990 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
-      </td>
-      <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
-        <br />
-        <sub><b>melibleq</b></sub>
-        <br />
-        <sub><b>1998 words</b></sub>
-        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/139/medium/2449eb1df310dcaff0ccb929817c5543.jpeg" />
