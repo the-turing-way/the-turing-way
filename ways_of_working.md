@@ -77,7 +77,7 @@ All members commit to
 
 ## Communication
 
-You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
+You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 You can reach the lead investigators of the project through their preferred way of communication:
 You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJane) on a Github issue or pull request, or tag in Slack.

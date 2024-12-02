@@ -62,7 +62,7 @@ There are many ways to get in touch with _The Turing Way_ team!
   - Join a discussion, collaborate on an ongoing task and exchange your thoughts with others.
   - Can't find your idea being discussed anywhere?
     [Open a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
-- [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
+- [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
   - For structured discussion and sustained engagement with the community members.
   - We will also provide notifications on upcoming events and share useful resources on Slack.
   - You can also ping us on [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) (open source option).

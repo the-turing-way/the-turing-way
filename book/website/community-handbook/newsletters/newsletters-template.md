@@ -51,7 +51,7 @@ Find more details on these topics below 👇
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
 - [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/the-turing-way/the-turing-way)
-- [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
+- [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
 - [Public Gitter channel](https://gitter.im/the-turing-way/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 - [X (formerly Twitter) Channel](https://twitter.com/turingway)
