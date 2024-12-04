@@ -66,8 +66,11 @@ Gathering access-related feedback is integral for ensuring that we can remain ac
 We recognise that many feedback forms and other forms for gathering feedback can often operate as "blackboxes" that receive information without taking actionable steps to address them.
 
 Knowing this, we are working to develop processes that enable us to action and report transparently on feedback given through these channels. This may include:
-- Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback. Currently, this process is under development.
-- Liasing with appropriate groups within _The Turing Way_ project (i.e. the Infrastructure Working Group) in order to create or resource technical changes that may be needed. Information about these working groups can be found on the [subpage of the Afterword](https://book.the-turing-way.org/afterword/subprojects)
+
+- Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback.
+  Currently, this process is under development.
+- Liasing with appropriate groups within _The Turing Way_ project (for example, the Infrastructure Working Group) in order to create or resource technical changes that may be needed.
+  Information about these working groups can be found in {ref}`subprojects`.
 - Escalating feedback to the project co-leads, funders, and others at the constitutional level of the project as needed.
 
 ## Confidentiality
