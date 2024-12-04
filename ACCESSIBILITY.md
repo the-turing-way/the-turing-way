@@ -23,7 +23,7 @@ We recognise the complex and interlinking ways in which intersectionality affect
 
 In developing this policy, we aim to draw from the [access-centered framework](https://accesscenteredmovement.com/what-access-centered-means/) in describing access as a constant process that changes in each space with each individual. This document is a part of a broader collection of documentation across accessibility, listed below:
 - [Accessibility policy](https://github.com/the-turing-way/the-turing-way/blob/main/ACCESSIBILITY.md): Our vision and guiding principles for how we practice accessibility.
-- Community Handbook Accessibility Guidelines: Practical advice to build accessibility into your contributions and activity within the community
+- [Community Handbook Accessibility Guidelines](https://book.the-turing-way.org/community-handbook/accessibility): Practical advice to build accessibility into your contributions and activity within the community
 - Accessibility Guide: A broader discussion of accessibility and access-related practices that extend beyond The Turing Way
 
 Each resource (our Accessibility Policy - this document, Community Handbook Accessibility Guidelines, and our Accessibility Guide) play a different yet overlapping role in enabling, documenting, and sharing our evolving language around accessible and inclusive collaboration.
