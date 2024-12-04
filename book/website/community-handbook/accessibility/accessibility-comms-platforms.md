@@ -12,7 +12,9 @@ We aim to provide the following support and normalise the following practices wi
 
 - **Adding alt text to images**: We use alt text or "alternative text" to describe images, diagrams, or other visuals within _The Turing Way_. 
 To learn more about how to write and use alt text for your work, please use this {ref}`guidance<ch-accessibility-alttext>`.
-- **Limit embedded links and provide alternatives for accessing information**: On many platforms, embedded links may not be accessible by screen readers, or may increase cognitive overload. If you are inserting a link into a message, limit the number of embedded links within a message. On Slack, avoid hyperlinking links within replies to messages when possible, as links posted within threads are not readable for screen readers.
+- **Limit embedded links and provide alternatives for accessing information**: On many platforms, embedded links may not be accessible by screen readers, or may increase cognitive overload. 
+If you are inserting a link into a message, limit the number of embedded links within a message. 
+On Slack, avoid hyperlinking links within replies to messages when possible, as links posted within threads are not readable for screen readers.
 - **Limit use of emojis that disrupt narrative flow**: Do not replace words with emojis or use too many emojis to communicate important information. 
 Screen readers usually read one emoji at a time using the alternative text and while sometimes the purpose may be clear (```:thumbsup:``` represents an icon of a thumbs up sign), at other times it may not be (```:partyblobcat``` represents a multicolored cat that is rotating in a circle, and is generally used in the context of a celebration or celebratory news). 
 More broadly, strings of emojis can produce a clunky, repetitive user experience for people trying to understand the core message.
