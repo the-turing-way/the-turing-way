@@ -12,8 +12,12 @@ Software templates are like shortcuts for starting and managing projects. For re
 ## Why Are Software Templates Useful?
 
 ### 1. **They Keep Projects Organized**
+Imagine opening an old project and feeling completely lost. Where did you save the scripts? Which folder had the data? Templates fix this by giving every project a predictable structure. For example, you might always have folders named `src` for code, `tests` for testing, and `docs` for documentation. It’s like giving your future self a map.
 
 ### 2. **They Teach Good Practices**
+Templates are often built by experts and include best practices by default—like clean code, proper documentation, and even FAIR principles (Findable, Accessible, Interoperable, Reusable). Following these practices makes your work more polished and easier for others to use.
+
+> *"In research project's at the Netherlands eScience Center, we sometimes need to share our analysis pipeline with collaborators across different institutions. By using the Bestie Julia template, we ensured that all metadata, dependencies, and documentation were in place. This not only streamlined the collaboration but also allowed our team to publish the pipeline in a repository where others could reuse it effortlessly. It was rewarding to see our work cited and adapted by another research group within months of publication."*
 
 ### 3. **They Make It Easy to Join a Project**
 
