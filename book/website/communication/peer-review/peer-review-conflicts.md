@@ -1,6 +1,8 @@
 (cm-pr-conflicts)=
 # Conflict of Interest
 
+This section provides a context and examples of conflicts of interest in the context of research and academic publishing. 
+
 ## Context
 Imagine if a researcher for a national institute with a secondment at a climate consulting business publishes a paper about the categorisation of a hurricane speed and suggests a re categorisation plus a novel fast-track detection with a data-driven method. 
 Then, we later find out that the editor of the paper also works for the same consulting company and the solution being suggested uses the editors’ patent. 
