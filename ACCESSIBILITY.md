@@ -44,7 +44,7 @@ The practices and policies listed here relate to these three operating principle
 
 ### 2.0 Community Accessibility Practices
 
-As an open source community that relies on projects and platforms for our underlying infrastructure, we acknowledge that _The Turing Way_ is limited in what standalone access-centered support we can offer.
+As an open source community that relies on projects and platforms for our underlying infrastructure, we acknowledge that _The Turing Way_ is limited in what standalone access-centred support we can offer.
 
 With this being said, we are committed to ensuring greater access to our guides, events, and community platforms through a variety of ways. 
 
