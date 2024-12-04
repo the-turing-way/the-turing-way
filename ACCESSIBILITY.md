@@ -15,7 +15,7 @@ While accessibility is commonly understood with respect to disability, we – me
 - Sexual orientation
 - Socioeconomic status
 - Technical or disciplinary background
-- Mental health diagnoses 
+- Mental health
 - Low bandwidth internet access or unstable connectivity (i.e. connection via mobile)
 - Using devices with limited computational resources or capacity
 
