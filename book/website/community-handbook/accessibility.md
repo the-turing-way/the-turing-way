@@ -10,7 +10,7 @@ We aim to draw from the [access-centered framework](https://accesscenteredmoveme
 Much like how _The Turing Way_ itself is always being written and rewritten, our accessibility and access-related practices are constantly being updated as broader awareness grows and changes in technology are made.
 
 This chapter contains following subchapters with accessibility guidelines when participating _The Turing Way_ community and recommendations when writing chapters:
-- {ref}`Accessibility Policy of The Turing Way Community<accessibility-policy>`
-- {ref}`accessibility-event-organising`
-- {ref}`accessibility-comms-platforms`
-- {ref}`accessibility-alt-text`
+- {ref}`Accessibility Policy of The Turing Way Community<ch-accessibility-policy>`
+- {ref}`ch-accessibility-events`
+- {ref}`ch-accessibility-comms-platforms`
+- {ref}`ch-accessibility-alttext`
