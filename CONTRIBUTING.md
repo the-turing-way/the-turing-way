@@ -1,15 +1,15 @@
 # Contributing to _The Turing Way_
 
-:tada::balloon::cake: **Welcome to _The Turing Way_ repository!** :cake::balloon::tada:
+🎉🎈🍰 **Welcome to _The Turing Way_ repository!** 🍰🎈🎉
 
-:dizzy::hatched_chick::sunny: _We're excited that you're here and want to contribute._ :sunny::hatched_chick::dizzy:
+💫 _We're excited that you're here and want to contribute._ 💫
 
 We want to ensure that every user and contributor feels welcome, included and supported to participate in _The Turing Way_ community.
 We hope that the information provided in this document will make it as easy as possible for you to get involved.
 
 We welcome all contributions to this project via GitHub issues and pull requests.
 Please follow these guidelines to make sure your contributions can be easily integrated into the projects.
-As you start contributing to _The Turing Way_, don't forget that your ideas are more important than perfect pull requests. :heart:
+As you start contributing to _The Turing Way_, don't forget that your ideas are more important than perfect pull requests. ❤️
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
@@ -79,7 +79,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 ### Coworking and Real-Time Collaboration
 
-- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engage anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
+- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engages anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
 - [Weekly Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
 - [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
@@ -88,7 +88,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 [Git][git] is a really useful tool for version control.
 [GitHub][github] sits on top of Git and supports collaborative and distributed working.
 
-We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but _The Turing Way_ maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
+We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but _The Turing Way_ maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! ❤️
 
 In order to contribute via GitHub, you'll need to set up a free account and sign in.
 Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going.
@@ -103,13 +103,13 @@ You can think of Markdown as a few little symbols around your text that will all
 For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
 Also when writing in Markdown, please [start each new sentence on a new line](https://book.the-turing-way.org/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
-Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
+Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! ✨
 
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
-There are 3 issues templates to choose from.:
+There are 3 issue templates to choose from.:
 1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
 2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
 3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
@@ -125,12 +125,6 @@ The list of labels for current issues can be found [here][turing-way-labels] and
 - [![binderhub](https://img.shields.io/badge/-binderhub-F37726.svg)][labels-binderhub] _These issues relate to documentation and resources around building a BinderHub._
 
 - [![book-build](https://img.shields.io/badge/-book--build-8d7aef.svg)][labels-book-build] _These issues are related to the build of the book using Jupyter-book. They are also related to the-turing-way book repo._
-
-- [![book-dash-feb20](https://img.shields.io/badge/-book--dash--feb20-006b75.svg)][labels-book-dash-feb20] _These are to be used on issues and PR during/for the book dash in Feb 2020._
-
-- [![book-dash-ldn19](https://img.shields.io/badge/-book--dash--ldn19-e0b61f.svg)][labels-book-dash-ldn19] _These are issues related to contributions made during the London Book Dash in 2019._
-
-- [![book-dash-mcr19](https://img.shields.io/badge/-book--dash--mcr19-f2a9c1.svg)][labels-book-dash-mcr19] _These are issues related to contributions made during the Manchester Book Dash in 2019._
 
 - [![Bug](https://img.shields.io/badge/-bug-d73a4a.svg)][labels-bug] _These issues are reporting a problem or a mistake in the project._
 
@@ -185,11 +179,11 @@ If you are a new member of _The Turing Way_ and are looking for opportunities to
 
 - [![pr-merged](https://img.shields.io/badge/-PR%3A%20merged-6f42c1.svg)][labels-pr-merged] _These issues relate to pull requests that have been merged._
 
-- [![pr-partially-approved](https://img.shields.io/badge/-PR%3A%20partially--approved-7E9C82.svg)][labels-pr-partially-approved] _These issues relate to pull requests that have been partially approved._
+- [![pr-partially-approved](https://img.shields.io/badge/-PR%3A%20partially--approved-7E9C82.svg)][labels-pr-partially-approved] _These issues relate to pulling requests that have been partially approved._
 
 - [![pr-reviewed-approved](https://img.shields.io/badge/-PR%3A%20reviewed--approved-0e8a16.svg)][labels-pr-reviewed-approved] _These issues relate to pull requests that have been approved by a reviewer._
 
-- [![pr-reviewed-changes-requested](https://img.shields.io/badge/-PR%3A%20reviewed--changes--requested-c2e0c6.svg)][labels-pr-reviewed-changes-requested] _These issues relate tp pull requests for which a reviewer has requested changes._
+- [![pr-reviewed-changes-requested](https://img.shields.io/badge/-PR%3A%20reviewed--changes--requested-c2e0c6.svg)][labels-pr-reviewed-changes-requested] _These issues relate to pull requests for which a reviewer has requested changes._
 
 - [![pr-unreviewed](https://img.shields.io/badge/-PR%3A%20unreviewed-fbca04.svg)][labels-pr-unreviewed] _These issues relate to pull requests that have not been reviewed yet._
 
@@ -214,11 +208,9 @@ If you are a new member of _The Turing Way_ and are looking for opportunities to
 
 - [![Tools](https://img.shields.io/badge/-tools-a3e07d.svg)][labels-tools] _These issues discuss the tools we use for collaboration_
 
-  If you feel that we should try new tools or some aspects of the collaboration could be improved by using tools, please let us know.
+  If you feel that we should try new tools or that some aspects of the collaboration could be improved by using tools, please let us know.
 
 - [![translation](https://img.shields.io/badge/-translation-e1ed3d.svg)][labels-translation] _These issues relate to translating the reproducibility book into other languages._
-
-- [![Travel](https://img.shields.io/badge/-travel-0f42fc.svg)][labels-travel] _These issues are mainly for the attention of core project members to plan travel to face to face meetings_
 
 - [![typo-fix](https://img.shields.io/badge/-typo--fix-ff54d4.svg)][labels-typo-fix] _These issues relate to fixing typos and broken links._
 
@@ -229,7 +221,7 @@ If you are a new member of _The Turing Way_ and are looking for opportunities to
 We appreciate all contributions to _The Turing Way_.
 **THANK YOU** for helping us build this useful resource. :sparkles::star2::dizzy:
 
-All project management, conversations and questions related to _The Turing Way_ project happens here in [_The Turing Way_ repository][turing-way-repo].
+All project management, conversations and questions related to _The Turing Way_ project happen here in [_The Turing Way_ repository][turing-way-repo].
 This is also where you can contribute directly to writing or editing chapters of [the book](https://book.the-turing-way.org)!
 
 The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease :sunglasses:.
