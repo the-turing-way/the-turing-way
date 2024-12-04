@@ -1,6 +1,6 @@
 # Accessibility Policy of The Turing Way Community
 
-Within _The Turing Way_ community, we define accessibility practices as a set of community-wide, behavioral, social, and technical decisions that can be taken to ensure that all are welcome and are able to enter and participate in research, data-driven processes, communities and events despite any barriers for access.
+Within _The Turing Way_ community, we define accessibility practices as a set of community-wide, behavioural, social, and technical decisions that can be taken to ensure that all are welcome and are able to enter and participate in research, data-driven processes, communities and events despite any barriers for access.
 
 While accessibility is commonly understood with respect to disability, we – meaning _The Turing Way_ community – define accessibility as giving access to everyone, with specific attention given to ensuring proper access for groups of people that encounter different barriers for participation. Barriers may be anything related to, including, and extending beyond the following: 
 - Age
@@ -36,8 +36,8 @@ These core principles are at the heart of our accessibility policy, and they ext
 
 This means that questions of access are tied to how people read the guides as well as their ability to participate in the project and the community. Participation in _The Turing Way_ itself can be defined broadly, but doing so often requires navigating a number of different platforms. In all contexts, we aim to facilitate access in a broad sense through:
 
-1. **Removing barriers**: We actively advocate for and employ tactics that seek to remove barriers for any current or future participants in our community. This may include people who historically have been limited or structurally excluded from participating through educational, geographical, linguistic, or technical barriers.
-2. **Sharing openly**: We aim to draft, write, review, and edit our open access guides using open source practices. We do this in order to enable people from a broad range of backgrounds to get involved in the project.
+1. **Removing barriers**: We actively advocate for and employ tactics that seek to remove barriers for any current or future participants in our community. This may include people who have historically been limited or structurally excluded from participating due to any of the barriers listed above.
+2. **Sharing openly**: We aim to draft, write, review, and edit our open access guides using open practices documented in our [guides](https://book.the-turing-way.org/reproducible-research/open). We do this in order to enable people from a broad range of backgrounds to get involved in the project.
 3. **Supporting inclusive participation**: We acknowledge that openness alone does not make a project accessible in a broad sense, and we are committed to maintaining a socio-technical infrastructure that enables inclusive participation more broadly. This includes hosting spaces for contribution, documenting our practices, and actively gathering feedback.
 
 The practices and policies listed here relate to these three operating principles, which shape how we work within the community to enable access on the web, on our community platforms, and while planning events.
@@ -48,11 +48,11 @@ As an open source community that relies on projects and platforms for our underl
 
 With this being said, we are committed to ensuring greater access to our guides, events, and community platforms through a variety of ways. 
 
-1. **Ensuring web accessibility for our open access resources**:  Our project is built with [JupyterBook](https://jupyter-accessibility.readthedocs.io/en/latest/index.html) on the [Github](https://accessibility.github.com/) platform, which have initiatives that address their compliance with [W3C WAI's Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG/). As a community documentation project, we aim to use and employ appropriate and relevant [alt text (also known as 'alternative text'](https://book.the-turing-way.org/community-handbook/accessibility/alt-text) for all of our images, charts, and data visualisations.
-
+1. **Ensuring web accessibility for our open access resources**:  Our project is built with [JupyterBook](https://jupyter-accessibility.readthedocs.io/en/latest/index.html) on the [Github](https://accessibility.github.com/) platform, which have initiatives that address their compliance with [W3C WAI's Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG/).
+  As a community documentation project, we aim to use and employ appropriate and relevant [alt text (also known as 'alternative text'](https://book.the-turing-way.org/community-handbook/accessibility/alt-text) for all of our images, charts, and data visualisations.
 2. **Enabling accessibility of our shared community platforms**: Our community is dedicated to enabling access across the various platforms we communicate on, which extends not only to the accessibility practices mentioned above, but also to the language we employ to ensure a broad audience. Our [slack welcome guide](https://the-turing-way.netlify.app/community-handbook/communication-channels/slack-welcome-guide.html) delineates best practices we use on the platform.
-
-3. **Implementing accessible practices for community events**: As a community, we frequently organise events for a variety of purposes: for coworking, trainings, workshops, panels, conference talks, and more. We are committed to supplying and recording audio transcripts and closed captioning, uploading slides and/or presentation materials, and enabling broad access to our program content [as described in our community handbook](https://book.the-turing-way.org/community-handbook/accessibility/event-organising).
+3. **Implementing accessible practices for community events**: As a community, we frequently organise events for a variety of purposes: for coworking, training, workshops, panels, conference talks, and more.
+  We are committed to supplying and recording audio transcripts and closed captioning, uploading slides and/or presentation materials, and enabling broad access to our program content [as described in our community handbook](https://book.the-turing-way.org/community-handbook/accessibility/event-organising).
 
 ### 3.0 How we work with Access-related Feedback
 
@@ -87,7 +87,7 @@ This Accessibility Policy was created by The Turing Way.
 
 In developing this policy, we have referred to numerous resources who have developed similar materials. 
 
-Contributors to the initial document are Alexandra Araujo Alvarez, Andrea Sanchez-Tapia, Anne Lee Steele, Chi Zhang, Esther Plomp, Laurel Ascenzi, Jesica Formoso, Jim Madge, Liz Hare, Malvika Sharan, Patricia Loto, Sophia Batchelor, and Tania Allard. Initial drafts of this policy have been made and were documented from 2022 to 2024.
+Contributors to the initial document are Alexandra Araujo Alvarez, Andrea Sanchez-Tapia, Anne Lee Steele, Chi Zhang, Esther Plomp, Laurel Ascenzi, Jesica Formoso, Jim Madge, Liz Hare, Malvika Sharan, Patricia Loto, Precious Onyewuchi, Sara Villa, Sophia Batchelor, and Tania Allard. Initial drafts of this policy have been made and were documented from 2022 to 2024.
 
 We also refer to the resources and process of Silvia Canelon's ["Accessibility Commitment"](https://silviacanelon.com/accessibility), and have reviewed a number of Accessibility and Access-related policies in the drafting of this document. This includes the [Open Accessibility Policy project](https://github.com/ascott1/accessibility-policy), the [Wigan Accessibility Statement](https://www.wigan.gov.uk/SitePages/Accessibility-statement.aspx), [gov.uk guidance](https://www.gov.uk/government/publications/sample-accessibility-statement), and [Metadocencia's Accessibility Policy](https://www.metadocencia.org/en/politica_accesibilidad/), a resource for accessibility in open science communities.
 
