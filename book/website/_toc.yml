@@ -809,6 +809,8 @@ chapters:
             file: community-handbook/coc/coc-enforcement
           - title: Acknowledgements
             file: community-handbook/coc/coc-acknowledgement
+      - title: Contributing to The Turing Way
+        file: community-handbook/contributing-guideline      
       - title: Style Guide
         file: community-handbook/style
         sections:
