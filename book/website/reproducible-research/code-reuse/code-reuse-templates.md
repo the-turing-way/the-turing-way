@@ -24,8 +24,11 @@ Templates are often built by experts and include best practices by default—lik
 ### 4. **They Make Research Reproducible**
 
 ### 5. **They Save Time**
+Setting up a new project can feel like a chore—creating folders, writing setup scripts, or installing tools. Templates handle all this for you so you can jump straight into the real work.
 
-### 6. **They Work Well with Tools**
+> *"I recently started a new analysis project using a Python template, and what used to take an afternoon was done in 10 minutes."*
+
+Many templates come pre-configured with tools for testing, deployment, or online publishing. For example, GitHub Actions workflows can be included right out of the box, saving you even more setup time.
 
 
 ## Examples of Great Software Templates for research software
