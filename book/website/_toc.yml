@@ -873,9 +873,11 @@ chapters:
         file: community-handbook/accessibility
         sections:
           - title: Event Organising
-            file: community-handbook/accessibility/event-organising
+            file: community-handbook/accessibility/accessibility-event-organising
           - title: Alt text
-            file: community-handbook/accessibility/alt-text
+            file: community-handbook/accessibility/accessibility-alt-text
+          - title: Communication Platforms
+            file: community-handbook/accessibility/accessibility-comms-platforms
       - title: Communication Platforms
         file: community-handbook/communication-channels
         sections:

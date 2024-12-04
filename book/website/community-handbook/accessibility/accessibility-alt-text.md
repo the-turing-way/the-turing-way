@@ -1,7 +1,7 @@
 (ch-accessibility-alttext)=
 # Alt text
 
-Alternative text (or alt text) are used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
+Alternative text (or alt text) is used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
 Alt text is often used by visually impaired people who use assistive technology such as screen readers.
 Adding alt texts to figures is one of the first principles of web accessibility as it enables the screen reader software to read an alt text to its users helping them understand/explain the content.
 
@@ -15,7 +15,8 @@ Being aware of how the image is presented and the context in which it sits will 
 If you’re writing about an image of a painting, you might want to consider if the style of painting is important, does knowing the painter’s name add value? It’s up to you to decide what information is essential.
 
 Here are a few things to keep in mind when writing alt text:
-* Alt text should be specific and not overly descriptive. They should convey the main point of the image, such as why the image was included or what the author wants the reader to notice
+* Alt text should be specific and not overly descriptive.
+It should convey the main point of the image, such as why the image was included or what the author wants the reader to notice
 * While length should depend on the complexity of the content, good descriptions are concise, but describe what’s in your images accurately enough to understand their context and content.
 * Stay clear of repetition.
 * Never start your alt text with ‘image of’ as this will be obvious to the user.
@@ -44,7 +45,7 @@ For more on the syntax consult the {ref}`caption section of the style guide<ch-s
 You can resize figures to adjust how they appear in our chapters using the parameters: `width` and `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
 Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
 
-**The example figure we have use here can be explained with this alt text:**
+**The example figure we have used here can be explained with this alt text:**
 *Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.*
 
 All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in a section within a markdown file using the following directive:
