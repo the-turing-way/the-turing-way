@@ -11,6 +11,7 @@ Believe it or not this is a common problem in scientific publishing, and raises 
 ## What?
 To maintain trust and integrity of scientific publishing in the global era, it is imperative to identify conflicting biases (conscious or unconscious) across all participants in the peer-reviewed publication process - including peer reviewers, editors, and the editorial board members of the journals. 
 A “conflict of interest” or “competing interest” (COI) refers to situations that are, or could be perceived to interfere with the objective presentation, review, or publication of a piece of work {cite:ps}`DeGruyter2024coi`.
+It is important to note that the perception of a conflict is just as harmful as the definite presence of a conflict, since it can undermine trust in the work just as much.
 
 ## Types of conflicts
 COIs can be divided into main two groups, financial and non-financial {cite:ps}`taylorfrancis2024coi`.
