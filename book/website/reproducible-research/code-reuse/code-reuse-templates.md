@@ -44,5 +44,3 @@ Templates are often built by experts and include best practices by default—lik
 
 1. [**FAIR Python Cookiecutter**](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter)  
     A Cookiecutter template for Python projects designed with FAIR principles in mind, emphasizing reproducibility and metadata inclusion.
-
-## Conclusion
