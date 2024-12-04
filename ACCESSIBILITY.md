@@ -59,7 +59,8 @@ With this being said, we are committed to ensuring greater access to our guides,
 Gathering access-related feedback is integral for ensuring that we can remain accessible as a community. We would like to offer a a few ways of sharing feedback with us, and are currently working to develop the following initiatives:
 
 1. **Feedback form**: Please submit access related comments to our [accessibility feedback form](https://forms.gle/Ngr2eUtQmf7aEeao6). All of the information in this form is processed anonymously, with the option of submitting contact information by choice. 
-2. **Drop-in sessions**: Throughout the calendar year, we would like to facilitate drop-in session to receive feedback about access related different parts of project. These may take place at our [Collaboration Cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) or may be hosted separately. 
+2. **Drop-in sessions**: Throughout the calendar year, we would like to facilitate drop-in session to receive feedback about access related different parts of project.
+These may take place at our [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) or may be hosted separately. 
 3. **Email the Research Community Manager or project team directly directly**: You can always email the Research Community Manager directly at asteele@turing.ac.uk with direct feedback. Alternatively, you can also reach out to her on Slack, or to any of the [project delivery team members](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 4. **Attend the Accessibility Working Group meeting**: The Accessibility Working Group meetings may be a place where you can deliver feedback in a small group environment. These meetings are held on Zoom on the second Monday of each month at 17:00 UK time. Please join the #Accessibility channel on slack for more information.
 
