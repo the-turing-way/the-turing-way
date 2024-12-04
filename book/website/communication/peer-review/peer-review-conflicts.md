@@ -60,8 +60,7 @@ The Forum agreed that the reviewer did have an interest which should have been d
 The editors should dismiss this review and seek a replacement if their policy is to have three reviews per paper, or go ahead with the two remaining reports. They should also provide some education for the reviewer on conflicts of interest.
 
 ##### Follow-up
-The journal added a note to the paper from the editor-in-chief, stating that due to an unfortunate technical mistake when handling the article, one of the authors was also a subject editor at the same time. 
-The editor-in-chief also stated that he guaranteed that the scientific standards and honesty had not been violated in any way.
+The editors decided that the reviewer had made an honest mistake and have closed the case.
 
 ### Examples in Open Peer Review: 
 There are also examples of COI in open peer review, where we could find other types of conflicts that occur and make them accountable.
