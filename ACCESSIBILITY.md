@@ -16,7 +16,7 @@ While accessibility is commonly understood with respect to disability, we – me
 - Socioeconomic status
 - Technical or disciplinary background
 - Mental health
-- Low bandwidth internet access or unstable connectivity (i.e. connection via mobile)
+- Digital barriers (such as connectivity, computational capacity, and design)
 - Using devices with limited computational resources or capacity
 
 We recognise the complex and interlinking ways in which intersectionality affects identity, and thereby, access or inclusion within any community project like _The Turing Way_. So in this sense, our accessibility practices may overlap with practices that enable inclusion more broadly within any community.
