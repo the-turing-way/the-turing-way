@@ -4,9 +4,8 @@
 This section provides a context and examples of conflicts of interest in the context of research and academic publishing. 
 
 ## Context
-Imagine if a researcher for a national institute with a secondment at a climate consulting business publishes a paper about the categorisation of a hurricane speed and suggests a re categorisation plus a novel fast-track detection with a data-driven method. 
-Then, we later find out that the editor of the paper also works for the same consulting company and the solution being suggested uses the editors’ patent. 
-And that the researcher of the paper never mentions as part of a standard disclosure that the company (and potentially the author) has a major financial stake in the research outcomes. 
+Imagine if a researcher with a second job at a consulting business publishes a paper that shows increased positive outcomes from certain approaches in their field. 
+Later we find out that the consulting business actively promotes and sells those approaches.
 Believe it or not this is a common problem in scientific publishing, and raises the relevance of declaring the so-called conflict of interest {cite:ps}`weinkle2024coi`.
 
 ## What?
