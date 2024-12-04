@@ -31,7 +31,7 @@ This policy is a work in progress, as are the practices that we employ as a comm
 
 ## 1.1 Core Principles
 
-These core principles are at the heart of our accessibility policy, and they extend beyond the web accessibility of our open access guides to the broader practices that we use as a community, expanded upon in Section 2.0.
+These core principles are at the heart of our accessibility policy, and they extend beyond the web accessibility of our open access guides to our broader practices as a community, expanded upon in Section 2.0.
 
 This means that questions of access are tied to how people read the guides as well as their ability to participate in the project and the community. Participation in _The Turing Way_ itself can be defined broadly, but doing so often requires navigating a number of different platforms. In all contexts, we aim to facilitate access in a broad sense through:
 
