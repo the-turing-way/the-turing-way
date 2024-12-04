@@ -28,25 +28,6 @@ Templates are often built by experts and include best practices by default—lik
 ### 6. **They Work Well with Tools**
 
 
-## What Makes a Good Software Template?
-
-1. **A Clear Folder Structure**  
-
-2. **Environment Setup Files**  
-
-3. **Testing Tools**  
-
-4. **Documentation**  
-
-5. **Licenses and Guidelines**  
-
-6. **Version Control Integration**  
-
-7. **Automation for Workflows**  
-
-8. **FAIR-Friendly Features**  
-
-
 ## Examples of Great Software Templates for research software
 
 1. [**NLeSC Python Template**](https://github.com/NLeSC/python-template)  
