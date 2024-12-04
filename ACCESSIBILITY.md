@@ -25,7 +25,7 @@ In developing this policy, we aim to draw from the [access-centered framework](h
 - [Community Handbook Accessibility Guidelines](https://book.the-turing-way.org/community-handbook/accessibility): Practical advice to build accessibility into your contributions and activity within the community.
 - Accessibility Guide: A broader discussion of accessibility and access-related practices that extend beyond The Turing Way.
 
-Each resource (this Accessibility Policy, Community Handbook Accessibility Guidelines, and our Accessibility Guide) play a different yet overlapping role in enabling, documenting, and sharing our evolving language around accessible and inclusive collaboration.
+Each resource (this Accessibility Policy, Community Handbook Accessibility Guidelines, and our Accessibility Guide) plays a different yet overlapping role in enabling, documenting, and sharing our evolving language around accessible and inclusive collaboration.
 
 This policy is a work in progress, as are the practices that we employ as a community. Much like how _The Turing Way_ is always being written and rewritten, our accessibility policies and practices are constantly being updated as broader awareness grows and changes in technology are made.
 
