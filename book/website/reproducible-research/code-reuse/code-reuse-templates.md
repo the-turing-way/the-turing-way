@@ -41,3 +41,19 @@ Software templates are like shortcuts for starting and managing projects. For re
 7. **Automation for Workflows**  
 
 8. **FAIR-Friendly Features**  
+
+
+## Examples of Great Templates
+
+1. [**NLeSC Python Template**](https://github.com/NLeSC/python-template)  
+
+1. [**Julia Besties**](https://github.com/JuliaBesties)
+
+1. [**Copier Template for C Projects**](https://github.com/jspaaks/copier-template-for-c-projects)  
+
+1. [**Scientific Python Cookie**](https://github.com/scientific-python/cookie)
+
+1. [**FAIR Python Cookiecutter**](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter)  
+
+
+## Conclusion
