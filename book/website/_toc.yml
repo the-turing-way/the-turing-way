@@ -251,7 +251,7 @@ chapters:
           - title: Reusing code by creating software packages
             file: reproducible-research/code-reuse/code-reuse-packages
           - title: Software Templates
-            file: reproducible-research/code-reuse/code-reuse-templates            
+            file: reproducible-research/code-reuse/code-reuse-templates
       - title: Continuous Integration (CI)
         file: reproducible-research/ci
         sections:
