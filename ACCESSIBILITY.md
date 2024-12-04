@@ -18,7 +18,6 @@ While accessibility is commonly understood with respect to disability, we – me
 - Mental health diagnoses 
 - Low bandwidth internet access or unstable connectivity (i.e. connection via mobile)
 - Using devices with limited computational resources or capacity
-- Design (ADDING AS PROXY - how do we encompass right-handed bias? Usability of websites AND of physical hardware like computer mice?)
 
 We recognise the complex and interlinking ways in which intersectionality affects identity, and thereby, access or inclusion within any community project like _The Turing Way_. So in this sense, our accessibility practices may overlap with practices that enable inclusion more broadly within any community.
 
