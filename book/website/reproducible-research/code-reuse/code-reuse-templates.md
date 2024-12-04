@@ -19,6 +19,8 @@ Templates are often built by experts and include best practices by default—lik
 
 > *"In one of the energy research projects at the Netherlands eScience Center, we neededed to share our analysis pipeline with collaborators across different institutions. By using the [**Julia Besties**](https://github.com/JuliaBesties) template, we ensured that all metadata, dependencies, and documentation were in place. This not only streamlined the collaboration but also allowed our team to publish the pipeline in a repository where others could reuse it effortlessly. It was rewarding to see our work cited and adapted by another research group within months of publication."*
 
+Templates designed for research software can also include, CITATION.cff files, and integration with archiving platforms like Zenodo, and other best practices specific to research software.
+
 ### 3. **They Make It Easy to Join a Project**
 
 When new team members join your project, they can quickly get up to speed if the structure is clear and consistent. Templates make onboarding a breeze by eliminating the guesswork about how things are set up.
