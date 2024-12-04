@@ -87,7 +87,7 @@ This Accessibility Policy was created by _The Turing Way_.
 
 In developing this policy, we have referred to numerous resources who have developed similar materials. 
 
-Contributors to the initial document are Alexandra Araujo Alvarez, Andrea Sanchez-Tapia, Anne Lee Steele, Arielle Bennett, Chi Zhang, Esther Plomp, Laurel Ascenzi, Jesica Formoso, Jim Madge, Léllé Demertzi, Liz Hare, Malvika Sharan, Patricia Loto, Precious Onyewuchi, Richard Acton, Sara Villa, Saranjeet Kaur, Sophia Batchelor, and Tania Allard. Initial drafts of this policy have been made and were documented from 2022 to 2024.
+Contributors to the initial document are Alexandra Araujo Alvarez, Andrea Sanchez-Tapia, Anne Lee Steele, Arielle Bennett, Chi Zhang, Esther Plomp, Laurel Ascenzi, Harriet Sands, Jesica Formoso, Jim Madge, Léllé Demertzi, Liz Hare, Malvika Sharan, Patricia Loto, Precious Onyewuchi, Richard Acton, Sara Villa, Saranjeet Kaur, Sophia Batchelor, and Tania Allard. Initial drafts of this policy have been made and were documented from 2022 to 2024.
 
 We also refer to the resources and process of Silvia Canelon's ["Accessibility Commitment"](https://silviacanelon.com/accessibility), and have reviewed a number of Accessibility and Access-related policies in the drafting of this document. This includes the [Open Accessibility Policy project](https://github.com/ascott1/accessibility-policy), the [Wigan Accessibility Statement](https://www.wigan.gov.uk/SitePages/Accessibility-statement.aspx), [gov.uk guidance](https://www.gov.uk/government/publications/sample-accessibility-statement), and [Metadocencia's Accessibility Policy](https://www.metadocencia.org/en/politica_accesibilidad/), a resource for accessibility in open science communities.
 
