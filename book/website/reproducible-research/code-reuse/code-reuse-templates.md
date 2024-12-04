@@ -25,8 +25,6 @@ Templates designed for research software can also include, CITATION.cff files, a
 
 When new team members join your project, they can quickly get up to speed if the structure is clear and consistent. Templates make onboarding a breeze by eliminating the guesswork about how things are set up.
 
-> *"I remember onboarding a new colleague last year. Thanks to the structured template we used, she was productive on day one!"*
-
 ### 4. **They Make Research Reproducible**
 
 Reproducibility is essential in research. Templates help by including files like `README` (with setup instructions), tests, configuration files, a dependency management solution. For research software, they can also include information or data to reproduce research results.
