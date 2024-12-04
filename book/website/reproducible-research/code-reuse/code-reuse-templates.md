@@ -9,7 +9,7 @@ Software templates are like shortcuts for starting and managing projects. For re
 
 > **Personal Note:** *I used to spend hours setting up projects until I discovered the [**NLeSC Python Template**](https://github.com/NLeSC/python-template). It was a game-changer! Suddenly, I could focus on the actual research instead of figuring out where to put files.*
 
-## Why Are Templates Useful?
+## Why Are Software Templates Useful?
 
 ### 1. **They Keep Projects Organized**
 
@@ -24,7 +24,7 @@ Software templates are like shortcuts for starting and managing projects. For re
 ### 6. **They Work Well with Tools**
 
 
-## What Makes a Good Template?
+## What Makes a Good Software Template?
 
 1. **A Clear Folder Structure**  
 
@@ -43,7 +43,7 @@ Software templates are like shortcuts for starting and managing projects. For re
 8. **FAIR-Friendly Features**  
 
 
-## Examples of Great Templates
+## Examples of Great Software Templates for research software
 
 1. [**NLeSC Python Template**](https://github.com/NLeSC/python-template)  
     A robust template for Python projects, including research software best practices and has multiple profiles for different use cases.
