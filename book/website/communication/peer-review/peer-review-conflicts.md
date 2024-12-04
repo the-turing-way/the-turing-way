@@ -64,7 +64,7 @@ The editor-in-chief also stated that he guaranteed that the scientific standards
 
 ### Examples in Open Peer Review: 
 There are also examples of COI in open peer review, where we could find other types of conflicts that occur and make them accountable.
-We provide below some examples in the open-source community:
+We provide below some examples in the open-source community due to co-authorship and shared affiliations:
 
 * Journal of Open Source Education: a reviewer of an [education-focused resource](https://github.com/openjournals/jose-reviews/issues/259#issuecomment-2393882259) indicated a co-authorship on a large author line paper and a little more interaction with the author through a large multi-investigator/multi-institutional effort. The editor-in-chief waived the conflict stressing the scope and open peer-review nature of the journal towards a more constructive and less gatekeeping goal. 
 * Environmental Data Science Book (EDS book): a reviewer of a notebook submission raised a [potential COI](https://github.com/alan-turing-institute/environmental-ds-book/issues/236#issuecomment-2021527918) because of a shared affiliation between the editor-in-chief who acted as an editor and authors of an open-source tool showcased in the notebook. The immediate follow-up was assigning a different editor to handle the revision of the submission.
