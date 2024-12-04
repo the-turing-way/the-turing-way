@@ -872,6 +872,8 @@ chapters:
       - title: Accessibility
         file: community-handbook/accessibility
         sections:
+          - title: Accessibility Policy
+            file: community-handbook/accessibility/accessibility-policy
           - title: Event Organising
             file: community-handbook/accessibility/accessibility-event-organising
           - title: Alt text
