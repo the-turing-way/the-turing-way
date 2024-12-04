@@ -55,6 +55,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create possibilities for people to ask for support to attend your event.
 - Create a reporting guideline for any questions, concerns or breaches of the Code of Conduct.
 - Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription.
+- Consider allocating a budget that can be dedicated to addressing transportation needs for attendees who benefit from accessibility support. 
 - Create one single location for all the information (like an A-to-Z) regarding the events.
 - Host a few community calls in different stages of planning to involve the audience in the process.
 - Invite volunteers who can help you troubleshoot some specific issues.
@@ -107,7 +108,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
   - Hardware or equipment for facilitating participation, such as headsets, microphones, webcams (create a list of hardware that can be funded by the support grant).
   - High-speed internet for the duration of the event.
   - Other aspects that may improve the quality of participation of the applicants.
-- Consider the possibility of waiving the registration fee for people from low-income organisation/country.
+- Consider the possibility of waiving the registration fee for people from a low-income organisation/country.
 - Create a rubric for selection.
 - Share the application form before the registration deadline.
 - Communicate clearly how many participation support grants are available and what they include.
@@ -120,6 +121,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Identify your target audience within your community and organisation.
 - Invite community members to suggest ideas and collectively choose the most relevant theme.
 - Identify the most suitable time zone and the duration of the event.
+- Avoid scheduling your event on national holidays or religious and cultural days, you may also want to consider avoiding other days and timings that would make attendance difficult for your desired audience.
 - Use a standard time with a link to different time zones (like [arewemeetingyet](https://arewemeetingyet.com)) when communicating about the event.
 - Add the exact date, time, location (if any!) and choice of tool that will be used for communication.
 
@@ -142,7 +144,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 ***Mid-phase***
 
-It is important to consider what information you need to collect and how you will do this in the registrations form.
+It is important to consider what information you need to collect and how you will do this in the registration form.
 
 For more details, see the next sub-chapter on registration forms. 
 
@@ -207,7 +209,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
   - If possible, provide a grant to buy necessary equipment such as headphones, webcams, and/or high-speed internet.
 - Share the participation guidelines, code of conduct and contact information of people who can help with any issues regarding the meeting.
 - Send a reminder with the links to the document(s) and other important resources to all the participants a week and a day in advance.
-- Create slides or presentations that might be needed from the organisers side (welcome, wrap up).
+- Create slides or presentations that might be needed from the organiser's side (welcome, wrap up).
 
 ### Organise a pre-event community call
 *Often referred to by different names such as installation party, coffee-hours or set-up test fest*
@@ -256,7 +258,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Plan the seating arrangement so that people are facing to the main screen/camera.
 - Test the screen with different light intensity.
 - Arrange all the required materials and equipment, like extension cords or power strips.
-- Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirement and other location-specific requests.
+- Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirements and other location-specific requests.
 - Arrange for beverages/snacks for the breaks, and ensure that the catering service will label the food for contents/allergens.
 - If organising any location-specific social event, run that in parallel to the remote social event.
   - Book social event venue, transfer, and catering and communicate them clearly.
@@ -270,7 +272,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 - Start the video call, or any communication channel 30 minutes before the event to check that everything works.
 - Share links to the documents and other resources for the event on the chat system like Slack.
-- Remind attendees of the community participation guideline and the Code of Conduct.
+- Remind attendees of the community participation guidelines and the Code of Conduct.
 - Introduce the organising committees and the Code of Conduct contact person for the event.
 - Introduce the format of the meeting and when the breaks are scheduled.
 - Explain the basic protocols for participation.
@@ -293,8 +295,9 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 (cl-organising-conferences-after)=
 ## After the event
 
+- Consider how you will ensure that everyone is able to access return transport safely if your conference is hosted in-person or hybrid.
 - Create a debrief document to capture what went well and what could be improved in future events.
-- Create a small overview blog post to share the main highlights from the event with community/participants immediately.
+- Create a small overview blog post to share the main highlights from the event with the community/participants immediately.
 - Collect any additional documents or information mentioned by others/speakers during the events.
 - If the event sessions and talks were recorded, process and publish the recorded videos within a defined time frame.
 - Send thank you emails to everyone with the link of the complete notes and all the relevant information.

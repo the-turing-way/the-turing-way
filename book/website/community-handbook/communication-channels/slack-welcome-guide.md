@@ -2,6 +2,8 @@
 
 # Welcome to *The Turing Way* Slack!
 
+**Not a member of our Slack workspace? You can join using the following link: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)**
+
 Slack is one of our core communication channels within the *The Turing Way* community. It is a space where folks ask questions, learn about each other's work, and get involved with *The Turing Way* and other projects. While it is not the *only* communication channel used by the community, it is a popular platform, increasingly used by remote teams around the world.
 
 *Here is a short guide to the default slack channels (meaning, you've already been added to them when you joined this space!)*:
@@ -43,7 +45,7 @@ If there are any other channels you'd like to see in the workspace, or ones that
 
 ## Best Practices for using Slack
 
-As with all of our communication channels, *The Turing Way* slack abides by our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html).
+As with all of our communication channels, *The Turing Way* slack abides by our [Code of Conduct](https://book.the-turing-way.org/community-handbook/coc.html).
 
 We are in the process of developing platform-specific guidelines for Slack and other community platforms. While these are being developed, here are a few general guidelines to get you started:
 
@@ -63,6 +65,6 @@ Is there anything we are missing? Please reach out to the Research Community Man
 
 ## Don't know where to start?
 
+* Join us at an upcoming Onboarding Call - hosted every 2 months!
 * Feel free to send me (Anne Lee Steele) a message on Slack or email at asteele@turing.ac.uk if you have any questions or don’t know where to start. I’m the Community Manager (but just one of many leaders in this community), and here to help! 
-* You can drop into [Office Hours](https://hackmd.io/@turingway/office-hours) with me every Friday, or schedule a chat on [Calendly](https://calendly.com/aleesteele/).
 * Join us at a [Collaboration Cafe](https://hackmd.io/@turingway/collaboration-cafe), which happen on a bi-monthly basis on Wednesdays to meet more members of the community, and learn more about the project.

@@ -8,7 +8,7 @@ Individual contributors are welcome to provide their details under the section "
 Organisational support and collaborations are listed in the section, "Collaborating Organisations".
 Each organisation's name and details will be listed separately followed by the contribution details of each contributor from that organisation.
 
-Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
+Please see the [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 (contributors-record-highlights)=
 ## Personal Highlights from _The Turing Way_ Contributors
@@ -62,7 +62,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
 > Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
 > Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
-> Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://the-turing-way.netlify.app/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
+> Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://book.the-turing-way.org/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
 > I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
 
 ### Anne Lee Steele
@@ -83,23 +83,51 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Personal highlights:
 > After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, and project sustainability, involving more perspectives from my fields (of anthropology and sociology!), and tying the project more closely to other open communities that work on issues of ethics, diversity, and inclusion through data-driven practices.
 
-### Alexandra Araujo Alvarez
+### Léllé Demertzi
 
-* Role: 
- * Project Delivery Team member, Research Project Manager (2023-Present)
- * Book Dash Organiser: 2023
-* Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
-* ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
+* Role: Research Project Manager, The Turing Way
+  * Core Member, Book Dash Participant (2024)
+  * TPS Staff (2024-Present), Project Delivery Team member
+* GitHub id: [Léllé Demertzi](https://github.com/LelleDi)
+* ORCID: [0009-0009-2782-0408](https://orcid.org/0009-0009-2782-0408)
+* Short bio:
+> Léllé is the Research Project Manager for The Turing Way, since September 2024. An architect by training, she has previously worked in cultural management in art institutions around the world. She is Organiser for the AI&Arts Interest Group at The Alan Turing Institute, where she can bridge her art practice with computational methods, as well as promote scholarship and engagement activities in the cross-disciplinary field.
+* Personal highlights:
+> So looking forward to the upcoming **November 2024 Book Dash**, it will be my first one! I'm really excited to support people from around the world to contribute to the Turing Way
+> I am also supporting the 2024 Cohort of The Turing Way Practitioners Hub, with 20 participating companies and 50 Experts in Residence.
+* Personal Quote:
+> As a new member, I am eager to get to know the community and explore new spaces of collaboration within the creative sector.
+
+### Arielle Bennett
+
+* Role:
+  * Core Member, Book Dash Planning Committee (2021-2023)
+  * TPS Staff (2020-Present), Project Delivery Team member
+  * Book Dash Participant (2020)
+* GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
+* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
 
 * Short bio:
-> Alexandra is the Research Project Manager for The Turing Way project, under the Tools, Practices and Systems research programme from February 2023.
-> Alexandra was born and raised in Lima, Peru. She has an Economics Engineering degree with a master’s in marketing.
-> Her experience in Research Project Management started in 2021 at People’s Palace Projects, an art research centre connecting academics, artists and policymakers. There she covered the Mental Health and Wellbeing projects.
-> Prior to that, I lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
-> 
+> Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
+
 * Personal highlights:
-> Alexandra is a positive and curious person who enjoys learning and discovering new things.
-> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub. 
+> Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
+> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
+> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
+> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
+> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
+> In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
+> In **2023 Book Dashes** I've enjoyed exploring my creative side with writing, and seeing everyone's first contributions. I've also helped to revise parts of the Guide for Project Design.
+> In **2024 Book Dashes** I've hosted discussions on culture change models, reviewed a lot of PRs and broadened our timezone coverage with late night sessions for folks in the Americas. 
+
+* More information:
+> The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
+
+* Personal Quote:
+> It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
+> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
+
+
 
 ## Contributors information are listed alphabetically**
 
@@ -198,6 +226,26 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
 > Slightly less on topic, but just as important, I am also passionate about the development and adoption of best governance practices. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
 
+
+### Alexandra Araujo Alvarez
+
+* Role: 
+ * Senior Research Community Manager, BridgeAI (2024-current)
+ * Project Delivery Team member, Research Project Manager (2023-2024)
+ * Book Dash Organiser: 2023
+* Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
+* ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
+
+* Short bio:
+> Alexandra is the Research Project Manager for The Turing Way project, under the Tools, Practices and Systems research programme from February 2023.
+> Alexandra was born and raised in Lima, Peru. She has an Economics Engineering degree with a master’s in marketing.
+> Her experience in Research Project Management started in 2021 at People’s Palace Projects, an art research centre connecting academics, artists and policymakers. There she covered the Mental Health and Wellbeing projects.
+> Prior to that, I lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
+> 
+* Personal highlights:
+> Alexandra is a positive and curious person who enjoys learning and discovering new things.
+> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub. 
+
 ### Aman Goel
 
 - Role: Book Dash participant (2022)
@@ -274,7 +322,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Anna Krystalli
 
 * Role:
-  * [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
+  * [Code of Conduct Committee](https://book.the-turing-way.org/community-handbook/coc/coc-enforcement.html) member (2018 - present)
   * Project Delivery Team Member (2018 - 2019)
   * Role: Book Dash Participant (2019)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
@@ -312,34 +360,6 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Quotes:
 > There is so much to learn from The Turing Way handbook and Book Dashes' participants.
-
-### Arielle Bennett
-
-* Role:
-  * Core Member, Book Dash Planning Committee (2021-2023)
-  * TPS Staff (2021-Present), Project Delivery Team member
-  * Book Dash Participant (2020)
-* GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
-* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
-
-* Short bio:
-> Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
-
-* Personal highlights:
-> Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
-> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://the-turing-way.netlify.app/ethical-research/activism.html) and given presentations on the topic at conferences.
-> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
-> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
-> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
-> In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
-
-* More information:
-> The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
-
-* Personal Quote:
-> It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
-> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
-
 
 ### Arya A.
 
@@ -526,7 +546,7 @@ I also hope that it can convince people who don't consider themselves capable of
 > - Learning about the project and [meeting Kirstie](https://github.com/the-turing-way/the-turing-way/blob/ebbaf8f5f3a66da441beafc690a1b16a9c50d15b/communications/newsletters/newsletter_08_Nov2019.md#acknowledgements-and-celebrations) during a rough patch in my PhD — learning about the project brought me hope for the future!
 > - My [first issue](https://github.com/the-turing-way/the-turing-way/issues/1114) followed several small contributions and then [the first gnarly infrastructure PR](https://github.com/the-turing-way/the-turing-way/pull/2039) I made, which started my love(/hate)-affair with Jupyter Book.
 > - Working with [Malvika](https://github.com/malvikasharan) to [rewrite the landing page](https://github.com/the-turing-way/the-turing-way/pull/1961) (particularly proud of _"Warning: Do not try to read the _The Turing Way_ from start to finish!"_)
-> - [Learning how to build the book locally](https://web.archive.org/web/20221104150942/https://fosstodon.org/@da5nsy/108760121842868538) from [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record.html#sarah-gibson) (and learning about miniconda in the process!) — a process which is now written up [here](https://the-turing-way.netlify.app/community-handbook/local-build.html#ch-local-build), but wasn't at the time, and so it felt like secret magic, and an infrastructure nerd's rite-of-passage.
+> - [Learning how to build the book locally](https://web.archive.org/web/20221104150942/https://fosstodon.org/@da5nsy/108760121842868538) from [Sarah Gibson](https://book.the-turing-way.org/afterword/contributors-record.html#sarah-gibson) (and learning about miniconda in the process!) — a process which is now written up [here](https://book.the-turing-way.org/community-handbook/local-build.html#ch-local-build), but wasn't at the time, and so it felt like secret magic, and an infrastructure nerd's rite-of-passage.
 > - Using that knowledge to finally [wipe all of the long-standing build warnings and errors](https://github.com/the-turing-way/the-turing-way/issues/2611) so that we could [implement CI to catch bugs before they were merged into main from then on](https://github.com/the-turing-way/the-turing-way/pull/2861)!
 > - [Presenting at FOSS Backstage in Berlin](https://github.com/the-turing-way/the-turing-way/issues/2993#issuecomment-1629424116) with [Anne Lee Steele](https://github.com/aleesteele), on the subject of "maintenance" and ideas around transitioning from a small scrappy project to a long-term-sustainable project.
 > - In 2023 I'm focusing on the more organisation-level infrastructure ([what tools do we use and why](https://github.com/the-turing-way/the-turing-way/issues/3218)?), and as part of that, I was proud to set up [the Turing Way's mastodon account](https://fosstodon.org/@turingway/108278354199514905).
@@ -700,7 +720,7 @@ about open and reproducible (data) science. I am currently thinking a lot about
 how we could use the content from The Turing Way and turn it into a course.
 This idea was also part of an application, where I proposed to start a new
 group on *Open AI*.
-> Specifically, I have co-authored these chapters: [Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html), [File Naming Convention](https://the-turing-way.netlify.app/project-design/filenaming.html), and reviewed many contributions.
+> Specifically, I have co-authored these chapters: [Research Compendia](https://book.the-turing-way.org/reproducible-research/compendia.html), [File Naming Convention](https://book.the-turing-way.org/project-design/filenaming.html), and reviewed many contributions.
 > I regularly recommend The Turing Way as a resource. Both for learning more
 about reproducible data science and also when discussing specific topics.
 I think that people are taking it on and reading it :)
@@ -910,6 +930,21 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 > Structure of the book and its RDM part, debugging figure views, content: version control for datasets + git for the whole research project data.
 - Quotes: The Turing Way is getting my number one source of information, on top of being my primary source of figures ;).
 
+### Jyoti Bhogal
+
+* Role: Book Dash participant (2024)
+* GitHub id: [jyoti-bhogal](https://github.com/jyoti-bhogal) 
+* ORCID: [0000-0002-6289-0737](https://orcid.org/0000-0002-6289-0737)
+* Short bio: 
+> I am working as a Technical Community Manager at Research Software Alliance. I have a Master’s degree in Statistics. My career journey spans roles such as a software quality engineer, data analyst, and data modeler. I am also an advocate for open-source and open science. In addition, I am the co-founder and lead of the RSE Asia Association and a recent graduate of the Community Engagement Fundamentals (CEF) course by the Center for Scientific Collaboration and Community Engagement (CSCCE). I am also an active member of several international communities such as R-Ladies Global, Open Life Science, and the International Council of RSEs. These communities have played an integral part in my professional development and inspired my current work.
+ 
+* Personal highlights:
+> I appreciate the welcoming and highly collaborative nature of The Turing Way Community. My experience of Book Dash was full of people ready to promptly advise/guide each other for any process-related queries. The social sessions like the meme-making workshop, Scriberia artist sessions, and the Share-outs on the event's last day were intriguing.
+> I had initially intended to work on one of the `good-first-issues` of adding a colour palette to the Style Guide. However, during the Onboarding sessions, I met some people who also wanted to work on a topic that I was interested in. Working together helped us bring up a new chapter for 'Personal Websites' under the Guide for Communication. Team work is dream work!
+   
+* Quotes:
+> I hope to contribute more to the chapter through Collaboration Cafe or the upcoming Book Dash in 2025!
+
 <!---K--->
 ## K
 
@@ -948,7 +983,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Personal highlights:
 >I started familiarizing myself with the GitHub environment and learned how to collaborate through it. It was especially nice to meet the vibrant community working together on the Turing Way!
-> Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html).
+> Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://book.the-turing-way.org/reproducible-research/rdm/rdm-toolkits.html).
 
 
 <!---L--->
@@ -1068,7 +1103,7 @@ what it would cover.
 
 * Personal highlights:
 > It's been a wonderful experience contributing to The Turing Way while meeting inspiring people from diverse backgrounds along the way. 
-> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter. 
+> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter. 
 > These Book Dashes are a great way to encourage open collaboration, sharing ideas and working on helpful tools to make things such as open science and reproducibility more practical and friendlier for the wider community.
 
 ### Margaret Wanjiku
@@ -1389,7 +1424,7 @@ what it would cover.
 > I am a Data Wrangler based at The Alan Turing Institute. See my profile [here](https://www.turing.ac.uk/people/researchers/rachael-stickland) for more information.
 
 * Personal highlights:
-> Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
+> Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
 
 ### Reshama Shaikh
 
@@ -1457,7 +1492,6 @@ what it would cover.
 > Sarah is passionate about working with domain experts to leverage cloud computing in order to accelerate cutting-edge, data-intensive research and disseminate the results in an open, reproducible and reusable manner.
 > She also holds a Fellowship with the Software Sustainability Institute and advocates for best software practices in research.
 
-
 ### Saranjeet Kaur Bhogal
 
 * Role:
@@ -1479,6 +1513,27 @@ what it would cover.
 
 * More information:
 > I like creating zines & cartoons!
+
+### Sebastián Ayala Ruano
+
+* Role: Book Dash participant (2024)
+* GitHub id: [sayalaruano](https://github.com/sayalaruano) 
+* ORCID: [0000-0001-9756-6745](https://orcid.org/0000-0001-9756-6745)
+* Website: [https://sayalaruano.github.io/](https://sayalaruano.github.io/)
+  
+* Short bio:
+> I am a bioinformatician and freelance data scientist. 
+> Currently, I work as a research assistant in the Multiomics Network Analytics Group at the Technical University of Denmark, where I focus on projects at the intersection of bioinformatics, artificial intelligence, and network science. 
+> Being passionate about open science, I contribute to research and software development communities, including the [ISCB Student Council](https://iscbsc.org/), [The Carpentries](https://carpentries.org/), the [Streamlit Creators](https://streamlit.io/creators), and the [Open Seeds program by OLS](https://openlifesci.org/).
+
+* Personal highlights:
+> Being a first book dasher, I was a bit lost and overwhelmed, but everyone was eager to help and guide me on different aspects of the project and how to make my first contribution.
+> I also loved socializing with the community members and participating in the Scriberia session.
+> During the 2024 November Book Dash, I worked with Johanna Bayer and Jyoti Bhogal to start a new chapter for 'Personal Websites' under the guide for Communication.
+> Our pull request is available [here](https://github.com/the-turing-way/the-turing-way/pull/3937).
+
+* Quotes:
+> The _Turing Way_ is one of the most welcoming and inclusive communities I've been part of. Thanks for building such an incredible space for learning and collaboration.
 
 ### Shern Tee
 
@@ -1587,7 +1642,7 @@ what it would cover.
   * TPS Staff (2021-Present)
   * Core Member, Reviewers & Editors Working Group (2022)
   * Book Dash Participant (2021-2023)
-* GitHub id: Shelton
+* GitHub id: [vhellon](https://github.com/vhellon)
 * Twitter: @vickyhellon
 
 * Short bio:
@@ -1618,17 +1673,17 @@ what it would cover.
 >I hold a master's degree in Information, a Postgraduate Diploma in Demography and Statistics and a bachelor's degree in Library and Information Science from Makerere University, Kampala-Uganda. 
 >I am currently the Africa Regional Secretary of the International Association for Social Science Information Service and Technology (IASSIST) and a member of the carpentries community.
 
-*** Personal highlights:**
+**Personal highlights:**
 > It was  such a great opportunity to participate in the 2022 BookDash.
->It was also a great o fantastic and  exciting experience for me to further my understanding of  GitHub, and  participate in and contribute my first chapter of data curation in the Research Data Management book. 
-<With more practice and contribution I will become proficient with GitHub and I hope to adopt it for my institution for collaborative purposes.  
-<I enjoyed working with fellow participants and the amazing Turing Team to successfully have my first chapter.
-<The 2022 Book Dash was such a fantastic amazing experience and look forward to continue contributing.   
+> It was also a great, fantastic and exciting experience for me to further my understanding of GitHub, and  participate in and contribute my first chapter of data curation in the Research Data Management book. 
+> With more practice and contribution I will become proficient with GitHub and I hope to adopt it for my institution for collaborative purposes.  
+> I enjoyed working with fellow participants and the amazing Turing Team to successfully have my first chapter.
+> The 2022 Book Dash was such a fantastic amazing experience and look forward to continue contributing.   
 
 * Quotes:
-> Being part of this year's Book Dash has not only made me appreciate using GitHub and how Turing Way is contributing to data science, it has also provided me with the necessary skills to use GitHub, which I didn't have at all.
-< I have learnt how to contribute using GitHub.
-< I hope more colleagues from Africa can also have an opportunity to participate and contribute to these projects.
+> Being part of this year's Book Dash has not only made me appreciate using GitHub and how Turing Way is contributing to data science, but it has also provided me with the necessary skills to use GitHub, which I didn't have at all.
+> I have learnt how to contribute using GitHub.
+> I hope more colleagues from Africa can also have an opportunity to participate and contribute to these projects.
 
 <!---X
 ## X--->
@@ -1638,5 +1693,34 @@ what it would cover.
 ## Y--->
 
 
-<!---Z
-## Z--->
+
+## Z
+
+### Zeena Shawa
+
+* Role:
+  * PhD student (2021-Present)
+  * Book Dash Participant (June 2024)
+  * Turing-Roche Community Scholar (October 2023-2024)
+* GitHub id: [Zeena-Shawa](https://github.com/Zeena-Shawa)
+
+* Short bio:. 
+> Zeena Shawa is PhD student in the i4Health Medical Imaging CDT programme at University College London. She is part of the Progression of Neurodegenerative Diseases (POND) Group in the Centre for Medical Image Computing (CMIC), supervised by Dr. Neil Oxtoby and Dr. Rimona Weil. Her PhD project aims at understanding Parkinson’s disease progression using machine learning approaches developed within POND, with a focus on medical imaging data. The insights obtained from this can aid in understanding disease mechanisms, identifying biomarkers associated with disease progression and thus potentially providing targets for therapeutic development. 
+> 
+> Zeena was an Enrichment Student at the Alan Turing Institute, where she first engaged with the Turing-Roche Partnership and started looking at imputing missing data. She was also part of the 2023/2024 Turing-Roche Partnership Community Scholar Scheme.
+
+* Personal highlights:
+> The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missing-data` Chapter in the Turing Way handbook, consolidating what I learned during the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) (and more) with current research of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).  Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets. 
+> A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session. It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).
+
+### Zoë Turner
+
+* Role:
+  * Founder of NHS-R Community
+* GitHub id: [Lextuga007](https://github.com/Lextuga007)
+
+* Short bio:. 
+> I’m a Senior Data Scientist at the Midlands Decision Support Network which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. I’m a proud Senior Fellow of the NHS-R Community. I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my {distill} blog site.
+
+* Personal highlights:
+> _Adding highlight here!_

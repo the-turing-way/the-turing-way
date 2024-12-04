@@ -5,7 +5,7 @@
 ---
 height: 500px
 name: licensing
-alt: "A hand reaches out of an open safe and makes a thumbs up gesture. The Safe is high-tech tooking with circuit tracery on its surface. The thumb of the hand looks like a signed document. There is a happy face in green looking at the thumbs up from the open safe. In contrast on the other side of the image there is a locked version of a similar safe. There is a red and grumpy face looking at the locked safe which is being shaken in frustration."
+alt: "A hand reaches out of an open safe and makes a thumbs up gesture. The Safe is high-tech looking with circuit tracery on its surface. The thumb of the hand looks like a signed document. There is a happy face in green looking at the thumbs up from the open safe. In contrast on the other side of the image there is a locked version of a similar safe. There is a red and grumpy face looking at the locked safe which is being shaken in frustration."
 ---
 Licensing. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -19,7 +19,7 @@ No previous knowledge is needed, this chapter explains how important it is to un
 ## Summary
 
 > This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
-> With British English, however, **license** is a noun (as in, _to issue a license_), while **license** is a verb (as in, _they licensed the event_).
+> With British English, however, **licence** is a noun (as in, _to issue a licence_), while **license** is a verb (as in, _they licensed the event_).
 
 'Intellectual Property (IP)' law is a complex subject.
 However some understanding of it is important for anyone producing creative works governed by it including software, datasets, graphics and more.
@@ -33,7 +33,7 @@ Consequently, this chapter will feature some discussion of the ethical ramificat
 It aims to be informative about the implications of licencing choices for the use of your work but not to prescribe a specific ethic, as there are divergent schools of thought on the ethics of different licencing choices.
 
 Many of the concepts which apply to the licensing of software, data, AI/ML models, hardware and other creative works such as visuals share common attributes and concepts which will be covered here.
-We will address the specifics of licensing each of these types of output in their own sub-chapters, as well as a separate sub-chapter on license compatability.
+We will address the specifics of licensing each of these types of output in their own sub-chapters, as well as a separate sub-chapter on license compatibility.
 
 
 
@@ -93,7 +93,7 @@ To ensure that patents held by the authors of software do not impact on the free
 
 Trademarks are a brand, symbol, or identifying mark associated with a project, product or service.
 Trademarks differ from the copyright & patent in that their primary function is consumer protection.
-They prevent bad actors from impersonating recongnisable brands and deceiving consumers into purchasing products that are not being offered by who they think they are.
+They prevent bad actors from impersonating recognisable brands and deceiving consumers into purchasing products that are not being offered by who they think they are.
 They, like patents, must also be registered, but unlike patents, this can be done after they have been made public.
 
 Registering a trademark generally comes with an administrative fee, but is not as costly as maintaining a patent.
@@ -194,7 +194,7 @@ The FSF contends that all software should respect these freedoms and that all so
 If developers are bad stewards of a free software projects, the friction for replacing them is lower, as all of the work put into the software does not need to be re-done.
 A 'fork' of the project can be made, developed and maintained by different developers whom the community of users deem a better steward.
 This is not true of proprietary projects where the developers own the rights to the code and thus cannot be readily replaced by the community of users if they begin to abuse these users who are now held captive by switching costs.
-It should be noted that an acrimonious project fork is quite uncommon and by no means always sucessful, it is the move of last resort.
+It should be noted that an acrimonious project fork is quite uncommon and by no means always successful, it is the move of last resort.
 The credible threat of a fork redresses the power balance between developers and users giving users leverage if developers make unpopular choices.
 
 Copyleft licenses are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
@@ -297,8 +297,8 @@ In the case of academic works attribution requirements can serve to re-enforce t
           ---
           Creative Commons License Types. From [George Washington University Libraries Open Textbooks](https://libguides.gwu.edu/opentextbooks/creative_commons). Used under a CC-BY 4.0 licence.
           ```
-- Machine Learning (ML) / artificial inteligence (AI) systems
-    - Creative commons and Software licenses can be applied to different parts of ML/AI systems, CC to training data and weights, software licenses to code used in training / depoyment.
+- Machine Learning (ML) / artificial intelligence (AI) systems
+    - Creative commons and Software licenses can be applied to different parts of ML/AI systems, CC to training data and weights, software licenses to code used in training / deployment.
     - [Responsible AI Licenses (RAIL)](https://www.licenses.ai/)
 
 (rr-licensing-enforcement)=
@@ -311,14 +311,14 @@ But this can be hard to discover, as it is not immediately obvious if copyleft c
 
 Organisations which take legal action in defence of free software, and which can provide information and resources for anyone else seeking to do the same, include:
 
-- [Software Freedom concervancy](https://sfconservancy.org/)
+- [Software Freedom Conservancy](https://sfconservancy.org/)
 - [Software Freedom Law Centre](https://softwarefreedom.org/)
 - [FSF - licensing and compliance](https://www.fsf.org/licensing/)
 - [Free Software Foundation Europe (FSFe) - legal work](https://fsfe.org/activities/legal.en.html)
-- [Electronic Fontiers Foundation - legal cases](https://www.eff.org/cases)
+- [Electronic Frontiers Foundation - legal cases](https://www.eff.org/cases)
 
 (rr-licensing-edge)=
-### Pertinant edge cases
+### Pertinent edge cases
 
 (rr-licensing-edge-clas)=
 #### Contributor license Agreements
@@ -348,9 +348,9 @@ A small minority of people simply will not participate if doing so requires that
 (rr-licensing-where)=
 ## How and where to add licenses
 
-Wherever you share your project it is likely to be organised in a heirarchy of directories, place a plain text file containing the license in the top level directoty of your project.
-If it is a git project for example that is shared on a git forge like github or gitlab, using a standard file name like `LICENSE` will allow your license to be picked up the the host and displayed on your project.
-If the license that you have used has a standarised short name from [SPDX](https://spdx.org/licenses/) then this will be displayed as a small icon on your projects home page by these hosts.
+Wherever you share your project it is likely to be organised in a hierarchy of directories, place a plain text file containing the license in the top level directory of your project.
+If it is a git project for example that is shared on a git forge like GitHub or GitLab, using a standard file name like `LICENSE` will allow your license to be picked up the host and displayed on your project.
+If the license that you have used has a standardised short name from [SPDX](https://spdx.org/licenses/) then this will be displayed as a small icon on your projects home page by these hosts.
 It can also be useful to include license information in the form of standard strings at the top of each text file in your project.
 There are useful tools which automate this available from [REUSE](https://reuse.software/) a project from the [FSFe](https://fsfe.org/) which developed the spec.
 This is especially true if your project contains material that is licensed in multiple different ways or a part of your project is being used in someone else's which uses a different (compatible) license.

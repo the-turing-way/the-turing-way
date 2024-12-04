@@ -77,7 +77,7 @@ This can present problems for working openly!
 
 You may use an open license to share code, or content, or both.
 There are lots of licenses designed especially for sharing broadly, and organizations like Creative Commons and the Free Software Foundation have created tools and resources to facilitate sharing of content, data and code.
-There is more information in the [Licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html) chapter.
+There is more information in the [Licensing](https://book.the-turing-way.org/reproducible-research/licensing.html) chapter.
 
 ## Tort law
 
@@ -114,7 +114,7 @@ See details in the chapters on {ref}`er-activism` for more details.
 
 Policy is a general term for a set of ideas or principles that guide actions in particular situations.
 Policies are not legally binding, but they are designed to encourage certain kinds of behaviours and discourage others.
-For example, the Turing Way community agrees to abide by the policy set out in the [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html).
+For example, the Turing Way community agrees to abide by the policy set out in the [Code of Conduct](https://book.the-turing-way.org/community-handbook/coc.html).
 
 Policies are agreed between groups of people: this can be at organisational, intra-organisational, or governmental level.
 It is useful to be aware, for example, of policies on ethical research and innovation that are set by your government, or your funding organisation.
