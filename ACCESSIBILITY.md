@@ -76,7 +76,7 @@ Knowing this, we are working to develop processes that enable us to action and r
 
 ## Confidentiality
 
-By default, all reports will be kept confidential. If submitted through a non-anonymised option, when the team discusses incidents and feedback, we will anonymize details as much as we can to protect reporter privacy. In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+By default, all reports will be kept confidential. If submitted through a non-anonymised option, when the team discusses incidents and feedback, we will anonymise details as much as we can to protect reporter privacy. In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
 ## Acknowledging Third-Party Platforms
 
