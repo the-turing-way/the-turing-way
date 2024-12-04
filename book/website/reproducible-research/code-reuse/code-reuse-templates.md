@@ -46,14 +46,18 @@ Software templates are like shortcuts for starting and managing projects. For re
 ## Examples of Great Templates
 
 1. [**NLeSC Python Template**](https://github.com/NLeSC/python-template)  
+    A robust template for Python projects, including research software best practices and has multiple profiles for different use cases.
 
 1. [**Julia Besties**](https://github.com/JuliaBesties)
+    A collection of templates and tools for developing high-quality Julia projects.
 
-1. [**Copier Template for C Projects**](https://github.com/jspaaks/copier-template-for-c-projects)  
+1. [**Copier Template for C Projects**](https://github.com/jspaaks/copier-template-for-c-projects)
+    A Copier-based template for C programming projects, featuring pre-configured testing and build systems.  
 
 1. [**Scientific Python Cookie**](https://github.com/scientific-python/cookie)
+    A template for scientific Python packages, optimized for projects that require rigorous testing and extensive documentation.
 
 1. [**FAIR Python Cookiecutter**](https://github.com/Materials-Data-Science-and-Informatics/fair-python-cookiecutter)  
-
+    A Cookiecutter template for Python projects designed with FAIR principles in mind, emphasizing reproducibility and metadata inclusion.
 
 ## Conclusion
