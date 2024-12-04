@@ -809,6 +809,8 @@ chapters:
             file: community-handbook/coc/coc-enforcement
           - title: Acknowledgements
             file: community-handbook/coc/coc-acknowledgement
+      - title: Contributing to The Turing Way
+        file: community-handbook/contributing-guideline
       - title: Style Guide
         file: community-handbook/style
         sections:
@@ -872,10 +874,14 @@ chapters:
       - title: Accessibility
         file: community-handbook/accessibility
         sections:
+          - title: Accessibility Policy
+            file: community-handbook/accessibility/accessibility-policy
           - title: Event Organising
-            file: community-handbook/accessibility/event-organising
+            file: community-handbook/accessibility/accessibility-event-organising
           - title: Alt text
-            file: community-handbook/accessibility/alt-text
+            file: community-handbook/accessibility/accessibility-alt-text
+          - title: Communication Platforms
+            file: community-handbook/accessibility/accessibility-comms-platforms
       - title: Communication Platforms
         file: community-handbook/communication-channels
         sections:
