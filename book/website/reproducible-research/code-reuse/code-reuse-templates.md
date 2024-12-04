@@ -27,6 +27,8 @@ When new team members join your project, they can quickly get up to speed if the
 
 ### 4. **They Make Research Reproducible**
 
+Reproducibility is essential in research. Templates help by including files like `README` (with setup instructions), tests, configuration files, a dependency management solution. For research software, they can also include information or data to reproduce research results.
+
 ### 5. **They Save Time**
 Setting up a new project can feel like a chore—creating folders, writing setup scripts, or installing tools. Templates handle all this for you so you can jump straight into the real work.
 
