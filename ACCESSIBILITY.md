@@ -66,7 +66,6 @@ These may take place at our [Collaboration Cafe](https://book.the-turing-way.org
 
 We recognise that oftentimes feedback and evaluation forms operate as 'blackboxes' that receive information without taking actionable steps to address them. Knowing this, we are actively working to develop processes that enable us to implement feedback and to report transparently. These may include: 
 
-Knowing this, we are working to develop processes that enable us to action and report transparently on feedback given through these channels. This may include:
 
 - Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback.
   Currently, this process is under development.
