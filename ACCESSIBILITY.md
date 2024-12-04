@@ -23,7 +23,7 @@ While accessibility is commonly understood with respect to disability, we – me
 We recognise the complex and interlinking ways in which intersectionality affects identity, and thereby, access or inclusion within any community project like _The Turing Way_. So in this sense, our accessibility practices may overlap with practices that enable inclusion more broadly within any community.
 
 In developing this policy, we aim to draw from the [access-centered framework](https://accesscenteredmovement.com/what-access-centered-means/) in describing access as a constant process that changes in each space with each individual. This document is a part of a broader collection of documentation across accessibility, listed below:
-- Accessibility policy: Our vision and guiding principles for how we practice accessibility.
+- [Accessibility policy](https://github.com/the-turing-way/the-turing-way/blob/main/ACCESSIBILITY.md): Our vision and guiding principles for how we practice accessibility.
 - Community Handbook Accessibility Guidelines: Practical advice to build accessibility into your contributions and activity within the community
 - Accessibility Guide: A broader discussion of accessibility and access-related practices that extend beyond The Turing Way
 
