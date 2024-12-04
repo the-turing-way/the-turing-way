@@ -1,7 +1,7 @@
 (ch-accessibility-comms-platforms)=
 # Access-centered support on Communication Platforms
 
-_The Turing Way_ uses a variety of platforms for communication (for example, social media platforms like X/Twitter, Linkedin, Mastodon) and collaboration (for example, Github, HackMD, Etherpad).
+_The Turing Way_ uses a variety of platforms for communication (for example, social media platforms like X/Twitter, Linkedin, Mastodon) and collaboration (for example, Github, HackMD, Etherpad, Miro, Excalibur).
 This chapter describes the access and inclusion-related support we provide on our communication platforms, as well as support we hope to provide in the future.
 We encourage our community to practice kindness in communicating with others and to be aware of cultural, linguistic, disability and personal differences, including the potential digital divide (in terms of unequal access to, use or impact of Information and Communication Technologies (ICT)) that may affect the way people communicate online.
 On every platform our community uses to communicate or collaborate, we aim to enable access in a broader sense as defined by our [Accessibility Policy](https://github.com/the-turing-way/the-turing-way/blob/main/ACCESSIBILITY.md).
