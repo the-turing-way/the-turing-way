@@ -83,7 +83,7 @@ We recognise that our project relies on a number of third party platforms, and t
 
 ## Acknowledgements
 
-This Accessibility Policy was created by The Turing Way.
+This Accessibility Policy was created by _The Turing Way_.
 
 In developing this policy, we have referred to numerous resources who have developed similar materials. 
 
