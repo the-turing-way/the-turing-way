@@ -809,6 +809,8 @@ chapters:
             file: community-handbook/coc/coc-enforcement
           - title: Acknowledgements
             file: community-handbook/coc/coc-acknowledgement
+      - title: Accessibility Policy
+        file: community-handbook/accessibility-policy
       - title: Style Guide
         file: community-handbook/style
         sections:
