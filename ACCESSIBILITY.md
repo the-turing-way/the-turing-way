@@ -64,7 +64,7 @@ These may take place at our [Collaboration Cafe](https://book.the-turing-way.org
 3. **Email the Research Community Manager or project team directly directly**: You can always email the Research Community Manager directly at asteele@turing.ac.uk with direct feedback. Alternatively, you can also reach out to her on Slack, or to any of the [project delivery team members](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 4. **Attend the Accessibility Working Group meeting**: The Accessibility Working Group meetings may be a place where you can deliver feedback in a small group environment. These meetings are held on Zoom on the second Monday of each month at 17:00 UK time. Please join the #Accessibility channel on slack for more information.
 
-We recognise that many feedback forms and other forms for gathering feedback can often operate as "blackboxes" that receive information without taking actionable steps to address them.
+We recognise that oftentimes feedback and evaluation forms operate as 'blackboxes' that receive information without taking actionable steps to address them. Knowing this, we are actively working to develop processes that enable us to implement feedback and to report transparently. These may include: 
 
 Knowing this, we are working to develop processes that enable us to action and report transparently on feedback given through these channels. This may include:
 
