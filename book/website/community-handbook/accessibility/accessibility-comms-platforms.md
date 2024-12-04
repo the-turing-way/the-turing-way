@@ -5,7 +5,7 @@ _The Turing Way_ uses a variety of platforms for communication (for example: soc
 
 This chapter describes the access and inclusion-related support we provide on our communication platforms, as well as support we hope to provide in the future.
 
-In general, we encourage an approach to communication platforms that is as accessible as possible, for as many people as possible. We encourage our community to practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online. 
+We encourage our community to practice kindness in communicating with others and to be aware of cultural, linguistic, disability and personal differences, including the potential digital divide (in terms of unequal access to, use or impact of Information and Communication Technologies (ICT)) that may affect the way people communicate online.
 
 On every platform our community uses to communicate or collaborate, we aim to enable access in a broader sense as defined by our Accessibility Policy.
 
