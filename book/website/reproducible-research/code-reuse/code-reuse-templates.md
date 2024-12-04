@@ -21,6 +21,10 @@ Templates are often built by experts and include best practices by default—lik
 
 ### 3. **They Make It Easy to Join a Project**
 
+When new team members join your project, they can quickly get up to speed if the structure is clear and consistent. Templates make onboarding a breeze by eliminating the guesswork about how things are set up.
+
+> *"I remember onboarding a new colleague last year. Thanks to the structured template we used, she was productive on day one!"*
+
 ### 4. **They Make Research Reproducible**
 
 ### 5. **They Save Time**
