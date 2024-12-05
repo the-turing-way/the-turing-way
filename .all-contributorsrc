@@ -4933,6 +4933,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "andreaczhang",
+      "name": "Chi Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32897643?v=4",
+      "profile": "https://andreaczhang.github.io",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
