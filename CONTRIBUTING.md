@@ -67,11 +67,11 @@ There are many ways to get in touch with _The Turing Way_ team!
   - We will also provide notifications on upcoming events and share useful resources on Slack.
   - You can also ping us on [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) (open source option).
 - Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
-- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ### Receiving Updates
 
-- [@turingway](https://twitter.com/turingway) on Twitter
+- [@turingway](https://twitter.com/turingway) on Twitter, [@turingway@fosstodon.org](https://fosstodon.org/@turingway) on Mastodon, and [The Turing Way](https://www.linkedin.com/company/the-turing-way/) on Linkedin
     - Follow us for regular updates
 - [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
 - [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
@@ -81,7 +81,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 - [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engages anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
 - [Weekly Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
-- [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
+- [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Mastodon, Slack and presentations.
 
 ## Contributing through GitHub
 
