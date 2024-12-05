@@ -4701,7 +4701,8 @@
         "content",
         "example",
         "doc",
-        "review"
+        "review",
+        "a11y"
       ]
     },
     {
