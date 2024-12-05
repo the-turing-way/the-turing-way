@@ -3169,7 +3169,12 @@
         "eventOrganizing",
         "a11y",
         "ideas",
-        "content"
+        "content",
+        "doc",
+        "talk",
+        "tutorial",
+        "maintenance",
+        "video"
       ]
     },
     {
