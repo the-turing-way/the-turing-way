@@ -361,7 +361,7 @@ If you would like to represent the project in your network, please open an issue
 that they can do their best to support you.
 
 We would appreciate if you could share a short abstract and your presentation by adding them to the
-[conferences folder](/conferences) and some info in the [conferences README.md](/conferences/README.md).
+[conferences folder](https://github.com/the-turing-way/conferences) and some info in the [conferences README.md](https://github.com/the-turing-way/conferences/blob/main/README.md).
 
 ## Recognising Contributions
 
