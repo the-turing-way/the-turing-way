@@ -67,11 +67,11 @@ There are many ways to get in touch with _The Turing Way_ team!
   - We will also provide notifications on upcoming events and share useful resources on Slack.
   - You can also ping us on [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) (open source option).
 - Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
-- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
 
 ### Receiving Updates
 
-- [@turingway](https://twitter.com/turingway) on Twitter, [@turingway@fosstodon.org](https://fosstodon.org/@turingway) on Mastodon, and [The Turing Way](https://www.linkedin.com/company/the-turing-way/) on Linkedin
+- [@turingway](https://twitter.com/turingway) on Twitter
     - Follow us for regular updates
 - [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
 - [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
