@@ -89,8 +89,9 @@ If a channel has become too noisy, you can additionally:
 
 #### Account Management
 
-* To change the email your slack account is attached to, message a member of _The Turing Way_ team, who will have to delete your account first, so you can join with an alternative email.
- 
+* To update the email address associated with your Slack account, follow the instructions provided on the [Slack Help page](https://slack.com/intl/en-gb/help/articles/207262907-Change-your-email-address).  
+* If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact a member of _The Turing Way_ team. They can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
+
 ### SENDING PRIVATE/DIRECT MESSAGES
 It can be helpful to others when you’re sharing resources and brainstorming solutions to “work out loud” in a specific thread because then your learning becomes a future resource for others, too.
 
