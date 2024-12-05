@@ -819,7 +819,8 @@
         "review",
         "code",
         "infra",
-        "bug"
+        "bug",
+        "a11y"
       ]
     },
     {
