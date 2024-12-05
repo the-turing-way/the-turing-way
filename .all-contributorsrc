@@ -4952,6 +4952,16 @@
         "review",
         "a11y"
       ]
+    },
+    {
+      "login": "JFormoso",
+      "name": "Jesica Formoso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32418102?v=4",
+      "profile": "https://github.com/JFormoso",
+      "contributions": [
+        "review",
+        "a11y"
+      ]
     }
   ],
   "projectName": "the-turing-way",
