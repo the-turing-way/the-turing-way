@@ -4992,6 +4992,16 @@
         "a11y",
         "review"
       ]
+    },
+    {
+      "login": "chrisdburr",
+      "name": "Christopher Burr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63010234?v=4",
+      "profile": "https://chrisdburr.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
