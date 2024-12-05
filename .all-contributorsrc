@@ -4932,7 +4932,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/108274982?v=4",
       "profile": "https://github.com/LelleDi",
       "contributions": [
-        "content"
+        "content",
+        "review",
+        "a11y"
       ]
     },
     {
