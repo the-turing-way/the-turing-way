@@ -1060,7 +1060,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Role:
  * Core Member, Accessibility Working Group Co-Lead (2023)
- * Book Dash Committee Member (2023, 2024)
+ * Book Dash Committee Member (2023-Present)
  * Book Dash participant (2022-2024)
 * GitHub ID: @LizHareDogs
 * ORCID: [0000-0002-3978-2543](https://orcid.org/0000-0002-3978-2543)
@@ -1076,7 +1076,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 of making and maintaining the book, and open science in general, more inclusive. Also planning a Guide to Accessibility -- scoping out and outlining
 what it would cover.
 > In 2023, I've been working on accessibility with the TTW leadership, both for the book itself and for the ways we work together on the book. We discussed The Turing Way's accessibility policy and a new Guide for Access, and I began a chapter on writing effective alt text.
-> In 2024, I have been a Book Dash Organising Committee member, helping with onboarding and planning with new participants, editing the accessibility policy (issue 3145), initiated reviews of a new chapter (issue 3930), and hosted three contribution sessions.
+> In 2024, I have continued being a Book Dash Organising Committee member. I organised a Fireside Chat related to accessibility for the June 2024 event, and for the November 2024 Book Dash, helped with onboarding and planning with new participants, editing the accessibility policy (issue 3145), initiated reviews of a new chapter (issue 3930), and hosted three contribution sessions.
 
 ### Louise Bowler
 
