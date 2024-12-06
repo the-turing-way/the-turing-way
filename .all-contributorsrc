@@ -5020,6 +5020,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "nghuixin",
+      "name": "Renee (Hui Xin) Ng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16829271?v=4",
+      "profile": "http://huixinng.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
