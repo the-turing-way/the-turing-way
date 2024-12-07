@@ -2,7 +2,7 @@ datascience
 folium
 git+https://github.com/the-turing-way/pathways.git@v0.2.3
 jinja2
-jupyter-book
+jupyter-book==2.0.0a0
 matplotlib
 numpy
 pandas
