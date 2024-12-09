@@ -441,6 +441,11 @@ chapters:
             file: communication/blogs/blogs-webpage
           - title: Personal stories - Blogs
             file: communication/blogs/blogs-personal-stories
+      - title: Personal Websites
+        file: communication/personal-websites
+        sections: 
+          - title: Frameworks
+            file: communication/personal-websites/personal-websites-frameworks.md
       - title: Lay Summaries
         file: communication/lay-summaries
         sections:
