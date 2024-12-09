@@ -971,7 +971,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Personal Quote:
 > I had an absolutely exhilarating time participating in The Turing Way Book Dash! It was a hands-on, engaging experience where I learned how to embed images into the pages, witnessing the book evolve in real-time with the content we were adding. What made the event stand out was its warm, inviting atmosphere — it transformed my usual solitary days spent in my home-office into a vibrant hub of collaboration. I felt like I was sharing my space with this amazing global community of brilliant minds. It was an unforgettable experience that not only enhanced my technical skills but also provided a sense of connection and camaraderie that I will remember especially, from this week together.
 
-### KatrionaGoldmann
+### Katriona Goldmann
 
 * Role: 
   * Book Dash Participant (2024)
