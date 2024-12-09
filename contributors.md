@@ -1025,6 +1025,17 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Personal Quote:
 > I had an absolutely exhilarating time participating in The Turing Way Book Dash! It was a hands-on, engaging experience where I learned how to embed images into the pages, witnessing the book evolve in real-time with the content we were adding. What made the event stand out was its warm, inviting atmosphere — it transformed my usual solitary days spent in my home-office into a vibrant hub of collaboration. I felt like I was sharing my space with this amazing global community of brilliant minds. It was an unforgettable experience that not only enhanced my technical skills but also provided a sense of connection and camaraderie that I will remember especially, from this week together.
 
+### Katriona Goldmann
+
+* Role: 
+  * Book Dash Participant (2024)
+* GitHub id: [KatrionaGoldmann](http://github.com/KatrionaGoldmann)
+* ORCID: 0000-0002-9073-6323
+* Short bio:
+> I am a research data scientist at the Alan Turing Institute. My current work focuses on using machine learning for biodiversity monitoring, particularly in studying moth populations. Alongside my research and software engineering work, I am committed to fostering best practices in diversity and inclusive hiring within research technical professions.
+
+* Personal highlights:
+> Building connections with participants from varied expertise and interests allowed me to learn from their experiences and engage in meaningful discussions on accessibility and inclusivity. Additionally, the Scriberia session provided a unique way to visualize our ideas, showing how different perspectives could bring new dimensions to our work.
 
 ### Kim De Ruyck
 
@@ -1103,8 +1114,8 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Role:
  * Core Member, Accessibility Working Group Co-Lead (2023)
- * Book Dash Committee Member (2023)
- * Book Dash participant (2022-2023)
+ * Book Dash Committee Member (2023-Present)
+ * Book Dash participant (2022-2024)
 * GitHub ID: @LizHareDogs
 * ORCID: [0000-0002-3978-2543](https://orcid.org/0000-0002-3978-2543)
 
@@ -1119,6 +1130,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 of making and maintaining the book, and open science in general, more inclusive. Also planning a Guide to Accessibility -- scoping out and outlining
 what it would cover.
 > In 2023, I've been working on accessibility with the TTW leadership, both for the book itself and for the ways we work together on the book. We discussed The Turing Way's accessibility policy and a new Guide for Access, and I began a chapter on writing effective alt text.
+> In 2024, I have continued being a Book Dash Organising Committee member. I organised a Fireside Chat related to accessibility for the June 2024 event, and for the November 2024 Book Dash, helped with onboarding and planning with new participants, editing the accessibility policy (issue 3145), initiated reviews of a new chapter (issue 3930), and hosted three contribution sessions.
 
 ### Louise Bowler
 
@@ -1466,6 +1478,21 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 > My primary research interest was the biology of aging and longevity but after experiencing working in conventional academic roles was very unsatisfied with the way science is practiced and think my time is more usefully spent in roles where I can advocate for process reforms. 
 > I first learned to program in perl, but am now more proficient in R, I've been daily driving a Linux desktop for years now most recently NixOS.
 
+
+### Precious Onyewuchi
+
+* Role: Book Dash 2024 Participant
+* GitHub id: [preshh0](http://github.com/ preshh0)
+* ORCID: [0009-0000-1386-0366](https://orcid.org/0009-0000-1386-0366)
+* Short bio:
+> I am an open source manager with a background in community management, and technical writing. My current interests are in accessibility, usability, design, and security.
+
+* Personal highlights:
+> My personal highlight was giving life to a topic that started from a friend of mine expressing grieviance concerning a design situation and how it affected her. It gave birth to issue #3930, and I got very great feedback to implement to make my topic better.
+
+* Quotes:
+> Something I learned recently from Anne Lee Steele who learned it from Liz Hare: "Nothing about us without us". It's origin, is from this wikipedia page: https://en.wikipedia.org/wiki/Nothing_about_us_without_us.
+
 ### Richie Moluno
 
 * Role: 
@@ -1652,6 +1679,18 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 
 * Quotes:
 > The _Turing Way_ is one of the most welcoming and inclusive communities I've been part of. Thanks for building such an incredible space for learning and collaboration.
+
+### Seun Olufemi
+* Role: Book Dash Participant (2024)
+* GitHub id: @seunolufemi123
+* ORCID: [0000-0002-8292-2345](https://orcid.org/0000-0002-8292-2345)
+
+* Short bio: 
+> I am an Open Science enthusiast and OLS (Open Life Science) Resident Fellow.
+> I co-lead the Bioinformatics Outreach Nigeria project to expand bioinformatics capacity through Open Science.
+* Personal highlights: 
+> I initiated the writing of a new chapter, "Enhancing Reproducibility in African and Low-Resource Settings".
+> I also Interacted with other participants during the book dash event, and participated in the community and shareouts sessions
 
 ### Shern Tee
 
