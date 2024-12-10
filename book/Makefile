@@ -1,6 +1,17 @@
-help:
-	@echo "Please use 'make <target>' where <target> is one of:"
-	@echo "  site       to update the contents and re-build the site in _site."
+all: pathways
 
-site:
-	cd website && $(MAKE) site
+deps:
+	python -m pip install --upgrade pip
+	pip install -r ./website/requirements.txt
+
+book:
+	jupyter-book build ./website
+
+strict:
+	jupyter-book build ./website -W --keep-going
+
+pathways:
+	pathways --build ./website/
+
+clean:
+	jupyter-book clean -a ./website

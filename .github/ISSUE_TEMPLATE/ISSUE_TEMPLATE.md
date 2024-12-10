@@ -1,6 +1,6 @@
 ---
-name: General
-about: General issue
+name: "\u2728 General"
+about: Have a different idea?
 title:
 labels:
 assignees: ''

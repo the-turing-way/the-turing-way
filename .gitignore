@@ -1,11 +1,20 @@
+# Project management files that should not be in public VC
 .secrets/*
 
+# OS dependent metadata files
 .DS_Store
 
-\.vscode/settings\.json
-
-book/website/Pipfile
-
-book/website/Pipfile\.lock
-
+# Large, binary files
 workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
+
+# Compiled files
+**/__pycache__/
+
+# IDE configs
+.vscode/settings.json
+.Rproj.user
+.idea
+
+# Python virtual environments
+venv/
+env/
