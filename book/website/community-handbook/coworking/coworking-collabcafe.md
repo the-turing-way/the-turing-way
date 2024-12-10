@@ -19,7 +19,7 @@ One or two members from the core team are always available on the call to suppor
 ## Attending an online Collaboration Cafe
 
 The schedule for the collaboration cafe can be viewed from the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We also announce calls in our [monthly newsletters](https://buttondown.email/turingway/), send a reminder on the [Slack channel](https://tinyurl.com/jointuringwayslack) and on [X (formerly Twitter)](https://twitter.com/turingway) and [Mastodon](https://fosstodon.org/@turingway). 
+We also announce calls in our [monthly newsletters](https://buttondown.email/turingway/), send a reminder on the [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) and on [X (formerly Twitter)](https://twitter.com/turingway) and [Mastodon](https://fosstodon.org/@turingway). 
 Our [LinkedIn account](https://www.linkedin.com/company/the-turing-way/) can also be used to announce calls.
 
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.

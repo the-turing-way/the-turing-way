@@ -185,7 +185,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ### Communication channels
 
-- Slack Channel: [Invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
+- Slack Channel: [Invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
     - New to Slack? [See this quick start guide](https://hackmd.io/@turingway/slack-guide)
 - Mailing list: https://buttondown.email/turingway/
 - X (formerly Twitter) account: https://twitter.com/turingway

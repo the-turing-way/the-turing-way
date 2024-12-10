@@ -2,7 +2,7 @@
 
 # Welcome to *The Turing Way* Slack!
 
-**Not a member of our Slack workspace? You can join using the following link: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)**
+**Not a member of our Slack workspace? You can join using the [this link](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)**
 
 Slack is one of our core communication channels within the *The Turing Way* community. It is a space where folks ask questions, learn about each other's work, and get involved with *The Turing Way* and other projects. While it is not the *only* communication channel used by the community, it is a popular platform, increasingly used by remote teams around the world.
 

@@ -36,3 +36,12 @@ The broken links issue is [#3171](https://github.com/the-turing-way/the-turing-w
 The information in the [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) aims to explain the output and provide some guidance for fixing broken links.
 That information is not duplicated here.
 Improvements to the explanation or guidance should be made to the [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) as any changes made to the issue will be overwritten when it is next updated.
+
+## Running the Checks Locally
+
+You can run the external link checking process locally using Lychee _after_ [building the book](ch-local-build).
+From the repository root,
+
+```console
+$ lychee --config ./lychee.toml book/website/_build/html/**/*.html
+```

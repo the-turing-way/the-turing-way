@@ -41,7 +41,9 @@
       "profile": "http://www.bitsandchips.me",
       "contributions": [
         "ideas",
-        "question"
+        "question",
+        "review",
+        "a11y"
       ]
     },
     {
@@ -805,7 +807,8 @@
         "review",
         "talk",
         "maintenance",
-        "video"
+        "video",
+        "a11y"
       ]
     },
     {
@@ -819,7 +822,8 @@
         "review",
         "code",
         "infra",
-        "bug"
+        "bug",
+        "a11y"
       ]
     },
     {
@@ -2390,7 +2394,8 @@
         "ideas",
         "review",
         "content",
-        "bug"
+        "bug",
+        "a11y"
       ]
     },
     {
@@ -2988,7 +2993,8 @@
         "content",
         "ideas",
         "bug",
-        "a11y"
+        "a11y",
+        "review"
       ]
     },
     {
@@ -3163,7 +3169,15 @@
       "contributions": [
         "review",
         "bug",
-        "eventOrganizing"
+        "eventOrganizing",
+        "a11y",
+        "ideas",
+        "content",
+        "doc",
+        "talk",
+        "tutorial",
+        "maintenance",
+        "video"
       ]
     },
     {
@@ -3263,7 +3277,8 @@
       "contributions": [
         "ideas",
         "content",
-        "review"
+        "review",
+        "a11y"
       ]
     },
     {
@@ -3726,7 +3741,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/53099600?v=4",
       "profile": "https://github.com/LizHareDogs",
       "contributions": [
-        "ideas"
+        "ideas",
+        "content",
+        "a11y",
+        "review"
       ]
     },
     {
@@ -4171,7 +4189,9 @@
       "contributions": [
         "bug",
         "content",
-        "review"
+        "review",
+        "eventOrganizing",
+        "translation"
       ]
     },
     {
@@ -4239,7 +4259,8 @@
       "contributions": [
         "ideas",
         "content",
-        "review"
+        "review",
+        "a11y"
       ]
     },
     {
@@ -4311,7 +4332,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/43204602?v=4",
       "profile": "https://github.com/SaraVilla",
       "contributions": [
-        "content"
+        "content",
+        "review",
+        "a11y"
       ]
     },
     {
@@ -4697,7 +4720,9 @@
       "contributions": [
         "content",
         "example",
-        "doc"
+        "doc",
+        "review",
+        "a11y"
       ]
     },
     {
@@ -4726,7 +4751,9 @@
         "example",
         "content",
         "bug",
-        "maintenance"
+        "maintenance",
+        "ideas",
+        "review"
       ]
     },
     {
@@ -4746,7 +4773,8 @@
       "contributions": [
         "bug",
         "content",
-        "ideas"
+        "ideas",
+        "review"
       ]
     },
     {
@@ -4766,7 +4794,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/20369026?v=4",
       "profile": "https://github.com/amefonaffia",
       "contributions": [
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -4775,7 +4804,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/13733038?v=4",
       "profile": "https://github.com/luisacutillo78",
       "contributions": [
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -4802,7 +4832,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/84336434?v=4",
       "profile": "https://github.com/NoorhanAbbas",
       "contributions": [
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -4811,7 +4842,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/28767009?v=4",
       "profile": "https://github.com/harrietrs",
       "contributions": [
-        "review"
+        "review",
+        "a11y"
       ]
     },
     {
@@ -4865,7 +4897,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42142405?v=4",
       "profile": "https://github.com/Preshh0",
       "contributions": [
-        "content"
+        "content",
+        "a11y",
+        "review"
       ]
     },
     {
@@ -4883,7 +4917,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/64282208?v=4",
       "profile": "https://github.com/sreenithyaa",
       "contributions": [
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -4919,7 +4954,80 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/108274982?v=4",
       "profile": "https://github.com/LelleDi",
       "contributions": [
+        "content",
+        "review",
+        "a11y",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "StatsRhian",
+      "name": "Rhian Davies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7017740?v=4",
+      "profile": "https://rhian.rbind.io",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "andreaczhang",
+      "name": "Chi Zhang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32897643?v=4",
+      "profile": "https://andreaczhang.github.io",
+      "contributions": [
+        "review",
+        "a11y"
+      ]
+    },
+    {
+      "login": "JFormoso",
+      "name": "Jesica Formoso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32418102?v=4",
+      "profile": "https://github.com/JFormoso",
+      "contributions": [
+        "review",
+        "a11y"
+      ]
+    },
+    {
+      "login": "PatriLoto",
+      "name": "Patricia A. Loto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39300655?v=4",
+      "profile": "https://patricia-loto.netlify.app/",
+      "contributions": [
+        "content",
+        "a11y",
+        "review"
+      ]
+    },
+    {
+      "login": "chrisdburr",
+      "name": "Christopher Burr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63010234?v=4",
+      "profile": "https://chrisdburr.github.io",
+      "contributions": [
+        "ideas",
         "content"
+      ]
+    },
+    {
+      "login": "giuliatomba",
+      "name": "giuliatomba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56237678?v=4",
+      "profile": "https://github.com/giuliatomba",
+      "contributions": [
+        "ideas",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "nghuixin",
+      "name": "Renee (Hui Xin) Ng",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16829271?v=4",
+      "profile": "http://huixinng.com",
+      "contributions": [
+        "bug"
       ]
     }
   ],
