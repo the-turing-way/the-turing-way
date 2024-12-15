@@ -171,7 +171,7 @@ When effected, these checks may go unnoticed, but they also contribute to making
 Soft requirements that deal with _The Turing Way's_ formatting include:
 
 (ch-consistency-formatting-sr-one)=
-### Check 1: Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `_toc.yml`
+### Check 1: Ensure that the names of chapters/subchapters are short and map exactly to how they are titled in the `myst.yml`
 
 Some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the book-wide table of contents that appears on the left of the webpage.
 This may be confusing for users, especially when the chapter/subchapter's reference in the table of contents significantly varies from the chapter/subchapter's name.
@@ -186,10 +186,10 @@ The title of this subchapter is 'Using Spreadsheets for Research Data', however 
 
 In ensuring that _The Turing Way's_ content passes this check, one recommendation to follow is to keep the titles short.
 When writing a new chapter, ensure that its title is short and has the same name in the table of contents.
-Similarly, when reviewing existing chapters, if its title and reference in the table of contents differ, make the shorter of the two the chapter's title, and update the `_toc.yml` if necessary.
+Similarly, when reviewing existing chapters, if its title and reference in the table of contents differ, make the shorter of the two the chapter's title, and update the `myst.yml` if necessary.
 
 ```{note}
-The `_toc.yml` is the file where the book-wide table of contents for _The Turing Way_ lives.
+The `myst.yml` is the file where the book-wide table of contents for _The Turing Way_ lives.
 ```
 
 Nonetheless, remember that the final title should adequately tell readers what to expect from a chapter or subchapter.
@@ -215,7 +215,7 @@ Although _The Turing Way_ does not follow a specific title capitalisation style,
 
 There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/) and [Title Case Converter](https://titlecaseconverter.com/), that can be used to title-case headers when writing your content.
 Furthermore, headers in _The Turing Way_ can be run through these tools to ensure they follow title-casing conventions.
-They can then be replaced within chapters and in the `_toc.yml` as appropriate.
+They can then be replaced within chapters and in the `myst.yml` as appropriate.
 
 For example, In {ref}` the image <mismatched-title-toc>` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.
 

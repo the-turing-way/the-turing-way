@@ -10,9 +10,9 @@ A good structural framework ensures that _The Turing Way's_ content is presented
 The hard checks that deal with _The Turing Way's_ structure include:
 
 (ch-consistency-structure-hr-emptyfiles)=
-### Check 1: Do not add empty files in the `_toc.yml`
+### Check 1: Do not add empty files in the `myst.yml`
 
-The `_toc.yml` file is where _The Turing Way's_ table of contents (ToC) lives.
+The `myst.yml` file is where _The Turing Way's_ table of contents (ToC) lives.
 Some files referenced in the ToC are empty, and their inclusion means that readers can navigate to an empty (sub)chapter while reading _The Turing Way_.
 This negatively impacts the reader's experience as they go through the book.
 
@@ -55,7 +55,7 @@ Recommended structure for chapters in The Turing Way.
 
 
 ```{attention} Please note that making chapters follow this structure may require splitting some of the existing content into new files.
-References to these files should be updated in the table of contents in the `_toc.yml` file.
+References to these files should be updated in the table of contents in the `myst.yml` file.
 ```
 
 Refer to the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
