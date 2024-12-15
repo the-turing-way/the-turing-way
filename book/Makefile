@@ -5,10 +5,11 @@ deps:
 	pip install -r ./website/requirements.txt
 
 book:
-	jupyter-book build ./website
+	cd website && jupyter-book build --html
 
 strict:
-	jupyter-book build ./website --strict
+	cd website && jupyter-book build --html --strict
+
 
 pathways:
 	pathways --build ./website/
