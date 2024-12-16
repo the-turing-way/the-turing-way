@@ -35,9 +35,9 @@ body:
     attributes:
       label: Your personal set up
       description: Tell us a little about the system you're using or tested this bug in.
-    value: |
-      - **Operating System**:
-      - **Browser**:
+      value: |
+        - **Operating System**:
+        - **Browser**:
   - type: textarea
     attributes:
       label: Dependencies
