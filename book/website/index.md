@@ -56,7 +56,7 @@ Call for translators! We’re looking for contributors to help translate this sp
 
 ```{figure} figures/theturingway-chapters.*
 ---
-name: theturingway-chapters
+name: theturingway-chapters2
 alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
