@@ -11,7 +11,7 @@ The function `lint` takes a filename as an argument and a list of 'linters' that
 These range from whitespace conventions to checking that curly brackets do not have their lines.
 The output provides a list of markers with recommendations for changing the formatting of your code line-by-line, meaning it is best used early and often in your project.
 
-```{figure} ../../figures/lintr-output.png
+```{figure} ../../figures/lintr-output.*
 ---
 height: 500px
 name: lintr_output
@@ -40,9 +40,9 @@ $ autopep8 --in-place --aggressive --aggressive <filename>
 
 To some extent, the module can also be used on R scripts!
 
-## Auto formating by Black
+## Auto formatting by Black
 
-[Black](https://black.readthedocs.io/en/stable/) is an auto-formating package for Python.
+[Black](https://black.readthedocs.io/en/stable/) is an auto-formatting package for Python.
 This means that it will automatically change your code to adhere to certain guidelines, like spaces around operators and removing unnecessary whitespace.
 It is also consistent, so that the code that you and your collaborators work on, will look the same once black formats it.
 It does not change what the code does.

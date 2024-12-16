@@ -55,7 +55,7 @@ Get your blog noticed.
 
 * It's a good idea to tell your target audience about your blog and again each time you release a post.
 * Use mailing lists from key associations linked to your research.
-* Use social media such as Twitter or Facebook.
+* Use social media such as X (formerly Twitter) or Facebook.
 * Ask colleagues to retweet or send out emails to advertise your blog.
 
 ## Analysing the Impact

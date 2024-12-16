@@ -4,16 +4,16 @@
 (rr-open-source-whatis)=
 ## What Is Open Source Software?
 
-When a project is open-source [{term}`def<Open Source Software>`], anybody can view, use, modify, and distribute the project for any purpose.
-These permissions are enforced through an open-source licence.
+When a software is open-source [{term}`def<Open Source Software>`], anybody can view, use, modify, and distribute its source code for any purpose.
+These permissions are enforced through an {ref}`open-source licence<rr-licensing>`.
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 In its most basic form, open-sourcing your software means putting your code online where it can be viewed and reused by others.
 
 Many of the most widely used research software is open source.
-Perhaps the paradigmatic example is the scikit-learn Python package for machine learning (Pedregosa et al., 2011), which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations.
+Perhaps the paradigmatic example is the scikit-learn Python package for machine learning {cite:ps}`pedregosa2012ScikitLearn`, which, in the space of just over five years, has attracted over 500 unique contributors, 20,000 individual code contributions, and 2,500 article citations.
 Producing a comparable package using a traditional closed-source approach would likely not be feasible.
 It would, at the very least, require a budget of tens of millions of dollars.
-While scikit-learn is an outlier, hundreds of other open-source packages that support much more domain-specific needs depend similarly on unsolicited community contributions; for example, the NIPY (neuroimaging in Python) group of projects in neuroimaging (Gorgolewski et al., 2016).
+While scikit-learn is an outlier, hundreds of other open-source packages that support much more domain-specific needs depend similarly on unsolicited community contributions; for example, the NIPY (neuroimaging in Python) group of projects in neuroimaging {cite:ps}`gorgolewski2016NIPY`).
 Notably, such contributions not only result in new functionality from which the broader community can benefit, but also regularly provide their respective authors with greater community recognition, and lead to new project and employment opportunities.
 
 Researchers that make use of open-source software often make changes to them, such as adding features they need for their research, or fixing bugs.
@@ -58,7 +58,7 @@ Open source provides an endless, ever-changing set of Rubix cubes for you to sol
 (rr-open-source-benefitsresearch)=
 ## How Open Source Software Benefits Research
 
-There are several in which open-source software benefits research:
+There are several ways in which open-source software benefits research:
 
 (rr-open-source-benefitsresearch-reusable)=
 ### Re-usable
@@ -69,6 +69,8 @@ It is sometimes said that “all the easy problems have already been solved”.
 Blogging, content management, and operating systems are all problems with established (and mainstream) open-source solutions, to name a few.
 While developers could spend their time reinventing wheels that the open-source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you.
 This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
+
+The {ref}`rr-code-reuse` provides a more in-depth list of different aspects to consider for making your code more reusable, whether this is a small script or a library.
 
 (rr-open-source-benefitsresearch-checkable)=
 ### Checkable

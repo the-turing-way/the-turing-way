@@ -1,4 +1,5 @@
 (glossary)=
+
 # Glossary
 
 ## A
@@ -6,17 +7,27 @@
 ```{glossary}
 
 Acceptance Testing
- A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
+  A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
 Acknowledgements
- Where contributions to a project that don't qualify as authorship are written. It records the contributors name and the contribution that they made is described.
+  Where contributions to a project that don't qualify as authorship are written. It records the contributors name and the contribution that they made is described.
 
 Add
- Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
+  Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
+
+Adversarial Learning
+  A process under which learning systems are exposed to negative stimuli, such as the addition of purposefully manipulated data samples, in order to obtain potentially-beneficial effects. Examples of this technique may include the addition of additional learning objectives which penalise unwanted characteristics of a learning system, for example the ability to distinguish between data records based on inappropriate demographic attributes.
+
+Artificial intelligence (AI)
+  The ability of synthetic computational systems to perform tasks and activities usually associated with biological, especially human, mental and intellectual capabilities.
+  Also the field of study associated with imbuing synthetic systems with these capabilities.
+  See also {term}`Machine Learning (ML)<Machine Learning (ML)>`
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
+
 ```
+
 ---
 
 ## B
@@ -40,7 +51,9 @@ Bug
 
 Build
   A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+
 ```
+
 ---
 
 ## C
@@ -87,7 +100,7 @@ Conda
   A commonly used package management system.
 
 Consortia authorship
- A collective or community group authorship model. All members of the consortium are considered authors and are usually required to be listed in the published article although sometimes the article is published in the groups name. If not all members of the consortium agree to the responsibilities of authorship, the members that are authors will be listed separately from those who are not. 
+  A collective or community group authorship model. All members of the consortium are considered authors and are usually required to be listed in the published article although sometimes the article is published in the groups name. If not all members of the consortium agree to the responsibilities of authorship, the members that are authors will be listed separately from those who are not.
 
 Container
   Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
@@ -105,15 +118,25 @@ Contributing Guidelines
   Guidelines outlining how a person should go about contributing to an open source project.
 
 Contributors
-  Everyone who has contributed something back to the project. These are members of a research project that have done some work that has made a contribution to the overall completion of the research. This could be a small contribution such as fixing a bug in software or a much larger contribution such as writing an academic article. 
-  
+  Everyone who has contributed something back to the project. These are members of a research project that have done some work that has made a contribution to the overall completion of the research. This could be a small contribution such as fixing a bug in software or a much larger contribution such as writing an academic article.
+
 Corresponding author
- The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
- 
+  The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
+
+Creative Commons
+  Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
+  This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
+  You can read more about copyright and licensing in {ref}`the chapter on licensing<rr-licensing>`.
+  The 'CC0' is a public domain dedication waiving the copyright and anyone to use the work as they see fit.
+  There are a number of variants on the creative license which use the copyright on the work to stipulate terms on which it can be re-used.
+  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
+  The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
+
 CRediT Taxonomy
- The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
+  The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 
 ```
+
 ---
 
 ## D
@@ -121,10 +144,17 @@ CRediT Taxonomy
 ```{glossary}
 
 Data repository
-  See repository.
+    A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
+
+Differential privacy
+  A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
 
 DMP
-  Data management plan.
+  Data Management Plan.
+
+DNS
+  Domain Name System.
+  The system which translates domain names, for example book.the-turing-way.org, to the IP addressess used by computer networks.
 
 Docker Container
   An active computational environment executed from a Docker image.
@@ -140,32 +170,71 @@ Docker Registry
 
 Digital Object Identifier
   A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
+
 ```
+
 ---
+
 ## E
 
 ```{glossary}
 
-Equitable, Diverse and Inclusive Practices
-  Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
-
 End to End Test
   A test that runs the program from beginning to end and verifies that the output is correct.
 
+Epistemology
+  Theory of knowledge and deals with how knowledge is gathered and from which sources.
+  In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning {cite}`brownEpistemology2015`.
+
+Equitable, Diverse and Inclusive Practices
+  Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
+
+Ethical Source Software
+  These licenses were created as 'traditional' {term}`open source <Open Source Software>` licenses make no restictions on the uses to which the software can be put including unethical uses.
+  These licenses require that software is used in ways that respect fundamental human rights.
+  This can be thought of as relaxing the hardline 'freedom to run software for any purpose' stipulation required for software to qualify as free / libre or open source by the conventional definitions.  
+  Whilst these licenses sought to be considered {term}`open source <Open Source Software>`, their terms place restrictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
+  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term}`source available<Source Available>` license.
+  See: {ref}`Ethical Source<rr-licensing-ethical>` for more.
+
 ```
+
 ---
+
 ## F
 
 ```{glossary}
 
 FAIR
   Findable, Accessible, Interoperable and Reusable.
-  
+
+Fair Code
+  A software licensing model where code is commercially restricted by it's authors but the source code is generally available and can be freely distributed and modified but with limits on how and if it can be used commercially.
+  The model is described at [faircode.io](https://web.archive.org/web/20240621082333/https://faircode.io/), examples include the [Business Source License](https://web.archive.org/web/20240608005051/https://mariadb.com/bsl11/) and the [Elastic License 2.0](https://web.archive.org/web/20240625130857/https://www.elastic.co/licensing/elastic-license).
+  A number of attempts have been made to make licenses with a similar intent, this space is somewhat controversial in free and open source software spaces, where restrictions on the ways in which software can be used disfavoured.
+  Fair-code can be considered a subset of {term}`source available<Source Available>` code.
+
+Federated Learning
+  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity.
+  Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
+
 First author
- The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research. 
-  
+  The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
+
+Free or Libre Software
+  The [Free Software Foundation (FSF)](https://web.archive.org/web/20240619064659/https://www.gnu.org/philosophy/free-sw.html) states that: "'Free software' means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.", refer to their website for a lengthier definition, see also the [Debian Free Software Guidelines](https://web.archive.org/web/20240517221908/https://wiki.debian.org/DebianFreeSoftwareGuidelines).
+  Free software does not have to be monetarily free (gratis) you can buy and sell copies.
+  Its chief concern is liberty not price, hence the use of 'libre software' as the word free in english does not distinguish these concepts.
+  Notably almost all {term}`open source software<Open Source Software>` is also 'free' and the different terms reflect philosophical differences largely in the motivation for advocating for these freedoms.
+
+Free Cultural Works
+  A list of conditions under which a work must be shared in order to be considered 'free' meaning that anyone is free to use, modify and distribute the work including derived works for any purpose.
+  For a full description see: [freedomdefined.org](https://web.archive.org/web/20240630025334/https://freedomdefined.org/Definition)
+  This is a generalisation of the 'four freedoms' originally developed to define {term}`free software<Free or Libre Software>`
 ```
+
 ---
+
 ## G
 
 ```{glossary}
@@ -180,53 +249,78 @@ Github
 
 GitLab
   GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
-  
+
 Ghost author
  It is a person who writes an academic article without having carried out the research. It could be a professional writer. They would often not qualify as an author under the ICMJE criteria for authorship.
- 
+
 Gift author
  People who are listed as authors but who did not make significant contributions to the research. This is also known as a guest author.
- 
+
 Group authorship
- Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
- 
+  Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
+
 Guarantor
- As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
+  As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
+
 ```
+
 ---
+
 ## H
 
 ```{glossary}
+Hazard
+  Inherent qualities or characteristics of something that make it potentially harmful.
+
 Head
   The latest commit on the branch which is currently checked out.
 
 Helm
   A package manager for Kubernetes applications.
-  
+
 Honorary authorship
  This is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria.
 
+Hosting
+  A service which makes data, such as a website, available on the internet.
+  It is possible to self-host, using your own infrastructure.
+  However, it is common to use a third-party, often commerical, hosting provider.
+
 Human Readable
   A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
+
 ```
+
 ---
+
 ## I
 
 ```{glossary}
+Identifier
+  An identifier is a key or name used as label or the identity of a unique class of objects, represnting an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
 
 Image
   Files used for generating containers.
 
+Inner source
+  Inner source is the use of open source software development best practices (open collboration, open communication and peer review practices) and the establishment of an open source-like culture within an organisation for the development of a non-open source output.
+
 Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+
+Intersectionality
+  The way in which a person's identities (gender, race, class, sexual orientation, physical ability and others) can overlap and intersect to form a unique experience of social status, discrimination or oppression. This term was coined by Professor Kimberlé Crenshaw.
 
 Issues
   Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
 
 Issue Tracking
   The process of tracking current issues on the project, such as bug fixing, rolling out new features or community engagement plans.
+
 ```
+
 ---
+
 ## J
 
 ```{glossary}
@@ -236,30 +330,45 @@ Job
 
 JupyterHub
   A multi-user server for Jupyter Notebook instances.
+
 ```
+
 ---
+
 ## K
 
 ```{glossary}
 
 Kubernetes
   Autonomous computational cluster manager.
+
 ```
+
 ---
+
 ## L
 
 ```{glossary}
 
 License
   This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works.
-  
+  See the chapter: {ref}`Licensing<rr-licensing>`
+
 Last author
- Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
+  Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
+
 ```
+
 ---
+
 ## M
 
 ```{glossary}
+
+Machine Learning (ML)
+  Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
+  A broad sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
   Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
@@ -284,14 +393,20 @@ Metadata
 
 Mock Test
   Replace a real object with a pretend one to use when running tests.
+
 ```
+
 ---
+
 ## N
 
 ```{glossary}
 
 ```
+
 ---
+
+
 ## O
 
 ```{glossary}
@@ -305,37 +420,71 @@ Open Access publishing (gratis)
 Open Access Publishing (libre)
   Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
+Open Core
+  A model for the monetisation of software where the 'core' compenents are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
+
 Open data
   Documenting and sharing research data openly for re-use.
 
 Open Educational Resources
   Making educational resources publicly available to be re-used and modified.
 
+Open Source
+  [opensource.com](https://web.archive.org/web/20240618150233/https://opensource.com/resources/what-open-source) describes open source as:
+  "Something people can modify and share because its design is publicly accessible".
+  The concept of 'open source' is now often extended beyond the context of its original coinage, {term}`software<Open Source Software>`,
+  to other forms of cultural or creative output, such as {term}`hardware<Open Source Hardware>` and {term}`educational resources<Open Educational Resources>`.
+  Referring to something as 'open source' generally means that it is available under an {term}`open license<Open License>`.
+  The term can also extend to an {term}`open project<Open Project>` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
+  The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output.
+  For example an image created with a simple bitmap editor might be reffered to as 'open source' despite lacking something that can be considered a 'source'.
+  In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
+  though they may include source materials.
+  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' and '{term}`Fair Code<Fair Code>`'.
+
 Open Source Hardware
-  Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
-
-Open License
-  A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
-
-Open Notebooks
-  An emerging practice, documenting and sharing the experimental process of trial and error.
-
-Open Scholarship
-  This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
-
-Open Project
-  *Same as Open Science or Open Research Projects*. A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
+  Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
 
 Open Source Software
-  Documenting research code and routines, and making them freely accessible and available.
+  Broadly, users of the software must able to inspect, modify and redistribute the source code of the software as they see fit, and not restrict the uses to which the code can be put or by whom it can be used.
+
+  The [Open Source Initiative (OSI)](https://opensource.org/) offers a widely used definition of Open Source Software: The [Open Source Definition (OSD)](https://web.archive.org/web/20240619054907/https://opensource.org/osd) which is comprised of 10 criteria with which the terms of distribution of software must comply to meet their definition.
+  The OSI maintains a list of licenses which have gone through their review process and been approved.
+
+  Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
+
+  Almost all open source software is also {term}`Free / Libre Software<Free or Libre Software>`.
+  For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
+
+Open Scholarship
+  This is a concept that extends open research further.
+  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
+
+Open License
+  A license is a document that specifies what can and cannot be done with a work.
+  It grants permissions and states restrictions.
+  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  (See {ref}`licensing<rr-licensing>` for more details)
+
+Open Notebooks
+  An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
+
+Open Project
+  *Same as Open Science or Open Research Projects*.
+  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
+  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
 ORCID
-  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works. 
+  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher.
+  A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
+
 ```
+
 ---
+
 ## P
 
 ```{glossary}
@@ -344,10 +493,13 @@ Package Management System
   A tool for installing, managing, and uninstalling software packages including specific versions.
 
 Persistent Identifier
-  A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+  A long-lasting reference to a document, file, web page, or other digital object for identifying a resource that is unique, and widely understandable by a community. Also see: Digital Object Identifier.
 
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
+
+Peer Review
+  A process of evaluating one's work by others working in the same field.
 
 Persona
   A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
@@ -358,8 +510,17 @@ Persona Canvas
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
 
+Plain Language
+  Plain Language (also sometimes referred to as Plain writing or Plain English) is language and communication that your audience can understand the first time they read or hear it. Plain Language is defined by clear, straightforward communication that uses only as many words as are necessary to ensure that your audience understands the message easily. Most newspapers are written using plain language.
+
+Positionality
+ Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).
+
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
+
+Preprint
+   A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server where it is available openly.
 
 Prerequisite
   The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
@@ -372,14 +533,19 @@ Pull Request
 
 Push
   Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
+
 ```
+
 ---
+
 ## Q
 
 ```{glossary}
 
 ```
+
 ---
+
 ## R
 
 ```{glossary}
@@ -403,7 +569,7 @@ repo2docker
   A tool to build Docker images from code repositories.
 
 Repository
-  *Same as Data or Code Reprository*. A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’.
+  A central location where resources (data, software, publications or anything else) are stored and accessed. This keyword is often shortened to ‘repo’. See Data Repository if this place is long-lived.
 
 Reproducible
   A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
@@ -420,8 +586,14 @@ Research Data Management
 Research Ethics
   Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
 
+Research Objects
+  Research objects are living resources aggregating inputs, materials, methods and/or software used in research.
+
 Review
   Suggesting changes or asking for committing something to an already created pull request.
+
+Risk
+  A term that refers to the likelihood and impact of something happening. It's often used in decision-making contexts to evaluate the potential consequences of actions
 
 Risk Assessment
   This is used to help choose the appropriate sustainable software concepts for your project.
@@ -443,13 +615,18 @@ Runtime Test
   Tests embedded within the program which are run as part of it.
 
 ```
+
 ---
+
 ## S
 
 ```{glossary}
 
 Self Archiving
   Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives.
+
+Self Reflection
+  Activity of thinking about our thoughts, feelings, emotions, behaviour action, and the reasons that may lie behind them. Taking the time for reflection we can grow our understanding of who we are, what our values are, and why we think, feel, and act the way we do. When we self-reflect and become more conscious of what drives us, we can more easily make changes that help us more easily develop our self or improve our life including the way we conduct research (source: [Berkeley Wellbeing](https://www.berkeleywellbeing.com/what-is-self-reflection.html)).
 
 SHA
   Unique string of numbers of letters used to identify every commit or node in the repository.
@@ -459,6 +636,11 @@ Shared authorship
 
 Smoke Testing
   Very brief initial checks that ensure the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
+
+Source Available
+  Where the source code of a piece of software is made available but not under the terms of an {term}`open license<Open License>`, you may have to pay to access the source code and agree to terms which prohibit its redistribution, or the code may be generally available and only prohibit commercial redistribution.
+  Source available code is proprietary but not closed source.
+  Whilst generally used in the context of software it can apply in other contexts such as {term}`open hardware<Open Source Hardware>`.
 
 Staged
   Staging the changes that will be included in the next git commit.
@@ -473,7 +655,9 @@ System Testing
   A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate whether the system as a whole gives the correct outputs for given inputs. Also see end to end test.
 
 ```
+
 ---
+
 ## T
 
 ```{glossary}
@@ -495,8 +679,11 @@ Testing Framework
 
 Travis
   A commonly used continuous integration platform.
+
 ```
+
 ---
+
 ## U
 
 ```{glossary}
@@ -506,8 +693,11 @@ Unit
 
 Unit Testing
   A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
+
 ```
+
 ---
+
 ## V
 
 ```{glossary}
@@ -516,27 +706,38 @@ Virtual Machine
   A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
 ```
+
 ---
+
 ## W
 
 ```{glossary}
 
 ```
+
 ---
+
 ## X
 
 ```{glossary}
 
 ```
+
 ---
+
 ## Y
 
 ```{glossary}
+
 YAML
   A human readable/writable markup language which used by many projects for configuration files.
+
 ```
+
 ---
+
 ## Z
+
 
 ```{glossary}
 

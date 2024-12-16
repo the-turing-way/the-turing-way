@@ -1,44 +1,46 @@
 (cl-github-novice-motivation)=
 # Motivation for Using GitHub
 
-GitHub is an online web interface - it’s designed to share your work and allows other people to test, modify, remix and reuse it.
+GitHub is an online web interface for collaborating, developing, sharing and using {ref}`git<rr-vcs-git>` ({ref}`version control<rr-vcs>`).
+It’s designed to be easily accessible (you do not need to be a coder!) to share your work and (if you want) allow other people to test, modify, remix and reuse it.
+It also provides space and tools for collaboration and maintenance.
 
-There is lots to know about GitHub
-– it has terrific project management features, a social platform, and communication tools that are useful for any project where a group of people is working together on the same set of documents.
-- it can be used to store documentation, data and make web pages for projects.
-- it has _version control_ (see below) that allows all activities to be recorded so you can revisit past versions and you know who made each contribution to the project.
+GitHub is not the only available development platform, but it hosts this book and is widely used across disciplinary and private-public boundaries.
+Thus, this chapter is tailored towards GitHub and its resources, though other platforms probably have analogous functions.
 
-You can manage your project by creating project boards that include to-do lists and issues (problems or tasks that need to be done) can be recorded to enable collaborative work.
+Some key things to know about GitHub: 
 
-You can use Github directly in your web browser.
-Once you are more used to the interface, you might want to download it to your computer, but this is not required.
-Most instructions about how to use Github will start with you downloading it to your computer. There is no need to download Github onto your computer; it is much simpler to use it in a web browser.
+- It has terrific project management features, a social platform and communication tools that are useful for any project where a group of people is working together on the same set of documents
+- It can be used to store documentation, data and make web pages for projects
+- It provides an easy-to-use interface for {ref}`version control<rr-vcs>` that allows all activities to be recorded so you can revisit past versions and you know who made each contribution to the project
+- It has many options for automating repeated project management tasks
 
-## Version Control
 
-Version control is the task of managing the contributions your group makes to shared working documents.
-No matter how your group is organized, the work of many contributors needs to be wrangled into a single project.
+## Project Management
 
-Version control manages this process; it stores a history of changes, who made them, allows you to revert or go back to earlier versions of those documents and records how contributions by different contributors have changed the project over time.
-Using version control for your research project means that your work is totally transparent, and because all your actions are recorded, it enables others to reproduce your studies. Version control software can be used to enable this process of recording to happen more easily especially in a project with multiple researchers.
+You can manage your project by creating project boards that include to-do lists and issues (problems or tasks that need to be done).
+Discussion forums and flexibility in user permissions mean you can give team members (and/or the general public) the appropriate levels of access.
 
-You may have used word processing software that has a “changes,” “history” or “revisions” feature, which also allows you to see and revisit any changes to the document -  this is also a form of version control.
-If you’d like to learn how to use a specialized version control software, it may help to look at some diagrams and define some new terms so take a look at the start of the {ref}`rr-vcs` chapter.
+## Easy to use
 
-## Markdown text formatting
+You can use GitHub directly in your web browser or download it to your computer. 
+Most instructions about how to use GitHub will start with you downloading it to your computer.
+However, there is no need to download GitHub onto your computer; it is much simpler to use it in a web browser.
 
-In order to use Github, you do not need to be a computer coder! You need to learn a very simple type of file formatting syntax called markdown.
-Again, you do not need to download a markdown editor as it can all be written in Github in your web browser.
-Markdown syntax ( = the structure of statements in a computer language) <!--- can we add this to the glossary page as well and link to it there? --> is designed to be readable therefore the text in Markdown files can be read even if it isn’t rendered (Render or rendered output = this is what the text will look like on an online page in Github or web page) <!--- this would also be good in the glossary as well as explained here -->.
+In order to use GitHub, you do not need to be a computer coder!
+To format text, you only need to learn a very simple type of file formatting syntax called markdown. 
+Again, you do not need to download a markdown editor as it can all be written directly in GitHub in your web browser.
+Markdown syntax [{term}`def<Syntax>`] is designed to be human readable even if it isn’t rendered [{term}`def<Rendered Output>`].
 This allows you to format your text into a nice-looking document, including adding in links, pictures, tables and web links.
+In most cases, GitHub even provides a "preview" option that allows you to see what your rendered document will look like.
 
 For example, if you want to put a heading in markdown you use a ‘#’ (hash symbol) followed by a space and the title.
 Like this `# heading 1`, this will produce the first level header style for that text.
 
-### Resources to help you learn markdown:
+### Resources to help you learn Markdown:
 
 * How to write faster, better & longer: [the ultimate guide to Markdown](https://ghost.org/changelog/markdown/)
-* [Markdowncheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* Markdown guide - [Basic syntax](https://www.markdownguide.org/basic-syntax/)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Markdown guide: [Basic syntax](https://www.markdownguide.org/basic-syntax/)
 
 How and when you use Markdown formatting in your file will become clearer as you go through this chapter.

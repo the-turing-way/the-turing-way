@@ -50,7 +50,7 @@ When sharing your resources via your repository, consider the following aspects 
 ## Main Recommendations
 
 Always consider designing your project for collaboration by adding key documents describing project goals, vision, roadmap, contribution and communication process (as described in earlier subchapters).
-- Include details in {ref}`README file<pd-project-repo-readme>`describing _what_ the repository is for and _how_ to navigate it 
+- Include details in {ref}`README file<pd-project-repo-readme>` describing _what_ the repository is for and _how_ to navigate it 
 - Provide vision, goals and roadmap wherever possible (see [Kamran Ahmed's developer roadmap](https://github.com/kamranahmedse/developer-roadmap) for example)
 - General structure should separate input (data), methods (scripts) and output (results, figures, manuscript)
 - Specify what shouldn't be tracked in the `.gitignore` file, such as sensitive/private files, large dataset or personal notes 
@@ -142,7 +142,7 @@ Project Folder/
 
 ### Curated Examples of GitHub Repositories
 
-- [_The Turing Way_ project repo](https://github.com/alan-turing-institute/the-turing-way)
+- [_The Turing Way_ project repo](https://github.com/the-turing-way/the-turing-way)
 - [Jupyter Book project repo](https://github.com/executablebooks/jupyter-book)
 - [Pandas Package repo](https://github.com/pandas-dev/pandas)
 - [Atom Text Editor repo](https://github.com/atom/atom)

@@ -12,12 +12,12 @@ name:
     Hello World package
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 Jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 ```  
 
 **1. name**
@@ -30,13 +30,13 @@ name:
 
 **2. on**
 
-The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull` on the `master` branch.
+The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull` on the `main` branch.
 ```
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 ```
 There are many events which can be used to trigger a workflow. You can explore them [here](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions).
 
@@ -66,7 +66,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
   test:
     steps:
     - name: npm install
@@ -75,7 +75,7 @@ jobs:
         npm test
 ```
 
-The most basic action is `actions/checkout@v2`.
+The most basic action is `actions/checkout@v3`.
 This uses a GitHub provided action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository.
 All the steps of a job run sequentially on the runner associated with the job.
 By default, if a step fails, the subsequent steps of the job are skipped. Each run keyword represents a new process and shell in the runner environment.

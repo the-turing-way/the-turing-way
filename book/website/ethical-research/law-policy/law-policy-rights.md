@@ -39,7 +39,7 @@ There are also regional human rights instruments:
 - [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/005), which covers the 47 members of the [Council of Europe](https://www.coe.int/en/web/about-us/our-member-states).
 - [Charter of Fundamental Rights of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012P/TXT), which covers the 27 members of the [European Union](https://europa.eu/european-union/about-eu/countries_en)
 
-Some countries have ratified some of the treaties that apply to them: this means that they have incorporated the content of the the treaties into their national law.
+Some countries have ratified some of the treaties that apply to them: this means that they have incorporated the content of the treaties into their national law.
 Many countries also have a national human rights institution, which independently monitors and investigates human rights violations in that country, and advises the government on implementing their obligations. 
 
 Countries that have signed treaties have committed to implementing them.
@@ -76,3 +76,5 @@ Researchers and data scientists should, in general ensure that they:
 - **respect** human rights: this means not doing work that itself abuses human rights 
 - **protect** human rights: this means trying to ensure that their work cannot be used by others to abuse human rights
 - **fulfil** human rights: this means doing work that actively helps other people be able to enjoy all their human rights
+
+The human rights framework also [supports doing open science](https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee). In their [General Comment 25](https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=E%2FC.12%2FGC%2F25&Lang=en) in 2020, the UN Committee on Economic, Social and Cultural Rights stated that "States should promote open science and open source publication of research."

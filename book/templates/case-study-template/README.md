@@ -17,7 +17,7 @@ For every Guide, there is a `Case Studies` chapter that contains a collection of
 Structurally, a Guide in _The Turing Way_ Github repository is a folder and your case study is a file in the `case-studies` sub-folder within it.
 All Guides in _The Turing Way_ live in the `book/website` directory.
 
-For example, if you wrote the case study about the [Statistical Methods Manuscript](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html) in the Guide for Reproducible Research, then the file structure could resemble the following:
+For example, if you wrote the case study about the [Statistical Methods Manuscript](https://book.the-turing-way.org/reproducible-research/case-studies/statistical-methods-manuscript.html) in the Guide for Reproducible Research, then the file structure could resemble the following:
 
 ```
 book/website
@@ -48,7 +48,7 @@ We encourage you to use it to structure and format your content.
 
 ### Follow the style and consistency guidelines
 
-As you write your chapter, keep _The Turing Way's_ [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations in mind.
+As you write your chapter, keep _The Turing Way's_ [style](https://book.the-turing-way.org/community-handbook/style.html) and [consistency](https://book.the-turing-way.org/community-handbook/consistency.html) recommendations in mind.
 This ensures that your new content is accessible, and fits the overall style, structure, and formatting of _The Turing Way_ book.
 
 ### Name files/folders appropriately
@@ -63,7 +63,7 @@ The book-wide table of contents lives in the `_toc.yml` [file](book/website/_toc
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `_toc.yml` as appropriate.
 
-For example, because the [Statistical Methods Manuscript](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html) case study was written for the Guide for Reproducible Research, it was added to the table of contents as follows:
+For example, because the [Statistical Methods Manuscript](https://book.the-turing-way.org/reproducible-research/case-studies/statistical-methods-manuscript.html) case study was written for the Guide for Reproducible Research, it was added to the table of contents as follows:
 
 
 ```
@@ -79,11 +79,11 @@ For example, because the [Statistical Methods Manuscript](https://the-turing-way
 
 ### Reference external sources appropriately
 
-Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://deploy-preview-1459--the-turing-way.netlify.app/community-handbook/style/style-citing.html#ch-style-citing)
+Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://deploy-preview-1459--book.the-turing-way.org/community-handbook/style/style-citing.html#ch-style-citing)
 
 ### Update the book-wide glossary
 
-_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://the-turing-way.netlify.app/afterword/glossary.html).
+_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://book.the-turing-way.org/afterword/glossary.html).
 When writing your chapter, update the book-wide glossary with the key terms in your chapter that readers should remember.
 For each term, cross-reference to the subchapter/section where you explained it.
 

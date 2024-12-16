@@ -23,7 +23,7 @@ Cuckoo clock: https://cuckoo.team/tw-bookdash
 
 Each day we will hold 3 development sessions and an one themed discussion/networking session where you can interact with others, continue your disucssion outside development session or take a break as it's most sustainable and helpful for your participation.
 
-Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html))
+Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-motivation.html))
 
 All time provided in London Time (UTC+1). Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/YYYY-MM-DD/hh:mm (update DD: date, hh:mm: hours:minutes)
 
@@ -57,7 +57,7 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 
 *Please add your name to this list, but remember that this is a public document, so use a pseudonym if you'd prefer, or just feel free to leave your name off.*
 
-*Name (pronouns - optional) / Institute / Twitter, GitHub / icebreaker: What song/music/artist/album puts you in a good mood!* :musical_score: 
+*Name (pronouns - optional) / Institute / X, GitHub / icebreaker: What song/music/artist/album puts you in a good mood!* :musical_score: 
 
 * 
 * 
@@ -68,11 +68,11 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 
 * Intro to The Turing Way & the Book Dash: (Link to intro slides) <---
 * Predash drop-in calls: (Link to the shared notes) <---
-* Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
+* Project repository on GitHub: https://github.com/the-turing-way/the-turing-way
+* Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: An email will be sent to you
-* Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
-* Follow on Twitter: [@turingway](https://twitter.com/turingway)
+* Join the [mailing list to receive newsletter](https://buttondown.com/turingway)
+* Follow on X: [@turingway](https://twitter.com/turingway)
 
 ### :busts_in_silhouette::speech_balloon: Planning your contributions: breakout (10 minutes)
 

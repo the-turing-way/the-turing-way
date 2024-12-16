@@ -1,7 +1,7 @@
 (cm-citable-steps)=
 # Steps for Making Research Objects Citable
 
-There are many reasons why authors don't cite the data and software that they use, but one of the biggest ones is that it's not clear how.
+There are many reasons why authors don't cite the data, protocols, software and hardware that they use, but one of the biggest ones is that it's not clear how.
 You can go a long way to reducing this barrier by following a few steps to make it as easy as possible.
 
 (cm-citable-steps-object)=
@@ -12,7 +12,7 @@ We want to emphasise that most of our research objects should be shared so that 
 Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution.
 There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
 
-As part of the citation for your research objects, it is important to publish research objects beyond papers, such as images, data, software, protocols, methods ang workflow associated with your research.
+As part of the citation for your research objects, it is important to publish research objects beyond papers, such as images, data, software, protocols, methods, and workflow associated with your research.
 
 The best way to get started with this will be to look up some examples of what kind of research objects are or should be cited.
 Finding commonly referenced research objects in your discipline serves two purposes:
@@ -27,13 +27,13 @@ You can learn more about the different types of research objects in the chapters
 (cm-citable-steps-publish)=
 ## 2. Publish your work online
 
-Online publications are attached to persistent identifiers that are used for citing them.
+Online publications are attached to [persistent identifiers](https://www.youtube.com/watch?v=iea6d5oI8Ag) that are used for citing them.
 It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.
 
 (cm-citable-steps-doi)=
 ### DOIs
 
-```{figure} ../../figures/DOI.jpg
+```{figure} ../../figures/DOI.*
 ---
 name: doi
 alt: This image shows three boxes with materials on top. The main box in the middle has 'identifiers' written on it with three discs on top of it that are labelled 'data sets'. Both boxes by their side have journal articles on top of them. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
@@ -56,13 +56,16 @@ Some examples include:
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 
+You can read more about these different article types in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
+
 (cm-citable-steps-referencing)=
 ## 3. Add Machine-Readable Referencing Information
 
 You can go a step further by allowing people to import information about your research objects into their preferred referencing database.
 If [BibTeX](https://en.wikipedia.org/wiki/BibTeX) is popular in your field for managing references, post a `.bib` file of *all* your outputs (not just your papers).
 If [Endnote](https://endnote.com/) is more popular, make an Endnote export available.
-If you use GitHub, GitLab or similar, consider creating a `CITATION` file in each repository containing guidance for how someone can refer to different research outputs from your project.
+If you use GitHub, GitLab or a similar public repository, consider creating a `CITATION.cff` file in each repository, which will describe how someone can refer to different research outputs from your project.
+You can read more about `CITATION.cff` in {ref}`Software citation with CITATION.CFF <cm-citable-cff>`.
 
 If possible, provide several formats: you won't need to update these very often and it will pay off.
 

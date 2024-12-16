@@ -39,7 +39,7 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 
 🗣️ Welcome!
 
-- Reminder: [Code of conduct & community participation guidelines](https://the-turing-way.netlify.app/community-handbook/coc.html)
+- Reminder: [Code of conduct & community participation guidelines](https://book.the-turing-way.org/community-handbook/coc.html)
 - If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the organisers - Malvika and Kirstie. ([theturingway@gmail.com](mailto:theturingway@gmail.com)).
 
 ### Roll call

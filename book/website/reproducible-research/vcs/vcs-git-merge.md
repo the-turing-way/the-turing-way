@@ -4,7 +4,7 @@
 (rr-vcs-merge-command)=
 ## The `git merge` Command
 
-Once you have finished up some work on a branch and you are ready to integrate it to your main project (or any other branch), you can merge the branch that you worked on into the master branch or any other target branch of your interest.
+Once you have finished up some work on a branch and you are ready to integrate it to your main project (or any other branch), you can merge the branch that you worked on into the main branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
 
 To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via:
@@ -35,10 +35,10 @@ error: Entry 'your_file_name' would be overwritten by merge. Cannot merge. (Chan
 (rr-vcs-merge-command-practice)=
 ### Good practice
 
-First and foremost, your **master branch should always be stable**.
+First and foremost, your **main branch should always be stable**.
 Only merge work that is finished and tested (for example, on a different branch).
 If your project is collaborative, then it is a good idea to merge changes that others make into your own work frequently or share your changes with your collaborators.
-If you do not do it often, it is very easy to merge conflicts that arise (next section).
+If you do not do it often, it is very easy for merge conflicts to arise (next section).
 
 (rr-vcs-merge-conflicts)=
 ## Merge Conflicts
@@ -75,7 +75,7 @@ Within the files with conflicts, the incompatible changes will be marked so you 
 print('hello world!!!')
 =======
 print('Hello World')
->>>>>>> master
+>>>>>>> main
 ```
 `<<<<<<<`: Indicates the start of the lines that had a merge conflict.
 The first set of lines are the lines from the file that you were trying to merge the changes into.

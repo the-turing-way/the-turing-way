@@ -3,7 +3,7 @@
 
 YAML is an indentation-based markup language which aims to be both easy to read and easy to write.
 Many projects use it for configuration files because of its readability, simplicity, and good support for many programming languages.
-It can be used for many things, including defining computational environments, and is well integrated with [GitHub actions](https://travis-ci.org/), which is discussed in the {ref}`rr-ci-github-actions` chapter.
+It can be used for many things, including defining computational environments, and is well integrated with [GitHub actions](https://github.com/actions), which is discussed in the {ref}`rr-ci-github-actions` chapter.
 
 (rr-renv-yaml-files)=
 ## YAML Files

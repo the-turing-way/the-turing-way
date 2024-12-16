@@ -1,33 +1,6 @@
 (rr-open-resources)=
 # Resources
 
-(rr-open-resources-checklist)=
-## Checklist
-
-## Open source software
-
-- Put your code in a freely accessible repository.
-- Include a licence granting others the right to use, copy and modify your work. You can use the {ref}`software licenses<rr-licensing-software>`) section to help you pick the most appropriate licence for your project.
-- Include a readme file containing useful information about a project such as what it is, how to use/install it and how to run any tests.
-- If you want others to collaborate on the project include contribution guidelines.
-
-## Open hardware
-
-- Use open hardware where practical.
-- Make detailed documentation and designs for any hardware you develop openly available.
-- Include a licence granting others the right to use, copy and modify your work. You can use [this](https://choosealicense.com/) website to help you pick the most appropriate licence for your project.
-- Include a readme file containing useful information about a project (for example, what it is and the materials used).
-
-## Open access
-
-- Publish your research in an open access journal.
-- Store a copy and/or preprint of your work in a freely accessible public repository.
-
-## Open notebooks
-
-- Keep notes in an Electronic Lab Notebook.
-- Make your notebooks publicly accessible online.
-
 (rr-open-resources-learn)=
 ## What to Learn Next
 
@@ -38,7 +11,7 @@ For information specific to open source software, [this](https://opensource.guid
 For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
 
 If you want to take a look at an active open source project, this textbook *is* one.
-The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
+The source can be found on GitHub [here](https://github.com/the-turing-way/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
 (rr-open-resources-references)=
 ## References

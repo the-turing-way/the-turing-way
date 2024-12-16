@@ -6,8 +6,101 @@ If these constraints conflict, then you cannot legally distribute the result (if
 
 If two licenses specify incompatible constraints on the license of the combined work, then they are _incompatible_.
 
+(rr-licensing-software-derivative)=
+## Derivative Software
+
+Within the category of free software, there are several subcategories, which are distinguished by what is allowed when making derivative software.
+There are two basic ways of making a derivative work of a program or library: modifying it (forking), or combining it with other software (for example using a library in your program).
+Of course, you can modify and then combine as well.
+
+Modifying a program leads to a new program that is derived from the original.
+This is similar to deriving the new edition of a textbook from the original.
+Both the original and modified versions are works under copyright law, and both of them may be licensed.
+
+As an example of combining software, imagine a program A that uses two preexisting libraries B and C.
+The complete program A will consist of library B, library C, and some code D that connects the libraries together and perhaps adds additional functionality.
+Each of these four items is a work of authorship with a license.
+Program A can sometimes be referred to as the "Combined work", "Work as a whole" or "Larger work".
+
+Different free software licenses place different constraints on how modified versions and combined works can be licensed.
+
+Copyleft licenses add some restrictions to the licensing of derivative works.
+Like permissive licenses, they let you distribute the software unchanged under that license.
+However, if you distribute a binary, then you have to include the source code as well.
+Modified versions have to be distributed under the same license as the original; you are not allowed to change the license.
+
 The GNU GPL, for instance, is incompatible with proprietary licenses, because it requires the combined work to be licensed under the GPL, with no additional restrictions allowed.
-Having a part of the work under a proprietary license is such an additional restriction, so you cannot distribute such a combination (unless the copyright owner of the GPL code gives special permission).
+Having a part of the work under a proprietary license is such an additional restriction, so you cannot distribute such a combination, unless the copyright owner of the GPL code gives special permission.
+However, GPL codebases often have many contributors and you need all of their permission. This is an intended feature of the license which is by design hostile to being re-licensed in a proprietary fashion.
+{ref}`Contributor License Agreements (CLAs)<rr-licensing-edge-clas>` can be used by GPL projects circumvent this by empowering a single party to make decisions about relicensing if they want to allow for dual licensing of GPL or AGPL codebases.
+
+When creating a combined work, a further distinction can be made.
+_Strong_ copyleft licenses on a component require a combined work to be licensed under the same license as the component.
+In the example above, if library B is distributed under a strong copyleft license such as the GNU GPL, then program A must be distributed under that same license.
+
+_Weak_ copyleft licenses allow the combined work (A) to be distributed under any license, as long as the source for the licensed component (B) is also made available under its original license.
+They may also require that the recipient of the combined work can re-link the modules after modifying the component.
+
+(rr-licensing-software-overview)=
+## Permission Overview
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2"></th>
+            <th colspan="2">Copyleft</th>
+            <th rowspan="2">Permissive</th>
+            <th rowspan="2">Proprietary</th>
+        </tr>
+        <tr>
+            <th>Strong</th>
+            <th>Weak</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Use for anything</th>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Sometimes</td>
+        </tr>
+        <tr>
+            <th>Private changes</th>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute original</th>
+            <td>Same license, with source</td>
+            <td>Same license, with source</td>
+            <td>Same license, also binary-only<sup>1</sup></td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute modified</th>
+            <td>Same license, with source</td>
+            <td>Same license, with source<sup>2</sup></td>
+            <td>Any license, also binary-only</td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute combined</th>
+            <td>Same license, with source</td>
+            <td>Any license, binary additions</td>
+            <td>Any license, also binary-only</td>
+            <td>Rarely</td>
+        </tr>
+    </tbody>
+    <caption>
+      <div class="footnote">
+        <sup>1</sup>Under any license for the MIT license <sup>2</sup>Relicensing LGPL to GPL is allowed
+      </div>
+      Permissive licenses grant the largest set of permissions to users. Copyleft licenses require redistribution of the original or modified source to use the same license, with weak copyleft licences allowing a different choice of license for the combined work. Proprietary licenses rarely provide any permissions beyond the right to use the software.
+    </caption>
+</table>
 
 When you use different pieces of software together to solve a problem, and want to distribute the result, here are the questions you have to answer:
 
@@ -23,7 +116,7 @@ The next section shows some examples of how this is done.
 Many of the examples in this section relate to [xtas](http://xtas.net).
 xtas is a natural language processing toolkit for Python that reuses many third-party libraries, programs and data sets, and therefore provides a variety of excellent examples.
 
-```{figure} ../../figures/xtas-overview96.png
+```{figure} ../../figures/xtas-overview96.*
 ---
 name: xtas-overview96
 alt: A graphical overview of xtas. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Underneath this, there are three side-by-side squares, representing respectively Python libraries, software, and data, that are used by xtas. Within the Python libraries square, there are three boxes. The first box contains the words "BSD", "MIT" and "ALv2". The second box contains "LGPLv2.1". The third box contains "GPLv2+". Within the Software square, there are four boxes. The first box contains "Web Service". The second box contains "LGPL v2.1+". The third box contains "Research only", and the fourth box contains "GPL 2+/3+". The Data square also contains four boxes. The first box contains "CC BY-SA 3.0". The second box contains "Research Only". The third box contains "No license, US" and the fourth box contains "CoNLL'02 only".
@@ -45,7 +138,7 @@ In the following examples, we will simplify most of this away and look at one or
 (rr-licensing-compatibility-examples-apachevsbsd)=
 ### Apache vs. BSD
 
-```{figure} ../../figures/xtas-snowball96.png
+```{figure} ../../figures/xtas-snowball96.*
 ---
 name: xtas-snowball96
 alt: An illustration of the xtas vs. Snowball example.  A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Snowball Stemmer" and "Python lib BSD".
@@ -82,7 +175,7 @@ If xtas authors redistribute Snowball, they must do so under the BSD license gra
 (rr-licensing-compatibility-examples-apachevslgpl)=
 ### Apache vs. LGPL
 
-```{figure} ../../figures/xtas-chardet96.png
+```{figure} ../../figures/xtas-chardet96.*
 ---
 name: xtas-chardet96
 alt: An illustration of the xtas vs. chardet example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "chardet" and "Python lib LGPLv2.1".
@@ -103,17 +196,17 @@ The others are independent works.
 
 Chardet is licensed under a weak copyleft license, so it can be redistributed under the terms of that license.
 Derivative works can be licensed under any license.
-However, the LGPL v2.1 requires that the recipient can (and is allowed to) modify the library and use the modified library with the derivative work.
+However, the LGPLv2.1 requires that the recipient can (and is allowed to) modify the library and use the modified library with the derivative work.
 
 #### How should the work(s) be licensed?
 
 xtas as a whole, and the xtas Python code, can be licensed in any way the authors want, so they used the Apache License v2.0.
-If they distribute chardet, they must do so under the LGPL v2.1 license granted by its copyright owners.
+If they distribute chardet, they must do so under the LGPLv2.1 license granted by its copyright owners.
 
 (rr-licensing-compatibility-examples-apachevsgplv2)=
 ### Apache vs. GPLv2
 
-```{figure} ../../figures/xtas-unidecode96.png
+```{figure} ../../figures/xtas-unidecode96.*
 ---
 name: xtas-unidecode96
 alt: An illustration of the xtas vs. unidecode example. The large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "unidecode" and "Python lib GPLv2+".
@@ -165,7 +258,7 @@ As is probably clear by now, dependencies that are under a strong copyleft licen
 (rr-licensing-compatibility-examples-apachevsall)=
 ### Apache vs BSD vs LGPL vs GPLv2
 
-```{figure} ../../figures/xtas-all-python-libs96.png
+```{figure} ../../figures/xtas-all-python-libs96.*
 ---
 name: xtas-all-python-libs96
 alt: An illustration of the xtas and all Python libraries example. A large rectangle represents the combined work xtas. Within this rectangle, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below this, there are three squares. The first square contains the words "Snowball" and "Python lib BSD". The second square contains "chardet" and "Python lib LGPLv2.1". The third square contains the words "unidecode" and "Python lib GPLv2+".
@@ -194,7 +287,7 @@ The xtas Python code should be licensed under the Apache License v2 and the comb
 
 xtas can run the [Stanford CoreNLP program](https://stanfordnlp.github.io/CoreNLP/), which is written in Java and distributed under the GNU GPL version 3 or later. When the user calls the corresponding xtas function, CoreNLP is started by xtas, the user's input is sent to it through a pipe, and then the CoreNLP output is handed back to the user or processed further.
 
-```{figure} ../../figures/xtas-corenlp1-96.png
+```{figure} ../../figures/xtas-corenlp1-96.*
 ---
 name: xtas-corenlp1-96
 alt: An illustration of the xtas vs. CoreNLP example. The square represents the combined work xtas. Within this square, there is a wide low rectangle at the top representing the xtas Python code, licensed under the Apache License v2. Below that is a square containing the words "Stanford CoreNLP" and "Java program GPLv3+".
@@ -205,7 +298,7 @@ An illustration of the xtas vs. CoreNLP example.
 One interpretation of this situation is that it is no different from calling a function in a library and that any distribution of xtas, as a whole, including CoreNLP, should therefore be under the GPLv3+.
 Contributing to this interpretation is the fact that xtas will download and install CoreNLP automatically if needed.
 
-```{figure} ../../figures/xtas-corenlp2-96.png
+```{figure} ../../figures/xtas-corenlp2-96.*
 ---
 name: xtas-corenlp2-96
 alt: Another illustration of the xtas vs. CoreNLP example. The square on the left represents the combined work xtas. Within this square, there is a rectangle representing the xtas Python code, licensed under the Apache License v2. On the right is a separate square representing CoreNLP, with the text "Stanford CoreNLP" and "Java program GPLv3+". Between the squares are two arrows, one at the top pointing from xtas to CoreNLP, and one at the bottom pointing from CoreNLP to xtas.
@@ -248,6 +341,7 @@ If it did not include OpenIFS, it would have to be distributed under the GPLv3, 
 #### Can we work on this privately, without distributing anything?
 
 The GPL allows making private modifications of software covered by it, with no restrictions, provided the changed software is not distributed at all.
+In the case of the AGPL, running a server interacted with in some way by users over a network is equivalent to distribution under the GPL and you would be required to provide any users with the source code.
 The OpenIFS license also allows making private modifications.
 So we can work on this project (and prepare and run combined works) without violating the licenses, as long as we do not share the results with anyone.
 

@@ -31,7 +31,7 @@ In addition to the roles, governance also includes the decision-making processes
 As discussed, a clearly defined set of roles and responsibilities allow individuals or groups to build a sense of common purpose and set a clear expectation around shared ownership in the project.
 These roles can be developed based on the tasks, responsibilities and skill requirements in the project.
 
-```{figure} ../../figures/mountain-of-engagement.png
+```{figure} ../../figures/mountain-of-engagement-graphic.*
 ---
 name: mountain-of-engagement
 alt: Five steps for developing a “Mountain of Engagement” for Open Source project contributors described in the figure title.

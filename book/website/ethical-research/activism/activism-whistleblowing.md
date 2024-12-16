@@ -28,3 +28,5 @@ Ozoma and Banks both left their jobs and received just half a year of severance 
 Whistleblowing by Ozoma and Banks enabled people of color at the company to come forward about their experiences.
 “I could not stand by and let a company get away with posting Black Lives Matter when they did not act like black lives mattered in the negotiations they had just concluded with us,” [Banks told the Guardian](https://www.theguardian.com/technology/2020/dec/18/pinterest-gender-discrimination-lawsuit-black-workers). 
 “This was about integrity and not letting the company get away with painting themselves as this space for kindness and positivity when they had completely denigrated, abused, and retaliated against us.”
+
+In 2021, Ozoma launched [The Tech Worker Handbook](https://techworkerhandbook.org/), a guide to physical and digital security, seeking legal support, and working with the media, for whistleblowers in tech companies. 
