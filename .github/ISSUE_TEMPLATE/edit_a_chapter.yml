@@ -1,5 +1,5 @@
 name: "\U0001F50D Edit a chapter"
-description: Template to propose editing a chapter
+description: An existing chapter needs to be updated
 title: "[TO EDIT]: chapter/subchapter"
 body:
   - type: markdown
