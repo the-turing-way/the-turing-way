@@ -8,9 +8,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please complete the following sections when you want to propose a new chapter. 
+        Please complete the following sections when you want to propose a new chapter.
 
-        You are encouraged to keep this top level comment box updated as you develop and respond to reviews. 
+        You are encouraged to keep this top level comment box updated as you develop and respond to reviews.
 
         If you have write access to the repository, please also assign the appropriate label (or labels) to your issue.
 
@@ -18,9 +18,9 @@ body:
     attributes:
       label: Summary
       description: |
-        Please provide a detailed description of the chapter you are writing or proposing. 
+        Please provide a detailed description of the chapter you are writing or proposing.
 
-        If you have started writing the chapter, also provide details about the pull request you've made as well as the branch you've been working from. 
+        If you have started writing the chapter, also provide details about the pull request you've made as well as the branch you've been working from.
 
         Please provide as much context as possible and link to other related issues and/or pull requests.
       value: |
@@ -53,7 +53,7 @@ body:
     attributes:
       label: Resources
       description: |
-        List and describe any external resources that may be helpful when writing the chapter. 
+        List and describe any external resources that may be helpful when writing the chapter.
 
         We suggest using bullets (indicated by * or -) and filled checkboxes [x] here.
       render: markdown
@@ -80,7 +80,7 @@ body:
     attributes:
       label: Updates
       description: |
-        To avoid that others have to read through the full thread of comments, update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. 
+        To avoid that others have to read through the full thread of comments, update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance.
 
         You may use the checklist here to get started, feel free to modify this list.
 

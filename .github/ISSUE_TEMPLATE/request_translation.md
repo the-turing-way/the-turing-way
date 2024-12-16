@@ -12,7 +12,7 @@ Please complete the following sections when you open an issue. You are encourage
 -->
 ### Summary
 
-<!-- Please provide a detailed description of the language/languages that you want to translate to and the chapters that you would like to translate. 
+<!-- Please provide a detailed description of the language/languages that you want to translate to and the chapters that you would like to translate.
 Please provide as much context as possible and link to related issues and/or pull requests.
 Providing links to sections you're referencing for clarity is highly encouraged.
 -->

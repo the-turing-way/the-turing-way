@@ -1,6 +1,6 @@
 name: "\U0001F50D Editor's Issue Template"
 description: Template to propose editing a chapter
-title: [TO EDIT] <chapter/subchapter>
+title: "[TO EDIT] <chapter/subchapter>"
 body:
   - type: markdown
     attributes:

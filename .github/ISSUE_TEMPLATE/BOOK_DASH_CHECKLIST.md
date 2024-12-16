@@ -32,13 +32,13 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Set up an online platform ([Zoom](https://zoom.us/), or other accessible software) for remote collaboration
 - [ ] Copy the HackMD index page for the event using last round for reference: https://hackmd.io/@turingway/bookdash-nov2022-index
 - [ ] Update shared HackMD for pre-event calls<ch-template-bookdash-precall>, [book dash event](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-notes.html#ch-template-bookdash-notes) and [feedback](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-feedback.html#ch-template-bookdash-feedback)
-- [ ] Copy the Eventbrite page from last round for the Book Dash attendees - set a registration code 
+- [ ] Copy the Eventbrite page from last round for the Book Dash attendees - set a registration code
 - [ ] Send a reminder in next newsletters with more details if needed
 - [ ] Copy the share out Eventbrite page (2 sessions)
 - [ ] Clearly state the following information in an application form and later communicate by email with the selected participants:
-  -   what financial support will be available for either online or in-person events 
-  -  What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events 
-  -  Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events 
+  -   what financial support will be available for either online or in-person events
+  -  What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
+  -  Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
   - Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
 
 **During and after the application phase**

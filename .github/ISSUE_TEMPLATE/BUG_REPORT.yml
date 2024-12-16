@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this template to raise issues about installing or running _The Turing Way_ locally on your computer. 
+        Use this template to raise issues about installing or running _The Turing Way_ locally on your computer.
 
         If you would like to raise an issue about fixing typos, or formatting issues in chapters, please use the [Editor's Issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=&template=EDITOR_ISSUE_TEMPLATE.yml).
 
@@ -22,7 +22,7 @@ body:
     attributes:
       label: Description
       description: |
-        Use this section to clearly and concisely describe the bug.  
+        Use this section to clearly and concisely describe the bug.
 
         We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbox [x]) here.
       value: |
@@ -36,7 +36,7 @@ body:
     attributes:
       label: Expected Behavior
       description: |
-        Tell us what you thought would happen. 
+        Tell us what you thought would happen.
 
         We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbox [x]) here.
       value: |
@@ -50,7 +50,7 @@ body:
     attributes:
       label: Actual behaviour
       description: |
-        Tell us what actually happens. 
+        Tell us what actually happens.
 
         We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbox [x]) here.
       value: |
@@ -87,7 +87,7 @@ body:
     attributes:
       label: Operating system
       description: |
-        Such as linux or OSX. 
+        Such as linux or OSX.
 
         We suggest using bullets (indicated by * or -) or checkboxes [ ] (filled checkbox [x]) here.
       value: |
