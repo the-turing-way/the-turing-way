@@ -46,7 +46,7 @@ We encourage all stakeholders in data science to utilise _The Turing Way_ to und
 
 * Collaboration Beyond Boundaries: Engage in a global collaboration that transcends borders and welcomes diverse perspectives.
 * Skill Development: Learn a skills, share a skill that you have and contribute to projects in making a real impact.
-* Learn, Remix, Reuse: Dive into our resources, and feel free to remix and reuse materials (just remember to attribute as per our [License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)].
+* Learn, Remix, Reuse: Dive into our resources, and feel free to remix and reuse materials (just remember to attribute as per our [License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
 **Calling Everyone In: Your Participation and Perspectives Matter!**
 
