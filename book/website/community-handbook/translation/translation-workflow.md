@@ -4,12 +4,39 @@
 We are members of _The Turing Way_ community with different motivations to localise the content to different languages.
 Feel free to join the `#translation` channel in [_The Turing Way_ slack](https://theturingway.slack.com).
 You will also have to create a Crowdin account but more on that {ref}`in the next section<ch-translation-localisation-journey>`
-The team has a fortnightly call on Tuesdays at 5pm UTC to co-work, discuss, and check the progress of the translation.
-These sessions are open to anyone interested in participating.
 
 You can find these activities in [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
 Please note that these calls are in English but we are happy to facilitate other co-working calls in different languages.
 The deployment of these translated versions is work in progress, and some parts of this workflow may change in the future. Feel free to contact anyone on the `#translation` channel of the _The Turing Way_ Slack if you have any ideas and feedback to help our work.
+
+## Structure of the Meetings
+### Co-working Calls & Onboarding Calls
+- **Frequency**: Once every month
+- **Chair**: Selected from leads
+- **Membership**: Open to anyone interested in localisation
+- **Objectives**:
+  - A facilitator assists with onboarding in the breakout room.
+  - It is an 'Ask Me Anything' call for any questions.
+  - The main room is dedicated to working on milestones for the localisation work.
+  - Tasks are prepared in advance (in Crowdin Kanban) to support new members.
+### Community Meeting
+- **Frequency**: This is integrated into the _The Turing Way_ Collaboration Café. 
+- **Chair**: Selected from leads
+- **Membership**: Open to anyone interested in localisation.
+- **Objectives**: A forum to discuss deliverables/outputs (for example: toolkits, glossary, blog posts), consult the community, and seek feedback.
+### Localisaton Lead Team Meeting
+- **Frequency**: Bi-monthly
+- **Membership**: Exclusive to localisation leads.
+- **Objectives**: To review milestones and decisions related to localisation.
+### Language Leads Meeting
+- **Frequency**: Every four months
+- **Membership**: Language leads plus localisation leads.
+- **Objectives**: To evaluate the work of each language, discuss potential plans, questions, or support needs.
+### Language Localisation Sprints
+- **Frequency**: This is organised by each language lead.
+- **Chair**: Language lead.
+- **Membership**: All language contributors.
+- **Objectives**: Language leads, with support from localisation leads, organise localisation sprints. These can occur during a Book Dash or independently.
 
 ## Asynchronous translation
 
@@ -92,9 +119,14 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```  
 
-
 In each co-working or external session, prioritise those chapters that are outdated or close to completion. 
 Check out our {ref}`guidelines<ch-translation-localisation-journey>` for a list of the priorities.
+
+### Decision making
+- If any big changes in the infrastructure of the whole workflow have to be made, they can be documented  and the rest of the team should have reasonable time to see the proposal and approve it. What "big" change means, and what "reasonable" time means are up to each one--based on common sense, no need to wait forever for a tiny change--, but tagging the relevant team members to prompt a revision/an opinion can be a good practice to have quick feedback and make decisions quicker. 
+- Not everybody in the team lead should have to participate to decide on something, maybe only one +1 is enough. If the first person reviewing does not agree or the change needs more discussion, they can call a third member to give an opinion and discuss the change. 3/4 people should be enough to make a decision.
+- Team lead meetings every 1-2 months in the same slot of the translation co-working call. 
+
 
 # Translation is a continuous process
 

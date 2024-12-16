@@ -28,6 +28,10 @@ alt: The Turing Way project is illustrated as a road or path with shops for diff
 _The Turing Way_ guides - an illustration by Scriberia and _The Turing Way_ community shared under the CC-BY 4.0 license on Zenodo. [DOI: 10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
+The book is collaboratively written and built in the open from the start.
+You can explore different opportunities to get involved on the [start page](https://the-turing-way.start.page/).
+Join [our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) to connect and discuss your ideas and [subscribe to our newsletter](https://buttondown.email/turingway) to follow updates from our community.
+
 ## Different Pathways
 
 

@@ -1,5 +1,5 @@
 (cl-academic-industry-best-practices)=
-# Introduction
+# Case studies and best practices in industry-academia collaboration
 The creation of this subchapter was motivated by a need to address the realities of navigating the complex relationship between Open Science and Industry, particularly in cases where research is partly or fully funded by industry. A balance must be struck between producing research that meets the priorities of the sponsoring organisation and producing research that is open, shareable, and beneficial to the community. 
 
 Researchers and practitioners championing Open Science could benefit from case studies and lessons learnt from others who have successfully and/or unsuccessfully navigated this aspect of Academic-Industry collaborations.

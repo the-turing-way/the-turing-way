@@ -155,7 +155,7 @@ For more details on software citation on GitHub please see [GitHub's guide on so
   name: github-cff-integration
   alt: Button on GitHub that provides automatically conversion of the `CITATION.cff` file to APA's and BibTex's format.
   ---
-  "Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format.
+  "Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format. The screen capture is from the [Citation File Format repository](https://github.com/citation-file-format/citation-file-format).
   ```
 
   ```{note}
