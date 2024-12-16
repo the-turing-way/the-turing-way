@@ -34,7 +34,9 @@ body:
       label: Who can help?
       description: |
         If you know the original author the chapter/section, it may be useful to tag them here for their input.
-      placeholder: Please use bullets (* or -) here.
+    placeholder: |
+      - …
+      - …
   - type: checkboxes
     id: updates
     attributes:
