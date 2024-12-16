@@ -93,6 +93,6 @@ body:
         - [ ] Proofread
         - [ ] Request reviews
         - [ ] Address reviews
-        - [ ] Merge to master branch.
+        - [ ] Merge to main branch.
     validations:
       required: false
