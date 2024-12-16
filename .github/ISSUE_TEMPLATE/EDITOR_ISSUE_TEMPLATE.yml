@@ -1,14 +1,12 @@
-name: "\U0001F50D Editor's Issue Template"
+name: "\U0001F50D Edit a chapter"
 description: Template to propose editing a chapter
-title: "[TO EDIT] <chapter/subchapter>"
+title: "[TO EDIT]: chapter/subchapter"
 body:
   - type: markdown
     attributes:
       value: |
         This template will guide you through the steps necessary for you to propose a chapter/subchapter to edit, review or restructure.
         Please fill in the title above but do not remove the text "[TO EDIT]".
-        If you have the required permissions, please assign the appropriate label (or labels) to your issue;
-        if you do not have the permissions, one of the project members can help with this after you create the issue.
   - type: textarea
     id: summary
     attributes:
