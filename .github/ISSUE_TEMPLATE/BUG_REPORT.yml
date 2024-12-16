@@ -16,7 +16,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Expected Behavior
+      label: Expected behavior
       description: Tell us what you thought would happen.
   - type: textarea
     attributes:
