@@ -8,7 +8,8 @@ We involve and collaborate with a diverse community of contributors to make data
 
 ```{admonition} Top Tip
 :class: tip
-_The Turing Way_ is not meant to be read from start to finish. Start with what interests you!
+_The Turing Way_ is not meant to be read from start to finish. 
+Start with what interests you!
 Whether it's a concept, a tool, or a method you need right now, jump in.
 Browse the different guides or use the search box —
 it's all about what you want to learn.
