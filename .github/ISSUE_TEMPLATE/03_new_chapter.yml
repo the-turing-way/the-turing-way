@@ -1,7 +1,7 @@
 name: "\U0001F4D6 New chapter"
 description: Propose a new chapter
 title: "[CHAPTER]: chapter"
-labels: book
+labels: [book]
 body:
 - type: markdown
   attributes:
