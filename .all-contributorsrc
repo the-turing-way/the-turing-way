@@ -1813,7 +1813,8 @@
       "profile": "https://remi-gau.github.io/",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "infra"
       ]
     },
     {
