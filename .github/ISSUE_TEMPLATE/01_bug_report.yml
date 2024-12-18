@@ -1,0 +1,52 @@
+name: "\U0001F41B Bug report"
+description: Create a report to help us repair something that is currently broken
+title: "[BUG]:"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to raise issues about viewing or building _The Turing Way_.
+        If you would like to raise an issue about fixing typos, or formatting issues in chapters, please use the [Editor's Issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=&template=EDITOR_ISSUE_TEMPLATE.yml).
+  - type: textarea
+    attributes:
+      label: Description
+      description: Use this section to clearly and concisely describe the bug.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: Tell us what you thought would happen.
+  - type: textarea
+    attributes:
+      label: Actual behaviour
+      description: Tell us what actually happens.
+  - type: textarea
+    attributes:
+      label: How to reproduce
+      description: Use this section to describe the steps that a user would take to experience this bug.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error -->
+  - type: textarea
+    attributes:
+      label: Your personal set up
+      description: Tell us a little about the system you're using or tested this bug in.
+      value: |
+        - **Operating System**:
+        - **Browser**:
+  - type: textarea
+    attributes:
+      label: Dependencies
+      description:
+        If you have found a bug when building the book, please give a list of the dependencies you are using.
+        You can generate a list of this using `pip freeze`.
+  - type: textarea
+    attributes:
+      label: Log messages
+      description:
+        Please include any relevant log or error messages here.
+        You may also include screenshots.
