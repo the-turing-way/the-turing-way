@@ -1,3 +1,5 @@
+_build/
+
 website/_site
 website/_build
 website/.sass-cache
