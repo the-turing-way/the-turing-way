@@ -8,8 +8,6 @@ accessible-pygments==0.0.5
     # via pydata-sphinx-theme
 alabaster==0.7.16
     # via sphinx
-appnope==0.1.4
-    # via ipykernel
 asttokens==2.4.1
     # via stack-data
 attrs==24.2.0
@@ -314,8 +312,9 @@ tabulate==0.9.0
     # via jupyter-cache
 tenacity==9.0.0
     # via plotly
-tornado==6.4.1
+tornado==6.4.2
     # via
+    #   -r requirements.in
     #   ipykernel
     #   jupyter-client
 traitlets==5.14.3
