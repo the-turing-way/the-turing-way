@@ -23,6 +23,6 @@ The project design also includes aspects such as timeline, budget, risks, expect
 With these viewpoints, we welcome chapters defining the requirements in a project in terms of up-skilling, supporting and improving accessibility of different stakeholders.
 
 We hope you will learn from different case studies for small, mid-size, and large projects spanning both short-term and long-term plans.
-If you are brave enough, your examples of failed projects will be incredibly valuable for understanding how to avoid making the same (totally understandable!) mistakes again.
+If you are brave enough, your examples of failed projects will be incredibly valuable for understanding how to avoid making the same (totally understandable) mistakes again.
 
 Check out our [contributing guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.
