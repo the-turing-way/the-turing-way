@@ -55,6 +55,7 @@
     ethical practices throughout the lifecycle of research.
 - name: Research Software Engineers
   files:
+    - communication/citable/citable-otherscite
     - communication/citable/citable-cite
     - collaboration/research-infrastructure-roles/rse
     - collaboration/research-infrastructure-roles/rse-personal-story
@@ -88,6 +89,7 @@
     - communication/citable/citable-linking
     - communication/citable/citable-orcid
     - communication/citable/citable-resources
+    - communication/citable/citable-otherscite
     - reproducible-research/reproducible-research
     - reproducible-research/overview
     - reproducible-research/open
