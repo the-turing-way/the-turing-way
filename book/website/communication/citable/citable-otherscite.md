@@ -1,7 +1,5 @@
 (cm-citable-otherscite)=
 # Citing other people's Research Objects
-[![](https://img.shields.io/static/v1?label=pathway&message=Research%20Software%20Engineers&color=white)](/research-software-engineers.md)
-[![](https://img.shields.io/static/v1?label=pathway&message=Software%20Citation&color=green)](/software-citation.md)
 
 When citing research objects from other people/researchers, ensure you verify when, where, and how to properly cite those research objects.
 Below, we provide a brief explanation for each of these three scenarios.
