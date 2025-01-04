@@ -12,7 +12,7 @@
 > Remember to add your image to the `figures` [folder](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures) and use the correct path, else it will not be displayed.
 > See more about styling and chapter template here: <https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template>
 
-Building an end-to-end ML pipeline is a challenging process. Keeping a proactive focus on potential security, privacy, fairness, or any other safety related issue makes the process more challenging. In this sense, reviewing the overall pipeline, regardless of its type, is a dynamic and non-linear process. Koshiyama et al. demonstrated the interrelation between development stages and auditing verticals for fairness and explainability in five main steps {cite}`koshiyama_towards_2021`:
+Building an end-to-end ML pipeline is a challenging process. Managing security, privacy, fairness, and other safety-related issue requires a holistic and proactive approach. In this proactive management process, reviewing the overall pipeline, identifying the potential issues, and mitigating the risks with appropriate solutions is a dynamic and non-linear process. Koshiyama et al. demonstrated the interrelation between development stages and auditing verticals for fairness and explainability in five main steps {cite}`koshiyama_towards_2021`:
 
 **Stages:** | Data and Task Setup | Feature pre-processing | Model selection | Post-processing and Reporting| Productionizing and Deploying
 ----|---- | ---- | ----| ---- | ---- |

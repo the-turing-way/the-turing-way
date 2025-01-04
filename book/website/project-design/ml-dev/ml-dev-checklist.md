@@ -8,13 +8,16 @@
 
 The Turing Way chapters traditionally include a checklist to summarize the key content points. Below is a checklist for developers of ML-powered systems to consider throughout the project. This chapter provides an only introductory overview of these questions.
 
+The main question that can prevent bias caused by an AI-infused system is:
 - [ ] Is using ML essential for this project?
-- [ ] What are the goals and success metrics?
-- [ ] What standards or guidelines should be used to assess and manage risks?
-- [ ] How can I gather data that is both useful and ethical?
-- [ ] How can I train the ML model sustainably and maintainably?
-- [ ] How will I monitor the deployed model and address potential data drift?
 
+ML is great for learning patterns from data. But, not every project requires this kind of feature. If your project requires ML development, start asking these question for each trustworthiness component (robustness, security, privacy, fairness, explainability, transparency) to achieve equitable AI development:
+
+- [ ] What are the goals and success metrics [for fairness]?
+- [ ] What standards or guidelines should be used to assess and manage risks [related to fairness]?
+- [ ] How can I gather data that is both useful and ethical [to achieve fair behaviour]?
+- [ ] How can I train sustainable and maintainable ML models [considering fairness]?
+- [ ] How will I monitor the deployed model and address potential data drift [considering fairness]?
 
 The following resources present a deeper exploration of best practices and development techniques:
 
