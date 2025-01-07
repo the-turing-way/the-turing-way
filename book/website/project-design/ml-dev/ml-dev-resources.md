@@ -1,26 +1,14 @@
 (ml-dev-resources)=
 # Resources
 
-> **#TODO:**
->  What other chapters in _The Turing Way_ book they should read next
->  List external resources where they can learn more about the topic of your chapter
+Ensuring safety characteristics such as robustness, security, privacy, fairness, and transparency in machine learning pipelines is essential for building trust for the users of AI systems. These characteristics require a team effort and careful analysis of existing responsbilities of the development team members. Teams should maintain governance and risk management recipes to achieve high performance, equitable outcomes and accountability. 
 
-Ensuring fairness and transparency in machine learning pipelines is essential for building trustworthy and ethical AI systems. By embedding these principles at each stage of the development process—from data setup to deployment—teams can design models that not only achieve high performance but also maintain equitable outcomes and accountability. This chapter outlined a fairness-oriented approach to machine learning project design, providing guidance on building reproducible, explainable, and unbiased models. As you apply these strategies, you’ll be better equipped to develop ML systems that align with both organizational goals and social responsibilities, promoting responsible AI practices in real-world applications.
+This chapter outlined a fairness-oriented approach to machine learning project design, providing guidance on building reproducible, explainable, and unbiased models. As you apply the presented strategies, you’ll be better equipped to develop ML systems that align with both organizational goals and social responsibilities, promoting responsible AI practices in real-world applications.
 
 (ml-dev-resources-learn)=
 ## What to Learn Next
 
-> **Recommend other chapters in _The Turing Way_ book that readers should read next as a "level up", and explain why.**
-> Please cross reference to those chapters so that reader can easily navigate to them.
-> If the target chapter does not have a label, add one.
-
-(ml-dev-resources-reading)=
-## Further Reading
-
-> **Point users to external resources to learn more about your chapter's topic.** 
-> For each resource, please provide a link and a reason why the reader should be interested in it.
-> Use a list for this section
-
-- [Resource 1](link_to_resource): _reason for recommendation_
-- [Resource 1](link_to_resource): _reason for recommendation_
-- [Resource 1](link_to_resource): _reason for recommendation_
+| Resource | Link | Summary |
+| -------------|----------| ----------|
+| Techworks Best Practices | <https://techworkshub.github.io/best-practice-guide/index.html> | This guide inspired the above checklist and provides detailed answers to each question. |
+| Equitable AI Cookbook | <https://asabuncuoglu13.github.io/equitable-ai-cookbook/> | Another project by the Alan Turing Institute researchers, this project focuses on equitable AI best practices. |

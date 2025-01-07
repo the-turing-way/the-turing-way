@@ -1,11 +1,20 @@
 (ml-dev-finance)=
 # Use Case: Credit Scoring Risk Prediction ML Pipeline
 
-> **#TODO:**
-> This is a template. Review it and make any contributions as you like.
-> Talk about all key stages in detail. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> Add diagrams for better communication.
+[ML Development Process in a Fairness Oriented Approach](./ml-dev-pipeline.md) listed some suggestions to achie safer and fairer ML development. Here, the credit risk prediction use case demonstrates the application of suggested actions.
 
+```{note}
+Also, check [Fairlearn's Credit Loan Notebook](https://fairlearn.org/v0.12/auto_examples/plot_credit_loan_decisions.html) as a reference implementation to evaluate and mitigate fairness considerations.
+```
+
+## 0. **Task Setup**
+
+- Set up experiment monitoring
+- Set up metadata management
+- Set up a risk management plan
+- Review previous incidents
+
+---
 
 ## 1. **Data and Task Setup**
 
@@ -14,9 +23,9 @@
 - **Target variable:** Loan default (binary: defaulted vs. not defaulted).
 
 ### 1.2 **Data Collection**
-- **Sources:** Bank transaction histories, credit bureau reports, income levels, employment history, and demographic information.
+- **Sources:** Bank transaction histories, credit bureau reports, income levels, employment history, and demographic information. 
 - **Volume:** Dataset of [X number of] historical loan applicants over [time period].
-- **Sensitive Attributes:** Age, gender, race, and location (which could lead to indirect biases).
+- **Sensitive Attributes:** Age, gender, and race are direct sensitive characteristics (based on equality and human rights). Location/postcode information could lead to indirect biases by implicitly reveal ethnicity.
 
 ### 1.3 **Fairness: Population Balance**
 - **Fairness Considerations:** Ensure representation across socioeconomic classes, minority groups, and other protected attributes. Initial exploration revealed that [e.g., minority group X] is underrepresented in the training data, which was mitigated by resampling techniques.
