@@ -75,7 +75,9 @@ This degree route is suited both to recent graduates and early or mid-career pro
 > DS educators teaching students without a data science or AI background would need to pay particular attention to the students' background knowledge, concepts, and practical and metacognitive skills. 
 Assessment for learning, differentiated instruction, collaborative learning, and other effective teaching methods, can be tailored to the unique needs of data science and AI education across disciplines.
 
-As previously mentioned, non-cognate does not necessarily mean non-computing, non-mathematics, or non-STEM, so it is important not to make assumptions about students’ prior knowledge and skills. The suggestions below can apply to broad data science and AI education, but educators teaching non-cognate students may find them particularly useful for tailoring teaching and learning to students' needs and skillset. These different pedagogical approaches are designed to help you gain insights into your students’ understanding of specific concepts or topics, allowing you to better support their individual progress. 
+It is important not to make assumptions about students’ prior knowledge and skills. 
+The suggestions below can apply to broad data science and AI education, but educators teaching students without a data science and AI background may find them particularly useful for tailoring teaching and learning to students' needs and skill sets. 
+These different pedagogical approaches are designed to help you gain insights into your students’ understanding of specific concepts or topics, allowing you to better support their individual progress. 
 
 1. **Assessment for Learning** is used during learning, and it is useful to identify student demographics, student needs and starting points, and to generate feedback they can use to improve performance. 
 Assessment for Learning can take different forms: it could be as simple as observing class discussions, asking questions in oral or written form, or using collaborative tools such as Miro or Notion to leverage visual aids and conceptual mapping. 
