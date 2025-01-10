@@ -124,7 +124,11 @@ DI in the context of data science and AI for non-cognate students by applied thr
 
 ## Summary
 
-In conclusion, teaching non-cognate students can be challenging for educators, but it also provides many opportunities, especially in terms of creativity, knowledge sharing, and problem-solving. We recommend conducting an initial assessment of students' understanding of AI and data science fundamentals (data literacy) to determine where the focus should be. It is important not to take students' existing knowledge and specific expertise for granted. Teaching approaches such as assessment for learning can be useful for this purpose, while formative assessment and differentiated instruction, combined with a blend of methods to cater to different learning styles, can support the design of teaching content and the adjustment of material according to students' needs. Collaborative learning is also an effective way to engage students, leverage their existing knowledge, and foster a supportive environment for rich exchanges and co-development.
+In conclusion, teaching students without a data science or AI background can be challenging for educators, but it also provides many opportunities, especially in terms of creativity, knowledge sharing, and problem-solving. 
+We recommend conducting an initial assessment of students' understanding of AI and data science fundamentals (data literacy) to determine where the focus should be. 
+It is important not to take students' existing knowledge and specific expertise for granted. 
+Teaching approaches such as assessment for learning can be useful for this purpose, while formative assessment and differentiated instruction, combined with a blend of methods to cater to different learning styles, can support the design of teaching content and the adjustment of material according to students' needs. 
+Collaborative learning is also an effective way to engage students, leverage their existing knowledge, and foster a supportive environment for rich exchanges and co-development.
 
 ---
 
