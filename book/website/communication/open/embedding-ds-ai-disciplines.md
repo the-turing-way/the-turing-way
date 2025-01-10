@@ -97,7 +97,7 @@ In this way, you will provide your students with information about their current
 
 2. **Formative Assessment (FA)** supports teaching by assessing a learner's state and inferring next steps (Zhai et al., 2021). It is similar to AfL, as both methods are used to understand student progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, FA is used for day-to-day assessments to gauge and explore students' understanding of a topic.
 
-The FA process usually consists of the following three practices (Stanja et al., 2023):
+The formative assessment process usually consists of the following three practices (Stanja et al., 2023):
 * **Eliciting**: The collection of evidence for students' learning using tasks and questions 
 * **Interpreting**: Analysing what students are saying, writing or doing and what this indicates about their thinking; and identifying implications for learning based on the previous analysis
 * **Responding**: Giving feedback to students or adaptation of instruction. 
