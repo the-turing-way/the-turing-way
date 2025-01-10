@@ -112,7 +112,8 @@ Formative assessments in data science and AI education should focus on providing
 
 3. **Differentiated Instruction (DI)** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan (Tomlinson, 2017). 
 
-DI sits between "single-size" instruction and individualised instruction, involving proactive planning of various ways for students to express their learning. While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students.
+Differentiated instruction sits between "single-size" instruction and individualised instruction, involving proactive planning of various ways for students to express their learning. 
+While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students.
 In this model, the teacher is viewed as an organiser of knowledge rather than a gatekeeper.
 
 DI in the context of data science and AI for non-cognate students by applied through:
