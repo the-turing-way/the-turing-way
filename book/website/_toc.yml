@@ -458,6 +458,8 @@ chapters:
             file: communication/presentations/presentations-remote
           - title: Personal Stories - Presentations
             file: communication/presentations/presentations-personal-stories
+          - title: Practical Techniques for Effective Public Speaking
+            file: communication/presentations/public-speaking-tips          
       - title: Social Media for Research Communications
         file: communication/social-media
         sections:
