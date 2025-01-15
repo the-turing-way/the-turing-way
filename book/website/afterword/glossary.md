@@ -378,10 +378,6 @@ Mock Test
 
 ## N
 
-```{glossary}
-
-```
-
 ---
 
 
@@ -510,10 +506,6 @@ Push
 ---
 
 ## Q
-
-```{glossary}
-
-```
 
 ---
 
@@ -671,17 +663,9 @@ Virtual Machine
 
 ## W
 
-```{glossary}
-
-```
-
 ---
 
 ## X
-
-```{glossary}
-
-```
 
 ---
 
@@ -695,8 +679,3 @@ YAML
 ---
 
 ## Z
-
-
-```{glossary}
-
-```
