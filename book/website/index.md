@@ -1,37 +1,37 @@
 (welcome)=
 # Welcome
 
-*Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
+_Welcome to The Turing Way Handbook to Reproducible, Ethical, and Collaborative Data Science._
 
-_The Turing Way_ is an open science, open collaboration, and community-driven project.
-We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
-Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
+The Turing Way is an open science, open collaboration, and community-driven project. 
+We involve and collaborate with a diverse community of contributors to make data science accessible, comprehensible and beneficial for everyone.
 
 ```{admonition} Top Tip
 :class: tip
-_The Turing Way_ is not meant to be read from start to finish.
-Start with a concept, tool or method that you need now, in your current work.
-Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
+_The Turing Way_ is not meant to be read from start to finish. 
+Start with what interests you!
+Whether it's a concept, a tool, or a method you need right now, jump in.
+Browse the different guides or use the search box —
+it's all about what you want to learn.
 ```
 
-All stakeholders from any level of experience or domain expertise are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science and research.
-You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
-
-In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to get involved.
+Our moonshot goal is to make reproducibility "too easy not to do"! 
+Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
 ```{figure} figures/theturingway-pathway.*
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way_ guides - an illustration by Scriberia and _The Turing Way_ community shared under the CC-BY 4.0 license on Zenodo. [DOI: 10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
 The book is collaboratively written and built in the open from the start.
-You can explore different opportunities to get involved on the [start page](https://the-turing-way.start.page/).
+You can explore various opportunities to engage with the book or the broader community through this [start page](https://the-turing-way.start.page/).
 Join [our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) to connect and discuss your ideas and [subscribe to our newsletter](https://buttondown.email/turingway) to follow updates from our community.
 
 ## Different Pathways
+
 
 (welcome-community)=
 ## Our Community
@@ -76,4 +76,3 @@ All contributions must abide by our [code of conduct](https://github.com/the-tur
 More information about the community, participation process and project management is available in the {ref}`ch`.
 
 We look forward to expanding and building _The Turing Way_ together.
-
