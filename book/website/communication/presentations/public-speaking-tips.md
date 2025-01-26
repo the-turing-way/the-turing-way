@@ -41,6 +41,8 @@ So, if you show genuine excitement about your topic, your audience will mirror i
 
 Imagine yourself as an audience member: *How would you expect a confident speaker to act?*
 
+Also, reflect on your experiences with effective public speaking. What characteristics and behaviors did those speakers exhibit that demonstrated enthusiasm and confidence? Learn from them.
+
 Bottom line? Own the stage, and don’t be afraid to enjoy the experience.
 
 ## The Power of Rhetorical Questions
