@@ -86,11 +86,14 @@ Speak before transitioning slides to keep the audience focused on you, not just 
 Advancing the slides too soon tempts them to read ahead of you.
 
 Useful rule of thumb: Have just enough on the slides to support what you say, no more. Don't be afraid to aggressively cut things out of slides. Remember, the audience is listening to you, not reading a document off the screen!
+
 ## Acknowledgements
 
 These tips are the result of coaching sessions with [David Kershaw](https://www.davidkershaw.net/), a professional public speaking coach.
 
 # Further readings
+
+- Duhigg, C. (2024). _Supercommunicators: How to unlock the secret language of connection._ New York: Random House.
 
 - Reynolds, G. (2010a). Presentation zen design: Simple design principles and techniques to enhance your presentations. New Riders. https://search.worldcat.org/title/406138786
 
