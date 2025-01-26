@@ -83,7 +83,9 @@ Your slides are there to support *you*, not the other way around.
 Speak before transitioning slides to keep the audience focused on you, not just your visuals. 
 Advancing the slides too soon tempts them to read ahead of you.
 
+## Acknowledgements
 
+These tips are the result of coaching sessions with [David Kershaw](https://www.davidkershaw.net/), a professional public speaking coach.
 
 # Further readings
 
