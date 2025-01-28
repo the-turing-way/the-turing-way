@@ -80,7 +80,7 @@ CC licenses also cover copyrights and other neighbouring rights.
 
 Another difference is the availability of a standardised Community Norms document with the PDDL.
 The lack of such a document with CC0 means that you have to rely on community norms, which may often be unspoken or unwritten and can vary from community to community, to ensure fair attribution.
-A comparison between the PDDL and CC0 is provided [here](https://opendatacommons.org/faq.1.html).
+A comparison between the PDDL and CC0 is provided [here](https://opendatacommons.org/faq/).
 
 (rr-licensing-data-options)=
 ## Other Licensing Options
