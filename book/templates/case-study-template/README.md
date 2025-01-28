@@ -59,9 +59,9 @@ With proper file names, other contributors can easily identify the purpose of yo
 
 ### Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `_toc.yml` [file](book/website/_toc.yml).
+The book-wide table of contents lives in the `myst.yml` [file](book/website/myst.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
-Your chapter's files should be added to the `_toc.yml` as appropriate.
+Your chapter's files should be added to the `myst.yml` as appropriate.
 
 For example, because the [Statistical Methods Manuscript](https://book.the-turing-way.org/reproducible-research/case-studies/statistical-methods-manuscript.html) case study was written for the Guide for Reproducible Research, it was added to the table of contents as follows:
 
