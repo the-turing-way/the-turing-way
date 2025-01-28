@@ -7,7 +7,7 @@
 - [BinderHub documentation](https://binderhub.readthedocs.io/en/latest/index.html)
 - [Zero-to-JupyterHub with Kubernetes documentation](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
 - [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/)
-- [_The Turing Way_ Build a BinderHub Workshop](http://bit.ly/zero-to-binderhub-workshop)
+- [_The Turing Way_ Build a BinderHub Workshop](https://github.com/the-turing-way/build-a-BinderHub/blob/main/workshop-presentations/zero-to-binderhub.md)
 
 ## References specific for this chapter
 
