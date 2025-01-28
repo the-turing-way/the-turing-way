@@ -14,9 +14,9 @@ In all cases, the goal is to use your programming experience to figure out how t
 
 - Does the new code meet the required standards of the project?
   The standards are typically written under `contributing guidelines` by the project you are contributing to.
-- Is there [documentation](#documentation) that meets the required standards of the project?
+- Is there [documentation](#rr-checklist-for-code-review:documentation) that meets the required standards of the project?
 - Are you following any declared {ref}`style guide<rr-code-quality>` for the project?
-- Are there new [tests](#tests) for the new material, based on the required standards of the project?
+- Are there new [tests](#rr-checklist-for-code-review:tests) for the new material, based on the required standards of the project?
   - Do these tests pass locally?
   - Are the tests in the rest of the code base still passing locally?
 - Create the pull request.
@@ -30,24 +30,25 @@ In all cases, the goal is to use your programming experience to figure out how t
 - Check the required standards of the project. The standards are typically written under
 `contributing guidelines` by the project you are contributing to.
 - Check the code meets basic project {ref}`style guide<rr-code-quality>`, if this is not automatically checked by {ref}`continuous integration (CI)<rr-ci>`.
-- Do the [tests](#tests) and [documentation](#documentation) conform to the standards?
-- Is all the code easily understood? Depending on the language, files may contain interfaces, classes or other type definitions, and functions (see [Architecture](#architecture)).
+- Do the [tests](#rr-checklist-for-code-review:tests) and [documentation](#rr-checklist-for-code-review:documentation) conform to the standards?
+- Is all the code easily understood? Depending on the language, files may contain interfaces, classes or other type definitions, and functions (see [Architecture](#rr-checklist-for-code-review:architecture)).
     The essential architectural concepts can be reviewed as follows:
   - Check the [interfaces](#interfaces) lists.
-  - Check the [classes and types](#classes-and-types) lists.
+  - Check the [classes and types](#rr-checklist-for-code-review:classes-and-types) lists.
   - Check the [function/method declarations](#functionmethod-declarations) lists.
   - Check the [function/method definitions](#functionmethod-definitions) lists.
-- Do the [tests](#tests) actually ensure the code is robust in its intended use?
+- Do the [tests](#rr-checklist-for-code-review:tests) actually ensure the code is robust in its intended use?
   - Are there any bugs or other defects?
-- Are [security](#security) issues handled correctly?
-  - Check the [security of new code](#security-of-new-codes).
-- Does the new code meet the [legal requirements](#legal)?
+- Are [security](#rr-checklist-for-code-review:security) issues handled correctly?
+  - Check the [security of new code](#rr-checklist-for-code-review:security-new-code).
+- Does the new code meet the [legal requirements](#rr-checklist-for-code-review:legal)?
 
 ## Program level checklist
 
 Here is a list of things to consider when looking at the program as a whole,
 rather than when looking at an individual file or change.
 
+(rr-checklist-for-code-review:documentation)=
 ### Documentation
 
 Documentation is a prerequisite for using, developing, and reviewing the program.
@@ -65,6 +66,7 @@ and what approach you’re taking. Here are some things to check for.
   - Including how to submit changes
   - Including how to document your changes
 
+(rr-checklist-for-code-review:architecture)=
 ### Architecture
 
 These items are mainly important for larger programs, but may still be good
@@ -78,6 +80,7 @@ to consider for small ones as well.
     interdependent modules should be combined.
 - Can the design be simplified?
 
+(rr-checklist-for-code-review:security)=
 ### Security
 
 If you're making software that is accessible to the outside world (for example a web
@@ -96,6 +99,7 @@ mitigate the security impact of defects.
   - Ideally, validate in the input module and pass only
     validated data to other parts.
 
+(rr-checklist-for-code-review:legal)=
 ### Legal
 
 As a developer, you should pay attention to the legal rights of the
@@ -117,6 +121,7 @@ code itself becomes the subject of scrutiny. Depending on the language, files
 may contain interfaces, classes or other type definitions, and functions. All
 these should be checked.
 
+(rr-checklist-for-code-review:interfaces)=
 ### Interfaces
 
 - Is the interface documented?
@@ -126,6 +131,7 @@ these should be checked.
 Note that most of the following items assume an object-oriented programming
 style, which may not be relevant to the code you're looking at.
 
+(rr-checklist-for-code-review:classes-and-types)=
 ### Classes and types
 
 - Is the class documented?
@@ -139,6 +145,7 @@ style, which may not be relevant to the code you're looking at.
   - Does it have a small number of dependencies?
   - Does it depend on interfaces, rather than on classes?
 
+(functionmethod-declarations)=
 ### Function/Method declarations
 
 - Are there comments that describe the intent of the function or method?
@@ -146,6 +153,7 @@ style, which may not be relevant to the code you're looking at.
 - Are pre- and postconditions documented?
 - Are edge cases and unusual things commented?
 
+(functionmethod-definitions)=
 ### Function/Method definitions
 
 - Are edge cases and unusual things commented?
@@ -158,6 +166,7 @@ style, which may not be relevant to the code you're looking at.
 - Can debugging or logging code be removed?
 - Can any of the code be replaced by library functions?
 
+(rr-checklist-for-code-review:security-new-code)=
 ### Security of new codes
 
 - If you're using a library, do you check errors it returns?
@@ -165,6 +174,7 @@ style, which may not be relevant to the code you're looking at.
 - Are output values checked and encoded properly?
 - Are invalid parameters handled correctly?
 
+(rr-checklist-for-code-review:tests)=
 ### Tests
 
 - Do unit tests actually test what they are supposed to?

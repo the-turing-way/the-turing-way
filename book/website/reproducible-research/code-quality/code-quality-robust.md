@@ -73,7 +73,7 @@ If they are trying to select a column that does not exist, for instance.
 Or if they are performing mathematical operations on pieces of text.
 
 You can also take advantage of errors that are raised by the programming language you use.
-We will go into that in more detail in [Error handling](#error-handling).
+We will go into that in more detail in [Error handling](#rr-code-error-handling).
 
 (rr-code-error-workflow-step3)=
 ### Step 3: Deal with unmet assumptions
