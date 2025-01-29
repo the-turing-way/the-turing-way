@@ -5,7 +5,7 @@
 
 This section briefly introduces the key concepts of *Responsible Research and Innovation* (RRI) and *Research Integrity*.
 Both refer to different questions within the field of research ethics.
-Below is a table summarising these questions.
+Below is a table summarising these questions:
 
 | Factor | RRI | Research Integrity |
 | -------- | -------- | -------- |
