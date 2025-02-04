@@ -46,7 +46,8 @@ But also…
 
 ### Understanding the fundamental concepts of AI and Data Science 
 
-When teaching non-cognate students, it is crucial to first assess their understanding of AI and data science fundamentals. The multi-stage framework proposed by Kandlhofer et al. (2016) for **AI literacy** (Figure 2) can serve as a valuable reference for evaluating students' knowledge.
+When teaching non-cognate students, it is crucial to first assess their understanding of AI and data science fundamentals. 
+The multi-stage framework proposed by Kandlhofer et al. (2016) for **AI literacy** (Figure 2) can serve as a valuable reference for evaluating students' knowledge.
 
 Depending on existing knowledge, teaching may need to focus on:
 * Building initial awareness
