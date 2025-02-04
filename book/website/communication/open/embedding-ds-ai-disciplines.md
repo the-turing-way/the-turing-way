@@ -116,7 +116,7 @@ Differentiated instruction sits between "single-size" instruction and individual
 While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students.
 In this model, the teacher is viewed as an organiser of knowledge rather than a gatekeeper.
 
-DI in the context of data science and AI for non-cognate students by applied through:
+Differentiated instruction in the context of data science and AI can by applied through:
 * **Tiered assignments**: Provide different levels of difficulty in project tasks or problem sets, allowing students to engage at a level that matches their proficiency.
 * **Learning pathways**: Create alternative learning modules that cater to different interests applications of data science and AI, letting students choose based on their existing knowledge, career goals or academic interests.
 * **Visual aids and simulations**: Use visual representations of algorithms and data flows, which can help visual learners better understand complex concepts.
