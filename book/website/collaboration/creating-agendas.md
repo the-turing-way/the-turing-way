@@ -63,7 +63,7 @@ It's not uncommon for meetings to only have 2 or 3 topics on an hour long agenda
 
 ## The end
 
-The end of an agend is a place to lay the groundworks for the next meeting and reflective improvement of how the meeting went.
+The end of an agenda is a place to lay the groundworks for the next meeting and reflective improvement of how the meeting went.
 
 Groundworks for the next meeting includes both personal tasks and collectively give input on what the next meeting agenda might look like.
 It can be a good idea to take a pause and let people write down and share the todo or action items they are taking away from the meeting.
