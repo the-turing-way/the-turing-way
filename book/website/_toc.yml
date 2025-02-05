@@ -727,6 +727,7 @@ chapters:
           - title: Examples of Open Source Business Models
             file: collaboration/oss-sustainability/oss-sustainability-examples
 
+
   # ===== Guide for Ethical Research ========================================
   - file: ethical-research/ethical-research
     sections:
@@ -796,6 +797,7 @@ chapters:
             file: ethical-research/data-hazards/dh-case-study
       - title: Ethical Considerations for Open Source Governance Models
         file: ethical-research/ethics-open-source-governance
+
 
   # ===== Community Handbook ========================================
   - file: community-handbook/community-handbook
@@ -937,6 +939,17 @@ chapters:
             file: community-handbook/fireside-chat/fireside-chat-roles
       - title: Giving a Turing Way Talk
         file: community-handbook/presenting
+      - title: Working Groups
+        file: community-handbook/working-groups
+        sections:
+          - title: Guidelines for the Working Groups
+            file: community-handbook/working-groups/working-groups-guideline
+          - title: Formalising a Working Group
+            file: community-handbook/working-groups/working-groups-formalisation
+          - title: Charter Template for the Working Groups
+            file: community-handbook/working-groups/working-groups-charter-template
+          - title: References
+            file: community-handbook/working-groups/working-group-resources   
       - title: Template Collection
         file: community-handbook/templates
         sections:
@@ -976,3 +989,6 @@ chapters:
         file: afterword/glossary
       - title: Bibliography
         file: afterword/bibliography
+      
+      
+      
