@@ -4,10 +4,11 @@ Welcome to the community Slack group: a place for you to network, collaborate, e
 
 **Table of content**
 
-1. [Configuring your account](#1-configuring-your-account)
-2. [Notification settings](#2-channel-and-notification-settings)
-3. [Communicating with others](#3-communicating-with-others)
+1. [Configuring your account](#configuring-your-account)
+2. [Notification settings](#channel-notification-settings)
+3. [Communicating with others](#communicating-with-others)
 
+(configuring-your-account)=
 ## 1. Configuring your account
 
 ### PROFILE
@@ -25,6 +26,7 @@ Status updates can be a useful way to let others know your availability as your 
 To update your status, click your name in the top left of the screen and select `update status`. You can select when you want your status update to be removed by stipulating a timeframe from the “clear after” dropdown.
 You can clear a status update at any time by clicking on your name and selecting `clear status` from the dropdown.
 
+(channel-notification-settings)=
 ## 2. Channel and Notification settings
 
 ### How to find, join and create channels
@@ -48,7 +50,7 @@ Slack notifications are great, but they may bother you when you try to focus on 
     * Here you have the option to ignore any @channel messages, or mute the channel entirely.
 
 #### Following a specific thread
-If another group member posts something of particular interest you can choose to follow that thread. Find how to reply in thread in [Section 3](#3-communicating-with-others).
+If another group member posts something of particular interest you can choose to follow that thread. Find how to reply in thread in [Section 3](#communicating-with-others).
 
 1. Click the `ellipsis (three dots)` to the right of the original post and select “`follow message`” from the dropdown.
 
@@ -61,6 +63,7 @@ If a channel has become too noisy, you can additionally:
 * **Mute** it: When you’re in a channel, click the “`i`” icon at the top right. Choose “`more`” and then choose “`mute`” from the dropdown.
 * **Leave** it: When you’re in a channel, click the “`i`” icon at the top right. Choose “`more`” and then choose “`leave`” from the dropdown.
 
+(communicating-with-others)=
 ## 3. Communicating with others
 
 ### A FEW POINTS OF ETIQUETTE
