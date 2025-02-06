@@ -17,6 +17,7 @@ However, DNS over HTTPS is available and becoming more common.
 
 To learn more about DNS you can read [Cloudflare's DNS learning documents](https://www.cloudflare.com/learning/dns/what-is-dns/).
 
+(summary-of-records)=
 ## Summary of Records
 
 There are many DNS record types.

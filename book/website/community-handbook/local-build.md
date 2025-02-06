@@ -21,6 +21,7 @@ Other command line tools you will need are,
 - `git`
 - `make`
 
+(step-by-step-guide)=
 ## Step-by-step Guide
 
 ### Clone The Repository
@@ -60,7 +61,7 @@ $ source ./venv/bin/activate
 
 Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
 Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
-That will be explained in more depth in [a later section](#why-we-recommend-using-a-virtual-environment).
+That will be explained in more depth in [a later section](#recommend).
 
 ### Install the Dependencies
 
@@ -156,6 +157,7 @@ $ make pathways
 This will generate the pathways files then build the book.
 This is the build of the book which is deployed to the website.
 
+(recommend)=
 ## Why We Recommend Using a Virtual Environment
 
 In the [step-by-step guide](#step-by-step-guide), we used Jupyter Book to build the Turing Way.
