@@ -102,3 +102,16 @@ fi
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
+
+# Cross-domain redirects for the start page
+[[redirects]]
+  from = "http://the-turing-way.org/*"  
+  to = "https://the-turing-way.start.page/" 
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://the-turing-way.org/*"
+  to = "https://the-turing-way.start.page/"
+  status = 302
+  force = true
