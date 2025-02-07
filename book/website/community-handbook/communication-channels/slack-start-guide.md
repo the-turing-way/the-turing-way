@@ -47,7 +47,7 @@ Slack notifications are great, but they may bother you when you try to focus on 
 
 #### Channel by channel
 1. When you’re in a channel, click the “`i`” icon at the top right. Choose “`more`” and then click “`notifications`.”
-    * Here you have the option to ignore any @channel messages, or mute the channel entirely.
+    * Here you have the option to ignore any \@channel messages, or mute the channel entirely.
 
 #### Following a specific thread
 If another group member posts something of particular interest you can choose to follow that thread. Find how to reply in thread in [Section 3](#communicating-with-others).
@@ -73,9 +73,9 @@ If a channel has become too noisy, you can additionally:
 * When someone posts a brand new item in a channel, anyone in the channel can reply directly to it, creating a thread. Threads allow separate conversations to take place in the group without confusion – and for members to choose which of those conversations to follow more closely.
 * To add a comment to a thread, click the :left_speech_bubble: to the right of an existing post.
 
-#### Use @channel, @here and other handles sparingly
+#### Use \@channel, \@here and other handles sparingly
 
-* If you type **@channel** or **@here** or other general handles (**@participants** or **@instructors**, & **@admin**) in a post or comment that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
+* If you type **\@channel** or **\@here** or other general handles (**@participants** or **\@instructors**, & **\@admin**) in a post or comment that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
 
 #### Respect the context of this shared space
 

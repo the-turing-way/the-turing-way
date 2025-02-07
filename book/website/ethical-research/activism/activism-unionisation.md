@@ -83,7 +83,7 @@ name: scientific-union-badge
 alt: A blue enamel badge with AScW, that stands for Association of Scientific Workers printed on it on a wooden background.
 ---
 AScW (stands for
-Association of Scientific Workers) badge. Image from the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) *(text and image reproduced under CC-BY with permission from the account)*
+Association of Scientific Workers) badge. Image from the Instagram account [\@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) *(text and image reproduced under CC-BY with permission from the account)*
 ```
 > The union began its history as the National Union of Scientific Workers in 1918, as a result of the rapid and increased class and professional consciousness, as well as politicisation of scientists in the wake of the First World War.
 > In 1927 the name was changed to the AScW, and it continued as such until 1968 when it merged with the Association of Supervisory Staff, Executives and Technicians (ASSET) to form the Association of Scientific, Technical and Managerial Staffs (ASTMS) a precursor of MSF and ultimately Unite.

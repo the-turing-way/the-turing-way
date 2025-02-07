@@ -53,7 +53,7 @@ True co-creation is an active process of inclusion, and there are many levels of
 name: ladder-of-participation
 alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research - manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
 ---
-Arnstein's Ladder of Citizen Participation, illustration credit - [@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
+Arnstein's Ladder of Citizen Participation, illustration credit - [\@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
 ```
 
 No open source project is an island.
