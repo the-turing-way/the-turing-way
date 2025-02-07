@@ -115,3 +115,15 @@ fi
   to = "https://the-turing-way.start.page/"
   status = 302
   force = true
+
+[[redirects]]
+  from = "https://www.the-turing-way.org/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.book.the-turing-way.org/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
