@@ -75,7 +75,7 @@ If a channel has become too noisy, you can additionally:
 
 #### Use \@channel, \@here and other handles sparingly
 
-* If you type **\@channel** or **\@here** or other general handles (**@participants** or **\@instructors**, & **\@admin**) in a post or comment that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
+* If you type **\@channel** or **\@here** or other general handles (**\@participants** or **\@instructors**, & **\@admin**) in a post or comment that will send a notification to everyone in that channel. Please use this only for items that really do need everyone’s attention.
 
 #### Respect the context of this shared space
 
