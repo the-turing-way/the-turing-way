@@ -66,10 +66,12 @@ Find details about this WG's work on their [GitHub repository]().
 
 More information will be shared as soon as this WG is operationalised.
 
-
 ## Funded Projects 
 
-### Software Sustainability Institute
+### Software Sustainability Institute Fellows
+
+- Esther Plomp
+- Arielle Bennett
 
 ### Data Science Without Borders
 
