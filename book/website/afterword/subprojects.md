@@ -44,16 +44,11 @@ The next chair rotation is scheduled for September 2024.
 - Member: [Carlos Martinez](https://book.the-turing-way.org/afterword/contributors-record#c-martinez)
 - Member: [Susana Roman Garcia](https://book.the-turing-way.org/afterword/contributors-record#susana465)
 
-
 ## Funded Projects 
 
-### Professionalising Data Science Roles - Turing's Skills Policy Award
+### Software Sustainability Institute
 
-*Project Information: [GitHub repo](https://github.com/alan-turing-institute/professionalising-data-science-roles)*
-
-- [Emma Karoune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
-- [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
+### Data Science Without Borders
 
 ### *The Turing Way* Practitioners Hub - BridgeAI-funded Project
 
@@ -76,19 +71,6 @@ The next chair rotation is scheduled for September 2024.
 - [Johanna Bayer](https://book.the-turing-way.org/afterword/contributors-record#johanna-bayer)
 - [Jim Madge](https://book.the-turing-way.org/afterword/contributors-record#jim-madge)
 
-### Data Science Project Management for Project Leaders
-
-*Project Information: [GitHub repo in the Turing organisation](https://github.com/alan-turing-institute/data-training-for-bioscience). Materials are hosted under The Carpentries incubator for lesson 1: [introduction to AI and Data Science](https://github.com/carpentries-incubator/managing-computational-projects) and lesson 2: [open and reproducible practices](https://github.com/carpentries-incubator/data-science-ai-senior-researchers) featuring *The Turing Way* resources.*
-
-**Developers**
-
-- Malvika Sharan, Lydia France, Federico Nanni: : funded by AI for Science and Government in 2021-2022
-- Julien Colomb (in-kind from TU Berlin) and Jo Havemamm from Access to Perspective (funded by the Turing's Health Research Programme): 2023
-
-**Maintainers**
-- [Julien Colomb](https://book.the-turing-way.org/afterword/contributors-record#julien-colomb)
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
-
 ## Informal Initiatives
 
 ## Cite.Software: Centalising Recommendation for Research Stakeholders
@@ -106,3 +88,29 @@ The next chair rotation is scheduled for September 2024.
 - [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp)
 - [Danny Garside](https://book.the-turing-way.org/afterword/contributors-record#danny-garside)
 - [Hao Ye](https://www.weecology.org/author/hao-ye/)
+
+## Concluded Initiatives
+
+### Professionalising Data Science Roles - Turing's Skills Policy Award
+**Status: Concluded**
+
+*Project Information: [GitHub repo](https://github.com/alan-turing-institute/professionalising-data-science-roles)*
+
+- [Emma Karoune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)
+- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
+- [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
+
+### Data Science Project Management for Project Leaders
+
+**Status: Concluded and being maintained**
+
+*Project Information: [GitHub repo in the Turing organisation](https://github.com/alan-turing-institute/data-training-for-bioscience). Materials are hosted under The Carpentries incubator for lesson 1: [introduction to AI and Data Science](https://github.com/carpentries-incubator/managing-computational-projects) and lesson 2: [open and reproducible practices](https://github.com/carpentries-incubator/data-science-ai-senior-researchers) featuring *The Turing Way* resources.*
+
+**Developers**
+
+- Malvika Sharan, Lydia France, Federico Nanni: : funded by AI for Science and Government in 2021-2022
+- Julien Colomb (in-kind from TU Berlin) and Jo Havemamm from Access to Perspective (funded by the Turing's Health Research Programme): 2023
+
+**Maintainers**
+- [Julien Colomb](https://book.the-turing-way.org/afterword/contributors-record#julien-colomb)
+- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
