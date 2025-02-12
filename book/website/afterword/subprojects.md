@@ -80,6 +80,12 @@ More information will be shared as soon as this WG is operationalised.
 - Malvika Sharan
 - Precious Onyewuchi
 
+### JupyterHub
+
+*Project Information: [GitHub Repository]()*
+
+- Arielle Bennett
+
 ### *The Turing Way* Practitioners Hub - BridgeAI-funded Project
 
 *Project Information: [Webpage](https://www.turing.ac.uk/turing-way-practitioners-hub)*
