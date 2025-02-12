@@ -90,7 +90,7 @@ More information will be shared as soon as this WG is operationalised.
 
 *Project Information: [Webpage](https://www.turing.ac.uk/turing-way-practitioners-hub)*
 
-- Arielle Bennette
+- Arielle Bennett
 - [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
 - Léllé Demertzi
 
