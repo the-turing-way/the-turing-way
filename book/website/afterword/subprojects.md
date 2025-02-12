@@ -47,7 +47,7 @@ Find details about this WG's work on their GitHub repository](https://github.com
 - Chair: [Arielle Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)
 - Secretary: [Emma Karoune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)
 - [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp)
-- [Alexandra Araujo Alvarez
+- [Alexandra Araujo Alvarez]()
 - [Carlos Martinez](https://book.the-turing-way.org/afterword/contributors-record#c-martinez)
 
 <!--Add the right link - harmonize two repos-->
