@@ -3,7 +3,7 @@
 
 **Welcome to The Turing Way!**
 
-We're so glad to have you here! On this page, you can learn more about our Onboarding Calls, which has been re-initiated in 2024.
+We're so glad to have you here! On this page, you can learn more about our Onboarding Calls.
 
 ## About the Onboarding Call
 
