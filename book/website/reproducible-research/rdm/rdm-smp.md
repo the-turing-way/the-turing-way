@@ -38,3 +38,4 @@ The key point is that SMPs apply to research software across this spectrum, alth
 
 ## Additional Resources
 - [Self-study materials on SMPs](https://esciencecenter-digital-skills.github.io/research-software-support/modules/softwaremanagementplans/slides-smp)
+- [TU Delft Library ‘Navigating Research Data and Software: A Practical Guide for PhD Supervisors’ 2025](https://www.youtube.com/watch?v=5Zy3l4dTJd4)
