@@ -5,7 +5,7 @@
 
 ```{admonition} Note
 :class: tip
-This document was prepared and shared from 2022-2023 for 10-15 community members who were identified to have a leadership role within the community, either transitioning out or stepping out of that role. At the time, this group was called the "Core Team" of _The Turing Way_, used as umbrella term for all community members who have taken on an maintenance role within the community.
+This document was prepared and shared from 2022-2023 for 10-15 community members who were identified to have a leadership role within the community, either transitioning out or stepping out of that role. At the time, this group was called the "Core Team" of _The Turing Way_, used as umbrella term for all community members who have taken on a maintenance role within the community.
 
 This onboarding checklist is no longer in active use, it has been added to the Community Handbook for archival purposes. 
 ```
