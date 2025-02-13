@@ -964,83 +964,83 @@ chapters:
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
 
-      # ===== Afterword ========================================
-=======
-            file: community-handbook/accessibility/accessibility-comms-platforms
-      - title: Communication Platforms
-        file: community-handbook/communication-channels
-        sections:
-          - title: Slack Start Guide
-            file: community-handbook/communication-channels/slack-start-guide
-          - title: Slack Welcome Guide
-            file: community-handbook/communication-channels/slack-welcome-guide
-      - title: Monthly Newsletters
-        file: community-handbook/newsletters
-        sections:
-          - title: A Process of Creating a newsletter
-            file: community-handbook/newsletters/newsletters-process
-          - title: Newsletter's Style Guide
-            file: community-handbook/newsletters/newsletters-style
-          - title: The Turing Way Newsletter Template
-            file: community-handbook/newsletters/newsletters-template
-      - title: Book Dash Events
-        file: community-handbook/bookdash
-        sections:
-          - title: Application and Review Process
-            file: community-handbook/bookdash/bookdash-application
-          - title: Book Dash Logistics
-            file: community-handbook/bookdash/bookdash-logistics
-          - title: Working With an Illustrator
-            file: community-handbook/bookdash/bookdash-illustrator
-          - title: Participant Selection Process
-            file: community-handbook/bookdash/bookdash-selection
-          - title: Book Dash Main Event Plans
-            file: community-handbook/bookdash/bookdash-events
-          - title: After the Book Dash
-            file: community-handbook/bookdash/bookdash-after
-      - title: Community Coworking Calls
-        file: community-handbook/coworking
-        sections:
-          - title: Background, Motivations, and Techniques
-            file: community-handbook/coworking/coworking-motivation
-          - title: Online Collaboration Cafe
-            file: community-handbook/coworking/coworking-collabcafe
-          - title: Weekly Coworking Calls
-            file: community-handbook/coworking/coworking-weekly
-          - title: Organising coworking calls
-            file: community-handbook/coworking/coworking-organisation
-          - title: Drop-in Sessions
-            file: community-handbook/coworking/coworking-dropins
-      - title: Fireside Chat Series
-        file: community-handbook/fireside-chat
-        sections:
-          - title: Fireside Chat Planning Checklist
-            file: community-handbook/fireside-chat/fireside-chat-checklist
-          - title: Fireside Chat Roles and Responsibilities
-            file: community-handbook/fireside-chat/fireside-chat-roles
-      - title: Giving a Turing Way Talk
-        file: community-handbook/presenting
-      - title: Template Collection
-        file: community-handbook/templates
-        sections:
-          - title: Book Dash Main Shared Document
-            file: community-handbook/templates/template-bookdash-index
-          - title: Book Dash Pre-event Onboarding
-            file: community-handbook/templates/template-bookdash-precall
-          - title: Book Dash GitHub Session
-            file: community-handbook/templates/template-bookdash-github
-          - title: Book Dash Template for Shared Notes
-            file: community-handbook/templates/template-bookdash-notes
-          - title: Book Dash Template for Feedback
-            file: community-handbook/templates/template-bookdash-feedback
-          - title: Online Collaboration Cafe Templates
-            file: community-handbook/templates/template-coworking-collabcafe
-          - title: Weekly Coworking Call Template
-            file: community-handbook/templates/template-coworking-weekly
-          - title: Template for Drafting Newsletters
-            file: community-handbook/templates/template-newsletter-draft
-          - title: Template for Fireside Chat Shared Notes
-            file: community-handbook/templates/template-fireside-chat
+   # ===== Afterword ===============================================
+    - file: community-handbook/accessibility/accessibility-comms-platforms
+    sections:
+        - title: Communication Platforms
+          file: community-handbook/communication-channels
+          sections:
+            - title: Slack Start Guide
+              file: community-handbook/communication-channels/slack-start-guide
+            - title: Slack Welcome Guide
+              file: community-handbook/communication-channels/slack-welcome-guide
+        - title: Monthly Newsletters
+          file: community-handbook/newsletters
+          sections:
+            - title: A Process of Creating a newsletter
+              file: community-handbook/newsletters/newsletters-process
+            - title: Newsletter's Style Guide
+              file: community-handbook/newsletters/newsletters-style
+            - title: The Turing Way Newsletter Template
+              file: community-handbook/newsletters/newsletters-template
+        - title: Book Dash Events
+          file: community-handbook/bookdash
+          sections:
+            - title: Application and Review Process
+              file: community-handbook/bookdash/bookdash-application
+            - title: Book Dash Logistics
+              file: community-handbook/bookdash/bookdash-logistics
+            - title: Working With an Illustrator
+              file: community-handbook/bookdash/bookdash-illustrator
+            - title: Participant Selection Process
+              file: community-handbook/bookdash/bookdash-selection
+            - title: Book Dash Main Event Plans
+              file: community-handbook/bookdash/bookdash-events
+            - title: After the Book Dash
+              file: community-handbook/bookdash/bookdash-after
+        - title: Community Coworking Calls
+          file: community-handbook/coworking
+          sections:
+            - title: Background, Motivations, and Techniques
+              file: community-handbook/coworking/coworking-motivation
+            - title: Online Collaboration Cafe
+              file: community-handbook/coworking/coworking-collabcafe
+            - title: Weekly Coworking Calls
+              file: community-handbook/coworking/coworking-weekly
+            - title: Organising coworking calls
+              file: community-handbook/coworking/coworking-organisation
+            - title: Drop-in Sessions
+              file: community-handbook/coworking/coworking-dropins
+        - title: Fireside Chat Series
+          file: community-handbook/fireside-chat
+          sections:
+            - title: Fireside Chat Planning Checklist
+              file: community-handbook/fireside-chat/fireside-chat-checklist
+            - title: Fireside Chat Roles and Responsibilities
+              file: community-handbook/fireside-chat/fireside-chat-roles
+        - title: Giving a Turing Way Talk
+          file: community-handbook/presenting
+        - title: Template Collection
+          file: community-handbook/templates
+          sections:
+            - title: Book Dash Main Shared Document
+              file: community-handbook/templates/template-bookdash-index
+            - title: Book Dash Pre-event Onboarding
+              file: community-handbook/templates/template-bookdash-precall
+            - title: Book Dash GitHub Session
+              file: community-handbook/templates/template-bookdash-github
+            - title: Book Dash Template for Shared Notes
+              file: community-handbook/templates/template-bookdash-notes
+            - title: Book Dash Template for Feedback
+              file: community-handbook/templates/template-bookdash-feedback
+            - title: Online Collaboration Cafe Templates
+              file: community-handbook/templates/template-coworking-collabcafe
+            - title: Weekly Coworking Call Template
+              file: community-handbook/templates/template-coworking-weekly
+            - title: Template for Drafting Newsletters
+              file: community-handbook/templates/template-newsletter-draft
+            - title: Template for Fireside Chat Shared Notes
+              file: community-handbook/templates/template-fireside-chat
 
   # ===== Afterword ========================================
   - file: afterword/afterword
