@@ -52,7 +52,7 @@ This onboarding checklist is no longer in active use, it has been added to the C
 - [ ] Share links
     - [ ] [Slack](https://theturingway.slack.com/)
     - [ ] [Twitter](https://twitter.com/turingway)
-    - [ ] [Mastodon](fosstodon.org/turingway)
+    - [ ] [Mastodon](https://fosstodon.org/turingway)
     - [ ] [Newsletter](https://buttondown.email/turingway/)
     - [ ] [Linkedin](https://www.linkedin.com/company/the-turing-way/)
 - [ ] Useful Links/Information Hub
