@@ -58,7 +58,6 @@ This onboarding checklist is no longer in active use, it has been added to the C
 - [ ] Useful Links/Information Hub
     - [ ] [Core Team note of notes](https://hackmd.io/@turingway/ttw-team-note-of-notes)
 
-If applicable, see [TPS Project Management Repository](https://github.com/alan-turing-institute/tps-project-management) about being onboarded onto the Tools, Practices, and Systems programme more broadly at the Alan Turing Institute. Other research teams and/or groups may have their own onboarding practices and/or repositories (i.e. the [Research Application Manager (RAM) team](https://github.com/alan-turing-institute/research-application-management) or [Community Management (CM) team](https://github.com/alan-turing-institute/open-community-building)).
 
 ## Useful links
 - [The Turing Way Core Google Drive](https://drive.google.com/drive/u/0/folders/1bdjA-fBotMi9CnjDqu84d5hPZWwjgi-x)
