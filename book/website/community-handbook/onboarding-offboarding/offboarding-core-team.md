@@ -40,8 +40,6 @@ This onboarding checklist is no longer in active use, it has been added to the C
     - [ ] Fireside Chat
     - [ ] Community Calls
 
-If applicable, see [TPS Project Management Repository](https://github.com/alan-turing-institute/tps-project-management) about being offboarding onto the Tools, Practices, and Systems programme more broadly at the Alan Turing Institute. Other research teams and/or groups may have their own offboarding practices and/or repositories (i.e. the [Research Application Manager (RAM) team](https://github.com/alan-turing-institute/research-application-management) or [Research Community Management (CM) team](https://github.com/alan-turing-institute/open-community-building)).
-
 ## Documenting your Experiences
 
 We understand that wrapping up chapters and projects with _The Turing Way_ may take some time! 
