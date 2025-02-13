@@ -23,7 +23,7 @@ This onboarding checklist is no longer in active use, it has been added to the C
 - [ ] (If applicable) Remove from [Core Team Google group](https://groups.google.com/u/1/g/core-team-2022) (currently dormant)
 - [ ] (If applicable) Remove from Canva team
 - [ ] (If applicable) Remove from Penpot team
-- [ ] (If applicable) Remove from Keybase group
+- [ ] (If applicable) Remove the Turing Way folder from Keybase group
 
 ## Personal information
 - [ ] Move information on [TTW Team slides](https://docs.google.com/presentation/d/1PeQ_gg5tOJVhOA4aSnVumsowD-bfRFEroWfGsxxaGCw/edit#slide=id.g1aee8e18598_0_0) to 'Alumni' section
