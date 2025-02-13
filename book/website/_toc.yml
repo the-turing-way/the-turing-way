@@ -932,11 +932,11 @@ chapters:
         file: community-handbook/onboarding-offboarding
         sections:
           - title: General Onboarding
-            file: community-handbook/onboarding-offboarding/general
+            file: community-handbook/onboarding-offboarding/onboarding-general-calls
           - title: Core Team Onboarding
-            file: community-handbook/onboarding-offboarding/core-team-onboarding-checklist
+            file: community-handbook/onboarding-offboarding/onboarding-core-team
           - title: Core Team Offboarding
-            file: community-handbook/onboarding-offboarding/core-team-offboarding-checklist
+            file: community-handbook/onboarding-offboarding/offboarding-core-team
       - title: Fireside Chat Series
         file: community-handbook/fireside-chat
         sections:
