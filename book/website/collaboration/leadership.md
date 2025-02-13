@@ -15,14 +15,6 @@ Open leaders might not necessarily be the same people who have formal authority 
 Nonetheless, open leaders work towards facilitating an environment that empowers others to collaborate equitably, identify shared challenges, develop shared goals, and address them with a shared sense of agency.
 In the long term, their work contributes to the success of projects, and institutional goals and hence should be rewarded with formal titles, recognitions, and positive culture change.
 
-```{figure} ../figures/healthy-leadership.png
----
-name: healthy-image
-alt: Leadership is illustrated as a fractal where different people are watering growing flowers in the different places - that is leading to new fractals with more people. There are a few quotes written on ths image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
----
-Illustration of Healthy Leadership by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154).
-We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent Strategy.
-```
 ## Open Leadership Framework
 
 *The Turing Way* embodies Open Leadership and has its origin in Mozilla's Open Leadership Framework.
@@ -74,7 +66,7 @@ In data science and research, discussions and upskilling in leadership are extre
 * (Open) Leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
 
 In this chapter, we explore different aspects of (open) leadership skills that are applicable in the data science and research contexts. 
-After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" (as stated in the [Welcome page of The Turing Way](https://the-turing-way.netlify.app/)).
+After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" (as stated in the [Welcome page of The Turing Way](https://book.the-turing-way.org/)).
 
 We hope that by discussing leadership here, we will:
 * Spotlight on important points that everyone in research should know

@@ -1,6 +1,6 @@
 ## The Turing Way Book
 
-This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
+This is the README file for _The Turing Way_ book hosted online at https://book.the-turing-way.org/.
 For the README file of the main repository please [follow this link](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
 
 All the text for each chapter of the `book` lives inside the folder `./website` directory.
@@ -19,7 +19,7 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 
 The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
 
-Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://the-turing-way.netlify.app/community-handbook/local-build).
+Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
 #### On Netlify
 

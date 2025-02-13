@@ -103,7 +103,7 @@ After the review process, each reviewer's name can be added under the special me
 
 ### Publication process
 
-We are currently using [TinyLetter](https://tinyletter.com/) to publish our newsletters.
+We are currently using [Buttondown](https://buttondown.email/) to publish our newsletters.
 TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing it with subscribers.
 
 Here are the steps for publishing the newsletter draft online and sending it by email to the subscribed members:
@@ -117,7 +117,7 @@ Here are the steps for publishing the newsletter draft online and sending it by 
 - Adjust formatting as needed.
 - Send a preview version to your email or _The Turing Way_ email (theturingway@gmail.com) to check if everything looks OK.
 - Once confirmed for its format and content, the newsletter is sent to the registered members by clicking “Send to all”.
-- The [online newsletters](https://tinyletter.com/TuringWay/) are shareable by link and can be read by non-subscribed members as well.
+- The [online newsletters](https://buttondown.email/turingway/) are shareable by link and can be read by non-subscribed members as well.
 
 *(Learn to make your newsletter [here](https://www.sitepoint.com/how-start-a-newsletter-in-minutes-with-tinyletter/).)*
 

@@ -102,7 +102,7 @@ Benevolent dictatorships for life limit the sustainability of open source projec
 
 Relying on technology to be your governance is equally risky.
 Technology can be an incredible tool, but so long as it’s the only tool you have put in place for making governance decisions, it’s likely to be a potential problem.
-This is why it is important to start the process of governance selections with self-reflection, so that you are aware of all the requiremeents in the projects and prepared to implement ethical measures for them.
+This is why it is important to start the process of governance selections with self-reflection, so that you are aware of all the requirements in the projects and prepared to implement ethical measures for them.
 
 (er-ethics-open-source-governance-conclusion)=
 ## Conclusion
@@ -110,7 +110,7 @@ This is why it is important to start the process of governance selections with s
 By its nature, open source technology can deliver benefits to all societies. 
 However, projects started with all the best of intentions can still evolve into something malicious through poor guidance and oversight. 
 Such considerations should therefore be noted and addressed through the application of a formal governing structure throughout any such projects, especially in sensitive areas where conflicts are likely to arise. 
-While the use of a governance structure doesn’t negate the possibility of bad things from happening, it does however provide a framework which allows us to put such actions into context.
+While the use of a governance structure doesn't negate the possibility of bad things from happening, it does however provide a framework which allows us to put such actions into context.
 In this chapter, we have provided some ethical pointers for open source project communities to consider when constructing their governance models, to support the continual evolution of open source towards a more just and equitable ecosystem for all contributors and users. 
 
 (er-ethics-open-source-governance-resources)=

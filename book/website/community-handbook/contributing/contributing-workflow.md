@@ -25,7 +25,7 @@ All folders are located inside the [`book/website`](https://github.com/the-turin
 
 When writing new content, ensure that the new files and folders you create are placed appropriately to preserve _The Turing Way's_ file structure.
 
-For example, the [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html) chapter in the Guide for Reproducible Research is placed as follows:
+For example, the [Version Control](https://book.the-turing-way.org/reproducible-research/vcs.html) chapter in the Guide for Reproducible Research is placed as follows:
 
 ````{admonition} Adding new files and folders
 :class: dropdown
@@ -67,7 +67,7 @@ With proper file names, other contributors can easily identify the purpose and l
 (ch-contributing-workflow-guidelines)=
 ## Follow the style and consistency guidelines
 
-As you write your chapter, keep _The Turing Way's_ [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations in mind.
+As you write your chapter, keep _The Turing Way's_ [style](https://book.the-turing-way.org/community-handbook/style.html) and [consistency](https://book.the-turing-way.org/community-handbook/consistency.html) recommendations in mind.
 This ensures that your new content is accessible, and fits the overall style, structure, and formatting of the book.
 
 (ch-contributing-workflow-toc)=
@@ -77,7 +77,7 @@ The book-wide table of contents lives in the `_toc.yml` [file](https://github.co
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `_toc.yml` as appropriate.
 
-For example, because the [Statistical Methods Manuscript](https://the-turing-way.netlify.app/reproducible-research/case-studies/statistical-methods-manuscript.html) case study belongs to the Guide for Reproducible Research, it was added to the table of contents as follows:
+For example, because the [Statistical Methods Manuscript](https://book.the-turing-way.org/reproducible-research/case-studies/statistical-methods-manuscript.html) case study belongs to the Guide for Reproducible Research, it was added to the table of contents as follows:
 
 ````{admonition} Updating the book-wide table of contents
 :class: dropdown
@@ -97,13 +97,13 @@ For example, because the [Statistical Methods Manuscript](https://the-turing-way
 (ch-contributing-workflow-referencing)=
 ## Reference external sources appropriately
 
-Ensure external sources are properly referenced and included in _The Turing Way's_ centralised BibTeX file as recommended in the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html).
+Ensure external sources are properly referenced and included in _The Turing Way's_ centralised BibTeX file as recommended in the [style guide](https://book.the-turing-way.org/community-handbook/style/style-citing.html).
 
 (ch-contributing-workflow-glossary)=
 ## Update the book-wide glossary
 
-_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://the-turing-way.netlify.app/afterword/glossary.html).
-When writing your chapter, [update the book-wide glossary](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html) with the key terms in your chapter that readers should remember.
+_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://book.the-turing-way.org/afterword/glossary.html).
+When writing your chapter, [update the book-wide glossary](https://book.the-turing-way.org/community-handbook/style/style-more-styling.html) with the key terms in your chapter that readers should remember.
 
 (ch-contributing-workflow-crosschecking)=
 ## Cross check your Pull Request

@@ -83,10 +83,14 @@ If a channel has become too noisy, you can additionally:
 
 * While IM-based conversations can feel very immediate, please don’t feel that you have to respond to messages immediately, nor expect others to respond immediately. We’re all busy, really busy!
 
-
 #### Message Editing & Deletion
 
 * You are allowed to edit your messages at any time. That means if you edit a message after someone replied to it, make it clear that you edited something if it changes the meaning of your message. See the example in the GIF below.
+
+#### Account Management
+
+* To update the email address associated with your Slack account, follow the instructions provided on the [Slack Help page](https://slack.com/intl/en-gb/help/articles/207262907-Change-your-email-address).  
+* If you joined using two different email addresses, you may have unintentionally created two separate accounts. In this case, please contact a member of _The Turing Way_ team. They can help you delete one of the accounts of your choice, allowing you to maintain a single active account linked to your preferred email address.
 
 ### SENDING PRIVATE/DIRECT MESSAGES
 It can be helpful to others when you’re sharing resources and brainstorming solutions to “work out loud” in a specific thread because then your learning becomes a future resource for others, too.
@@ -97,7 +101,6 @@ However, sometimes you want to start a private conversation. To do this, go to t
 You may feel tempted to use DM instead of asking questions in dedicated channels. If an instructor believes others will benefit from the answer, they will probably encourage you to ask your question in the appropriate channel. If you have a question, others likely have the same one, we are all learning from each other.
 
 That said, DM are useful to discuss privately with other people (one or many) and you don't want to flood a channel.
-
 
 ### Sending files
 

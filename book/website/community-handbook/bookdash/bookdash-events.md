@@ -4,7 +4,7 @@
 This subchapter provides information on the events that are organised for the book dash attendees.
 These events include a pre-event webinar for information, onboarding calls, GitHub introduction, contribution sessions during the Book Dash and Community Share-Outs, which are explained below.
 
-_The Turing Way_ participation guidelines, [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html) and [Contribution guideline](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
+_The Turing Way_ participation guidelines, [Code of Conduct](https://book.the-turing-way.org/community-handbook/coc.html) and [Contribution guideline](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
 
 ## Pre-event calls
 

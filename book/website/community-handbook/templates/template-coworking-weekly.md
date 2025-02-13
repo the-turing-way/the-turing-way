@@ -8,7 +8,7 @@
 **What?** _The Turing Way_ is a **lightly opinionated guide to reproducible data science and research**.
 _The Turing Way_ team hosts 1-hr long coworking calls each week for the community members to work together in real time.
 
-*Read more about it here: https://the-turing-way.netlify.app/community-handbook/coworking.html*
+*Read more about it here: https://book.the-turing-way.org/community-handbook/coworking.html*
 
 **Who?** **Everyone** interested in reproducible, ethical, and inclusive data science and research are welcome to join the full or any part of The Turing Way project, community, and/or this call.*
 * If you are working from home and want to connect for _The Turing Way_ co-working hour - sign up for a slot provided below for this week between 11:00 - 12:00 BST.

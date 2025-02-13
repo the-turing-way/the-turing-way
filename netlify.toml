@@ -1,7 +1,7 @@
 [build]
 base = "book/"
 command = "make deps && make pathways"
-environment = { PYTHON_VERSION = "3.8" }
+environment = { PYTHON_VERSION = "3.13" }
 publish = "website/_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
@@ -18,7 +18,7 @@ fi
 [[redirects]]
   # Root page changed in https://github.com/the-turing-way/the-turing-way/pull/2994
   from = "https://the-turing-way.netlify.app/welcome"
-  to = "https://the-turing-way.netlify.app/index.html"
+  to = "https://book.the-turing-way.org/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
@@ -27,7 +27,7 @@ fi
 [[redirects]]
   # Root page changed in https://github.com/the-turing-way/the-turing-way/pull/2994
   from = "https://the-turing-way.netlify.app/welcome.html"
-  to = "https://the-turing-way.netlify.app/index.html"
+  to = "https://book.the-turing-way.org/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
@@ -35,14 +35,14 @@ fi
   # A redirect rule with all the supported properties
 [[redirects]]
   from = "https://the-turing-way.netlify.app"
-  to = "https://the-turing-way.netlify.app/index.html"
+  to = "https://book.the-turing-way.org/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
 [[redirects]]
   from = "https://the-turing-way.netlify.app/introduction/*"
-  to = "https://the-turing-way.netlify.app/index.html"
+  to = "https://book.the-turing-way.org/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true

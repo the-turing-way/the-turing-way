@@ -1,13 +1,13 @@
 # The Turing Way
 
-[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
-[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
+[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org)
+[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)
 [![Join the chat at https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 
 _The Turing Way_ is een licht eigenzinnig boek voor reproduceerbare data-analyses.
-Je kan het boek hier lezen: <https://the-turing-way.netlify.com>
+Je kan het boek hier lezen: <https://book.the-turing-way.org>
 Je bevindt je momenteel op de GitHub repository pagina van het project waar alle onderdelen zich bevinden die samen het boek vormen en waar het proces van het schrijven en vormen van het boek plaatsvind.
 
 Ons doel is om onderzoekers te voorzien van alle informatie die zij nodig hebben om reproduceerbare onderzoeksresultaten te produceren op het moment dat zij een onderzoeksproject starten.
@@ -63,9 +63,9 @@ Het citaat ziet er ongeveer zo uit:
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-Je kan ook een door mensen leesbare URL delen met een pagina in het boek, bijvoorbeeld. : <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>.
+Je kan ook een door mensen leesbare URL delen met een pagina in het boek, bijvoorbeeld. : <https://book.the-turing-way.org/reproducibility/03/definitions.html>.
 Houd er rekening mee dat het project in ontwikkeling is waardoor deze links in de loop van de tijd kunnen veranderen.
-Als je een webarchieflink toevoegt, zoals: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> voorkom je dat er overal doodlopende links staan.
+Als je een webarchieflink toevoegt, zoals: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> voorkom je dat er overal doodlopende links staan.
 
 We waarderen alle verwijzingen naar de _The Turing Way_ project in jouw werk en we hopen dat de _The Turing Way_ van nut is.
 Als je vragen hebt [neem contact op](#get-in-touch).
@@ -90,7 +90,7 @@ We hebben een gitter chat room waar we het leuk zouden vinden als je hallo komt 
 De chat room is gesynchroniseerd met [Matrix](https://matrix.org) via [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) waar je van harte welkom om erbij te komen als je dat liever hebt.
 
 We hebben een tiny letter emaillijst waardoor je maandelijkse project updates kan ontvangen.
-Schrijf je in via <https://tinyletter.com/TuringWay>.
+Schrijf je in via <https://buttondown.com/turingway>.
 
 Je kan onze Community Manager **Malvika Sharan** contacteren via email: [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 Of je kan de hoofdonderzoeker van het project, **Kirstie Whitaker**, contacteren via email: [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).

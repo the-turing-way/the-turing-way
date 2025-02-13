@@ -14,7 +14,7 @@ This allows both organisations to see how the other works in practice (rather th
 In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong Turing Data Study Group {cite}`DSG2020Roche`.
 
 At these collaborative hackathons, a challenger owner, in this case Roche, provides a dataset and a real-world problem to be solved by a team of researchers from the Turing network. 
-For Roche, the Data Study Group highlighted the research capabilities of the Turing Institute as well as importantly developing the initial relationship between Turing and Roche. 
+For Roche, the Data Study Group highlighted the research capabilities of the Turing Institute while developing the initial relationship between Turing and Roche. 
 This allowed both parties to see that they could productively work together, and spurred on scoping out what became a five-year formal partnership, launched in June 2021. 
 
 (cl-academic-industry-establish-setup)=
@@ -34,7 +34,7 @@ This also allows you to identify any background intellectual property on either 
 It is important to review this scientific strategy on a regular basis and adapt as necessary in response to ongoing research.
 
 For the Turing-Roche scientific strategy, the partnership approach was to brainstorm potential research topics from both parties to identify areas of common interest. 
-From this a North Star was developed to guide the direction of future research as well as a set of principles such as collaboration and open science which the partnership would operate under. 
+From this a shared goal was developed to guide the direction of future research as well as a set of principles such as collaboration and open science which the partnership would operate under. 
 Based upon these the partnership settled on research areas that fitted the priorities of both organisations. 
 
 (cl-academic-industry-establish-governance)=
@@ -76,3 +76,16 @@ Their wide ranging role (from contracting, creating meeting agendas, budgeting, 
 There is also a project manager colleague engaged on the Roche side which works very well for ensuring consistency.
 
 Additional resources that may also be of use in these planning stages are the {ref}`Turing Way Project Design Guide <pd-overview>` and the {ref}`Ethical Consideratons when Choosing an Open Source Governance Model chapter <er-ethics-open-source-governance>`. 
+(cl-academic-industry-establish-conflict)=
+### How to Manage Conflict
+Disagreements are inevitable in any collaboration. The team charter as part of the governance should outline a framework for addressing conflict constructively. While potentially distracting and unpleasant, planning ahead for disagreements can be a prudent way of managing limited resources for the project.
+
+Here are some options to consider:
+* Designated mediator: Identify a neutral individual within the collaboration or from a third-party organisation who can facilitate discussions and mediate any conflicts.
+* Escalation process: Establish a clear escalation process for addressing disagreements. This could involve initial discussions between directly involved parties, then escalating to team leads or a steering committee if necessary.
+* Conflict resolution principles: Outline principles for resolving conflicts, such as focusing on the issue at hand, respecting diverse viewpoints, and prioritising the success of the collaboration.
+
+By incorporating these elements into your governance structure, you can create a more open and productive environment for your academic-industry collaboration.
+
+## Conclusion
+Building a successful academic-industry collaboration requires careful planning and clear communication from the outset. The key ingredients are: fostering open communication, establishing clear expectations, and having mechanisms in place to manage conflict. By following these steps and learning from the experiences of the Turing-Roche Partnership, you can increase your chances of establishing a long-lasting and productive collaboration that benefits both academic and industry partners. 

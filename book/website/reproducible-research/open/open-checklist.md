@@ -35,5 +35,5 @@
 (rr-open-checklist-notebooks)=
 ## Open Notebooks
 
-- Keep notes in an Electronic Lab Notebook.
-- Make your notebooks publicly accessible online.
+- Keep notes in an {ref}`Electronic Lab Notebook<rr-rdm-elns>`.
+- Make your notebooks {ref}`publicly accessible online<rr-open-notebooks>`.

@@ -168,9 +168,6 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 (cl-team-manual-examples)=
 ## Examples of Team Manuals
 
-### Copy of a Team Manual template
-* [Team Manual Template](https://docs.google.com/document/d/1LqGdtHg0dMbj9lsCnC1QOoWzIsnSNRTSek6i3Kls2Ik/edit)
-
 ### Examples of different types of Team/Lab Manuals
 * [Code of Conduct Whitaker lab](https://github.com/WhitakerLab/Onboarding/blob/master/CODE_OF_CONDUCT.md) and the [Basin Research Group](https://docs.google.com/document/d/10y7TP48ik1rcQBPA5Do8mZM7DJ5EbF0hyWP-csgb1QE/edit)
 * [Witteman lab guidelines](https://docs.google.com/document/d/1I4qgoQlfezd4rB0ktSO2wHk-mBmw2DVlvw7hvnnFVGo/edit)
@@ -185,6 +182,8 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 * [A list of Lab Manuals](https://docs.google.com/spreadsheets/d/1kn4A0nR4loUOSDn9Qysd3MqFJ9cGU91dCDM6x9aga-8/edit#gid=0), [a collection thread by Hao Ye](https://twitter.com/Hao_and_Y/status/1537428359277334528)
 * [10 recommendations for managing a nascent team or community](https://software.ac.uk/blog/2020-05-26-bootstrapping-development-team-during-time-crisis)
 * Non-scientific approaches to internal collaboration: [Oxide's Request-for-discussion process template](https://oxide.computer/blog/rfd-1-requests-for-discussion), modelled after the original spirit of the [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) process
+* [Open Science Team Agreements](https://zenodo.org/doi/10.5281/zenodo.7154100)
+* [Team Manual Template](https://docs.google.com/document/d/1LqGdtHg0dMbj9lsCnC1QOoWzIsnSNRTSek6i3Kls2Ik/edit)
 
 ## Credit
 This summary is based on an [X (formerly Twitter) Thread by @samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
@@ -202,4 +201,5 @@ This summary is based on an [X (formerly Twitter) Thread by @samuelmehr](https:/
 * [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928) {cite:ps}`Pike2022simple`
 * [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688) {cite:ps}`RuedasGracia2022ten`
 * [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673) {cite:ps}`Rillig2022ten`
+* [Ten simple rules to cultivate belonging in collaborative data science research teams](https://doi.org/10.1371/journal.pcbi.1010567) {cite:ps}`Gaynor2022ten`
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
