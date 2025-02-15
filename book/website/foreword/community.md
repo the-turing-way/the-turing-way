@@ -16,9 +16,12 @@ Contributors' details are available in the [Contributors Records](https://the-tu
 (fw-community-delivery-team)=
 ## Project Delivery Team
 
-The project is supported by The Alan Turing Institute under the Tools, Practices, and Systems (TPS) Programme, with several positions funded to work on _The Turing Way_.
+Since 2019, the project has received funding for several roles at The Alan Turing Institute
+who provide ongoing support for the community management and delivery of the project goals.
 
-The project is managed and its activities/goals are delivered by the project delivery team listed in our [ways of working document](../../../ways-of-working.md).
+The project delivery team is constituted by these funded roles, as listed in our [ways of working document](../../../ways-of-working.md).
+The project delivery team is responsible to engage and involve community members across a range of activities that contribute to the development, 
+maintainance and sustainability of _The Turing Way_.
 
 (fw-community-book-roles)=
 ## Book-Related Roles
