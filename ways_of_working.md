@@ -14,16 +14,16 @@ It further outlines expectations and responsibilities for all of them with regar
 
 | Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Programme Director for Tools, Practices and Systems (TPS); The Alan Turing Institute | Founder & Project Lead - Constitution Level | Oct 2018 - Present | - |
-| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | TPS Senior Researcher - Open Research & Lead of Research Community Management Team; The Alan Turing Institute | Co-Lead  - Constitution Level | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
+| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
+| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Senior Researcher - Open Source Practices and lead of The Turing Way Practitioners Hub; The Alan Turing Institute | Chair of the Book Dash WG | 2021 - Present | Previously: Project Manager and various maintenance level roles |
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
-| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Programme Manager; The Alan Turing Institute | Project Manager and various maintenance level roles | 2021 - Present | Previously: Project Manager, The Alan Turing Institute |
 | Léllé Demertzi <br>([@LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present |  |
 
 ## Community Leaders - Maintenance Level Roles
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Programme Director for Tools, Practices and Systems (TPS); The Alan Turing Institute | Founder & Project Lead - Constitution Level | Oct 2018 - Nov 2024 | Jupyter-Turing Way Project co-lead (in her roles as the Director of BIDS) |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Various maintainer level roles | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 (100%) |
 | Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
@@ -79,22 +79,20 @@ All members commit to
 
 You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
-You can reach the lead investigators of the project through their preferred way of communication:
-You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJane) on a Github issue or pull request, or tag in Slack.
-In addition, you can reach _The Turing Way_ by email (managed by the community manager): turingway@turing.ac.uk.
+You can reach the _The Turing Way_ project delivery team by emailing turingway@turing.ac.uk.
 
-Please join the project members and the wider Turing Way community at our twice-monthly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
+Please join the twice-monthly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
 
 Talks, presentations and recordings from different events are posted on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA) regularly.
 
-## Project management
+## GitHub management
 
-The project members triage on open issues, review Pull Requests or address any questions raised on GitHub asynchronously.
-As most members do not work full time on the _Turing Way_, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed. Don't be afraid to nudge if they've not replied after a few days! :sparkling_heart:
+All members support the triaging of open issues, review Pull Requests or address any questions raised on GitHub asynchronously.
+As most members do not work full time on _The Turing Way_, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed. Don't be afraid to nudge if they've not replied after a few days! :sparkling_heart:
 
 ### Issues & Pull Requests
 
-Project members will:
+All members will:
 - monitor open issues and Pull Requests on the project's GitHub repository to identify if feedback, comment or connections can help address any concern or build on any suggested ideas/features.
 - whenever possible, post about the issues and Pull Requests in public forums (newsletter, Slack, Twitter) to facilitate participation from new members in the community.
 - review or assign a reviewer to open Pull Requests for review. This should be taken as an opportunity to connect contributors with specific interests, availability or technical skills that could be useful for the ongoing work.
