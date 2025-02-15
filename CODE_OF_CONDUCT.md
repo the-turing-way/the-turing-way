@@ -3,7 +3,7 @@
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
 
-*The Turing Way* project leaders, Dr. Kirstie Whitaker and Dr. Malvika Sharan, are dedicated to a ***welcoming and harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
+*The Turing Way* community is dedicated to a ***welcoming and harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
 
@@ -25,11 +25,9 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 
 ### Contact for Reporting
 
-The co-lead-investigators of _The Turing Way_ - Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - are responsible for enforcing the Code of Conduct.
+_The Turing Way_ project delivery team, currently led by Dr. Malvika Sharan - are responsible for enforcing the Code of Conduct.
+Please email [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
-If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:a.krystalli@sheffield.ac.uk), who is our ombudsperson.
-
-Together they form the current Code of Conduct committee.
 You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) for support in making a report to the project leads on your behalf, with or without your name associated with it.
 
 Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
@@ -87,19 +85,18 @@ If a participant engages in behaviour that violates this Code of Conduct, any me
 ## 2.4 Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
-Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* Core Staff Team at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or by making a pull request to this document on GitHub.
+Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* Project Delivery Team at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or by making a pull request to this document on GitHub.
 
 # 3 Incident Reporting Guidelines
 
 ## 3.1 Contact points
 
-If you feel able to, please contact Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
+If you feel able to, please contact _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) who is responsible for enforcing the Code of Conduct.
+The team is currently led by Dr. Malvika Sharan, who you can directly contact by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
 ## 3.2 Alternate contact points
 
-If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:annakrystalli@googlemail.com), who is our ombudsperson.
-
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
+You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Lélle Demertzi ([ddemertzi@turing.ac.uk](mailto:ddemertzi@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
 
 ## 3.3 What to do if someone is in physical danger
 
