@@ -48,7 +48,7 @@ These chapters have been co-authored by contributors who are students, researche
 
 - [_The Turing Way_](#the-turing-way)
     - [About the Project](#about-the-project)
-    - [The Team](#projrct-delivey-team)
+    - [Project Delivery Team](#project-delivey-team)
     - [Contributing](#contributing)
     - [Citing](#citing)
     - [Get in Touch](#get-in-touch)
