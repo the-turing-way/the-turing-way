@@ -67,7 +67,7 @@ There are many ways to get in touch with _The Turing Way_ team!
   - We will also provide notifications on upcoming events and share useful resources on Slack.
   - You can also ping us on [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) (open source option).
 - Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
-- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+- Contact the _The Turing Way_ project delivery team by emailing [tuirngway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 ### Receiving Updates
 
@@ -357,8 +357,7 @@ We would LOVE people to give talks about the project or represent _The Turing Wa
 We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
-If you would like to represent the project in your network, please open an issue and ping @aleesteele, @malvikasharan and @KirstieJane so
-that they can do their best to support you.
+If you would like to represent the project in your network, please open an issue and ping the project delivery team members, so that they can do their best to support you.
 
 We would appreciate if you could share a short abstract and your presentation by adding them to the
 [conferences folder](https://github.com/the-turing-way/conferences) and some info in the [conferences README.md](https://github.com/the-turing-way/conferences/blob/main/README.md).
