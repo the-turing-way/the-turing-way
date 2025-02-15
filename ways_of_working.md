@@ -10,20 +10,36 @@ This document lists members at the "Maintenance" and "Constitutional" levels in 
 
 It further outlines expectations and responsibilities for all of them with regard to working on the project.
 
-## Project Delivery Team - Constitution and Maintenance Level Roles
+## Project Delivery Team - funded roles
 
 | Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
-| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Senior Researcher - Open Source Practices and lead of The Turing Way Practitioners Hub; The Alan Turing Institute | Chair of the Book Dash WG | 2021 - Present | Previously: Project Manager and various maintenance level roles |
+| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team, Co-Lead Practitioners Hub | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
+| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Senior Researcher - Open Source Practices; The Alan Turing Institute | Co-Lead Practitioners Hub, Chair of the Book Dash WG | 2021 - Present | Previously: Project Manager and various maintenance level roles |
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
 | Léllé Demertzi <br>([@LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present |  |
+
+## Constitution Level Roles
+
+Chairs or a designated representative of the following Working Groups (WGs) join the Steering Committee at this level:
+
+- Community Management WG
+- Infrastructure WG
+- Book Dash WG
+- Accessibility WG
+- Translation and Localisation WG
+
+Leads or designated representatives of the following projects also join the Steering Committee for accountability:
+
+- **The Turing Way Practitioners Hub**, a Turing-Way project under the Innovate UK BridgeAI that engages with industries in sharing and adopting best practices for data science and AI.
+- **Software Sustainability Institute Fellows Projects**, that are defined to be conducted in collaboration with _The Turing Way_ project delivery or community members.
+- **Data Science Without Borders** (DSWB), a Wellcome-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
 
 ## Community Leaders - Maintenance Level Roles
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Programme Director for Tools, Practices and Systems (TPS); The Alan Turing Institute | Founder & Project Lead - Constitution Level | Oct 2018 - Nov 2024 | Jupyter-Turing Way Project co-lead (in her roles as the Director of BIDS) |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Programme Director for Tools, Practices and Systems (TPS); The Alan Turing Institute | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Oct 2018 - Nov 2024 | Project Lead of _The Turing Way_ |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Various maintainer level roles | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 (100%) |
 | Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
@@ -38,7 +54,7 @@ It further outlines expectations and responsibilities for all of them with regar
 | Brigitta Sipőcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 | Johanna Bayer <br>([@likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure WG member | 2023 - Present | GSOC Co-Mentor 2023 |
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash WG member| Feb 2020 - Present | - |
-| Susana Roman Garcia <br>([@Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash WG member | 2024 - Present | - |
+
 
 
 ## Previous Project Members
@@ -46,23 +62,24 @@ It further outlines expectations and responsibilities for all of them with regar
 The following people are no longer paid to work on the project (although they remain very valuable members of the community!)
 You can request contact information through the project members above, or tag them in the GitHub issues and Pull Requests so others can answer if the folks you're looking for are not around.
 
-| Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
+| Name | Role | Volunteer Member or Funded in Full-Time Equivalent (or %) | Time period allocated to the project |
 |---|---|---|---|
-| Arya A. <br>([@arya1302](https://book.the-turing-way.org/afterword/contributors-record#arya-a)) | Google Summer of Code (GSoC) 2023 intern | 50% | Apr 2023 - Sep 2023 |
-| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist | 50% | Oct 2021 - Jan 2022 |
-| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
-| Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | in-kind | Oct 2021 - Jan 2022 |
-| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Jan 2022 |
-| Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
-| Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
-| Rosie Higman <br>([@rosiehigman](https://github.com/rosiehigman)) | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
-| Becky Arnold <br>([@r-j-arnold](https://github.com/r-j-arnold)) | Research Software Engineer | 100% | Dec 2018 - Mar 2019 |
-| Louise Bowler <br>([@LouiseABowler](https://github.com/LouiseABowler)) | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
-| Patricia Herterich <br>([@pherterich](https://github.com/pherterich)) | Data Librarian | 40% | Nov 2018 - Mar 2019 |
-| Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
-| Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
-| Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
-| Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - 2023 | - |
+| Susana Roman Garcia <br>([@Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | Book Dash WG member | Volunteer Member | 2024 - 2025 | - |
+| Arya A. <br>([@arya1302](https://book.the-turing-way.org/afterword/contributors-record#arya-a)) | Google Summer of Code (GSoC) 2023 intern on Pathway Package | 50% | Apr 2023 - Sep 2023 |
+| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist on Pathway Package and trainig materials | 50% | Oct 2021 - Jan 2022 |
+| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer on Pathway Package | 40% | Oct 2021 - Jan 2022 |
+| Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer on trainig materials | in-kind | Oct 2021 - Jan 2022 |
+| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer on Pathway Package | 30% | Nov 2021 - Jan 2022 |
+| Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer for Community Handbook | 100% | Sep 2020 - Dec 2020 |
+| Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate, Project Delivery Member | 100% | Apr 2019 - May 2019 |
+| Rosie Higman <br>([@rosiehigman](https://github.com/rosiehigman)) | Research Data Librarian, Project Delivery Member | 20% | Jan 2019 - Mar 2019 |
+| Becky Arnold <br>([@r-j-arnold](https://github.com/r-j-arnold)) | Research Software Engineer, Project Delivery Member | 100% | Dec 2018 - Mar 2019 |
+| Louise Bowler <br>([@LouiseABowler](https://github.com/LouiseABowler)) | Research Data Scientist, Project Delivery Member | 40% | Nov 2018 - Mar 2019 |
+| Patricia Herterich <br>([@pherterich](https://github.com/pherterich)) | Data Librarian, Project Delivery Member | 40% | Nov 2018 - Mar 2019 |
+| Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | Volunteer Member |  Nov 2018 - June 2019  |
+| Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer, Project Delivery Member | 10% | Dec 2018 - Mar 2019 |
+| Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Advisor | Volunteer Member | Nov 2018 - Mar 2019 |
+| Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Translation and Localisation WG Co-Lead | Volunteer Member | 2020 - 2023 |
 
 ## Commitments
 
