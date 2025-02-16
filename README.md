@@ -77,10 +77,10 @@ This project is openly developed and any and all questions, comments and recomme
 
 _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
-Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
+Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
-A team of staff members, currently funded by The Alan Turing Institute support and delivet the community and project management responsibilities.
-The team members are listed in the [ways of working document](ways-of-working.md).
+The Project Delivery team, currently funded by The Alan Turing Institute support and delivery of the community and project management responsibilities.
+The team members are listed in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
 They support the maintenance of a [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) and apply [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) to recognise and credit their contributions in _The Turing Way_.
 Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.

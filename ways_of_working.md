@@ -48,7 +48,7 @@ All members are welcome to join these calls! ✨
 
 - ✅ **Collaboration Café**: These are online coworking space for everyone, hosted fortnightly from 15:00 to 17:00 UK time. Here you can meet others from the community, do some focused co-writing, or catch up with the Working Groups ([Collaboration Café Chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe)).
 - 📝 **Community forums**: These calls are hosted every two months by the project delivery team to share governance-related updates with the community.
-- 📝 **Onboarding calls**: These calls are hosted every two months by the community management WG to onboard new members of the community in the project.
+- 📝 **Onboarding calls**: These calls are hosted every two months by the community management WG to onboard new members of the community in the project ([Onboarding and Offboarding Chapter](https://book.the-turing-way.org/community-handbook/onboarding-offboarding)).
 - 📝 **Fireside Chats**: _The Turing Way_ members collaborates with different communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research/data science communities ([Fireside Chat Chapter](https://book.the-turing-way.org/community-handbook/fireside-chat)).
 
 ### Working Groups and Meetings

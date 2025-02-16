@@ -80,7 +80,7 @@ These processes and resources are co-developed by maintenance level members with
 
 This level includes Working Groups and members from the project delivery team not involved in the constitution level decision making.
 
-You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
+You can find details about these members in our [Governance Roles document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE-ROLES.md).
 
 #### Project Delivery Teams
 

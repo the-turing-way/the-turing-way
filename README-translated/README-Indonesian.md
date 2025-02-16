@@ -40,7 +40,7 @@ Proyek ini dikembangkan secara terbuka dan semua pertanyaan, komentar, dan rekom
 ### Tim
 
 Ini adalah (bagian dari) tim proyek yang sedang merencanakan pekerjaan di Turing Institute.
-Untuk lebih lanjut tentang cara menghubungi kami, lihat [ways of working document](ways_of_working.md).
+Untuk lebih lanjut tentang cara menghubungi kami, lihat [Governance Roles document](../GOVERNANCE_ROLES.md).
 
 ### Berkontribusi
 

@@ -25,10 +25,11 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 
 ### Contact for Reporting
 
-_The Turing Way_ project delivery team, currently led by Dr. Malvika Sharan - are responsible for enforcing the Code of Conduct.
+_The Turing Way_ project delivery team, listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md) - are responsible for enforcing the Code of Conduct.
+
 Please email [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) for support in making a report to the project leads on your behalf, with or without your name associated with it.
+You can reach out to specific members of the team for support in making a report to the project leads on your behalf, with or without your name associated with it.
 
 Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
 
@@ -92,11 +93,11 @@ Rather, you are invited to make suggestions for updates or clarifications by con
 ## 3.1 Contact points
 
 If you feel able to, please contact _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) who is responsible for enforcing the Code of Conduct.
-The team is currently led by Dr. Malvika Sharan, who you can directly contact by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+You can directly contact the senior members of the team listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
 
 ## 3.2 Alternate contact points
 
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Lélle Demertzi ([ddemertzi@turing.ac.uk](mailto:ddemertzi@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
+You can reach out to our Research Community Manager and Research Project Manager listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), for support in making a report to the project leads on your behalf or anonymously.
 
 ## 3.3 What to do if someone is in physical danger
 

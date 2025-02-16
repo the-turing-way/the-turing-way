@@ -7,6 +7,8 @@ This document also provides details about the governance roles and members colla
 
 This document also lists the members of the project delivery team, who support community management, maintenance of _The Turing Way_ resources and delivery of the project goals.
 
+For overview of how members of *The Turing Way* community collaborate across these three levels of governance, please refer to the [Ways of Working](./ways_of_working.md) documentation.
+
 ## Project Delivery Team
 
 | Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
