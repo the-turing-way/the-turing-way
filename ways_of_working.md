@@ -1,15 +1,15 @@
 # Ways of Working
 
-The "Ways of Working" document provides an overview of how members of *The Turing Way* community collaborate across the three levels of governance in _The Turing Way_: Community, Maintenance, and Constitution.
+The "Ways of Working" document provides an overview of how members of *The Turing Way* community collaborate across the [three levels of governance](https://book.the-turing-way.org/foreword/governance).
 
-**NOTE**: For information about the members involved in the governance, including the project delivery team, please refer to the documentation on [governance roles](./GOVERNANCE_ROLES.md).
+For information about the members involved in the governance, including the project delivery team, please refer to the documentation on [governance roles](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
 
 This document offers high-level information on communication, community structures, and project management processes.
 For details, please refer to the Foreword, Afterword, and Community Handbook within *The Turing Way* book: [book.the-turing-way.org/](https://book.the-turing-way.org/).
 
 ## Communication
 
-You can reach out to all members listed in our [governance document](./GOVERNANCE.md) by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
+You can reach out to all members listed in our [governance document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md) by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 You can reach the _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
@@ -118,7 +118,7 @@ If you have been added as an author on one release, you will stay as an author o
 - [Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook)
 - [Foreword](https://book.the-turing-way.org/foreword/foreword)
 - [Afterword](https://book.the-turing-way.org/afterword/afterword)
-- [Governance Overview](./GOVERNANCE.md)
+- [Governance Overview](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md)
 - [Collaborators](https://book.the-turing-way.org/afterword/collaborators)
 - [Sub-projects and Working Groups](https://book.the-turing-way.org/afterword/subprojects)
 - [Glossary](https://book.the-turing-way.org/afterword/glossary)

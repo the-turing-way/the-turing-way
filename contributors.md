@@ -1,3 +1,5 @@
+# Record of Contributions
+
 Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 We recognise all these contributions and acknowledge our community members fairly.
 For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors)).
@@ -44,10 +46,9 @@ This record can be used in your personal or professional portfolio (profile, CV,
 
 ### Arielle Bennett
 
-* Role:
-  * Core Member, Book Dash Planning Committee (2021-2023)
-  * TPS Staff (2020-Present), Project Delivery Team member
-  * Book Dash Participant (2020)
+* Role: Senior Researcher - Open Source Practices, The Alan Turing Institute
+  * Project Delivery Team member (2024-Present)
+  * Book Dash Planning Committee (2021-Present)
 * GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
 * ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
 
@@ -132,7 +133,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Finally, I'd like to pivot to having the data science project be developed in the open from the beginning and with a decision-making governance process that is inclusive and community-led.
 
 
-## All contributors information are listed alphabetically**
+## All contributors information are listed alphabetically
 
 <!---A--->
 ## A

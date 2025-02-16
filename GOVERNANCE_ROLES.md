@@ -1,22 +1,21 @@
 # Governance Roles in _The Turing Way_
 
-Governance in *The Turing Way* occur across three levels of governance: Community, Maintenance, and Constitution.
-For details, please read the [governance chapter](https://book.the-turing-way.org/foreword/governance) within the Foreword of _The Turing Way_ book.
+Governance in *The Turing Way* occur across three levels of governance as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance) within the Foreword of _The Turing Way_ book.
 
-This document also provides details about the governance roles and members collaborating across all levels of governance in _The Turing Way_.
+This document provides details about the governance roles and members collaborating across all levels of governance in _The Turing Way_.
 
 This document also lists the members of the project delivery team, who support community management, maintenance of _The Turing Way_ resources and delivery of the project goals.
 
-For overview of how members of *The Turing Way* community collaborate across these three levels of governance, please refer to the [Ways of Working](./ways_of_working.md) documentation.
+For overview of how members of *The Turing Way* community collaborate across these three levels of governance, please refer to the [Ways of Working](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) documentation.
 
 ## Project Delivery Team
 
 | Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
 | Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team, Co-Lead Practitioners Hub | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
-| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Senior Researcher - Open Source Practices; The Alan Turing Institute | Co-Lead Practitioners Hub, Chair of the Book Dash WG | 2021 - Present | Previously: Project Manager and various maintenance level roles |
+| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Senior Researcher - Open Source Practices; The Alan Turing Institute | Co-Lead Practitioners Hub, Chair of the Book Dash WG | Nov 2024 - Present | Previously: Project Manager and various maintenance level roles, 2021 - Nov 2024 |
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
-| Léllé Demertzi <br>([@LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present |  |
+| Léllé Demertzi <br>([@LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present | - |
 
 ## Participation and Engagement at Community Level
 
@@ -32,13 +31,13 @@ Please refer to the Foreword of the book to learn about different kinds of [comm
 ## Maintenance Level Roles
 
 The "Maintenance" (“Collective choice") level participation allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier.
-Please read [Ways of Working document](./ways_of_working.md) for community structure, commitments and resources used by members at maintenance level.
+Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level.
 
 Members participating in different Working Groups and projects carried out in _The Turing Way_ are listed below.
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Programme Director for Tools, Practices and Systems (TPS); The Alan Turing Institute | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Oct 2018 - Nov 2024 | Project Lead of _The Turing Way_ |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Executive Director, BIDS | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Various maintainer level roles | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 (100%) |
 | Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
@@ -57,7 +56,7 @@ Members participating in different Working Groups and projects carried out in _T
 
 The "Constitutional-level" participation in Steering Committee by community leaders allow development, approval and establishment of Working Group and project-related norms that affect the whole of the project, community and their sustainability.
 
-Please read [Ways of Working document](./ways_of_working.md) for community structure, commitments and resources used by members at maintenance level, which also apply to constitution level.
+Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level, which also apply to constitution level.
 Specific governance documentation and processes for this level will be developed with the founding members of the Steering Committee in 2025.
 
 Chairs or a designated representative of the following Working Groups (WGs) join the Steering Committee at this level:
@@ -101,7 +100,7 @@ You can request contact information through the project members above, or tag th
 
 ### Recognising All Contributors
 
-Our barrier for entry to the [list of contributors](README#contributors) is very low.
+Our barrier for entry to participate in _The Turing Way_ is very low.
 
 *The Turing Way* uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
 

@@ -3,12 +3,12 @@
 
 _Everyone has a skill that is useful for someone, and therefore anyone can contribute to The Turing Way._
 
-_The Turing Way_ book has been co-authored by more than 450 diverse contributors and utilised by different groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
+_The Turing Way_ book has been co-authored by more than 500 diverse contributors and utilised by different groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
 
 Our community members and general audience includes, but are not limited to, researchers, students, data scientists, software engineers, project leaders, team coordinators, community managers, data stewards, librarians, data science educators, open science practitioners and more.
 
-As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
-The book itself has 6000+ monthly users worldwide.
+As of January 2025, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
+The book itself has 6000+ monthly users worldwide (a total of 87,000 unique users in 2024 alone).
 
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
 Contributors' details are available in the {ref}`contributors-record`, and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
