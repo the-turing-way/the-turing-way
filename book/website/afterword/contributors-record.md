@@ -6,6 +6,7 @@ This page is formed from a combination of the [`contributors.md`](https://github
 ```
 
 ```{include} ../../../contributors.md
+  :start-after: "# Record of Contributions"
 ```
 
 (contributors-record-all)=

@@ -11,7 +11,7 @@ As of June 2024, _The Turing Way_ community has been joined by more than 1000 me
 The book itself has 6000+ monthly users worldwide.
 
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
-Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
+Contributors' details are available in the {ref}`contributors-record`, and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
 (fw-community-delivery-team)=
 ## Project Delivery Team
@@ -19,7 +19,7 @@ Contributors' details are available in the [Contributors Records](https://the-tu
 Since 2019, the project has received funding for several roles at The Alan Turing Institute
 who provide ongoing support for the community management and delivery of the project goals.
 
-The project delivery team is constituted by these funded roles, as listed in our [Governance Roles document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
+The project delivery team is constituted by these funded roles, as listed in {ref}`governance-roles`.
 The project delivery team is responsible to engage and involve community members across a range of activities that contribute to the development, 
 maintainance and sustainability of _The Turing Way_.
 

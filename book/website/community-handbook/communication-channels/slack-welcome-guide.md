@@ -57,7 +57,7 @@ We are in the process of developing platform-specific guidelines for Slack and o
 
 In general, we encourage an approach to Slack that is as accessible as possible, for as many people as possible. Please practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online. 
 
-Is there anything we are missing? Please reach out to the Research Community Manager Anne Lee Steele on Slack or by email at asteele@turing.ac.uk, or to any members of the core team listed in the [Governance Roles document](https://github.com/alan-turing-institute/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
+Is there anything we are missing? Please reach out to the Research Community Manager Anne Lee Steele on Slack or by email at asteele@turing.ac.uk, or to any members of the core team listed in {ref}`ch-governance-roles`.
 
 ## Getting started with The Turing Way
 

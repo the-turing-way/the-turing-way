@@ -137,7 +137,7 @@ While updates of the translated content might change according to the availabili
 * Set periodical reviews to improve translations
 * Update translation guidelines and glossaries
 
-If you have any recommendations for improving the translation guidelines or setting up language-specific rules, contact [the translation and localisation team](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
+If you have any recommendations for improving the translation guidelines or setting up language-specific rules, contact {ref}`ch-governance-roles<the translation and localisation team>`.
 We are very eager to improve the workflow and make _The Turing Way_ a global project accessible to the wider community.
 
 
