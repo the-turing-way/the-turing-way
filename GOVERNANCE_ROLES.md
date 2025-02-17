@@ -72,7 +72,7 @@ Leads or designated representatives of the **Delivery Teams** for the following 
 
 - **_The Turing Way_ Practitioners Hub**, a Turing Way project under the Innovate UK BridgeAI initiative that engages with industries in sharing and adopting best practices for data science and AI.
 - **Software Sustainability Institute Fellows Projects**, that are defined to be conducted in collaboration with _The Turing Way_ project delivery or community members.
-- **JupyterHub -_The Turing Way_ Project**: [Arielle to add details]
+- **JupyterHub -_The Turing Way_ Project**: A CZI-funded project in collaboration with Organizational Mycology to reinvigorate community practices within JupyterHub and share generalisable findings with the wide community via _The Turing Way_.
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
 
 ## Previous Contributors to the Maintenance Levels
