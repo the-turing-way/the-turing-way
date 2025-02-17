@@ -8,4 +8,5 @@ This page displays the [`CODE_OF_CONDUCT.md`](https://github.com/the-turing-way/
 ```{include} ../../../CODE_OF_CONDUCT.md
    :start-after: "# Code of Conduct"
    :end-before: "# 2 Code of Conduct: Details"
+   :parser: "myst"
 ```
