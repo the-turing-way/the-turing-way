@@ -107,4 +107,4 @@ We have a chapter on {ref}`ch-presenting` to help you present and share about _T
 
 _The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.
 
-_For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html)._
+_For further details on these community roles, please read the Community Handbook describing different {ref}`Contributions and their acknowledgements<ch-acknowledgement-examples>`._

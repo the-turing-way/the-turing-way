@@ -62,11 +62,11 @@ Specific governance documentation and processes for this level will be developed
 
 Chairs or a designated representative of the following **Working Groups** (WGs) join the Steering Committee at this level:
 
-- Community Management WG
-- Infrastructure WG
-- Book Dash WG
-- Accessibility WG
-- Translation and Localisation WG
+- **Community Management WG**
+- **Infrastructure WG**
+- **Book Dash WG**
+- **Accessibility WG**
+- **Translation and Localisation WG**
 
 Leads or designated representatives of the **Delivery Teams** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
@@ -75,10 +75,9 @@ Leads or designated representatives of the **Delivery Teams** for the following 
 - **JupyterHub -_The Turing Way_ Project**: [Arielle to add details]
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
 
-
 ## Previous Contributors to the Maintenance Levels
 
-The following people are no longer paid to work on the project (although they remain very valuable members of the community!)
+The following people are no longer involved in the maintenance level of the project (although they remain very valuable members of the community!)
 You can request contact information through the project members above, or tag them in the GitHub issues and Pull Requests so others can answer if the folks you're looking for are not around.
 
 | Name | Role | Volunteer Member or Funded in Full-Time Equivalent (or %) | Time period allocated to the project |
