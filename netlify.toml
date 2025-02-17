@@ -49,7 +49,7 @@ fi
 
 [[redirects]]
   from = "/version_control/*"
-  to = "/reproducible-research/vcs"
+  to = "/vcs"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
