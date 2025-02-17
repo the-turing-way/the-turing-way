@@ -53,10 +53,3 @@ fi
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
-
-[[redirects]]
-  from = "/binderhub/*"
-  to = "/reproducible-research/binderhub"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
