@@ -60,7 +60,7 @@ The "Constitutional-level" participation in Steering Committee by community lead
 Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level, which also apply to constitution level.
 Specific governance documentation and processes for this level will be developed with the founding members of the Steering Committee in 2025.
 
-Chairs or a designated representative of the following Working Groups (WGs) join the Steering Committee at this level:
+Chairs or a designated representative of the following **Working Groups** (WGs) join the Steering Committee at this level:
 
 - Community Management WG
 - Infrastructure WG
@@ -68,11 +68,13 @@ Chairs or a designated representative of the following Working Groups (WGs) join
 - Accessibility WG
 - Translation and Localisation WG
 
-Leads or designated representatives of the following projects also join the Steering Committee for accountability:
+Leads or designated representatives of the **Delivery Teams** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
-- **The Turing Way Practitioners Hub**, a Turing-Way project under the Innovate UK BridgeAI that engages with industries in sharing and adopting best practices for data science and AI.
+- **_The Turing Way_ Practitioners Hub**, a Turing-Way project under the Innovate UK BridgeAI that engages with industries in sharing and adopting best practices for data science and AI.
 - **Software Sustainability Institute Fellows Projects**, that are defined to be conducted in collaboration with _The Turing Way_ project delivery or community members.
+- **JupyterHub -_The Turing Way_ Project**: [Arielle to add details]
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
+
 
 ## Previous Contributors to the Maintenance Levels
 
