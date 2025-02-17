@@ -6,7 +6,7 @@ project:
   title: The Turing Way
   authors:
     - name: The Turing Way Community
-  copyright: 2019-2023
+  copyright: 2019-2025
   exclude:
     - LICENSE.md
   github: the-turing-way/the-turing-way
