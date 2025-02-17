@@ -37,11 +37,13 @@
     - collaboration/leadership
     - project-design/project-design
     - project-design/project-repo
+    - project-design/pd-overview
     - project-design/pd-overview/pd-overview-planning
     - project-design/pd-overview/pd-overview-repro
     - project-design/pd-overview/pd-overview-methods
     - project-design/pd-overview/pd-overview-version
     - reproducible-research/reproducible-research
+    - reproducible-research/overview
     - reproducible-research/overview/overview-definitions
     - reproducible-research/overview/overview-barriers
     - reproducible-research/open

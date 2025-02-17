@@ -83,7 +83,7 @@ The next chair rotation is scheduled for September 2024.
 **Developers**
 
 - Malvika Sharan, Lydia France, Federico Nanni: : funded by AI for Science and Government in 2021-2022
-- Julien Colomb (in-kind from TU Berlin) and Jo Havemamm from Access to Perspective (funded by the Turing's Health Research Programme): 2023
+- Julien Colomb (in-kind from TU Berlin) and Jo Havemann from Access to Perspective (funded by the Turing's Health Research Programme): 2023
 
 **Maintainers**
 - [Julien Colomb](https://book.the-turing-way.org/afterword/contributors-record#julien-colomb)
