@@ -26,7 +26,7 @@ Please follow {ref}`ch-contributing-guideline` and {ref}`ch-coc` to participate 
 
 Read the {ref}`fw-community` for details about community and community roles.
 
-Find information about the members involved in the governance of _The Turing Way_, including the project delivery team in {ref}`ch-governance-roles`.
-An overview of how they collaborate across the different levels of governance in the {ref}`ch-ways-of-working` documentation.
+Find information about the members involved in the governance of _The Turing Way_, including the project delivery team in {ref}`fw-governance-roles`.
+An overview of how they collaborate across the different levels of governance in the {ref}`fw-ways-of-working` documentation.
 
-For any questions or concerns, please contact the {ref}`ch-governance-roles<project delivery team>`.
+For any questions or concerns, please contact the {ref}`fw-governance-roles<project delivery team>`.

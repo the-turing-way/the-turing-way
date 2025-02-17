@@ -19,7 +19,7 @@ Contributors' details are available in the {ref}`contributors-record`, and the [
 Since 2019, the project has received funding for several roles at The Alan Turing Institute
 who provide ongoing support for the community management and delivery of the project goals.
 
-The project delivery team is constituted by these funded roles, as listed in {ref}`governance-roles`.
+The project delivery team is constituted by these funded roles, as listed in {ref}`fw-governance-roles`.
 The project delivery team is responsible to engage and involve community members across a range of activities that contribute to the development, 
 maintainance and sustainability of _The Turing Way_.
 

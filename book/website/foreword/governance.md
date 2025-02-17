@@ -79,7 +79,7 @@ These processes and resources are co-developed by maintenance level members with
 ### Maintenance Level
 
 This level includes Working Groups and members from the projects within the scope of _The Turing Way_.
-You can find details about these members in {ref}`governance-roles`.
+You can find details about these members in {ref}`fw-governance-roles`.
 
 Decision-making at the maintenance level must stay with the community and stewards of the community participating at this level.
 They are also responsible for making process of participation at the community level transparent for other community members.
@@ -88,9 +88,9 @@ Members participating in the constitution level roles also participate at this l
 
 #### Project Delivery Teams
 
-_The Turing Way_ {ref}`Project Delivery Team Members<governance-roles>` are members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
+_The Turing Way_ {ref}`Project Delivery Team Members<fw-governance-roles>` are members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
 
-The project delivery team provide support to the members across all levels of governance and ensure that decision-making process is kept transparent for the rest of the community.
+The project delivery team provide support to the members across all levels of governance and ensure that decision-making process is kept transparent and where possible, involves the rest of the community.
 
 #### _The Turing Way_ Working Groups
 

@@ -1,4 +1,4 @@
-(ch-governance-roles)=
+(governance-roles)=
 # Governance Roles
 
 ```{note}

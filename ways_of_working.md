@@ -9,15 +9,18 @@ For details, please refer to the Foreword, Afterword, and Community Handbook wit
 
 ## Communication
 
-You can reach out to all members listed in our [governance document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md) by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
+Below we have listed all communication channels used in _The Turing Way_.
+For details, please refer to the [Communication Platforms](https://book.the-turing-way.org/community-handbook/communication-channels) chapters in the Community Handbook.
+
+You can reach out to all members listed in our [governance document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md) by tagging them on GitHub issues or Pull Requests, or directly on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 You can reach the _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
-Please join the fortnightly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
+Please join the fortnightly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them.
 
 Talks, presentations and recordings from different events are posted on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA) regularly.
 
-Please read the [Communication Platforms](https://book.the-turing-way.org/community-handbook/communication-channels) chapters in the Community Handbook to learn about different platforms used in _The Turing Way_.
+
 
 ### Community Channels
 
