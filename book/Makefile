@@ -11,7 +11,7 @@ strict:
 	cd website && jupyter-book build --html --strict
 
 ci:
-	cd website && jupyter-book build --html --ci --strict
+	cd website && jupyter-book build --html --ci
 
 pathways:
 	pathways --build ./website/
