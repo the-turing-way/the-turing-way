@@ -70,7 +70,7 @@ Chairs or a designated representative of the following **Working Groups** (WGs) 
 
 Leads or designated representatives of the **Delivery Teams** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
-- **_The Turing Way_ Practitioners Hub**, a Turing-Way project under the Innovate UK BridgeAI that engages with industries in sharing and adopting best practices for data science and AI.
+- **_The Turing Way_ Practitioners Hub**, a Turing Way project under the Innovate UK BridgeAI initiative that engages with industries in sharing and adopting best practices for data science and AI.
 - **Software Sustainability Institute Fellows Projects**, that are defined to be conducted in collaboration with _The Turing Way_ project delivery or community members.
 - **JupyterHub -_The Turing Way_ Project**: [Arielle to add details]
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
