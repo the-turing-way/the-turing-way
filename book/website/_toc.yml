@@ -27,10 +27,10 @@ chapters:
       - title: Governance
         file: foreword/governance
         sections:
-        - title: Governance Roles
-          file: foreword/governance/governance-roles  
-        - title: Ways of Working
-          file: foreword/governance/ways-of-working
+          - title: Governance Roles
+            file: foreword/governance/governance-roles
+          - title: Ways of Working
+            file: foreword/governance/ways-of-working
       - title: How to Cite
         file: foreword/cite
       - title: Frequently Asked Questions
