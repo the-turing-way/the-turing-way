@@ -17,9 +17,9 @@ We are very keen to discuss and improve our governance approaches with the invol
 In 2023-2024, _The Turing Way_ adopted three institutional "levels".
 Originally described in the context of Studies of the institutional design of natural resource commons{cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making{cite}`Schweik2007commons`.
 
-1. The “Community level" ("Operational level”) norms that influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
-2. The "Maintenance level" (“Collective choice") norms allow different groups of people to come together to work on and promote specific projects or initiatives such as via Working Groups as well as define/maintain processes to make community level participation easier. 
-3. The "Constitutional level" norms are followed by community leaders who join a formal group such as a Steering Committee to improve/approve maintenance level norms and establish procedures for those decisions. They also are responsible for the project-related responsibilities that affect the whole of the project, the community and sustainability.
+1. The “Community level" ("Operational-level”) norms influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
+2. The "Maintenance" (“Collective choice") level norms allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier.
+3. The "Constitutional-level" norms in Steering Committee by community leaders allow development, approval and establishment of Working Group and project-related norms that affect the whole of the project, community and their sustainability.
 
 ```{figure} ../figures/turing-way-governance-2.jpeg
 ---
@@ -78,18 +78,20 @@ These processes and resources are co-developed by maintenance level members with
 
 ### Maintenance Level
 
-This level includes Working Groups and members from the project delivery team not involved in the constitution level decision making.
+This level includes Working Groups and members from the projects within the scope of _The Turing Way_.
+You can find details about these members in {ref}`governance-roles`.
 
-You can find details about these members in our [Governance Roles document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE-ROLES.md).
+Decision-making at the maintenance level must stay with the community and stewards of the community participating at this level.
+They are also responsible for making process of participation at the community level transparent for other community members.
+
+Members participating in the constitution level roles also participate at this level, and escalate any decision that affects the broader project and the community functioning, for the constitution level decision-making.
 
 #### Project Delivery Teams
 
-_The Turing Way_ {ref}`Project Delivery Team Members<fw-community-delivery-team>` are members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
+_The Turing Way_ {ref}`Project Delivery Team Members<governance-roles>` are members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
 
+The project delivery team provide support to the members across all levels of governance and ensure that decision-making process is kept transparent for the rest of the community.
 
-Decision-making at this level must stay with the community and stewards of the community, supported by the project delivery team.
-Any decision that affects the broader project and the community functioning, should be escalated for the constitution level decision-making.
-    
 #### _The Turing Way_ Working Groups
 
 Within *The Turing Way*, {ref}`Working Groups (or WGs)<subprojects>` are formed by small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest.
