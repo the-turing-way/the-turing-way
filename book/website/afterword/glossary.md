@@ -152,6 +152,9 @@ DNS
 Docker Container
 : An active computational environment executed from a Docker image.
 
+Docker Compose
+  A tool that makes it easier define and run multi-container Docker applications in a reproducible manner. Through a YAML file, you can declaratively specify your deployment including containers, networks, and volumes. You can then deploy all resources with a single command.
+
 Dockerfile
 : A file used for creating Docker images
 

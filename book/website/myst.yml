@@ -38,6 +38,7 @@ project:
           title: How to Cite
         - file: foreword/faqs.md
           title: Frequently Asked Questions
+    # ===== Guide for Reproducible Research ========================================
     - file: reproducible-research/reproducible-research.md
       children:
         - file: reproducible-research/overview.md
@@ -301,6 +302,7 @@ project:
           children:
             - file: reproducible-research/case-studies/case-study-statistical.md
               title: A Statistical Methods Manuscript
+    # ===== Guide for Project Design ========================================
     - file: project-design/project-design.md
       children:
         - file: project-design/pd-overview.md
@@ -425,6 +427,7 @@ project:
               title: Validation and Generalisability
             - file: project-design/risks-of-bias/discrimination-bias.md
               title: Discrimination and Bias
+    # ===== Guide for Communication ========================================
     - file: communication/communication.md
       children:
         - file: communication/comms-overview.md
@@ -485,7 +488,9 @@ project:
             - file: communication/citable/citable-steps.md
               title: Steps for Making Research Objects Citable
             - file: communication/citable/citable-cite.md
-              title: Citing Research Objects
+              title: Citing your own Research Objects
+            - file: communication/citable/citable-otherscite.md
+              title: Citing other peoples Research Objects
             - file: communication/citable/citable-cff.md
               title: Software citation with CITATION.cff
             - file: communication/citable/citable-cffinit.md
@@ -553,6 +558,7 @@ project:
           children:
             - file: communication/binder/zero-to-binder.md
               title: Zero-to-Binder
+    # ===== Guide for Collaboration ========================================
     - file: collaboration/collaboration.md
       children:
         - file: collaboration/github-novice.md
@@ -617,8 +623,8 @@ project:
           title: Tools for Facilitating Collaboration
         - file: collaboration/stakeholder-engagement.md
           title: Facilitating Stakeholder Engagement
-        - file: collaboration/new-community.md
-          title: Managing a New Community and Team
+        - title: Managing a New Community and Team
+          file: collaboration/new-community.md
           children:
             - file: collaboration/new-community/new-community-guide.md
               title: Guide to Planning a Community
@@ -740,6 +746,7 @@ project:
           children:
             - file: collaboration/oss-sustainability/oss-sustainability-examples.md
               title: Examples of Open Source Business Models
+    # ===== Guide for Ethical Research ========================================
     - file: ethical-research/ethical-research.md
       children:
         - file: ethical-research/ethics-intro.md
@@ -808,6 +815,7 @@ project:
               title: Case Study
         - file: ethical-research/ethics-open-source-governance.md
           title: Ethical Considerations for Open Source Governance Models
+    # ===== Community Handbook ========================================
     - file: community-handbook/community-handbook.md
       children:
         - file: community-handbook/coc.md
@@ -941,6 +949,15 @@ project:
               title: Organising coworking calls
             - file: community-handbook/coworking/coworking-dropins.md
               title: Drop-in Sessions
+        - file: community-handbook/onboarding-offboarding.md
+          title: Onboarding and Offboarding
+          children:
+            - file: community-handbook/onboarding-offboarding/onboarding-general-calls.md
+              title: General Onboarding
+            - file: community-handbook/onboarding-offboarding/onboarding-core-team.md
+              title: Core Team Onboarding
+            - file: community-handbook/onboarding-offboarding/offboarding-core-team.md
+              title: Core Team Offboarding
         - file: community-handbook/fireside-chat.md
           title: Fireside Chat Series
           children:
@@ -971,6 +988,7 @@ project:
               title: Template for Drafting Newsletters
             - file: community-handbook/templates/template-fireside-chat.md
               title: Template for Fireside Chat Shared Notes
+    # ===== Afterword ========================================
     - file: afterword/afterword.md
       children:
         - file: afterword/legal-disclaimer.md
