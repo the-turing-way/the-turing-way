@@ -7,4 +7,3 @@ matplotlib
 numpy
 pandas
 sphinx-panels
-tornado>=6.4.2
