@@ -124,7 +124,7 @@ Decisions at the maintainer level may include the following:
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
 * Proposing funding ideas/proposals or responding to a call for applications to support their work in _The Turing Way_.
 * Suggesting changes in ongoing processes or current working models through discussions.
-* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) in conversation with the project delivery team.
+* Organising a {ref}`ch-fireside-chat` in conversation with the project delivery team.
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
@@ -133,19 +133,10 @@ Decisions at the maintainer level may include the following:
 Governance at this level encompasses strategic decisions and significant project changes, including project goals, governance processes, funding, recruitment and shared leadership.
 
 Until November 2024, constitutional-level decision-making rested with the project leads, Kirstie Whitaker and Malvika Sharan.
-
-Since December 2024, the project delivery team, led by Malvika, has been supporting the formalisation of constitutional-level governance.
-Find details for _The Turing Way_ constitution-level roadmap in [issue #4014](https://github.com/the-turing-way/the-turing-way/issues/4014).
-
-A Steering Committee at this level is composed of chairs, representatives, or leads of Working Groups and projects funded or supported by _The Turing Way_.
+Since December 2024, the project delivery team, led by Malvika, has been supporting the formalisation of constitutional-level governance by establishing a Steering Committee.
 
 Steering Committee members provide advice and ensure accountability for community- and maintenance-level efforts.
-They are responsible for escalating project- and community-wide decisions to the constitutional level and participating in the decision-making processes.
-
-They actively engage community members by transparently sharing discussions and outcomes from the constitutional level.
-They solicit feedback on decisions (such as, via GitHub issues and newsletters) and approve changes that improve project and community functioning.
-
-Decisions at constitutional level may include the following:
+Decisions at constitutional level may include the following, but not limited to:
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, recruiting staff and allocating budget.
 - Building clarity around resources available for the maintainers and community members.
@@ -156,6 +147,18 @@ Decisions at constitutional level may include the following:
 - Meeting other project and community-wide obligations and communicating them transparently to the community.
 
 This document is in its early stages and will evolve in conversation with the community. 
+Find the roadmap for _The Turing Way_ constitution-level Steering Committee in [issue #4014](https://github.com/the-turing-way/the-turing-way/issues/4014), and join the conversation.
+
+#### Membership in the Steering Committee
+
+This committee is comprised of the 1) chairs of Working Groups, and 2) leads of delivery teams of projects in _The Turing Way_, both with defined goals and deliverables.
+Working Group chairs or delivery team leads may also appoint another member from their group or team to represent their work within the committee.
+The aim is to ensure consistent representation in the Steering Committee by a stable group of individuals who can provide continuity in knowledge and leadership, contributing effectively to the committee’s shared objectives.
+
+As part of maintenance level WGs or delivery teams, committee members are responsible for escalating project- and community-wide decisions to the constitutional level and participating in the decision-making processes.
+
+As part of constitution-level Steering Committee, they are responsible for actively engaging community members by transparently sharing discussions and outcomes from the constitutional level.
+They solicit feedback on decisions (such as, via GitHub issues and newsletters) and approve changes that improve project and community functioning.
 
 ```{note}
 Since 2019, {ref}`Collaboration Cafés<ch-coworking-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
