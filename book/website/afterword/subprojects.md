@@ -57,6 +57,8 @@ Find details about this WG's work on their [GitHub repository]().
 
 *Project Information: [Find proposal for this new WG on issue]([https://book.the-turing-way.org/community-handbook/bookdash](https://github.com/the-turing-way/the-turing-way/issues/4033))*
 
+Project Delivery Team members:
+
 - Anne Lee Steele
 - Léllé Demertzi
 - Malvika Sharan
