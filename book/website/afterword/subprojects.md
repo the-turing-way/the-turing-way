@@ -90,6 +90,7 @@ More information will be shared as soon as this WG is operationalised.
 *Project Information: [GitHub Repository]()*
 
 - Arielle Bennett
+- Kirstie Whitaker
 
 ### *The Turing Way* Practitioners Hub - BridgeAI-funded Project
 
