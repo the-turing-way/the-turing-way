@@ -96,9 +96,7 @@ exclude = [
 
 # Exclude these filesystem paths from getting checked.
 exclude_path = [
-  "book/website/_build/html/_sources/",
-  "book/website/_build/html/_static/webpack-macros.html",
-  "book/website/_build/html/_static/sbt-webpack-macros.html",
+  "book/website/_build/html/build/",
   ]
 
 # URLs to check (supports regex). Has preference over all excludes.
