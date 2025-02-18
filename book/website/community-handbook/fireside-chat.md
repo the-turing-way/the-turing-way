@@ -71,7 +71,7 @@ The schedule is decided based on the availability of individuals invited as spea
 - **Online promotion**: Announcements are shared on *The Turing Way* [X (formerly Twitter)](https://twitter.com/turingway), [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) and [monthly newsletters](https://buttondown.com/turingway), which are then cross-posted by other communities in their network.
 - **Shared Documents**: We currently use Etherpad by Software Freedom Conservancy to enable shared note-taking during the event. Refer to this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022. 
     - **Template** is provided as a subchapter: {ref}`ch-template-fireside-chat`.
-    - **Overview of all Fireside Chats** are currently shared via HackMD: https://hackmd.io/@turingway/fireside-chats.
+    - **Overview of all Fireside Chats** are currently shared via HackMD: https://hackmd.io/\@turingway/fireside-chats.
 - **Video Recording**: Video recordings with closed captioning are shared on *The Turing Way* YouTube channel in the [Fireside Chat video playlist](https://www.youtube.com/watch?v=nuNA3Qa8A-k&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl).
 
 ### Participants

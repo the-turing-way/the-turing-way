@@ -2,9 +2,9 @@
 # Missing Data Structures
 
 This subchapter introduces the main missing data structures. In order to decide on how to best handle any missing data, understanding our data and any context in how the data was acquired is important. To that end, data can be usually classified into three main types based on why the data may be missing: 
-1. [Missing Completely at Random (MCAR)](pd-missing-data-structures-mcar)
-2. [Missing at Random (MAR)](pd-missing-data-structures-mar)
-3. [Missing not at Random (MNAR)](pd-missing-data-structures-mnar)
+1. [Missing Completely at Random (MCAR)](#pd-missing-data-structures-mcar)
+2. [Missing at Random (MAR)](#pd-missing-data-structures-mar)
+3. [Missing not at Random (MNAR)](#pd-missing-data-structures-mnar)
 
 These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. As this chapter has been created as part of the [Turing-Roche Community Scholar Scheme](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/community-scholars), the examples provided will be based in healthcare. 
 

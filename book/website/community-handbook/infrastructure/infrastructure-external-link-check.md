@@ -39,7 +39,7 @@ Improvements to the explanation or guidance should be made to the [issue header]
 
 ## Running the Checks Locally
 
-You can run the external link checking process locally using Lychee _after_ [building the book](ch-local-build).
+You can run the external link checking process locally using Lychee _after_ [building the book](#ch-local-build).
 From the repository root,
 
 ```console
