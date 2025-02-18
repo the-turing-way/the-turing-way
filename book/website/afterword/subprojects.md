@@ -11,6 +11,7 @@ These subprojects are often time-bound and are supported by community members wh
 *Project Information: [Chapter in the Community Handbook](https://book.the-turing-way.org/community-handbook/translation)*
 
 - Chair: [Batool Almarzouq](https://book.the-turing-way.org/afterword/contributors-record#batool-almarzouq)
+- [Andrea Sanchez Tapia](https://book.the-turing-way.org/afterword/contributors-record#andrea-sanchez-tapia)
 
 <!-- TBC: Add repo link here -->
 Find details about this WG's work on their GitHub repository](https://github.com/the-turing-way/accessibility-working-group)
