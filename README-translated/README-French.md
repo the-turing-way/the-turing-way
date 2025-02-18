@@ -2,7 +2,7 @@
 
 # _The Turing Way_
 
->_Ce fichier README.md est également disponible en allemand ([README-German.md](README-translated/README-German.md)), anglais ([README](README.md)), coréen ([README-Korean](README-translated/README-Korean.md)), espagnol ([README-Spanish](README-translated/README-Spanish.md)), indonésien ([README-Indonesian](README-translated/README-Indonesian.md)), italien ([README-Italian](README-translated/README-Italian.md)), néerlandais ([README-Dutch](README-translated/README-Dutch.md)) et portugais ([README-Portuguese](README-translated/README-Portuguese.md)) (tri alphabétique)._
+>_Ce fichier README.md est également disponible en allemand ([README-German.md](README-German.md)), anglais ([README](../README.md)), coréen ([README-Korean](README-Korean.md)), espagnol ([README-Spanish](README-Spanish.md)), indonésien ([README-Indonesian](README-Indonesian.md)), italien ([README-Italian](README-Italian.md)), néerlandais ([README-Dutch](README-Dutch.md)) et portugais ([README-Portuguese](README-Portuguese.md)) (tri alphabétique)._
 
 *Total des contributeurs et contributrices :*
 
@@ -80,7 +80,7 @@ Veuillez consulter le [Tableau des contributions](#Liste-des-personnes-qui-ont-c
 
 :construction: Ce répertoire est toujours un travail en cours et **tout le monde** est encouragé à nous aider à construire quelque chose d'utile pour le plus grand nombre possible de personnes. :construction:
 
-Tout le monde doit suivre notre [code de conduite](CODE_OF_CONDUCT.md) et consulter nos [directives de contribution](CONTRIBUTING.md) pour plus d'informations sur la façon de commencer.
+Tout le monde doit suivre notre [code de conduite](../CODE_OF_CONDUCT.md) et consulter nos [directives de contribution](../CONTRIBUTING.md) pour plus d'informations sur la façon de commencer.
 
 Nous voulons nous assurer que vous êtes à l'aise de contribruer peu importe le niveau de connaissances que vous avez.
 Pour cette raison, nous proposons plusieurs points d'entrée pour que vous puissiez contribuer en fonction de vos intérêts, de votre disponibilité ou des compétences requises.
