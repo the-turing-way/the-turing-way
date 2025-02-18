@@ -1813,7 +1813,8 @@
       "profile": "https://remi-gau.github.io/",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "infra"
       ]
     },
     {
@@ -5028,6 +5029,15 @@
       "profile": "http://huixinng.com",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "DiegoOLopez",
+      "name": "Diego O Lopez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92211663?v=4",
+      "profile": "https://github.com/DiegoOLopez",
+      "contributions": [
+        "content"
       ]
     }
   ],
