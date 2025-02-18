@@ -5,17 +5,17 @@ Decisions taken at the maintenance level require extended engagement with the pr
 
 Decisions at this level are made by one of the approved Working Groups or Delivery Groups.
 
-All decisions must align to the 
+All decisions must align to the values of *The Turing Way*. 
 
 ## Difference between a Working Group and a Delivery Group
 
 Both Working Groups and Delivery Groups are integral to sustaining *The Turing Way* as an open source project aligned with governance priciples of empowerment, transparency and inclusion.
 
 A Working Group is not accountable to any organisation outside of *The Turing Way* project itself.
-It is often - but not always - volunteer-led and seeks to have clear and achiveable pathways for individual contributors to become members if membership aligns with their interests and goals.
+It is often, but not always, volunteer-led and seeks to have clear and achiveable pathways for individual contributors to become members if membership aligns with their interests and goals.
 
 A Delivery Group has accountability outside of *The Turing Way* project.
-There is often - but not always - funding associated with the activites.
+There is often, but not always, funding associated with the activites.
 The accountability therefore corresponds to pre-existing funding agreements or employee objectives.
 Alternatively a Delivery Group may have accountability to another community or organisation.
 Delivery Groups are not as open as Working Groups but commit to being as open as possible and as closed as necessary.

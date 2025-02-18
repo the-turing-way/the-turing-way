@@ -4,7 +4,7 @@
 Working Groups (WGs) are used across many sectors including government, academia, business and nonprofit or volunteer-led organisations to decentralise operations and decision making.
 We define a working group as an organised group or committee within a project, organisation or community.
 The groups can be time-bounded (short-term or long-term) or open-ended based on the type of tasks the group is assigned.
-WG members collaborate to provide accountability, solve problems and make decisions to achieve the goals set for the group.
+Working Group members collaborate to provide accountability, solve problems and make decisions to achieve the goals set for the group.
 
 You can explore some examples of open research projects that use working groups as part of their governance at the following links:
 * Project Jupyter: [Standing committees and working groups](https://jupyter.org/governance/standing_committees_and_working_groups.html)
@@ -15,11 +15,11 @@ You can explore some examples of open research projects that use working groups 
 * Community Health Analytics in Open Source Software (CHAOSS): [Working groups](https://chaoss.community/cgi-sys/suspendedpage.cgi)
 
 Working groups can limit a ["tyranny of structurelessness"](https://www.jofreeman.com/joreen/tyranny.htm) `reformat to reference!`, where navigating information may be easier for people who have been involved for longer.
-Unclear definitions of roles and responsibilities can exclude newer members or those who don't have direct contact with the project team.
+Unclear definitions of roles and responsibilities can exclude newer members who want to contribute more to the community.
 A ["do-ocracy"](https://communitywiki.org/wiki/DoOcracy) `reformat to reference!` - where community members take on self designated tasks - can perpetuate biases and power imbalance in the group.
 
 We use the working group structure to allocate administrative support from the project's paid staff members, such as our Research Community Manager and Research Project Manager, as equitably as possible.
-By formalising WGs and the associated roles, we provide pathways to understanding how *The Turing Way* is governed and, hopefully, clear opportunities to shape the future directions of the project.
+By formalising Working Groups and the associated roles, we provide pathways to understanding the different ways that community members contribute to *The Turing Way* and, hopefully, clear opportunities to shape the future directions of the project.
 Additionally, the clear roles and responsibilities can support community members in articulating their contributions to *The Turing Way* [`add ref here to the contributions page in the book`] and gaining appropriate recognition for their work.
 
 You can find out more about our current working groups and how to join them at `LIST OF LINKS HERE? Are they "subprojects" at the moment? Need an updated name! Maybe add the year that each started in the list?`

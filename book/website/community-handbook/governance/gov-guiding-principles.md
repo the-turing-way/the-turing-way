@@ -2,7 +2,7 @@
 # Governance Guiding Principles: Inclusion, Transparency and Empowerment in Decision-Making
 
 All *Turing Way* decisons should align with the following guiding principles:
-1. **Empowerment** of contributors to participate in decision making processes.
+1. **Empowerment** of contributors to participate in decision making processes and the community.
 2. **Transparency** of ways of working and how decisions are made.
 3. **Inclusion** of diverse perspectives in all areas of the project.
 
@@ -13,8 +13,9 @@ Something more formal but along the lines of "This wouldn't be The Turing Way if
 
 ## Empowerment
 
-Decision making within *The Turing Way* is most sustainable if the working groups maintain a networked relationship with the wider community.
 Our goal is to empower as many community members to participate as want to, and for decisions on a topic or subject to be made at the right level and by the right people.
+Decision making within *The Turing Way* is most sustainable if the Working Groups and Delivery Groups maintain a networked relationship with the wider community.
+The Steering Council members maintain their relationships with the wider community through their roles in Working Groups and Delivery Groups, as well as their role in constitutional level decision making. 
 
 - What decisions does the WG feel *empowered to take as an autonomous WG*?
   - For example, the Translation and Localisation WG can choose the best platform for translating the book into different languages.
@@ -50,7 +51,8 @@ Although it might not always be possible due to the time zones or other factors,
 <!--- This section can provide more examples and links from existing work - MS --->
 <!-- KW: Agree - the "for examples" in the bullet points can be expanded I think - there is a lot of useful learning in there -->
 In principle, primary decision-making should lie with the WG team itself. 
-However, there will be some decisions that might require input from different people across the community, project leadership and/or project delivery team for consultation and support.
+However, there will be some decisions that might require input from, or consultation with, the community level, other Working Groups, or Delivery Groups.
+Some issues or proposals may need to be taken to the Steering Council for a decision, based on the principles set out elsewhere in this chapter. 
 
 To identify where in their work a decision may or may not require inputs, support, or involvement from specific party outside the WG, we recommend WGs to use the following questions when creating their documentation, and invite clarity from the project delivery team:
 

@@ -47,22 +47,22 @@ They will aim to host their meetings around 1 month before the community forum e
 It is up to the Steering Council to decide how long each meeting should last.
 
 It is the responsibility of the Chair to set the agenda for these meetings.
-They may choose to - for example - focus on particularly thorny topics for discussion, or to invite presentations on activity across the project to keep all Steering Council members informed.
+They may choose to, for example, focus on particularly thorny topics for discussion, or to invite presentations on activity across the project to keep all Steering Council members informed.
 
 The Steering Council may also hold ad hoc meetings to discuss specific topics in order to facilitate empowered, transparent and inclusive decision making across the project. 
 
 ### Asynchronous collaboration
 
-Steering Council members will be added to a private slack channel in *The Turing Way* slack workspace.
+Steering Council members will be added to a private channel in *The Turing Way* Slack workspace.
 They can use this space to share knowledge and to ask for input for ongoing discussions.
 
-All requests for decisions by the Steering Council are documented as issues in the governance repository in *The Turing Way* GitHub organisation.
+All requests for decisions by the Steering Council are documented as issues in the [governance repository](https://github.com/the-turing-way/governance) in *The Turing Way* GitHub organisation.
 Steering Council members are expected to monitor these issues and contribute on topics related to the interests and needs of their working group or delivery group members.
 
 ### Responding to requests for a decision
 
 Any individual member of The Turing Way community can request a decision from the Steering Council.
-They would make that request in the form of a GitHub issue in the goverance GitHub repository.
+They would make that request in the form of a GitHub issue in the governance GitHub repository.
 See the page in this chapter on <!-- FORMAT TO LINK --> balancing sensitive information disclosure with transparency for guidance on the appropriate amount of information to include in the public request.
 
 Requests for decisions can also be brought by working groups and delivery groups, and by the Steering Council themselves.
@@ -94,7 +94,7 @@ Decisions that are appropriate to be made at the consitutional level include but
 
 The steering group can be asked to take 3 actions one is to note decisions that were made in the last quarter by a working group or delivery group. This goes under in form heading
 
-They can also be asked to request to give approval for a proposal that is usually one that's been developed across working groups and delivery groups and that they are in unanimous support for.
+They can also be asked to give approval for a proposal that is usually one that's been developed across working groups and delivery groups and that they are in unanimous support for.
 
 ### Hypothetical worked example: Collaborating on a funding application
 
@@ -103,20 +103,20 @@ Imagine that there is a funding call looking to support training for open scienc
 The funder is based in India, the money can only be distributed to and managed by an organisation based in India, and the applicants are required to have someone based at an organisation outside of India to be part of the collaboration.
 
 Indrani is a professor at Delhi University in India and Baptiste is a graduate student at Montpellier University in France.
-They have both contributed to The Turing Way as individual contributors at the community decision making level.
-Their idea involves improving resources from The Turing Way and promoting them in their professional networks.
+They have both contributed to *The Turing Way* as individual contributors at the community decision making level.
+Their idea involves improving resources in *The Turing Way* and promoting them in their professional networks.
 
 They collaboratively develop their funding proposal with input from the Translation and Localisation working group.
 Before submitting the grant (ideally) they bring a request to the Steering Council to create (if approved) a new delivery group.
 They want to use this funding to strengthen interpersonal and professional connections across The Turing Way, invite new people into the community, and to improve the content for a broader audience.
 
 This Delivery Group would be chaired by Indrani as principle investigator of the project.
-Baptiste would be a member, and Marc - a member of the Turing Way's Translation and Localisation working group - becomes a member of this delivery group in order to maintain strong connections between the T&L Working Group and this delivery group.
+Baptiste would be a member, and Marc — a member of *The Turing Way*'s Translation and Localisation working group — becomes a member of this delivery group in order to maintain strong connections between the T&L Working Group and this delivery group.
 
 Other members would likely include a project manager employed at the University of Delhi, some named collaborators from the grant, and maybe a postdoctoral research fellow who is hired to develop and deliver trainings as described in the grant.
 
-The Turing Way Steering Group would not be accountable for the deliverables in the grant, nor any budget management, nor performance review or appraisals for the team members.
-These responsibilities are external to The Turing Way open source community.
+*The Turing Way* Steering Group would not be accountable for the deliverables in the grant, nor any budget management, nor performance review or appraisals for the team members.
+These responsibilities are external to *The Turing Way* open source community.
 
 If the Steering Group agree that the proposed work is aligned to the long term strategic vision for the community they would **approve this request**.
 The new delivery group would be required to set up a charter as described in <!-- CHAPTER ON DELIVERY GROUPS --> this chapter's sub-section on delivery groups.
@@ -124,8 +124,8 @@ The chair of the delivery group (Indrani) would become a member of the Steering 
 
 If the Steering Group did not agree that the proposed work is aligned to the long term strategic vision for the community they would **reject this request**.
 Indrani and her team could still undertake the work and continue to contribute as individual contributors.
-They can still use materials from The Turing Way under the open source licences that the project uses.
+They can still use materials from *The Turing Way under* the terms of the open source licences that the project uses.
 Members of the Translation and Localisation Working Group would still be allowed to collaborate.
-The team members would always be expected to abide by The Turing Way code of conduct.
+The team members would always be expected to abide by *The Turing Way* code of conduct.
 The only certain effect of deciding not to make a Delivery Group is that the project would not have a seat on the Steering Council.
 The decision could also affect how the Community Management Delivery Group(s) allocated their paid staff time but that would be up to the Community Management Delivery Group(s) to decide.

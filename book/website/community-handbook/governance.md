@@ -6,21 +6,20 @@ Governance is a set of formal and informal practices through which an organisati
 Like the book itself, the governance of _The Turing Way_ is always a work in progress!
 We are very keen to discuss and improve our governance approaches with the involvement of our community members.
 
-In this section we introduce our goverance guiding principles of:
+In this section we introduce our governance guiding principles:
 
 1. **Empowerment** of contributors to participate in decision making processes.
 2. **Transparency** of ways of working and how decisions are made.
 3. **Inclusion** of diverse perspectives in all areas of the project.
 
-We also cover how
-Decisions within *The Turing Way* community can be made at three different levels.
-In this chapter we detail the different levels and you can jump to that information from the list below:
+We also cover how decisions within *The Turing Way* community can be made at three different levels of responsibility.
+You can jump to that information from the list below:
 
 <!-- Turn these into links to later pages -->
 
-1. **{ref}`Community<ch-gov-community>`** level through individual contributors
-2. **{ref}`Maintainance**<ch-gov-maintenance>`** level through Working Groups and Delivery Groups
-3. **{ref}`Constitutional**<ch-gov-constitutional>`** level through the Steering Council
+1. {ref}`Community<ch-gov-community>` level of individual contributors
+2. {ref}`Maintainance**<ch-gov-maintenance>` level of Working Groups and Delivery Groups
+3. {ref}`Constitutional**<ch-gov-constitutional>` level of the Steering Council
 
 ```{figure} ../figures/three-layer-governance-mountain.*
 ---
@@ -47,15 +46,10 @@ The Mountain of Engagement is a _The Turing Way_ project illustration by Scriber
 Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-<!-- Turn these into links to later pages -->
-
-We also introduce our goverance guiding principles of:
-
-1. **Empowerment** of contributors to participate in decision making processes.
-2. **Transparency** of ways of working and how decisions are made.
-3. **Inclusion** of diverse perspectives in all areas of the project.
-
 In this chapter you can also find information about the role of a chair or co-chairs of a working group, delivery group and the Steering Council.
 
-_something here explaining why we care about governance_
+Clear governance empowers communities and individuals. 
+It helps newer members understand where and how to contribute to discussions and decisions, and should give everyone an understanding of what paths are open to them in the project. 
+Transparent decision making processes also support people's agency when it comes to choosing to participate in a community. 
+Without explicit governance, implicit norms and behaviours prevail, which reduces the ability of a community to scruitinise how a project is run, and can also lead to the project appearing less inclusive and accessible. 
 
