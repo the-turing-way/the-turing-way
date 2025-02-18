@@ -64,7 +64,9 @@ Project Delivery Team members:
 - Malvika Sharan
 - Arielle Bennett
 - Emma Karoune
-- Sara Villa
+
+Community volunteers:
+- [Sara Villa](https://book.the-turing-way.org/afterword/contributors-record#sara-villa)
 
 More information will be shared as soon as this WG is operationalised.
 
