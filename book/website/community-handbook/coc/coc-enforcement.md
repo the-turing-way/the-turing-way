@@ -6,6 +6,6 @@ This page displays the [`CODE_OF_CONDUCT.md`](https://github.com/the-turing-way/
 ```
 
 ```{include} ../../../../CODE_OF_CONDUCT.md
-   :start-after: "# 4 Enforcement Manual"
-   :end-before: "# 5 Acknowledgement"
+:start-after: "# 4 Enforcement Manual"
+:end-before: "# 5 Acknowledgement"
 ```

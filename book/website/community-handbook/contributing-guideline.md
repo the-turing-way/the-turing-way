@@ -6,5 +6,5 @@ This page displays the [`CONTRIBUTING.md`](https://github.com/the-turing-way/the
 ```
 
 ```{include} ../../../CONTRIBUTING.md
-   :start-after: "# Contributing to _The Turing Way_"
+:start-after: "# Contributing to _The Turing Way_"
 ```
