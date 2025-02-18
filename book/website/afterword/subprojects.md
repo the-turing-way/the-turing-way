@@ -142,7 +142,7 @@ More information will be shared as soon as this WG is operationalised.
 - [Johanna Bayer](https://book.the-turing-way.org/afterword/contributors-record#johanna-bayer)
 - [Jim Madge](https://book.the-turing-way.org/afterword/contributors-record#jim-madge)
 
-### Data Science Project Management for Project Leaders
+### Data Science Project Management for Project Leaders: Turing-Crick Partnership Project (2022)
 
 **Status: Concluded and being maintained**
 
