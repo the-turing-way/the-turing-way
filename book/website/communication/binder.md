@@ -155,4 +155,4 @@ Remember, mybinder.org is an entirely public service and under no circumstances 
 (binder-segue)=
 ## How to create a Binder-ready project
 
-The next chapter contains a [Zero-to-Binder tutorial](z2b) that will guide you through creating your first Binder-ready project on GitHub.
+The next chapter contains a [Zero-to-Binder tutorial](#z2b) that will guide you through creating your first Binder-ready project on GitHub.
