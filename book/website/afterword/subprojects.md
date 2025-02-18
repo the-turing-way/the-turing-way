@@ -97,7 +97,7 @@ More information will be shared as soon as this WG is operationalised.
 *Project Information: [Webpage](https://www.turing.ac.uk/turing-way-practitioners-hub)*
 
 - Arielle Bennett
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
+- Malvika Sharan
 - Léllé Demertzi
 
 ## Informal Initiatives
