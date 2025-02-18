@@ -1888,11 +1888,22 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Zoë Turner
 
 * Role:
-  * Founder of NHS-R Community
+  * Fellow in NHS-R Community and Community Leader
 * GitHub id: [Lextuga007](https://github.com/Lextuga007)
 
-* Short bio:. 
-> I’m a Senior Data Scientist at the Midlands Decision Support Network which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. I’m a proud Senior Fellow of the NHS-R Community. I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my {distill} blog site.
+* Short bio:
+> I’m a Senior Data Scientist at the Midlands Decision Support Network which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. 
+> I've been an analyst in the NHS and public sector for over 10 years and have been an active member and now proud Fellow of the NHS-R Community helping to run its activities since 2023.
+> I also have a particular interest in Ethics, having studied Philosophy, and some of my thoughts on this, along with technical blogs, can be found on my [blog site](https://philosopher-analyst.netlify.app/).
+
 
 * Personal highlights:
-> _Adding highlight here!_
+> I started the Quarto book [NHS-R Community Way](https://nhsrway.nhsrcommunity.com/) closely following The Turing Way but used the format to document the NHS-R Community.
+> I wanted to put into the open all the detail that makes a community run where every person can be responsible and contribute, just like The Turing Way.
+> I promote The Turing Way because so much of the contributed work in it is as appropriate to analysis in the public sector as it is to research and I was consequently delighted to host a lightning talk from Sophia Batchelor at the 2024 RPySoc conference on The Turing Way.
+
+* Quote:
+> The Turing Way has been both inspirational and a support working in an open way and documenting everything. 
+> It's not just a repository of knowledge but a shining example of how a cultural shift to community ownership can transform how we get that knowledge out into the public domain where anyone can benefit from it.
+> I've learned so much about how to engage a community from The Turing Way and particularly have appreciated how GitHub issues have been used to get community input on all manner of subjects including the experiences of others in how to host events and what software has worked and why. 
+> These discussions are so often hidden and people never get a chance to contribute or miss the time it is discussed so it was enlightning to see this approach from The Turing Way and one that I've since copied in the NHS-R Community.

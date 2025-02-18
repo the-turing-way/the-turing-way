@@ -1,0 +1,31 @@
+name: Validate GitHub Issue templates
+
+on:
+  push:
+    branches:
+      - main
+    pull_request:
+      paths:
+        - ".github/ISSUE_TEMPLATE/**"
+    workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate GitHub Issue templates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pipx install check-jsonschema
+
+      - name: Validate templates
+        working-directory: .github/ISSUE_TEMPLATE/
+        run: |
+          check-jsonschema --verbose --schemafile https://json.schemastore.org/github-issue-forms.json ./??_*.yml
