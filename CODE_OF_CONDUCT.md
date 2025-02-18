@@ -25,7 +25,7 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 
 ### Contact for Reporting
 
-_The Turing Way_ project delivery team, listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md) - are responsible for enforcing the Code of Conduct.
+_The Turing Way_ project delivery team, listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), are responsible for enforcing the Code of Conduct.
 
 Please email [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
