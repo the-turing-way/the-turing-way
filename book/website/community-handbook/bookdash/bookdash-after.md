@@ -20,7 +20,7 @@ Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesday
 These calls are 2 hour long co-working spaces for the _The Turing Way_ community.
 Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls, you can work on ideas for a new contribution or enhancement of existing content in the project.
 
-Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/@KirstieJane/CollabCafe.
+Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/\@KirstieJane/CollabCafe.
 Anyone who would like to host these calls at other times, please get in touch with the team members.
 See more details in the {ref}`Coworking Calls<ch-coworking-weekly>` chapter.
 
@@ -38,7 +38,7 @@ This is another contribution that can be discussed and prepared collaboratively 
 
 Everyone is welcome to join our [Slack workspace](https://theturingway.slack.com/) for informal discussions.
 They can also sign up to receive our monthly newsletter: [https://buttondown.email/turingway/](https://buttondown.email/turingway/).
-We are on X (formerly Twitter) as [@turingway](https://twitter.com/turingway) and Mastodon as [@turingway@fosstodon.org](https://fosstodon.org/@turingway), where we send regular updates.
+We are on X (formerly Twitter) as [\@turingway](https://twitter.com/turingway) and Mastodon as [\@turingway\@fosstodon.org](https://fosstodon.org/\@turingway), where we send regular updates.
 We also have a page on [Linkedin](https://www.linkedin.com/company/the-turing-way/).
 
 If you have more ideas or questions about the project, the Book Dash event or something else related to our community, please feel free to reach out to the team members [theturingway@gmail.com](mailto:theturingway@gmail.com).

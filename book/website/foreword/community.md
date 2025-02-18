@@ -11,7 +11,7 @@ As of June 2024, _The Turing Way_ community has been joined by more than 1000 me
 The book itself has 6000+ monthly users worldwide.
 
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
-Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
+Contributors' details are available in the [Contributors Records](#contributors-record), and the [project reports](https://github.com/the-turing-way/project-management/tree/main/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
 (fw-community-delivery-team)=
 ## Project Delivery Team
@@ -104,4 +104,4 @@ We have a chapter on {ref}`ch-presenting` to help you present and share about _T
 
 _The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.
 
-_For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html)._
+_For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](#ch-acknowledgement-examples)._
