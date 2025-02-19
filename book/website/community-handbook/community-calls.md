@@ -27,6 +27,8 @@ Our coworking calls provide opportunities for community members to allocate time
 
 **Community calls**: {ref}`Core Team Meetings (now retired)<ch-community-calls-core-team>`, {ref}`Open Governance Calls<ch-community-calls-governance-forum>`
 
+Community calls may also be used at spaces for organising and planning within _The Turing Way_ community for goverance purposes. As the community has grown tremendously (over 450 contributors and 30+ core team members as of February 2024), it has increasingly become clear that formalised decision-making and structures are needed to ensure the sustainability of the project.
+
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements. We expect that the calls will be a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
 
 Currently, this call is hosted in English. This call will be recorded for use by participants, and will use Zoom's automatic captioning. This call may also involve live discussion, screen-sharing, and other interactive activities that may be internet bandwidth-intensive. Slides will be shared after the call. A shared document will be used for collaborative note-taking, capturing feedback and learning.
