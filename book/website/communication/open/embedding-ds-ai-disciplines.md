@@ -13,12 +13,16 @@ This chapter profiles non-cognate students, offers suggestions for educators tea
 
 In the constantly growing data-intensive society, data science is being applied within various **non-cognate disciplines** such as arts, history, and social sciences. 
 It's important for people involved in training people in these disciplines to understand how to adapt tools and develop skills in different contexts, particularly data literacy, and how educators can support the development of these specific competencies.
-Data literacy is traditionally defined as the ability to explore, understand, and communicate data as information. This definition can be expanded by a recent contribution from Gebre (2022), who identifies key elements of data literacy, including general competencies such as attitudes toward data and specific skills like using particular tools. Gebre also highlights context-specific factors that impact how learners relate to data, which are highly relevant when teaching to non-cognate students.
+Data literacy is traditionally defined as the ability to explore, understand, and communicate data as information. 
+This definition can be expanded by a recent contribution from Gebre (2022), who identifies key elements of data literacy, including general competencies such as attitudes toward data and specific skills like using particular tools. 
+Gebre also highlights context-specific factors that impact how learners relate to data, which are highly relevant when teaching to non-cognate students.
 
 ### Defining Non-cognate students
 The term "non-cognate student" typically refers to a student who is pursuing a degree or studying in a field that is unrelated or different from their previous academic background or qualifications. In this context, "cognate" refers to a subject or field that is closely related or similar to the student's prior academic experience. For example, if a student with a background in engineering decides to pursue a graduate degree in psychology, they would be considered a non-cognate student because engineering and psychology are unrelated fields. The term is commonly used in academic settings, particularly when discussing admissions or program requirements.
 
-Hence, non-cognate does not necessarily mean non-computing/non-mathematics/non-STEM and, most importantly, it does not limit the student's ultimate potential to acquire new knowledge. However, being a non-cognate student may have implications for the student's course selection, prerequisites, and potential challenges in adapting to the new field of study. In some cases, non-cognate students may need to complete additional coursework or prerequisites to gain the necessary knowledge and skills to succeed in their chosen field.
+Hence, non-cognate does not necessarily mean non-computing/non-mathematics/non-STEM and, most importantly, it does not limit the student's ultimate potential to acquire new knowledge. 
+However, being a non-cognate student may have implications for the student's course selection, prerequisites, and potential challenges in adapting to the new field of study. 
+In some cases, non-cognate students may need to complete additional coursework or prerequisites to gain the necessary knowledge and skills to succeed in their chosen field.
 
 ### What does the typical learner profile from a non-cognate discipline look like? 
 
@@ -60,7 +64,7 @@ Depending on existing knowledge, teaching may need to focus on:
 * Developing a fundamental understanding of AI topics
 
 ![Screenshot (30)](https://hackmd.io/_uploads/S1CmqdRYR.png)
-*Figure 2. Kandlhofer et al. (2016), Topcis of AI Literacy.*
+*Figure 2. Kandlhofer et al. (2016), Topics of AI Literacy.*
 
 <div class="alert alert-block alert-info">
 <b>Case study: UCL, Built Environment: Sustainable Heritage MSc, Data Science route </b> 
@@ -99,7 +103,9 @@ As part of the questioning process, it is an essential tool for developing stude
 Feedback must be task-focused, timely, specific, clear and unbiased. 
 In this way, you will provide your students with information about their current performance and guidance on how they can improve to reach their goals.
 
-2. **Formative Assessment (FA)** supports teaching by assessing a learner's state and inferring next steps (Zhai et al., 2021). It is similar to AfL, as both methods are used to understand student progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, FA is used for day-to-day assessments to gauge and explore students' understanding of a topic.
+2. **Formative Assessment** supports teaching by assessing a learner's state and inferring next steps (Zhai et al., 2021). 
+It is similar to AfL, as both methods are used to understand student progress and inform teaching. 
+However, while AfL is carried out during learning to inform teaching and identify areas for improvement, formative assessment is used for day-to-day assessments to gauge and explore students' understanding of a topic.
 
 The formative assessment process usually consists of the following three practices (Stanja et al., 2023):
 * **Eliciting**: The collection of evidence for students' learning using tasks and questions 
@@ -111,7 +117,7 @@ Formative assessments in data science and AI education should focus on providing
 * **Concept checks**: Quick, informal assessments during lessons, such as quizzes or hands-on tasks, to gauge understanding of recent topics like machine learning algorithms or statistical methods.
 * **Data challenges**: Mini group competitions where students predict outcomes based on given datasets, which are then discussed in class to learn from various approaches. When teaching in multidisciplinary settings, the challenges should be situated in the disciplinary domain that is most familiar to students.
 
-3. **Differentiated Instruction (DI)** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan (Tomlinson, 2017). 
+3. **Differentiated Instruction** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan (Tomlinson, 2017). 
 
 Differentiated instruction sits between "single-size" instruction and individualised instruction, involving proactive planning of various ways for students to express their learning. 
 While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students.
