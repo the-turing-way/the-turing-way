@@ -11,6 +11,14 @@ _The Turing Way_ open governance forum was organised in response (and replacing)
 
 More specifically, these calls are designed to be open, public forums to engage in community updates across the project teams and groups, specifically as places to share-out updates at the working group and constitutional levels of the project.
 
+Modelled off a political town hall event these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements. We expect that the calls will be a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
+
+Community calls may also be used at spaces for organising and planning within _The Turing Way_ community for goverance purposes. As the community has grown tremendously (over 450 contributors and 30+ core team members as of February 2024), it has increasingly become clear that formalised decision-making and structures are needed to ensure the sustainability of the project.
+
+These calls may take on a more traditional meeting format, with a prepared agenda with particular points to be voted on by different members. Alternatively, it could also take on a more decentralised format that is aimed at gathering feedback from the organising body of the project, and or relay feedback from the Maintainer level to the Constitutional level of the project (see: [Liberating Structures](https://www.liberatingstructures.com/)). 
+
+Currently, this call is hosted in English. This call will be recorded for use by participants, and will use Zoom's automatic captioning. This call may also involve live discussion, screen-sharing, and other interactive activities that may be internet bandwidth-intensive. Slides will be shared after the call. A shared document will be used for collaborative note-taking, capturing feedback and learning.
+
 ## Format of call
 
 The current format of the call is as follows, and will likely evolve as the community needs evolve alongside them.
