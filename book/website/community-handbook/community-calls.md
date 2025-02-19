@@ -27,9 +27,9 @@ Our coworking calls provide opportunities for community members to allocate time
 
 **Community calls**: {ref}`Core Team Meetings (now retired)<ch-community-calls-core-team>`, {ref}`Open Governance Calls<ch-community-calls-governance-forum>`
 
-Community calls may also be used at spaces for organising and planning within _The Turing Way_ community for goverance purposes. As the community has grown tremendously (over 450 contributors and 30+ core team members as of February 2024), it has increasingly become clear that formalised decision-making and structures are needed to ensure the sustainability of the project.
+Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements. We expect that the calls will be a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
 
-These calls may take on a more traditional meeting format, with a prepared agenda with particular points to be voted on by different members. Alternatively, it could also take on a more decentralised format that is aimed at gathering feedback from the organising body of the project, and or relay feedback from the Maintainer level to the Constitutional level of the project (see: [Liberating Structures](https://www.liberatingstructures.com/)). 
+Currently, this call is hosted in English. This call will be recorded for use by participants, and will use Zoom's automatic captioning. This call may also involve live discussion, screen-sharing, and other interactive activities that may be internet bandwidth-intensive. Slides will be shared after the call. A shared document will be used for collaborative note-taking, capturing feedback and learning.
 
 In principle, these organising and governance meetings are still open for all to attend from the community as observers.
 
@@ -43,7 +43,7 @@ This is particularly the case during Book Dash, where community members work on 
 
 In the Collaboration Cafes, there is generally time reserved at the end of the call to celebrate and share discussions from the two-hour coworking session.
 
-The Open Governance Calls (initiated in 2024) have celebrated the ongoing work or progress of working groups in a public forum, and sharing their work out to the wider public and community.
+The Community Forum Calls (initiated in 2024) have celebrated the ongoing work or progress of working groups in a public forum, and sharing their work out to the wider public and community.
 
 ## 4. Onboarding and Welcoming calls
 
