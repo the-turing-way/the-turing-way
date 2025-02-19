@@ -34,6 +34,11 @@ project:
           title: Community and Community Roles
         - file: foreword/governance.md
           title: Governance
+          children:
+            - file: foreword/governance/governance-roles
+              title: Governance Roles
+            - file: foreword/governance/ways-of-working
+              title: Ways of Working
         - file: foreword/cite.md
           title: How to Cite
         - file: foreword/faqs.md

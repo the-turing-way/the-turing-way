@@ -5,7 +5,7 @@
 This chapter is under review.
 ```
 
-_In this document, Dr Kirstie Whitaker, founder of _The Turing Way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
+_In this document, Dr Kirstie Whitaker, founder of _The Turing Way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership in open science more broadly._
 
 ```{figure} ../figures/healthy-leadership.png
 ---
