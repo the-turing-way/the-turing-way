@@ -6,9 +6,9 @@ Our members are from diverse backgrounds, different skills and interests, workin
 
 To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. These calls may vary from collaboration and working calls, to organisational meetings, to public share-outs that demonstrate transparency, to a mixture of all of the above. Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom.
 
-On each page of this subchapter, you can learn more about each type of community call, which are roughly organised into four types: community coworking calls, organising and governance calls, onboarding and welcoming calls, and public celebration calls. 
+On each page of this subchapter, you can learn more about each type of community call, which are roughly organised into four types: community coworking calls, organising and governance calls, onboarding and welcoming calls, and public celebration calls.
 
-It is important to note that not all of our community calls fit neatly in one category over another. Some may mix practices and purposes (i.e. for coworking as well as celebrations), while others may have a specific purpose (i.e. for decision-making). All are meant to demonstrate our principles of being an open and transparent community.
+It is important to note that not all of our community calls fit neatly in one category over another. Some may mix practices and purposes (for example coworking as well as celebrations), while others may have a specific purpose (such as decision-making). All are meant to demonstrate our principles of being an open and transparent community.
 
 Because of their scope and size, the {ref}`Book Dash<ch-bookdash>` and {ref}`Fireside Chat series<ch-fireside-chat>` are documented separately. However, those calls overlap with many of the principles and practices shared in this community calls chapter.
 
