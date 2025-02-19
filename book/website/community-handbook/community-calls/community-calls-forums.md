@@ -44,5 +44,5 @@ The current format of the call is as follows, and will likely evolve as the comm
 | February 2024 | [Padlet](https://annuel2.framapad.org/p/TTW-community-call-15Feb) | --
 | April 2024 | [Padlet](https://annuel2.framapad.org/p/TTW-Forum-23April) | --
 | July 2024 | [Padlet](https://annuel2.framapad.org/p/turing-way-forum-July-2024) | --
-| October 2024 | -- | --
+| October 2024 | [Padlet](https://annuel2.framapad.org/p/turing-way-forum-october-2024) | --
 | December 2024 | -- | --
