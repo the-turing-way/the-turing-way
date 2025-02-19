@@ -9,7 +9,7 @@ The following working groups are currently active across the project, with open 
 
 ### Accessibility
 
-**Time**: every second Thursday of the month, at 16:00 London time
+**Time**: every second Monday of the month, at 16:00 London time
 
 These calls are for planning monthly sprints and co-working on access-related chapters and upcoming guide. 
 
