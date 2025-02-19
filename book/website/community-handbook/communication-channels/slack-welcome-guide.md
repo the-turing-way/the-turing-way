@@ -2,7 +2,7 @@
 
 # Welcome to *The Turing Way* Slack!
 
-**Not a member of our Slack workspace? You can join using the following link: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)**
+**Not a member of our Slack workspace? You can join using the [this link](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)**
 
 Slack is one of our core communication channels within the *The Turing Way* community. It is a space where folks ask questions, learn about each other's work, and get involved with *The Turing Way* and other projects. While it is not the *only* communication channel used by the community, it is a popular platform, increasingly used by remote teams around the world.
 
@@ -67,4 +67,4 @@ Is there anything we are missing? Please reach out to the Research Community Man
 
 * Join us at an upcoming Onboarding Call - hosted every 2 months!
 * Feel free to send me (Anne Lee Steele) a message on Slack or email at asteele@turing.ac.uk if you have any questions or don’t know where to start. I’m the Community Manager (but just one of many leaders in this community), and here to help! 
-* Join us at a [Collaboration Cafe](https://hackmd.io/@turingway/collaboration-cafe), which happen on a bi-monthly basis on Wednesdays to meet more members of the community, and learn more about the project.
+* Join us at a [Collaboration Cafe](https://hackmd.io/\@turingway/collaboration-cafe), which happen on a bi-monthly basis on Wednesdays to meet more members of the community, and learn more about the project.

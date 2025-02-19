@@ -34,7 +34,7 @@ jobs:
           args: "--infile ./CITATION.cff --format zenodo --outfile ./.zenodo.json"
 
       - name: Commit changes and create a Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           add-paths: .zenodo.json, CITATION.cff
           commit-message: "🤖 Update citation.cff and .zenodo.json"

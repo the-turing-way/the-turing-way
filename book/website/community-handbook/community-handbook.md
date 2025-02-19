@@ -49,7 +49,7 @@ Here are a few suggestions for a good first contributions:
 
 - Fix a typo in [the book](https://book.the-turing-way.org) and/or [repository](https://github.com/the-turing-way/the-turing-way).
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/the-turing-way/the-turing-way/issues).
-- Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
+- Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 
 ## The Turing Way Contact Points

@@ -40,7 +40,8 @@ An open source project created a quite complete one at https://github.com/tonic-
 ```{figure}  ../../figures/file-management-manual.jpg
 ---
 name: Folder structure for research data
-alt: A protagonist has a file written "readme" on it and bring it to another protagonist who stays in front of a file drawer system. There are  three drawers labelled "data", "code", and "results".
+
+alt: A protagonist has a file with "readme" written on it and brings it to another person standing in front of a filing cabinet. The cabinet has three drawers labelled "data", "code", and "results".
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -70,6 +71,7 @@ Structure your file names and set up a template for this.
 For example, it may be advantageous to start naming your files with the date each file was generated (such as `YYYYMMDD`).
 This will sort your files chronologically and create a unique identifier for each file.
 The utility of this process is apparent when you generate multiple files on the same day that may need to be versioned to avoid overwriting.
+File names should be friendly to both machines and humans.
 
 Some other tips for file naming include:
 - Use the date or date range of the experiment: `YYYYMMDD`
@@ -77,7 +79,9 @@ Some other tips for file naming include:
 - Use the researcher's name/initials
 - Use the version number of file (v001, v002) or language used in the document (ENG)
 - Do not make file names too long (this can complicate file transfers)
-- Avoid special characters (?\!@\*%{[<>) and spaces
+- Avoid special characters `()?\!@\*%{[<>` and spaces
+- Hyphens `-` and underscores `_` can be used to separate related and unrelated chunks, respectively
+- Keep in mind that some operating systems are case-sensitive, some are not
 - Avoid personal data in file names
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
@@ -86,6 +90,7 @@ For further guidance on file naming:
 - [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
 - [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
 - [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
+- [Project structure slides by Danielle Navarro](https://djnavarro.net/slides-project-structure/#9)
 
 (rr-rdm-storage-renaming)=
 ### File renaming tools

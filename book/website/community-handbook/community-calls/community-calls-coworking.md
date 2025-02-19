@@ -15,7 +15,7 @@ These calls also provide opportunities to clarify doubts about the project, get 
 ## Attending an online coworking call
 
 The schedule for these coworking calls is updated weekly in the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We announce these in our [monthly newsletters](https://buttondown.email/turingway/) and send a reminder every Monday on the [Slack channel](https://tinyurl.com/jointuringwayslack).
+We announce these in our [monthly newsletters](https://buttondown.email/turingway/) and send a reminder every Monday on the [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 Though scheduled for 1 hour, you are welcome to join for shorter periods as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
 If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you.
@@ -24,7 +24,7 @@ If you are interested in coworking with one of the team members on a day that is
 
 The resource requirement for these calls is also very similar to the Collaboration Cafe.
 
-1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call) –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call](https://annuel2.framapad.org/p/ttw-coworking-call)
+1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/\@turingway/coworking-call](https://hackmd.io/\@turingway/coworking-call) –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call](https://annuel2.framapad.org/p/ttw-coworking-call)
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
 3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
 
@@ -33,7 +33,7 @@ We also don't create {ref}`breakout rooms<ch-community-calls-collabcafe-breakout
 
 ### Format of the call
 
-We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated every week.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared HackMD](https://hackmd.io/\@malvikasharan/TW-coworking) for each week.
 
 We'll run the following schedule during each call:
 
@@ -53,7 +53,7 @@ However, since these calls are attended by fewer participants, it provides more 
 
 Please update the document each month using the following steps:
 
-- [Update the HackMD](https://hackmd.io/@turingway/coworking-call) – now [Etherpad](https://annuel2.framapad.org/p/ttw-coworking-call) – each month by adding dates for the weekly calls
+- [Update the Etherpad](https://annuel2.framapad.org/p/ttw-coworking-call) each month by adding dates for the weekly calls
 - Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
 - Share the notes on Slack and X (formerly Twitter) announcing the dates
 - Use the notes during the call to share information as you chair the call

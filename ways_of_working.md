@@ -18,6 +18,7 @@ It further outlines expectations and responsibilities for all of them with regar
 | Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | TPS Senior Researcher - Open Research & Lead of Research Community Management Team; The Alan Turing Institute | Co-Lead  - Constitution Level | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
 | Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Programme Manager; The Alan Turing Institute | Project Manager and various maintenance level roles | 2021 - Present | Previously: Project Manager, The Alan Turing Institute |
+| Léllé Demertzi <br>([@LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present |  |
 
 ## Community Leaders - Maintenance Level Roles
 
@@ -76,7 +77,7 @@ All members commit to
 
 ## Communication
 
-You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
+You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 You can reach the lead investigators of the project through their preferred way of communication:
 You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJane) on a Github issue or pull request, or tag in Slack.

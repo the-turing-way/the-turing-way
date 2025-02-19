@@ -8,7 +8,14 @@ In this chapter, we will share some less obvious aspects of working reproducibly
 ```{figure} ../../figures/reasons-reproducibility.*
 ---
 name: reasons-reproducibility
-alt: Why we should care about working reproducibly.
+alt: > 
+  Six different reasons for why we should care about working reproducibly shown as a large grey rectangular box with six different images. 
+  Tracking Project history illustrated with a clock. 
+  Collaborate and review illustrated with two intersecting magnifying glasses over a ladybug. 
+  Avoid misinformation illustrated as a document of notes with a large tick on it. 
+  Write paper efficiently illustrated as a notes document with three different versions on the left side merging into the main document. 
+  Get credit fairly illustrated by an award rosette. 
+  And finally ensure continuity illustrated by a triangle with arrows showing continued working going around and around.
 ---
 An illustration of reasons why we should care about working reproducibly.
 ```

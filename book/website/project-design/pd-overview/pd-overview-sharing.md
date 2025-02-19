@@ -17,7 +17,7 @@ You can learn more about this in a chapter on {ref}`making data FAIR<rr-rdm-fair
 (pd-overview-sharing-archive)=
 ## Share your data
 
-When legally possilbe, your data should be archived in an open place, where people can access them.
+When legally possible, your data should be archived in an open place, where people can access them.
 If you have sensitive data, you will not be able to share the raw data, but there may be some data you can share.
 A repository is a good place to store your data.
 
@@ -51,7 +51,7 @@ You can read about DOIs in the chapter on {ref}`Making Research Components Citab
 
 ## Share Research Hardware
 
-In absence of better solution, you may deal with your hardware documentation with the smae strategy as with your software: using version control  repositories during its development, and zenodo integration for archiving.
+In absence of better solution, you may deal with your hardware documentation with the same strategy as with your software: using version control  repositories during its development, and zenodo integration for archiving.
 If your documentation is in the form of a website, try to provide a independent html build that can run without a server.
 
 ## Share reagents

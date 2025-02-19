@@ -80,13 +80,13 @@ Please propose your suggestion below or reach out to *The Turing Way* team membe
 ### Useful links
 
 * *Couldn’t join this event but want to get involved? Check out other ways of connecting with us: *[http://bit.ly/turingway](*http://bit.ly/turingway*)
-* Shared notes for collaboration cafes: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe)
-* Weekly coworking calls: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
+* Shared notes for collaboration cafes: [https://hackmd.io/\@turingway/collaboration-cafe](https://hackmd.io/\@turingway/collaboration-cafe)
+* Weekly coworking calls: [https://hackmd.io/\@turingway/coworking-call](https://hackmd.io/\@turingway/coworking-call)
 * The Turing Way GitHub repository: [https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 * All about online Collaboration Cafes
 * Turing Way calendar: [https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ)
 * Contribution guidelines: [https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
-* Join us on Slack: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
+* Join us on Slack: [https://tinyurl.com/jointuringwayslack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
 * Join the mailing list: [https://buttondown.email/turingway/](https://buttondown.email/turingway/)
 
 ## Feedback

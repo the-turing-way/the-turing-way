@@ -44,7 +44,7 @@ Project Binder provides a user with the following infrastructure:
 
 - some hardware to execute code, usually a server hosted in the cloud but can be on-premise hardware too;
 - a computational environment containing:
-  - the approriate software,
+  - the appropriate software,
   - any extra package dependencies,
   - any required input data,
   - and a copy of the code itself (Notebooks or scripts);
@@ -155,4 +155,4 @@ Remember, mybinder.org is an entirely public service and under no circumstances 
 (binder-segue)=
 ## How to create a Binder-ready project
 
-The next chapter contains a [Zero-to-Binder tutorial](z2b) that will guide you through creating your first Binder-ready project on GitHub.
+The next chapter contains a [Zero-to-Binder tutorial](#z2b) that will guide you through creating your first Binder-ready project on GitHub.

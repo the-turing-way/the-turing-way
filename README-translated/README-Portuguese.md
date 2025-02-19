@@ -1,7 +1,7 @@
 # The Turing Way
 
 [![Leia o livro](https://img.shields.io/badge/leia-o%20livro-blue.svg)](https://book.the-turing-way.org)
-[![Junte-se à nossa lista de e-mails](https://img.shields.io/badge/receba-%20nossos%20emails%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
+[![Junte-se à nossa lista de e-mails](https://img.shields.io/badge/receba-%20nossos%20emails%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)
 [![Junte-se ao https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 [![](https://img.shields.io/static/v1?label=TuringWay&message=Eu%20quero%20contribuir!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
@@ -90,7 +90,7 @@ Temos uma sala de bate-papo no gitter e adoraríamos que você passasse lá para
 Essa sala também é sincronizada com o [Matrix](https://matrix.org) em [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) e você também pode se juntar a nós por lá se preferir.
 
 Também temos uma pequena lista de emails para a qual enviamos atualizações mensais do projeto.  
-Inscreva-se acessando <https://tinyletter.com/TuringWay>.
+Inscreva-se acessando <https://buttondown.com/turingway>.
 
 Você pode entrar em contato com o gerente da nossa comunidade **Malvika Sharan** por e-mail acessando [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).  
 Alternativamente, você pode entrar em contato com o investigador principal **Kirstie Whitaker** também por e-mail acessando [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).

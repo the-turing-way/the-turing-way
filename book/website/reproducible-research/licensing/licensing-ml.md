@@ -3,7 +3,7 @@
 
 ## Legal Status of AI/ML model weights
 
-It is an open question wether {term}`AI<Artificial Intelligence (AI)>`/{term}`ML<Machine Learning (ML)>` models weights are even copyrightable.
+It is an open question whether {term}`AI<Artificial Intelligence (AI)>`/{term}`ML<Machine Learning (ML)>` models weights are even copyrightable.
 US copyright law specifically excludes the following from works eligible for copyright protection: "any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
 In addition the US Copyright Office has stated that this exclusion extends to "scientific or technical methods or discoveries;" "mathematical principles;" and "formulas or algorithms."
 

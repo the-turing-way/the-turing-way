@@ -9,7 +9,7 @@ The access permission can be set so that the notes can be read by everyone and e
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
+==If you are new to HackMD, please see this short guide: [https://hackmd.io/\@turingway/hackmd-guide](https://hackmd.io/\@turingway/hackmd-guide)==
 
 :::info
 - **Location:** Online/in-person
@@ -71,8 +71,8 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 * Project repository on GitHub: https://github.com/the-turing-way/the-turing-way
 * Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: An email will be sent to you
-* Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
-* Follow on X: [@turingway](https://twitter.com/turingway)
+* Join the [mailing list to receive newsletter](https://buttondown.com/turingway)
+* Follow on X: [\@turingway](https://twitter.com/turingway)
 
 ### :busts_in_silhouette::speech_balloon: Planning your contributions: breakout (10 minutes)
 

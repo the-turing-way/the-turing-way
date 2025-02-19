@@ -13,13 +13,13 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 _The Turing Way_ Collaboration Cafes (or 'Cafés' with an accent) are virtual co-working spaces that are held fortnightly on the first and third Wednesdays of each month for 2 hours.
 The schedule will be updated periodically on our [Community Calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) as per the community requirement.
 
-We host these calls online using [Zoom](https://www.zoom.us/) where we make use of the [breakout rooms](#breakout-rooms) feature to allow small groups to use the 2 hours as best fits them.
+We host these calls online using [Zoom](https://www.zoom.us/) where we make use of the [breakout rooms](#ch-coworking-collabcafe-breakout) feature to allow small groups to use the 2 hours as best fits them.
 One or two members from the core team are always available on the call to support anyone wanting to learn more about collaborating on GitHub, getting a virtual tour of our GitHub repository or the book, and help you to make your first pull request (PR).
 
 ## Attending an online Collaboration Cafe
 
 The schedule for the collaboration cafe can be viewed from the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We also announce calls in our [monthly newsletters](https://buttondown.email/turingway/), send a reminder on the [Slack channel](https://tinyurl.com/jointuringwayslack) and on [X (formerly Twitter)](https://twitter.com/turingway) and [Mastodon](https://fosstodon.org/@turingway). 
+We also announce calls in our [monthly newsletters](https://buttondown.email/turingway/), send a reminder on the [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) and on [X (formerly Twitter)](https://twitter.com/turingway) and [Mastodon](https://fosstodon.org/\@turingway). 
 Our [LinkedIn account](https://www.linkedin.com/company/the-turing-way/) can also be used to announce calls.
 
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
@@ -140,7 +140,7 @@ The welcome, introductions, breaks, and the open discussion will all happen in t
 
 #### Pomodoro sessions
 
-Pomodoro sessions can happen either in the main Zoom room in silence or in [breakout rooms](#breakout-rooms).
+Pomodoro sessions can happen either in the main Zoom room in silence or in [breakout rooms](#ch-coworking-collabcafe-breakout).
 We won't record the Pomodoro parts of the Collaboration Cafe, nor conversations in the breakout rooms.
 You don't need to know in advance what you're going to do in those Pomodoro sessions!
 There will always be someone who can help you develop a goal, or allocate a task that you can do in a couple of rounds of 20 minutes.
@@ -227,7 +227,7 @@ You'll see a breakout section in the shared notes:
 > *If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it.*
 > *If you like one of the topics that are already suggested, please add your name next to that one.*
 > *Teamwork makes the dream work.*
-> *For more information about breakout rooms see [the description on The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms).*
+> *For more information about breakout rooms see [the description on The Turing Way](#ch-coworking-collabcafe-breakout).*
 
 For each session, you can propose a conversation to have in a breakout room or add your name to join a suggestion that is already on the list.
 

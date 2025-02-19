@@ -16,7 +16,7 @@ This chapter discusses some of the key points to take into consideration when de
 
 *Ethical behaviour in governance is defined as the way in which stakeholders try to manage collective action from the perspective, and in the interest, of the majority, thus avoiding damaging behaviours, and through a better control of the power and responsibilities of the leaders. In the area of governance, therefore, ethics aims at raising awareness of the others' rights and common needs, by imposing some principles of minimum requirement.*
 
-Source: Dessain, V., Meier, O., & Salas, V. (2011). {cite}`Corporate Governance and Ethics<Dessain2011governance>`.
+Source: Dessain, V., Meier, O., & Salas, V. (2011). {cite:t}`Corporate Governance and Ethics<Dessain2011governance>`.
 ```
 
 (er-ethics-open-source-governance-motivation)=
@@ -53,7 +53,7 @@ True co-creation is an active process of inclusion, and there are many levels of
 name: ladder-of-participation
 alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research - manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
 ---
-Arnstein's Ladder of Citizen Participation, illustration credit - [@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
+Arnstein's Ladder of Citizen Participation, illustration credit - [\@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
 ```
 
 No open source project is an island.
@@ -78,7 +78,7 @@ In short: `if (ethical == true) { // Do stuff } else { // FIXME }`
 (er-ethics-open-source-governance-action)=
 ## Ethics Need Governance to become Actionable
 Open source project communities may already have an implicit set of ethics regarding their project in place. 
-However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay {cite}`The Tyranny of Structurelessness<Freeman2012Stuctureless>`, impotent.
+However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay {cite:t}`The Tyranny of Structurelessness<Freeman2012Stuctureless>`, impotent.
 
 To empower your project to act on your ethics, it will need some governance model to adhere to. 
 There already exist a number of more-or-less established governance models and you can take a look at the resources section of this chapter for links to more information on them. 
@@ -102,7 +102,7 @@ Benevolent dictatorships for life limit the sustainability of open source projec
 
 Relying on technology to be your governance is equally risky.
 Technology can be an incredible tool, but so long as it’s the only tool you have put in place for making governance decisions, it’s likely to be a potential problem.
-This is why it is important to start the process of governance selections with self-reflection, so that you are aware of all the requiremeents in the projects and prepared to implement ethical measures for them.
+This is why it is important to start the process of governance selections with self-reflection, so that you are aware of all the requirements in the projects and prepared to implement ethical measures for them.
 
 (er-ethics-open-source-governance-conclusion)=
 ## Conclusion
@@ -110,7 +110,7 @@ This is why it is important to start the process of governance selections with s
 By its nature, open source technology can deliver benefits to all societies. 
 However, projects started with all the best of intentions can still evolve into something malicious through poor guidance and oversight. 
 Such considerations should therefore be noted and addressed through the application of a formal governing structure throughout any such projects, especially in sensitive areas where conflicts are likely to arise. 
-While the use of a governance structure doesn’t negate the possibility of bad things from happening, it does however provide a framework which allows us to put such actions into context.
+While the use of a governance structure doesn't negate the possibility of bad things from happening, it does however provide a framework which allows us to put such actions into context.
 In this chapter, we have provided some ethical pointers for open source project communities to consider when constructing their governance models, to support the continual evolution of open source towards a more just and equitable ecosystem for all contributors and users. 
 
 (er-ethics-open-source-governance-resources)=

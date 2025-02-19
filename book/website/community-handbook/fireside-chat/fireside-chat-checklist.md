@@ -16,12 +16,12 @@
 - Schedule the first check-in 4-5 weeks in advance to surface some common themes, helping plan the title and questions
 - Decide on a common date and send a placeholder calendar invitation blocking their calendar for the event (15 mins pre-event tech-check/Green room, 60 minutes live and 15-30 minutes unrecorded discussion with the audience)
 - Create an Eventbrite page in *The Turing Way* account - refer to [this page for an example](https://www.eventbrite.co.uk/e/navigating-growth-and-scale-to-sustain-open-communities-tickets-360328802147) (you can copy and edit)
-- Set up the Etherpad using the template provided here: https://hackmd.io/@turingway/fireside-chats (browse [this example](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022))
+- Set up the Etherpad using the template provided here: https://hackmd.io/\@turingway/fireside-chats (browse [this example](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022))
 - Create a paragraph to add to the Eventbrite page along with the speakers' and hosts' bios
 - Create a flyer to share on social media using [this template](https://docs.google.com/presentation/d/1Fx2WcVvGX6dM3z74VDQp_UD8edKp6Phl/edit?usp=sharing&ouid=102682705838770934280&rtpof=true&sd=true)
 - Coordinate on Slack with the speakers to check if they are happy with the announcements and if their info is correct
 - Announce at least 3-4 weeks in advance on Slack, Newsletter, X (formerly Twitter) and in different talks
-- Add information to the Intro HackMD: https://hackmd.io/@turingway/demo-intro
+- Add information to the Intro HackMD: https://hackmd.io/\@turingway/demo-intro
 - Hosts will define an agenda and questions for the session - hosts will also allocate some questions for each other to speak on
 - Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin 
 - Plan with your cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)

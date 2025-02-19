@@ -30,6 +30,6 @@ In this chapter we will cover:
 
 (pd-sdp-motivation)=
 ## Motivation
-Researchers who are part of sensitive data projects may think that the nature of their data prohibits them from working in an open and reproducible manner. We want to show that - while it may require a bit of extra thinking and management - working openly with sensitive data, is possible, and should be encouraged.
+Researchers who are part of sensitive data projects may think that the nature of their data prohibits them from working in an open and reproducible manner. We want to show that, while it may require a bit of extra thinking and management, working openly with sensitive data is possible and should be encouraged.
 
 
