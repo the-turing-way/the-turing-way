@@ -65,7 +65,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
   - For structured discussion and sustained engagement with the community members.
   - We will also provide notifications on upcoming events and share useful resources on Slack.
-- Contact the Community Manager and other members of _The Turing Way_ project delivery team by emailing [tuirngway@turing.ac.uk](mailto:turingway@turing.ac.uk).
+- Contact the Research Community Manager and other members of _The Turing Way_ project delivery team by emailing [tuirngway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 ### Receiving Updates
 
