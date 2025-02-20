@@ -1,4 +1,5 @@
 (pd-overview)=
+
 # Overview of Project Design
 
 ## Summary
@@ -27,7 +28,7 @@ However, often we think about these concepts retrospectively, when the project i
 
 This lack of planning contributes to the fact that most research work can not be directly and independently reproduced, and that communication and collaboration style across different groups differ and hence are challenging.
 
-To help learn good practices, *The Turing Way* provides various chapters for {ref}`reproducibility<rr>`, {ref}`communication<cm>` and {ref}`collaboration<cl>` that we consider essential for research reproducibility.
+To help learn good practices, _The Turing Way_ provides various chapters for {ref}`reproducibility<rr>`, {ref}`communication<cm>` and {ref}`collaboration<cl>` that we consider essential for research reproducibility.
 Although publications{cite:ps}`Turkyilmaz-vanderVelden2020projectdesign` and _The Turing Way_ chapters on specific methods, tools and practices exist it can be overwhelming to know which chapters to read if you don't already know about the concepts.
 
 In this chapter, we have curated essential practices and recommendations and linked them to individual chapters across different guides.
@@ -40,10 +41,12 @@ We invite you to contribute to this chapter by adding important tools or practic
 In the different subchapters we discuss how you can {ref}`start planning<pd-overview-planning>` for project design, the {ref}` communication and collaboration<pd-overview-repro>` aspect for ensuring reproducibility, {ref}`tools and methods<pd-overview-methods>` for reproducibility, {ref}`version control and documentation<pd-overview-version>` aspects and {ref}`sharing your research<pd-overview-sharing>`.
 
 (pd-overview-mistakes)=
+
 ## Learning from Mistakes
 
 > “Building takes many, many mistakes.”
-> ― Becky Chambers, [The Long Way to a Small, Angry Planet](https://www.goodreads.com/work/quotes/42270825)
+>
+> -- Becky Chambers, [The Long Way to a Small, Angry Planet](https://www.goodreads.com/work/quotes/42270825)
 
 Learning about past design mistakes can give us insight into what we can do differently in the future.
 We asked a group of researchers to share what they consider their project design regrets, which we have summarised here:
@@ -60,13 +63,12 @@ We asked a group of researchers to share what they consider their project design
 - Using a very messy excel to store/process data, the shame!
 - Over-engineering a design for features that didn’t end up being implemented (in life before academia!)
 - Not implementing Git flow from the start, and not teaching collaborators how to use Git flow.
-- Not developing tests until after a significant amount of code was written.  
+- Not developing tests until after a significant amount of code was written.
 - Not doing code reviews.
-- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
-- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).    
+- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.
+- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).
 - Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
 
-_This section summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
-
+_This section summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21) hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
