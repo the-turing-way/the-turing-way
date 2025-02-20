@@ -37,7 +37,7 @@ Members participating in different Working Groups and projects carried out in _T
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Executive Director, BIDS | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash WG member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
 | Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Various maintainer level roles |
