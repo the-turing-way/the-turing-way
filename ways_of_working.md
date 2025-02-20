@@ -2,7 +2,7 @@
 
 The "Ways of Working" document provides an overview of how members of *The Turing Way* community collaborate across the [three levels of governance](https://book.the-turing-way.org/foreword/governance).
 
-For information about the members involved in the governance, including the project delivery team, please refer to the documentation on [governance roles](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
+For information about the members involved in the governance, including the Project Delivery Team, please refer to the documentation on [governance roles](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
 
 This document offers high-level information on communication, community structures, and project management processes.
 For details, please refer to the Foreword, Afterword, and Community Handbook within *The Turing Way* book: [book.the-turing-way.org/](https://book.the-turing-way.org/).
@@ -14,7 +14,7 @@ For details, please refer to the [Communication Platforms](https://book.the-turi
 
 You can reach out to all members listed in our [governance document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md) by tagging them on GitHub issues or Pull Requests, or directly on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
-You can reach the _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
+You can reach the _The Turing Way_ Project Delivery Team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 Please join the fortnightly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them.
 
@@ -45,36 +45,36 @@ Talks, presentations and recordings from different events are posted on our [You
 
 Hosted all throughout the year, our recurring community calls are important and engaging spaces where you can participate in _The Turing Way_!
 
-Some require signing-up (📝) and some don't (✅).
+Some require signing up (📝) and some don't (✅).
 All members are welcome to join these calls! ✨
 
-- ✅ **Collaboration Café**: These are online coworking space for everyone, hosted fortnightly from 15:00 to 17:00 UK time. Here you can meet others from the community, do some focused co-writing, or catch up with the Working Groups ([Collaboration Café Chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe)).
+- ✅ **Collaboration Café**: These are online coworking spaces for everyone, hosted fortnightly from 15:00 to 17:00 UK time. Here you can meet others from the community, do some focused co-writing, or catch up with the Working Groups ([Collaboration Café Chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe)).
 - 📝 **Community forums**: These calls are hosted every two months by the project delivery team to share governance-related updates with the community.
 - 📝 **Onboarding calls**: These calls are hosted every two months by the community management WG to onboard new members of the community in the project ([Onboarding and Offboarding Chapter](https://book.the-turing-way.org/community-handbook/onboarding-offboarding)).
-- 📝 **Fireside Chats**: _The Turing Way_ members collaborates with different communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research/data science communities ([Fireside Chat Chapter](https://book.the-turing-way.org/community-handbook/fireside-chat)).
+- 📝 **Fireside Chats**: _The Turing Way_ members collaborate with different communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research/data science communities ([Fireside Chat Chapter](https://book.the-turing-way.org/community-handbook/fireside-chat)).
 
 ### Working Groups and Meetings
 
-- ✅ **Translation and Localisation Meetings**: Every second Wednesday at 14:30 UK time, members of the Translation and Localisation Working Groups share this coworking space to carry out translatio work across several languages, and support each other ([Translation Chapter](https://book.the-turing-way.org/community-handbook/translation)).
+- ✅ **Translation and Localisation Meetings**: Every second Wednesday at 14:30 UK time, members of the Translation and Localisation Working Groups share this coworking space to carry out translation work across several languages, and support each other ([Translation Chapter](https://book.the-turing-way.org/community-handbook/translation)).
 - ✅ **Infrastructure Monthly Meetings**: Every second Tuesday of the month, at 16:00 UK time, members of the Infrastructure Working Groups work together on infrastructure-related maintenance and development efforts ([Infrastructure Chapter](https://book.the-turing-way.org/community-handbook/infrastructure)).
 - ✅ **Accessibility Monthly Meeting**s: Every second Monday of the month, at 17:00 UK time, members of the Accessibility Working Group work together on access-related chapters and guidance for the community ([Accessibility Chapter](https://book.the-turing-way.org/community-handbook/accessibility)).
 
 ### Group-Specific Events and Meetings 
 
-- **Book Dash**: These bi-yearly online or hybrid events are hosted by the Book Dash Working Group. These are less intense version on Book Sprint, inviting members through an application-based selection process to work on specific areas of the book and/or community initiatives ([Book Dash Chapter](https://book.the-turing-way.org/community-handbook/bookdash)).
+- **Book Dash**: These bi-yearly online or hybrid events are hosted by the Book Dash Working Group. These are less intense versions of Book Sprint, inviting members through an application-based selection process to work on specific areas of the book and/or community initiatives ([Book Dash Chapter](https://book.the-turing-way.org/community-handbook/bookdash)).
 - **Coworking Calls**: Every Monday, from 11:00 to 12:00 UK time, the project delivery team and members from across different Working Groups use these coworking calls to catch up on their task lists ([Coworking Call Chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-weekly)).
-- **Steering Committee Meetings**: These meetings will be organised on monthly basis for the members working together at Constitutional Level. Dates and time will be decided with the members of the Steering Committee.
+- **Steering Committee Meetings**: These meetings will be organised on a monthly basis for the members working together at the Constitutional Level. Dates and times will be decided with the members of the Steering Committee.
 
 ## Commitments
 
 All members, especially at the maintenance and constitution levels, commit to:
 - making the implicit explicit by documenting their work
 - abiding by the Code of Conduct in all community platforms and spaces where they represent _The Turing Way_
-- following the contribution guideline and keeping it up to date
+- following the contribution guidelines and keeping them up to date
 - recording any new updates, exceptions or useful knowledge in project management and core documents needed to facilitate collaboration
-- dedicating their time and expertise in fixing open issues either directly via GitHub or providing mentorship and support to community members and project contributors
+- dedicating their time and expertise to fixing open issues either directly via GitHub or providing mentorship and support to community members and project contributors
 - feedback on issues in open source software used throughout _The Turing Way_ by opening an issue _The Turing Way_ GitHub repo or other open source projects where this issue can be fixed
-- documenting and sharing any conversation from closed spaces (such as email, Slack or 1:1 meeting) in a GitHub issue that could be useful for the community or community members in enabling their work in _The Turing Way_.
+- Document and share any conversation from closed spaces (such as email, Slack, or 1:1 meeting) in a GitHub issue that could be useful for the community or community members in enabling their work in _The Turing Way_.
 
 ## GitHub management
 
@@ -84,7 +84,7 @@ As most members do not work full time on _The Turing Way_, it might take some ti
 ### Issues & Pull Requests
 
 All members, especially at the maintenance and constitution levels, will:
-- monitor open issues and Pull Requests on the project's GitHub repository to identify if feedback, comment or connections can help address any concern or build on any suggested ideas/features.
+- monitor open issues and Pull Requests on the project's GitHub repository to identify if feedback, comments or connections can help address any concern or build on any suggested ideas/features.
 - whenever possible, post about the issues and Pull Requests in public forums (newsletter, Slack, Twitter) to facilitate participation from new members in the community.
 - review or assign a reviewer to open Pull Requests for review. This should be taken as an opportunity to connect contributors with specific interests, availability or technical skills that could be useful for the ongoing work.
 - connect issues and Pull Requests where possible (for example, by mentioning 'Fixes #[issue number]' in the Pull Request description). By adding "closes #issue" or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
