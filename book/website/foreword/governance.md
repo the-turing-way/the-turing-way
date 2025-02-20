@@ -7,7 +7,7 @@ This chapter is under review.
 
 Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
 
-The governance body of _The Turing Way_ is represented by the members of project delivery team, Working Groups and volunteer members from the community involved in defining and leading different initiatives (both funded and informally organised) within _The Turing Way_.
+The governance body of _The Turing Way_ is represented by the members of the Project Delivery Team, Working Groups and volunteer members from the community involved in defining and leading different initiatives (both funded and informally organised) within _The Turing Way_.
 
 Like the book itself, the governance of _The Turing Way_ is always a work in progress!
 We are very keen to discuss and improve our governance approaches with the involvement of our community members.
@@ -84,13 +84,13 @@ You can find details about these members in {ref}`fw-governance-roles`.
 Decision-making at the maintenance level must stay with the community and stewards of the community participating at this level.
 They are also responsible for making process of participation at the community level transparent for other community members.
 
-Members participating in the constitution level roles also participate at this level, and escalate any decision that affects the broader project and the community functioning, for the constitution level decision-making.
+Members participating in the constitution-level roles also participate at this level and escalate any decision that affects the broader project and the community functioning, for the constitution-level decision-making.
 
-#### Project Delivery Teams
+#### Project Delivery Team
 
-_The Turing Way_ {ref}`Project Delivery Team Members<fw-governance-roles>` are members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
+_The Turing Way_ {ref}`Project Delivery Team<fw-governance-roles>` are joined by members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
 
-The project delivery team provide support to the members across all levels of governance and ensure that decision-making process is kept transparent and where possible, involves the rest of the community.
+The Project Delivery Team provide support to the members across all levels of governance and ensures that the decision-making process is kept transparent and where possible, involves the rest of the community.
 
 #### _The Turing Way_ Working Groups
 
@@ -103,7 +103,7 @@ At the time of writing this chapter, the following WGs have been established and
 - Book Dash WG
 
 ```{seealso}
-From the onset, different kinds of work in *The Turing Way* project have been led and executed by different groups of people.
+From the onset, different kinds of work in _The Turing Way_ project have been led and executed by different groups of people.
 For example, since 2020, localisation and translation work has been carried out by a group of international community members, who although initially worked in an ad-hoc manner, later were named and recognised as the 'Translation and Localisation Team'.
 Similarly, in 2021, after moving Book Dash as an online event, a 'Book Dash Planning Committee' was convened yearly joined by a few previous attendees of Book Dashes who supported the planning and delivery of the event.
 Nonetheless, the formation of WGs had largely remained informal: after existing streams of work had been identified, community members engaged with the work were formally recognised and encouraged to develop ways of working that aligned with their needs.
@@ -124,7 +124,7 @@ Decisions at the maintainer level may include the following:
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
 * Proposing funding ideas/proposals or responding to a call for applications to support their work in _The Turing Way_.
 * Suggesting changes in ongoing processes or current working models through discussions.
-* Organising a {ref}`ch-fireside-chat` in conversation with the project delivery team.
+* Organising a {ref}`ch-fireside-chat` in conversation with the Project Delivery Team.
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
@@ -133,10 +133,10 @@ Decisions at the maintainer level may include the following:
 Governance at this level encompasses strategic decisions and significant project changes, including project goals, governance processes, funding, recruitment and shared leadership.
 
 Until November 2024, constitutional-level decision-making rested with the project leads, Kirstie Whitaker and Malvika Sharan.
-Since December 2024, the project delivery team, led by Malvika, has been supporting the formalisation of constitutional-level governance by establishing a Steering Committee.
+Since December 2024, the Project Delivery Team, led by Malvika, has been supporting the formalisation of constitutional-level governance by establishing a Steering Committee.
 
 Steering Committee members provide advice and ensure accountability for community- and maintenance-level efforts.
-Decisions at constitutional level may include the following, but not limited to:
+Decisions at the constitutional level may include the following, but are not limited to:
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, recruiting staff and allocating budget.
 - Building clarity around resources available for the maintainers and community members.
@@ -151,25 +151,34 @@ Find the roadmap for _The Turing Way_ constitution-level Steering Committee in [
 
 #### Membership in the Steering Committee
 
-This committee is comprised of the 1) chairs of Working Groups, and 2) leads of delivery teams of projects in _The Turing Way_, both with defined goals and deliverables.
-Working Group chairs or delivery team leads may also appoint another member from their group or team to represent their work within the committee.
+This committee is comprised of the 1) chairs of Working Groups, and 2) leads of Delivery Groups of projects in _The Turing Way_, both with defined goals and deliverables.
+
+Working Group chairs or Delivery Group leads may also appoint another member from their group or team to represent their work within the committee.
 The aim is to ensure consistent representation in the Steering Committee by a stable group of individuals who can provide continuity in knowledge and leadership, contributing effectively to the committee’s shared objectives.
 
-As part of maintenance level WGs or delivery teams, committee members are responsible for escalating project- and community-wide decisions to the constitutional level and participating in the decision-making processes.
+##### _The Turing Way_ Project Delivery Groups
 
-As part of constitution-level Steering Committee, they are responsible for actively engaging community members by transparently sharing discussions and outcomes from the constitutional level.
+_The Turing Way_ collaborates with various projects and initiatives, whose participants form its **Delivery Groups**.
+While these projects may have distinct goals, funding, host organisation, leadership, and timelines, they fall within _The Turing Way_'s scope.
+
+To ensure accountability and alignment with the overall project and community interests, Delivery Group representatives join _The Turing Way_'s Steering Committee.
+
+At the time of writing this chapter, the following Delivery Groups are working in collaboration with _The Turing Way_:
+- _The Turing Way_ Practitioners Hub
+- Software Sustainability Institute Fellows Projects
+- JupyterHub - _The Turing Way_ Project
+- Data Science Without Borders
+
+Find details in the {ref}`fw-governance-roles`.
+
+#### Roles and Responsibilities of the Steering Committee
+
+As part of maintenance-level Working Groups or Delivery Groups, committee members are responsible for escalating project- and community-wide decisions to the constitutional level and participating in the decision-making processes.
+
+As part of the constitution-level Steering Committee, they are responsible for actively engaging community members by transparently sharing discussions and outcomes from the constitutional level.
 They solicit feedback on decisions (such as, via GitHub issues and newsletters) and approve changes that improve project and community functioning.
 
-```{note}
-Since 2019, {ref}`Collaboration Cafés<ch-coworking-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
-These spaces have allowed different groups to form around shared ideas and work of interests, several becoming [Communities of Practice](https://en.wikipedia.org/wiki/Community_of_practice) within _The Turing Way_.
-
-Initially, some community members self-organised themselves into groups to work together, collaborated with the project delivery teams, supported/mentored members from the broader community and represented the project in different contexts.
-In 2022-2023, the project delivery team organised regular meetings with these core contributors to discuss the maintenance-related norms and decisions in _The Turing Way_, while maintaining transparency of their work through open communication via Slack, newsletters, presentations and reports for the broader community.
-These conversations were instrumental in adopting the current governance model, particularly, through the formalisation of different WGs in close collaboration with the research community manager.
-
-These meetings in 2024 transitioned into a series of community calls, called Community Forums, hosted by project leads where governance-related matters can be openly discussed.
-```
+*Documentation on governance including the roles and responsibilities of the Steering Committee will be reviewed and approved by the inaugural Steering Committee in 2025.*
 
 #### Community Forums
 
@@ -181,5 +190,16 @@ Please join Community Forums to stay up to date with the development.
 
 - Recordings from all Community Forums have been published on our [YouTube channel](https://www.youtube.com/watch?v=QFjXbvylGp8&list=PLBxcQEfGu3DkB1cLjSD5nEFvb_JkMPVqf).
 - You can find out about our next Community Forums in the [monthly newsletters](https://buttondown.email/turingway/archive/).
+
+```{note}
+Since 2019, {ref}`Collaboration Cafés<ch-coworking-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
+These spaces have allowed different groups to form around shared ideas and work of interests, several becoming [Communities of Practice](https://en.wikipedia.org/wiki/Community_of_practice) within _The Turing Way_.
+
+Initially, some community members self-organised themselves into groups to work together, collaborated with the Project Delivery Teams, supported/mentored members from the broader community and represented the project in different contexts.
+In 2022-2023, the Project Delivery Team organised regular meetings with these core contributors to discuss the maintenance-related norms and decisions in _The Turing Way_, while maintaining transparency of their work through open communication via Slack, newsletters, presentations and reports for the broader community.
+These conversations were instrumental in adopting the current governance model, particularly, through the formalisation of different WGs in close collaboration with the research community manager.
+
+These meetings in 2024 transitioned into a series of community calls, called Community Forums, hosted by project leads where governance-related matters can be openly discussed.
+```
 
 _Join us in building this community together!_
