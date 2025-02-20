@@ -55,7 +55,7 @@ Members participating in different Working Groups and projects carried out in _T
 
 ## Representation at Constitution Level Steering Committee
 
-The "Constitutional-level" participation in Steering Committee by community leaders allow development, approval and establishment of Working Group and project-related norms that affect the whole of the project, community and their sustainability.
+"Constitutional-level" participation in the Steering Committee by community leaders allow the development, approval and establishment of Working Group and project-related norms that affect the entire project, community and their sustainability.
 
 Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level, which also apply to constitution level.
 Specific governance documentation and processes for this level will be developed with the founding members of the Steering Committee in 2025.
