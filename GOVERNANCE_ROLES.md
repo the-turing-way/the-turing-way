@@ -17,21 +17,21 @@ For overview of how members of *The Turing Way* community collaborate across the
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
 | Léllé Demertzi <br>([@LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present | - |
 
-## Participation and Engagement at Community Level
+## Participation and Engagement at the Community Level
 
 The “Community level" ("Operational-level”) participation influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
 Expectations and responsibilities for all members, including Code of Conduct, Contributing Guidelines and Acknowledgements, have been provided and maintained in [_The Turing Way_ Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook).
 
 All contributors to _The Turing Way_ are listed as [Contributors in the README file](https://github.com/the-turing-way/the-turing-way?tab=readme-ov-file#contributors) and invited to optionally share narrative details in the [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md).
 
-Information from these base files are also published as the [Contributors Record](https://book.the-turing-way.org/afterword/contributors-record) in the afterwards of the book.
+Information from these base files is also published as the [Contributors Record](https://book.the-turing-way.org/afterword/contributors-record) in the afterwards of the book.
 
 Please refer to the Foreword of the book to learn about different kinds of [community roles](https://book.the-turing-way.org/foreword/community).
 
 ## Maintenance Level Roles
 
 The "Maintenance" (“Collective choice") level participation allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier.
-Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level.
+Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at the maintenance level.
 
 Members participating in different Working Groups and projects carried out in _The Turing Way_ are listed below.
 
@@ -40,12 +40,12 @@ Members participating in different Working Groups and projects carried out in _T
 | Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Executive Director, BIDS | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash WG member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
 | Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
-| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
+| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Various maintainer level roles |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash WG member and various community roles | Feb 2020 - Present | Various maintainer level roles |
 | Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation WG member | 2020 - Present | Various maintainer level roles |
 | Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation WG member | 2021 - Present | Various community roles |
 | Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 |
-| Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, The Turing Way Infrastructure Maintainers Co-lead | 2019 - Present | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
+| Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, The Turing Way Infrastructure Maintainers Co-lead | 2019 - Present | Previously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
 | Danny Garside <br>([@da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
 | Jim Madge <br>([@JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 | Brigitta Sipőcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
@@ -68,7 +68,7 @@ Chairs or a designated representative of the following **Working Groups** (WGs) 
 - **Accessibility WG**
 - **Translation and Localisation WG**
 
-Leads or designated representatives of the **Delivery Teams** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
+Leads or designated representatives of the **Delivery Groups** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
 - **_The Turing Way_ Practitioners Hub**, a Turing Way project under the Innovate UK BridgeAI initiative that engages with industries in sharing and adopting best practices for data science and AI.
 - **Software Sustainability Institute Fellows Projects**, that are defined to be conducted in collaboration with _The Turing Way_ project delivery or community members.
@@ -85,9 +85,9 @@ You can request contact information through the project members above, or tag th
 | Melissa Black <br>([melibleq](https://github.com/melibleq)) | Translation and Localisation WG member | Volunteer Member  | 2023 - 2024 |
 | Arya A. <br>([@arya1302](https://book.the-turing-way.org/afterword/contributors-record#arya-a)) | Google Summer of Code (GSoC) 2023 intern on Pathway Package | 50% | Apr 2023 - Sep 2023 |
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Translation and Localisation WG Co-Lead | Volunteer Member | 2020 - 2023 |
-| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist on Pathway Package and trainig materials | 50% | Oct 2021 - Jan 2022 |
+| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist on Pathway Package and training materials | 50% | Oct 2021 - Jan 2022 |
 | May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer on Pathway Package | 40% | Oct 2021 - Jan 2022 |
-| Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer on trainig materials | in-kind | Oct 2021 - Jan 2022 |
+| Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer on training materials | in-kind | Oct 2021 - Jan 2022 |
 | Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer on Pathway Package | 30% | Nov 2021 - Jan 2022 |
 | Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer for Community Handbook | 100% | Sep 2020 - Dec 2020 |
 | Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate, Project Delivery Member | 100% | Apr 2019 - May 2019 |
