@@ -35,7 +35,7 @@ For researchers in low-resource settings, these resources are frequently unavail
 This makes it challenging for researchers to adhere to best practices in data management and open science, both crucial for reproducibility.
 * Many institutions in low-resource settings lack dedicated policies or infrastructure for reproducible research, leaving researchers without guidance or institutional support for conducting transparent and repeatable studies.
 3. **Knowledge and Training Gaps:**
-* Reproducible research requires specialized skills in data management, statistical analysis, and the use of open science tools such as version control software etc. 
+* Reproducible research requires specialized skills in data management, statistical analysis, and the use of open science tools such as version control software. 
 However, researchers in low-resource settings often lack access to relevant training opportunities, hindering their ability to implement reproducibility best practices.
 * Language barriers and a scarcity of locally relevant training materials further complicate reproducibility education and skill development.
 4. **Data Sharing and Access Limitations:**
