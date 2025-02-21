@@ -36,7 +36,7 @@ Once your general goals are defined, you must understand what sort of contributo
 
 ### 1. Contributor Personas:
 
-* **Types of Contributors:** Developers, documenters, designers, community managers, etc.
+* **Types of Contributors:** Developers, technical writers, designers, community managers, project managers, researchers, etc.
 * **Demographics:** Background, skill level, interests.
 
 
