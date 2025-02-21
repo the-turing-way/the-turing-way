@@ -294,7 +294,7 @@ project:
         - file: reproducible-research/compendia.md
           title: Research Compendia
         - file: reproducible-research/low-resource-reproducibility.md
-          title: Enhancing Reproducibility in Low-Resource Settings 
+          title: Enhancing Reproducibility in Low-Resource Settings
         - file: reproducible-research/risk-assess.md
           title: Risk Assessment
           children:
