@@ -1,26 +1,25 @@
 (rr-low-resource-reproducibility)=
-# Enhancing Reproducibility in African and Low-Resource Settings
+# Enhancing Reproducibility in Low-Resource Settings
 
 Scientific research is the foundation for innovations in health, technology, and environmental sustainability, yet its reliability hinges on one critical factor: reproducibility.
 Reproducibility, the ability to obtain consistent results under identical conditions, validates the credibility of scientific findings and ensures that discoveries can be trusted, built upon, and applied effectively in real-world contexts. 
 
-However, the ability to conduct reproducible research is not evenly distributed globally, and researchers in Africa and other low-resource settings face unique challenges that impede their capacity to achieve reproducibility.
-Despite notable scientific contributions from African researchers, their work is often hindered by limited access to essential resources, inadequate infrastructure, and a lack of institutional support for best practices in reproducibility.
+However, the ability to conduct reproducible research is not evenly distributed globally, and researchers in low-resource settings such as in the Global Majority face unique challenges that impede their capacity to achieve reproducibility.
+For example, despite notable scientific contributions from African researchers, their work is often hindered by limited access to essential resources, inadequate infrastructure, and a lack of institutional support for best practices in reproducibility.
 These challenges not only affect individual researchers but also restrict the global visibility and integration of African research outputs.
 As a result, reproducibility in scientific research across Africa remains an urgent yet complex issue that demands targeted, innovative solutions.
 
-This chapter addresses the specific reproducibility barriers encountered in African and other low-resource settings and offers practical strategies to overcome these obstacles. 
+This chapter addresses the specific reproducibility barriers encountered in low-resource settings, particularly in African countries and offers practical strategies to overcome these obstacles. 
 The aim is to provide actionable insights and recommendations that help researchers conduct rigorous, transparent, and reproducible research, even when resources are limited.
 
-
-## Why Reproducibility Matters for Africa and Low-Resource Settings
+## Why Reproducibility Matters for Low-Resource Settings: An African Perspective
 
 Enhancing reproducibility is not only essential for the credibility of science in low-resource settings but also for empowering African researchers to contribute solutions to local and global challenges.
 Reliable research findings have the potential to inform policy, improve public health, and advance technology that addresses the unique needs of African communities.
 Furthermore, improving reproducibility fosters a culture of transparency and trust in scientific research, supporting Africa's growing reputation as a source of high-quality, impactful science.
 
 Investing in reproducibility within African and other low-resource research environments is thus an investment in sustainable, locally-led innovation.
-As African researchers increasingly take the lead in addressing region-specific challenges such as infectious disease, climate adaptation, and food security, building a strong foundation in reproducible research practices will ensure that their findings are both credible and impactful.
+As African researchers increasingly take the lead in addressing region-specific challenges such as infectious disease, climate adaptation, and food security, building a strong foundation in reproducible research practices will ensure that the findings are credible and impactful.
 
 
 ## Key Challenges in Reproducibility
@@ -47,9 +46,9 @@ However, obstacles like limited internet connectivity, digital storage constrain
 This may reduce collaborative opportunities and access to funding. This disconnect limits their ability to engage in international reproducibility initiatives and hinders their contributions to the broader scientific community.
 
 
-## Strategies for Overcoming Reproducibility Challenges in African and Low-Resource Settings
+## Strategies for Overcoming Reproducibility Challenges in Low-Resource Settings
 
-Overcoming reproducibility challenges in African and low-resource settings requires a multi-layered approach that addresses:
+Overcoming reproducibility challenges in low-resource settings requires a multi-layered approach that addresses:
 
 1. capacity-building,
 2. technology accessibility,
@@ -71,19 +70,22 @@ Likewise, using online data repositories such as the Open Science Framework (OSF
 Implementing these tools not only facilitates reproducibility but also fosters a culture of transparency and open science within the scientific community.
 
 Collaboration and mentorship are also essential. 
-Building regional reproducibility networks where researchers can share resources, best practices, and experiences offers a form of collective problem-solving that can help alleviate common barriers. Online communities on platforms like Slack and ResearchGate can serve as virtual spaces for discussion and support, while mentorship programs that pair researchers in low-resource settings with experienced mentors provide guidance on complex issues like grant writing, project management, and reproducibility standards. Through these relationships, researchers can benefit from a sense of community, both within Africa and globally.
+Building regional reproducibility networks where researchers can share resources, best practices, and experiences offers a form of collective problem-solving that can help alleviate common barriers.
+Online communities on platforms like Slack and ResearchGate can serve as virtual spaces for discussion and support, while mentorship programs that pair researchers in low-resource settings with experienced mentors provide guidance on complex issues like grant writing, project management, and reproducibility standards. 
+Through these relationships, researchers can benefit from a sense of community, both within Africa and globally.
 
-Institutional and policy support form a backbone for sustainability. By developing institutional guidelines that standardize data sharing, open science, and transparent reporting, African universities and research centres can create a research culture that values and prioritizes reproducibility.
+Institutional and policy support form a backbone for sustainability. 
+By developing institutional guidelines that standardize data sharing, open science, and transparent reporting, such as in African universities and research centres, can create a research culture that values and prioritizes reproducibility.
 Local institutions could also consider policies that recognize or even incentivize researchers who embrace reproducible practices.
 Supporting open-access publishing is another key step, as open access enables researchers to share their findings more broadly and make their work accessible to a wider audience, helping to bridge global disparities in information sharing.
 
-Finally, fostering a culture of open science is central to reproducibility. Encouraging data-sharing practices that adhere to FAIR principles allows research to be easily found, accessed, and reused by others.
+Finally, fostering a culture of open science is central to reproducibility.
+Encouraging data-sharing practices that adhere to FAIR principles allows research to be easily found, accessed, and reused by others.
 Open documentation and code sharing, using platforms like GitHub, Zenodo, or protocols.io, makes it easier for researchers to verify and replicate each other's work, providing transparency that strengthens trust in scientific findings.
 Raising awareness of the benefits of reproducibility—such as increased research impact, credibility, and opportunities for collaboration—can shift attitudes towards openness and accountability in research.
 
-Addressing the challenges of reproducibility in African and low-resource settings through these strategies ultimately creates a stronger, more interconnected research community. 
+Addressing the challenges of reproducibility in low-resource settings like in Africa through these strategies ultimately creates a stronger, more interconnected research community. 
 With enhanced training, accessible tools, supportive networks, and clear policies, researchers can produce science that stands up to scrutiny and contributes to a global body of knowledge that values and upholds the integrity of reproducible research.
-
 
 ### References and Further Readings
 
