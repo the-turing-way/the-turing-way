@@ -9,7 +9,7 @@ Building a successful open-source community requires a strategy and level of inv
 
 This guide outlines a comprehensive methodology for developing a Community Roadmap. This roadmap should serve as the central document that will allow maintainers to strategically understand how to acheive their goals related to creating a community of useful contributors necessary to maintain a healthy project.
 
-This roadmap will often have sections such as project goals, understanding contributor motivations, and creating a clear pathway for engagement. Drawing on best practices from the Mozilla Open Leadership Training Series and The Turing Way, this guide aims to help project maintainers foster a vibrant and sustainable open-source community. Below you will find guidelines for developing a strategy to growing your community as well as specific instructions for gathering the evidence needed to identify specific roadblocks to contribution.
+This roadmap will often have sections such as project goals, understanding contributor motivations, and creating a clear pathway for engagement. Drawing on best practices from the Mozilla Open Leadership Training Series and _The Turing Way_, this guide aims to help project maintainers foster a vibrant and sustainable open-source community. Below you will find guidelines for developing a strategy to growing your community as well as specific instructions for gathering the evidence needed to identify specific roadblocks to contribution.
 
 
 ## Defining General Goals
