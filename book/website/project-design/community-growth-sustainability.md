@@ -2,7 +2,6 @@
 
 # Creating a Community Roadmap Plan
 
-
 ## Introduction
 
 Building a successful open-source community requires a strategy and level of investment similar to building a successful product or application. The creator of that community must be strategic in identifying who their contributors are, why they contribute, and what resources they need to overcome, as well as the many barriers and challenges to successfully contributing to any open source project.
@@ -11,34 +10,28 @@ This guide outlines a comprehensive methodology for developing a Community Roadm
 
 This roadmap will often have sections such as project goals, understanding contributor motivations, and creating a clear pathway for engagement. Drawing on best practices from the Mozilla Open Leadership Training Series and _The Turing Way_, this guide aims to help project maintainers foster a vibrant and sustainable open-source community. Below you will find guidelines for developing a strategy to growing your community as well as specific instructions for gathering the evidence needed to identify specific roadblocks to contribution.
 
-
 ## Defining General Goals
 
 Establishing clear goals is the foundation of any successful community-building effort. This begins with defining the project's vision and mission.
-
 
 ### 1. Project Vision and Mission:
 
 * **Vision:** Articulates the long-term impact and aspirations of the project. For example, "To create a widely-used open-source tool that democratizes access to data analysis."
 * **Mission:** Outlines the immediate goals and objectives, such as developing user-friendly features, building comprehensive documentation, and fostering a welcoming community.
 
-
 ### 2. Specific Objectives:
 
 * **Goals:** Set measurable outcomes, such as "Increase the contributor base by 30% in one year."
 * **Milestones:** Identify key achievements to track progress, like the release of major features or achieving community growth benchmarks.
 
-
 ## Identifying Contributors and Their Incentives
 
 Once your general goals are defined, you must understand what sort of contributors you need to achieve that goal. Understanding who your contributors are and what motivates them is crucial for building a thriving community. This involves identifying different types of contributors and their respective motivations.
-
 
 ### 1. Contributor Personas:
 
 * **Types of Contributors:** Developers, technical writers, designers, community managers, project managers, researchers, etc.
 * **Demographics:** Background, skill level, interests.
-
 
 ### 2. Motivations and Incentives:
 
@@ -53,14 +46,12 @@ The contribution pathway outlines the stages through which individuals engage wi
 
 These stages were first proposed as part of the [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) but we have expanded upon each stage with additional detail.
 
-
 ### Discovery:
 
 * **Objective:** Identify how potential contributors first hear about the project or group.
 * **Actions:**
     * Promote the project through social media, blogs, conferences, and collaborations.
     * Ensure a strong online presence with SEO-optimized content and listings on popular repositories.
-
 
 ### First Contact:
 
@@ -69,14 +60,12 @@ These stages were first proposed as part of the [Mozilla Open Leadership Trainin
     * Provide clear, welcoming landing pages and contribution guidelines.
     * Maintain responsive communication channels and host introductory community calls.
 
-
 ### Participation:
 
 * **Objective:** Facilitate how contributors first participate or contribute.
 * **Actions:**
     * Label issues for beginners and offer detailed contribution guides.
     * Assign mentors to new contributors and recognize their initial contributions publicly.
-
 
 ### Sustained Participation:
 
@@ -85,14 +74,12 @@ These stages were first proposed as part of the [Mozilla Open Leadership Trainin
     * Regularly check in with contributors and invite them to community events.
     * Provide advanced contribution opportunities, continuous learning resources, and recognition.
 
-
 ### Networked Participation:
 
 * **Objective:** Promote networking within the community.
 * **Actions:**
     * Host community events and encourage collaborative projects.
     * Establish mentorship programs and maintain active online community spaces.
-
 
 ### Leadership:
 
@@ -101,18 +88,15 @@ These stages were first proposed as part of the [Mozilla Open Leadership Trainin
     * Define pathways to leadership roles and involve contributors in decision-making.
     * Publicly recognize leadership contributions and provide platforms for leaders to share insights.
 
-
 ## Conducting Interviews
 
 Conducting thorough interviews is essential to gather evidence and identify archetypal contributors and their pathways. Generally, these interviews should be semi-formal, allowing subjects to provide evidence about their personal experiences in project contributions. These interviews should simultaneously provide evidence of an ideal contribution experience and the problems that hinder project contribution.
-
 
 ### Interview Preparation:
 
 **1. Stakeholder Identification:** Identify key stakeholders, including maintainers, active contributors, potential contributors, and users. These diverse perspectives provide a comprehensive view of the project's ecosystem.
 
 **2. Questionnaire Development:** Develop focused questions for each stage of the contributor pathway and identify issues faced in contribution. The questions may vary highly depending on the individual's background and relation to the project. It is important for those conducting interviews to be flexible in their approach towards contributor interviews to allow for the most useful findings. A selection of questions for each stage is below.
-
 
 ### Example Questions:
 
@@ -147,7 +131,6 @@ Conducting thorough interviews is essential to gather evidence and identify arch
     * "What barriers did you face moving to a leadership role?"
     * "What additional support would have made this transition smoother?"
 
-
 ### Interview Execution:
 
 Choose an appropriate format for conducting the interviews, such as one-on-one interviews for in-depth insights, focus groups for collective discussions, or online surveys for broader reach. Ensure accurate data collection by recording responses and taking detailed notes. This helps capture nuanced insights and direct quotes that can enrich the analysis.
@@ -162,16 +145,13 @@ Choose an appropriate format for conducting the interviews, such as one-on-one i
 
 Use digital tools like recording apps for one-on-one interviews and focus groups. Ensure survey questions are clear and concise, with options for open-ended responses.
 
-
 ### Data Analysis
 
 Analyze the qualitative data by identifying common themes and patterns across different interviews. Group similar responses to identify major themes, such as "onboarding challenges" or "community support." Where applicable, perform quantitative analysis to derive metrics and statistics that provide a broader view of the data. For example, calculate the percentage of contributors who discovered the project through specific channels or measure the average time from discovery to first contribution among different groups.
 
-
 ## Creating the Community Building Roadmap
 
 Using the findings from the interviews, synthesize the key insights and prioritize actionable recommendations by developing Community Roadmap. The roadmap should be informed by thorough research and data collection, including interviews with key stakeholders. Below is a detailed narrative on creating a community building roadmap, incorporating insights from the attached Open@RIT presentation template.
-
 
 ### **1. Synthesis of Findings:**
 
@@ -185,14 +165,11 @@ Begin by synthesizing the findings from the interviews and other data collection
 
 **Actionable Recommendations:** Prioritize steps based on the evidence collected. For instance, if many contributors highlighted the need for better documentation, prioritize improving the quality and accessibility of the project's documentation.
 
-
 ### **2. Roadmap Development:**
 
 Develop a comprehensive roadmap that outlines both short-term actions and long-term strategies. This roadmap should be flexible enough to adapt to new insights and feedback from the community.
 
 **Short-Term Actions:** Focus on immediate steps to address critical issues identified in the research. Examples include:
-
-
 
 * **Improving Documentation:** Enhance guides and resources to support new contributors.
 * **Onboarding Programs:** Implement mentorship programs to assist first-time contributors.
@@ -200,12 +177,9 @@ Develop a comprehensive roadmap that outlines both short-term actions and long-t
 
 **Long-Term Strategies:** Plan for sustainable growth and development of the community over time. Examples include:
 
-
-
 * **Leadership Development:** Create pathways for contributors to take on leadership roles.
 * **Networking Opportunities:** Facilitate connections among contributors through community forums and collaborative projects.
 * **Continuous Learning:** Provide ongoing educational resources and training sessions.
-
 
 ### **3. Implementation Plan:**
 
@@ -213,15 +187,11 @@ Detail the resources required, such as tools, personnel, and budget, to implemen
 
 **Resources Required:**
 
-
-
 * **Tools:** Collaboration platforms like Slack or Discord, project management tools, and documentation software.
 * **Personnel:** Community managers, mentors, and technical writers.
 * **Budget:** Allocate funds for community events, promotional activities, and tool subscriptions.
 
 **Timeline:** Set specific milestones to mark progress and keep the community building efforts on track. Examples of milestones include:
-
-
 
 * **Month 1:** Launch improved documentation and onboarding guides.
 * **Month 3:** Host the first virtual community meetup.
