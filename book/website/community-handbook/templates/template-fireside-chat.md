@@ -52,7 +52,7 @@ Please propose your suggestion below or reach out to *The Turing Way* team membe
   * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
 * Reminder: 
     * **Code of conduct**: [https://book.the-turing-way.org/community-handbook/coc.html](https://book.the-turing-way.org/community-handbook/coc.html)
-       * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the project delivery team (turingway@gmail.com).
+       * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the {ref}`project delivery team<fw-governance-role>`.
        * To report an issue at the *Exploring gaps and opportunities for multilingual data science* event involving one of the organisers, please email one of the members individually (msharan@turing.ac.uk, kwhitaker@turing.ac.uk)
 * We have enabled the **closed caption (live transcription),** please click on 'cc' at the bottom of your Zoom screen
 
