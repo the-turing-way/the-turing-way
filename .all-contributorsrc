@@ -128,7 +128,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/457628?v=4",
       "profile": "http://erambler.co.uk/",
       "contributions": [
-        "doc"
+        "doc",
+        "bug",
+        "infra"
       ]
     },
     {
@@ -5038,6 +5040,16 @@
       "profile": "https://github.com/DiegoOLopez",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "agoose77",
+      "name": "Angus Hollands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1248413?v=4",
+      "profile": "https://oieltd.com",
+      "contributions": [
+        "content",
+        "bug"
       ]
     }
   ],
