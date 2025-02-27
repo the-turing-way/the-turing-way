@@ -12,7 +12,7 @@ This onboarding checklist is no longer in active use, it has been added to the C
 
 ## Accounts and Permissions
 - [ ] Remove from #ttw-core-team channel on Slack
-- [ ] Change [Github repository](https://github.com/alan-turing-institute/the-turing-way) permissions as needed
+- [ ] Change [Github repository](https://github.com/the-turing-way/the-turing-way) permissions as needed
 - [ ] Add to appropriate section of [Governance Roles document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md) 
 - [ ] (If applicable) Participate in [Enrichment Exit Process](https://mathison.turing.ac.uk/page/3021?SearchId=0) for the Alan Turing Institute
 - [ ] (If applicable) Remove from HackMD team for The Turing Way
