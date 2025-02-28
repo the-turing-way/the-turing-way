@@ -10,6 +10,9 @@ project:
   exclude:
     - LICENSE.md
   github: the-turing-way/the-turing-way
+  license:
+    code: MIT
+    content: CC-BY-4.0
   thebe:
     binder:
       repo: the-turing-way/the-turing-way
