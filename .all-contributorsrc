@@ -5051,6 +5051,17 @@
         "content",
         "bug"
       ]
+    },
+    {
+      "login": "rowanc1",
+      "name": "Rowan Cockett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/913249?v=4",
+      "profile": "http://row1.ca",
+      "contributions": [
+        "bug",
+        "infra",
+        "platform"
+      ]
     }
   ],
   "projectName": "the-turing-way",
