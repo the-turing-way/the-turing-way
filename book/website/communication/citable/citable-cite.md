@@ -17,7 +17,7 @@ You can find examples of these statements in the publishers' (research data) aut
 ### Data availability statement examples:
 
 **Using the Digital Object Identifier (DOI):**
-- “The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].”
+- “The data that support the findings of this study are openly available in [repository name] at `http://doi.org/[doi]`.”
 
 **If no DOI is issued:**
 - “The data that support the findings of this study are openly available in [repository name] at [URL], reference number [reference number].”
