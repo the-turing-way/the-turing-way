@@ -41,7 +41,7 @@ Dit project is openlijk ontwikkeld en alle vragen, opmerkingen en aanbevelingen 
 ### Het team
 
 Dit is (een deel) van het project team wat aan het werk is op het Turing Institute.
-Voor meer informatie over hoe je ons kan contacteren zie [ways of working document](ways_of_working.md).
+Voor meer informatie over hoe je ons kan contacteren zie [Governance Roles document](../GOVERNANCE_ROLES.md).
 
 <!---![Team photo](book/website/figures/TuringWayTeam.jpg)--->
 
