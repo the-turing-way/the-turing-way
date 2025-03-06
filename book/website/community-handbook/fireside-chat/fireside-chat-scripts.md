@@ -5,6 +5,7 @@
 ```{admonition} Note
 :class: tip
 These scripts were used to introduce Fireside Chats with _The Turing Way_ between 2022 and 2024, this documentation has been added for archival and transparency purposes.
+Edits have been made for the March 2025 script.
 ```
 
 ## Opening the call
@@ -15,17 +16,17 @@ Before starting the recording, the call would begin with the following note:
 The script can introduce the member of the team starting the fireside chat, and more information about the event itself:
 ```
 My name is [XXX]. 
-I’m the [XXX] for the Turing Way - I’ll be kicking off this session to tell you a little bit more about this call, before passing the mic to XXX, my colleague and XXX of the project, to take it away for this [MONTH] [YEAR] fireside chat.
+I’m the [XXX] for the Turing Way - I’ll be kicking off this session to tell you a little bit more about this call, before we go directly to our panelmembers.
 A few words about The Turing Way, it is an open source, open collaboration and community-developed handbook on data science.
 Our goal is to make reproducible, ethical and collaborative data science possible - and to make it both accessible and comprehensible for everyone.
 While I am kicking off the session today – I’m part of a wider team that includes XXX and others, many of which are here, and represent the wider & international community of researchers who have created this shared resource.
-They themselves bring perspectives from their fields, countries, backgrounds, and lived experiences.
 
-We are hosted by but not exclusive to – The Alan Turing Institute, which is the UK’s national centre for data science and artificial intelligence.
-Our project is located in the Tools, Practices, and Systems programme, which we will link in the chat.
-The TPS programme helps to strategise and implement open infrastructure within the Institute across various areas of research within the Turing and nationally across the UK.
+This Fireside Chat series itself has been an effort towards creating space across the open science communities - and indeed, the wider open ecosystem where people can gather and exchange concerns, explore challenges and share different practices that work in their contexts, to build allyship, and understand each other’s work and perspectives just a little bit better.
 
-This Fireside Chat series itself has been an effort towards creating space across the open science communities - and indeed, the wider open ecosystem where people can gather and exchange concerns, explore challenges and share different practices that work in their contexts, to build allyship, and understand each other’s work and perspectives just a little bit better. 
+Today's topic focus particularly on "Nurturing Open Science in Challenging Economic and Political times".
+How can Open Science communities thrive in times of austerity, with budget cuts looming around the corners and key values of Open Science, such as inclusion, being challenged and attacked.
+Our speakers today will delve into these topics, first introducing themselves and their view of what Open Science is, as well as whether they have experience applying and receiving funding for their Open Science initiatives.
+Before we start the conversation...
 ```
 
 This script is used to introduce housekeeping needs before starting the trip: 
@@ -37,11 +38,10 @@ Please feel free to add questions and notes to the pad or the chat, and we’ll 
 
 We have a code of conduct that applies to this event to ensure accessibility and respectful collaboration.
 For any concerns, reporting of an incident that makes you feel uncomfortable at this call or further ideas to improve accessibility, please email theturingway@gmail.com.
-You can directly reach out to me or Malvika, by emailing to their private email, information for which is provided in the Etherpad.
+More information on this can be found in the Etherpad.
 
-Just a reminder, but we will be holding the Zoom room open for an additional 30 minutes - for an unrecorded, open discussion.
-It is completely optional – but it is when we are able to turn off the recordings and ask questions of each other and ourselves in a perhaps less formal space than this one.
-It usually ends up being a very interesting conversation
+The first part of the conversation will be recorded, after which we will hold the Zoom room open for an additional 30 minutes - for an unrecorded and more informal discussion, which usually ends up in an another interesting conversation!
+
 ```
 
 ## Closing the call
@@ -49,21 +49,16 @@ It usually ends up being a very interesting conversation
 This script can be used to close the call, and the transition to a 30-minute discussion: 
 ```
 Thanks everyone!
-If you’d like to suggest another topic for future fireside chats, please write them in the pad or get in touch with me on Slack or through email.
+If you’d like to suggest another topic for future fireside chats, please write them in the pad or share it on Slack/email.
 If you’d like to co-sponsor the next Fireside chat with us… that’s even better!
 Please let us know.
 
 This event was co-sponsored by X and X.
-Thanks again to X for suggesting this topic.
+ <--- Thanks again to X for suggesting this topic. -->
 It was also very much co-planned with all the speakers today.
 Thank you all for lending us your experience and your expertise.
 
-Before we ask the closing question, just a small thing to keep in mind.
-Gilbert Beyamba from Pollicy, a previous speaker on the fireside side made this great suggestion during the planning process to leave the Zoom room open after the call ends to allow for more informal conversations or 1:1 questions that you might have for speakers or for each other. 
+We’ll be leaving this zoom room open for the next 30 minutes, in case you’d like to stick around to have a conversation with someone or ask a question in a smaller space.
 
-So we’ll be leaving this zoom room open for the next 30 minutes following this call, in case you’d like to stick around to have a conversation with someone or ask a question in a smaller space.
-There’s absolutely no pressure to stay for either the speakers or audience, just something to keep in mind.
-I’ll pass around the admin rights to this call to whoever wants it :) 
-
-Have a wonderful rest of your day and restful weekend. Thanks for tuning in!
+Have a wonderful rest of your day. Thanks for tuning in!
 ```
