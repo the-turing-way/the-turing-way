@@ -2,7 +2,9 @@
 
 ## Mission statement
 
-This chapter focuses on recruitment, providing practical strategies, resources and processes to reach a diverse pool of job applicants. It does not cover processes after the closing of the job advert such as sifting, shortlisting or interviewing. The intended audience is hiring managers and/or team members involved in the recruitment process, and not Human Resources (HR) specialists or dedicated recruiters. These recommendations are intended to be used alongside existing recruitment processes or guidelines within your respective organisation.
+This chapter focuses on recruitment, providing practical strategies, resources and processes to reach a diverse pool of job applicants.
+It does not cover processes after the closing of the job advert such as sifting, shortlisting or interviewing.
+The intended audience is hiring managers and/or team members involved in the recruitment process, and not Human Resources (HR) specialists or dedicated recruiters. These recommendations are intended to be used alongside existing recruitment processes or guidelines within your respective organisation.
 
 While our examples will often draw from data science scenarios, the principles and strategies discussed are applicable across various tech roles and sectors.
 
