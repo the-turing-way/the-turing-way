@@ -7,6 +7,8 @@
 These scripts were used to introduce Fireside Chats with _The Turing Way_ between 2022 and 2024, this documentation has been added for archival and transparency purposes.
 ```
 
+## Opening the call
+
 Before starting the recording, the call would begin with the following note:
 ```We are recording this session with transcriptions and it will be uploaded to Youtube afterwards. If you do not want to be on the video, please turn off your camera now.```
 
@@ -30,9 +32,38 @@ This script is used to introduce housekeeping needs before starting the trip:
 ```
 A few housekeeping things before we get started: 
 
-Please note that we have a shared Etherpad to facilitate written note-taking and invite ideas from you, who have joined to listen in. Please feel free to add questions and notes to the pad or the chat, and we’ll make sure to post them to be used after.
+Please note that we have a shared Etherpad to facilitate written note-taking and invite ideas from you, who have joined to listen in.
+Please feel free to add questions and notes to the pad or the chat, and we’ll make sure to post them to be used after.
 
-We have a code of conduct that applies to this event to ensure accessibility and respectful collaboration. For any concerns, reporting of an incident that makes you feel uncomfortable at this call or further ideas to improve accessibility, please email theturingway@gmail.com. You can directly reach out to me or Malvika, by emailing to their private email, information for which is provided in the Etherpad.
+We have a code of conduct that applies to this event to ensure accessibility and respectful collaboration.
+For any concerns, reporting of an incident that makes you feel uncomfortable at this call or further ideas to improve accessibility, please email theturingway@gmail.com.
+You can directly reach out to me or Malvika, by emailing to their private email, information for which is provided in the Etherpad.
 
-Just a reminder, but we will be holding the Zoom room open for an additional 30 minutes - for an unrecorded, open discussion. It is completely optional – but it is when we are able to turn off the recordings and ask questions of each other and ourselves in a perhaps less formal space than this one. It usually ends up being a very interesting conversation
+Just a reminder, but we will be holding the Zoom room open for an additional 30 minutes - for an unrecorded, open discussion.
+It is completely optional – but it is when we are able to turn off the recordings and ask questions of each other and ourselves in a perhaps less formal space than this one.
+It usually ends up being a very interesting conversation
+```
+
+## Closing the call
+
+This script can be used to close the call, and the transition to a 30-minute discussion: 
+```
+Thanks everyone!
+If you’d like to suggest another topic for future fireside chats, please write them in the pad or get in touch with me on Slack or through email.
+If you’d like to co-sponsor the next Fireside chat with us… that’s even better!
+Please let us know.
+
+This event was co-sponsored by X and X.
+Thanks again to X for suggesting this topic.
+It was also very much co-planned with all the speakers today.
+Thank you all for lending us your experience and your expertise.
+
+Before we ask the closing question, just a small thing to keep in mind.
+Gilbert Beyamba from Pollicy, a previous speaker on the fireside side made this great suggestion during the planning process to leave the Zoom room open after the call ends to allow for more informal conversations or 1:1 questions that you might have for speakers or for each other. 
+
+So we’ll be leaving this zoom room open for the next 30 minutes following this call, in case you’d like to stick around to have a conversation with someone or ask a question in a smaller space.
+There’s absolutely no pressure to stay for either the speakers or audience, just something to keep in mind.
+I’ll pass around the admin rights to this call to whoever wants it :) 
+
+Have a wonderful rest of your day and restful weekend. Thanks for tuning in!
 ```
