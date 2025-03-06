@@ -1,4 +1,7 @@
 contact_links:
+  - name: "\U0001F525 Suggest a Fireside Chat"
+    url: https://github.com/the-turing-way/fireside-chats/issues
+    about: Resources and checklist for giving a talk about the Turing Way
   - name: "\U0001F4E3 Give a talk"
     url: https://github.com/the-turing-way/conferences/issues/new?assignees=&labels=talks-and-workshops%2Cnewsletter&projects=&template=give_a_talk.yml&title=%5BTALK%5D+%3Ctitle%3E
     about: Resources and checklist for giving a talk about the Turing Way
