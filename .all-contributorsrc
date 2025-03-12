@@ -5081,6 +5081,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "afuetterer",
+      "name": "Heinz-Alexander Fuetterer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35225576?v=4",
+      "profile": "https://github.com/afuetterer",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
