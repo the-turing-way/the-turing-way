@@ -387,25 +387,43 @@ Mock Test
 ## O
 
 ```{glossary}
-Open Access
+Open access
 : Making all published outputs freely accessible for maximum use and impact.
 
-Open Access publishing (gratis)
+Open access publishing (gratis)
 : The practice of making research publications available to anyone to read without charge.
 
-Open Access Publishing (libre)
+Open access publishing (libre)
 : Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
-Open Core
+Open core
 : A model for the monetisation of software where the 'core' compenents are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
 
 Open data
 : Documenting and sharing research data openly for re-use.
 
-Open Educational Resources
+Open educational resources
 : Making educational resources publicly available to be re-used and modified.
 
-Open Source
+Open license
+: A license is a document that specifies what can and cannot be done with a work.
+  It grants permissions and states restrictions.
+  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  (See {ref}`licensing<rr-licensing>` for more details)
+
+Open notebooks
+: An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
+
+Open project
+: *Same as Open Science or Open Research Projects*.
+  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
+  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
+
+Open scholarship
+: This is a concept that extends open research further.
+  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
+
+Open source
 : [opensource.com](https://web.archive.org/web/20240618150233/https://opensource.com/resources/what-open-source) describes open source as:
   "Something people can modify and share because its design is publicly accessible".
   The concept of 'open source' is now often extended beyond the context of its original coinage, {term}`software<Open Source Software>`,
@@ -418,34 +436,16 @@ Open Source
   though they may include source materials.
   There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' and '{term}`Fair Code<Fair Code>`'.
 
-Open Source Hardware
+Open source hardware
 : Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.
 
-Open Source Software
+Open source software
 : Broadly, users of the software must able to inspect, modify and redistribute the source code of the software as they see fit, and not restrict the uses to which the code can be put or by whom it can be used.
   The [Open Source Initiative (OSI)](https://opensource.org/) offers a widely used definition of Open Source Software: The [Open Source Definition (OSD)](https://web.archive.org/web/20240619054907/https://opensource.org/osd) which is comprised of 10 criteria with which the terms of distribution of software must comply to meet their definition.
   The OSI maintains a list of licenses which have gone through their review process and been approved.
   Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
   Almost all open source software is also {term}`Free / Libre Software<Free or Libre Software>`.
   For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
-
-Open Scholarship
-: This is a concept that extends open research further.
-  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
-
-Open License
-: A license is a document that specifies what can and cannot be done with a work.
-  It grants permissions and states restrictions.
-  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
-  (See {ref}`licensing<rr-licensing>` for more details)
-
-Open Notebooks
-: An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
-
-Open Project
-: *Same as Open Science or Open Research Projects*.
-  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
-  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
 ORCID
 : Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher.
