@@ -1753,7 +1753,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 
 * Personal highlights:
 > Writing and working together with many people to get the {ref}`er-datahazards` Chapter published.
-> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight! 
+> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was definitely also a big highlight! 
 
 
 ### Susanna-Assunta Sansone

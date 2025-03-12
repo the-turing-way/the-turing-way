@@ -59,7 +59,7 @@ The ability of double-anonymized review to address biases in peer review remains
 4. Micro-publications
 
 (cm-pr-open-initiatives)=
-## Initiatives suppporting Open Peer Review
+## Initiatives supporting Open Peer Review
 
 * [PREreview](https://prereview.org/)
 * [Open Review](https://openreview.net)
