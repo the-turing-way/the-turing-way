@@ -5071,6 +5071,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "ahkrook",
+      "name": "ahkrook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167080825?v=4",
+      "profile": "https://github.com/ahkrook",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
