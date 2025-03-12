@@ -54,7 +54,7 @@ This glossary should be a living and breathing document, that can be updated, an
 ## Organising stakeholder workshops
 ### Key question: What work before, during, and after a workshop should be done to run an effective stakeholder workshop?
 
-Workshops are best suited for engagement activites where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task, as opposed to gatherings which are purely driven by conversation. 
+Workshops are best suited for engagement activities where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task, as opposed to gatherings which are purely driven by conversation. 
 This ensures participants are taking active steps towards achieving a shared goal.
 
 Organising an effective workshop is a multi stage process which can be segmented into three stages; pre-workshop, workshop, and post-workshop.

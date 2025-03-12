@@ -144,7 +144,7 @@ No license implies that others are *not* allowed to use your work, even with att
 So it is better to include a license that lets people know what they can and can't do and how to give you credit for your work.
 
 Depending on your field, much of your work may be documents with only some data or code.
-The standard licenses offered on GitHub are most approriate for software and won’t really be the right kind for documents.
+The standard licenses offered on GitHub are most appropriate for software and won’t really be the right kind for documents.
 
 [Creative commons](https://creativecommons.org/licenses/) licenses are the best to use for this purpose, and the most open of these is the CC BY 4.0.
 
