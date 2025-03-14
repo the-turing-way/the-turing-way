@@ -46,7 +46,7 @@ height: 400px
 name: rdm-storage
 alt: A cartoon woman standing in front of a very messy closet. She is looking for data that she generated last year. Behind her a person is watching doubtfully, unsure whether she can find it in this mess.
 ---
-Research Data Management: making it possible to retreive data from last year.
+Research Data Management: making it possible to retrieve data from last year.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
 ```
 

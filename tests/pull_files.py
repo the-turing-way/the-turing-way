@@ -1,5 +1,5 @@
 """
-Script to pull changed files in a Pull Request using a GET resquest to the
+Script to pull changed files in a Pull Request using a GET request to the
 GitHub API.
 """
 import requests
@@ -8,7 +8,7 @@ import argparse
 
 def parse_args():
     """Construct the command line interface for the script"""
-    DESCRIPTION = "Script to check for occurences of 'Lorem Ipsum' in Markdown files"
+    DESCRIPTION = "Script to check for occurrences of 'Lorem Ipsum' in Markdown files"
     parser = argparse.ArgumentParser(description=DESCRIPTION)
 
     parser.add_argument(

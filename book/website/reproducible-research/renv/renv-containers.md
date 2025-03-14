@@ -428,7 +428,7 @@ dockerd-rootless-setuptool.sh install
 docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
 ```
 
-The following prequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
+The following prerequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
 
 (rr-renv-containers-podman)=
 ## Podman
@@ -564,7 +564,7 @@ Windows or MacOS.
 
 Singularity provides [Vagrant](https://www.vagrantup.com/) boxes which let users
 on Windows or MacOS quickly deploy a virtual machine with Singularity installed.
-Instuctions can be found [in the Singularity
+Instructions can be found [in the Singularity
 documentation](https://sylabs.io/guides/latest/admin-guide/installation.html#installation-on-windows-or-mac)
 ```
 

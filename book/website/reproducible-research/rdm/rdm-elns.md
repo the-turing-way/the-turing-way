@@ -119,7 +119,7 @@ A hard drive, or even a solid state drive, however, cannot be left in a draw for
 
 For digital data it is important for archiving and maintaining the data to use formats that maximize the likelihood of recovering relevant information.
 Proprietary formats are antithetical to this.
-Proprietary solutions generally obfuscate the format, even if just through absense of generally available specifications and documentation.
+Proprietary solutions generally obfuscate the format, even if just through absence of generally available specifications and documentation.
 Proprietary formats generally have a single implementation from their creator, this creates a single point of failure.
 Open formats can have multiple different implementations of tools which read them.
 If there is a good enough specification then new tools can even be written for the format if none of the originals are available anymore.
