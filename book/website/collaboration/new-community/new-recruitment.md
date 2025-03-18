@@ -4,13 +4,15 @@
 
 This chapter focuses on recruitment, providing practical strategies, resources and processes to reach a diverse pool of job applicants.
 It does not cover processes after the closing of the job advert such as sifting, shortlisting or interviewing.
-The intended audience is hiring managers and/or team members involved in the recruitment process, and not Human Resources (HR) specialists or dedicated recruiters. These recommendations are intended to be used alongside existing recruitment processes or guidelines within your respective organisation.
+The intended audience is hiring managers and/or team members involved in the recruitment process, and not Human Resources (HR) specialists or dedicated recruiters. 
+These recommendations are intended to be used alongside existing recruitment processes or guidelines within your respective organisation.
 
 While our examples will often draw from data science scenarios, the principles and strategies discussed are applicable across various tech roles and sectors.
 
 This document contains a suggested set of actions and timeframes, which may vary across organisations, as hiring processes are different.
 
-Whilst this document focuses on suggestions to attract diverse candidates, you must be aware that there will be different legal obligations around hiring based on certain characteristics depending on the country you’re hiring in. For example, the UK has the [Equality Act 2010](https://www.gov.uk/discrimination-your-rights) in place that legally protects people from discrimination in the workplace and in wider society. 
+Whilst this document focuses on suggestions to attract diverse candidates, you must be aware that there will be different legal obligations around hiring based on certain characteristics depending on the country you’re hiring in. 
+For example, the UK has the [Equality Act 2010](https://www.gov.uk/discrimination-your-rights) in place that legally protects people from discrimination in the workplace and in wider society. 
 
 There are nine protected characteristics which are legally protected under the Equality Act 2010. 
 
@@ -25,11 +27,16 @@ These are (in no particular order):
 * sex
 * sexual orientation
 
-In some circumstances, you can use protected characteristics to help a disadvantaged or an underrepresented group during the recruitment process, for example by making reasonable adjustments for disability. This can help your organisation to be more diverse and representative. However, it is important to know what is possible and what could be against the law. Your action must not cause 'detriment' to another protected group (where someone is treated worse or discriminated against relative to someone else).
+In some circumstances, you can use protected characteristics to help a disadvantaged or an underrepresented group during the recruitment process, for example by making reasonable adjustments for disability. 
+This can help your organisation to be more diverse and representative. 
+However, it is important to know what is possible and what could be against the law. 
+Your action must not cause 'detriment' to another protected group (where someone is treated worse or discriminated against relative to someone else).
 
-Although you may want to make an impact to progress your team/organisation’s diversity, for example by  bringing more underrepresented groups from a STEM background into the organisation, it does not mean you can discount other candidates that meet the essential criteria, simply based on characteristics such as gender and/or age. This would be classed as unlawful discrimination. 
+Although you may want to make an impact to progress your team/organisation’s diversity, for example by  bringing more underrepresented groups from a STEM background into the organisation, it does not mean you can discount other candidates that meet the essential criteria, simply based on characteristics such as gender and/or age. 
+This would be classed as unlawful discrimination. 
 
-Positive action can be used to encourage underrepresented groups to apply for roles at your organisation, however, there are limits to this and it’s recommended that you consult with your HR team before creating any initiatives. The UK Government has [guidance on their website](https://www.gov.uk/government/publications/positive-action-in-the-workplace-guidance-for-employers/positive-action-in-the-workplace) on the differences between positive discrimination and positive action.
+Positive action can be used to encourage underrepresented groups to apply for roles at your organisation, however, there are limits to this and it’s recommended that you consult with your HR team before creating any initiatives. 
+The UK Government has [guidance on their website](https://www.gov.uk/government/publications/positive-action-in-the-workplace-guidance-for-employers/positive-action-in-the-workplace) on the differences between positive discrimination and positive action.
 
 
 ## Why aim for a diverse pool of job applicants?
@@ -46,46 +53,58 @@ Diverse teams bring together varied perspectives, experiences, and approaches, c
 
 
 3. **Improved decision-making** 
-A diverse workforce helps mitigate unconscious bias, such as groupthink, resulting in more balanced and well-rounded decisions. For instance, a diverse data science team is more likely to recognise and address potential biases in datasets or machine learning models. 
+A diverse workforce helps mitigate unconscious bias, such as groupthink, resulting in more balanced and well-rounded decisions.
+For instance, a diverse data science team is more likely to recognise and address potential biases in datasets or machine learning models. 
 
-4. **Broader talent pool** 
+5. **Broader talent pool** 
 By taking concrete steps to cast a wider net, you increase your chances of finding exceptional talent that might otherwise be overlooked - particularly in competitive professions in which demand often outpaces supply. 
 
-5. **Enhanced company reputation** 
+6. **Enhanced company reputation** 
 Organisations known for their commitment to diversity often attract top talent across all demographics. 
 
-6. **Compliance and social responsibility** 
+7. **Compliance and social responsibility** 
 While not the primary driver, having a diverse workforce demonstrates corporate social responsibility, which is increasingly important to stakeholders.
 
-It’s important to recognise that attracting a diverse candidate pool is just the first step. Ensuring that your entire recruitment process, from application to onboarding, is designed to support and encourage diversity is something that falls outside the scope of this chapter but is crucial for success. While casting a wide net is important, it's equally crucial to ensure your message resonates with diverse candidates and that your application process is accessible and inclusive.
+It’s important to recognise that attracting a diverse candidate pool is just the first step. 
+Ensuring that your entire recruitment process, from application to onboarding, is designed to support and encourage diversity is something that falls outside the scope of this chapter but is crucial for success. 
+While casting a wide net is important, it's equally crucial to ensure your message resonates with diverse candidates and that your application process is accessible and inclusive.
 
 
 
 
 ## Advertising/dissemination
 
-Dissemination and getting your job under the eyes of as wide an audience as possible will be the key to attracting a diverse candidate pool. This can be done both internally and externally, in addition to processes the recruitment team at your organisation may already have in place. Key to this is targeted outreach to encourage under-represented groups to apply.
+Dissemination and getting your job under the eyes of as wide an audience as possible will be the key to attracting a diverse candidate pool. 
+This can be done both internally and externally, in addition to processes the recruitment team at your organisation may already have in place. 
+Key to this is targeted outreach to encourage under-represented groups to apply.
 
 
 ### Leveraging internal expertise and networks
 
-Work with your Recruitment Team to facilitate connection to internal networks or interest groups across your organisation. For instance, involving the Equality, Diversity, and Inclusion (EDI) team and/or a staff networks relevant to disability, gender, LGBTQ+, race. Doing this early in the recruitment process demonstrates a genuine commitment to diversity and integration into the recruitment strategy from the start rather than being an afterthought. These internal experts will have valuable insights for identifying diverse talent pools, networks and job boards. They can help you provide targeted outreach to under-represented groups, give guidance on cultural competence and help you tailor your approach to attract a wider range of candidates.
+Work with your Recruitment Team to facilitate connection to internal networks or interest groups across your organisation. 
+For instance, involving the Equality, Diversity, and Inclusion (EDI) team and/or a staff networks relevant to disability, gender, LGBTQ+, race. 
+Doing this early in the recruitment process demonstrates a genuine commitment to diversity and integration into the recruitment strategy from the start rather than being an afterthought. 
+These internal experts will have valuable insights for identifying diverse talent pools, networks and job boards. They can help you provide targeted outreach to under-represented groups, give guidance on cultural competence and help you tailor your approach to attract a wider range of candidates.
 
 
 ### Social media and outreach 
 
-Depending on your organisation’s social media policy, how you share the role online in your personal networks and brand accounts can also influence its reach. Sharing job postings in targeted LinkedIn groups (for example Diversity in Tech), and using targeted hashtags (for example #DiversityInTech, #WomenInAI) can give your advert a wider spread, reaching  candidates who may not otherwise encounter it.
+Depending on your organisation’s social media policy, how you share the role online in your personal networks and brand accounts can also influence its reach. 
+Sharing job postings in targeted LinkedIn groups (for example Diversity in Tech), and using targeted hashtags (for example #DiversityInTech, #WomenInAI) can give your advert a wider spread, reaching  candidates who may not otherwise encounter it.
 
 
 ### Targeting external networks and organisations 
 
 
-Targeting external organisations and networks with a focus on underrepresented groups will broaden your reach. We have included some suggestions around this in the Resources section.
+Targeting external organisations and networks with a focus on underrepresented groups will broaden your reach. 
+We have included some suggestions around this in the Resources section.
 
 
 ## Checklist for recruitment 
 
-The checklist and timeline below outline a range of activities which can be undertaken to increase the diversity of your applicant pool. This list is not exhaustive so you will need to consult your organisation’s recruitment policies and recommendations. Having a specific timeline outlined and communicated from the start of the recruitment process is important not only for hiring teams but also for applicants. 
+The checklist and timeline below outline a range of activities which can be undertaken to increase the diversity of your applicant pool. 
+This list is not exhaustive so you will need to consult your organisation’s recruitment policies and recommendations. 
+Having a specific timeline outlined and communicated from the start of the recruitment process is important not only for hiring teams but also for applicants. 
 
 
 ### Before advertising 
@@ -126,7 +145,7 @@ The checklist and timeline below outline a range of activities which can be unde
     * Where possible, stick to the advertised close date. Avoid stating that the role will be closed early if a suitable candidate is identified.  
     * Consider the day of the week and time of closing your advert. For example, a closing date set on a weekend may be valuable for people who have limited free time.
     * Be explicit on the time zone which will be used to close the application period 
-    * 
+
 
 
 ### Before job advert closes
@@ -134,7 +153,8 @@ The checklist and timeline below outline a range of activities which can be unde
 
 
 - [ ] Book time(s) for interview panel *[Contributing to this action may be out of scope for hiring managers depending on organisational processes]*
-    * Consider flexibility and other requirements for applicants AND members of the interview panel. For example, ensuring that panel members have sufficient  breaks and that flexibility in scheduling can be offered to applicants - planning should be undertaken in partnership with your HR team.  
+    * Consider flexibility and other requirements for applicants AND members of the interview panel.
+  For example, ensuring that panel members have sufficient  breaks and that flexibility in scheduling can be offered to applicants - planning should be undertaken in partnership with your HR team.  
     * Ensure there is a diverse interview panel for every interview - consider gender, race, diversity of thought, interest/impacted group perspective. 
     * Consider having the option of both in-person or remote interviews for candidates to select from
         - [ ] Consider providing reimbursement for expenses incurred for candidates attending in-person interviews 
@@ -161,7 +181,8 @@ The checklist and timeline below outline a range of activities which can be unde
 
 ### Further reading 
 
-Included below are a small selection of resources for further reading, that can expand your knowledge on diverse recruitment practices. This is not a comprehensive list and any organisations, groups or documents listed should be reviewed by an individual before engaging with them. 
+Included below are a small selection of resources for further reading, that can expand your knowledge on diverse recruitment practices. 
+This is not a comprehensive list and any organisations, groups or documents listed should be reviewed by an individual before engaging with them. 
 
 Recruiting a diverse technical workforce checklist - [https://www.stemm-change.co.uk/wp-content/uploads/2021/09/Recruiting-a-diverse-technical-workforce-smaller.pdf](https://www.stemm-change.co.uk/wp-content/uploads/2021/09/Recruiting-a-diverse-technical-workforce-smaller.pdf)
 
@@ -178,7 +199,9 @@ Providing salary transparency in job adverts - [https://www.vercidagroup.com/pos
 
 ### Useful organisations for data science & STEM hiring in the UK 
 
-The below resources are a selection of data science, AI and tech spaces which may be useful for posting your job advert or engaging with specific groups/organisations. The target audience for these groups has been identified from each of their webpages. They mostly have a UK focus, though some are more international. 
+The below resources are a selection of data science, AI and tech spaces which may be useful for posting your job advert or engaging with specific groups/organisations. 
+The target audience for these groups has been identified from each of their webpages. 
+They mostly have a UK focus, though some are more international. 
 
 
 <table>
