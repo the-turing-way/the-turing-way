@@ -1,4 +1,4 @@
-(ch-coworking-collabcafe)=
+(ch-community-calls-collabcafe)=
 # Online Collaboration Cafe
 
 ```{figure} ../../figures/collaboration-cafe.*
@@ -60,9 +60,9 @@ We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-colla
 You can watch this video to see Kirstie and Malvika plan the structure and format of Collaboration Café.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XUw5kpypeo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Schedule
+### Schedule (2018 - 2022)
 
-We'll run the following schedule during each Collaboration Cafe:
+From 2018 to 2022, the Collaboration Cafe used the following schedule.
 
 | Duration | Activity |
 | ---- | -------- |
@@ -75,6 +75,25 @@ We'll run the following schedule during each Collaboration Cafe:
 | 20 mins | 🍅 3rd Pomodoro session |
 | 5 mins | ☕️ Break |
 | 30 mins | Open discussion: celebrations, reflections and future directions |
+| 5 mins | 👋 Close |
+
+### Schedule (2023 - current)
+
+In 2023, this schedule was adjusted to account for the different ways in which people work within the community. The enforced breaks after each pomodoro session were sometimes perceived as disruptive to ongoing conversations or plannign sessions. 
+
+_The Turing Way_ community has adhered to a cadence of un-enforced and enforced breaks since 2023, using the following schedule: 
+
+| Time | Activity |
+| ---- | -------- |
+| 10 mins | Introductions and Needs for Rooms |
+| 20 mins | 🍅 1st Pomodoro session |
+| 5 mins | ☕️ Break - **not enforced** |
+| 20 mins | 🍅 2nd Pomodoro session |
+| 10 mins | ☕️ Break - **enforced: 1hr mark** |
+| 20 mins | 🍅 3rd Pomodoro session |
+| 5 mins | ☕️ Break - **not enforced** |
+| 20 mins | 🍅 4th Pomodoro session |
+| 5 mins | 👋 Wrap up: celebrations, reflections and future directions |
 | 5 mins | 👋 Close |
 
 ### Chairing an online Collaboration Cafe
