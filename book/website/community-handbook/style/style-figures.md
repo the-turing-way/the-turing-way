@@ -34,8 +34,7 @@ In general, make sure to always cite the image properly as directed by the image
 Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
 If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub, or adding locally and pushing the change online when using git.
 
-Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
-If your file is larger than 1MB, please use a local image editing tool, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
+We have an automatic compressor that will decrease the size of your image when the online book is loading. However, in order to ensure the Turing Way repository isn't too large, please upload `.jpg`, `.png`, or `.svg` files that are under 1MB. If your file is larger than 1MB, please use a local image editing tool, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
 
 To name your image file, please use all-lowercase and separate words with hyphens (-).
 
