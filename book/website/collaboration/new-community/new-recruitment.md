@@ -113,7 +113,9 @@ Having a specific timeline outlined and communicated from the start of the recru
 
 - [ ] Ensure effective communication  between hiring manager and recruitment team - know what your recruitment team is already doing (for example  where roles will be advertised) to avoid working in silos
 - [ ] Writing the job description (JD)
-    * Detail what the person will be doing - recommend 10-12 bullet points
+    * Detail what the person will be doing
+         * Recommend 10-12 bullet points
+         * Focus on the tasks to be completed rather than _how_ the task is completed
     * Write in plain English, removing any jargon and abbreviations
     * Consider unconscious bias against all characteristics - often unconscious bias moves beyond the nine protected characteristics and into dimensions such as education level, socioeconomic status, geography, and hobbies.
         * Avoid superlatives
@@ -130,15 +132,20 @@ Having a specific timeline outlined and communicated from the start of the recru
         * Include any statutory or enhanced benefits your organisation may offer such as paternity, maternity and parental leave and/or benefits such as time off for dependents, and annual leave entitlement. 
     * Directly reference your organisational EDI commitment
         * Include your organisational Diversity Statement where available.
-        * Include your organisational Values (if applicable). 
+        * Include your organisational Values (if applicable).
+        * Include you team's personal commitment to Equity, Diversity and Inclusive (if applicable). 
 - [ ] Post job advert 
     * Consider the best places to advertise to reach a diverse pool of candidates
         * See “ Resources” section for suggestions of advertising venues
         * If certain demographics are often missing from your pool, utilise spaces that target those groups
         * Consider reviewing the diversity of the pool attained from previous, similar advertising and seek specific advertising to reach other groups that were underrepresented 
     * Use a gender decoder to review the advert after you have created it
-    * Leverage your networks, as well as those of others in the organisation, to share the opportunity advertised e.g. Slack, LinkedIn, word of mouth at conferences etc. 
-        * When utilising your networks, consider if there are any groups potentially missing. Consider using alternative spaces (examples listed in Resources section) to reach groups that aren’t in your network. 
+    * Consider digital accessibility on social media and in job adverts
+      Not all advertising venues are digitally accessible (See "Resources" for more reading)
+    * Leverage your networks, as well as those of others in the organisation, to share the opportunity advertised for example, Slack, LinkedIn, word of mouth at conferences 
+        * When utilising your networks, consider if there are any groups potentially missing. Consider using alternative spaces (examples listed in Resources section) to reach groups that aren’t in your network.
+      *If including images in the job advert or description, ensure alternative text is included (See "Resources" for more reading)
+         *Any links to other websites or pages should be linked in the text and not in images
 - [ ] Set a suitable closing deadline
     * Ensure a closing date is included on the advert
         * Advertise roles minimally for 2-4 weeks where possible
@@ -160,7 +167,7 @@ Having a specific timeline outlined and communicated from the start of the recru
         - [ ] Consider providing reimbursement for expenses incurred for candidates attending in-person interviews 
 - [ ] Decide on assessments and criteria
     * Be clear on what criteria is being used for shortlisting
-    * Ensure assessment criteria focus on the person specification. This should help mitigate bias during hiring decisions later on.
+    * Ensure assessment criteria focus on the person specification within the job description. This should help mitigate bias during hiring decisions later on.
 
 
 ### At the deadline 
@@ -196,6 +203,9 @@ How employers should recruit - [https://www.acas.org.uk/hiring-someone](https://
 
 Providing salary transparency in job adverts - [https://www.vercidagroup.com/post/show-them-the-money-how-including-salary-in-job-ads-can-help-build-a-more-diverse-workforce](https://www.vercidagroup.com/post/show-them-the-money-how-including-salary-in-job-ads-can-help-build-a-more-diverse-workforce)
 
+Digital accessibility on social media - https://book.the-turing-way.org/community-handbook/accessibility/accessibility-comms-platforms
+
+Alternative Text - https://book.the-turing-way.org/community-handbook/accessibility/accessibility-alt-text
 
 ### Useful organisations for data science & STEM hiring in the UK 
 
