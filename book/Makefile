@@ -18,7 +18,6 @@ ci:
 
 pathways:
 	pathways ./website/
-	cd website && jupyter-book build --html
 
 clean:
 	jupyter-book clean -a ./website
