@@ -77,3 +77,4 @@ More information about the community, participation process and project manageme
 
 We look forward to expanding and building _The Turing Way_ together.
 
+## Different Pathways
