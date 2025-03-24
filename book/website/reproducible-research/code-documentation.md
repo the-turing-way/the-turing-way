@@ -13,7 +13,7 @@ A famous quote be Harold Abelson says that "Programs must be written for people 
 This refers to the fact that code should be written in a way that it can be understood by people other than the author (and even the author in the future).
 And this is not limited to the code itself being well written, but also (and perhaps more importantly) for the code to be clearly documented.
 
-Documentation is the written text that acompanies the code and explains different aspects of it: what it does,  how it works, how it is structured, and any other relevant information.
+Documentation is the written text that accompanies the code and explains different aspects of it: what it does, how it works, how it is structured, and any other relevant information.
 Depending on the complexity of the code, it may be suitable to have different types of documentation aimed at different audiences for example, the users of the software, or other developers.
 
 It is important to emphasise that not all projects need extensive documentation;
