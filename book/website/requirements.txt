@@ -178,7 +178,7 @@ pandocfilters==1.5.1
     # via nbconvert
 parso==0.8.4
     # via jedi
-pathways @ git+https://github.com/the-turing-way/pathways.git@v0.3.0
+pathways @ git+https://github.com/the-turing-way/pathways.git@v0.3.1
     # via -r requirements.in
 pexpect==4.9.0
     # via ipython
