@@ -1,6 +1,6 @@
 datascience
 folium
-git+https://github.com/the-turing-way/pathways.git@v0.2.3
+git+https://github.com/the-turing-way/pathways.git@v0.3.0
 jinja2
 jupyter-book>=2.0.0a0
 matplotlib
