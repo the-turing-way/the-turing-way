@@ -68,7 +68,7 @@ See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ
 * Need to have a lot of different skills (technical, interpersonal, project management)
 * Supporting and encouraging engagement in the community 
 * Building infrastructure from scratch in newly created roles 
-* Being seen as a professional in their own right and not just adminstrative staff 
+* Being seen as a professional in their own right and not just administrative staff 
 * Connecting with new audiences who are not aware of the community
 * Translating between different groups in the same field or institution 
 * Managing tasks where there is little formal process in place 

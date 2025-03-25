@@ -20,7 +20,6 @@ Please join the fortnightly [Collaboration Cafes](https://book.the-turing-way.or
 
 Talks, presentations and recordings from different events are posted on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA) regularly.
 
-
 ### Community Channels
 
 - Email:

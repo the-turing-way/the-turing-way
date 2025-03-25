@@ -119,7 +119,7 @@ project:
           title: Licensing
           children:
             - file: reproducible-research/licensing/licensing-compatibility.md
-              title: License Compatibililty
+              title: License Compatibility
             - file: reproducible-research/licensing/licensing-ethical-source.md
               title: Ethics-informed Licensing
             - file: reproducible-research/licensing/licensing-data.md
