@@ -6,8 +6,6 @@
 #
 anyio==4.8.0
     # via jupyter-server
-appnope==0.1.4
-    # via ipykernel
 argon2-cffi==23.1.0
     # via jupyter-server
 argon2-cffi-bindings==21.2.0
@@ -75,7 +73,7 @@ isoduration==20.11.0
     # via jsonschema
 jedi==0.19.2
     # via ipython
-jinja2==3.1.5
+jinja2==3.1.6
     # via
     #   -r requirements.in
     #   branca
