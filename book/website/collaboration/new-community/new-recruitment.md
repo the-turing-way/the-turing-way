@@ -94,7 +94,6 @@ Sharing job postings in targeted LinkedIn groups (for example Diversity in Tech)
 
 ### Targeting external networks and organisations 
 
-
 Targeting external organisations and networks with a focus on underrepresented groups will broaden your reach. 
 We have included some suggestions around this in the Resources section.
 
