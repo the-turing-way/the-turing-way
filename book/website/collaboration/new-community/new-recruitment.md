@@ -51,8 +51,7 @@ Outlined below are business case arguments for incorporating practical strategie
 1. **Enhanced innovation and problem-solving** 
 Diverse teams bring together varied perspectives, experiences, and approaches, creating a possibility for more creative solutions and innovative ideas. 
 
-
-3. **Improved decision-making** 
+2. **Improved decision-making** 
 A diverse workforce helps mitigate unconscious bias, such as groupthink, resulting in more balanced and well-rounded decisions.
 For instance, a diverse data science team is more likely to recognise and address potential biases in datasets or machine learning models. 
 
