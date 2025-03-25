@@ -30,7 +30,7 @@ Please refer to the Foreword of the book to learn about different kinds of [comm
 
 ## Maintenance Level Roles
 
-The "Maintenance" (“Collective choice") level participation allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier.
+At the "Maintenance" level, different groups of people come together to work on and promote specific areas and initiatives in the project, as well as defining or changing processes to make community level participation easier.
 Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at the maintenance level.
 
 Members participating in different Working Groups and projects carried out in _The Turing Way_ are listed below.
