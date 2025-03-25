@@ -1,30 +1,30 @@
 - name: Early Career Researchers
   files:
-    - project-design/project-design
-    - collaboration/github-novice
-    - project-design/project-repo
-    - project-design/pd-overview
-    - reproducible-research/reproducible-research
-    - reproducible-research/overview
-    - reproducible-research/reproducible-research
-    - reproducible-research/overview/overview-definitions
-    - reproducible-research/overview/overview-benefit
-    - reproducible-research/overview/overview-barriers
-    - reproducible-research/overview/overview-resources
-    - reproducible-research/rdm
-    - reproducible-research/vcs
-    - project-design/pd-overview
-    - project-design/pd-overview/pd-overview-methods
-    - project-design/sdp
-    - communication/communication
-    - communication/comms-overview
-    - communication/comms-overview/comms-overview-principles
-    - communication/dif-articles
-    - communication/presentations
-    - communication/social-media
-    - collaboration/collaboration
-    - collaboration/github-novice/github-novice-advanced
-    - ethical-research/ethics-intro
+    - project-design/project-design.md
+    - collaboration/github-novice.md
+    - project-design/project-repo.md
+    - project-design/pd-overview.md
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview.md
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview/overview-definitions.md
+    - reproducible-research/overview/overview-benefit.md
+    - reproducible-research/overview/overview-barriers.md
+    - reproducible-research/overview/overview-resources.md
+    - reproducible-research/rdm.md
+    - reproducible-research/vcs.md
+    - project-design/pd-overview.md
+    - project-design/pd-overview/pd-overview-methods.md
+    - project-design/sdp.md
+    - communication/communication.md
+    - communication/comms-overview.md
+    - communication/comms-overview/comms-overview-principles.md
+    - communication/dif-articles.md
+    - communication/presentations.md
+    - communication/social-media.md
+    - collaboration/collaboration.md
+    - collaboration/github-novice/github-novice-advanced.md
+    - ethical-research/ethics-intro.md
   colour: blue
   description: >
     Early Career Researchers (ECRs) are students, PhDs and early-stage postdocs
@@ -34,19 +34,19 @@
     ensure research reproducibility.
 - name: Project Leaders
   files:
-    - collaboration/leadership
-    - project-design/project-design
-    - project-design/project-repo
-    - project-design/pd-overview/pd-overview-planning
-    - project-design/pd-overview/pd-overview-repro
-    - project-design/pd-overview/pd-overview-methods
-    - project-design/pd-overview/pd-overview-version
-    - reproducible-research/reproducible-research
-    - reproducible-research/overview/overview-definitions
-    - reproducible-research/overview/overview-barriers
-    - reproducible-research/open
-    - reproducible-research/open/open-data
-    - reproducible-research/open/open-source
+    - collaboration/leadership.md
+    - project-design/project-design.md
+    - project-design/project-repo.md
+    - project-design/pd-overview/pd-overview-planning.md
+    - project-design/pd-overview/pd-overview-repro.md
+    - project-design/pd-overview/pd-overview-methods.md
+    - project-design/pd-overview/pd-overview-version.md
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview/overview-definitions.md
+    - reproducible-research/overview/overview-barriers.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-data.md
+    - reproducible-research/open/open-source.md
   colour: purple
   description: >
     Project leaders are people who are responsible for project planning,
@@ -57,25 +57,25 @@
     practices throughout the lifecycle of research.
 - name: Research Software Engineers
   files:
-    - communication/citable/citable-otherscite
-    - communication/citable/citable-cite
-    - collaboration/research-infrastructure-roles/rse
-    - collaboration/research-infrastructure-roles/rse-personal-story
-    - collaboration/maintain-review
-    - project-design/project-repo/project-repo-advanced
-    - reproducible-research/reproducible-research
-    - reproducible-research/overview
-    - reproducible-research/open
-    - reproducible-research/open/open-data
-    - reproducible-research/open/open-source
-    - reproducible-research/vcs
-    - reproducible-research/licensing
-    - reproducible-research/code-quality
-    - reproducible-research/testing
-    - reproducible-research/reviewing
-    - reproducible-research/renv
-    - reproducible-research/ci
-    - project-design/project-repo
+    - communication/citable/citable-otherscite.md
+    - communication/citable/citable-cite.md
+    - collaboration/research-infrastructure-roles/rse.md
+    - collaboration/research-infrastructure-roles/rse-personal-story.md
+    - collaboration/maintain-review.md
+    - project-design/project-repo/project-repo-advanced.md
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-data.md
+    - reproducible-research/open/open-source.md
+    - reproducible-research/vcs.md
+    - reproducible-research/licensing.md
+    - reproducible-research/code-quality.md
+    - reproducible-research/testing.md
+    - reproducible-research/reviewing.md
+    - reproducible-research/renv.md
+    - reproducible-research/ci.md
+    - project-design/project-repo.md
   colour: white
   description: >
     Research Software Engineers are programmers working in an academic context
@@ -84,23 +84,23 @@
     practices important for working with data and developing software tools.
 - name: Software Citation
   files:
-    - communication/citable/citable-steps
-    - communication/citable/citable-cite
-    - communication/citable/citable-cff
-    - communication/citable/citable-cffinit
-    - communication/citable/citable-linking
-    - communication/citable/citable-orcid
-    - communication/citable/citable-resources
-    - communication/citable/citable-otherscite
-    - reproducible-research/reproducible-research
-    - reproducible-research/overview
-    - reproducible-research/open
-    - reproducible-research/open/open-source
-    - reproducible-research/licensing
-    - reproducible-research/rdm/rdm-metadata
-    - reproducible-research/rdm/rdm-sharing
-    - reproducible-research/code-reuse
-    - reproducible-research/code-reuse/code-reuse-overview
+    - communication/citable/citable-steps.md
+    - communication/citable/citable-cite.md
+    - communication/citable/citable-cff.md
+    - communication/citable/citable-cffinit.md
+    - communication/citable/citable-linking.md
+    - communication/citable/citable-orcid.md
+    - communication/citable/citable-resources.md
+    - communication/citable/citable-otherscite.md
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-source.md
+    - reproducible-research/licensing.md
+    - reproducible-research/rdm/rdm-metadata.md
+    - reproducible-research/rdm/rdm-sharing.md
+    - reproducible-research/code-reuse.md
+    - reproducible-research/code-reuse/code-reuse-overview.md
   colour: green
   description: >
     From research to government, every sector strongly relies upon the use of
@@ -109,29 +109,29 @@
     and executables while attributing all contributors fairly.
 - name: Multinational Collaboration
   files:
-    - communication/comms-overview
-    - collaboration/remote-collab
-    - collaboration/new-community
-    - collaboration/github-novice
-    - collaboration/maintain-review
-    - collaboration/organising-meetings
-    - collaboration/coworking
-    - collaboration/organising-conference
-    - collaboration/chairing
-    - collaboration/event-tools
-    - project-design/project-design
-    - communication/communication
-    - communication/comms-overview
-    - communication/os-comms
-    - communication/comms-overview/comms-overview-principles
-    - communication/dif-articles
-    - communication/presentations
-    - communication/social-media
-    - collaboration/collaboration
-    - collaboration/github-novice/github-novice-advanced
-    - collaboration/shared-ownership
-    - collaboration/oss-sustainability/oss-sustainability-challenges
-    - ethical-research/ethics-intro
+    - communication/comms-overview.md
+    - collaboration/remote-collab.md
+    - collaboration/new-community.md
+    - collaboration/github-novice.md
+    - collaboration/maintain-review.md
+    - collaboration/organising-meetings.md
+    - collaboration/coworking.md
+    - collaboration/organising-conference.md
+    - collaboration/chairing.md
+    - collaboration/event-tools.md
+    - project-design/project-design.md
+    - communication/communication.md
+    - communication/comms-overview.md
+    - communication/os-comms.md
+    - communication/comms-overview/comms-overview-principles.md
+    - communication/dif-articles.md
+    - communication/presentations.md
+    - communication/social-media.md
+    - collaboration/collaboration.md
+    - collaboration/github-novice/github-novice-advanced.md
+    - collaboration/shared-ownership.md
+    - collaboration/oss-sustainability/oss-sustainability-challenges.md
+    - ethical-research/ethics-intro.md
   colour: green
   description: >
     There would be times when collaboration would be needed across multiple
