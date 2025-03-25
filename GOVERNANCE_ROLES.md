@@ -19,7 +19,7 @@ For overview of how members of *The Turing Way* community collaborate across the
 
 ## Participation and Engagement at the Community Level
 
-The “Community level" ("Operational-level”) participation influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
+At the Community level, participation is compromised of the everyday actions and decisions made by all community members as they participate in the community and contribute to the book.
 Expectations and responsibilities for all members, including Code of Conduct, Contributing Guidelines and Acknowledgements, have been provided and maintained in [_The Turing Way_ Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook).
 
 All contributors to _The Turing Way_ are listed as [Contributors in the README file](https://github.com/the-turing-way/the-turing-way?tab=readme-ov-file#contributors) and invited to optionally share narrative details in the [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md).
