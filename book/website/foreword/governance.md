@@ -19,7 +19,8 @@ Originally described in the context of Studies of the institutional design of na
 
 1. The “Community level" ("Operational-level”) norms influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
 2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community level participation easier.
-3. The "Constitutional-level" norms in Steering Committee by community leaders allow development, approval and establishment of Working Group and project-related norms that affect the whole of the project, community and their sustainability.
+3. At the "Constitutional" level, nominated community leaders from the Maintenance level participate in the Turing Way Steering Committee. 
+The Steering Committee covers decisions at a strategic, whole-project level, such as the establishment of Working Groups, and creating and revising project-related norms that affect the whole of the project, the community and their sustainability.
 
 ```{figure} ../figures/turing-way-governance-2.jpeg
 ---
