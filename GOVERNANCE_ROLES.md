@@ -63,10 +63,10 @@ Specific governance documentation and processes for this level will be developed
 Chairs or a designated representative of the following **Working Groups** (WGs) join the Steering Committee at this level:
 
 - **Community Management Working Group**
-- **Infrastructure WG**
-- **Book Dash WG**
-- **Accessibility WG**
-- **Translation and Localisation WG**
+- **Infrastructure Working Group**
+- **Book Dash Working Group**
+- **Accessibility Working Group**
+- **Translation and Localisation Working Group**
 
 Leads or designated representatives of the **Delivery Groups** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
@@ -75,7 +75,7 @@ Leads or designated representatives of the **Delivery Groups** for the following
 - **JupyterHub -_The Turing Way_ Project**: A CZI-funded project in collaboration with Organizational Mycology to reinvigorate community practices within JupyterHub and share generalisable findings with the wide community via _The Turing Way_.
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
 
-## Previous Contributors to the Maintenance Levels
+## Previous Contributors to the Maintenance Level
 
 The following people are no longer involved in the maintenance level of the project (although they remain very valuable members of the community!)
 You can request contact information through the project members above, or tag them in the GitHub issues and Pull Requests so others can answer if the folks you're looking for are not around.
@@ -128,7 +128,7 @@ Our barrier for entry to participate in _The Turing Way_ is very low.
 | 📢    | Talks                                                                       |
 | 📹    | Videos                                                                      |
 
-If you have contributed in any of the ways above then please ask one of the Project Delivery team members to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
+If you have contributed in any of the ways above then please ask one of the collaborators in *The Turing Way* to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
 
 For details on how we acknowledge different contributions made in _The Turing Way_, please read the chapter on [Acknowledging Contributors](https://book.the-turing-way.org/community-handbook/acknowledgement) in the Community Handbook.
 

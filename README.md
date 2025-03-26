@@ -79,7 +79,7 @@ _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
-The Project Delivery team, currently funded by The Alan Turing Institute support and delivery of the community and project management responsibilities.
+The Project Delivery team, currently funded by The Alan Turing Institute, support and delivery of the community and project management responsibilities.
 The team members are listed in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
 They support the maintenance of a [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) and apply [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) to recognise and credit their contributions in _The Turing Way_.
@@ -111,7 +111,7 @@ The citation for the book will look something like:
 
 > The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI 10.5281/zenodo.3233853.
 
-The citation for our illustration will look something like:
+The citation for our illustrations will look something like:
 
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332807.
 
@@ -132,7 +132,7 @@ Connect with others and discuss your ideas on Slack using [this invitation link]
 We have a *buttondown* mailing list to which we send monthly project updates.
 Subscribe at <https://buttondown.email/turingway/>.
 
-You can also follow us on [Mastodon](https://fosstodon.org/@turingway) and [Linkedin](https://www.linkedin.com/company/the-turing-way/).
+You can also follow us on [Mastodon](https://fosstodon.org/@turingway), [Bluesky](https://bsky.app/profile/turingway.bsky.social) and [Linkedin](https://www.linkedin.com/company/the-turing-way/).
 
 ## Contributors
 
