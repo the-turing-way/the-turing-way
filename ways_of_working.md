@@ -96,7 +96,7 @@ All members, especially at the maintenance and constitution levels, will:
 Anyone who contributes to the book is considered an author in _The Turing Way_.
 The first author is always `The Turing Way Community`.
 
-You don't have to be only contributing to writing a chapter to be listed as an author.
+You don't have to have written a chapter to be listed as an author.
 Substantial contributions to the running of the project, for example, adding in (or improving) documentation on *how* someone can contribute to *The Turing Way*, hosted an event, given a talk or onboarded new members to *The Turing Way*, all count as core contributions warranting authorship.
 
 Contributing small amounts over a long time, and thinking about the strategy for the project also count for authorship.
