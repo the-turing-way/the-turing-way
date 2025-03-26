@@ -6,6 +6,6 @@ This page displays the [`CODE_OF_CONDUCT.md`](https://github.com/the-turing-way/
 ```
 
 ```{include} ../../../../CODE_OF_CONDUCT.md
-:start-after: "# 2 Code of Conduct: Details"
-:end-before: "# 3 Incident Reporting Guidelines"
+:start-after: # 2 Code of Conduct: Details
+:end-before: # 3 Incident Reporting Guidelines
 ```

@@ -8,13 +8,13 @@ This page displays the [`CODE_OF_CONDUCT.md`](https://github.com/the-turing-way/
 ## 3.1 Contact points
 
 ```{include} ../../../../CODE_OF_CONDUCT.md
-:start-after: "## 3.1 Contact points"
-:end-before: "## 3.2 Alternate contact points"
+:start-after: ## 3.1 Contact points
+:end-before: ## 3.2 Alternate contact points
 ```
 
 ## 3.2 Alternate contact points
 
 ```{include} ../../../../CODE_OF_CONDUCT.md
-:start-after: "## 3.2 Alternate contact points"
-:end-before: "# 4 Enforcement Manual"
+:start-after: ## 3.2 Alternate contact points
+:end-before: # 4 Enforcement Manual
 ```
