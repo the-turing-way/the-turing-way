@@ -62,7 +62,7 @@ Specific governance documentation and processes for this level will be developed
 
 Chairs or a designated representative of the following **Working Groups** (WGs) join the Steering Committee at this level:
 
-- **Community Management WG**
+- **Community Management Working Group**
 - **Infrastructure WG**
 - **Book Dash WG**
 - **Accessibility WG**
