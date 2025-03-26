@@ -6,5 +6,5 @@ This page displays the [`ways_of_working.md`](https://github.com/the-turing-way/
 ```
 
 ```{include} ../../../../ways_of_working.md
-:start-after: "# Ways of Working"
+:start-after: # Ways of Working
 ```

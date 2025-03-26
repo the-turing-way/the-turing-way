@@ -6,5 +6,5 @@ This page displays the [`GOVERNANCE_ROLES.md`](https://github.com/the-turing-way
 ```
 
 ```{include} ../../../../GOVERNANCE_ROLES.md
-:start-after: "# Governance Roles in _The Turing Way_"
+:start-after: # Governance Roles in _The Turing Way_
 ```
