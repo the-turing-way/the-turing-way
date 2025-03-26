@@ -183,7 +183,7 @@ They solicit feedback on decisions (such as, via GitHub issues and newsletters) 
 
 #### Community Forums
 
-Starting in 2024, the project leads host open/public community events called 'Community Forums' to discuss governance-related matters with our community members and anyone who is interested in understanding the community and project management aspects of _The Turing Way_.
+Starting in 2024, the project delivery team host open/public community events called 'Community Forums' to discuss governance-related matters with our community members and anyone who is interested in understanding the community and project management aspects of _The Turing Way_.
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made.
 Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements.
 
