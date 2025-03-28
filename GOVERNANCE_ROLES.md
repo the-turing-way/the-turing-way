@@ -55,9 +55,9 @@ Members participating in different Working Groups and projects carried out in _T
 
 ## Representation at Constitution Level Steering Committee
 
-"Constitutional-level" participation in the Steering Committee by community leaders allow the development, approval and establishment of Working Group and project-related norms that affect the entire project, community and their sustainability.
+"Constitutional-level" participation in the Steering Committee by community leaders allows the development, approval and establishment of Working Group and project-related norms that affect the entire project, community and sustainability.
 
-Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level, which also apply to constitution level.
+Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at the maintenance level, which also applies to the constitution level.
 Specific governance documentation and processes for this level will be developed with the founding members of the Steering Committee in 2025.
 
 Chairs or a designated representative of the following **Working Groups** join the Steering Committee at this level:
@@ -71,7 +71,6 @@ Chairs or a designated representative of the following **Working Groups** join t
 Leads or designated representatives of the **Delivery Groups** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
 - **_The Turing Way_ Practitioners Hub**, a Turing Way project under the Innovate UK BridgeAI initiative that engages with industries in sharing and adopting best practices for data science and AI.
-- **Software Sustainability Institute Fellows Projects**, that are defined to be conducted in collaboration with _The Turing Way_ project delivery or community members.
 - **JupyterHub -_The Turing Way_ Project**: A CZI-funded project in collaboration with Organizational Mycology to reinvigorate community practices within JupyterHub and share generalisable findings with the wide community via _The Turing Way_.
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
 
