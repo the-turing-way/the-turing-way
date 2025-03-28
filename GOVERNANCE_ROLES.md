@@ -1,6 +1,6 @@
 # Governance Roles in _The Turing Way_
 
-Governance in *The Turing Way* occur across three institutional levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
+Governance in *The Turing Way* occurs across three institutional levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
 
 This document provides details about the governance roles and members collaborating across all levels of governance in _The Turing Way_.
 
@@ -19,7 +19,7 @@ For overview of how members of *The Turing Way* community collaborate across the
 
 ## Participation and Engagement at the Community Level
 
-At the Community level, participation is compromised of the everyday actions and decisions made by all community members as they participate in the community and contribute to the book.
+At the Community level, participation is comprised of the everyday actions and decisions made by all community members as they participate in the community and contribute to the book.
 Expectations and responsibilities for all members, including Code of Conduct, Contributing Guidelines and Acknowledgements, have been provided and maintained in [_The Turing Way_ Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook).
 
 All contributors to _The Turing Way_ are listed as [Contributors in the README file](https://github.com/the-turing-way/the-turing-way?tab=readme-ov-file#contributors) and invited to optionally share narrative details in the [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md).
@@ -37,7 +37,7 @@ Members participating in different Working Groups and projects carried out in _T
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her roles as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her role as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash WG member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
 | Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Various maintainer level roles |
@@ -60,7 +60,7 @@ Members participating in different Working Groups and projects carried out in _T
 Please read [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) for community structure, commitments and resources used by members at maintenance level, which also apply to constitution level.
 Specific governance documentation and processes for this level will be developed with the founding members of the Steering Committee in 2025.
 
-Chairs or a designated representative of the following **Working Groups** (WGs) join the Steering Committee at this level:
+Chairs or a designated representative of the following **Working Groups** join the Steering Committee at this level:
 
 - **Community Management Working Group**
 - **Infrastructure Working Group**
