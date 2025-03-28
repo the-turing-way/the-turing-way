@@ -307,5 +307,5 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 ## Resources
 
-- The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html).
+- The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://gallantries.github.io/) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/).
 - The *Checklist for running a longer event such as a conference or sprint* is a summarised version of the debrief document written by the [chairs of the 1st CarpentryCon conference](https://2018.carpentrycon.org/) organisation committee.
