@@ -143,8 +143,6 @@ In the event that a resolution can't be determined in that time, a member of the
 ## 4.4 Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach a consensus and deadlocks for over a week, Kirstie Whitaker will break the tie.
-If any of the committee members are unable to take part in the discussion due to a conflict of interest, Anna Krystalli, as an external member of the CoC committee, will make the decision.
 
 Possible responses may include:
 
@@ -155,7 +153,7 @@ Possible responses may include:
 * A private in-person conversation between a member of the committee and the individual(s) involved.
   In this case, the person who has the conversation will provide a written summary for record keeping.
 * A private written reprimand from a member of the committee to the individual(s) involved.
-  In this case, the committee member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
+  In this case, the committee member will deliver that reprimand to the individual(s) over email for record keeping.
 * A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; and GitHub for a GitHub violation).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
