@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements.in
 #
-anyio==4.8.0
+anyio==4.9.0
     # via jupyter-server
 appnope==0.1.4
     # via ipykernel
@@ -16,7 +16,7 @@ arrow==1.3.0
     # via isoduration
 asttokens==3.0.0
     # via stack-data
-attrs==25.1.0
+attrs==25.3.0
     # via
     #   jsonschema
     #   referencing
@@ -42,9 +42,9 @@ cycler==0.12.1
     # via matplotlib
 datascience==0.17.6
     # via -r requirements.in
-debugpy==1.8.12
+debugpy==1.8.13
     # via ipykernel
-decorator==5.1.1
+decorator==5.2.1
     # via ipython
 defusedxml==0.7.1
     # via nbconvert
@@ -52,7 +52,7 @@ executing==2.2.0
     # via stack-data
 fastjsonschema==2.21.1
     # via nbformat
-folium==0.19.4
+folium==0.19.5
     # via
     #   -r requirements.in
     #   datascience
@@ -67,15 +67,17 @@ idna==3.10
     #   requests
 ipykernel==6.29.5
     # via jupyter-book
-ipython==8.32.0
+ipython==9.0.2
     # via
     #   datascience
     #   ipykernel
+ipython-pygments-lexers==1.1.1
+    # via ipython
 isoduration==20.11.0
     # via jsonschema
 jedi==0.19.2
     # via ipython
-jinja2==3.1.5
+jinja2==3.1.6
     # via
     #   -r requirements.in
     #   branca
@@ -90,7 +92,7 @@ jsonschema[format-nongpl]==4.23.0
     #   nbformat
 jsonschema-specifications==2024.10.1
     # via jsonschema
-jupyter-book==2.0.0a2
+jupyter-book==2.0.0a3
     # via -r requirements.in
 jupyter-client==8.6.3
     # via
@@ -122,7 +124,7 @@ markupsafe==3.0.2
     # via
     #   jinja2
     #   nbconvert
-matplotlib==3.10.0
+matplotlib==3.10.1
     # via
     #   -r requirements.in
     #   datascience
@@ -134,9 +136,9 @@ mdurl==0.1.2
     # via markdown-it-py
 mdutils==1.6.0
     # via pathways
-mistune==3.1.2
+mistune==3.1.3
     # via nbconvert
-narwhals==1.27.1
+narwhals==1.32.0
     # via plotly
 nbclient==0.10.2
     # via nbconvert
@@ -151,7 +153,7 @@ nest-asyncio==1.6.0
     # via ipykernel
 nodeenv==1.9.1
     # via jupyter-book
-numpy==2.2.3
+numpy==2.2.4
     # via
     #   -r requirements.in
     #   contourpy
@@ -184,11 +186,11 @@ pexpect==4.9.0
     # via ipython
 pillow==11.1.0
     # via matplotlib
-platformdirs==4.3.6
+platformdirs==4.3.7
     # via
     #   jupyter-book
     #   jupyter-core
-plotly==6.0.0
+plotly==6.0.1
     # via datascience
 prometheus-client==0.21.1
     # via jupyter-server
@@ -207,8 +209,9 @@ pycparser==2.22
 pygments==2.19.1
     # via
     #   ipython
+    #   ipython-pygments-lexers
     #   nbconvert
-pyparsing==3.2.1
+pyparsing==3.2.3
     # via matplotlib
 python-dateutil==2.9.0.post0
     # via
@@ -216,15 +219,15 @@ python-dateutil==2.9.0.post0
     #   jupyter-client
     #   matplotlib
     #   pandas
-python-json-logger==3.2.1
+python-json-logger==3.3.0
     # via jupyter-events
-pytz==2025.1
+pytz==2025.2
     # via pandas
 pyyaml==6.0.2
     # via
     #   jupyter-events
     #   pathways
-pyzmq==26.2.1
+pyzmq==26.3.0
     # via
     #   ipykernel
     #   jupyter-client
@@ -244,7 +247,7 @@ rfc3986-validator==0.1.1
     # via
     #   jsonschema
     #   jupyter-events
-rpds-py==0.22.3
+rpds-py==0.23.1
     # via
     #   jsonschema
     #   referencing
@@ -292,7 +295,7 @@ types-python-dateutil==2.9.0.20241206
     # via arrow
 typing-extensions==4.12.2
     # via beautifulsoup4
-tzdata==2025.1
+tzdata==2025.2
     # via pandas
 uri-template==1.3.0
     # via jsonschema
