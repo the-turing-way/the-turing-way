@@ -133,7 +133,7 @@ For example by labelling networking tables with a topic, or putting only names a
 
 Consider the ethos and values that your event and community holds when planning what research to invite and uplift at your event.
 Research projects have historically been focused on academic interest and the pursuit of knowledge without considering the goals and needs of communities with lived experience. 
-For example, autistic and deaf people have emphasised that their communities do not prioritize searchs for a cure because of the experience, culture, language they have and the validity of their identities. 
+For example, autistic and deaf people have emphasised that their communities do not prioritize searches for a cure because of the experience, culture, language they have and the validity of their identities. 
 Instead their communities advocate for their involvement in research that addresses and improves their lived experience and quality of life. 
 By highlighting research that aligns with the goals and values of your community, your event can contribute to the balancing and awareness of the power dynamic between researchers and public contributors. 
 
@@ -223,7 +223,7 @@ These additional costs could be:
 - Honorariums for speakers, facilitators, and note-takers if they are needed for your event.
 - Support for accessibility practices such as a Sign Language Interpreter.
 - Reimbursements for accessible transport (for example, taxis can often be more expensive than public transport but may be required depending on the location of your event).
-- Provide funds to cover costs of reliable internet access to remote meetings for people in low-bandwith environments.
+- Provide funds to cover costs of reliable internet access to remote meetings for people in low-bandwidth environments.
 
 It is important to create a clear policy for what activities and costs can be covered by an Accessibility Fund. 
 

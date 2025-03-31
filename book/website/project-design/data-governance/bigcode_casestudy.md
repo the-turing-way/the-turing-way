@@ -48,7 +48,7 @@ Selecting repositories based on licenses is only the first step, however, so thi
 
 #### Data Access
 - **What data can be accessed**: the 6.4TB of processed data can be accessed through the Hugging Face Hub, while the original 102TB are only accessible to the stewards of the project for the purposes of enabling the research and to support future internal and external requirements that may arise, for example to search the full dataset to recall licenses, determine code provenance, and attribution.
-- **Conditions for data accesss**: users are able to inspect the dataset via the [Dataset Card](https://huggingface.co/datasets/bigcode/the-stack#dataset-card-for-the-stack), but are required to agree to the Terms of Use for The Stack before being able to download it.
+- **Conditions for data access**: users are able to inspect the dataset via the [Dataset Card](https://huggingface.co/datasets/bigcode/the-stack#dataset-card-for-the-stack), but are required to agree to the Terms of Use for The Stack before being able to download it.
   This includes the requirements to:
     1. abide by the terms of original source code licenses, including attribution clauses when required (The Stack provides provenance information for each data point)
     2. agree to update copies of The Stack to the most recent usable version specified [here](https://huggingface.co/datasets/bigcode/the-stack/discussions/7)

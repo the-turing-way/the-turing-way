@@ -160,7 +160,6 @@
     - project-design/missing-data
     - project-design/risks-of-bias
     - communication/communication
-    - communication/comms-overview
     - communication/os-comms
     - communication/dif-articles
     - communication/presentations
@@ -169,7 +168,6 @@
     - communication/citable/citable-steps
     - communication/aa
     - collaboration/remote-collab
-    - collaboration/new-community
     - collaboration/github-novice
     - collaboration/maintain-review
     - collaboration/organising-meetings
@@ -183,8 +181,6 @@
     - collaboration/stakeholder-engagement
     - ethical-research/ethics-intro
     - ethical-research/law-policy
-    - ethical-research/internal-policy
-    - ethical-research/data-hazards
     - ethical-research/ethics-open-source-governance
   colour: green
   description: >

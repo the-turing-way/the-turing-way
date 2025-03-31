@@ -30,7 +30,7 @@ Register here to attend: [add registration page link].
 - [ ] Create a flyer to share on social media using [this template](https://docs.google.com/presentation/d/1Fx2WcVvGX6dM3z74VDQp_UD8edKp6Phl/edit?usp=sharing&ouid=102682705838770934280&rtpof=true&sd=true)
 - [ ] Coordinate on Slack with the speakers if they are happy with the announcements and if their info is correct
 - [ ] Announce at least 3-4 weeks in advance on Slack, Newsletter, Twitter and different talks
-- [ ] Add information to the Intro hackmd: https://hackmd.io/@turingway/demo-intro
+- [ ] Add information to the Intro hackmd: https://hackmd.io/\@turingway/demo-intro
 - [ ] Hosts will define an agenda and questions for the session - hosts will also allocate some questions for each other to speak on
 - [ ] Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin
 - [ ] Plan with cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)
@@ -57,7 +57,7 @@ Register here to attend: [add registration page link].
 ## After the session
 
 - [ ] Send a thank you email to the speakers - within 1 day
-- [ ] Archive all notes here: https://hackmd.io/@turingway/fireside-chats
+- [ ] Archive all notes here: https://hackmd.io/\@turingway/fireside-chats
 - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
 - [ ] Upload the video on The Turing Way youtube - label and annotate well, and add the flyer as the video's front page
 - [ ] Share the published videos with the speakers

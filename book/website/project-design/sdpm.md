@@ -5,7 +5,7 @@
 ---
 height: 500px
 name: Dealing with sensitive data
-alt: The image shows a traing taking a different track when delaing with sensitive data. This includes encyrption, consent, de-identification, synthetic data and data safe havens.
+alt: The image shows a training taking a different track when delaying with sensitive data. This includes encryption, consent, de-identification, synthetic data and data safe havens.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
