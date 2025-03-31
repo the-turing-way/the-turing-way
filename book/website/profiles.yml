@@ -163,7 +163,6 @@
     - communication/os-comms
     - communication/dif-articles
     - communication/presentations
-    - communication/social-media
     - communication/research-objects
     - communication/citable/citable-steps
     - communication/aa
@@ -182,6 +181,7 @@
     - ethical-research/ethics-intro
     - ethical-research/law-policy
     - ethical-research/ethics-open-source-governance
+    - ethical-research/cultural-change/cc-examples
   colour: green
   description: >
     For effective collaboration among international groups,
