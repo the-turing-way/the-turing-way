@@ -48,10 +48,9 @@ These chapters have been co-authored by contributors who are students, researche
 
 - [_The Turing Way_](#the-turing-way)
     - [About the Project](#about-the-project)
-    - [The Team](#the-team)
+    - [Project Delivery Team](#project-delivey-team)
     - [Contributing](#contributing)
-    - [Citing _The Turing Way_](#citing-the-turing-way)
-    - [Citing _The Turing Way_ Illustrations](#citing-the-turing-way-illustrations)
+    - [Citing](#citing)
     - [Get in Touch](#get-in-touch)
       - [Email](#email)
       - [Chat](#chat)
@@ -74,16 +73,16 @@ _The Turing Way_ is a handbook to support students, their supervisors, funders a
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: <https://github.com/the-turing-way/the-turing-way>.
 
-### The Team
+### Project Delivery Team
 
 _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
-Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
+Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
-The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
-**Anne Lee Steele** is the Community Manager of The Turing Way since March 2022. **Léllé Demertzi** has been the Research Project Manager since October 2024. **Alexandra Araujo Alvarez** was the Research Project Manager between February 2023 and April 2024.
+The Project Delivery team, currently funded by The Alan Turing Institute, support and delivery of the community and project management responsibilities.
+The team members are listed in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
-You can read [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
+They support the maintenance of a [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) and apply [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) to recognise and credit their contributions in _The Turing Way_.
 Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.
 
 ### Contributing
@@ -105,42 +104,18 @@ We have created a [promotion pack](https://github.com/the-turing-way/the-turing-
 
 ### Citing _The Turing Way_
 
-We release the latest version of _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
-This DOI is a "[concept DOI](https://help.zenodo.org)" which means it will always resolve to the latest version.
-If you need to cite a specific version you can find those DOIs at the zenodo page above. 
-DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
+All materials in _The Turing Way_ are available under a CC-BY 4.0 licence.
+For details about citing _The Turing Way_ resources, please refer to the [cite _The Turing Way_ chapter](https://book.the-turing-way.org/foreword/cite) in the Foreword of the book.
 
-The citation will look something like this:
-> The Turing Way Community. (2021, November 10). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. [http://doi.org/10.5281/zenodo.3233853](http://doi.org/10.5281/zenodo.3233853)
+The citation for the book will look something like:
 
+> The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI 10.5281/zenodo.3233853.
 
-To see our workflow for making releases for different versions and to suggest improvements, please head over to the [release workflow document](./release-workflow.md).
+The citation for our illustrations will look something like:
 
-You can share the human-readable URL to a page in the book, for example, <https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html>, but be aware that the project is under development and therefore these links may update over time.
-You might want to include a web archive link such as <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
+> The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332807.
 
-We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
-If you have any questions please [get in touch](#get-in-touch).
-
-### Citing _The Turing Way_ Illustrations
-
-<p align="center">
-  <img src="book/website/figures/evolution-open-research.png" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
-</p>
-
-_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) in Manchester on 17 May 2019, London on 28 May 2019 and 21 February 2020, and online on 27th November 2020 and 28th May 2021.
-They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
-These illustrations are available on Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807) under a CC-BY license.
-
-When using any of the images, please include the following attribution:
-
-> This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence.
-
-The latest version from Zenodo can be cited as:
-
-> The Turing Way Community, & Scriberia. (2021, May 29). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.4906004
-
-We have used a few of these illustrations in the [Welcome Bot](https://github.com/apps/welcome)'s responses to new members' contributions in this GitHub repository.
+You can cite other assets shared by _The Turing Way_ community using DOI listed in the project's Zenodo community page: [zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way).
 
 ### Get in Touch
 
@@ -148,21 +123,16 @@ We have used a few of these illustrations in the [Welcome Bot](https://github.co
 
 You can contact *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) or [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
-You can also contact **Anne Lee Steele** ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)), **Malvika Sharan** ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)), **Alexandra Araujo Alvarez** ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujoalvarez@turing.ac.uk)) or **Kirstie Whitaker** ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)).
-
-
 #### Chat
 
 Connect with others and discuss your ideas on Slack using [this invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
-
-The room is also accessible with a [Matrix](https://matrix.org) account at [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
 #### Receive Updates
 
 We have a *buttondown* mailing list to which we send monthly project updates.
 Subscribe at <https://buttondown.email/turingway/>.
 
-You can also follow us on Twitter ([@turingway](https://twitter.com/turingway)), [Mastodon](https://fosstodon.org/@turingway) and [Linkedin](https://www.linkedin.com/company/the-turing-way/).
+You can also follow us on [Mastodon](https://fosstodon.org/@turingway), [Bluesky](https://bsky.app/profile/turingway.bsky.social) and [Linkedin](https://www.linkedin.com/company/the-turing-way/).
 
 ## Contributors
 
@@ -914,6 +884,14 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
       <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/179/medium/a45b69ebaf4c8c652b42628022584fc2.png" />
+        <br />
+        <sub><b>VITOR LUCIANO COSTA DA SILVA (vitor.silva7)</b></sub>
+        <br />
+        <sub><b>2455 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
+      <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/135/medium/d8c65f8d4d1289eb0116d654ebd1fa7d_default.png" />
         <br />
         <sub><b>node</b></sub>
@@ -930,6 +908,16 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="French">fr</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
       </td>
       <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/137/medium/0db9c41e4579dc47c5a289315ca6e016.jpeg" />
+        <br />
+        <sub><b>João Vitor (jvfe)</b></sub>
+        <br />
+        <sub><b>1487 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/5/medium/463393d04547cd1067cccdb0cf0e33c7.jpeg" />
         <br />
         <sub><b>acocac</b></sub>
@@ -945,8 +933,14 @@ Contributions of any kind welcome!
         <sub><b>1259 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
+      <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
+        <br />
+        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
+        <br />
+        <sub><b>1110 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/20/medium/32627112ab709769f5d1406937ed9558.jpg" />
         <br />
@@ -963,6 +957,8 @@ Contributions of any kind welcome!
         <sub><b>1043 words</b></sub>
         <br /><sub><b><code title="Japanese">ja</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/108/medium/b060f6c4b504d701c36d4b384e612dd4_default.png" />
         <br />
@@ -987,8 +983,6 @@ Contributions of any kind welcome!
         <sub><b>879 words</b></sub>
         <br /><sub><b><code title="Chinese Simplified">zh-CN</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/18/medium/4eaefb611f9a4efb0dbe090002e56c31_default.png" />
         <br />
@@ -1005,6 +999,8 @@ Contributions of any kind welcome!
         <sub><b>840 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/52/medium/1270d5b75e2b6b35d222b9e1c19b973f_default.png" />
         <br />
@@ -1029,8 +1025,6 @@ Contributions of any kind welcome!
         <sub><b>1274 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/66/medium/48ff46079939fb7bebca7186552ad3fc.jpeg" />
         <br />
@@ -1047,6 +1041,8 @@ Contributions of any kind welcome!
         <sub><b>372 words</b></sub>
         <br /><sub><b><code title="French">fr</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/86/medium/591f614a9b9be8d2ec9b04e63699a377.jpeg" />
         <br />
@@ -1071,8 +1067,6 @@ Contributions of any kind welcome!
         <sub><b>2134 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/131/medium/0b582d612e2a4062b069a758f2534430.jpeg" />
         <br />
@@ -1089,6 +1083,8 @@ Contributions of any kind welcome!
         <sub><b>230 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/48/medium/42082ab79726e9cee6033ad20c017722.jpeg" />
         <br />
@@ -1113,8 +1109,6 @@ Contributions of any kind welcome!
         <sub><b>231 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/54/medium/49e7cf2ae4b97bc5dca7c2d848e84117.png" />
         <br />
@@ -1130,6 +1124,16 @@ Contributions of any kind welcome!
         <br />
         <sub><b>164 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/184/medium/7c26b64a5d9766cfc274eac3f0dc10b1.jpeg" />
+        <br />
+        <sub><b>João Pitta (jlpitta82)</b></sub>
+        <br />
+        <sub><b>108 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/92/medium/8d9e7e27ed54c88f71729cea1b8d98b0_default.png" />
@@ -1155,8 +1159,6 @@ Contributions of any kind welcome!
         <sub><b>77 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/154/medium/ca8fba23cbd0d3868c752404f7347b04.png" />
         <br />
@@ -1165,6 +1167,8 @@ Contributions of any kind welcome!
         <sub><b>71 words</b></sub>
         <br /><sub><b><code title="Bengali">bn</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/62/medium/ba0593097d63731f2da78ae9e0ed3296.jpeg" />
         <br />
@@ -1188,6 +1192,14 @@ Contributions of any kind welcome!
         <br />
         <sub><b>36 words</b></sub>
         <br /><sub><b><code title="French">fr</code></b></sub>
+      </td>
+      <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/182/medium/71cf117221f1d2361873154d4ad25758.png" />
+        <br />
+        <sub><b>Alicia Melo (aliemelo)</b></sub>
+        <br />
+        <sub><b>30 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/72/medium/137b4d9172d1ad8ed62737ac8e13a045_default.png" />
@@ -1214,14 +1226,6 @@ Contributions of any kind welcome!
         <br />
         <sub><b>4 words</b></sub>
         <br /><sub><b><code title="Spanish, Latin America">es-419</code></b></sub>
-      </td>
-      <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/137/medium/0db9c41e4579dc47c5a289315ca6e016.jpeg" />
-        <br />
-        <sub><b>João Vitor (jvfe)</b></sub>
-        <br />
-        <sub><b>1 words</b></sub>
-        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
     </tr>
   </tbody>
