@@ -54,7 +54,7 @@ It is important to create shared notes, but also to save them to share with othe
 Often online calendars sent out to all invitees allows them to accept, decline or tentatively indicate to organisers if they can attend a meeting or an event.
 It's especially important when the events are intended for a large group of people.
 
-Other way for formal registrations can be set up to collect centralised statistics or data regarding the participants' availability, as well as if they have sepecific requirements such as related to meals, accessibility, travel requirements or accommodations if the event is taking place online:
+Other way for formal registrations can be set up to collect centralised statistics or data regarding the participants' availability, as well as if they have specific requirements such as related to meals, accessibility, travel requirements or accommodations if the event is taking place online:
 - [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Zoom provides an automatic brief form before receiving the link to join your webinar.
 - [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website that allows use of standard forms with customised questions that organisers might need to know about their attendees. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free.
 - [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows registration/data collection that can be automatically entered into a spreadsheet.

@@ -73,9 +73,9 @@ This ensures that your new content is accessible, and fits the overall style, st
 (ch-contributing-workflow-toc)=
 ## Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `_toc.yml` [file](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_toc.yml).
+The book-wide table of contents lives in the `myst.yml` [file](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/myst.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
-Your chapter's files should be added to the `_toc.yml` as appropriate.
+Your chapter's files should be added to the `myst.yml` as appropriate.
 
 For example, because the [Statistical Methods Manuscript](https://book.the-turing-way.org/reproducible-research/case-studies/statistical-methods-manuscript.html) case study belongs to the Guide for Reproducible Research, it was added to the table of contents as follows:
 
