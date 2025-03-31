@@ -1,2 +1,2 @@
-jupyter-book>=2.0.0a2
+jupyter-book>=2.0.0a3
 git+https://github.com/the-turing-way/pathways.git@v0.3.1
