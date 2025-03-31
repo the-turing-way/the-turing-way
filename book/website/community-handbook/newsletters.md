@@ -13,6 +13,7 @@ The main purpose and motivations for publishing these newsletters are the follow
 4. Maintain ongoing connections with the subscribed members
 
 Newsletters are drafted by *The Turing Way* Research Community Manager with contributions from the project team and the community.
-Currently, Anne Lee Steele drafts the newsletters that are proofread and co-published with Malvika Sharan and Kirstie Whitaker.
+Currently, Anne Lee Steele drafts the newsletters including updates from the project delivery team and news items contributed by the community members.
+Throughout 2025, we will be decentralising newsletter writing to the Community Management Working Group, a volunteer-managed group within the community
 
 In this chapter, we share the process we have established in _The Turing Way_ for collecting news items, drafting the newsletter, documenting any additional updates shared by community members and publishing them through Buttondown.
