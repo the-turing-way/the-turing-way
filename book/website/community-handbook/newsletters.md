@@ -12,7 +12,7 @@ The main purpose and motivations for publishing these newsletters are the follow
 3. Share information about any upcoming events and opportunities for our members
 4. Maintain ongoing connections with the subscribed members
 
-Newsletters are drafted by *The Turing Way* Research Community Manager with contributions from the project team and the community.
+As of March 2025, newsletters are drafted by *The Turing Way* Research Community Manager with contributions from the project team and the community.
 Currently, Anne Lee Steele drafts the newsletters including updates from the project delivery team and news items contributed by the community members.
 Throughout 2025, we will be decentralising newsletter writing and sending to the Community Management Working Group, a volunteer-managed group within the community for regular updates.
 
