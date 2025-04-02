@@ -1,6 +1,7 @@
 - name: Early Career Researchers
   files:
     - project-design/project-design.md
+    - project-design/pd-checklist.md
     - collaboration/github-novice.md
     - project-design/project-repo.md
     - project-design/pd-overview.md
@@ -34,19 +35,24 @@
     ensure research reproducibility.
 - name: Project Leaders
   files:
+    - collaboration/collaboration.md
     - collaboration/leadership.md
     - project-design/project-design.md
-    - project-design/project-repo.md
     - project-design/pd-overview/pd-overview-planning.md
     - project-design/pd-overview/pd-overview-repro.md
     - project-design/pd-overview/pd-overview-methods.md
     - project-design/pd-overview/pd-overview-version.md
+    - project-design/pd-checklist.md
+    - project-design/project-repo.md
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview/overview-definitions.md
     - reproducible-research/overview/overview-barriers.md
     - reproducible-research/open.md
     - reproducible-research/open/open-data.md
     - reproducible-research/open/open-source.md
+    - communication/communication.md
+    - communication/aa.md
+    - communication/aa/aa-tips.md
   colour: purple
   description: >
     Project leaders are people who are responsible for project planning,
@@ -57,11 +63,15 @@
     practices throughout the lifecycle of research.
 - name: Research Software Engineers
   files:
+    - communication/citable.md
     - communication/citable/citable-otherscite.md
     - communication/citable/citable-cite.md
+    - collaboration/collaboration.md
+    - collaboration/research-infrastructure-roles.md
     - collaboration/research-infrastructure-roles/rse.md
     - collaboration/research-infrastructure-roles/rse-personal-story.md
     - collaboration/maintain-review.md
+    - project-design/project-repo.md
     - project-design/project-repo/project-repo-advanced.md
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview.md
@@ -74,8 +84,8 @@
     - reproducible-research/testing.md
     - reproducible-research/reviewing.md
     - reproducible-research/renv.md
+    - reproducible-research/binderhub.md
     - reproducible-research/ci.md
-    - project-design/project-repo.md
   colour: white
   description: >
     Research Software Engineers are programmers working in an academic context
@@ -84,6 +94,7 @@
     practices important for working with data and developing software tools.
 - name: Software Citation
   files:
+    - communication/citable.md
     - communication/citable/citable-steps.md
     - communication/citable/citable-cite.md
     - communication/citable/citable-cff.md
@@ -107,11 +118,56 @@
     research software. This curated set of chapters guides the sharing and
     citation of software components from source code to computational workflows
     and executables while attributing all contributors fairly.
-- name: Multinational Collaboration
+- name: Data Science Without Borders
   files:
-    - communication/comms-overview.md
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview/overview-definitions.md
+    - reproducible-research/vcs.md
+    - reproducible-research/vcs/vcs-checklist.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-source.md
+    - reproducible-research/open/open-data.md
+    - reproducible-research/open/open-hardware.md
+    - reproducible-research/open/open-access.md
+    - reproducible-research/open/open-scholarship.md
+    - reproducible-research/licensing.md
+    - reproducible-research/rdm.md
+    - reproducible-research/rdm/rdm-dmp.md
+    - reproducible-research/rdm/rdm-fair.md
+    - reproducible-research/rdm/rdm-metadata.md
+    - reproducible-research/rdm/rdm-spreadsheets.md
+    - reproducible-research/rdm/rdm-data-curation.md
+    - reproducible-research/rdm/rdm-sharing.md
+    - reproducible-research/rdm/rdm-checklist.md
+    - reproducible-research/code-documentation.md
+    - reproducible-research/testing.md
+    - reproducible-research/testing/testing-overview.md
+    - reproducible-research/testing/testing-checklist.md
+    - reproducible-research/code-quality.md
+    - reproducible-research/code-quality/code-quality-style.md
+    - reproducible-research/reviewing/reviewing-workflow.md
+    - reproducible-research/reviewing/reviewing-checklist.md
+    - reproducible-research/code-reuse/code-reuse-details.md
+    - project-design/project-design.md
+    - project-design/pd-checklist.md
+    - project-design/project-repo.md
+    - project-design/filenaming.md
+    - project-design/sdp.md
+    - project-design/sdp/metadata.md
+    - project-design/sdpm.md
+    - project-design/sdpw.md
+    - project-design/data-governance.md
+    - project-design/missing-data.md
+    - project-design/risks-of-bias.md
+    - communication/communication.md
+    - communication/os-comms.md
+    - communication/dif-articles.md
+    - communication/presentations.md
+    - communication/research-objects.md
+    - communication/citable/citable-steps.md
+    - communication/aa.md
+    - community-handbook/translation/translation-localisation.md
     - collaboration/remote-collab.md
-    - collaboration/new-community.md
     - collaboration/github-novice.md
     - collaboration/maintain-review.md
     - collaboration/organising-meetings.md
@@ -119,23 +175,19 @@
     - collaboration/organising-conference.md
     - collaboration/chairing.md
     - collaboration/event-tools.md
-    - project-design/project-design.md
-    - communication/communication.md
-    - communication/comms-overview.md
-    - communication/os-comms.md
-    - communication/comms-overview/comms-overview-principles.md
-    - communication/dif-articles.md
-    - communication/presentations.md
-    - communication/social-media.md
     - collaboration/collaboration.md
-    - collaboration/github-novice/github-novice-advanced.md
     - collaboration/shared-ownership.md
-    - collaboration/oss-sustainability/oss-sustainability-challenges.md
+    - collaboration/team-manual.md
+    - collaboration/stakeholder-engagement.md
     - ethical-research/ethics-intro.md
+    - ethical-research/law-policy.md
+    - ethical-research/ethics-open-source-governance.md
+    - ethical-research/cultural-change.md
   colour: green
   description: >
-    There would be times when collaboration would be needed across multiple
-    nations to build, nurture, and strengthen best practices in open
-    science/source. These curated chapters are a guide to aid this
-    collaboration and foster a practice that would guarantee the best possible
-    outcomes.
+    For effective collaboration among international groups,
+    such as in the Data Science Without Borders project,
+    it is essential to learn, adopt, and implement best practices
+    in open, reproducible, ethical, and inclusive data science.
+    These curated chapters will provide starting points, helping
+    you navigate a broader set of practices in The Turing Way.
