@@ -47,7 +47,7 @@ jobs:
         working-directory: ./book
 
       - name: Build Jupyter-Book with warnings raised to errors
-        run: make strict
+        run: make ci
         working-directory: ./book
 
   build-pathways:
@@ -69,6 +69,10 @@ jobs:
 
       - name: Run pathways script
         run: make pathways
+        working-directory: ./book
+
+      - name: Build Jupyter-Book with warnings raised to errors
+        run: make ci
         working-directory: ./book
 
   offline-link-check:

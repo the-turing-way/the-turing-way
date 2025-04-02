@@ -4,14 +4,26 @@ deps:
 	python -m pip install --upgrade pip
 	pip install -r ./website/requirements.txt
 
+upgrade:
+	python -m pip install --upgrade pip
+	pip install pip-tools
+	pip-compile --upgrade ./website/requirements.in
+	pip-sync ./website/requirements.txt
+
 book:
-	jupyter-book build ./website
+	cd website && jupyter-book build --html
+
+serve:
+	cd website && jupyter-book start
 
 strict:
-	jupyter-book build ./website -W --keep-going
+	cd website && jupyter-book build --html --strict
+
+ci:
+	cd website && jupyter-book build --html --ci
 
 pathways:
-	pathways --build ./website/
+	pathways ./website/
 
 clean:
 	jupyter-book clean -a ./website
