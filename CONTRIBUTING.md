@@ -320,22 +320,8 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 
 ## Local development
 
-You can build and host the book website locally. The steps are:
-
-### To build book locally
-
-1. Install the required software to build the book, optionally in a [virtual environment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments):
-
-   ```
-   pip install -r book/website/requirements.txt
-   ```
-
-2. You can now build or refresh the book using:
-
-   ```
-   cd ./book/website
-   jupyter-book build .
-   ```
+You can build and host the book website locally. 
+The steps are described in [this section](https://book.the-turing-way.org/community-handbook/local-build) of the The Turing Way.
 
 ## Style Guide
 
