@@ -316,7 +316,6 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
 - Once this is complete merge the pull request into _The Turing Way_'s version of the chapter branch.
 - Merge _The Turing Way_'s version of the chapter branch into _The Turing Way_'s main branch.
-- DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
 
