@@ -49,7 +49,7 @@ Here are some examples:
 ## Benefits of illustrations and why hire a professional scribe
 
 *The Turing Way* chapters often include research or scientific concepts described by professionals. 
-As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts. 
+As experts, many of us do not always effectively communicate our ideas in simple terms for people who are new to those research concepts. 
 This is where illustrations are quite powerful at communicating complex ideas simply.
 
 Simple images, tables and flow charts are something that many of us can create. 
