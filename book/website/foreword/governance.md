@@ -17,8 +17,8 @@ We are very keen to discuss and improve our governance approaches with the invol
 In 2023-2024, _The Turing Way_ adopted three institutional "levels".
 Originally described in the context of Studies of the institutional design of natural resource commons{cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making{cite}`Schweik2007commons`.
 
-1. The “Community level" ("Operational-level”) norms influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
-2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community level participation easier.
+1. The “Community level" norms influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
+2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community-level participation easier.
 3. At the "Constitutional" level, nominated community leaders from the Maintenance level participate in the Turing Way Steering Committee. 
 The Steering Committee covers decisions at a strategic, whole-project level, such as the establishment of Working Groups, and creating and revising project-related norms that affect the whole of the project, the community and their sustainability.
 
@@ -26,9 +26,9 @@ The Steering Committee covers decisions at a strategic, whole-project level, suc
 ---
 width: 500px
 name: turing-way-governance
-alt: Illustration of a woman looking thoughtfully at a map she is holding which has information about community, maintenance and constitution levels. She has a back pack depicting skills and expertise and a campass showing direction for her personal goals. Next to her is a goalpost with diections for project goals, roles and responsibilities, resources and policies, and governance.
+alt: Illustration of a woman looking thoughtfully at a map she is holding which has information about community, maintenance and constitution levels. She has a backpack depicting her skills and expertise and a compass showing the direction of her personal goals. Next to her is a goalpost with directions for project goals, roles and responsibilities, resources and policies, and governance.
 ---
-_The Turing Way_'s governance occur across community, maintenance and constitution levels. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_'s governance occurs across community, maintenance and constitution levels. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 Each level of decision-making should inform and influence each other, both applying and evolving governance processes in order to build transparent and accountable governance of _The Turing Way_.
@@ -45,18 +45,18 @@ We discuss these roles and opportunities so that you can identify the best level
 
 We want to ensure that all roles are recognised and valued in _The Turing Way_.
 Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
-You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
+You can read the details in our community handbook in the [acknowledging contributors] chapter (https://the-turing-way.netlify.app/community-handbook/acknowledgement).
 
 ### 1. Community Level
 
 This level encompasses all members of *The Turing Way* community, both longstanding and new.
-Members may have made contributions to the book, participated in an event or simply engaged as book users, social media followers, Slack Workspace members or as independent advocates of _The Turing Way_.
+Members may have made contributions to the book, participated in an event or simply engaged as book users, social media followers, Slack Workspace members or independent advocates of _The Turing Way_.
 
 ```{admonition} Reminder
 Participation in _The Turing Way_ doesn’t only involve contributions to the Book.
 ```
 
-Decisions and activities undertaken by community level members may include the following: 
+Decisions and activities undertaken by community-level members may include the following: 
 * Making individual contributions such as creating an issue, fixing a bug, committing a change on existing chapters, and reviewing Pull Requests.
 * Joining and inviting new individuals to community meetings such as Collaborations Cafe and Co-working sessions.
 * Presenting about *The Turing Way* at an event.
@@ -75,7 +75,7 @@ Decisions and activities undertaken by community level members may include the f
 We have discussed specific roles under this level in {ref}`fw-community`.
 
 Guidelines and processes for this level are described in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`ch`.
-These processes and resources are co-developed by maintenance level members with the involvement of members from the community and constitution levels as needed.
+These processes and resources are co-developed by maintenance-level members with the involvement of members from the community and constitution levels as needed.
 
 ### Maintenance Level
 
@@ -83,7 +83,7 @@ This level includes Working Groups and members from the projects within the scop
 You can find details about these members in {ref}`fw-governance-roles`.
 
 Decision-making at the maintenance level must stay with the community and stewards of the community participating at this level.
-They are also responsible for making process of participation at the community level transparent for other community members.
+They are also responsible for making the process of participation at the community level transparent for other community members.
 
 Members participating in the constitution-level roles also participate at this level and escalate any decision that affects the broader project and the community functioning, for the constitution-level decision-making.
 
@@ -166,7 +166,6 @@ To ensure accountability and alignment with the overall project and community in
 
 At the time of writing this chapter, the following Delivery Groups are working in collaboration with _The Turing Way_:
 - _The Turing Way_ Practitioners Hub
-- Software Sustainability Institute Fellows Projects
 - JupyterHub - _The Turing Way_ Project
 - Data Science Without Borders
 
