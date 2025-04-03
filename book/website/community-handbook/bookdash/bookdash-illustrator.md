@@ -35,7 +35,7 @@ Alt Text is an important criteria to ensure accessible web design used for descr
 For guidance, please read [Write good Alt Text to describe images](https://accessibility.huit.harvard.edu/describe-content-images) by the Digital Accessibility service of Harvard University.
 
 We encourage using these illustrations not just within *The Turing Way*, but wherever appropriate in the context of science communications or to enhance public engagement with data science and research.
-We already see reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 34,000 downloads at the time of writing this chapter (April 2022).
+We already see reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 34,000 downloads at the time of writing this chapter (April 2025).
 
 Here are some examples:
 - **Scoping Report: EU Policy**: [Reproducibility of scientific results in the EU: scoping report. Publications Office of the European Union](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1),  Directorate-General for Research and Innovation (European Commission), author(s): Baker, L., Cristea, I. A., Errington, T. M., Jaśko, K., Lusoli, W., MacCallum, C. J., Parry, V.,  Pérignon, C.,  Šimko, T.,  Winchester, C. (2020)
