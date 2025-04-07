@@ -1,21 +1,21 @@
 # Governance Roles in _The Turing Way_
 
-Governance in *The Turing Way* occurs across three Constitutional Levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
+Governance in *_The Turing Way_* occurs across three Constitutional Levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
 
 This document provides details about the governance roles and members collaborating across all levels of governance in _The Turing Way_.
 
 This document also lists the members of the project delivery team, who support community management, maintenance of _The Turing Way_ resources and delivery of the project goals.
 
-For an overview of how members of *The Turing Way* community collaborate across these three levels of governance, please refer to the [Ways of Working](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) documentation.
+For an overview of how members of *_The Turing Way_* community collaborate across these three levels of governance, please refer to the [Ways of Working](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) documentation.
 
 ## Project Delivery Team
 
 | Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Malvika Sharan ([malvikasharan](https://github.com/malvikasharan)) | Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team, Co-Lead Practitioners Hub | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
-| Arielle Bennett ([Arielle-Bennett](https://github.com/Arielle-Bennett)) | Senior Researcher - Open Source Practices; The Alan Turing Institute | Co-Lead Practitioners Hub, Chair of the Book Dash WG | Nov 2024 - Present | Previously: Project Manager and various Maintenance Level roles, 2021 - Nov 2024 |
-| Anne Lee Steele ([aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
-| Léllé Demertzi ([LelleDemertzi](https://github.com/LelleDemertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present | - |
+| Malvika Sharan ([malvikasharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)) | Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team, Co-Lead Practitioners Hub | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
+| Arielle Bennett ([Arielle-Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)) | Senior Researcher - Open Source Practices; The Alan Turing Institute | Co-Lead Practitioners Hub, Chair of the Book Dash Working Group | Nov 2024 - Present | Previously: Project Manager and various Maintenance Level roles, 2021 - Nov 2024 |
+| Anne Lee Steele ([aleesteele](https://book.the-turing-way.org/afterword/contributors-record#anne-lee-steele)) | Research Community Manager; The Alan Turing Institute | _The Turing Way_ Community Manager - Maintenance Level | March 2022 - Present | - |
+| Léllé Demertzi ([LelleDemertzi](https://book.the-turing-way.org/afterword/contributors-record#l-ll-demertzi)) | Research Project Manager; The Alan Turing Institute | Project Manager and Practitioners Hub | 2024 - Present | - |
 
 ## Participation and Engagement at the Community Level
 
@@ -37,21 +37,20 @@ Members participating in different Working Groups and projects carried out in _T
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker ([KirstieJane](https://github.com/KirstieJane)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her role as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
-| Alexandra Araujo Alvarez ([alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash WG member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
-| Liz Hare ([LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
-| Emma Karoune ([EKaroune](https://github.com/EKaroune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Various Maintenance Level roles |
-| Esther Plomp ([EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash WG member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
-| Batool Almarzouq ([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation WG member | 2020 - Present | Various Maintenance Level roles |
-| Andrea Sánchez-Tapia ([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation WG member | 2021 - Present | Various community roles |
-| Alejandro Coca Castro ([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 |
-| Sarah Gibson ([sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, The Turing Way Infrastructure Maintainers Co-lead | 2019 - Present | Previously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| Danny Garside ([da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
-| Jim Madge ([JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
-| Brigitta Sipőcz ([bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
-| Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure WG member | 2023 - Present | GSOC Co-Mentor 2023 |
-| Carlos Martinez-Ortiz ([c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash WG member| Feb 2020 - Present | - |
-| Susana Roman Garcia ([Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash WG member | 2024 - Present | - |
+| Kirstie Whitaker ([KirstieJane](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her role as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
+| Batool Almarzouq ([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation Working Group member | 2020 - Present | Various Maintenance Level roles |
+| Emma Karoune ([EKaroune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash Working Group member | Jan 2021 - Present | Various Maintenance Level roles |
+| Esther Plomp ([EstherPlomp]()) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash Working Group member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
+| Alexandra Araujo Alvarez ([alexandraaaj](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash Working Group member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
+| Carlos Martinez-Ortiz ([c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash Working Group member| Feb 2020 - Present | - |
+| Susana Roman Garcia ([Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash Working Group member | 2024 - Present | - |
+| Liz Hare ([LizHareDogs](https://book.the-turing-way.org/afterword/contributors-record#liz-hare)) | Qualitative Geneticist, Dog Genetics LLC | _The Turing Way_ Accessibility Working Group member | 2023 - Present | - |
+| Sarah Gibson ([sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, _The Turing Way_ Infrastructure Maintainers Co-lead | 2019 - Present | Previously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
+| Danny Garside ([da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | _The Turing Way_ Infrastructure Maintainers Co-lead | 2021 - Present | - |
+| Jim Madge ([JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | _The Turing Way_ Infrastructure Maintainers Co-lead | 2022 - Present | - |
+| Brigitta Sipőcz ([bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | _The Turing Way_ Infrastructure Maintainers Co-lead | 2022 - Present | - |
+| Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure Working Group member | 2023 - Present | GSOC Co-Mentor 2023 |
+| Alejandro Coca Castro ([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science Book Co-Lead | 2021 - Present | _The Turing Way_ Translation and Localisation Co-Lead, 2021 - May 2023 |
 
 ## Representation at Constitution Level Steering Committee
 
@@ -81,9 +80,10 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Volunteer Member or Funded in Full-Time Equivalent (or %) | Time period allocated to the project |
 |---|---|---|---|
-| Melissa Black ([melibleq](https://github.com/melibleq)) | Translation and Localisation WG member | Volunteer Member  | 2023 - 2024 |
+| Andrea Sánchez-Tapia ([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation Working Group Co-Lead and various community roles | 2021 - 2024 |
+| Melissa Black ([melibleq](https://github.com/melibleq)) | Translation and Localisation Working Group member | Volunteer Member  | 2023 - 2024 |
 | Arya A. ([arya1302](https://book.the-turing-way.org/afterword/contributors-record#arya-a)) | Google Summer of Code (GSoC) 2023 intern on Pathway Package | 50% | Apr 2023 - Sep 2023 |
-| Camila Rangel-Smith ([crangelsmith](https://github.com/crangelsmith)) | Translation and Localisation WG Co-Lead | Volunteer Member | 2020 - 2023 |
+| Camila Rangel-Smith ([crangelsmith](https://github.com/crangelsmith)) | Translation and Localisation Working Group Co-Lead | Volunteer Member | 2020 - 2023 |
 | Lydia France ([LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist on Pathway Package and training materials | 50% | Oct 2021 - Jan 2022 |
 | May Yong ([myyong](https://github.com/myyong)) | Senior Research Software Engineer on Pathway Package | 40% | Oct 2021 - Jan 2022 |
 | Federico Nanni ([myyong](https://github.com/myyong)) | Senior Research Software Engineer on training materials | in-kind | Oct 2021 - Jan 2022 |
@@ -102,7 +102,7 @@ You can request contact information through the project members above, or tag th
 
 Our barrier for entry to participate in _The Turing Way_ is very low.
 
-*The Turing Way* uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
+*_The Turing Way_* uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
 
 | Emoji | Represents                                                                  |
 |:------|:----------------------------------------------------------------------------|
@@ -127,9 +127,9 @@ Our barrier for entry to participate in _The Turing Way_ is very low.
 | 📢    | Talks                                                                       |
 | 📹    | Videos                                                                      |
 
-If you have contributed in any of the ways above then please ask one of the collaborators in *The Turing Way* to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
+If you have contributed in any of the ways above then please ask one of the collaborators in *_The Turing Way_* to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
 
 For details on how we acknowledge different contributions made in _The Turing Way_, please read the chapter on [Acknowledging Contributors](https://book.the-turing-way.org/community-handbook/acknowledgement) in the Community Handbook.
 
-***Thank you for contributing substantially to the Turing Way!*** We value your thoughtful participation and contributions to _The Turing Way_! :hibiscus::sunflower::rocket::star2:
+***Thank you for contributing substantially to _The Turing Way_!*** We value your thoughtful participation and contributions to _The Turing Way_! :hibiscus::sunflower::rocket::star2:
 
