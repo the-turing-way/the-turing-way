@@ -1,5 +1,4 @@
 (ch-coworking-dropins)=
-
 # Drop-in Sessions
 
 Drop-in sessions are an informal collaboration format where a team or group of people, such as Working Groups in _The Turing Way_, host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
