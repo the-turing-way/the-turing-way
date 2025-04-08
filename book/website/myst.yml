@@ -952,19 +952,19 @@ project:
             - file: community-handbook/community-calls/community-calls-forums
               title: Community Forums
             - file: community-handbook/community-calls/community-calls-onboarding
-              title: Onboarding Calls  
+              title: Onboarding Calls
             - file: community-handbook/community-calls/community-calls-coworking-organisation
               title: Organising Coworking Calls
             - file: community-handbook/community-calls/community-calls-collabcafe
               title: Collaboration Cafes
             - file: community-handbook/community-calls/community-calls-shareouts
-              title: Community Share-outs  
+              title: Community Share-outs
             - file: community-handbook/community-calls/community-calls-coworking
               title: Coworking Calls
             - file: community-handbook/community-calls/community-calls-coworking-dropins
               title: Coworking Drop-ins
             - file: community-handbook/community-calls/community-calls-working-groups
-              title: Working Group Meetings  
+              title: Working Group Meetings
             - file: community-handbook/community-calls/community-calls-core-team
               title: Core Team Meetings
             - file: community-handbook/community-calls/community-calls-office-hours
