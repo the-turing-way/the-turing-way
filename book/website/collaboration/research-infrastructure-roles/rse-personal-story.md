@@ -17,7 +17,6 @@ Before you dive into the interview, please note that we have a chapter describin
 
 ```{figure} ../../figures/rse-community.*
 ---
-height: 400px
 name: rse-community
 alt: International RSE community is shown as a world map with different people helping each other jump from one continent to other. Especially shows people in India joining in the RSE network in Europe.
 ---

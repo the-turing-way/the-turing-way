@@ -6,7 +6,6 @@ Data Stewards are a growing role within scientific communities.
 
 ```{figure} ../../figures/data-stewards.*
 ---
-height: 400px
 name: data-stewards
 alt: Black, white, grey and purple, cartoon-like sketch of two characters depicted as data stewards in superhero attire, with the left figure gesturing towards symbols of knowledge and alert, and the right figure pointing to tools of the trade such as security and connectivity, all encompassed by a theme of data management and protection.
 ---

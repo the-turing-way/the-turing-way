@@ -6,7 +6,6 @@
 
 ```{figure} ../../figures/feedback-loop-process.*
 ---
-height: 400px
 name: Culture Change Through Feedback Loops
 alt: >
   Cartoon-like sketch of people constructing new pathways to culture change. In the top left, a wrecking ball is demolishing a pyramid in a city, representing rigid hierarchical models of change. A brick pathway leads to a group of people dressed in different outfits collaborating on building the new pathways together, highlighting how culture change is often a community effort, with people from different backgrounds and perspectives contributing. Towards the right of the image a plan on an easel shows feedback loops built into the process of change, behind which we see a roundabout or rotary labelled with 'feedback loops' and multiple different paths leading off, demonstrating the potential for feedback to change course. A sun in the background suggests a brighter future for people who take a participatory approach to culture change, however they get there. 

@@ -15,7 +15,6 @@ You can read more about why data should be available, and why some data should r
 
 ```{figure} ../../figures/birds-of-open-data.*
 ---
-height: 400px
 name: birds-of-open-data.*
 alt: Two birds in a fountain of open data. One asks "You mind if I reuse this data?" The other answers "Go ahead! We can even work together on it!"
 ---

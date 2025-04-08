@@ -13,7 +13,6 @@ The sessions are also an opportunity to learn about and connect with new teams a
 
 ```{figure} ../../figures/research-communities.*
 ---
-height: 400px
 name: research-communities
 alt: Cartoon-like sketch of people in different nodes connecting into a central node with a robot in the middle. The people represent researchers in different research domains. One group is building a rocket ship, another group is fixing a car, and another group is working on a hot air balloon. In the central node, researchers are performing different tasks to build a robot. Some of the researchers are taking the findings from the central node to the other nodes.
 ---

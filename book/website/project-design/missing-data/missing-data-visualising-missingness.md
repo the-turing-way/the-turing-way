@@ -46,7 +46,6 @@ msno.matrix(df_fictional_dataset)
 ```
 ```{figure} ../../figures/msno_matrix.png
 ---
-height: 400px
 name: msno-matrix
 alt: 
 ---
@@ -62,7 +61,6 @@ msno.bar(df_fictional_dataset)
 ```
 ```{figure} ../../figures/msno_bar.png
 ---
-height: 400px
 name: msno-bar
 alt: 
 ---
@@ -77,7 +75,6 @@ msno.heatmap(df_fictional_dataset)
 ```
 ```{figure} ../../figures/msno_heatmap.png
 ---
-height: 400px
 name: msno-heatmap
 alt: 
 ---
@@ -93,7 +90,6 @@ msno.dendrogram(df_fictional_dataset)
 ```
 ```{figure} ../../figures/msno_dendrogram.png
 ---
-height: 400px
 name: msno-dendrogram
 alt: 
 ---
@@ -190,7 +186,6 @@ ggplot(fictional_dataset,
 
 ```{figure} ../../figures/geom-miss-point.png
 ---
-height: 400px
 name: geom-miss-point
 alt: 
 ---
@@ -210,7 +205,6 @@ ggplot(fictional_dataset,
 
 ```{figure} ../../figures/geom-miss-point-age.png
 ---
-height: 400px
 name: geom-miss-point-age
 alt: 
 ---

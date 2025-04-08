@@ -71,7 +71,6 @@ The syntax for this image is as follows, and the way it appears in the book is b
 ````
 ```{figure} ../../figures/first-pull-request.*
 ---
-height: 400px
 name: first-pull-request
 alt: >
   Cartoon-like sketch of two persons sitting across from each other working on their laptops.
@@ -88,7 +87,6 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ```{figure} ../../figures/first-pull-request.*
 ---
-height: 400px
 name: first-pull-request
 alt: >
   Cartoon-like sketch of two persons sitting across from each other working on their laptops.

@@ -92,7 +92,6 @@ This model, represented as a pyramid similar to Maslov's Hierarchy of Needs, sug
 
 ```{figure} ../../figures/strategy-culture-change-nosek.*
 ---
-height: 400px
 name: Nosek et al Strategy for Culture Change Diagram
 alt: >
   A black and white pyramid depicting Nosek's model of culture change in open research. It follows the outline described in the text above, with infrastructure as the baseline, followed by user interface/experience, communities, incentives, and policies at the top of the pyramid. Text beginning with "Make it..." is listed outside the pyramid to the right of the structure. 

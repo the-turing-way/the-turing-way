@@ -17,7 +17,6 @@ This experience was brought back in subsequent Book Dash events in person and on
 
 ```{figure} ../../figures/book_dash_mcr_art.*
 ---
-height: 400px
 name: book_dash_mcr_art
 alt: A set of hand-drawn sketches about stuck horizontally against a textured wooden wall. The first three sketches describe FAIR principles (findable, accessible, interoperable and reusable). Other three images are blurry.
 ---

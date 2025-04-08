@@ -13,7 +13,6 @@ The following framework can support the understanding of different community gov
 
 ```{figure} ../../figures/ml-pipeline-governance-opps.*
 ---
-height: 400px
 name: ml-pipeline-governance-opps
 alt: Image of a black coloured pipeline with the title Governance Opportunities in the Machine Learning (ML) Pipeline. The pipeline has a funnel on the left and right side and is divided in three main sections representing the process of building an ML model, which are data collection, model training, and model deployment. At the top, the pipeline includes black boxes with different activities throughout the pipeline such as procure dataset, process and filter data, define the model architecture and training objectives, evaluate the model, and monitor real world use cases. At the bottom of the pipeline in bright blue boxes there are a series of questions like "whose data is used for training/evaluation? whose is missing?" These are opportunities to invite the community into data governance to answer the questions together and make group decisions on how to address the questions.
 ---
