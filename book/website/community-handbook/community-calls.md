@@ -26,9 +26,9 @@ Our coworking calls provide opportunities for community members to allocate time
 
 ## 2. Governance-Related Calls
 
-{ref}`Community Forums<ch-community-calls-governance-forum>` is our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
+{ref}`Community Forums<ch-community-calls-governance-forum>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 
-In 2023, a periodic meeting for the members working at the Maintenance Level was hosted under the title {ref}`Core Community Meetings<ch-community-calls-core-team>` with 30 people working across different Working Groups.
+From June 2022 to September 2023, the Project Delivery Team hosted a regular meeting for the members working at the Maintenance Level under the title {ref}`Core Community Meetings<ch-community-calls-core-team>` with 30 people working across different Working Groups.
 These meetings, although not open to the broader community, discussed community-wide projects and reported updates broadly via our newsletters.
 
 As the community has grown, decision-making processes and structures have also needed different levels of formalisation and transparency, which is why instead of closed meetings, we opted for regular community-wide Community Forums starting in 2024. 
