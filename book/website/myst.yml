@@ -968,7 +968,7 @@ project:
             - file: community-handbook/community-calls/community-calls-core-team
               title: Core Team Meetings
             - file: community-handbook/community-calls/community-calls-office-hours
-              title: Office Hours  
+              title: Office Hours
         - file: community-handbook/onboarding-offboarding.md
           title: Onboarding and Offboarding
           children:
