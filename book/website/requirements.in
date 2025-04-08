@@ -1,10 +1,2 @@
-datascience
-folium
-git+https://github.com/the-turing-way/pathways.git@v0.2.3
-jinja2
-jupyter-book>=2.0.0a0
-matplotlib
-numpy
-pandas
-sphinx-panels
-tornado>=6.4.2
+jupyter-book>=2.0.0a3
+git+https://github.com/the-turing-way/pathways.git@v0.3.1

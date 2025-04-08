@@ -27,9 +27,7 @@ jobs:
     if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
-        # MacOS build is currently broken using JupyterBook2
-        # os: [ubuntu-latest, macos-latest, windows-latest]
-        os: [ubuntu-latest, windows-latest]
+        os: [ubuntu-latest, macos-latest, windows-latest]
         python_version: ["3.13"]
       fail-fast: false # Don't cancel all jobs if one fails
 
@@ -46,6 +44,31 @@ jobs:
 
       - name: Install dependencies
         run: make deps
+        working-directory: ./book
+
+      - name: Build Jupyter-Book with warnings raised to errors
+        run: make ci
+        working-directory: ./book
+
+  build-pathways:
+    name: Build Pathways
+    needs: build-jb
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: make deps
+        working-directory: ./book
+
+      - name: Run pathways script
+        run: make pathways
         working-directory: ./book
 
       - name: Build Jupyter-Book with warnings raised to errors

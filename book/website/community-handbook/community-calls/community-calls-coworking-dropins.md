@@ -7,7 +7,7 @@ These sessions generally include an online component, typically using [Zoom](htt
 The format and sign up method will depend on the needs and preferences of the organising team and the target community the sessions are designed for.
 
 The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection, stakeholder engagement, or research software engineering.
-The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or futher collaboration.
+The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or further collaboration.
 The sessions are also an opportunity to learn about and connect with new teams and individuals that an attendee may not regularly connect with.
 
 ```{figure} ../../figures/research-communities.*
@@ -29,7 +29,7 @@ Here we share a few approaches, ranging from low touch to high touch:
 - Allow attendees to sign up directly to fill open slots.
 - Attendees directly message hosts who schedule them into open slots. 
 
-When there are more requests than available slots, any additional requests can be accommdated through multiple breakout rooms (if there are more hosts available) or scheduled for a future meeting.
+When there are more requests than available slots, any additional requests can be accommodated through multiple breakout rooms (if there are more hosts available) or scheduled for a future meeting.
 
 ## Resources for drop-in sessions
 

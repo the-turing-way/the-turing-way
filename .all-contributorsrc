@@ -259,7 +259,8 @@
         "ideas",
         "doc",
         "review",
-        "eventOrganizing"
+        "eventOrganizing",
+        "content"
       ]
     },
     {
@@ -5038,6 +5039,81 @@
       "name": "Diego O Lopez",
       "avatar_url": "https://avatars.githubusercontent.com/u/92211663?v=4",
       "profile": "https://github.com/DiegoOLopez",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "agoose77",
+      "name": "Angus Hollands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1248413?v=4",
+      "profile": "https://oieltd.com",
+      "contributions": [
+        "content",
+        "bug"
+      ]
+    },
+    {
+      "login": "rowanc1",
+      "name": "Rowan Cockett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/913249?v=4",
+      "profile": "http://row1.ca",
+      "contributions": [
+        "bug",
+        "infra",
+        "platform"
+      ]
+    },
+    {
+      "login": "MarionBWeinzierl",
+      "name": "Marion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56403724?v=4",
+      "profile": "https://github.com/MarionBWeinzierl",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "ahkrook",
+      "name": "ahkrook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167080825?v=4",
+      "profile": "https://github.com/ahkrook",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "afuetterer",
+      "name": "Heinz-Alexander Fuetterer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35225576?v=4",
+      "profile": "https://github.com/afuetterer",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "vrajesh-daga",
+      "name": "vrajesh-daga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201659831?v=4",
+      "profile": "https://github.com/vrajesh-daga",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SydneyAmbrose",
+      "name": "SydneyAmbrose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144704015?v=4",
+      "profile": "https://github.com/SydneyAmbrose",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Avaga123",
+      "name": "Avaga123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112536906?v=4",
+      "profile": "https://github.com/Avaga123",
       "contributions": [
         "content"
       ]

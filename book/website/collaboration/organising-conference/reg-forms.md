@@ -46,7 +46,7 @@ To learn more about who is attending your events, you may also want to collect i
 
 You might also consider collecting information to inform equality, diversity and inclusion monitoring. 
 This can include age (or banded age categories), ethnic origin, gender. 
-This data is considered sensitive so should be restricted access and the colleciton should be minimised.
+This data is considered sensitive so should be restricted access and the collection should be minimised.
 However, this data is important for monitoring the equality, diversity and inclusion monitoring of your events and therefore important to track whether you are being inclusive.  
 
 (cl-organising-conferences-reg-forms-tips)=
@@ -62,7 +62,7 @@ However, this data is important for monitoring the equality, diversity and inclu
 (cl-organising-conferences-reg-forms-template)=
 ## Template registration form
 
-We have made a template of all the different questions you might want to include on your registraion form. 
+We have made a template of all the different questions you might want to include on your registration form. 
 
 You can see this on the next page. 
 

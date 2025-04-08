@@ -37,6 +37,11 @@ project:
           title: Community and Community Roles
         - file: foreword/governance.md
           title: Governance
+          children:
+            - file: foreword/governance/governance-roles
+              title: Governance Roles
+            - file: foreword/governance/ways-of-working
+              title: Ways of Working
         - file: foreword/cite.md
           title: How to Cite
         - file: foreword/faqs.md
@@ -114,7 +119,7 @@ project:
           title: Licensing
           children:
             - file: reproducible-research/licensing/licensing-compatibility.md
-              title: License Compatibililty
+              title: License Compatibility
             - file: reproducible-research/licensing/licensing-ethical-source.md
               title: Ethics-informed Licensing
             - file: reproducible-research/licensing/licensing-data.md

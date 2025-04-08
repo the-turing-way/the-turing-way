@@ -65,22 +65,16 @@ There are many ways to get in touch with _The Turing Way_ team!
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
   - For structured discussion and sustained engagement with the community members.
   - We will also provide notifications on upcoming events and share useful resources on Slack.
-  - You can also ping us on [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) (open source option).
-- Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
-- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+- Contact the Research Community Manager and other members of _The Turing Way_ project delivery team by emailing [tuirngway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 ### Receiving Updates
 
-- [@turingway](https://twitter.com/turingway) on Twitter
-    - Follow us for regular updates
 - [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
-- [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
-- **Useful links**: other links to our resources along with announcements are shared via this HackMD: [hackmd.io/@turingway/demo-intro](https://hackmd.io/@turingway/demo-intro)
+- **Useful links**: other links to our resources along with announcements are shared via this start page: [https://the-turing-way.start.page/](https://the-turing-way.start.page/)
 
 ### Coworking and Real-Time Collaboration
 
-- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engages anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
-- [Weekly Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
+- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engages anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*.
 - [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
 ## Contributing through GitHub
@@ -322,26 +316,11 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
 - Once this is complete merge the pull request into _The Turing Way_'s version of the chapter branch.
 - Merge _The Turing Way_'s version of the chapter branch into _The Turing Way_'s main branch.
-- DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
 
-You can build and host the book website locally. The steps are:
-
-### To build book locally
-
-1. Install the required software to build the book, optionally in a [virtual environment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments):
-
-   ```
-   pip install -r book/website/requirements.txt
-   ```
-
-2. You can now build or refresh the book using:
-
-   ```
-   cd ./book/website
-   jupyter-book build .
-   ```
+You can build and host the book website locally. 
+The steps are described in [this section](https://book.the-turing-way.org/community-handbook/local-build) of the The Turing Way.
 
 ## Style Guide
 
@@ -357,8 +336,7 @@ We would LOVE people to give talks about the project or represent _The Turing Wa
 We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
-If you would like to represent the project in your network, please open an issue and ping @aleesteele, @malvikasharan and @KirstieJane so
-that they can do their best to support you.
+If you would like to represent the project in your network, please open an issue and ping the project delivery team members, so that they can do their best to support you.
 
 We would appreciate if you could share a short abstract and your presentation by adding them to the
 [conferences folder](https://github.com/the-turing-way/conferences) and some info in the [conferences README.md](https://github.com/the-turing-way/conferences/blob/main/README.md).
