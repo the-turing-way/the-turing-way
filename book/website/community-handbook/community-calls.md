@@ -33,7 +33,8 @@ These meetings, although not open to the broader community, discussed community-
 
 As the community has grown, decision-making processes and structures have also needed different levels of formalisation and transparency, which is why instead of closed meetings, we opted for regular community-wide Community Forums starting in 2024. 
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. 
-Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements. We expect that the calls will be a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
+Our aim is to leverage the expertise across our community in reviewing our processes and recommend improvements. 
+These calls are a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
 Community Forums are also used for getting new or returning community members informed, and actively involve them in discussing governance processes within _The Turing Way_.
 
 Currently, these calls are hosted in English and recorded for use by participants. 
