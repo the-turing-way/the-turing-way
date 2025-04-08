@@ -5,6 +5,7 @@
 
 ```{figure} ../figures/templates.png
 ---
+height: 200px
 name: templates
 alt: An illustration of a persona, probably an architect making a sketch
 ---

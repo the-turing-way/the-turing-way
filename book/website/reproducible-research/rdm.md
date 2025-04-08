@@ -1,5 +1,6 @@
 ```{figure} ../figures/data-ecosystem.jpg
 ---
+height: 400px
 name: data-ecosystem
 alt: image of the data ecosystem with private and public data
 ---

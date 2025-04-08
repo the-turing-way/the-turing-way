@@ -22,6 +22,7 @@ The main purpose is that all elements of a project are published together, so a 
 
 ```{figure} ../figures/research-compendium.jpg
 ---
+height: 500px
 name: research-compendium
 alt: An illustration showing a person churning a big machine that takes scientific information from multiple papers and gives one output of readable file.
 ---
