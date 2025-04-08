@@ -4,14 +4,15 @@
 _The Turing Way_ community is distributed around the world.
 Our members are from diverse backgrounds, have different skills and interests, work many different jobs, and contribute to this project for a great variety of reasons. They are also, for the most part, unpaid to contribute to this open source project.
 
-To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. These calls may vary from collaboration and working calls, to organisational meetings, to public share-outs that demonstrate transparency, to a mixture of all of the above. Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom.
+To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. These calls may vary from collaboration and working calls to organisational meetings, to public share-outs that demonstrate transparency, to a mixture of all of the above. Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom.
 
 On each page of this subchapter, you can learn more about each type of community call, which are roughly organised into four types: community coworking calls, organising and governance calls, onboarding and welcoming calls, and public celebration calls.
 
 It is important to note that not all of our community calls fit neatly into one category over another. Some may mix practices and purposes (for example coworking as well as celebrations), while others may have a specific purpose (such as decision-making). 
 All are meant to demonstrate our principles of being an open and transparent community.
 
-Because of their scope and size, the {ref}`Book Dash<ch-bookdash>` and {ref}`Fireside Chat series<ch-fireside-chat>` are documented separately. However, those calls overlap with many of the principles and practices shared in this community call chapter.
+Because of their scope and size, the {ref}`Book Dash<ch-bookdash>` and {ref}`Fireside Chat series<ch-fireside-chat>` are documented separately.
+However, those calls overlap with many of the principles and practices shared in this community call chapter.
 
 ## 1. Coworking calls
 
@@ -28,19 +29,10 @@ Our coworking calls provide opportunities for community members to allocate time
 
 {ref}`Community Forums<ch-community-calls-governance-forum>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 
-From June 2022 to September 2023, the Project Delivery Team hosted a regular meeting for the members working at the Maintenance Level under the title {ref}`Core Community Meetings<ch-community-calls-core-team>` with 30 people working across different Working Groups.
-These meetings, although not open to the broader community, discussed community-wide projects and reported updates broadly via our newsletters.
-
-As the community has grown, decision-making processes and structures have also needed different levels of formalisation and transparency, which is why instead of closed meetings, we opted for regular community-wide Community Forums starting in 2024. 
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. 
-Our aim is to leverage the expertise across our community in reviewing our processes and recommend improvements. 
 These calls are a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
-Community Forums are also used for getting new or returning community members informed, and actively involve them in discussing governance processes within _The Turing Way_.
 
-Currently, these calls are hosted in English and recorded for use by participants. 
 Collaborative notes, capturing feedback and highlights are archived on the [`governance` GitHub repository](https://github.com/the-turing-way/governance/).
-
-In 2025, Steering Committee Meetings, drawing chairs of Working Groups and representatives from projects carried in collaboration with _The Turing Way_ will be hosted to formalise Constitution Level governance.
 
 ## 3. Onboarding and Welcoming calls
 
