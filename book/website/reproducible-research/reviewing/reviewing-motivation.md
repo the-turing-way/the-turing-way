@@ -1,8 +1,7 @@
 (rr-reviewing-motivation)=
-<!-- omit in toc -->
 # Importance and Personal Benefits
 
-*How this will help you/ why this is useful*
+*How this will help you / why this is useful*
 
 As with {ref}`testing<rr-testing>`, a key objective of code review is to remove mistakes and bad practice from changes made to a software project before those changes enter the main code base.
 However, it also has a number of other direct and indirect benefits to projects. These are discussed below.
@@ -48,7 +47,7 @@ The more readable your code is, the easier it will be for other developers to re
 ## Style Enforcement
 
 Many projects enforce certain {ref}`code style guidelines<rr-code-quality>`, be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. 
-{ref}`Automated services<rr-code-style-and-formatting-service>` provide a convenient way to enforce a coding style and start the discussion about code quality.
+{ref}`Automated services<pd-code-styling-tools>` provide a convenient way to enforce a coding style and start the discussion about code quality.
 
 Code review provides an opportunity to ensure all proposed changes meet the minimum required standards for the project.
 

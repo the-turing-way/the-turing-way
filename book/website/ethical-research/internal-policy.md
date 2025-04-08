@@ -4,7 +4,7 @@
 Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, or in other areas. 
 It can be a really powerful tool for change, regardless of whether or not the group of people campaigning are in a union.
 
-```{figure} ../figures/advocacy.jpg
+```{figure} ../figures/advocacy.*
 ---
 name: advocacy
 alt: One person signs a petition held by another person, in front of a group of people marching under a banner reading "Advocacy!"

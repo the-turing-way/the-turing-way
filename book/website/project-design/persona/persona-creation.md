@@ -15,7 +15,7 @@ Start by giving your persona a real name and real role with the help of some ass
 This will help you anchor them in reality.
 You can use the random name generator website [behindthename.com](https://www.behindthename.com/random/) to create diverse names.
 
-```{figure} ../../figures/persona-creation.png
+```{figure} ../../figures/persona-creation.*
 ---
 name: persona-creation
 alt: Persona Canvas by DESIGNBETTERBUSINESS.COM
@@ -77,7 +77,7 @@ You can sketch out this information by answering the following questions:
 - What hobbies and interests your persona has?
 - What personality/demeanor (such as introvert, extrovert) matches your persona's?
 - Through which communication channel will your persona potentially find out about the event?
-  - Some options: by email, mailing list or forums, Twitter, Facebook, Slack, Gitter, newsletters, website or community repository
+  - Some options: by email, mailing list or forums, X (formerly Twitter), Facebook, Slack, Gitter, newsletters, website or community repository
 - What keeps your persona motivated on a typical day?
 
 ### Section 5: Provisions and opportunities

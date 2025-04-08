@@ -21,6 +21,32 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 (rr-overview-resources-addmaterial)=
 ## Additional Material
 
+(rr-overview-resources-commandline)=
+### Using the command line
+
+While most of what this book is about does not require the use of the command line, it often actually makes things easier. 
+Writing commands in the terminal, PowerShell, command-line, or command prompt provides an alternative means of interacting with the computer.
+It offers several advantages and can be considered a beneficial approach for various reasons, including efficiency, independence on graphical user interfaces, flexibility, automation of tasks.
+Often, advanced tasks or options are only available as command line tools (for example advanced git, datalad. 
+You first need to know that linux and OSX use `bash` code natively, while the command line in windows uses `batch script`, which is a different language. 
+
+List of some tools and training materials for using the command-line:
+- A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
+- Carpentries lesson on [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+- An article on [Command Line Tutorial: Usage in Linux and macOS](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/)
+- A lesson on [Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
+
+Some nice-to-know tips:
+
+- When working on the terminal please make sure that you are in the correct folder (also called as directory):
+  - If you right click folders, you may have a function to open a terminal there
+  - use `cd ..` to go in the parent folder (`cd` is to move into folders, `..` means up)
+  - you can also type `cd ` (note the space) and then drag and drop a folder. This action would autocomplete the folder's path into the terminal.
+
+- The superpower developers use all the time and will never think you do not know about it: use the tab on your keyboard to get automatic text completion.
+
+
+
 ### Useful Links
 
 #### **Reproducibility** 

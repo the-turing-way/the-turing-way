@@ -14,7 +14,7 @@ An example of an integration test for this case could be to supply a test data f
 If a bug like this is present then the cleaned data outputted would be very unlikely to match the expected result, and an error would be raised.
 
 Integration testing is particularly important in collaborative projects where different people work on different parts of the code.
-If two different people complete separate units and then need to integrate then integration issues are more likely as neither may understand the other's code.
+If two different people complete separate units and then need to integrate them integration issues are more likely as neither may understand the other's code.
 A famous example of this is a multi-million dollar satellite which [crashed](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter) because one piece of code outputted distance data in feet, while another assumed data in meters.
 This is another example of an integration issue.
 
@@ -55,7 +55,7 @@ So is a code can be split into the main steps A, B, and C, and each of those con
 
 So in the top down approach the integration between sections at the top level (A, B and C) are tested, then integration between sections at the next level (for example, A.1 -> A.2) and so on.
 Testing upper level units by running all the code they contain including running lower level ones can lead to upper level tests breaking due to bugs in low level units.
-This is undesirable, so to prevent this the lower level sections should not be run, but [test stubs](#Use_test_doubles_stubs_mocking_where_appropriate) should be used to simulate the outputs from them.
+This is undesirable, so to prevent this the lower level sections should not be run, but [test stubs][rr-testing-guidance-mocking] should be used to simulate the outputs from them.
 
 Bottom Up is an approach to integration testing where integration between bottom level sections are tested first and upper-level sections step by step after that.
 Again test stubs should be used, in this case to simulate inputs from higher level sections.

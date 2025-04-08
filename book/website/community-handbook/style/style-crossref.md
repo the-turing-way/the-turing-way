@@ -59,75 +59,34 @@ We have created a label for that chapter called `rr-overview` by adding the labe
 # Overview
 ```
 
-Similarly, for different subchapters we recommend extending the label name with another placeholder for subchapter's name.
+Similarly, for different subchapters we recommend extending the label name with another placeholder for the subchapter's name.
 For example, `rr-overview-resources` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources).
 This label can be created by using the following directive in the corresponding file:
 
 ```
-(sectioninitials-filename)=
+(rr-overview-resources)=
 # Resources
 ```
 
-In the same manner, for different sections in a subchapters we recommend extending the label name with another placeholder.
+In the same manner, for different sections in a subchapter we recommend extending the label name with another placeholder.
 This can be chosen by the authors, which should be a short yet sensible name for the section where the label is being created.
-For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterails).
+For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterial).
 This label can be created in the corresponding file for the suggested section name using the following directive:
 
 ```
-(sectioninitials-filename-section)=
+(rr-overview-resources-addmaterial)=
 ## Additional Material
 ```
 
 ### Examples of cross-referencing
 
-**Examples for cross-referencing sections of chapters and subchapters**
+Here we provide examples of how to cross-reference chapters, sections of chapters and subchapters.
+We will use examples for the chapters in the "Reproducible Research" guide located in the `book/website` directory.
 
-We will use examples for the chapters in "Reproducible Research" guide located in the `book/website` directory.
+**_Example 1_**: Cross-referencing a chapter or subchapter (chapter/subchapter).
 
-**_Case 1_**: When you cross-reference a section of the chapter within the same file _before_ a label has been created.
-
-Taking the previous example of `rr-overview-resources-addmaterial`, we can use this label to cross-reference
-it in an earlier section within the same file using the following:
-
-```
-{ref}`rr-overview-resources-addmaterial`
-```
-
-This will appear in the online book like so: {ref}`rr-overview-resources-addmaterial`.
-
-**_Case 2_**: When you cross-reference a section of the chapter within the same file _after_ a label has been created.
-
-In the same subchapter "Resources", we have created a label `rr-overview-resources-reading` for the section "Further Reading".
-We can cross-reference it in a later section within the same file using the following:
-
-```
-{ref}`rr-overview-resources-reading`
-```
-
-It will appear in your chapter like this: {ref}`rr-overview-resources-reading`.
-
-**_Case 3_**: When you cross-reference a section of a chapter in a different file (chapter) before or after a label has been created.
-
-In the subchapter "Definitions" of the "Overview" chapter, we have created a label
-`rr-overview-definitions` for the section "Table of definitions for reproducibility".
-
-We can cross-reference it in a different subchapter or chapter.
-In this case, let's cross-reference it in the landing (main) page of the "Overview" chapter by using the following:
-
-```
-{ref}`rr-overview-definitions`
-```
-
-It will appear in your chapter like this: {ref}`rr-overview-definitions`.
-
-Though we are demonstrating this example for subchapters within the same chapter ("Overview"), the similar syntaxes can be used for cross-referencing in other chapters within the book.
-
-**Examples for Cross referencing chapters and subchapters**
-
-**_Case 4_**: Cross-referencing a chapter or subchapter in a different file (chapter/subchapter) before or after a label has been created.
-
-For example, in the landing page of the chapter "Open Research", we have created a label `rr-open`.
-We can cross-reference it in the section "What to learn next?" in a different subchapter "Resources" of the "Overview" chapter by using the following:
+On the landing page of the chapter "Open Research", we have created a label `rr-open`.
+We can cross-reference it at any other point in the book by using the following:
 
 ```
 {ref}`rr-open`
@@ -135,7 +94,22 @@ We can cross-reference it in the section "What to learn next?" in a different su
 
 It will appear in your chapter like this: {ref}`rr-open`.
 
-Though we are demonstrating this example for cross-referencing chapters and subchapters across the book, the same syntax can be used for cross-referencing subchapters within the same chapter.
+It doesn't matter whether the label appears before or after the reference, or even on a completely different page.
+The same syntax can be used whether you are cross-referencing chapters and subchapters within the same chapter, or in other chapters across the book.
+
+**_Example 2_**: Cross-referencing a section of a chapter.
+
+In the subchapter "Definitions" of the "Overview" chapter, we have created a label
+`rr-overview-definitions` for the section "Table of definitions for reproducibility".
+We can cross-reference it elsewhere in the book by using the following:
+
+```
+{ref}`rr-overview-definitions`
+```
+
+It will appear in your chapter like this: {ref}`rr-overview-definitions`.
+
+As before it doesn't matter where the label appears relative to the reference, this same syntax can be used whether you are cross-referencing sections within the same chapter, or in other chapters across the book.
 
 ### Providing an alternative title for the references
 

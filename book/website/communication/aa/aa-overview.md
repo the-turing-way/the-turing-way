@@ -17,16 +17,16 @@ Therefore, if you want to publish in a specific journal you will have to adhere 
 
 A general definition of an author is seen as the person that is the creator of the written work (creator of the ideas and the actual physical writing) and there is an ownership for the author regarding the content of what is written. 
 
-However, most research involves a team of people to make it happen. So who decides whether these contributions are worthy of authorship or are they just to be acknowledged? 
+However, most research involves a team of people to make it happen. So who decides whether these contributions are worthy of authorship or just an acknowledgement?
 
-Therefore, it is still common to give authorship to only those that have actually taken part in the writing or editing of the article as well as other substantial aspects of the research. 
+It is still common to give authorship to only those that have actually taken part in the writing or editing of the article as well as other substantial aspects of the research. 
 This often excludes large contributions to the project from technicians, undergraduate and postgraduate students, and people involved in the infrastructure of the project such as research software engineers. 
 It also raises ethical issues concerning who takes credit for the work on a project.
 
 (cm-aa-overview-first)=
 ## First author dominance
 
-Being the first author impacts that person's reputation and visibility due to a perceived view that this person makes the greatest contribution, citation indices that in the past only counted citations for the first-named author, and citations within academic articles being shortened to the first author's name with *et al* (Ref: Frandsen & Nicolaisen 2010). 
+Being the first author impacts that person's reputation and visibility due to: a perceived view that this person makes the greatest contribution, citation indices that in the past only counted citations for the first-named author, and citations within academic articles being shortened to the first author's surname followed by "et al." (latin for "and others") {cite:ps}`Frandsen2010name,VanPraag2008benefits`. 
 The number of citations that papers have and what journals they are published in are often important criteria for obtaining new jobs, getting promoted and winning funding applications.
 
 The practice of the first author taking prominence over others also has social implications. 
@@ -45,10 +45,19 @@ Here are two good articles on how we need to move away from the culture of first
 * [No more first author, no more last author by Gretchen Kisher]( https://www.nature.com/articles/d41586-018-06779-2)
 * [Challenges in assessing contributions to reproducible research and open science by Malvika Sharan](https://malvikasharan.github.io/blogs/dora-panel-open-science/).
 
-However, decisions concerning authorship are still central in the minds of most academics and also used as a marker of a projects impact. 
+However, decisions concerning authorship are still central in the minds of most academics and also used as a marker of a project's impact. 
 Therefore, decisions about authorship need to be taken and the two main decisions to make are: who should get authorship on the paper? and what order the names should take? 
 
 Contributions to research projects and how these translate into the authorship of a journal article are tackled in many different ways dependent on what discipline the study is based in, the location of the publication (which journal or publisher is used), the motivation of the project contributors and the number of people involved in the project. 
 The name order is heavily based in a discipline specific tradition of what is understood by that order and this can create tension when new research collaborations are set up.
+
+```{figure} ../../figures/acknowledge-authors.* 
+---
+height: 500px
+name: acknowledge-authors
+alt: We need to move away from the concept of 'authorship' (depicted as one person supported by four unindentifiable figures) to acknowledging contributors - represented by lots of visible figures representing investigation, conceptualisation, data curation, formal analysis, and funding acquisition. 
+---
+Acknowledging contributors. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
 
 There is a growing trend pushing against more traditional ideas of authorship; in the number of authors and their order, and that authorship should reflect the contributions of the whole research team or community. Such an inclusive authorship model is hard to achieve and must be planned at the beginning of any project so that all contributions are recorded.

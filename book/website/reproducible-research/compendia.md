@@ -20,7 +20,7 @@ This chapter has many prerequisites as it takes all digital components of a proj
 That said: a research compendium can be constructed with minimal technical knowledge.
 The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
-```{figure} ../figures/research-compendium.jpg
+```{figure} ../figures/research-compendium.*
 ---
 height: 500px
 name: research-compendium
@@ -155,11 +155,8 @@ To create a research compendium, follow these steps:
 - Optional: Have a peer check the compendium and see if it works correctly
 - Publish your compendium
 
+See the [EMNLP 2020 reproducibility checklist](https://2020.emnlp.org/call-for-papers#new-reproducibility-criteria) or the [AGILE reproducible checklist](https://doi.org/10.17605/OSF.IO/CB7Z8) for conference submission checklists. 
+
 ## Further Reading
 
 - The website [Research Compendium](https://research-compendium.science) contains links to further resources and publications on research compendia as well as links to examples.
-
-<!---
-> top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
-> less relevant/favourite resources in case someone wants to dig into this in detail
--->

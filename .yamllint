@@ -1,0 +1,9 @@
+# Learn about yamllint configuration here
+# https://yamllint.readthedocs.io/en/stable/configuration.html
+#
+# Learn about yamllint rules here
+# https://yamllint.readthedocs.io/en/stable/rules.html
+---
+extends: relaxed
+rules:
+  line-length: disable

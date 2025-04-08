@@ -88,37 +88,37 @@ For example say we have a code modelling the water levels in a reservoir over ti
 
 The result may look like this:
 
-```{figure} ../../figures/eyeball-test1.jpg
+```{figure} ../../figures/eyeball-test1.*
 ---
 name: eyeball-test1
-alt:
+alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where level remains fairly constant.
 ---
 ```
 
 On a day with rain it might look like this:
 
-```{figure} ../../figures/eyeball-test2.jpg
+```{figure} ../../figures/eyeball-test2.*
 ---
 name: eyeball-test2
-alt:
+alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where level increases steadily between 6am and 9pm before dropping slightly in the last 3-hour period.
 ---
 ```
 
 and on a dry day it might look like this:
 
-```{figure} ../../figures/eyeball-test3.jpg
+```{figure} ../../figures/eyeball-test3.*
 ---
 name: eyeball-test3
-alt:
+alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where level decreases steadily.
 ---
 ```
 
 All of these outputs look very different but are valid. However, if a researcher sees a result like this:
 
-```{figure} ../../figures/eyeball-test-error.jpg
+```{figure} ../../figures/eyeball-test-error.*
 ---
 name: eyeball-test-error
-alt:
+alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where fairly constant levels flank one very high measurement taken at midday.
 ---
 ```
 
@@ -182,4 +182,8 @@ Unit test frameworks for other languages also often provide similar functions:
 - JUnit for Java: org.junit.Assert.assertEquals(double expected, double actual, double delta)
 - testthat for R:
   - expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
-  - expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DE L T A
+  - expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
+- julia: 
+  - `val1 ≈ val2`
+  - `isapprox(val1, val2, atol=abs_delta, rtol=rel_delta)`
+  - `Test.jl` with `≈`: `@test val1 ≈ val2 atol=abs_delta rtol=rel_delta`

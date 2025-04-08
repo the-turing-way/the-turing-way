@@ -44,7 +44,7 @@
 > For example, if your case study is for the Guide for Reproducible Research, you may want to briefly emphasise how Version Control was (or was not) integral for making your work reproducible.
 
 > Ideally, each concept should be a chapter within the Guide your case study is for.
-> When you mention a concept, remember to cross reference to the chapter where it is explained using _The Turing Way's_ [cross-referencing guidelines](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html).
+> When you mention a concept, remember to cross reference to the chapter where it is explained using _The Turing Way's_ [cross-referencing guidelines](https://book.the-turing-way.org/community-handbook/style/style-crossref.html).
 
 > Use the rest of the section to take a deep dive into the individual concepts you introduced.
 
@@ -57,7 +57,7 @@
 > Use this section to expatiate on the importance of the key concept in your case, explaining _how_ and _why_ it helped (or did not help).
 
 > To drive home your point, you may also leverage images, external resources, code blocks, or other items you deem fit.
-> Remember to refer to the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) for relevant recommendations as you write.
+> Remember to refer to the [style guide](https://book.the-turing-way.org/community-handbook/style.html) for relevant recommendations as you write.
 
 > **NOTE**: If your case study relied on several concepts expressed in the Guide, be sure to explain each one in its own section
 

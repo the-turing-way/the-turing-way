@@ -1,0 +1,22 @@
+version: 2
+updates:
+  # Maintain dependencies for GitHub Actions in workflow files
+  # By default, the directory to be checked is .github/workflows for the github-actions
+  # package ecosystem
+  # ref: https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      # Group all GHA updates together into single PR (to avoid desync in related actions e.g. upload-artifact, download-artifact)
+      # ref: https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file#groups
+      actions:
+        patterns:
+          - "*"
+    ignore:
+      # Ignore minor upgrades to reduce noise.
+      - update-types: ["version-update:semver-minor"]
+        dependency-name: "*" # Match all packages
+    reviewers:
+      - "the-turing-way/infrastructure-working-group"

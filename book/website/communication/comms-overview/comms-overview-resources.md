@@ -75,16 +75,16 @@ Video conferencing platforms such as Zoom or Google meet also have captions.
 
 * The Outlier conference has some excellent tips on [speech development](https://docs.google.com/presentation/d/1VltGZmwfFcqwJ_pMwNx-ECfhgtl0dhxYC99qM5xnV-U/), [structure](https://docs.google.com/presentation/d/1XyFdpqjlvXd_8kIl3dJFHhGTcywX0tayQtHXXYUi9DQ/), and [technical setup](https://https://docs.google.com/presentation/d/1ZLrVBs5Zt9_DDu2TYUN3CzsEr1WiMXbwj-AP5m9Rbhc/).
 
-* Author Nancy Duarte offers some insights in her books, articles and [talks](https://://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?) on how to structure presentations that involve a call to action.
+* Author Nancy Duarte offers some insights in her books, articles and [talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) on how to structure presentations that involve a call to action.
 
 (cm-comms-overview-resources-social)=
 ## Social Media
 
 Read more in this chapter: {ref}`cm-social-media`.
 
-* [Tweetdeck](https://tweetdeck.twitter.com/)
+* [X Pro (formerly Tweetdeck)](https://help.twitter.com/en/using-x/how-to-use-x-pro)
 * [Buffer](https://buffer.com/)
-* This is a good [guide to getting set up on Twitter](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
+* This is a good [guide to getting set up on X (formerly Twitter)](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
 * [Ten simple rules to getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513)
 * [Ten simple rules of live-tweeting at scientific conferences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789)
 * [How to use Twitter to further your research career](https://www.nature.com/articles/d41586-019-00535-w)

@@ -23,7 +23,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/) or [GitLab](https://about.gitlab.com/).
 - Evaluate the need for any real-time communications, such as if a text chat system like [Slack](https://slack.com) or [Element/Matrix](https://element.io/get-started) will be useful or if a mailing list will be sufficient (read details {ref}`Communication Channels <cm-os-comms-channels>`).
   - Consider a separate internal communication platform for your community members and an external one for showing what you’ve done to the rest of the world.
-- A [Twitter account](https://twitter.com) or a simple website (such as on [GitHub pages](https://pages.github.com/)) can be useful external platforms.
+- An [X account](https://x.com) (formerly Twitter) or a simple website (such as on [GitHub pages](https://pages.github.com/)) can be useful external platforms.
 - Make sure that the choices of these platforms are made to ensure that there is a low barrier to join them.
 
 (cl-new-community-guide-checklist-proj-summary)=
@@ -55,7 +55,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - Value different types of contributions - coding projects are not only about code, therefore list documentation and other management skills as well.
 - You can use the {ref}`Persona Creation Tool<pd-persona-creation>` or the [Personas and Pathways exercise](https://mozillascience.github.io/working-open-workshop/personas_pathways/) to brainstorm who could be your possible community members.
 - Here is a [template of community guideline](https://gist.github.com/PurpleBooth/b24679402957c63ec426) provided by the GitHub user [PurpleBooth](https://gist.github.com/PurpleBooth).
-  - See [_The Turing Way_'s contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) for reference.
+  - See [_The Turing Way_'s contributing file](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) for reference.
 
 (cl-new-community-leadership)=
 ### 5. Create a Basic Management/Leadership Structure:

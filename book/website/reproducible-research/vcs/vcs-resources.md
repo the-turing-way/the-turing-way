@@ -14,7 +14,7 @@ They also ease using version control by keeping changes neat and localised.
 
 - A free and very in-depth book on Git's myriad of features can be found [here](https://Git-scm.com/book/en/v2).
 - A useful Git cheat sheet can be found [here](https://education.github.com/git-cheat-sheet-education.pdf).
-- Interactive tutorials for familiarising yourself with GitHub can be found at [https://lab.github.com/](https://lab.github.com/).
+- Interactive tutorials for familiarising yourself with GitHub can be found at [https://skills.github.com/](https://skills.github.com/).
 - Interactive tutorials for DataLad can be found at [handbook.datalad.org](http://handbook.datalad.org), and a walk-through of git-annex can be found at [git-annex.branchable.com/walkthrough/](https://git-annex.branchable.com/walkthrough/).
 - An article on syncing a fork of a repository to keep it up-to-date with the upstream repository can be found [here](https://help.github.com/en/articles/syncing-a-fork).
 - If you wish to do it all in the browser itself, instructions to do so can be found [here](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).

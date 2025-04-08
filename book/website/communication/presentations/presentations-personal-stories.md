@@ -5,7 +5,7 @@ We would like to thank **[Yanina Bellini Saibene](https://yabellini.netlify.app/
 
 Find out more about her work here:
 * ORCID: [0000-0002-4522-7466](https://orcid.org/0000-0002-4522-7466)
-* Twitter: [@yabellini](https://twitter.com/yabellini)
+* X (formerly Twitter): [yabellini](https://twitter.com/yabellini)
 
 **Yanina** is a researcher at [INTA in La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina), applying data science to the agricultural sector.
 She has a degree in Information Systems and a Master in Data Mining and Knowledge Management.
@@ -151,8 +151,8 @@ I hope to continue learning; currently, I am reading a couple of books that I ho
 Queremos agradecer a **[Yanina Bellini Saibene](https://yabellini.netlify.app/es/)** por responder nuestras preguntas. 
 
 Podés interiorizarte en su trabajo en los siguientes links:
-* [ORCID](https://orcid.org/0000-0002-4522-7466)
-* [Twitter](https://twitter.com/yabellini)
+* ORCID: [0000-0002-4522-7466](https://orcid.org/0000-0002-4522-7466)
+* X (formerly Twitter): [yabellini](https://twitter.com/yabellini)
 
 **Yanina** es investigadora del [INTA en La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina) aplicando ciencia de datos al sector agropecuario. 
 Es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. 

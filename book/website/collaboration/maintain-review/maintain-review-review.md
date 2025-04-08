@@ -5,7 +5,7 @@
 In a project or codebase, a set of changes must be reviewed before merging it to the main repository.
 If the project is co-owned by many people, the review process handled by [code review assignment](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-code-review-assignment-for-your-team) in which certain members of the team are assigned this task.
 Reviewers are often automatically suggested on GitHub pull requests based on a similar activity by other members on the same or different files in the project.
-However, often a project managers request other maintainers for the review of a particular pull request based on their availability, willingness, or expertise.
+However, often a project manager requests other maintainers for the review of a particular pull request based on their availability, willingness, or expertise.
 
 The assigned or willing maintainers can review the pull request by checking the [changes locally](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/checking-out-pull-requests-locally) or on the online repository and suggest changes required.
 When the review process is completed, the reviews can be approved without any change, or [with required changes](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews) or [dismissed](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/dismissing-a-pull-request-review) according to the quality of the contribution.
@@ -15,12 +15,12 @@ For project collaboration on GitHub, it is important to follow a defined guideli
 The maintenance process can be executed smoothly with the help of the following:
 
 1. *Documenting the process*: A comprehensive documentation on how contributors can get started with the project and how they can make meaningful contributions is the first step to be taken while maintaining an open source project.
-These details should throw light on what the project is all about, why was it created in the first place, who maintains the project, what is the community culture looks like, and who can provide guidance to new contributors.
+These details should throw light on what the project is all about, why was it created in the first place, who maintains the project, what the community culture looks like, and who can provide guidance to new contributors.
 
 These three documents are a good start towards building these documents:
 - A project should contain a {ref}`README.md file<pd-project-repo-readme>` that provides the important details and links to resources that one must know to become a member of the project.
-- A Code of Conduct (see _The Turing Way_ [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)) must be provided in every project to establish that a welcoming and safe environment for community members while collaborating.
-- A well-written contribution guideline (see _The Turing Way_ [Contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)) is extremely important when the collaboration is done remotely on any project to ensure clear communication between contributors and maintainers.
+- A Code of Conduct (see _The Turing Way_ [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md)) must be provided in every project to establish that a welcoming and safe environment for community members while collaborating.
+- A well-written contribution guideline (see _The Turing Way_ [Contributing file](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)) is extremely important when the collaboration is done remotely on any project to ensure clear communication between contributors and maintainers.
 
 2. *Effective communication*: The conversations regarding any contribution can be made public for others to join for a discussion while working on small features and ideas.
 This will involve more people and ensure transparency in open source work.

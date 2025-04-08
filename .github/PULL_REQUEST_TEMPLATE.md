@@ -29,5 +29,5 @@ Fixes #<NUM>
 
 <!-- Please select the correct box -->
 
-- [ ] All contributors to this pull request are already named in the [table of contributors](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors) in the README file.
-- [ ] The following people should be added to the [table of contributors](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors) in the README file: <!-- replace this text with the GitHub IDs of any new contributors -->
+- [ ] All contributors to this pull request are already named in the [table of contributors](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors) in the README file.
+- [ ] The following people should be added to the [table of contributors](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors) in the README file: <!-- replace this text with the GitHub IDs of any new contributors -->

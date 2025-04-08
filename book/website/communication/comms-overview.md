@@ -8,7 +8,7 @@ However, there is much more scope to plan communication in a research project to
 In this guide, we present tools, methods and recommendations for communicating our research with wider audiences.
 Communication methods described here can be used for establishing efficient ways to work with your collaborators, share different research objects as well as increase the breadth of the audience for your research or community.
 
-```{figure} ../figures/communication-styles.jpg
+```{figure} ../figures/communication-styles.*
 ---
 name: communication-styles
 alt: Two people sitting working. One using a feather and scroll with the words inaccessible and too technical written on the scroll. The other person sitting at a computer with different communication methods coming out of the computer including blogs, podcasts, lay summaries and social media. There are also dictionaries for foreign languages showing that it is important to translate our research into different languages. Accessibility is written on the computer screen.
@@ -17,15 +17,7 @@ Illustration about communicating with a wider audience.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
-(cm-comms-overview-jargon)=
-## Avoid Jargon
-
-> Plain language makes it easier for the public to read, understand, and use [all] communications.
-When we say not to use jargon, we’re not advocating leaving out necessary technical terms, but we are saying to make sure your language is as clear as possible.
-> - [plainlanguage.gov](https://www.plainlanguage.gov/guidelines/words/avoid-jargon)
-
-Choosing to communicate in a jargon-free and less technical manner, with more consideration for accessibility ultimately results in our research being read and heard by more people.
-This includes writing your papers, guidelines and documentation simply and jargon-free.
+You can make your work openly accessible through following {ref}`Open Scholarship principles<cm-open-scholarship>`. 
 Other forms of communication include blogging, writing lay summaries, podcasting, presenting posters and talks at conferences outside of your discipline, and using social media.
 This can involve translating technical scientific writing into different styles that make your research more accessible to specialists outside of your specific discipline and also to the wider public.
 We also describe different communication channels you can select for your project to enable collaboration with your team or community members.

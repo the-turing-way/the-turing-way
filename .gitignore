@@ -14,3 +14,7 @@ workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 .vscode/settings.json
 .Rproj.user
 .idea
+
+# Python virtual environments
+venv/
+env/

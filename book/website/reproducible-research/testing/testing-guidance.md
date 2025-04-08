@@ -23,7 +23,7 @@ Also, if it has been weeks or months since tests have been run and they fail, it
 
 It is best to automate your testing as far as possible.
 If each test needs to be run individually then that boring painstaking process is likely to get neglected.
-This can be done by making use of a testing framework ([discussed later](#use-a-testing-framework)).
+This can be done by making use of a testing framework ([discussed later](#rr-testing-use-a-testing-framework)).
 [Jenkins](https://jenkins.io) is another good tool for this. Ideally set your tests up to run at regular intervals, possibly every night.
 
 Consider setting up continuous integration (discussed in the continuous integration chapter) on your project. This will automatically run your tests each time you make a change to your code and, depending on the continuous integration software you use, will notify you if any of the tests fail.
@@ -43,7 +43,7 @@ This documentation should also cover subjects such as
 
 - Any resources, such as test dataset files that are required
 - Any configuration/settings adjustments needed to run the tests
-- What software (such as [testing frameworks](#use-a-testing-framework)) need to be installed
+- What software (such as [testing frameworks](#rr-testing-use-a-testing-framework)) need to be installed
 
 Ideally, you would provide scripts to set up and configure any resources that are needed.
 
@@ -53,6 +53,7 @@ Make the cases you test as realistic as possible.
 If for example, you have dummy data to run tests on you should make sure that data is as similar as possible to the actual data.
 If your actual data is messy with a lot of null values, so should your test dataset be.
 
+(rr-testing-use-a-testing-framework)=
 ## Use a Testing Framework
 
 There are tools available to make writing and running tests easier, these are known as testing frameworks.
@@ -82,6 +83,9 @@ While modern C++ and C are still mostly compatible, they're not completely and u
 - Fortran unit-tests:
   - funit
   - pfunit (works with MPI)
+- julia
+  - Test.jl (stdlib)
+  - ReTest.jl  
 
 ## Aim to have a good code coverage
 
@@ -103,6 +107,7 @@ In general, the best tests are those that isolate the smaller rather than larger
 Try to be guided by thinking about the possible things that might happen to a particular chunk of code in the execution of the whole, and test these individual cases.
 Often, this will result in the same code being tested multiple times - this is a good thing!
 
+(rr-testing-guidance-mocking)=
 ## Use test doubles/stubs/mocking where appropriate
 
 If a test fails it should be constructed such that it is as easy to trace the source of the failure as possible.

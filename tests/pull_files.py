@@ -1,5 +1,5 @@
 """
-Script to pull changed files in a Pull Request using a GET resquest to the
+Script to pull changed files in a Pull Request using a GET request to the
 GitHub API.
 """
 import requests
@@ -8,7 +8,7 @@ import argparse
 
 def parse_args():
     """Construct the command line interface for the script"""
-    DESCRIPTION = "Script to check for occurences of 'Lorem Ipsum' in Markdown files"
+    DESCRIPTION = "Script to check for occurrences of 'Lorem Ipsum' in Markdown files"
     parser = argparse.ArgumentParser(description=DESCRIPTION)
 
     parser.add_argument(
@@ -31,8 +31,11 @@ def get_files_from_pr(pr_num):
         {list} -- List of modified filenames
     """
     files = []
-    pr_url = f"https://api.github.com/repos/alan-turing-institute/the-turing-way/pulls/{pr_num}/files"
+    pr_url = f"https://api.github.com/repos/the-turing-way/the-turing-way/pulls/{pr_num}/files"
     resp = requests.get(pr_url)
+
+    # Raising for status to avoid ending up with red-herring tracebacks later
+    resp.raise_for_status()
 
     for item in resp.json():
         files.append(item["filename"])
