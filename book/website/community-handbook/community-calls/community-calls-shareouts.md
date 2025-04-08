@@ -1,15 +1,17 @@
 (ch-community-calls-shareouts)=
 # Community Share-outs
 
-Community share-outs are a type of event that are focused on sharing and celebrating the work of contributors.
+Community share-outs are a type of event or part of a call that are focused on sharing and celebrating the work of contributors.
 
-They were first planned in the specific context of Book Dash, our community's bi-annual contribution event. On the last day of the Book Dash, _The Turing Way_ team along with the planning committee members host Community Share-out and Contributor Celebration sessions that are open to the public. The Community Share-out events provide a public platform to openly recognise the work of our attendees and community contributors.
+In _The Turing Way_ we organise dedicated calls along with Book Dash events, our community's bi-annual contribution event.
+On the last day of the Book Dash, _The Turing Way_ team along with the planning committee members host Community Share-out and Contributor Celebration sessions that are open to the public. 
+The Community Share-out events provide a public platform to openly recognise the work of our attendees and community contributors.
 
 For more information, read the {ref}`Book Dash <ch-bookdash-events>` subchapter.
 
-## Evolution of Community Share-outs
+## Celebrating Contributions
 
-The Community Share-outs have evolved over the course of their organisation – with the "share-out" format being adopted to share (and celebrate) other types of work within the project.
+The Community Share-outs have have also been included as part of calls, such as Collaboration Café, to share and celebrate different kinds of work and contributions made by our community members.
 
 ### Formalising format of Book Dash Share-out (2019 - 2022)
 
