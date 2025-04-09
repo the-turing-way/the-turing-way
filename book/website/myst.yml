@@ -944,19 +944,31 @@ project:
               title: Book Dash Main Event Plans
             - file: community-handbook/bookdash/bookdash-after.md
               title: After the Book Dash
-        - file: community-handbook/coworking.md
-          title: Community Coworking Calls
+        - title: Community Calls
+          file: community-handbook/community-calls
           children:
-            - file: community-handbook/coworking/coworking-motivation.md
+            - file: community-handbook/community-calls/community-calls-coworking-motivation
               title: Background, Motivations, and Techniques
-            - file: community-handbook/coworking/coworking-collabcafe.md
-              title: Online Collaboration Cafe
-            - file: community-handbook/coworking/coworking-weekly.md
-              title: Weekly Coworking Calls
-            - file: community-handbook/coworking/coworking-organisation.md
-              title: Organising coworking calls
-            - file: community-handbook/coworking/coworking-dropins.md
-              title: Drop-in Sessions
+            - file: community-handbook/community-calls/community-calls-forums
+              title: Community Forums
+            - file: community-handbook/community-calls/community-calls-onboarding
+              title: Onboarding Calls
+            - file: community-handbook/community-calls/community-calls-coworking-organisation
+              title: Organising Coworking Calls
+            - file: community-handbook/community-calls/community-calls-collabcafe
+              title: Collaboration Cafes
+            - file: community-handbook/community-calls/community-calls-shareouts
+              title: Community Share-outs
+            - file: community-handbook/community-calls/community-calls-coworking
+              title: Coworking Calls
+            - file: community-handbook/community-calls/community-calls-coworking-dropins
+              title: Coworking Drop-ins
+            - file: community-handbook/community-calls/community-calls-working-groups
+              title: Working Group Meetings
+            - file: community-handbook/community-calls/community-calls-core-team
+              title: Core Team Meetings
+            - file: community-handbook/community-calls/community-calls-office-hours
+              title: Office Hours
         - file: community-handbook/onboarding-offboarding.md
           title: Onboarding and Offboarding
           children:
