@@ -1,0 +1,1034 @@
+version: 1
+project:
+  error_rules:
+    - rule: link-resolves
+      severity: ignore
+  title: The Turing Way
+  authors:
+    - name: The Turing Way Community
+  copyright: 2019-2025
+  exclude:
+    - LICENSE.md
+  github: the-turing-way/the-turing-way
+  license:
+    code: MIT
+    content: CC-BY-4.0
+  thebe:
+    binder:
+      repo: the-turing-way/the-turing-way
+      provider: github
+      url: https://mybinder.org
+      ref: main
+  bibliography:
+    - _bibliography/references.bib
+  toc:
+    - file: index.md
+    - file: foreword/foreword.md
+      children:
+        - file: foreword/background.md
+          title: Background
+        - file: foreword/navigate.md
+          title: Navigating the Handbook
+        - file: foreword/emergent-strategy.md
+          title: Emergence as The Turing Way Strategy
+        - file: foreword/embracing-digital-commons.md
+          title: Embracing the Principles of Digital Commons
+        - file: foreword/community.md
+          title: Community and Community Roles
+        - file: foreword/governance.md
+          title: Governance
+          children:
+            - file: foreword/governance/governance-roles
+              title: Governance Roles
+            - file: foreword/governance/ways-of-working
+              title: Ways of Working
+        - file: foreword/cite.md
+          title: How to Cite
+        - file: foreword/faqs.md
+          title: Frequently Asked Questions
+    # ===== Guide for Reproducible Research ========================================
+    - file: reproducible-research/reproducible-research.md
+      children:
+        - file: reproducible-research/overview.md
+          title: Overview
+          children:
+            - file: reproducible-research/overview/overview-definitions.md
+              title: Definitions
+            - file: reproducible-research/overview/overview-benefit.md
+              title: Added Advantages
+            - file: reproducible-research/overview/overview-barriers.md
+              title: Barriers
+            - file: reproducible-research/overview/overview-resources.md
+              title: Resources
+        - file: reproducible-research/open.md
+          title: Open Research
+          children:
+            - file: reproducible-research/open/open-data.md
+              title: Open Data
+            - file: reproducible-research/open/open-source.md
+              title: Open Source Software
+            - file: reproducible-research/open/open-hardware.md
+              title: Open Hardware
+            - file: reproducible-research/open/open-access.md
+              title: Open Access
+            - file: reproducible-research/open/open-notebooks.md
+              title: Open Notebooks
+            - file: reproducible-research/open/open-scholarship.md
+              title: Open Scholarship
+            - file: reproducible-research/open/open-checklist.md
+              title: Checklist
+            - file: reproducible-research/open/open-resources.md
+              title: Resources
+        - file: reproducible-research/vcs.md
+          title: Version Control
+          children:
+            - file: reproducible-research/vcs/vcs-workflow.md
+              title: Version Control Workflow
+            - file: reproducible-research/vcs/vcs-workflow-branches.md
+              title: Version Control and Branches
+            - file: reproducible-research/vcs/vcs-git-general.md
+              title: The Git Version Control Software
+            - file: reproducible-research/vcs/vcs-git-in-research.md
+              title: Git for Research Projects
+            - file: reproducible-research/vcs/vcs-git.md
+              title: Git Using the Command Line
+              children:
+                - file: reproducible-research/vcs/vcs-git-commit.md
+                  title: Git Commit Command
+                - file: reproducible-research/vcs/vcs-git-compare.md
+                  title: Retrieving and Comparing Versions
+                - file: reproducible-research/vcs/vcs-git-branches.md
+                  title: Git Branches
+                - file: reproducible-research/vcs/vcs-git-merge.md
+                  title: Merging Branches in Git
+                - file: reproducible-research/vcs/vcs-git-interactive.md
+                  title: Interactive, Visual Git
+                - file: reproducible-research/vcs/vcs-github.md
+                  title: Git Commands to Work on GitHub
+                - file: reproducible-research/vcs/vcs-git-summary.md
+                  title: Summary Table of Git Commands
+            - file: reproducible-research/vcs/vcs-data.md
+              title: Version Control for Data
+            - file: reproducible-research/vcs/vcs-personal-stories.md
+              title: Personal Stories
+            - file: reproducible-research/vcs/vcs-checklist.md
+              title: Checklist
+            - file: reproducible-research/vcs/vcs-resources.md
+              title: Resources
+        - file: reproducible-research/licensing.md
+          title: Licensing
+          children:
+            - file: reproducible-research/licensing/licensing-compatibility.md
+              title: License Compatibility
+            - file: reproducible-research/licensing/licensing-ethical-source.md
+              title: Ethics-informed Licensing
+            - file: reproducible-research/licensing/licensing-data.md
+              title: Data Licenses
+            - file: reproducible-research/licensing/licensing-hardware.md
+              title: Hardware Licenses
+            - file: reproducible-research/licensing/licensing-ml.md
+              title: Machine Learning Model Licenses
+              children:
+                - file: reproducible-research/licensing/licensing-ml-case-studies.md
+                  title: 'Case Studies: Choosing an ML License'
+            - file: reproducible-research/licensing/licensing-checklist.md
+              title: Checklist
+        - file: reproducible-research/rdm.md
+          title: Research Data Management
+          children:
+            - file: reproducible-research/rdm/rdm-data.md
+              title: Research Data
+            - file: reproducible-research/rdm/rdm-find.md
+              title: Finding Data
+            - file: reproducible-research/rdm/rdm-dmp.md
+              title: Data Management Plan
+            - file: reproducible-research/rdm/rdm-fair.md
+              title: The FAIR Principles and Practices
+            - file: reproducible-research/rdm/rdm-personal.md
+              title: Personal data management
+            - file: reproducible-research/rdm/rdm-storage.md
+              title: Data Storage and Organisation
+            - file: reproducible-research/rdm/rdm-spreadsheets.md
+              title: Data Organisation in Spreadsheets
+            - file: reproducible-research/rdm/rdm-metadata.md
+              title: Documentation and Metadata
+            - file: reproducible-research/rdm/rdm-methods.md
+              title: Methods and Protocols
+            - file: reproducible-research/rdm/rdm-elns.md
+              title: Electronic Lab Notebooks (ELNs)
+            - file: reproducible-research/rdm/rdm-data-curation.md
+              title: Data Curation
+            - file: reproducible-research/rdm/rdm-visualisation.md
+              title: Data Visualisation
+            - file: reproducible-research/rdm/rdm-repository.md
+              title: Data Repositories
+            - file: reproducible-research/rdm/rdm-sharing.md
+              title: Sharing and Archiving Data
+            - file: reproducible-research/rdm/rdm-article.md
+              title: Data Article
+            - file: reproducible-research/rdm/rdm-checklist.md
+              title: Checklist
+            - file: reproducible-research/rdm/rdm-stories.md
+              title: Personal Impact Stories
+            - file: reproducible-research/rdm/rdm-resources.md
+              title: Resources
+        - file: reproducible-research/renv.md
+          title: Reproducible Environments
+          children:
+            - file: reproducible-research/renv/renv-options.md
+              title: Capturing Computational Environments
+            - file: reproducible-research/renv/renv-package.md
+              title: Package Management Systems
+            - file: reproducible-research/renv/renv-yaml.md
+              title: YAML
+            - file: reproducible-research/renv/renv-virtualmachine.md
+              title: Virtual Machines
+            - file: reproducible-research/renv/renv-containers.md
+              title: Containers
+            - file: reproducible-research/renv/renv-resources.md
+              title: Resources and Checklist
+        - file: reproducible-research/binderhub.md
+          title: BinderHub
+          children:
+            - file: reproducible-research/binderhub/binderhub-introduction.md
+              title: Introduction to BinderHub
+            - file: reproducible-research/binderhub/binderhub-compute.md
+              title: Compute Resources
+            - file: reproducible-research/binderhub/binderhub-build.md
+              title: Build Your Own BinderHub
+            - file: reproducible-research/binderhub/binderhub-resources.md
+              title: Resources for BinderHub
+        - file: reproducible-research/code-documentation.md
+          title: Code Documentation
+          children:
+            - file: >-
+                reproducible-research/code-documentation/code-documentation-code.md
+              title: Documenting Code
+            - file: >-
+                reproducible-research/code-documentation/code-documentation-project.md
+              title: Project Documentation
+            - file: >-
+                reproducible-research/code-documentation/code-documentation-resources.md
+              title: Other Resources
+        - file: reproducible-research/code-quality.md
+          title: Code Quality
+          children:
+            - file: reproducible-research/code-quality/code-quality-style.md
+              title: Code Style and Formatting
+            - file: reproducible-research/code-quality/code-quality-robust.md
+              title: Writing Robust Code
+            - file: reproducible-research/code-quality/code-quality-resources.md
+              title: Checklist and Resources
+        - file: reproducible-research/testing.md
+          title: Code Testing
+          children:
+            - file: reproducible-research/testing/testing-guidance.md
+              title: General Guidance for Testing
+            - file: reproducible-research/testing/testing-overview.md
+              title: Overview of Testing Types
+            - file: reproducible-research/testing/testing-smoketest.md
+              title: Smoke Testing
+            - file: reproducible-research/testing/testing-unittest.md
+              title: Unit Testing
+            - file: reproducible-research/testing/testing-integrationtest.md
+              title: Integration Testing
+            - file: reproducible-research/testing/testing-systemtest.md
+              title: System Testing
+            - file: reproducible-research/testing/testing-acceptance-regression.md
+              title: Acceptance and Regression Testing
+            - file: reproducible-research/testing/testing-runtime.md
+              title: Runtime Testing
+            - file: reproducible-research/testing/testing-driven-development.md
+              title: Test Driven Development
+            - file: reproducible-research/testing/testing-exceptions.md
+              title: Challenges and Exceptional Cases
+            - file: reproducible-research/testing/testing-checklist.md
+              title: Checklist for Code Testing
+            - file: reproducible-research/testing/testing-resources.md
+              title: Further Recommendations
+        - file: reproducible-research/reviewing.md
+          title: Code Reviewing Process
+          children:
+            - file: reproducible-research/reviewing/reviewing-motivation.md
+              title: Motivation for code reviewing
+            - file: reproducible-research/reviewing/reviewing-recommend.md
+              title: Recommendations for code reviewing
+            - file: reproducible-research/reviewing/reviewing-workflow.md
+              title: Code review workflow
+            - file: reproducible-research/reviewing/reviewing-checklist.md
+              title: Checklist for code reviewing
+            - file: reproducible-research/reviewing/reviewing-resources.md
+              title: Resources for code reviewing
+        - file: reproducible-research/code-reuse.md
+          title: Reusable Code
+          children:
+            - file: reproducible-research/code-reuse/code-reuse-overview.md
+              title: Overview of Code Reuse
+            - file: reproducible-research/code-reuse/code-reuse-details.md
+              title: Detailed Recommendations for Code Reuse
+            - file: reproducible-research/code-reuse/code-reuse-packages.md
+              title: Reusing code by creating software packages
+        - file: reproducible-research/ci.md
+          title: Continuous Integration (CI)
+          children:
+            - file: reproducible-research/ci/ci-options.md
+              title: Intro to Continuous integration (CI)
+            - file: reproducible-research/ci/ci-github-actions.md
+              title: Getting started with GitHub actions
+            - file: reproducible-research/ci/ci-building-gh-actions.md
+              title: Building a Block of a GitHub actions
+            - file: reproducible-research/ci/ci-practices.md
+              title: Best practices and recommendations
+            - file: reproducible-research/ci/ci-resources.md
+              title: Checklist and Resources
+        - file: reproducible-research/make.md
+          title: Reproducible Research with Make
+          children:
+            - file: reproducible-research/make/make-examples.md
+              title: Learn "Make" by examples
+            - file: reproducible-research/make/make-debugging.md
+              title: Debugging Makefiles
+            - file: reproducible-research/make/make-casestudy.md
+              title: Case Study of a Reproducible Paper
+            - file: reproducible-research/make/make-results.md
+              title: Including numerical results and tables
+            - file: reproducible-research/make/make-resources.md
+              title: Resources for "Make"
+            - file: reproducible-research/make/make-appendix.md
+              title: Appendix
+        - file: reproducible-research/compendia.md
+          title: Research Compendia
+        - file: reproducible-research/risk-assess.md
+          title: Risk Assessment
+          children:
+            - file: reproducible-research/risk-assess/risk-assess-impact.md
+              title: Complexity and Impact of Risk Assessment
+            - file: reproducible-research/risk-assess/risk-assess-resources.md
+              title: Summary of Risk Assessment
+        - file: reproducible-research/case-studies.md
+          title: Case Studies
+          children:
+            - file: reproducible-research/case-studies/case-study-statistical.md
+              title: A Statistical Methods Manuscript
+    # ===== Guide for Project Design ========================================
+    - file: project-design/project-design.md
+      children:
+        - file: project-design/pd-overview.md
+          title: Overview of Project Design
+          children:
+            - file: project-design/pd-overview/pd-overview-planning.md
+              title: Planning for Project Design
+            - file: project-design/pd-overview/pd-overview-repro.md
+              title: Collaborative project documentation
+            - file: project-design/pd-overview/pd-overview-methods.md
+              title: Reproducibility Methods
+            - file: project-design/pd-overview/pd-overview-version.md
+              title: Version Control and Documentation
+            - file: project-design/pd-overview/pd-overview-sharing.md
+              title: Sharing Your Research Work
+        - file: project-design/pd-checklist.md
+          title: Project Design Checklist
+        - file: project-design/project-repo.md
+          title: Creating Project Repositories
+          children:
+            - file: project-design/project-repo/project-repo-readme.md
+              title: Landing Page - README File
+            - file: project-design/project-repo/project-repo-roadmapping.md
+              title: Roadmapping
+            - file: project-design/project-repo/project-repo-contributors.md
+              title: Contributors and Communication Pathways
+            - file: project-design/project-repo/project-repo-participation.md
+              title: Participation Guidelines
+            - file: project-design/project-repo/project-repo-advanced.md
+              title: Advanced Structure for Data Analysis
+            - file: project-design/project-repo/project-repo-resources.md
+              title: Further Recommendations
+        - file: project-design/persona.md
+          title: Personas and Pathways
+          children:
+            - file: project-design/persona/persona-creation.md
+              title: Persona Creation Tool
+            - file: project-design/persona/persona-contributors.md
+              title: Contributor Pathways
+        - file: project-design/filenaming.md
+          title: File Naming Convention
+        - file: project-design/code-styling.md
+          title: Code Styling and Linting
+          children:
+            - file: project-design/code-styling/code-styling-guidelines.md
+              title: Guidelines for Code Styling
+            - file: project-design/code-styling/code-styling-readability.md
+              title: Writing Human Readable Code
+            - file: project-design/code-styling/code-styling-tools.md
+              title: Code Styling Tools
+        - file: project-design/sdp.md
+          title: Sensitive Data Projects
+          children:
+            - file: project-design/sdp/types.md
+              title: Types of Sensitive Data
+            - file: project-design/sdp/personal.md
+              title: Personal Data
+            - file: project-design/sdp/confidential.md
+              title: Confidential Data
+            - file: project-design/sdp/biological.md
+              title: Biological Data
+            - file: project-design/sdp/metadata.md
+              title: Metadata
+            - file: project-design/sdp/combined.md
+              title: Combined Datasets
+        - file: project-design/sdpm.md
+          title: Managing Sensitive Data Projects
+          children:
+            - file: project-design/sdpm/informed.md
+              title: Informed consent
+            - file: project-design/sdpm/data-privacy-strategies.md
+              title: Data Privacy Strategies
+            - file: project-design/sdpm/sharing-sensitive-data.md
+              title: Sharing Sensitive Data
+            - file: project-design/sdpm/resources.md
+              title: Resources
+        - file: project-design/sdpw.md
+          title: Working on Sensitive Data Projects
+          children:
+            - file: project-design/sdpw/trew.md
+              title: Working with Trusted Research Environments
+            - file: project-design/sdpw/pd-sdp-private-learning.md
+              title: Privacy Preserving Machine Learning
+            - file: project-design/sdpw/pd-sdp-sensitive-files.md
+              title: Keeping Sensitive Files Secure
+            - file: project-design/sdpw/pd-sdp-sensitive-code.md
+              title: Sharing Your Jupyter Notebook
+            - file: project-design/sdpw/pd-sdp-exposing-data.md
+              title: Removing Sensitive Data From GitHub
+            - file: project-design/sdpw/pd-sdp-resources.md
+              title: Further Recommendations
+        - file: project-design/data-governance.md
+          title: Data Governance
+          children:
+            - file: project-design/data-governance/data-gov-ml.md
+              title: Data Governance for the Machine Learning Pipeline
+            - file: project-design/data-governance/bigcode_casestudy.md
+              title: BigCode Data Governance Case Study
+        - file: project-design/missing-data.md
+          title: Missing Data Handling
+          children:
+            - file: project-design/missing-data/missing-data-structures.md
+              title: Missing Data Structures
+            - file: >-
+                project-design/missing-data/missing-data-visualising-missingness.md
+              title: Visualising Missingness
+            - file: project-design/missing-data/missing-data-methods.md
+              title: Missing Data Handling Methods
+            - file: >-
+                project-design/missing-data/missing-data-structured-missingness.md
+              title: Structured Missingness
+            - file: project-design/missing-data/missing-data-checklist-resources.md
+              title: Checklist and Resources
+        - file: project-design/risks-of-bias.md
+          title: Risks of Bias in Research
+          children:
+            - file: project-design/risks-of-bias/identifying-risks-of-bias.md
+              title: Identifying Risks of Bias
+            - file: project-design/risks-of-bias/confounding-variables.md
+              title: Confounding Variables
+            - file: project-design/risks-of-bias/validation-generalisability.md
+              title: Validation and Generalisability
+            - file: project-design/risks-of-bias/discrimination-bias.md
+              title: Discrimination and Bias
+    # ===== Guide for Communication ========================================
+    - file: communication/communication.md
+      children:
+        - file: communication/comms-overview.md
+          title: Overview of Guide for Communication
+          children:
+            - file: communication/comms-overview/comms-overview-principles.md
+              title: Principles of Communicating with Wider Audiences
+            - file: communication/comms-overview/comms-overview-accessibly.md
+              title: Communicating Accessibly
+            - file: communication/comms-overview/comms-overview-resources.md
+              title: Resources and Recommendations
+        - file: communication/open.md
+          title: Open Scholarship
+          children:
+            - file: communication/open/education.md
+              title: Open Education
+        - file: communication/blogs.md
+          title: Blogs for Research Communication
+          children:
+            - file: communication/blogs/blogs-webpage.md
+              title: Building a Webpage for Blogs
+            - file: communication/blogs/blogs-personal-stories.md
+              title: Personal stories - Blogs
+        - file: communication/lay-summaries.md
+          title: Lay Summaries
+          children:
+            - file: communication/lay-summaries/lay-summaries-personal-stories.md
+              title: Personal Stories - Lay summaries
+        - file: communication/podcasts.md
+          title: Podcasts for Research Communication
+          children:
+            - file: communication/podcasts/podcasts-personal-stories.md
+              title: Personal Stories - Podcasts
+        - file: communication/presentations.md
+          title: Presenting Posters and Conference Talks
+          children:
+            - file: communication/presentations/presentations-remote.md
+              title: Presenting at Remote Events
+            - file: communication/presentations/presentations-personal-stories.md
+              title: Personal Stories - Presentations
+        - file: communication/social-media.md
+          title: Social Media for Research Communications
+          children:
+            - file: communication/social-media/social-media-twitter-tips.md
+              title: Tips for starting with X
+            - file: communication/social-media/social-media-twitter-multiple.md
+              title: Managing multiple X accounts
+        - file: communication/research-objects.md
+          title: Research Objects in Action
+          children:
+            - file: communication/research-objects/ro-concepts.md
+              title: Concepts
+            - file: communication/research-objects/ro-implementation.md
+              title: Implementation
+        - file: communication/citable.md
+          title: Making Research Objects Citable
+          children:
+            - file: communication/citable/citable-steps.md
+              title: Steps for Making Research Objects Citable
+            - file: communication/citable/citable-cite.md
+              title: Citing your own Research Objects
+            - file: communication/citable/citable-otherscite.md
+              title: Citing other peoples Research Objects
+            - file: communication/citable/citable-cff.md
+              title: Software citation with CITATION.cff
+            - file: communication/citable/citable-cffinit.md
+              title: Create a CITATION.cff using CFFinit
+            - file: communication/citable/citable-linking.md
+              title: Linking Research Objects
+            - file: communication/citable/citable-orcid.md
+              title: ORCID to Collect your Research Objects
+            - file: communication/citable/citable-resources.md
+              title: Checklists and Resources
+        - file: communication/dif-articles.md
+          title: Publishing Different Article Types
+          children:
+            - file: communication/dif-articles/data.md
+              title: Data Papers
+            - file: communication/dif-articles/methods.md
+              title: Methods Papers
+            - file: communication/dif-articles/micro.md
+              title: Micropublishing
+            - file: communication/dif-articles/reg.md
+              title: Registered Reports
+            - file: communication/dif-articles/software.md
+              title: Software Papers
+        - file: communication/os-comms.md
+          title: Communications in Open Source Projects
+          children:
+            - file: communication/os-comms/os-comms-issue-tracking.md
+              title: Issue Tracking
+            - file: communication/os-comms/os-comms-channels.md
+              title: Communication Channels
+        - file: communication/aa.md
+          title: Authorship and Contributions on Academic Articles
+          children:
+            - file: communication/aa/aa-overview.md
+              title: Overview of Academic Authorship
+            - file: communication/aa/aa-misconduct.md
+              title: Types of Authorship Misconduct
+            - file: communication/aa/aa-traditions.md
+              title: Discipline Specific Authorship Traditions
+            - file: communication/aa/aa-equitable.md
+              title: Large and Equitable Authorships
+            - file: communication/aa/aa-tips.md
+              title: Tips on How to Get Authorship Right
+            - file: communication/aa/aa-stories-interdisciplinary.md
+              title: Personal Stories - Authorship on Interdisciplinary Projects
+            - file: communication/aa/aa-stories-community.md
+              title: Personal Stories - Large Collaborative Research Community
+            - file: communication/aa/aa-resources.md
+              title: Resources
+        - file: communication/peer-review.md
+          title: Peer Review
+          children:
+            - file: communication/peer-review/peer-review-overview.md
+              title: Peer Review
+            - file: communication/peer-review/peer-review-open.md
+              title: Open Peer Review
+            - file: communication/peer-review/peer-review-guidance.md
+              title: Guidance on Peer Review for a Journal
+            - file: communication/peer-review/peer-review-code.md
+              title: Guidance on Code Review
+            - file: communication/peer-review/peer-review-resources.md
+              title: Resources
+        - file: communication/binder.md
+          title: Binder
+          children:
+            - file: communication/binder/zero-to-binder.md
+              title: Zero-to-Binder
+    # ===== Guide for Collaboration ========================================
+    - file: collaboration/collaboration.md
+      children:
+        - file: collaboration/github-novice.md
+          title: Getting Started With GitHub
+          children:
+            - file: collaboration/github-novice/github-novice-motivation.md
+              title: Motivation for Using GitHub
+            - file: collaboration/github-novice/github-novice-firststeps.md
+              title: First steps on GitHub
+            - file: collaboration/github-novice/github-novice-features.md
+              title: Using more GitHub features
+            - file: collaboration/github-novice/github-novice-advanced.md
+              title: Advanced GitHub features
+        - file: collaboration/maintain-review.md
+          title: Maintainers and Reviewers on GitHub
+          children:
+            - file: collaboration/maintain-review/maintain-review-maintenance.md
+              title: Project Maintenance
+            - file: collaboration/maintain-review/maintain-review-permissions.md
+              title: Ownership and Permissions
+            - file: collaboration/maintain-review/maintain-review-review.md
+              title: Reviewing Contributions
+            - file: collaboration/maintain-review/maintain-review-merge.md
+              title: Merging Contributions
+            - file: collaboration/maintain-review/maintain-review-resources.md
+              title: Resources
+        - file: collaboration/organising-meetings.md
+          title: Organising Meetings
+        - file: collaboration/coworking.md
+          title: Organising Online Coworking Calls
+        - file: collaboration/organising-conference.md
+          title: Organising Conferences
+          children:
+            - file: collaboration/organising-conference/reg-forms.md
+              title: Registration Forms
+            - file: collaboration/organising-conference/reg-form-template.md
+              title: Template for Registration Form
+        - file: collaboration/chairing.md
+          title: Chairing Events
+        - file: collaboration/event-participation.md
+          title: Participating in Events
+        - file: collaboration/ppie-events.md
+          title: Hosting Events with Public Contributors
+          children:
+            - file: collaboration/ppie-events/ppie-events-planning.md
+              title: Planning your PPIE Event
+            - file: collaboration/ppie-events/ppie-events-location.md
+              title: Location and Venue Planning
+            - file: collaboration/ppie-events/ppie-events-schedules.md
+              title: Scheduling and Agenda Considerations
+            - file: collaboration/ppie-events/ppie-events-comms.md
+              title: Communication Strategy and Planning
+            - file: collaboration/ppie-events/ppie-events-socials.md
+              title: Inclusive Social and Networking
+            - file: collaboration/ppie-events/ppie-events-tech.md
+              title: Technology Considerations
+            - file: collaboration/ppie-events/ppie-events-resources.md
+              title: Additional Resources
+        - file: collaboration/informal-chats.md
+          title: Informal Coffee Chats
+        - file: collaboration/event-tools.md
+          title: Tools for Facilitating Collaboration
+        - file: collaboration/stakeholder-engagement.md
+          title: Facilitating Stakeholder Engagement
+        - title: Managing a New Community and Team
+          file: collaboration/new-community.md
+          children:
+            - file: collaboration/new-community/new-community-guide.md
+              title: Guide to Planning a Community
+            - file: collaboration/new-community/new-community-techissues.md
+              title: Addressing Technical Issues
+            - file: collaboration/new-community/new-community-differences.md
+              title: Valuing Diversity and Differences
+            - file: collaboration/new-community/new-community-teamwork.md
+              title: Teamwork
+        - file: collaboration/academic-industry.md
+          title: Academic-Industry Collaborations
+          children:
+            - file: collaboration/academic-industry/academic-industry-establish.md
+              title: Establishing an Academic-Industry Collaboration
+            - file: collaboration/academic-industry/academic-industry-community.md
+              title: Community Building in an Academic-Industry Collaboration
+            - file: >-
+                collaboration/academic-industry/intro-case-studies-and-best-practices-in-academic-industry-collaboration.md
+              title: >-
+                Case Studies and Best Practices in Academic-Industry
+                Collaboration
+              children:
+                - file: collaboration/academic-industry/case-study-library.md
+                  title: Case Study Library
+                  children:
+                    - file: >-
+                        collaboration/academic-industry/case-studies/turing-roche-case-study.md
+                      title: Turing-Roche Case Study
+                    - file: >-
+                        collaboration/academic-industry/case-studies/practitioners-hub-case-study.md
+                      title: Practitioner's Hub Case Study
+                    - file: >-
+                        collaboration/academic-industry/case-studies/BridgeAI_IndependentScientificAdvice.md
+                      title: BridgeAI - Independent Scientific Advice
+                - file: >-
+                    collaboration/academic-industry/online-resources-best-practices.md
+                  title: Online Resources
+        - file: collaboration/ambassador-schemes.md
+          title: Ambassador Schemes
+          children:
+            - file: collaboration/ambassador-schemes/ambassador-schemes-establish.md
+              title: Establishing and Running an Ambassador Scheme
+            - file: >-
+                collaboration/ambassador-schemes/ambassador-schemes-personal-story.md
+              title: Turing-Roche Community Scholar Scheme Personal Story
+        - file: collaboration/team-manual.md
+          title: Team Manual
+          children:
+            - file: collaboration/team-manual/team-manual-on-off-boarding.md
+              title: On and Offboarding Team Members
+        - file: collaboration/leadership.md
+          title: Open Leadership in Data Science
+          children:
+            - file: collaboration/leadership/leadership-features.md
+              title: Important Features of Leadership
+            - file: collaboration/leadership/leadership-building.md
+              title: Building Healthy Leadership Skills
+            - file: collaboration/leadership/leadership-opportunities.md
+              title: Creating Leadership Opportunities
+            - file: collaboration/leadership/leadership-story-hackathon.md
+              title: Personal Story from Running a Hackathon
+            - file: collaboration/leadership/leadership-story-data-librarian.md
+              title: Personal Story of Leadership by a Data Librarian
+        - file: collaboration/research-infrastructure-roles.md
+          title: Research Infrastructure Roles
+          children:
+            - file: collaboration/research-infrastructure-roles/community-manager.md
+              title: Community Managers Overview
+            - file: collaboration/research-infrastructure-roles/data-steward.md
+              title: Data Stewards Overview
+            - file: >-
+                collaboration/research-infrastructure-roles/data-steward-personal-story.md
+              title: Data Steward Personal Story
+            - file: collaboration/research-infrastructure-roles/data-wrangler.md
+              title: Data Wrangler Overview
+            - file: collaboration/research-infrastructure-roles/rse.md
+              title: Research Software Engineers Overview
+            - file: >-
+                collaboration/research-infrastructure-roles/rse-personal-story.md
+              title: Research Software Engineering Personal Story
+            - file: collaboration/research-infrastructure-roles/ram.md
+              title: Research Application Manager Overview
+            - file: >-
+                collaboration/research-infrastructure-roles/research-infrastructure-developer.md
+              title: Research Infrastructure Developer Overview
+        - file: collaboration/remote-collab.md
+          title: Remote Collaboration
+          children:
+            - file: collaboration/remote-collab/remote-collab-prosandcons.md
+              title: Pros and Cons
+            - file: collaboration/remote-collab/remote-collab-guidelines.md
+              title: Guidelines for Remote Collaboration
+            - file: collaboration/remote-collab/remote-collab-team.md
+              title: Managing Distributed Teams
+            - file: collaboration/remote-collab/remote-collab-useful-resources.md
+              title: Useful Resources
+        - file: collaboration/hybrid-collab.md
+          title: Hybrid Collaboration
+          children:
+            - file: collaboration/hybrid-collab/hybrid-collab-challenges.md
+              title: Challenges faced during Hybrid Collaboration
+            - file: collaboration/hybrid-collab/hybrid-collab-guidelines.md
+              title: Guidelines for Hybrid Collaboration
+            - file: collaboration/hybrid-collab/hybrid-collab-resources.md
+              title: Resources
+        - file: collaboration/shared-ownership.md
+          title: Shared Ownership in Open Source Projects
+          children:
+            - file: collaboration/shared-ownership/shared-ownership-projects.md
+              title: Project Ownership
+            - file: collaboration/shared-ownership/shared-ownership-models.md
+              title: Shared Ownership Models
+            - file: collaboration/shared-ownership/shared-ownership-challenges.md
+              title: Challenges with Applying Ownership Models Retroactively
+            - file: collaboration/shared-ownership/shared-ownership-defaults.md
+              title: Nudging for a Better Default
+        - file: collaboration/oss-sustainability/oss-sustainability-challenges.md
+          title: Sustainability of Open Source Projects
+          children:
+            - file: collaboration/oss-sustainability/oss-sustainability-examples.md
+              title: Examples of Open Source Business Models
+    # ===== Guide for Ethical Research ========================================
+    - file: ethical-research/ethical-research.md
+      children:
+        - file: ethical-research/ethics-intro.md
+          title: Introduction to Research Ethics
+        - file: ethical-research/ethics-committees.md
+          title: Research Ethics Committees Workflows
+        - file: ethical-research/preclinical-research.md
+          title: Ethical Decisions in Preclinical Research
+        - file: ethical-research/law-policy.md
+          title: Law, Policy and Human Rights in Ethics
+          children:
+            - file: ethical-research/law-policy/law-policy-ethics.md
+              title: Ethics and law
+            - file: ethical-research/law-policy/law-policy-rights.md
+              title: Human rights
+            - file: ethical-research/law-policy/law-policy-resources.md
+              title: Further Recommendations
+        - file: ethical-research/social-data.md
+          title: Research Ethics for Social Data
+        - file: ethical-research/data-feminism.md
+          title: Data Feminism
+          children:
+            - file: ethical-research/data-feminism/data-feminism-power.md
+              title: Examining Power
+        - file: ethical-research/activism.md
+          title: Activism for Researchers
+          children:
+            - file: ethical-research/activism/activism-unionisation.md
+              title: Unionisation
+            - file: ethical-research/activism/activism-whistleblowing.md
+              title: Whistleblowing
+            - file: ethical-research/activism/activism-env-impact.md
+              title: The Environmental Impact of Digital Research
+            - file: ethical-research/activism/activism-robodebt.md
+              title: Case study - Robodebt
+            - file: ethical-research/activism/activism-case-study-google.md
+              title: Case study - Google Workers
+        - file: ethical-research/cultural-change.md
+          title: Cultural Change
+          children:
+            - file: ethical-research/cultural-change/cc-examples.md
+              title: Culture Change Models & Examples
+            - file: ethical-research/cultural-change/alt-models-discussion.md
+              title: Alternative Models of Culture Change in Open Research
+        - file: ethical-research/internal-policy.md
+          title: Internal Policy Advocacy
+        - file: ethical-research/self-reflection.md
+          title: Self-Reflection
+          children:
+            - file: ethical-research/self-reflection/sr-positionality.md
+              title: Identity and Positionality
+            - file: ethical-research/self-reflection/sr-power.md
+              title: Power and Privilege
+            - file: ethical-research/self-reflection/sr-prompts.md
+              title: Self-Reflection Prompts
+            - file: ethical-research/self-reflection/sr-resources.md
+              title: Resources
+        - file: ethical-research/data-hazards.md
+          title: Data-Hazards
+          children:
+            - file: ethical-research/data-hazards/dh-intro.md
+              title: Introduction
+            - file: ethical-research/data-hazards/dh-how-to-use.md
+              title: How To Use
+            - file: ethical-research/data-hazards/dh-case-study.md
+              title: Case Study
+        - file: ethical-research/ethics-open-source-governance.md
+          title: Ethical Considerations for Open Source Governance Models
+    # ===== Community Handbook ========================================
+    - file: community-handbook/community-handbook.md
+      children:
+        - file: community-handbook/coc.md
+          title: Code of Conduct
+          children:
+            - file: community-handbook/coc/coc-details.md
+              title: Code of Conduct in Detail
+            - file: community-handbook/coc/coc-reporting.md
+              title: Incident Reporting Guideline
+            - file: community-handbook/coc/coc-enforcement.md
+              title: Enforcement Manual
+            - file: community-handbook/coc/coc-acknowledgement.md
+              title: Acknowledgements
+        - file: community-handbook/contributing-guideline.md
+          title: Contributing to The Turing Way
+        - file: community-handbook/style.md
+          title: Style Guide
+          children:
+            - file: community-handbook/style/style-citing.md
+              title: Citing and Referencing External Resources
+            - file: community-handbook/style/style-crossref.md
+              title: Cross-Referencing Sections and Chapters
+            - file: community-handbook/style/style-figures.md
+              title: Using Figures
+            - file: community-handbook/style/style-more-styling.md
+              title: Glossary, Special Blocks and More Styling
+            - file: community-handbook/style/style-custom-styling.md
+              title: Custom Styling
+        - file: community-handbook/consistency.md
+          title: Maintaining Consistency
+          children:
+            - file: community-handbook/consistency/consistency-formatting.md
+              title: Formatting
+            - file: community-handbook/consistency/consistency-structure.md
+              title: Structure
+            - file: community-handbook/consistency/consistency-language.md
+              title: Language
+        - file: community-handbook/local-build.md
+          title: Build the Turing Way Book locally
+        - file: community-handbook/contributing.md
+          title: Contributing and Developing Chapters - Templates and Workflow
+          children:
+            - file: community-handbook/contributing/contributing-templates.md
+              title: Templates
+            - file: community-handbook/contributing/contributing-workflow.md
+              title: Workflow
+        - file: community-handbook/acknowledgement.md
+          title: Acknowledging Contributors
+          children:
+            - file: community-handbook/acknowledgement/acknowledgement-members.md
+              title: Community Members and Shared Ownership
+            - file: community-handbook/acknowledgement/acknowledgement-record.md
+              title: Record of Contributions
+            - file: community-handbook/acknowledgement/acknowledgement-examples.md
+              title: Different Contributions and Acknowledgements
+        - file: community-handbook/translation.md
+          title: Translation and Localisation
+          children:
+            - file: community-handbook/translation/translation-localisation.md
+              title: Translation of Open Source Projects
+            - file: community-handbook/translation/translation-workflow.md
+              title: Welcome to the localisation team of The Turing Way!
+            - file: community-handbook/translation/translation-getting-started.md
+              title: Embark on Your Localisation Journey
+            - file: community-handbook/translation/translation-hello-crowdin.md
+              title: Your Gateway to Crowdsourced Localisation
+        - file: community-handbook/infrastructure.md
+          title: Infrastructure
+          children:
+            - file: community-handbook/infrastructure/infrastructure-contributors.md
+              title: Publishing Contributors
+            - file: >-
+                community-handbook/infrastructure/infrastructure-external-link-check.md
+              title: External Link Checking
+            - file: community-handbook/infrastructure/infrastructure-dns.md
+              title: DNS
+        - file: community-handbook/accessibility.md
+          title: Accessibility
+          children:
+            - file: community-handbook/accessibility/accessibility-policy.md
+              title: Accessibility Policy
+            - file: >-
+                community-handbook/accessibility/accessibility-event-organising.md
+              title: Event Organising
+            - file: community-handbook/accessibility/accessibility-alt-text.md
+              title: Alt text
+            - file: >-
+                community-handbook/accessibility/accessibility-comms-platforms.md
+              title: Communication Platforms
+        - file: community-handbook/communication-channels.md
+          title: Communication Platforms
+          children:
+            - file: community-handbook/communication-channels/slack-start-guide.md
+              title: Slack Start Guide
+            - file: community-handbook/communication-channels/slack-welcome-guide.md
+              title: Slack Welcome Guide
+        - file: community-handbook/newsletters.md
+          title: Monthly Newsletters
+          children:
+            - file: community-handbook/newsletters/newsletters-process.md
+              title: A Process of Creating a newsletter
+            - file: community-handbook/newsletters/newsletters-style.md
+              title: Newsletter's Style Guide
+            - file: community-handbook/newsletters/newsletters-template.md
+              title: The Turing Way Newsletter Template
+        - file: community-handbook/bookdash.md
+          title: Book Dash Events
+          children:
+            - file: community-handbook/bookdash/bookdash-application.md
+              title: Application and Review Process
+            - file: community-handbook/bookdash/bookdash-logistics.md
+              title: Book Dash Logistics
+            - file: community-handbook/bookdash/bookdash-illustrator.md
+              title: Working With an Illustrator
+            - file: community-handbook/bookdash/bookdash-selection.md
+              title: Participant Selection Process
+            - file: community-handbook/bookdash/bookdash-events.md
+              title: Book Dash Main Event Plans
+            - file: community-handbook/bookdash/bookdash-after.md
+              title: After the Book Dash
+        - title: Community Calls
+          file: community-handbook/community-calls
+          children:
+            - file: community-handbook/community-calls/community-calls-coworking-motivation
+              title: Background, Motivations, and Techniques
+            - file: community-handbook/community-calls/community-calls-forums
+              title: Community Forums
+            - file: community-handbook/community-calls/community-calls-onboarding
+              title: Onboarding Calls
+            - file: community-handbook/community-calls/community-calls-coworking-organisation
+              title: Organising Coworking Calls
+            - file: community-handbook/community-calls/community-calls-collabcafe
+              title: Collaboration Cafes
+            - file: community-handbook/community-calls/community-calls-shareouts
+              title: Community Share-outs
+            - file: community-handbook/community-calls/community-calls-coworking
+              title: Coworking Calls
+            - file: community-handbook/community-calls/community-calls-coworking-dropins
+              title: Coworking Drop-ins
+            - file: community-handbook/community-calls/community-calls-working-groups
+              title: Working Group Meetings
+            - file: community-handbook/community-calls/community-calls-core-team
+              title: Core Team Meetings
+            - file: community-handbook/community-calls/community-calls-office-hours
+              title: Office Hours
+        - file: community-handbook/onboarding-offboarding.md
+          title: Onboarding and Offboarding
+          children:
+            - file: community-handbook/onboarding-offboarding/onboarding-general-calls.md
+              title: General Onboarding
+            - file: community-handbook/onboarding-offboarding/onboarding-core-team.md
+              title: Core Team Onboarding
+            - file: community-handbook/onboarding-offboarding/offboarding-core-team.md
+              title: Core Team Offboarding
+        - file: community-handbook/fireside-chat.md
+          title: Fireside Chat Series
+          children:
+            - file: community-handbook/fireside-chat/fireside-chat-checklist.md
+              title: Fireside Chat Planning Checklist
+            - file: community-handbook/fireside-chat/fireside-chat-roles.md
+              title: Fireside Chat Roles and Responsibilities
+        - file: community-handbook/presenting.md
+          title: Giving a Turing Way Talk
+        - file: community-handbook/templates.md
+          title: Template Collection
+          children:
+            - file: community-handbook/templates/template-bookdash-index.md
+              title: Book Dash Main Shared Document
+            - file: community-handbook/templates/template-bookdash-precall.md
+              title: Book Dash Pre-event Onboarding
+            - file: community-handbook/templates/template-bookdash-github.md
+              title: Book Dash GitHub Session
+            - file: community-handbook/templates/template-bookdash-notes.md
+              title: Book Dash Template for Shared Notes
+            - file: community-handbook/templates/template-bookdash-feedback.md
+              title: Book Dash Template for Feedback
+            - file: community-handbook/templates/template-coworking-collabcafe.md
+              title: Online Collaboration Cafe Templates
+            - file: community-handbook/templates/template-coworking-weekly.md
+              title: Weekly Coworking Call Template
+            - file: community-handbook/templates/template-newsletter-draft.md
+              title: Template for Drafting Newsletters
+            - file: community-handbook/templates/template-fireside-chat.md
+              title: Template for Fireside Chat Shared Notes
+    # ===== Afterword ========================================
+    - file: afterword/afterword.md
+      children:
+        - file: afterword/legal-disclaimer.md
+          title: Legal Disclaimer
+        - file: afterword/data-usage-statement.md
+          title: Data Usage Statement
+        - file: afterword/contributors-record.md
+          title: Contributors Record
+        - file: afterword/collaborators.md
+          title: Collaborators
+        - file: afterword/subprojects.md
+          title: Sub-projects, Working Groups, Informal Initiatives
+        - file: afterword/glossary.md
+          title: Glossary
+        - file: afterword/bibliography.md
+          title: Bibliography
+site:
+  options:
+    logo: ./figures/logo-detail-with-text.svg
+    favicon: ./figures/logo/favicon-32x32.png
+    analytics_google: UA-167881009-1
+    folders: true
+  template: book-theme

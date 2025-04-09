@@ -4,7 +4,7 @@
 ```{figure} ../../figures/healthy-research-tree.jpg
 ---
 name: ds4research
-alt: Researchers are pouring water on a tree. The water represents data science principles and tooling, the tree represents the research. The tree is big and beautiful, on its branches are specific outcome written, that is workflow efficiency, powerfull statistics, better collaboration, informative visualisations, more outputs, reproducible analysis, and team and community building.
+alt: Researchers are pouring water on a tree. The water represents data science principles and tooling, the tree represents the research. The tree is big and beautiful, on its branches are specific outcome written, that is workflow efficiency, powerful statistics, better collaboration, informative visualisations, more outputs, reproducible analysis, and team and community building.
 ---
 Data science practices can leverage the potential of the research workflow, in order to produce better research in less time. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```

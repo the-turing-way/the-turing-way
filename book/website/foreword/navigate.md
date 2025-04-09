@@ -2,7 +2,7 @@
 # Navigating _The Turing Way_
 
 _The Turing Way_ handbook is a collection of different guides on data science practices and additional sections to cover different aspects of the project and community approaches.
-Each section contains multiple chapters, and each chapters are divided into smaller, self-contained sub-chapters to allow you to navigate the book and its content easily at your own pace.
+Each section contains multiple chapters, and each chapter is divided into smaller, self-contained sub-chapters to allow you to navigate the book and its content easily at your own pace.
 
 ## _The Turing Way_ Guides 
 
@@ -19,7 +19,10 @@ Other guides contain different socio-technical aspects that should be considered
 ```{figure} ../figures/theturingway-chapters.*
 ---
 name: theturingway-chapters
-alt: _The Turing Way_ Guide to reproducible research and its structure illustrated to show a set of doors to represent how it's built on chapters and sub-chapters of the different areas of the guide
+alt: >
+  _The Turing Way_ Guide to reproducible research and its structure illustrated to show a set of doors with linking pathways to more doors that represents how it is built on chapters and sub-chapters of the different areas of the guide. 
+  There are three doors to represent chapters with each chapter door having 3 more doors linking to it to represent sub-chapters. 
+  There is a small magnifying glass at the side with text saying review, edit and improve the existing resources.
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
