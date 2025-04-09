@@ -12,6 +12,7 @@ For more information, read the {ref}`Book Dash <ch-bookdash-events>` subchapter.
 ## Celebrating Contributions
 
 The Community Share-outs have have also been included as part of calls, such as Collaboration Café and Community Forums, to share and celebrate different kinds of work and contributions made by our community members.
+The Community Share-outs have have also been included as part of calls, such as Collaboration Café and Community Forums, to share and celebrate different kinds of work and contributions made by our community members.
 
 ### Formalising Format of Book Dash Share-Out (2019 - 2022)
 
@@ -62,7 +63,7 @@ The agenda roughly included the following:
 
 #### Share-Outs in Community Forums (2024 - present)
 
-Similar to the Book Dash Share-outs, for each Community Forum, Working Group members are asked to share status updates since the previous call.
+Similar to the Book Dash Share-outs, in a shared etherpad and/or HackMD, working group members are asked to share status updates since the previous call.
 
 Each Working Group is usually represented by at least one person.
 This person would share key information about the Working Group, such as membership update, success, challenges, key highlight and call to action.
