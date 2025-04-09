@@ -1,14 +1,9 @@
 (ch-coworking-dropins)=
 # Drop-in Sessions
 
-Drop-in sessions are an informal collaboration format where a team or group of people, such as Working Groups in _The Turing Way_, host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
+Drop-in sessions are an informal collaboration format where a team or group of people host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
 
-These sessions generally include an online component, typically using [Zoom](https://www.zoom.us/). 
-The format and sign up method will depend on the needs and preferences of the organising team and the target community the sessions are designed for.
-
-The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection, stakeholder engagement, or research software engineering.
-The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or further collaboration.
-The sessions are also an opportunity to learn about and connect with new teams and individuals that an attendee may not regularly connect with.
+These sessions, although not centrally organised, can be used by Working Groups or other formally or informally organised groups in _The Turing Way_.
 
 ```{figure} ../../figures/research-communities.*
 ---
@@ -19,7 +14,19 @@ alt: Cartoon-like sketch of people in different nodes connecting into a central 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-## Attending a drop-in session
+
+## Motivation
+
+The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection, stakeholder engagement, or research software engineering.
+The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or further collaboration.
+The sessions are also an opportunity to learn about and connect with new teams and individuals that an attendee may not regularly connect with.
+
+## Organising a Drop-In Session
+
+Drop-ins can include an online component, typically using [Zoom](https://www.zoom.us/). 
+The format and sign up method will depend on the needs and preferences of the organising team and the target community the sessions are designed for.
+
+### Managing Participation
 
 There are many ways to manage attendee sign ups that occur before the call and during the call.
 The best method will depend on the size of your team, the desired audience, and the expected topics.
@@ -31,7 +38,7 @@ Here we share a few approaches, ranging from low touch to high touch:
 
 When there are more requests than available slots, any additional requests can be accommodated through multiple breakout rooms (if there are more hosts available) or scheduled for a future meeting.
 
-## Resources for drop-in sessions
+### Resources for drop-in sessions
 
 The resources used for these sessions help facilitate coordination amongst the organisers and also enable attendee sign up.
 
@@ -47,7 +54,7 @@ It they aren't recorded, this may enable attendees to speak more freely and open
 Breakout rooms may be created if there are multiple sessions happening at the same time.
 In that case, one host will stay in the main room to welcome new attendees and other hosts can meet with attendees in different breakout rooms.
 
-## Format of the session
+### Format of the session
 
 The following is an example format of a drop-in session.
 
@@ -96,7 +103,6 @@ In order to sign up, an interested attendee will directly message the hosts for 
 The hosts will then assign the attendee a 30-60 minute slot.
 Generally there are two hosts for the session, each from a different team so there are different skillsets represented.
 When there is a question or request for a skillset that do not match the hosts' expertise, they will direct the question to a member of the team who does who can pick up the question in a future session or outside of the drop-in sessions.
-
 
 ### Resources for drop-in sessions
 

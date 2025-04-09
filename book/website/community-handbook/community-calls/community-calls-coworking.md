@@ -1,5 +1,5 @@
 (ch-community-calls-coworking)=
-# Weekly Coworking Calls
+# Maintainers Coworking Calls
 
 _The Turing Way_ team has been hosting shorter coworking calls each week.
 These calls are similar to the Collaboration Cafes, but only 1-hour long.
