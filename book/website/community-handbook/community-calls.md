@@ -49,7 +49,7 @@ Community dynamics, especially for folks who know each other and work well toget
 Onboarding and welcoming calls are, therefore, organised for beginnings and newcomers to the project in mind.
 These calls include a general introduction to _The Turing Way_, the use of GitHub and different resources that can provide good starting points for those starting off with their journey with us.
 
-We had on a few occasions started and paused {ref}`Office Hours (now retired)<ch-community-calls-office-hours>`, which aimed to provide consistent time each week for anyone to join an open call and speak with our Research Community Manager.
+We had on a few occasions started and paused {ref}`Office Hours (now paused)<ch-community-calls-office-hours>`, which aimed to provide consistent time each week for anyone to join an open call and speak with our Research Community Manager.
 These calls are not as popular as our Collaboration Cafés, hence discontinued and replaced with dedicated onboarding calls.
 
 ## 4. Community Share-Out and Celebration calls
