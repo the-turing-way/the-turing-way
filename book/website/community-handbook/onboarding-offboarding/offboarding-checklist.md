@@ -3,8 +3,6 @@
 
 🌙 **Thank you for your contributions to *The Turing Way*.** 🌙
 
-This offboarding checklist is suggested as a basis for an offboarding checklist. It can be adapted for individuals being offboarded.
-
 This checklist can be used when offboarding a member from Maintenance Level groups or projects.
 
 A dedicated meeting should be scheduled to thoroughly discuss the handover of responsibilities and any other relevant matters, such as feedback for _The Turing Way_ governance.
@@ -12,15 +10,15 @@ This meeting should help ensure both the departing and remaining individuals fee
 
 ## Resources and Access
 
-- [ ] Please create and share any hand over resources that other people in The Turing Way can take on after your offboarding
-- [ ] Remove yourself from any private channels on Slack where you are stepping down from
-- [ ] Change access to [Github repository](https://github.com/alan-turing-institute/the-turing-way) as needed for role
+- [ ] Please create and share any handover resources to enable other members of The Turing Way to continue your work
+- [ ] Please remove yourself from any private Slack channels related to the roles you are stepping down from
+- [ ] Change access to [Github repository](https://github.com/alan-turing-institute/the-turing-way) as needed for the role
 - [ ] Update [Governance Roles document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md)
-- [ ] Edit and update _The Turing Way_ chapters capturing your experience and insights that other members of the community can benefit from
-- [ ] Remove access to Google Drive or other spaces where documentation, code or other resources are shared only with core members
+- [ ] Edit and update _The Turing Way_ chapters, especially in the Community Handbook, capturing your experience and insights that other members of our community can benefit from
+- [ ] Remove access to Google Drive or other platforms where documentation, code or other resources are shared only with core members
 - [ ] Remove accounts/password access to different platforms on Keybase
-- [ ] Upload your resources on [zenodo community page](https://zenodo.org/communities/the-turing-way/?page=1&size=20) for reference by others
-- [ ] Discuss any feedback or next steps through which we can stay connected with you
+- [ ] Upload your resources on [zenodo community page](https://zenodo.org/communities/the-turing-way/?page=1&size=20) and share for reference by others
+- [ ] Discuss any feedback or next steps through which members of our community can stay connected with you
 
 ## Events & Calendars
 - [ ] Remove from specific calendar invites
