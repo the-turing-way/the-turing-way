@@ -929,21 +929,6 @@ project:
               title: Newsletter's Style Guide
             - file: community-handbook/newsletters/newsletters-template.md
               title: The Turing Way Newsletter Template
-        - file: community-handbook/bookdash.md
-          title: Book Dash Events
-          children:
-            - file: community-handbook/bookdash/bookdash-application.md
-              title: Application and Review Process
-            - file: community-handbook/bookdash/bookdash-logistics.md
-              title: Book Dash Logistics
-            - file: community-handbook/bookdash/bookdash-illustrator.md
-              title: Working With an Illustrator
-            - file: community-handbook/bookdash/bookdash-selection.md
-              title: Participant Selection Process
-            - file: community-handbook/bookdash/bookdash-events.md
-              title: Book Dash Main Event Plans
-            - file: community-handbook/bookdash/bookdash-after.md
-              title: After the Book Dash
         - file: community-handbook/community-calls.md
           title: Community Events and Calls
           children:
@@ -974,6 +959,21 @@ project:
               title: Offboarding Checklist
         - file: community-handbook/community-forums.md
           title: Community Forums
+        - file: community-handbook/bookdash.md
+          title: Book Dash Events
+          children:
+            - file: community-handbook/bookdash/bookdash-application.md
+              title: Application and Review Process
+            - file: community-handbook/bookdash/bookdash-logistics.md
+              title: Book Dash Logistics
+            - file: community-handbook/bookdash/bookdash-illustrator.md
+              title: Working With an Illustrator
+            - file: community-handbook/bookdash/bookdash-selection.md
+              title: Participant Selection Process
+            - file: community-handbook/bookdash/bookdash-events.md
+              title: Book Dash Main Event Plans
+            - file: community-handbook/bookdash/bookdash-after.md
+              title: After the Book Dash
         - file: community-handbook/fireside-chat.md
           title: Fireside Chat Series
           children:
