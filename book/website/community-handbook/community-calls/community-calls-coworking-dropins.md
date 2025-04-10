@@ -1,8 +1,7 @@
 (ch-coworking-dropins)=
-
 # Drop-in Sessions
 
-Drop-in sessions are an informal collaboration format where a team or group of people host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
+Drop-in sessions are an informal collaboration format where a team or group of people, such as Working Groups in _The Turing Way_, host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
 
 These sessions generally include an online component, typically using [Zoom](https://www.zoom.us/). 
 The format and sign up method will depend on the needs and preferences of the organising team and the target community the sessions are designed for.
