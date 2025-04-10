@@ -1,8 +1,5 @@
 version: 1
 project:
-  error_rules:
-    - rule: link-resolves
-      severity: ignore
   title: The Turing Way
   authors:
     - name: The Turing Way Community
