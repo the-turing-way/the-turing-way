@@ -5117,6 +5117,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Nagabharan1",
+      "name": "Nagabharan1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72192695?v=4",
+      "profile": "https://github.com/Nagabharan1",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
