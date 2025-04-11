@@ -879,6 +879,17 @@ project:
               title: Record of Contributions
             - file: community-handbook/acknowledgement/acknowledgement-examples.md
               title: Different Contributions and Acknowledgements
+        - file: community-handbook/accessibility.md
+          title: Accessibility Guidance and Policy
+          children:
+            - file: community-handbook/accessibility/accessibility-policy.md
+              title: Accessibility Policy
+            - file: community-handbook/accessibility/accessibility-event-organising.md
+              title: Event Organising
+            - file: community-handbook/accessibility/accessibility-alt-text.md
+              title: Alt text
+            - file: community-handbook/accessibility/accessibility-comms-platforms.md
+              title: Communication Platforms
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
@@ -900,19 +911,6 @@ project:
               title: External Link Checking
             - file: community-handbook/infrastructure/infrastructure-dns.md
               title: DNS
-        - file: community-handbook/accessibility.md
-          title: Accessibility
-          children:
-            - file: community-handbook/accessibility/accessibility-policy.md
-              title: Accessibility Policy
-            - file: >-
-                community-handbook/accessibility/accessibility-event-organising.md
-              title: Event Organising
-            - file: community-handbook/accessibility/accessibility-alt-text.md
-              title: Alt text
-            - file: >-
-                community-handbook/accessibility/accessibility-comms-platforms.md
-              title: Communication Platforms
         - file: community-handbook/communication-channels.md
           title: Communication Platforms
           children:
