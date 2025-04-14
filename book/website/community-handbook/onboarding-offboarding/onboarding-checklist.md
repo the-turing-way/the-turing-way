@@ -14,7 +14,7 @@ This document can be used for people joining Working Groups or other key project
 Here we are using "Core Member" as umbrella term for all community members who take on Maintenance Level roles within the community.
 
 This may have included the following:
-- Chairs or co-chairs of Working Groups
+- Members of Working Groups
 - Organisers of events such as Book Dashes
 - Members in volunteer or funded roles leading on different initiatives
 
