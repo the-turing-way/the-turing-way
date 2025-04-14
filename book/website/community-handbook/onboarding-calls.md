@@ -17,7 +17,7 @@ This is a space to bring your questions and interests – we're so excited to me
 
 ### Agenda
 
-As of January 2024, onboarding calls are being trialed using the following format:
+As of January 2024, onboarding calls use the following format:
 
 1. Introduction, icebreaker (15min)
 2. The Turing Way - What is it? (5min)
