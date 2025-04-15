@@ -53,7 +53,7 @@ At the September 2023 Core Team meeting, the agenda explicitly involved discussi
 Working Group members shared feedback on decisions they felt blocked from making and/or need support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
 
 The Project Delivery team prioritised discussions on these matters during weekly coworking calls and Collaboration Cafés.
-During this period, the {ref}`three levels of decision-making<fw-governance>` was adopted in discussion with the Core Team to structure the governance process in _The Turing Way_.
+During this period, the {ref}`Three Levels of Decision-Making<fw-governance>` was adopted in discussion with the Core Team to structure the governance process in _The Turing Way_.
 
 ## Evolution of Format of Call
 
@@ -128,7 +128,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 | Start - 5min | 👋 Welcome & review of agenda |
 | 05 mins | Check-in & starting question |
 | 10 mins | Writing activity |
-| 45 mins | The Turing Way Governance Exercise: "Three levels of decision-making" |
+| 45 mins | The Turing Way Governance Exercise: "Three Levels of Decision-Making" |
 | 05 mins | Wrap up & Next steps |
 
 ## Archived Notes
@@ -137,14 +137,15 @@ Archived notes from these calls can be found on our [Github repository for gover
 
 ## Retiring Core Team Meetings and Transitioning to Community Forums
 
-_Last updated: February 2024_
+The Three Levels of Decision-Making was adopted as the primary governance model in _The Turing Way_.
+Operationalising this model, while addressing the project's needs and ensuring transparency with the broader community, required changes in how membership at the Maintenance Level was managed and how meetings at this level were conducted.
 
-The Core Team meetings were retired in early 2024.
+Consequently, the Working Groups were supported to host regular meetings for their respective groups.
+These meetings were self-led and designed to remain open for community membership. 
+By early 2024, the position of Working Groups within the Maintenance Level of The Turing Way's governance framework became established.
 
-The Three Levels of Decision-Making was adopted as the governance model in The Turing Way.
-Operationalising this governance model, while meeting the needs of the project and ensuring transparency with the broader community, required changes in how membership was managed at the Maintenance Level and how meetings at this level took place.
-
-Retiring Core Team meetings and transitioning to a more open Community Forum involved the following factors:
+The Core Team meetings themselves were retired in early 2024.
+The decision to retire Core Team meetings and transition to a more open Community Forum was influenced by the following factors:
 
 **1. The boundaries of the "Core Team" were not well defined**
 
@@ -195,6 +196,6 @@ While these themes had been present throughout the entire process of organising 
 
 Because the feedback shared in both meetings demonstrated its urgency (and in many ways, repeated the same feedback in different forms), this reinforced the need to transition this space into another format in 2024 and required *The Turing Way* Project Delivery Team to take different actions.
 
-This informed what is now an ongoing documentation process across the Foreword, Community Handbook and Afterword, GitHub repository for governance and Working Groups, and the operationalisation of three levels of decision-making within the project.
+This informed what is now an ongoing documentation process across the Foreword, Community Handbook and Afterword, GitHub repository for governance and Working Groups, and the operationalisation of Three Levels of Decision-Making within the project.
 
 The transition of the "Core Team Meetings" into broader "Community Forums" has allowed for the development of possible "solutions" and ongoing documentation of much-needed clarifications for recurring questions within the project by different Working Groups.
