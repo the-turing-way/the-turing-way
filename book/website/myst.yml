@@ -852,15 +852,15 @@ project:
               title: Glossary, Special Blocks and More Styling
             - file: community-handbook/style/style-custom-styling.md
               title: Custom Styling
-        - file: community-handbook/consistency.md
-          title: Maintaining Consistency
-          children:
-            - file: community-handbook/consistency/consistency-formatting.md
-              title: Formatting
-            - file: community-handbook/consistency/consistency-structure.md
-              title: Structure
-            - file: community-handbook/consistency/consistency-language.md
-              title: Language
+            - file: community-handbook/consistency.md
+              title: Maintaining Consistency
+              children:
+                - file: community-handbook/consistency/consistency-formatting.md
+                  title: Formatting
+                - file: community-handbook/consistency/consistency-structure.md
+                  title: Structure
+                - file: community-handbook/consistency/consistency-language.md
+                  title: Language
         - file: community-handbook/local-build.md
           title: Build the Turing Way Book locally
         - file: community-handbook/contributing.md
