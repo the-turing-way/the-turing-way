@@ -3,13 +3,13 @@
 
 ```{admonition} Note
 :class: tip
-These calls were organised to meet all members of Maintenance Working Groups every three months from June 2022 to September 2023. These calls were retired in 2024 and replaced with Community Forums to openly share updates related to governance. This documentation has been added for archival and transparency purposes.
+These meetings were organised to meet all members of Maintenance Working Groups every three months from June 2022 to September 2023. These meetings were retired in 2024 and replaced with Community Forums to openly share updates related to governance. This documentation has been added for archival and transparency purposes.
 ```
 
 The Core Team meetings were held in 2022 and 2023 to engage members working across different initiatives at the Maintainance Level in formalising different parts of _The Turing Way_ project and community.
 Members from across the volunteer-led Working Groups as well as projects supported by full or part-time funded roles were involved in the process of discussing the decision-making process and decentralising governance within the project both related to maintaining guides and other types of community-management work. 
 
-This chapter provides details about the meeting and also documents the evolution, including the reason for retiring this call below.
+This chapter provides details about the meeting and also documents the evolution, including the reason for retiring this meeting below.
 
 ## Motivation for Organising
 
@@ -18,7 +18,7 @@ In June 2022, to organise, recognise, and celebrate their specialised work and o
 At the time, this included volunteers working on the project across different Working Groups.
 These members represented institutions internationally, as well as employees of the Alan Turing Institute based in the United Kingdom, specifically those within the Tools, Practices and Systems (TPS) Programme, which hosted The Turing Way project.
 
-## Evolution of Call
+## Evolution of Meeting Formats
 
 _The development of working groups within the project has operated in parallel with the "Core Team meeting". This process will be detailed more fully in another chapter within the Community Handbook._
 
@@ -28,11 +28,11 @@ As of June 2022, the types of work formally defined within the project were rela
 Simultaneously, the Turing's TPS team had also expanded significantly with Research Community Manager (RCM), Research Application Manager (RAM) and Research Project/Programme Managers (RPMs) roles whose contributions to the project were not defined, though written into their job descriptions for improving transparency and reproducibility in the Turing's research projects.
 
 In the first Core Team meeting, hosted by the Project Delivery Team, a proposal was made to trial new Working Groups within the project under three themes: authors & reviewers, infrastructure maintainers, and trainers and mentors – formalising streams of work that already existed in the project, following the translation and localisation process.
-This call also invited volunteers from the existing Core Team to iterate on the format in the following months.
+This meeting also invited volunteers from the existing Core Team to iterate on the format in the following months.
 
 These three working groups were incubated and supported to meet and self-organise in the following months.
 In September 2022, the second meeting was organised to receive feedback from participants about the process of organising formally as working groups, as opposed to informally as different initiatives.
-[Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this call, identifying the need for personnel and organisational support, as well as projects (such as the transition from GitHub repository to organisation, website and domain, and other needs).
+[Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this meeting, identifying the need for personnel and organisational support, as well as projects (such as the transition from GitHub repository to organisation, website and domain, and other needs).
 
 At the January and March 2023 Core Team meetings, drafts were shared about the status of governance within the project – documenting the status of the incubated working groups.
 The "reviewers and editors" and "trainers and mentors" working groups, although helped review their respective areas of work, were retired due to a lack of organic interest from the community.
@@ -55,17 +55,17 @@ Working Group members shared feedback on decisions they felt blocked from making
 The Project Delivery team prioritised discussions on these matters during weekly coworking calls and Collaboration Cafés.
 During this period, the {ref}`Three Levels of Decision-Making<fw-governance>` was adopted in discussion with the Core Team to structure the governance process in _The Turing Way_.
 
-## Evolution of Format of Call
+## Evolution of Meeting Format
 
 The formats of the Core Team meetings were iteratively updated to account for the evolving nature of the discussions and in response to the engagement from the Core Team.
 
-The following tables show the timed agendas for each call as they evolved.
+The following tables show the timed agendas for each meeting as they evolved.
 
 Generally, the meeting plan included two core tasks: a series of status updates (either from project leadership, the community manager, and/or working groups) and a discussion or feedback-gathering exercise.
 
-The call started with a welcome and closed with the sharing of the next steps.
+The meetings started with a welcome and closed with the sharing of the next steps.
 
-### Call #1 (June 2022)
+### meeting #1 (June 2022)
 
 | Duration | Activity |
 | ---- | -------- |
@@ -76,7 +76,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 | 15 mins | Future plans |
 | 15 mins | Next steps |
 
-### Call #2 (Sept 2022)
+### meeting #2 (Sept 2022)
 
 | Duration | Activity |
 | ---- | -------- |
@@ -87,7 +87,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 | 10 mins | Any Other Business |
 | 5 mins | Action items & Next steps |
 
-### Call #3 (January 2023)
+### meeting #3 (January 2023)
 
 | Duration | Activity |
 | ---- | -------- |
@@ -99,7 +99,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 | 05 mins | Reflective: Writing Exercise |
 | 05 mins | Next steps | 
 
-### Call #4 March 2023
+### meeting #4 March 2023
 
 | Duration | Activity |
 | ---- | -------- |
@@ -110,7 +110,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 | 10 mins | Any Other Business |
 | 5 mins | Action items & Next steps |
 
-### Call #5 (June 2023)
+### meeting #5 (June 2023)
 
 | Duration | Activity |
 | ---- | -------- |
@@ -121,7 +121,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 | 05 mins | Gathering references & suggestions for governance |
 | 05 mins | Wrap up & Next steps |
 
-### Call #6 (September 2023)
+### meeting #6 (September 2023)
 
 | Duration | Activity |
 | ---- | -------- |
@@ -133,7 +133,7 @@ The call started with a welcome and closed with the sharing of the next steps.
 
 ## Archived Notes
 
-Archived notes from these calls can be found on our [Github repository for governance](https://github.com/the-turing-way/governance/tree/main/maintenance-level-resources).
+Archived notes from these meetings can be found on our [Github repository for governance](https://github.com/the-turing-way/governance/tree/main/maintenance-level-resources).
 
 ## Retiring Core Team Meetings and Transitioning to Community Forums
 
@@ -177,17 +177,16 @@ The Core Team meetings, in attempting to address the needs of both of these grou
 The Core Team meetings were initiated as part of formalising the governance process within *The Turing Way*.
 Bringing together diverse participants from across the community who were leading different efforts was identified as a need to support this formalisation.
 
-As the community continued to grow significantly throughout 2022 and 2023 with new initiatives and groups, the Core Team of the project that met during these calls expanded, mirroring the increasing need to formalise decision-making processes within the community.
+As the community continued to grow significantly throughout 2022 and 2023 with new initiatives and groups, the Core Team of the project that met during these meetings expanded, mirroring the increasing need to formalise decision-making processes within the community.
 To address this, the Core Team Meetings evolved into a forum for receiving feedback from a wide range of community leaders within the project.
-Facilitated written exercises and verbal discussions during these calls enabled the collection of this feedback and provided directions for where the Project Delivery Team needed to prioritise their efforts.
+Facilitated written exercises and verbal discussions during these meetings enabled the collection of this feedback and provided directions for where the Project Delivery Team needed to prioritise their efforts.
 
-Furthermore, while this call assembled community leaders from across the project, it was also identified as a closed space.
+Furthermore, while these meetings assembled community leaders from across the project, they were also identified as a closed space.
 
-The call was not open to observers from the wider community or to individuals from aligned communities.
-In other words, the call was closed to the "Core Team" by design to create a safe space for maintainers to gather, engage in governance-related discussions, and share feedback with the Project Delivery Team.
-Although updates from these meetings were recorded on GitHub and reported via newsletters, the need for a more transparent process for these discussions was imminent.
+These meetings were not open to observers from the wider community or to individuals from aligned communities. By design, these meetings were closed to the "Core Team" to create a safe space for maintainers to gather, engage in governance-related discussions, and share feedback with the Project Delivery Team. Although updates from these meetings were recorded on GitHub and reported via newsletters, the need for a more transparent process for these discussions was becoming increasingly apparent.
 
-A Community Forum where feedback and observation from the broader community and from aligned communities could be facilitated was designed and started in 2024, shifting away from the "closed Core Team meeting" space.
+To address this, a Community Forum was designed and launched in 2024.
+This forum aimed to facilitate feedback and observation from the broader community and aligned network, marking a shift away from the closed Core Team meeting format.
 
 **4. The feedback received during the calls needed different meeting infrastructure to act upon it.**
 
