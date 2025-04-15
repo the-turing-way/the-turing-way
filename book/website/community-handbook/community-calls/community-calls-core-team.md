@@ -13,10 +13,10 @@ This chapter provides details about the meeting and also documents the evolution
 
 ## Motivation for Organising
 
-The Working Groups in *The Turing Way* were formalised in 2022 by the Research Community Manager (then Anne Lee Steele).
-In June 2022, in order to formally organise, recognise, and celebrate specialised work and/or roles within the project, first meeting with all core members was hosted.
-At the time, this included volunteers to the project working across different Working Groups. 
-These members represented institutions internationally, as well as employees of the Alan Turing Institute based in the United Kingdom, specifically those based in the Tools, Practices and Systems (TPS) Programme which hosted _The Turing Way_ project. 
+The Working Groups in The Turing Way, signifying important Maintenance Level initiatives, were formalised in 2022 by the Research Community Manager (then Anne Lee Steele).
+In June 2022, to organise, recognise, and celebrate their specialised work and other maintenance-related roles within the community, the first meeting with all core contributors was hosted.
+At the time, this included volunteers working on the project across different Working Groups.
+These members represented institutions internationally, as well as employees of the Alan Turing Institute based in the United Kingdom, specifically those within the Tools, Practices and Systems (TPS) Programme, which hosted The Turing Way project.
 
 ## Evolution of call
 
