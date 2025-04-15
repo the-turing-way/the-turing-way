@@ -3,11 +3,11 @@
 
 ```{admonition} Note
 :class: tip
-These calls were organised to meet all members from Maintenance Working Groups every three months from June 2022 to September 2023. These calls during were retired in 2024 and replaced with Community Forums to openly share updates related to governance. This documentation has been added for archival and transparency purposes.
+These calls were organised to meet all members of Maintenance Working Groups every three months from June 2022 to September 2023. These calls were retired in 2024 and replaced with Community Forums to openly share updates related to governance. This documentation has been added for archival and transparency purposes.
 ```
 
-The Core Team meetings were held in 2022 and 2023 to engage members working across different initiatives at Maintainance Level in formalising different parts of _The Turing Way_ project and community.
-Members from across the volunteer-led Working Groups as well as projects supported by full or part-time funded roles were involved in the process of discussing decision-making process and decentralising governance within the project both related to maintaining guides and other types of community-management work. 
+The Core Team meetings were held in 2022 and 2023 to engage members working across different initiatives at the Maintainance Level in formalising different parts of _The Turing Way_ project and community.
+Members from across the volunteer-led Working Groups as well as projects supported by full or part-time funded roles were involved in the process of discussing the decision-making process and decentralising governance within the project both related to maintaining guides and other types of community-management work. 
 
 This chapter provides details about the meeting and also documents the evolution, including the reason for retiring this call below.
 
@@ -24,7 +24,7 @@ _The development of working groups within the project has operated in parallel w
 
 The first two meetings in June 2022 and September 2022 focused on the formalisation of the Maintenance Level members as the "Core Team" of _The Turing Way_.
 
-As of June 2022, the types of work formally defined within the project was related to Translation and Localisation and the Book Dash planning committee (which had begun in prior years).
+As of June 2022, the types of work formally defined within the project were related to Translation and Localisation and the Book Dash planning committee (which had begun in prior years).
 Simultaneously, the Turing's TPS team had also expanded significantly with Research Community Manager (RCM), Research Application Manager (RAM) and Research Project/Programme Managers (RPMs) roles whose contributions to the project were not defined, though written into their job descriptions for improving transparency and reproducibility in the Turing's research projects.
 
 In the first Core Team meeting, hosted by the Project Delivery Team, a proposal was made to trial new Working Groups within the project under three themes: authors & reviewers, infrastructure maintainers, and trainers and mentors – formalising streams of work that already existed in the project, following the translation and localisation process.
@@ -32,7 +32,7 @@ This call also invited volunteers from the existing Core Team to iterate on the 
 
 These three working groups were incubated and supported to meet and self-organise in the following months.
 In September 2022, the second meeting was organised to receive feedback from participants about the process of organising formally as working groups, as opposed to informally as different initiatives.
-[Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this call, identifying the need for personnel and organisational support, as well as projects (such as transition from GitHub repository to organisation, website and domain, and other needs).
+[Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this call, identifying the need for personnel and organisational support, as well as projects (such as the transition from GitHub repository to organisation, website and domain, and other needs).
 
 At the January and March 2023 Core Team meetings, drafts were shared about the status of governance within the project – documenting the status of the incubated working groups.
 The "reviewers and editors" and "trainers and mentors" working groups, although helped review their respective areas of work, were retired due to lack of organic interest from the community.
@@ -40,17 +40,17 @@ The "reviewers and editors" and "trainers and mentors" working groups, although 
 The "infrastructure maintainers" (which became the Infrastructure Working Group) continued on.
 A new Working Group to support the discussions around accessibility (issues [#2730](https://github.com/the-turing-way/the-turing-way/issues/2730)).
 
-Alongside, institutional [quarterly reports](), an internal auditing and review of _The Turing Way_ [community statistics report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) was documented and shared with the Core Team.
+Alongside, institutional [quarterly reports](https://github.com/the-turing-way/project-management/tree/main/quarterly_reports), an internal auditing and review of _The Turing Way_ [community statistics report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) was documented and shared with the Core Team.
 
 At the June 2023 Core Team meeting, the formalisation of Working Groups was further progressed.
 The Infrastructure and Translation & Localisation Working Groups continued to consolidate their work.
 The Infrastructure Working Group led the transition to a GitHub organisation, which was completed in August 2023.
-The Translation & Localisation team was particularly supported in sharing their work at international conference talks centered around their efforts during this time.
+The Translation & Localisation team was particularly supported in sharing their work at international conference talks centred around their efforts during this time.
 
 In partnership with volunteers from Metadocencia, the Accessibility Working Group also hosted regular meetings to advance documentation on accessibility.
 
 At the September 2023 Core Team meeting, the agenda explicitly involved discussions and review of decision-making within the project.
-Working Group members shared feedback on decisions they felt blocked on making and/or needed support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
+Working Group members shared feedback on decisions they felt blocked from making and/or need support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
 
 The Project Delivery team prioritised discussions on these matters during weekly coworking calls and Collaboration Cafés.
 During this period, the {ref}`three levels of decision-making<fw-governance>` was adopted in discussion with the Core Team to structure the governance process in _The Turing Way_.
@@ -63,7 +63,7 @@ The following tables show the timed agendas for each call as they evolved.
 
 Generally, the meeting plan included two core tasks: a series of status updates (either from project leadership, the community manager, and/or working groups) and a discussion or feedback-gathering exercise.
 
-The call started with a welcome and closed with the sharing of next steps.
+The call started with a welcome and closed with the sharing of the next steps.
 
 ### Call #1 (June 2022)
 
@@ -117,7 +117,7 @@ The call started with a welcome and closed with the sharing of next steps.
 | Start - 5min | 👋 Welcome & review of agenda |
 | 05 mins | Check-in & starting question |
 | 05 mins | Clarifying governance progress |
-| 40 mins | Guided discussion for core team (05 min solo, 10 min small group you know, 10 min small randomised group, 15 min all the group) |
+| 40 mins | Guided discussion (05 min solo, 10 min small group you know, 10 min small randomised group, 15 min all the group) |
 | 05 mins | Gathering references & suggestions for governance |
 | 05 mins | Wrap up & Next steps |
 
@@ -133,7 +133,7 @@ The call started with a welcome and closed with the sharing of next steps.
 
 ## Archived Notes
 
-Archived notes from these calls can be found on the our [Github repository for governance](https://github.com/the-turing-way/governance/tree/main/maintenance-level-resources).
+Archived notes from these calls can be found on our [Github repository for governance](https://github.com/the-turing-way/governance/tree/main/maintenance-level-resources).
 
 ## Retiring Core Team Meetings and Transitioning to Community Forums
 
@@ -165,7 +165,7 @@ Questions that arose included:
 
 - How does *The Turing Way* support the volunteers in their maintenance-level work? Do our acknowledgement and community management processes fairly capture and recognise their work?
 - Did Turing employees engaging in the Core Team represent their community role, or did they engage as representatives of their affiliated teams (like RCM, RAM, or RPM)? How did line management affect their responsibilities within *The Turing Way*?
-- What was the accountability mechanism for both paid employees and volunteer contributors joining Core Team?
+- What was the accountability mechanism for both paid employees and volunteer contributors joining the Core Team?
 - How effectively did the Core Team meetings address the distinct needs and challenges faced by volunteer versus paid contributors?
 - What were the perceived benefits and drawbacks of having both volunteer and paid contributors in the same Core Team meetings?
 - What mechanisms were in place to address potential conflicts of interest or power imbalances between paid and volunteer contributors within the Core Team?
