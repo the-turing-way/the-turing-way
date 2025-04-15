@@ -1,5 +1,5 @@
 (ch-community-calls)=
-# _The Turing Way_ Community Calls
+# Community Calls
 
 _The Turing Way_ community is distributed around the world.
 Our members are from diverse backgrounds, have different skills and interests, work many different jobs, and contribute to this project for a great variety of reasons. 

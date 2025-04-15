@@ -1,5 +1,5 @@
 (ch-newsletters)=
-# _The Turing Way_ Monthly Newsletters
+# Newsletters
 
 _The Turing Way_ team releases newsletters every month to share the latest updates with the community and beyond.
 These newsletters include event announcements, updates from the project, highlights from the community, useful resources for new and existing contributors, promotion of any ongoing efforts, impact stories of long-standing members and shoutouts to relevant online activities.
