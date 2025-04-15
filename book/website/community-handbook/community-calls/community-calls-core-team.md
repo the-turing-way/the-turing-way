@@ -154,9 +154,8 @@ Core Team meetings were initiated during a period of significant growth for *The
 This team initially included members from Working Groups who engaged in volunteer or in-kind capacities but had assumed community leadership roles across different areas of *The Turing Way*.
 All members contributing to *The Turing Way* in a paid capacity (at the Turing) were also invited to join the "Core Team" of *The Turing Way*, as contributing to *The Turing Way* was part of their role.
 
-While these two persona types (employee and volunteer contributors) were similar in their role of providing Maintenance Level support, their needs and dynamics differed due to team and line management responsibilities.
-
-The lack of clarity on "who" constituted the core team raised the question of accountability for facilitating contributions for volunteers or the feeling of obligation to contribute directly to *The Turing Way* project.
+While these two persona types (employee and volunteer contributors) shared the role of providing Maintenance Level support, their needs and dynamics differed due to their affiliations, availabilities and perceived responsibilities.
+The lack of clarity on "who" constituted the Core Team raised questions of accountability, specifically regarding facilitated contributions (as required to support volunteers) versus the obligation to contribute to _The Turing Way_ project.
 
 **2. More questions than solutions emerged from Core Team meetings**
 
