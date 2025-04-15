@@ -842,6 +842,8 @@ project:
         - file: community-handbook/style.md
           title: Style Guide
           children:
+            - file: community-handbook/style/writing-markdown.md
+              title: Writing Markdown
             - file: community-handbook/style/style-citing.md
               title: Citing and Referencing External Resources
             - file: community-handbook/style/style-crossref.md
