@@ -44,7 +44,7 @@ Dr Seuss said:
 
 This will render the same as the example with all sentences in one bullet point line, but will make it easier to see changes in pull requests.
 
-## Opinions are welcome, but ...
+## Opinions are welcome, but …
 
 _The Turing Way_ book is intended to be only *lightly* opinionated.
 Whilst more opinionated content is allowed, such content should be clearly marked.
