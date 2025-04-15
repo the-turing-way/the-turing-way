@@ -54,8 +54,6 @@ For example, there is an entry in the [`references.bib`][turingbib] file as:
 }
 ```
 
-**Finish editing by adding a new entry at the end of the file.**
-
 ### Citation key style-guide
 
 We recommend using the following structure for citation keys:
@@ -72,35 +70,17 @@ Where:
 
 ### Adding a new reference in the text
 
-To include a citation in your content, we follow the recommendation by [Jupyter Book](https://jupyterbook.org/content/citations.html) that uses [`sphinxcontrib-bibtex`](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/) extension.
+To cite an item in the bibliography, use the citation key (from [`references.bib`][turingbib]) with an `@` prefix.
+For example, `@baker2016reproducibility` renders as @baker2016reproducibility.
 
-The key concepts are:
+You can cite multiple items at once by separating them with semi-colons and enclosing them in square brackets.
+For example, `[@baker2016reproducibility; @Markowetz2015]` renders as [@baker2016reproducibility; @Markowetz2015].
 
-- Include a reference using using:
-```
-{cite:ps}`CITEKEY`
+You can read more about the markdown citation syntax in the [MyST Markdown documentation](https://mystmd.org/guide/citations#markdown-citations).
 
-```
-Here `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib].
-- You can also include multiple citations in one go by separating the CITEKEYs by a comma:
-```
-{cite:ps}`CITEKEY1,CITEKEY2,CITEKEY3`
-```
+### Sphinx-style Citation Roles
 
-We will cite the article that we edited earlier in the [`reference.bib`][turingbib] file using:
-
-```
-{cite:ps}`baker2016reproducibility`
-```
-
-This will appear in your chapter as {cite:ps}`baker2016reproducibility`.
-
-The complete bibliography entry is available at the end of this book (see {ref}`resources <bibliography>`) using the directives:
-
-    ```{bibliography} ../_bibliography/references.bib
-
-    ```
-
-For the advanced usage, see the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
+MyST also support the older style of [citation role](https://mystmd.org/guide/citations#citation-roles) used in Jupyter Book v1.
+These are not preferred for new citations, but you may see existing citation in this style in the book.
 
 [turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_bibliography/references.bib
