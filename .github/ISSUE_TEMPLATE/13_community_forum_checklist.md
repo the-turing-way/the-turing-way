@@ -12,7 +12,7 @@ Register here to attend: [add registration page link].
 
 ## Before the Event 
 
-- [ ] Create a planning issue on GitHub  - this issue's checklist
+- [ ] Create a planning issue on GitHub - this issue's checklist
 - [ ] Identify date and time
 - [ ] Invite a chair from the Maintainers level - debrief them as needed (housekeeping, agenda, introducing speakers) - the team will help with timekeeping, zoom and notes management and helping with breakouts
 - [ ] Set up the Framapad to guide the meeting (use templates from previous calls)
