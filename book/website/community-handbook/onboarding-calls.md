@@ -35,4 +35,4 @@ We would love to have more community members join in welcoming others to the com
 
 For members joining in Maintenance Level roles, we provide dedicated {ref}`onboarding<ch-onboarding-checklist>` and {ref}`offboarding<ch-offboarding-checklist>` checklists to ensure a smooth transition into and out of their roles.
 These checklists outline key resources and access.
-A meeting with a member from The Turing Way Maintenance Level using these checklists will facilitate an understanding of expectations upon joining and the handover process when departing, helping to maintain the project's continuity and knowledge base.
+A meeting with a member from _The Turing Way_ Maintenance Level using these checklists will facilitate an understanding of expectations upon joining and the handover process when departing, helping to maintain the project's continuity and knowledge base.

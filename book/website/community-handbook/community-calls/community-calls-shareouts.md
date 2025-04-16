@@ -62,7 +62,7 @@ The agenda roughly included the following:
 
 #### Share-Outs in Community Forums (2024 - present)
 
-Similar to the Book Dash Share-outs, for each Community Forums, Working Group members are asked to share status updates since the previous call.
+Similar to the Book Dash Share-outs, for each Community Forum, Working Group members are asked to share status updates since the previous call.
 
 Each Working Group is usually represented by at least one person.
 This person would share key information about the Working Group, such as membership update, success, challenges, key highlight and call to action.

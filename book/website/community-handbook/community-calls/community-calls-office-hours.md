@@ -15,7 +15,7 @@ This space was created as an informal space to ask questions about the project, 
 They were modeled to be one-on-one online help sessions to directly help new community members as they learn more about _The Turing Way_ project. 
 No booking or prior planning was required, and no attendence was tracked to ensure psychological safety and informality of the call.
 
-In 2020 these calls were hosted by Malvika Sharan, and in 2022-2023 by Anne Lee Steele.  h
+In 2020 these calls were hosted by Malvika Sharan, and in 2022-2023 by Anne Lee Steele. 
 
 ## About "office" or "drop-in" hours
 
@@ -31,7 +31,7 @@ _Last updated: February 2024_
 
 Office hours were paused due to the following reasons:
 
-1. **Low attendence**: In the 6 months that the cals were organised, they were not well-attended. While the calls were advertised across the Slack workspace and social media websites, there was usually no more than one attendee in each office hour, with some office hours not being attended by any community member at all. In these cases, the space was re-organised for meetings  (or alternatively: the space was re-organsed)
+1. **Low attendence**: In the 6 months that the calls were organised, they were not well-attended. While the calls were advertised across the Slack workspace and social media websites, there was usually no more than one attendee in each office hour, with some office hours not being attended by any community member at all. In these cases, the space was re-organised for meetings  (or alternatively: the space was re-organised)
 
 2. **Unclear purpose**: Existing documentation around office hours and/or drop-in hours suggest that such calls are usually better attended if there is a clear purpose for attendence, such as a specific question (see: [Think Student](https://thinkstudent.co.uk/what-is-a-drop-in-session-at-uni/), [Small Pond Science](https://smallpondscience.com/2016/03/21/what-are-office-hours-for/)). Because of the 'question-and-answer' format, they are not 
 

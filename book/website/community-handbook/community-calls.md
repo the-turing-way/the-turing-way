@@ -3,21 +3,21 @@
 
 _The Turing Way_ community is distributed around the world.
 Our members are from diverse backgrounds, have different skills and interests, work many different jobs, and contribute to this project for a great variety of reasons. 
-They are also, for the most part, unpaid to contribute to this open source project.
+They are also, for the most part, not paid to contribute to this open source project.
 
 To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. 
 These calls may vary from collaboration and working calls to organisational meetings, to public share-outs that demonstrate transparency, to a mixture of all of the above. 
 Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom.
 
-On each page of this subchapter, you can learn more about each type of community call, which are roughly organised based on their nature such as open to the community, open for maintainers, and suggestion for calls that are not organised centrally or paused, but offers format that can be used by our community members.
+On each page of this subchapter, you can learn more about each type of community call, which are roughly organised based on their nature such as open to the community, open for maintainers, and formats for calls that are not organised centrally or are paused, but that can be used by our community members for inspiration for other communities.
 
 Not all of our community calls fit neatly into one category over another. 
-Some use mix practices depending on the purposes (for example coworking and celebrations), while others may have a specific purpose (such as close discussion or open decision-making). 
+Some use mixed practices depending on the purposes (for example coworking and celebrations), while others may have a specific purpose (such as close discussion or open decision-making). 
 All are meant to integrate our principles of being an open and transparent community.
 
 ## 1. Coworking calls
 
-{ref}`Weekly Coworking for maintainers<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are {ref}`coworking calls<cl-coworking>`, open for _The Turing Way_ community members working across Maintenance and Community Levels initiatives respectively.
+{ref}`Weekly Coworking for maintainers<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are {ref}`coworking calls<cl-coworking>`, open for _The Turing Way_ community members working across Maintenance and Community Levels respectively.
 
 We bring the practice of coworking to _The Turing Way_ through online coworking calls.
 Online coworking calls generally allow people to allocate time in their schedules to work alongside others.
@@ -25,7 +25,7 @@ Online coworking calls generally allow people to allocate time in their schedule
 These calls intend to cultivate a sense of energy and inspiration similar to in-person interactions, but without the associated time and travel commitments.
 
 Our coworking calls provide opportunities for community members to dedicate time to their desired tasks within _The Turing Way_ and complete them, either partially or fully, with the support of others on the call.
-These interactions can involve discussing plans, co-developing resources, sharing ideas, or providing accountability of self-directed tasks.
+These interactions can involve discussing plans, co-developing resources, sharing ideas, or providing accountability for self-directed tasks.
 
 We have described the process of {ref}}`organising coworking calls<cl-coworking>` in our guide for collaboration.
 If you would like to set up coworking calls, you can repurpose and adapt the format, templates, and materials discussed in this chapter to support your teams and communities.
@@ -41,7 +41,7 @@ Collaborative notes, capturing feedback and highlights are archived on the [`gov
 
 ## 3. Onboarding and Welcoming calls
 
-{ref}`Onboarding Calls<ch-onboarding-calls>` allows experienced members of our community to offer beginner-friendly spaces for new members of our community.
+{ref}`Onboarding Calls<ch-onboarding-calls>` allow experienced members of our community to offer beginner-friendly spaces for new members of our community.
 
 Members, who may not have previous experience engaging with _The Turing Way_ or any open science projects, may find it hard to navigate different aspects of the projects.
 Community dynamics, especially for folks who know each other and work well together, can make it intimidating for folks who are still figuring out what part of the project and community is the right fit for them.
