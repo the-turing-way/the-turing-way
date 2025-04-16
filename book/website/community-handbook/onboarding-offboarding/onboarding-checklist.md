@@ -4,10 +4,6 @@
 **☀️ Welcome to *The Turing Way*!☀️**
 
 ```{admonition} Note
-:class: tip
-This document was prepared and shared from 2022-2023 for community members who were identified to have a Maintenance Level role within the community, either transitioning into or stepping into of that role.
-At the time, this group was called the "Core Member" of _The Turing Way_, used as umbrella term for all community members who have taken on a maintenance role within the community.
-```
 
 This document can be used for people joining Working Groups or other key projects within _The Turing Way_. 
 
