@@ -29,7 +29,7 @@ To learn more about the Community Forum, please refer to the corresponding chapt
 - [ ] Create a calendar event with all information
 - [ ] Invite speakers, blocking calendar for the event and 15 mins pre-event tech-check/Green room (use the same Zoom link!)
 - [ ] Reach out to a Working Group representative who can share updates from their Working Group on the day
-- [ ] Add information to the start page
+- [ ] Ask the Community Management Working Group to update the information on the [start page](https://the-turing-way.start.page/)
 - [ ] Announce at least 3-4 weeks in advance on Slack, Newsletter, Bluesky, LinkedIn, and different meetings
 - [ ] Update the Turing Way calendar with Zoom, Etherpad and Registration form - and pass it to registered participants
 
