@@ -47,7 +47,7 @@ To learn more about the Community Forum, please refer to the corresponding chapt
 ## After the session
 
 - [ ] Review Community Call pluses and deltas
-- [ ] Have a Community Call debrief with the Project Delivery Team
+- [ ] Have a Community Call debrief with the Steering Committee and/or Working Group members involved in delivering the next Community Forum
 - [ ] Upload notes to the [Community Forum folder in the Governance repository](https://github.com/the-turing-way/governance)
 - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
 - [ ] Upload the video on The Turing Way YouTube - label and annotate well, and add the flyer as the video's front page
