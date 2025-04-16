@@ -51,31 +51,16 @@ There are also helpful tools on the web, such as [Turndown](https://domchristie.
 
 Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test).
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
-In addition, content like YouTube videos and tables with headers that span multiple columns or rows can be written in `HTML`.
 
-
-````{attention} A Note About Styling
-:class: tip
-
-_The Turing Way_ has a [book-wide stylesheet](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
-If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
-
-For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
-
-```html
-<div class="video-container">
-    <iframe>....</iframe>
-</div>
-```
-````
 
 This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`.
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tv0HlVgxDdI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+```{iframe} https://www.youtube.com/watch?v=tv0HlVgxDdI
+:width: 100%
+:align: center
+```
 
 #### Writing Checklists
 
@@ -113,10 +98,10 @@ A list of such files can be found in [this issue](https://github.com/the-turing-
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/qq9QCrykdbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+```{iframe} https://www.youtube.com/embed/qq9QCrykdbw
+:align: center
+:width: 100%
+```
 
 (ch-consistency-formatting-hr-labels)=
 ### Check 3: Add labels to chapters, subchapters, sections, and images to enable cross-referencing.
@@ -129,9 +114,10 @@ This helps make _The Turing Way_ more navigable and accessible.
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ikcjxjklLVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+```{iframe} https://www.youtube.com/embed/ikcjxjklLVg
+:width: 100%
+:align: center
+```
 
 (ch-consistency-formatting-hr-images)=
 ### Check 4: Use `MyST` for image formatting
@@ -159,9 +145,10 @@ You should always check how your image looks in the Netlify preview of the book 
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/upBiKLR_A5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+```{iframe} https://www.youtube.com/embed/upBiKLR_A5E
+:width: 100%
+:align: center
+```
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -196,10 +183,10 @@ Nonetheless, remember that the final title should adequately tell readers what t
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HxcdqKJbCE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+```{iframe} https://www.youtube.com/embed/HxcdqKJbCE4
+:width: 100%
+:align: center
+```
 
 (ch-consistency-formatting-sr-two)=
 ### Check 2: Ensure proper title-casing for headers
@@ -224,6 +211,7 @@ For example, because some of the headers in this chapter make up a checklist - t
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ET_LI5dwP9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+```{iframe} https://www.youtube.com/embed/ET_LI5dwP9M
+:width: 100%
+:align: center
+```
