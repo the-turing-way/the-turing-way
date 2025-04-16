@@ -12,13 +12,10 @@ Community Forums are our public-facing calls to share updates from across {ref}`
 
 ### Background
 
-Before launching Community Forums, from June 2022 to September 2023, the Project Delivery Team hosted a regular meeting for the members working at the Maintenance Level.
-Over 25 people working across different Working Groups were invited to attend {ref}`Core Community Meetings<ch-community-calls-core-team>` to discuss their work, build standard workflow and improve decision-making processes at the Maintenance Level.
-These meetings, although not open to the broader community, discussed community-wide projects and reported updates broadly via our newsletters.
-
-As the community has grown, decision-making processes and structures have also needed different levels of formalisation and transparency, which is why instead of closed meetings, we opted for regular community-wide Community Forums starting in 2024.
-
-These calls are a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
+As our community has grown, the need for more formalised and transparent decision-making processes and structures has become apparent.
+To further improve transparency and awareness of the diverse work within our community, we began hosting regular community-wide Community Forums in 2024, transitioning from the {ref}Core Team meetings<ch-community-calls-core-team>. 
+ 
+These forums offer a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives worldwide.
 
 ### Improving Transparency and Decision-Making
 
