@@ -850,8 +850,10 @@ project:
               title: Cross-Referencing Sections and Chapters
             - file: community-handbook/style/style-figures.md
               title: Using Figures
-            - file: community-handbook/style/style-more-styling.md
-              title: Glossary, Special Blocks and More Styling
+            - file: community-handbook/style/style-glossary.md
+              title: Glossary
+            - file: community-handbook/style/style-blocks.md
+              title: Special Blocks
             - file: community-handbook/style/style-custom-styling.md
               title: Custom Styling
             - file: community-handbook/style/style-consistency.md
