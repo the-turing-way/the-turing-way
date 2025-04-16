@@ -3,7 +3,6 @@
 
 **☀️ Welcome to *The Turing Way*!☀️**
 
-```{admonition} Note
 
 This document can be used for people joining Working Groups or other key projects within _The Turing Way_. 
 
