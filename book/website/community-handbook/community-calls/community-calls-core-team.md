@@ -18,7 +18,7 @@ In June 2022, to organise, recognise, and celebrate their specialised work and o
 At the time, this included volunteers working on the project across different Working Groups.
 These members represented institutions internationally, as well as employees of the Alan Turing Institute based in the United Kingdom, specifically those within the Tools, Practices and Systems (TPS) Programme, which hosted The Turing Way project.
 
-## Evolution of Meeting Formats
+## Evolution of Governance Groups and Meeting's Purpose
 
 _The development of working groups within the project has operated in parallel with the "Core Team meeting". This process will be detailed more fully in another chapter within the Community Handbook._
 
@@ -34,13 +34,13 @@ These three working groups were incubated and supported to meet and self-organis
 In September 2022, the second meeting was organised to receive feedback from participants about the process of organising formally as working groups, as opposed to informally as different initiatives.
 [Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this meeting, identifying the need for personnel and organisational support, as well as projects (such as the transition from GitHub repository to organisation, website and domain, and other needs).
 
-At the January and March 2023 Core Team meetings, drafts were shared about the status of governance within the project – documenting the status of the incubated working groups.
-The "reviewers and editors" and "trainers and mentors" working groups, although helped review their respective areas of work, were retired due to a lack of organic interest from the community.
+At the January and March 2023 Core Team meetings, drafts were shared about the status of governance within the project, documenting the status of the incubated working groups.
+The "reviewers and editors" and "trainers and mentors" working groups, although they helped review their respective areas of work, were retired due to a lack of organic interest from the community.
 
 The "infrastructure maintainers" (which became the Infrastructure Working Group) continued on.
 A new Working Group was created to support the discussions around accessibility (issues [#2730](https://github.com/the-turing-way/the-turing-way/issues/2730)).
 
-Alongside, institutional [quarterly reports](https://github.com/the-turing-way/project-management/tree/main/quarterly_reports), an internal auditing and review of _The Turing Way_ [community statistics report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) was documented and shared with the Core Team.
+Alongside institutional [quarterly reports](https://github.com/the-turing-way/project-management/tree/main/quarterly_reports), an internal auditing and review of _The Turing Way_ [community statistics report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) was documented and shared with the Core Team.
 
 At the June 2023 Core Team meeting, the formalisation of Working Groups was further progressed.
 The Infrastructure and Translation & Localisation Working Groups continued to consolidate their work.
