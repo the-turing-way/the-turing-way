@@ -1,4 +1,4 @@
-(ch-newsltters-template)
+(ch-newsletters-template)
 # Template for Drafting Newsletters
 
 The template outlined below is what we have been using as a guide for collecting news items for _The Turing Way_ newsletters.
