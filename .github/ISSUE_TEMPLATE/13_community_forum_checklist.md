@@ -8,9 +8,12 @@ assignees: ''
 ---
 **The upcoming Community Forum is on Date - Month - Year**
 
+This issue will guide the planning and delivery of the upcoming Community Forum of _The Turing Way_.
+
 Register here to attend: [add registration page link].
 
 To learn more about the Community Forum, please refer to the corresponding chapter in our Community Handbook: https://book.the-turing-way.org/community-handbook/community-forums
+
 ## Before the Event 
 
 - [ ] Create a planning issue on GitHub - this issue's checklist
