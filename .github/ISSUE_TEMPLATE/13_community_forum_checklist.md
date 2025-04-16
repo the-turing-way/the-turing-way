@@ -20,7 +20,7 @@ Register here to attend: [add registration page link].
 - [ ] Create a registration page (Google form template)
 - [ ] Create a Zoom link with a waiting room and live transcription enabled.
   - [ ] Give 'co-host rights' to all facilitators (if possible) to allow them to manage Zoom participants and chats.
-- [ ] Define the agenda with the Steering Committee (representatives from each WG and project)
+- [ ] Define the agenda with the Steering Committee (representatives from each Working Group and project)
 - [ ] Identify other presenters who may present or lead a session during the call
 - [ ] Create a calendar event with all information
 - [ ] Invite speakers, blocking  calendar for the event and 15 mins pre-event tech-check/Green room
