@@ -16,7 +16,7 @@ Register here to attend: [add registration page link].
 - [ ] Identify date and time
 - [ ] Invite a chair from the Maintenance level - brief them as needed (housekeeping, agenda, introducing speakers) - the Community Management Working Group will help with timekeeping, Zoom and notes management, and creating breakouts
 - [ ] Set up the Framapad to guide the meeting (use templates from previous calls)
-- [ ] Set up a shared slide deck for all WG members to share updates before the event (use templates from previous calls)
+- [ ] Set up a shared slide deck for all Working Group members to share updates before the event and for the Chair to add a slide introducing themselves (use templates from previous calls)
 - [ ] Create a registration page (Google form template)
 - [ ] Create a Zoom link with a waiting room and live transcription enabled.
   - [ ] Give 'co-host rights' to all facilitators (if possible) to allow them to manage Zoom participants and chats.
