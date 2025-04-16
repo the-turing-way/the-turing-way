@@ -850,6 +850,8 @@ project:
               title: Cross-Referencing Sections and Chapters
             - file: community-handbook/style/style-figures.md
               title: Using Figures
+            - file: community-handbook/style/style-videos.md
+              title: Videos
             - file: community-handbook/style/style-glossary.md
               title: Glossary
             - file: community-handbook/style/style-blocks.md
