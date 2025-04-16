@@ -71,6 +71,7 @@ You can make a call-out dropdown by adding the dropdown class!
 
 You can read more about call-outs in the [MyST Markdown documentation](https://mystmd.org/guide/admonitions).
 
+(ch-style-blocks-tables)=
 ## Tables
 
 You can create tables using the `table` directive.
@@ -104,3 +105,36 @@ which renders as,
 and can be references with `[](#example-table)` [](#example-table).
 
 You can read about other ways to write tables in the [MyST Markdown documentation](https://mystmd.org/guide/tables).
+
+(ch-style-blocks-code)=
+## Code and literal text
+
+You can write blocks of literal text using three backticks.
+For example,
+
+````
+```
+hello
+```
+````
+
+renders as,
+
+```
+hello
+```
+
+You can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question.
+As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it,
+
+````
+```R
+x <- c(1:21)
+```
+````
+
+renders as,
+
+```R
+x <- c(1:21)
+```

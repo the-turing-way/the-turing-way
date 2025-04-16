@@ -108,29 +108,8 @@ Instead, the following is recommended:
    ```markdown
    This content belongs to the first list item.
    ```
-
 2. Second list item
-
 
 ### External links
 
 Write external links using "https://" instead of "www". This ensures they are correctly recognised as hyperlinks.
-
-### Chunks with code or special text
-
-You can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question.
-As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it (<code>\`\`\`</code> becomes <code>\`\`\`R</code>).
-
-Markdown source:
-
-```
-    ```R
-    x <- c(1:21)
-    ```
-```
-
-HTML output:
-
-```R
-x <- c(1:21)
-```
