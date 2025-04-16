@@ -10,6 +10,7 @@ assignees: ''
 
 Register here to attend: [add registration page link].
 
+To learn more about the Community Forum, please refer to the corresponding chapter in our Community Handbook: https://book.the-turing-way.org/community-handbook/community-forums
 ## Before the Event 
 
 - [ ] Create a planning issue on GitHub - this issue's checklist
