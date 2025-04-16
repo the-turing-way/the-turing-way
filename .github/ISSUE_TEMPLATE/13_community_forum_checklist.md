@@ -14,7 +14,7 @@ Register here to attend: [add registration page link].
 
 - [ ] Create a planning issue on GitHub - this issue's checklist
 - [ ] Identify date and time
-- [ ] Invite a chair from the Maintainers level - debrief them as needed (housekeeping, agenda, introducing speakers) - the team will help with timekeeping, zoom and notes management and helping with breakouts
+- [ ] Invite a chair from the Maintenance level - brief them as needed (housekeeping, agenda, introducing speakers) - the Community Management Working Group will help with timekeeping, Zoom and notes management, and creating breakouts
 - [ ] Set up the Framapad to guide the meeting (use templates from previous calls)
 - [ ] Set up a shared slide deck for all WG members to share updates before the event (use templates from previous calls)
 - [ ] Create a registration page (Google form template)
