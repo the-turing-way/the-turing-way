@@ -70,3 +70,37 @@ You can make a call-out dropdown by adding the dropdown class!
 ```
 
 You can read more about call-outs in the [MyST Markdown documentation](https://mystmd.org/guide/admonitions).
+
+## Tables
+
+You can create tables using the `table` directive.
+The tables themselves are written using [GitHub Flavoured Markdown](https://github.github.com/gfm/#tables-extension-).
+Using the table directive lets you add a label so you can cross-reference the table.
+
+For example,
+
+````
+```{table} My table
+:label: example-table
+:align: center
+| Name       | Job                  |
+| ---        | ---                  |
+| Sam Spade  | Private investigator |
+| Harry Lime | Smuggler             |
+```
+````
+
+which renders as,
+
+```{table} My table
+:label: example-table
+:align: center
+| Name       | Job                  |
+| ---        | ---                  |
+| Sam Spade  | Private investigator |
+| Harry Lime | Smuggler             |
+```
+
+and can be references with `[](#example-table)` [](#example-table).
+
+You can read about other ways to write tables in the [MyST Markdown documentation](https://mystmd.org/guide/tables).
