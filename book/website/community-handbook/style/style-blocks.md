@@ -47,7 +47,7 @@ This is a stern warning!
 ```
 ````
 
-Note the new title, icon, and colour scheme,
+Notice this call-out has a different title, icon, and colour to the note above,
 
 ```{warning}
 This is a stern warning!
