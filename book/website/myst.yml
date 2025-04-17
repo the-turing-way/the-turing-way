@@ -842,25 +842,31 @@ project:
         - file: community-handbook/style.md
           title: Style Guide
           children:
+            - file: community-handbook/style/style-writing-markdown.md
+              title: Writing Markdown
             - file: community-handbook/style/style-citing.md
               title: Citing and Referencing External Resources
             - file: community-handbook/style/style-crossref.md
               title: Cross-Referencing Sections and Chapters
             - file: community-handbook/style/style-figures.md
               title: Using Figures
-            - file: community-handbook/style/style-more-styling.md
-              title: Glossary, Special Blocks and More Styling
+            - file: community-handbook/style/style-videos.md
+              title: Videos
+            - file: community-handbook/style/style-glossary.md
+              title: Glossary
+            - file: community-handbook/style/style-blocks.md
+              title: Special Blocks
             - file: community-handbook/style/style-custom-styling.md
               title: Custom Styling
-        - file: community-handbook/consistency.md
-          title: Maintaining Consistency
-          children:
-            - file: community-handbook/consistency/consistency-formatting.md
-              title: Formatting
-            - file: community-handbook/consistency/consistency-structure.md
-              title: Structure
-            - file: community-handbook/consistency/consistency-language.md
-              title: Language
+            - file: community-handbook/style/style-consistency.md
+              title: Maintaining Consistency
+              children:
+                - file: community-handbook/style/consistency/consistency-formatting.md
+                  title: Formatting
+                - file: community-handbook/style/consistency/consistency-structure.md
+                  title: Structure
+                - file: community-handbook/style/consistency/consistency-language.md
+                  title: Language
         - file: community-handbook/local-build.md
           title: Build the Turing Way Book locally
         - file: community-handbook/contributing.md
