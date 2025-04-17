@@ -6,10 +6,10 @@ Our members are from diverse backgrounds, have different skills and interests, w
 They are also, for the most part, not paid to contribute to this open source project.
 
 To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. 
-These calls may vary from collaboration and working calls to organisational meetings, to public share-outs that demonstrate transparency, to a mixture of all of the above. 
-Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom.
+These calls involve variety of formats, from collaboration and working on a shared task, to organisational meetings, to public share-outs that demonstrate transparency, to a combination of all of the above. 
+Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom, but where possible, in-person aspects are involved, such as by hosting local hubs.
 
-On each page of this subchapter, you can learn more about each type of community call, which are roughly organised based on their nature such as open to the community, open for maintainers, and formats for calls that are not organised centrally or are paused, but that can be used by our community members for inspiration for other communities.
+On different chapters, you can learn more about each type of community call. They are organised based on their purpose to engage different groups, such as all members of our community versus the maintainers. We have also documented information about meetings that are not organised centrally or are paused, but can be used as references to either understand the historical context or design other events.
 
 Not all of our community calls fit neatly into one category over another. 
 Some use mixed practices depending on the purposes (for example coworking and celebrations), while others may have a specific purpose (such as close discussion or open decision-making). 
@@ -17,18 +17,16 @@ All are meant to integrate our principles of being an open and transparent commu
 
 ## 1. Coworking calls
 
-{ref}`Weekly Coworking for maintainers<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are {ref}`coworking calls<cl-coworking>`, open for _The Turing Way_ community members working across Maintenance and Community Levels respectively.
+{ref}`Coworking for maintainers<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are {ref}`coworking calls<cl-coworking>`, open for _The Turing Way_ community members working across Maintenance and Community Levels respectively.
 
-We bring the practice of coworking to _The Turing Way_ through online coworking calls.
-Online coworking calls generally allow people to allocate time in their schedules to work alongside others.
+We bring the practice of coworking to _The Turing Way_ through online coworking calls, helping people allocate time in their schedules to work alongside others.
+These calls intend to cultivate a sense of shared space and inspiration similar to in-person interactions, but without the associated time and travel commitments.
 
-These calls intend to cultivate a sense of energy and inspiration similar to in-person interactions, but without the associated time and travel commitments.
-
-Our coworking calls provide opportunities for community members to dedicate time to their desired tasks within _The Turing Way_ and complete them, either partially or fully, with the support of others on the call.
+Our coworking calls provide opportunities for community members to dedicate time to their desired tasks within _The Turing Way_ and make progress towards completion with the support of others on the call.
 These interactions can involve discussing plans, co-developing resources, sharing ideas, or providing accountability for self-directed tasks.
 
-We have described the process of {ref}}`organising coworking calls<cl-coworking>` in our guide for collaboration.
-If you would like to set up coworking calls, you can repurpose and adapt the format, templates, and materials discussed in this chapter to support your teams and communities.
+We have described the process of {ref}`organising coworking calls<cl-coworking>` in our guide for collaboration.
+If you would like to set up coworking calls, you can repurpose and adapt the format, templates, and materials provided in _The Turing Way_ to support your teams and communities.
 
 ## 2. Governance-Related Calls
 
