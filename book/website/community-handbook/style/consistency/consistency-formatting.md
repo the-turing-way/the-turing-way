@@ -52,9 +52,6 @@ There are also helpful tools on the web, such as [Turndown](https://domchristie.
 Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test).
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
 
-
-This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`.
-
 #### Demo
 
 ```{iframe} https://www.youtube.com/watch?v=tv0HlVgxDdI
