@@ -31,7 +31,7 @@ To learn more about the Community Forum, please refer to the corresponding chapt
 - [ ] Reach out to a Working Group representative who can share updates from their Working Group on the day
 - [ ] Ask the Community Management Working Group to update the information on the [start page](https://the-turing-way.start.page/)
 - [ ] Announce at least 3-4 weeks in advance on Slack, Newsletter, Bluesky, LinkedIn, and different meetings
-- [ ] Update the Turing Way calendar with Zoom, Framapad and Registration form - and email the Zoom link it to registered participants
+- [ ] Update the Turing Way calendar with Zoom, Framapad and Registration form - and email the Zoom link with a reminder to the registered participants
 
 ## During the session
 
