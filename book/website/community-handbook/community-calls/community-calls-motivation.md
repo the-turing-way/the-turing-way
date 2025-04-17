@@ -1,5 +1,5 @@
 (ch-community-calls-motivation)=
-# Motivations, Background, and Techniques for Coworking Calls
+# Motivations, Background, and Techniques
 
 ## Motivation and background
 
