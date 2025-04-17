@@ -53,14 +53,12 @@ Recommended structure for chapters in The Turing Way.
 - **Resources subchapter:**
     - The resources subchapter points the reader to other sources where they can learn more about the concepts discussed in the chapter, as well as related topics to explore.
 
-
 ```{attention} Please note that making chapters follow this structure may require splitting some of the existing content into new files.
 References to these files should be updated in the table of contents in the `myst.yml` file.
 ```
 
 Refer to the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
 For chapters that do not fit this structure, please raise a Pull Request.
-
 
 (ch-consistency-structure-hr-toc)=
 ### Check 3: Do not add a 'table of content' in chapters or subchapters.
@@ -76,14 +74,13 @@ alt: A subchapter in The Turing Way with three table of contents. Two that are g
 ---
 The manually written table of contents is unnecessary as Jupyter Book auto-generates two separate table of contents.
 ```
+
 #### Demo
 
-<div class="video-content">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/zKWrvgCxSB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-
+```{iframe} https://www.youtube.com/embed/zKWrvgCxSB0
+:align: center
+:width: 100%
+```
 
 (ch-consistency-structure-hr-citing)=
 ### Ensure external sources are properly cited and referenced
@@ -92,7 +89,6 @@ As described in the {ref}`style guide<ch-style-citing>`, _The Turing Way_'s book
 When writing new content, ensure that information culled from external sources are cited using the BibTeX format and added to the `references.bib` file as appropriate.
 
 The {ref}`style guide<ch-style-citing>` demonstrates how to add a new reference to the centralised BibTeX file, and shows how this reference can be included in your writing.
-
 
 (ch-consistency-structure-soft-req)=
 ## Soft Requirements
@@ -106,7 +102,6 @@ A chapter with a good summary gives the reader an overview of the content that f
 Ideally, summaries should communicate the main idea of the chapter and identify any supporting detail, but be brief and precise.
 Summaries should also adequately cross-reference the chapter's subchapters, for the benefit of readers who may want to quickly explore the topics the summary introduces.
 Chapters in _The Turing Way_ that contain summaries that do not fit these criteria may need to be reworded or rewritten.
-
 
 (ch-consistency-structure-sr-modular)=
 ### Check 2: Split long chapters into smaller subchapters so they are modular
