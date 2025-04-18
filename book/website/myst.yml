@@ -38,9 +38,9 @@ project:
         - file: foreword/governance.md
           title: Governance
           children:
-            - file: foreword/governance/governance-roles
+            - file: foreword/governance/governance-roles.md
               title: Governance Roles
-            - file: foreword/governance/ways-of-working
+            - file: foreword/governance/ways-of-working.md
               title: Ways of Working
         - file: foreword/cite.md
           title: How to Cite
@@ -951,27 +951,27 @@ project:
             - file: community-handbook/bookdash/bookdash-after.md
               title: After the Book Dash
         - title: Community Calls
-          file: community-handbook/community-calls
+          file: community-handbook/community-calls.md
           children:
-            - file: community-handbook/community-calls/community-calls-forums
+            - file: community-handbook/community-calls/community-calls-forums.md
               title: Community Forums
-            - file: community-handbook/community-calls/community-calls-onboarding
+            - file: community-handbook/community-calls/community-calls-onboarding.md
               title: Onboarding Calls
-            - file: community-handbook/community-calls/community-calls-coworking-organisation
+            - file: community-handbook/community-calls/community-calls-coworking-organisation.md
               title: Organising Coworking Calls
-            - file: community-handbook/community-calls/community-calls-collabcafe
+            - file: community-handbook/community-calls/community-calls-collabcafe.md
               title: Collaboration Cafes
-            - file: community-handbook/community-calls/community-calls-shareouts
+            - file: community-handbook/community-calls/community-calls-shareouts.md
               title: Community Share-outs
-            - file: community-handbook/community-calls/community-calls-coworking
+            - file: community-handbook/community-calls/community-calls-coworking.md
               title: Coworking Calls
-            - file: community-handbook/community-calls/community-calls-coworking-dropins
+            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
               title: Coworking Drop-ins
-            - file: community-handbook/community-calls/community-calls-working-groups
+            - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
-            - file: community-handbook/community-calls/community-calls-core-team
+            - file: community-handbook/community-calls/community-calls-core-team.md
               title: Core Team Meetings
-            - file: community-handbook/community-calls/community-calls-office-hours
+            - file: community-handbook/community-calls/community-calls-office-hours.md
               title: Office Hours
         - file: community-handbook/onboarding-offboarding.md
           title: Onboarding and Offboarding
