@@ -15,41 +15,6 @@ If you want to improve the style of the book, this subchapter also provides a br
 (ch-style-custom-styling-stylesheets)=
 ## Using the Stylesheets
 
-(ch-style-custom-styling-videos)=
-### Videos
-
-While it is possible to embed images and GIFs in your content using Markdown syntax, it is currently only possible to embed videos with `HTML`.
-More so, we do not recommend adding videos directly to _The Turing Way's_ Github repository as video files are usually large and will make the book load much slower, especially for readers with slow internet connections.
-
-To add a video to your contribution, first upload it to _The Turing Way's_ Youtube channel, then copy/paste the `HTML` code that is generated when you:
-1. Click on the `Share` option underneath the video,
-1. And then click on the `Embed` option from the range of options that appear.
-
-
-The `HTML` code you copy will be an [`iframe`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe) element.
-For example:
-
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MdOS6tPq8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
-By default, `iframes` are not responsive, meaning that the video you just embedded will be inaccessible to readers on mobile devices.
-To fix this, _The Turing Way's_ stylesheets define classes and styling that allow `iframes` to resize and fit the screen the book is read from.
-
-To leverage this custom styling, wrap the `iframe` in `div` tags and give the `div` element a `video-container` class. For example:
-
-```
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MdOS6tPq8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-
-The code above then renders as follows:
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MdOS6tPq8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 (ch-style-custom-styling-improvements)=
 ## Improving _The Turing Way's_ Styling
 

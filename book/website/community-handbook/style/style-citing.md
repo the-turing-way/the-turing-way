@@ -1,11 +1,25 @@
 (ch-style-citing)=
 # Citing and Referencing
 
-We maintain a centralised [BibTeX](http://www.bibtex.org/) file containing all references.
-The file is located within this repository in the file
-[`./book/website/_bibliography/references.bib`][turingbib].
+In MyST Markdown you can make citations in two ways, using DOIs or the bibliography.
+If you want to cite an article with a DOI, you can use a [DOI link](https://mystmd.org/guide/citations#doi-links).
+We maintain a centralised [BibTeX](http://www.bibtex.org/) bibliography file containing references.
+The bibliography file is located in the book repository, [`./book/website/_bibliography/references.bib`][turingbib].
 
-## BibTeX file basics
+## DOI citations
+
+You can reference a document by its DOI simply by linking to the DOI url.
+For example, `[_The Turing Way_](https://doi.org/10.5281/zenodo.15213042)` renders as [_The Turing Way_](https://doi.org/10.5281/zenodo.15213042).
+Note that this _only_ works for the `doi.org` url and not, for example, a `zenodo.org` url.
+
+You can also let MyST create a citation string using the DOI string and the prefix `doi:`.
+For example, `[](doi:10.5281/zenodo.15213042)` renders as [](doi:10.5281/zenodo.15213042).
+
+You can read more about DOI links in the [MyST Markdown documentation](https://mystmd.org/guide/citations#doi-links).
+
+## Bibliography
+
+### BibTeX file basics
 
 BibTeX files are a way to format lists of references in a structured way.
 Basic elements of an entry include a reference type, a unique citation key, and a series of key-value pairs that describe the reference (for example, author or title).
@@ -18,7 +32,7 @@ Another good tool is [Google Scholar](https://scholar.google.com/), where you se
 
 Examples of listing a BibTeX-formatted reference are shown below.
 
-## Adding a new reference in `references.bib`
+### Adding a new reference in `references.bib`
 
 You can edit reference file locally using a method from the following:
 
@@ -40,9 +54,7 @@ For example, there is an entry in the [`references.bib`][turingbib] file as:
 }
 ```
 
-**Finish editing by adding a new entry at the end of the file.**
-
-## Citation key style-guide
+### Citation key style-guide
 
 We recommend using the following structure for citation keys:
 
@@ -56,37 +68,19 @@ Where:
 2. `YYYY` is the year (`2016` above)
 3. `word` is the first meaningful word in the title (`reproducibility` above). Note, this is subjective―choose a name that makes it easy to remember the reference when you see the citation key.
 
-## Adding a new reference in the text
+### Adding a new reference in the text
 
-To include a citation in your content, we follow the recommendation by [Jupyter Book](https://jupyterbook.org/content/citations.html) that uses [`sphinxcontrib-bibtex`](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/) extension.
+To cite an item in the bibliography, use the citation key (from [`references.bib`][turingbib]) with an `@` prefix.
+For example, `@baker2016reproducibility` renders as @baker2016reproducibility.
 
-The key concepts are:
+You can cite multiple items at once by separating them with semi-colons and enclosing them in square brackets.
+For example, `[@baker2016reproducibility; @Markowetz2015]` renders as [@baker2016reproducibility; @Markowetz2015].
 
-- Include a reference using using:
-```
-{cite:ps}`CITEKEY`
+You can read more about the markdown citation syntax in the [MyST Markdown documentation](https://mystmd.org/guide/citations#markdown-citations).
 
-```
-Here `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib].
-- You can also include multiple citations in one go by separating the CITEKEYs by a comma:
-```
-{cite:ps}`CITEKEY1,CITEKEY2,CITEKEY3`
-```
+### Sphinx-style Citation Roles
 
-We will cite the article that we edited earlier in the [`reference.bib`][turingbib] file using:
-
-```
-{cite:ps}`baker2016reproducibility`
-```
-
-This will appear in your chapter as {cite:ps}`baker2016reproducibility`.
-
-The complete bibliography entry is available at the end of this book (see {ref}`resources <bibliography>`) using the directives:
-
-    ```{bibliography} ../_bibliography/references.bib
-
-    ```
-
-For the advanced usage, see the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
+MyST also support the older style of [citation role](https://mystmd.org/guide/citations#citation-roles) used in Jupyter Book v1.
+These are not preferred for new citations, but you may see existing citation in this style in the book.
 
 [turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_bibliography/references.bib

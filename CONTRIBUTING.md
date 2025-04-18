@@ -316,26 +316,11 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
 - Once this is complete merge the pull request into _The Turing Way_'s version of the chapter branch.
 - Merge _The Turing Way_'s version of the chapter branch into _The Turing Way_'s main branch.
-- DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
 
-You can build and host the book website locally. The steps are:
-
-### To build book locally
-
-1. Install the required software to build the book, optionally in a [virtual environment](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments):
-
-   ```
-   pip install -r book/website/requirements.txt
-   ```
-
-2. You can now build or refresh the book using:
-
-   ```
-   cd ./book/website
-   jupyter-book build .
-   ```
+You can build and host the book website locally. 
+The steps are described in [this section](https://book.the-turing-way.org/community-handbook/local-build) of the The Turing Way.
 
 ## Style Guide
 

@@ -10,7 +10,7 @@ You would not want it to be shared with others.
 Some ways to recognise confidential data are:
 * information considered private by an individual. 
 * the need to limit availability of the data for specific functions, groups or roles. 
-* the need to be limit data to certain users based on a 'need to know' basis for business operations.
+* the need to limit data to certain users based on a 'need to know' basis for business operations.
 
 For us as individuals, confidential data is information such as passwords, financial information, and phone numbers. 
 All of the information in our medical records that does not personally identify us would also be considered confidential, such as the notes doctors make when we visit them or test results.
