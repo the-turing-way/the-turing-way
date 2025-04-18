@@ -26,4 +26,4 @@ pathways:
 	pathways ./website/
 
 clean:
-	jupyter-book clean -a ./website
+	jupyter-book clean --all --yes ./website/_build
