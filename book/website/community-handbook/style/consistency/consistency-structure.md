@@ -77,10 +77,8 @@ The manually written table of contents is unnecessary as Jupyter Book auto-gener
 
 #### Demo
 
-```{iframe} https://www.youtube.com/embed/zKWrvgCxSB0
-:align: center
-:width: 100%
-```
+{iframe} https://www.youtube.com/embed/zKWrvgCxSB0
+
 
 (ch-consistency-structure-hr-citing)=
 ### Ensure external sources are properly cited and referenced

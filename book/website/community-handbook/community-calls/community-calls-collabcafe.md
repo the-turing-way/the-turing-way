@@ -58,7 +58,9 @@ We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-colla
 **Bonus**
 
 You can watch this video to see Kirstie and Malvika plan the structure and format of Collaboration Café.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XUw5kpypeo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{iframe} https://www.youtube.com/embed/XUw5kpypeo8
+
 
 ### Schedule
 
@@ -95,7 +97,7 @@ _The Turing Way_ community has adhered to a cadence of un-enforced and enforced 
 We have posted a few videos from our Collaboration Cafés on YouTube.
 Watch the video to see how Kirstie hosted the calls when it was first launched.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I0z7OEbBzes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{iframe} https://www.youtube.com/embed/I0z7OEbBzes
 
 #### During the Call
 - Use the notes during the call to share information as you chair the call
