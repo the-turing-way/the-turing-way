@@ -44,10 +44,11 @@ The number of these journals is still increasing rapidly, with 17,000 listed in 
 
 Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and where do we go from here?", where she provides an overview of how different models of scientific publication look like, and how we can take an informed approach to Open Access.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Mycp7SzBWB0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  <p><a href="https://www.youtube.com/embed/Mycp7SzBWB0">History of  Scientific Publishing - Where do we go from here??</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+```{iframe} https://www.youtube.com/embed/Mycp7SzBWB0
+:align: center
+:width: 100%
+History of  Scientific Publishing - Where do we go from here?? from [ORCID](https://vimeo.com/orcidvideos) on [Vimeo](https://vimeo.com).
+```
 
 *Slides for this talk can be cited as Victoria Hellon. (2022, May 4). Scientific Publishing: a brief history and where do we go from here?. Zenodo. https://doi.org/10.5281/zenodo.6516871.*
 

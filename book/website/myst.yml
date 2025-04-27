@@ -35,9 +35,9 @@ project:
         - file: foreword/governance.md
           title: Governance
           children:
-            - file: foreword/governance/governance-roles
+            - file: foreword/governance/governance-roles.md
               title: Governance Roles
-            - file: foreword/governance/ways-of-working
+            - file: foreword/governance/ways-of-working.md
               title: Ways of Working
         - file: foreword/cite.md
           title: How to Cite
@@ -839,25 +839,31 @@ project:
         - file: community-handbook/style.md
           title: Style Guide
           children:
+            - file: community-handbook/style/style-writing-markdown.md
+              title: Writing Markdown
             - file: community-handbook/style/style-citing.md
               title: Citing and Referencing External Resources
             - file: community-handbook/style/style-crossref.md
               title: Cross-Referencing Sections and Chapters
             - file: community-handbook/style/style-figures.md
               title: Using Figures
-            - file: community-handbook/style/style-more-styling.md
-              title: Glossary, Special Blocks and More Styling
+            - file: community-handbook/style/style-videos.md
+              title: Videos
+            - file: community-handbook/style/style-glossary.md
+              title: Glossary
+            - file: community-handbook/style/style-blocks.md
+              title: Special Blocks
             - file: community-handbook/style/style-custom-styling.md
               title: Custom Styling
-        - file: community-handbook/consistency.md
-          title: Maintaining Consistency
-          children:
-            - file: community-handbook/consistency/consistency-formatting.md
-              title: Formatting
-            - file: community-handbook/consistency/consistency-structure.md
-              title: Structure
-            - file: community-handbook/consistency/consistency-language.md
-              title: Language
+            - file: community-handbook/style/style-consistency.md
+              title: Maintaining Consistency
+              children:
+                - file: community-handbook/style/consistency/consistency-formatting.md
+                  title: Formatting
+                - file: community-handbook/style/consistency/consistency-structure.md
+                  title: Structure
+                - file: community-handbook/style/consistency/consistency-language.md
+                  title: Language
         - file: community-handbook/local-build.md
           title: Build the Turing Way Book locally
         - file: community-handbook/contributing.md
@@ -942,29 +948,29 @@ project:
             - file: community-handbook/bookdash/bookdash-after.md
               title: After the Book Dash
         - title: Community Calls
-          file: community-handbook/community-calls
+          file: community-handbook/community-calls.md
           children:
-            - file: community-handbook/community-calls/community-calls-coworking-motivation
+            - file: community-handbook/community-calls/community-calls-motivation.md
               title: Background, Motivations, and Techniques
-            - file: community-handbook/community-calls/community-calls-forums
+            - file: community-handbook/community-calls/community-calls-forums.md
               title: Community Forums
-            - file: community-handbook/community-calls/community-calls-onboarding
+            - file: community-handbook/community-calls/community-calls-onboarding.md
               title: Onboarding Calls
-            - file: community-handbook/community-calls/community-calls-coworking-organisation
+            - file: community-handbook/community-calls/community-calls-coworking-organisation.md
               title: Organising Coworking Calls
-            - file: community-handbook/community-calls/community-calls-collabcafe
+            - file: community-handbook/community-calls/community-calls-collabcafe.md
               title: Collaboration Cafes
-            - file: community-handbook/community-calls/community-calls-shareouts
+            - file: community-handbook/community-calls/community-calls-shareouts.md
               title: Community Share-outs
-            - file: community-handbook/community-calls/community-calls-coworking
+            - file: community-handbook/community-calls/community-calls-coworking.md
               title: Coworking Calls
-            - file: community-handbook/community-calls/community-calls-coworking-dropins
+            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
               title: Coworking Drop-ins
-            - file: community-handbook/community-calls/community-calls-working-groups
+            - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
-            - file: community-handbook/community-calls/community-calls-core-team
+            - file: community-handbook/community-calls/community-calls-core-team.md
               title: Core Team Meetings
-            - file: community-handbook/community-calls/community-calls-office-hours
+            - file: community-handbook/community-calls/community-calls-office-hours.md
               title: Office Hours
         - file: community-handbook/onboarding-offboarding.md
           title: Onboarding and Offboarding
