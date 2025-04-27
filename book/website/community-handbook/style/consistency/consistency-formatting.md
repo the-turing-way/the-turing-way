@@ -53,7 +53,9 @@ Please note that if `HTML` is the only option for you to format your text the wa
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
 
 #### Demo
-{iframe} https://www.youtube.com/embed/tv0HIVgxDdI
+::: {iframe} https://www.youtube.com/embed/tv0HIVgxDdI
+:width: 100%
+:::
 
 #### Writing Checklists
 
@@ -91,7 +93,9 @@ A list of such files can be found in [this issue](https://github.com/the-turing-
 
 #### Demo
 
-{iframe} https://www.youtube.com/embed/qq9QCrykdbw
+::: {iframe} https://www.youtube.com/embed/qq9QCrykdbw
+:width: 100%
+:::
 
 (ch-consistency-formatting-hr-labels)=
 ### Check 3: Add labels to chapters, subchapters, sections, and images to enable cross-referencing.
@@ -104,7 +108,9 @@ This helps make _The Turing Way_ more navigable and accessible.
 
 #### Demo
 
-{iframe} https://www.youtube.com/embed/ikcjxjklLVg
+::: {iframe} https://www.youtube.com/embed/ikcjxjklLVg
+:width: 100%
+:::
 
 (ch-consistency-formatting-hr-images)=
 ### Check 4: Use `MyST` for image formatting
@@ -132,7 +138,9 @@ You should always check how your image looks in the Netlify preview of the book 
 
 #### Demo
 
-{iframe} https://www.youtube.com/embed/upBiKLR_A5E
+::: {iframe} https://www.youtube.com/embed/upBiKLR_A5E
+:width: 100%
+:::
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -167,7 +175,9 @@ Nonetheless, remember that the final title should adequately tell readers what t
 
 #### Demo
 
-{iframe} https://www.youtube.com/embed/HxcdqKJbCE4
+::: {iframe} https://www.youtube.com/embed/HxcdqKJbCE4
+:width: 100%
+:::
 
 (ch-consistency-formatting-sr-two)=
 ### Check 2: Ensure proper title-casing for headers
@@ -192,4 +202,6 @@ For example, because some of the headers in this chapter make up a checklist - t
 
 #### Demo
 
-{iframe} https://www.youtube.com/embed/ET_LI5dwP9M
+::: {iframe} https://www.youtube.com/embed/ET_LI5dwP9M
+:width: 100%
+:::

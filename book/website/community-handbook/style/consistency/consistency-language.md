@@ -26,7 +26,9 @@ One rule of thumb to consider is that if a sentence needs to be read more than o
 
 #### Demo
 
-{iframe} https://www.youtube.com/embed/Prv23kGekVY
+::: {iframe} https://www.youtube.com/embed/Prv23kGekVY
+:width: 100%
+:::
 
 (ch-consistency-language-hr-language)=
 ### Check 2: Ensure chapters use a consistent language
