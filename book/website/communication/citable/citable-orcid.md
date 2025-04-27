@@ -8,7 +8,9 @@ ORCID is a long-lasting unique identifier for you as a researcher, comparable to
 
 Watch this short video for more information:
 
-{iframe} https://player.vimeo.com/video/97150912
+::: {iframe} https://player.vimeo.com/video/97150912
+:width: 100%
+:::
 
 
 (cm-citable-orcid-why)=
