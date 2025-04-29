@@ -48,7 +48,7 @@ Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and 
 :align: center
 :width: 100%
 
-History of Scientific Publishing - Where do we go from here?? 
+History of Scientific Publishing - Where do we go from here?
 Slides: https://doi.org/10.5281/zenodo.6516871
 :::
 
