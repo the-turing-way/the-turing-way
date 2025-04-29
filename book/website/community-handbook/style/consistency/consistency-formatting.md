@@ -53,7 +53,7 @@ Please note that if `HTML` is the only option for you to format your text the wa
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
 
 #### Demo
-::: {iframe} https://www.youtube.com/watch?v=tv0HlVgxDdI
+::: {iframe} https://www.youtube.com/embed/tv0HlVgxDdI
 :width: 100%
 :::
 
