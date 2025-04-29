@@ -51,7 +51,6 @@ Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and 
 History of Scientific Publishing - Where do we go from here?? 
 Slides: https://doi.org/10.5281/zenodo.6516871
 :::
-```
 
 
 (rr-open-access-gold-publishing)=
