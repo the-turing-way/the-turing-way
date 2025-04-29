@@ -3,7 +3,7 @@
 
 ## Hosted videos
 
-If your video is hosted on a platform like YouTube or Vimeo you can use the `iframe` directive to embed it.
+If your video is hosted on a platform like YouTube or Vimeo you can use the [`iframe` directive](https://mystmd.org/guide/figures#youtube-videos) to embed it.
 For example,
 
 ````
