@@ -25,3 +25,5 @@ How to build a Jupyter Book!
 :::
 
 and can be referenced with `[](#example-video)` [](#example-video).
+
+For youtube, the link formatting you need to use is `https://www.youtube.com/embed/` followed by the code at the end of the video URL (`MdOS6tPq8fc` for the above video example).
