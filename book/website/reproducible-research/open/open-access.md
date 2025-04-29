@@ -48,11 +48,11 @@ Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and 
 :align: center
 :width: 100%
 
-History of Scientific Publishing - Where do we go from here?? from [ORCID](https://vimeo.com/orcidvideos) on [Vimeo](https://vimeo.com).
+History of Scientific Publishing - Where do we go from here?? 
+Slides: https://doi.org/10.5281/zenodo.6516871
 :::
 ```
 
-*Slides for this talk can be cited as Victoria Hellon. (2022, May 4). Scientific Publishing: a brief history and where do we go from here?. Zenodo. https://doi.org/10.5281/zenodo.6516871.*
 
 (rr-open-access-gold-publishing)=
 #### Gold Open Access publishing
