@@ -29,7 +29,7 @@ These are (in no particular order):
 * sex
 * sexual orientation
 
-In some circumstances, you can use protected characteristics to help a disadvantaged or an underrepresented group during the recruitment process, for example by making reasonable adjustments for disability. 
+In some circumstances, you can use protected characteristics to help a disadvantaged or an underrepresented group during the recruitment process, for example by making [reasonable adjustments](https://www.acas.org.uk/reasonable-adjustments) for disability. 
 This can help your organisation to be more diverse and representative. 
 However, it is important to know what is possible and what could be against the law. 
 Your action must not cause 'detriment' to another protected group (where someone is treated worse or discriminated against relative to someone else).
