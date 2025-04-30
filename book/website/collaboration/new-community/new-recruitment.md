@@ -33,7 +33,7 @@ This can help your organisation to be more diverse and representative.
 However, it is important to know what is possible and what could be against the law. 
 Your action must not cause 'detriment' to another protected group (where someone is treated worse or discriminated against relative to someone else).
 
-Although you may want to make an impact to progress your team/organisation’s diversity, for example by  bringing more underrepresented groups from a STEM background into the organisation, it does not mean you can discount other candidates that meet the essential criteria, simply based on characteristics such as gender and/or age. 
+Although you may want to make an impact to progress your team/organisation’s diversity, for example by bringing more underrepresented groups from a STEM background into the organisation, it does not mean you can discount other candidates that meet the essential criteria, simply based on characteristics such as gender or age. 
 This would be classed as unlawful discrimination. 
 
 Positive action can be used to encourage underrepresented groups to apply for roles at your organisation, however, there are limits to this and it’s recommended that you consult with your HR team before creating any initiatives. 
