@@ -40,6 +40,7 @@ Positive action can be used to encourage underrepresented groups to apply for ro
 The UK Government has [guidance on their website](https://www.gov.uk/government/publications/positive-action-in-the-workplace-guidance-for-employers/positive-action-in-the-workplace) on the differences between positive discrimination and positive action.
 
 
+(collaboration-newrecruitment-why)=
 ## Why aim for a diverse pool of job applicants?
 
 Building a diverse applicant pool and team isn't just the right thing to do morally and ethically; it's a strategic advantage that can drive business success and ensure work is carried out at the highest standards (see [Cheng and Zhange (2018)](https://www.mdpi.com/2071-1050/10/9/3134) for a review).
