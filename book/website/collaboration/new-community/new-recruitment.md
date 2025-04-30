@@ -127,7 +127,7 @@ Having a specific timeline outlined and communicated from the start of the recru
     * Include relevant policies clearly in the job advert 
     * Be transparent about the compensation package
         * Provide a starting salary or salary range 
-        * Include any statutory or enhanced benefits your organisation may offer such as paternity, maternity and parental leave and/or benefits such as time off for dependents, and annual leave entitlement. 
+        * Include any statutory or enhanced benefits your organisation may offer such as paternity, maternity and parental leave and/or benefits such as time off for dependents, and annual leave entitlement. Mention clearly if a job share or part-time working is possible. 
     * Directly reference your organisational EDI commitment
         * Include your organisational Diversity Statement where available.
         * Include your organisational Values (if applicable).
