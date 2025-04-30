@@ -209,345 +209,48 @@ The below resources are a selection of data science, AI and tech spaces which ma
 The target audience for these groups has been identified from each of their webpages. 
 They mostly have a UK focus, though some are more international. 
 
-
-<table>
-  <tr>
-   <td><strong>Name</strong>
-   </td>
-   <td><strong>Target audience</strong>
-   </td>
-   <td><strong>Link</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Black in AI
-   </td>
-   <td>Black backgrounds
-   </td>
-   <td><a href="https://blackinai.github.io">https://blackinai.github.io</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Black British Academics
-   </td>
-   <td>Black British
-   </td>
-   <td><a href="https://blackbritishacademics.co.uk/">https://blackbritishacademics.co.uk/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>BME Jobs
-   </td>
-   <td>Black & Minority Ethnic 
-   </td>
-   <td><a href="https://bmejobs.co.uk/">https://bme</a>
-<p>
-<a href="https://bmejobs.co.uk/">jobs.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Diverse Jobs Matter
-   </td>
-   <td>Diversity & Inclusivity in jobs
-   </td>
-   <td><a href="https://diversejobsmatter.co.uk/">https://diversejobsmatter.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Diversity 
-   </td>
-   <td>Diversity & Inclusivity in jobs
-   </td>
-   <td><a href="https://diversity.com/">https://diversity.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Diverse AI
-   </td>
-   <td>Diversity & Inclusivity in STEM
-   </td>
-   <td><a href="https://www.diverse-ai.org/">https://www.diverse-ai.org/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>TIGERSTEMM
-   </td>
-   <td>Diversity & Inclusivity in STEM
-   </td>
-   <td><a href="https://www.tigerinstemm.org/">TIGERSTEMM (tigerinstemm.org)</a>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Artificial intelligence club for gender minorities
-   </td>
-   <td>Gender Minorities
-   </td>
-   <td><a href="https://www.meetup.com/ai-club/">https://www.meetup.com/ai-club/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Pride in STEM
-   </td>
-   <td>LGBTQ+
-   </td>
-   <td><a href="https://prideinstem.org/lgbtstemday/">LGBTQ+ STEM DAY | Pride in STEM</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Queer in AI
-   </td>
-   <td>LGBTQ+
-   </td>
-   <td><a href="https://www.queerinai.com/">Queer in AI</a>
-   </td>
-  </tr>
-  <tr>
-   <td>LGBT Jobs
-   </td>
-   <td>LGBTQ+ 
-   </td>
-   <td><a href="https://lgbtjobs.co.uk/">https://lgbtjobs.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Pink Jobs
-   </td>
-   <td>LGBTQ+
-   </td>
-   <td><a href="https://pink-jobs.com/">https://pink-jobs.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>CodeBar
-   </td>
-   <td>Minority groups
-   </td>
-   <td><a href="https://codebar.io/">https://codebar.io/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Neurodiversity Jobs
-   </td>
-   <td>Neurodiverse people
-   </td>
-   <td><a href="https://neurodiversityjobs.co.uk/">https://neurodiversityjobs.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Disability Jobs 
-   </td>
-   <td>People with disabilities
-   </td>
-   <td><a href="https://disabilityjob.co.uk/">https://disabilityjob.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Even Break
-   </td>
-   <td>People with disabilities
-   </td>
-   <td><a href="https://www.evenbreak.com/jobs/">https://www.evenbreak.com/jobs/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>SEO London
-   </td>
-   <td>Students from underrepresented backgrounds
-   </td>
-   <td><a href="https://www.seo-london.org/get-involved/">https://www.seo-london.org/get-involved/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>ACMW
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://women.acm.org/">https://women.acm.org/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>BCS Women
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.sheffield.ac.uk/dcs/about/bcswomen-colloquium">https://www.sheffield.ac.uk/dcs/about/bcswomen-colloquium</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>BCS Women Scotland
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.linkedin.com/groups/4528725/">https://www.linkedin.com/groups/4528725/</a>  
-   </td>
-  </tr>
-  <tr>
-   <td>Codefirst: Girls
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://codefirstgirls.com/employers/talent-attraction/">https://codefirstgirls.com/employers/talent-attraction/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Hire More Women in Tech
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.hiremorewomenintech.com/">https://www.hiremorewomenintech.com/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Inspiring Women in Data Science
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.meetup.com/iwdsuk/">https://www.meetup.com/iwdsuk/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Investing in Women
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://investinginwomen.co.uk/">https://investinginwomen.co.uk/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Girls in Tech (US)
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://girlsintec.com/opportunities">https://girlsintec.com/opportunities</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Girls who code (UK)
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://girlswhocode.com/en-uk">https://girlswhocode.com/en-uk</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Mothers in Science
-   </td>
-   <td>Women/Mothers
-   </td>
-   <td><a href="https://www.mothersinscience.com/">Mothers in Science</a>
-   </td>
-  </tr>
-  <tr>
-   <td>PyLadies
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.pyladies.com/">https://www.pyladies.com/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>R Ladies
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://rladies.org/">https://rladies.org/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>STEM women
-   </td>
-   <td>Women 
-   </td>
-   <td><a href="https://www.stemwomen.com/job-search">https://www.stemwomen.com/job-search</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Technovation
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://technovationchallenge.org/get-started/">https://technovationchallenge.org/get-started/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Tech Returners
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.womenintech.co.uk/events/techreturners">https://www.womenintech.co.uk/events/techreturners</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>TeenTech
-   </td>
-   <td>Women
-   </td>
-   <td><a href="http://www.teentech.com/">http://www.teentech.com/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>WISE Campaign
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.wisecampaign.org.uk">https://www.wisecampaign.org.uk</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Women in AI
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.womeninai.co/">https://www.womeninai.co/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Women in Data
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.meetup.com/Women-in-Data/">https://www.meetup.com/Women-in-Data/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Women in Big Data
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.womeninbigdata.org/">https://www.womeninbigdata.org/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Women in Data Science
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.widsworldwide.org/">https://www.widsworldwide.org/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Women in Data Science and Machine Learning
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.linkedin.com/groups/8466901/">https://www.linkedin.com/groups/8466901/</a>
-   </td>
-  </tr>
-  <tr>
-   <td>Women in Tech
-   </td>
-   <td>Women
-   </td>
-   <td><a href="https://www.womenintech.co.uk/">https://www.womenintech.co.uk/</a> 
-   </td>
-  </tr>
-</table>
+| **Organisation**                                                                       | **Target audience**                        |
+| -------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [Black in AI](https://blackinai.github.io )                                            | Black backgrounds                          |
+| [Black British Academics](https://blackbritishacademics.co.uk/ )                       | Black British                              |
+| [BME Jobs](https://bme)                                                                | Black & Minority Ethnic                    |
+| [Jobs.ac.uk](jobs.co.uk/)                                                              | UK Academic                                |
+| [Diverse Jobs Matter](https://diversejobsmatter.co.uk/)                                | Diversity & Inclusivity in STEM            |
+| [Diversity ](https://diversity.com/)                                                   | Diversity & Inclusivity in STEM            |
+| [Diverse AI](https://www.diverse-ai.org/ )                                             | Diversity & Inclusivity in STEM            |
+| [TIGERSTEMM](TIGERSTEMM (tigerinstemm.org))                                            | Diversity & Inclusivity in STEM            |
+| [Artificial intelligence club for gender minorities](https://www.meetup.com/ai-club/ ) | Gender Minorities                          |
+| [Pride in STEM](https://prideinstem.org/).                                             | LGBTQ+                                     |
+| [Queer in AI](Queer in AI)                                                             | LGBTQ+                                     |
+| [LGBT Jobs](https://lgbtjobs.co.uk/)                                                   | LGBTQ+                                     |
+| [Pink Jobs](https://pink-jobs.com/)                                                    | LGBTQ+                                     |
+| [CodeBar](https://codebar.io/ )                                                        | Minority groups                            |
+| [Neurodiversity Jobs](https://neurodiversityjobs.co.uk/)                               | Neurodiverse people                        |
+| [Disability Jobs ](https://disabilityjob.co.uk/)                                       | People with disabilities                   |
+| [Even Break](https://www.evenbreak.com/jobs/)                                          | People with disabilities                   |
+| [SEO London](https://www.seo-london.org/get-involved/)                                 | Students from underrepresented backgrounds |
+| [ACMW](https://women.acm.org/)                                                         | Women                                      |
+| [BCS Women](https://www.sheffield.ac.uk/dcs/about/bcswomen-colloquium )                | Women                                      |
+| [BCS Women Scotland](https://www.linkedin.com/groups/4528725/  )                       | Women                                      |
+| [Codefirst: Girls](https://codefirstgirls.com/employers/talent-attraction/ )           | Women                                      |
+| [Hire More Women in Tech](https://www.hiremorewomenintech.com/)                        | Women                                      |
+| [Inspiring Women in Data Science](https://www.meetup.com/iwdsuk/ )                     | Women                                      |
+| [Investing in Women](https://investinginwomen.co.uk/)                                  | Women                                      |
+| [Girls in Tech (US)](https://girlsintec.com/opportunities )                            | Women                                      |
+| [Girls who code (UK)](https://girlswhocode.com/en-uk )                                 | Women                                      |
+| [PyLadies](https://www.pyladies.com/ )                                                 | Women                                      |
+| [R Ladies](https://rladies.org/ )                                                      | Women                                      |
+| [STEM women](https://www.stemwomen.com/job-search )                                    | Women                                      |
+| [Technovation](https://technovationchallenge.org/get-started/ )                        | Women                                      |
+| [Tech Returners](https://www.womenintech.co.uk/events/techreturners )                  | Women                                      |
+| [TeenTech](http://www.teentech.com/ )                                                  | Women                                      |
+| [WISE Campaign](https://www.wisecampaign.org.uk)                                       | Women                                      |
+| [Women in AI](https://www.womeninai.co/ )                                              | Women                                      |
+| [Women in Data](https://www.meetup.com/Women-in-Data/ )                                | Women                                      |
+| [Women in Big Data](https://www.womeninbigdata.org/ )                                  | Women                                      |
+| [Women in Data Science](https://www.widsworldwide.org/ )                               | Women                                      |
+| [Women in Data Science and Machine Learning](https://www.linkedin.com/groups/8466901/) | Women                                      |
+| [Women in Tech](https://www.womenintech.co.uk/ )                                       | Women                                      |
+| [Women in HPC](https://womeninhpc.org/community/jobs )                                 | Women                                      |
+| [Mothers in Science](Mothers in Science)                                               | Mothers                                    |
 
