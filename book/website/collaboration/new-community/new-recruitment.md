@@ -1,3 +1,4 @@
+(collaboration-newrecruitment)=
 # Inclusive recruitment strategies to attract diverse job applicants
 
 ## Mission statement
