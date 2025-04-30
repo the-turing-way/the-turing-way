@@ -177,7 +177,6 @@ Having a specific timeline outlined and communicated from the start of the recru
     * Either at this stage, or at the end of the process, review anonymised demographic data of candidates to see if your advertising avenues were ‘effective’, how ever this may be determined by your organisation
 
 
-### 
 
 
 ## Resources
