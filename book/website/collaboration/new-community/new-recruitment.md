@@ -91,7 +91,7 @@ These internal experts will have valuable insights for identifying diverse talen
 ### Social media and outreach 
 
 Depending on your organisation’s social media policy, how you share the role online in your personal networks and brand accounts can also influence its reach. 
-Sharing job postings in targeted LinkedIn groups (for example Diversity in Tech), and using targeted hashtags (for example #DiversityInTech, #WomenInAI) can give your advert a wider spread, reaching  candidates who may not otherwise encounter it.
+Sharing job postings in targeted LinkedIn groups (for example, Diversity in Tech), and using targeted hashtags (for example, #DiversityInTech, #WomenInAI) can give your advert a wider spread, reaching candidates who may not otherwise encounter it.
 
 
 ### Targeting external networks and organisations 
