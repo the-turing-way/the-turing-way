@@ -83,7 +83,7 @@ Key to this is targeted outreach to encourage under-represented groups to apply.
 ### Leveraging internal expertise and networks
 
 Work with your Recruitment Team to facilitate connection to internal networks or interest groups across your organisation. 
-For instance, involving the Equality, Diversity, and Inclusion (EDI) team and/or a staff networks relevant to disability, gender, LGBTQ+, race. 
+For instance, involving the Equality, Diversity, and Inclusion (EDI) team and/or staff networks relevant to disability, gender, LGBTQ+, race, or other groups. 
 Doing this early in the recruitment process demonstrates a genuine commitment to diversity and integration into the recruitment strategy from the start rather than being an afterthought. 
 These internal experts will have valuable insights for identifying diverse talent pools, networks and job boards. They can help you provide targeted outreach to under-represented groups, give guidance on cultural competence and help you tailor your approach to attract a wider range of candidates.
 
