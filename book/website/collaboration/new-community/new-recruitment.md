@@ -10,7 +10,8 @@ These recommendations are intended to be used alongside existing recruitment pro
 
 While our examples will often draw from data science scenarios, the principles and strategies discussed are applicable across various tech roles and sectors.
 
-This document contains a suggested set of actions and timeframes, which may vary across organisations, as hiring processes are different. Including measures to encourage diversity is essential in any hiring process, even if they don’t always lead to a diverse applicant pool - lack of immediate results doesn’t mean the effort was wasted or shouldn’t be repeated.
+This document contains a suggested set of actions and timeframes, which may vary across organisations, as hiring processes are different. 
+Including measures to encourage diversity is essential in any hiring process, even if they don’t always lead to a diverse applicant pool - lack of immediate results doesn’t mean the effort was wasted or shouldn’t be repeated.
 
 Whilst this document focuses on suggestions to attract diverse candidates, you must be aware that there will be different legal obligations around hiring based on certain characteristics depending on the country you’re hiring in. 
 For example, the UK has the [Equality Act 2010](https://www.gov.uk/discrimination-your-rights) in place that legally protects people from discrimination in the workplace and in wider society. 
