@@ -108,9 +108,6 @@ Having a specific timeline outlined and communicated from the start of the recru
 
 
 ### Before advertising 
-
-
-
 - [ ] Ensure effective communication  between hiring manager and recruitment team - know what your recruitment team is already doing (for example  where roles will be advertised) to avoid working in silos
 - [ ] Writing the job description (JD)
     * Detail what the person will be doing
