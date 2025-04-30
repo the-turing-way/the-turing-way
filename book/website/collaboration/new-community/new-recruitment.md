@@ -14,7 +14,7 @@ This document contains a suggested set of actions and timeframes, which may vary
 Including measures to encourage diversity is essential in any hiring process, even if they don’t always lead to a diverse applicant pool - lack of immediate results doesn’t mean the effort was wasted or shouldn’t be repeated.
 
 Whilst this document focuses on suggestions to attract diverse candidates, you must be aware that there will be different legal obligations around hiring based on certain characteristics depending on the country you’re hiring in. 
-For example, the UK has the [Equality Act 2010](https://www.gov.uk/discrimination-your-rights) in place that legally protects people from discrimination in the workplace and in wider society. 
+For example, the UK has the [Equality Act 2010](https://www.gov.uk/discrimination-your-rights) in place that legally protects people from discrimination in the workplace and in wider society. Other examples include Germany’s Allgemeines Gleichbehandlungsgesetz (AGG) prohibits discrimination in employment based on characteristics such as race, ethnicity, sex, religion, disability, age, and sexual identity [AGG](https://www.gesetze-im-internet.de/englisch_agg?utm_source=chatgpt.com) and France’s Labour Code includes provisions to prevent workplace discrimination [Code de commerce - Légifrance](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000005634379/)
 
 There are nine protected characteristics which are legally protected under the Equality Act 2010. 
 
