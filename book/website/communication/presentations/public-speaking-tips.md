@@ -86,6 +86,7 @@ It’s okay to admit you don’t know the answer — it builds trust and shows h
 Bonus tip: Repeating the question back to the audience not only buys time but also makes the asker feel heard and valued.
 
 ## Lead the Slides; Don’t Let Them Lead You
+
 Your slides are there to support *you*, not the other way around.
 
 Speak before transitioning slides to keep the audience focused on you, not just your visuals. 
