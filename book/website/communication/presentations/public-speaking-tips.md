@@ -6,6 +6,7 @@ Below are some practical tips that can radically sharpen your public speaking sk
 Whether you’re preparing for a talk, a webinar, or even a casual presentation, these gems might just transform how you approach your next speaking opportunity.
 
 ## Resonance and Relevance
+
 At the core of every talk are two primary goals: to connect emotionally (resonance) and to deliver intellectually (relevance). 
 Striking the right balance ensures you’re not just heard, but truly remembered.
 
