@@ -23,6 +23,7 @@ Ask yourself:
 Balance these two, and you’ll have your audience engaged from start to finish.
 
 ## Finding the Right Pace
+
 Ever noticed how a pendulum swings? Left, right, left, right — it’s rhythmic but predictable. 
 As speakers, we risk losing our audience if we’re too slow or overwhelming them if we’re too fast.
 
