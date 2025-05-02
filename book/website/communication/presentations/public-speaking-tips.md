@@ -57,6 +57,7 @@ Bonus tip: Follow it up with a quick one-liner that subtly leads the audience to
 For instance: “Wouldn’t it be great if coffee was free for a day? (*pause*) Yeah, I thought so too.”
 
 ## Storytelling: The Secret Weapon/More Than Words
+
 Stories aren’t just for entertainment — they’re a bridge to connect with your audience on a personal level.
 
 Personal experiences, when shared within appropriate boundaries, create a sense of familiarity and even intimacy. 
