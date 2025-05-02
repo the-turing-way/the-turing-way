@@ -49,7 +49,7 @@ Bottom line? Own the stage, and don’t be afraid to enjoy the experience.
 ## The Power of Rhetorical Questions
 Want your audience to think deeply? Ask rhetorical questions.
 
-A well-placed rhetorical question not only grabs attention but also invites the audience to ponder, think critically.
+A well-placed rhetorical question not only grabs attention but also invites the audience to ponder and think critically.
 
 Bonus tip: Follow it up with a quick one-liner that subtly leads the audience toward the point you’re making.
 
