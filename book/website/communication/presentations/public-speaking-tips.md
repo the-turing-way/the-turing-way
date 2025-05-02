@@ -50,6 +50,7 @@ Also, reflect on your experiences with effective public speaking. What character
 Bottom line? Own the stage, and don’t be afraid to enjoy the experience.
 
 ## The Power of Rhetorical Questions
+
 Want your audience to think deeply? Ask rhetorical questions.
 
 A well-placed rhetorical question not only grabs attention but also invites the audience to ponder and think critically.
