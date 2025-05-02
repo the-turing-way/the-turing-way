@@ -67,7 +67,8 @@ Using metaphors or idioms adds color and paints vivid mental pictures that keep 
 Embrace the element of surprise. Add something unexpected to your talk — an unconventional approach, a surprising fact, or a playful twist. 
 It keeps the audience on their toes and leaves a lasting impression.
 
-## Emphasise new ideas.
+## Emphasise new ideas
+
 Remember: your audience is hearing your material for the first time. 
 Don’t gloss over fresh or complex ideas — slow down, articulate clearly, and make them count.
 
