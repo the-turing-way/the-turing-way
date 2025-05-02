@@ -39,6 +39,7 @@ They’re like a mental exhale for your audience.
 If you use slides (which are NOT _required_ for effective public speaking!), blank slides can act as visual pauses, too!
 
 ## Passion is Contagious
+
 Enthusiasm and confidence are infectious. 
 So, if you show genuine excitement about your topic, your audience will mirror it.
 
