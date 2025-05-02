@@ -51,7 +51,7 @@ Want your audience to think deeply? Ask rhetorical questions.
 
 A well-placed rhetorical question not only grabs attention but also invites the audience to ponder and think critically.
 
-Bonus tip: Follow it up with a quick one-liner that subtly leads the audience toward the point you’re making.
+Bonus tip: Follow it up with a quick one-liner that subtly leads the audience towards the point you’re making.
 
 For instance: “Wouldn’t it be great if coffee was free for a day? (*pause*) Yeah, I thought so too.”
 
