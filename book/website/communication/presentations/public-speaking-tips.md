@@ -77,6 +77,7 @@ In short, *take your time explaining new ideas so they can fully absorb them*.
 Moreso, if you are introducing something new to the audience, understand what they're familar with and use analogies that connect the new information to their existing knowledge.
 
 ## It’s Okay to Say “I Don’t Know”
+
 When faced with a tough question, honesty is key. 
 Acknowledge the person for asking, repeat the question if necessary, and take a moment to process. 
 It’s okay to admit you don’t know the answer — it builds trust and shows humility and authenticity.
