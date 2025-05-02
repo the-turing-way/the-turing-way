@@ -64,6 +64,7 @@ Personal experiences, when shared within appropriate boundaries, create a sense 
 Using metaphors or idioms adds color and paints vivid mental pictures that keep listeners invested and engaged.
 
 ## Keep Them Guessing
+
 Embrace the element of surprise. Add something unexpected to your talk — an unconventional approach, a surprising fact, or a playful twist. 
 It keeps the audience on their toes and leaves a lasting impression.
 
