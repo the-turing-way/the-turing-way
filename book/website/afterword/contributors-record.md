@@ -753,21 +753,21 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
       <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
         <br />
-        <sub><b>melibleq</b></sub>
+        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
         <br />
-        <sub><b>7757 words</b></sub>
+        <sub><b>3372 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
         <br />
-        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
+        <sub><b>melibleq</b></sub>
         <br />
-        <sub><b>2996 words</b></sub>
+        <sub><b>7757 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
