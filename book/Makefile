@@ -27,7 +27,7 @@ strict:
 
 # Build the book in a non-interactive environment (for CI)
 ci:
-	cd website && jupyter-book build --html --ci
+	cd website && jupyter-book build --html --ci --strict
 
 # Write pathways to your local copy of the book
 pathways:
