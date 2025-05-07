@@ -14,6 +14,12 @@ else
 fi
 '''
 
+# Enable other sites to access and cross-reference the-turing-way content dynamically
+[[headers]]
+  for = "/*"
+  [headers.values]
+    access-control-allow-origin = "*"
+
 # Redirects for old welcome/home/index page urls to current
 [[redirects]]
   # index.html no longer exists using Jupyter Book 2
