@@ -3,7 +3,6 @@
 
 ![Alt: Two people, one woman with a long orange shirt and one guy with a blue shirt and a tie, and a large Welcome! sign at the back](https://i.imgur.com/NXOPPc4.jpg)
 
-
 We're so glad to have you here! On this page, you can learn more about our Onboarding Calls, which have been initiated in 2024.
 
 ## About the Onboarding Call
