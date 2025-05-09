@@ -1026,7 +1026,7 @@ project:
         - file: afterword/collaborators.md
           title: Collaborators
         - file: afterword/subprojects.md
-          title: Sub-projects, Working Groups, Informal Initiatives
+          title: Associated Projects, Working Groups, Other Initiatives
         - file: afterword/glossary.md
           title: Glossary
         - file: afterword/bibliography.md
