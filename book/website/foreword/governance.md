@@ -36,7 +36,9 @@ Each level of decision-making should inform and influence each other, both apply
 Below, we describe these three levels of decision-making in the context of _The Turing Way_, inputs for which were invited from open discussions with our community members ([follow Miro board for details](https://miro.com/app/board/uXjVIe_VQAQ=/?share_link_id=593022744253)).
 This model was presented at a Community Forum in February 2024, a recording of which is shared below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: {iframe} https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ
+:width: 100%
+:::
 
 _This is a recording from the first public Community Forum hosted in February 2024._
 

@@ -694,13 +694,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/takuover"><img src="https://avatars2.githubusercontent.com/u/52206060?v=4?s=100" width="100px;" alt="takuover"/><br /><sub><b>takuover</b></sub></a><br /><a href="#ideas-takuover" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/timothy22000"><img src="https://avatars.githubusercontent.com/u/9934371?v=4?s=100" width="100px;" alt="timothy22000"/><br /><sub><b>timothy22000</b></sub></a><br /><a href="#translation-timothy22000" title="Translation">🌍</a> <a href="#content-timothy22000" title="Content">🖋</a> <a href="#infra-timothy22000" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tongyu0924"><img src="https://avatars.githubusercontent.com/u/119610311?v=4?s=100" width="100px;" alt="tongyu"/><br /><sub><b>tongyu</b></sub></a><br /><a href="#maintenance-tongyu0924" title="Maintenance">🚧</a> <a href="#content-tongyu0924" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tpronk"><img src="https://avatars.githubusercontent.com/u/8987504?v=4?s=100" width="100px;" alt="tpronk"/><br /><sub><b>tpronk</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Atpronk" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tugceoruc"><img src="https://avatars0.githubusercontent.com/u/20405276?v=4?s=100" width="100px;" alt="tugceoruc"/><br /><sub><b>tugceoruc</b></sub></a><br /><a href="#ideas-tugceoruc" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vasilisstav"><img src="https://avatars0.githubusercontent.com/u/55793023?v=4?s=100" width="100px;" alt="vasilisstav"/><br /><sub><b>vasilisstav</b></sub></a><br /><a href="#ideas-vasilisstav" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vcpope"><img src="https://avatars.githubusercontent.com/u/62377353?v=4?s=100" width="100px;" alt="vcpope"/><br /><sub><b>vcpope</b></sub></a><br /><a href="#talk-vcpope" title="Talks">📢</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="vhellon"/><br /><sub><b>vhellon</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Avhellon" title="Reviewed Pull Requests">👀</a> <a href="#content-vhellon" title="Content">🖋</a> <a href="#question-vhellon" title="Answering Questions">💬</a> <a href="#example-vhellon" title="Examples">💡</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Avhellon" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="vhellon"/><br /><sub><b>vhellon</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Avhellon" title="Reviewed Pull Requests">👀</a> <a href="#content-vhellon" title="Content">🖋</a> <a href="#question-vhellon" title="Answering Questions">💬</a> <a href="#example-vhellon" title="Examples">💡</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Avhellon" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vrajesh-daga"><img src="https://avatars.githubusercontent.com/u/201659831?v=4?s=100" width="100px;" alt="vrajesh-daga"/><br /><sub><b>vrajesh-daga</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Avrajesh-daga" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4?s=100" width="100px;" alt="yaseminturkyilmaz"/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="#blog-yaseminturkyilmaz" title="Blogposts">📝</a> <a href="#ideas-yaseminturkyilmaz" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
@@ -752,6 +753,16 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
       <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
+        <br />
+        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
+        <br />
+        <sub><b>5337 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
         <br />
         <sub><b>melibleq</b></sub>
@@ -759,8 +770,6 @@ Contributions of any kind welcome!
         <sub><b>7757 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/12/medium/112dffa3e5cc1fbd7fbbd3e9bfd520dc_default.png" />
         <br />
@@ -793,6 +802,8 @@ Contributions of any kind welcome!
         <sub><b>2390 words</b></sub>
         <br /><sub><b><code title="Chinese Simplified">zh-CN</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/7/medium/ba8209f4544bc4fcf882f35ba295bc5c_default.png" />
         <br />
@@ -801,14 +812,20 @@ Contributions of any kind welcome!
         <sub><b>2685 words</b></sub>
         <br /><sub><b><code title="French">fr</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
       </td>
-    </tr>
-    <tr>
+      <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/173/medium/0f7dcef1edc12d411af6f7b16a968623_default.png" />
+        <br />
+        <sub><b>Matheus Pimenta (omatheuspimenta)</b></sub>
+        <br />
+        <sub><b>2145 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/137/medium/0db9c41e4579dc47c5a289315ca6e016.jpeg" />
         <br />
         <sub><b>João Vitor (jvfe)</b></sub>
         <br />
-        <sub><b>1487 words</b></sub>
+        <sub><b>1490 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
@@ -827,14 +844,8 @@ Contributions of any kind welcome!
         <sub><b>1259 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-      <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
-        <br />
-        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
-        <br />
-        <sub><b>1110 words</b></sub>
-        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
-      </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/20/medium/32627112ab709769f5d1406937ed9558.jpg" />
         <br />
@@ -843,8 +854,6 @@ Contributions of any kind welcome!
         <sub><b>1094 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/68/medium/6deaa65b1f0997b43df812d13b2f1106.jpeg" />
         <br />
@@ -877,6 +886,8 @@ Contributions of any kind welcome!
         <sub><b>879 words</b></sub>
         <br /><sub><b><code title="Chinese Simplified">zh-CN</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/18/medium/4eaefb611f9a4efb0dbe090002e56c31_default.png" />
         <br />
@@ -885,8 +896,6 @@ Contributions of any kind welcome!
         <sub><b>861 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/70/medium/2262b12230cac55e1d97a9d3f3af8086.png" />
         <br />
@@ -894,6 +903,14 @@ Contributions of any kind welcome!
         <br />
         <sub><b>840 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
+      </td>
+      <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/184/medium/7c26b64a5d9766cfc274eac3f0dc10b1.jpeg" />
+        <br />
+        <sub><b>João Pitta (jlpitta82)</b></sub>
+        <br />
+        <sub><b>751 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/52/medium/1270d5b75e2b6b35d222b9e1c19b973f_default.png" />
@@ -911,6 +928,8 @@ Contributions of any kind welcome!
         <sub><b>633 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/60/medium/dd415fa9f35bc08f229498c49bf053ea.JPG" />
         <br />
@@ -927,8 +946,14 @@ Contributions of any kind welcome!
         <sub><b>609 words</b></sub>
         <br /><sub><b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
       </td>
-    </tr>
-    <tr>
+      <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/177/medium/f7d1a233a687f2b8e760e38cc2ab1ec2.jpeg" />
+        <br />
+        <sub><b>Leonardo Dorneles (leonardodorneles)</b></sub>
+        <br />
+        <sub><b>533 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/161/medium/d623b8524dd0f439d7d720263233ef0a.png" />
         <br />
@@ -945,6 +970,8 @@ Contributions of any kind welcome!
         <sub><b>362 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/98/medium/84288ef00942e512a1e54bc8545db2f1.jpeg" />
         <br />
@@ -969,8 +996,6 @@ Contributions of any kind welcome!
         <sub><b>254 words</b></sub>
         <br /><sub><b><code title="French">fr</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/8/medium/d6d807e129e1bb3c24aa1635afeb6d09.jpeg" />
         <br />
@@ -987,6 +1012,8 @@ Contributions of any kind welcome!
         <sub><b>225 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/121/medium/b2f34f2fea0e93e39a3f9beafabc0fb5_default.png" />
         <br />
@@ -1011,8 +1038,6 @@ Contributions of any kind welcome!
         <sub><b>164 words</b></sub>
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/125/medium/3f3d78bc1e1aed775ca33429148b74e4.jpeg" />
         <br />
@@ -1022,14 +1047,6 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="Arabic">ar</code></b></sub>
       </td>
       <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/184/medium/7c26b64a5d9766cfc274eac3f0dc10b1.jpeg" />
-        <br />
-        <sub><b>João Pitta (jlpitta82)</b></sub>
-        <br />
-        <sub><b>144 words</b></sub>
-        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
-      </td>
-      <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/92/medium/8d9e7e27ed54c88f71729cea1b8d98b0_default.png" />
         <br />
         <sub><b>iclal.cetin</b></sub>
@@ -1037,6 +1054,8 @@ Contributions of any kind welcome!
         <sub><b>91 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/80/medium/bd65e4c199c4894429131d427d14871b_default.png" />
         <br />
@@ -1053,8 +1072,6 @@ Contributions of any kind welcome!
         <sub><b>77 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/154/medium/ca8fba23cbd0d3868c752404f7347b04.png" />
         <br />
@@ -1079,14 +1096,8 @@ Contributions of any kind welcome!
         <sub><b>45 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
-      <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/173/medium/0f7dcef1edc12d411af6f7b16a968623_default.png" />
-        <br />
-        <sub><b>Matheus Pimenta (omatheuspimenta)</b></sub>
-        <br />
-        <sub><b>43 words</b></sub>
-        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
-      </td>
+    </tr>
+    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/159/medium/94ce74abfc3812748a934c152198b0af.jpeg" />
         <br />
@@ -1095,8 +1106,6 @@ Contributions of any kind welcome!
         <sub><b>36 words</b></sub>
         <br /><sub><b><code title="French">fr</code></b></sub>
       </td>
-    </tr>
-    <tr>
       <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/72/medium/137b4d9172d1ad8ed62737ac8e13a045_default.png" />
         <br />
