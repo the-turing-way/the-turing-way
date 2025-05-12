@@ -872,21 +872,21 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
       </td>
       <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
         <br />
-        <sub><b>melibleq</b></sub>
+        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
         <br />
-        <sub><b>7757 words</b></sub>
+        <sub><b>5337 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
     </tr>
     <tr>
       <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/171/medium/b69b0ce61c692d4b1bf3f06e9d763dc8.jpeg" />
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
         <br />
-        <sub><b>Vitória Stavis (vitoriastavis)</b></sub>
+        <sub><b>melibleq</b></sub>
         <br />
-        <sub><b>2996 words</b></sub>
+        <sub><b>7757 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
@@ -944,7 +944,7 @@ Contributions of any kind welcome!
         <br />
         <sub><b>João Vitor (jvfe)</b></sub>
         <br />
-        <sub><b>1487 words</b></sub>
+        <sub><b>1490 words</b></sub>
         <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
       <td align="center" valign="top">
@@ -1066,6 +1066,14 @@ Contributions of any kind welcome!
         <br /><sub><b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
       </td>
       <td align="center" valign="top">
+        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/177/medium/f7d1a233a687f2b8e760e38cc2ab1ec2.jpeg" />
+        <br />
+        <sub><b>Leonardo Dorneles (leonardodorneles)</b></sub>
+        <br />
+        <sub><b>533 words</b></sub>
+        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+      </td>
+      <td align="center" valign="top">
         <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/161/medium/d623b8524dd0f439d7d720263233ef0a.png" />
         <br />
         <sub><b>jordan49er</b></sub>
@@ -1080,14 +1088,6 @@ Contributions of any kind welcome!
         <br />
         <sub><b>362 words</b></sub>
         <br /><sub><b><code title="Turkish">tr</code></b></sub>
-      </td>
-      <td align="center" valign="top">
-        <img alt="logo" style="width: 100px" src="https://production-enterprise-static.cf-downloads.crowdin.com/avatar/177/medium/f7d1a233a687f2b8e760e38cc2ab1ec2.jpeg" />
-        <br />
-        <sub><b>Leonardo Dorneles (leonardodorneles)</b></sub>
-        <br />
-        <sub><b>347 words</b></sub>
-        <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
       </td>
     </tr>
     <tr>
