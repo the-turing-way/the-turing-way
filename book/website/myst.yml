@@ -906,6 +906,8 @@ project:
               title: External Link Checking
             - file: community-handbook/infrastructure/infrastructure-dns.md
               title: DNS
+            - file: community-handbook/infrastructure/infrastructure-pathways.md
+              title: Pathways
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
