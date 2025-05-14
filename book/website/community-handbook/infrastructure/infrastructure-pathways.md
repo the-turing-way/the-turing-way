@@ -23,3 +23,7 @@ To build the book with pathways you could therefore run
 $ make pathways
 $ make serve
 ```
+
+## CI and deploy
+
+In the CI [build pathways check](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/ci.yml) and [Netlify build instructions](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml) the sequence for building the book with pathways is `make deps && make pathways && make ci`.
