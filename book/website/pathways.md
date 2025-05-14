@@ -5,7 +5,8 @@
 
 Since its inception in 2019, *The Turing Way* has experienced significant growth, with a diverse community of contributors creating a wealth of materials covering various aspects of data science practices.
 
-This necessary expansion, aimed at enhancing the usability of *The Turing Way* for diverse user groups, has introduced a key challenge: how can users efficiently locate the information most relevant to their specific needs and skill levels? To address this, the 'Pathways' feature was developed and implemented within *The Turing Way*, and this chapter describes its functionality.
+This necessary expansion, aimed at enhancing the usability of *The Turing Way* for diverse user groups, has introduced a key challenge: how can users efficiently locate the information most relevant to their specific needs and skill levels?
+To address this, the 'Pathways' feature was developed and implemented within *The Turing Way*, which is briefly described in this chapter.
 
 ### Background
 
