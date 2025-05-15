@@ -1,59 +1,60 @@
+
 (pd-overview-cycle)=
-## Project cycle
+# Project Cycle
 
-The success of any project hinges upon effective management and a well-defined project cycle. In this chapter, we will explore the key phases of the project cycle, from initiation to closure, and discuss the essential components within each stage. It is critical for researchers, programmers and practitioners to understand and implement a structured approach to project management. This will not only enhance their ability to maximise outcomes but also to effectively manage resources.
+The success of any project relies on effective management and a clear project cycle. In this chapter, we’ll walk through the main phases of the project cycle, from initiation to closure, highlighting the essential steps in each stage. For researchers, programmers, and practitioners, following a structured approach to project management helps you get the best results and make good use of your resources.
 
-![image](https://hackmd.io/_uploads/HJXz1RV46.png)
+![A simple diagram showing the main stages of a project cycle: initiation, planning, execution, monitoring, and closing.](https://hackmd.io/_uploads/HJXz1RV46.png)=
+## Initiation
 
-(pd-overview-cycle-initiation)=
-### Initiation
+The initiation phase sets the stage for the project by defining its purpose, scope, and objectives. If you rush this stage, you risk undermining the project’s outcomes. Here are some key parts of project initiation:
 
-The initiation phase sets the foundation for the project and involves defining its purpose, scope, and objectives. A rush to initiate the project without giving a time risks compromising the project deliverables and outcomes. The following components play a critical role in project initiation:
+- **Project Charter**: This document describes the project’s vision, objectives, stakeholders, and main deliverables. It acts as a reference point for decisions throughout the project. You can find a [Project Charter Template on Smatcheet]([https://github.com/pm4id/project-charter-template](https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need?srsltid=AfmBOorD2-FX1O7z5HiFoWzOezc772oUUEJjE3PSliHYTuuH1dWDAueF)).
 
-- Project Charter: A project charter outlines the project's vision, objectives, stakeholders, and key deliverables. It serves as a reference document that guides decision-making throughout the project lifecycle.
+- **Contracts**: Drawing up contracts with all relevant parties clarifies roles, responsibilities, and expectations. These agreements might involve collaborators, industry partners, universities, vendors, or others.
 
-- Contracts: Establishing contracts with relevant parties ensures clarity regarding roles, responsibilities, and expectations. Contracts can include agreements with collaborators, industry, academics, vendors, or other project partners.
-
-- Governance: Governance frameworks provide a structure for decision-making, risk management, and stakeholder engagement. The governance framework helps maintain project accountability and ensures compliance with relevant regulations.
+- **Governance**: A governance framework gives structure to decision-making, risk management, and stakeholder involvement. This helps keep the project on track and supports compliance with any relevant rules or regulations. 
 
 (pd-overview-cycle-planning)=
-### Planning
+## Planning
 
-The planning phase involves defining project activities, deliverables, allocating resources, and creating a roadmap for project execution or delivery plan. Key components of the planning phase include:
+During the planning phase, you define project activities, set out deliverables, allocate resources, and create a roadmap for delivery. Key elements include:
 
-- Risk Register: A risk register identifies potential risks and outlines strategies to mitigate or manage them. It enables proactive risk management and helps project teams anticipate and address potential obstacles.
+- **Risk Register**: This tool helps you spot potential risks and decide how to handle them. By keeping a risk register up to date, your team can deal with problems before they become serious. See a [risk register template from the University of Dundee](https://www.dundee.ac.uk/corporate-information/risk-register-template-and-guidance).
 
-- IP Register: An intellectual property (IP) register documents any intellectual property considerations, including copyrights, patents, or licenses associated with the project. It ensures that intellectual property rights are properly protected and managed.
+- **IP Register**: An intellectual property (IP) register records any IP matters, such as copyrights, patents, or licences linked to the project. This helps you keep track of IP rights and manage them properly.
 
-- Delivery Plans/Milestones: Delivery plans establish the project timeline, milestones, and deliverables. They help project teams monitor progress, allocate resources effectively, and stay on track towards project completion.
+- **Delivery Plans and Milestones**: These set out the project timeline, key milestones, and deliverables. They help you track progress and keep the team moving in the right direction. A Gantt chart is a popular way to visualise this.
 
-- Logic models: logical frameworks are akin to the blueprints we use for planning and evaluating programmes aimed at long-term impact, such as social change.
+- **Logic Models**: Logic models (or logical frameworks) act as blueprints for planning and evaluating projects with long-term goals, such as social change. Find out more at [enhancing Program performance with Logic Models from the University of Wisconsin](https://logicmodel.extension.wisc.edu/).
 
 (pd-overview-cycle-execution)=
-### Execution
+## Execution
 
-The execution phase involves putting the project plan into action and managing project activities. Key components of the execution phase include:
+The execution phase is when you put your plan into action and manage day-to-day activities. Important aspects include:
 
-- Project Boards: Project boards provide oversight and guidance during the project's execution. They typically consist of key stakeholders who review project progress, provide feedback, and make critical decisions. It can also be organised in an RACI matrix.
+- **Project Boards**: These groups oversee the project during execution. They usually include key stakeholders who review progress, give feedback, and make important decisions. A [RACI matrix](https://www.racichart.org/) (Responsible, Accountable, Consulted, Informed) is a handy tool for clarifying roles.
 
-- Budgets: It involves monitoring and controlling project expenditures, ensuring that resources are allocated appropriately, and making adjustments as needed.
+- **Budgets**: This involves keeping an eye on project spending, making sure resources are used wisely, and making changes if needed.
 
 (pd-overview-cycle-monitoring)=
-### Monitoring
-The monitoring phase focuses on tracking project performance, identifying deviations from the plan, and making necessary adjustments. Components of the monitoring phase include:
+## Monitoring
 
-- Reporting: Regular reporting enables project teams to communicate progress, risks, and issues to stakeholders. It promotes transparency and facilitates informed decision-making throughout the project lifecycle.
+Monitoring is all about tracking project performance, spotting any issues, and making adjustments as you go. Key components include:
 
-- Forecasts: Forecasting involves predicting future project outcomes based on current progress and performance data. It helps project teams anticipate challenges, assess resource needs, and make data-driven decisions.
+- **Reporting**: Regular updates help the team share progress, risks, and issues with stakeholders. This keeps everyone informed and supports good decision-making.
+
+- **Forecasts**: Forecasting means predicting future expenses, outcomes based on current progress and data. This helps the team anticipate challenges and plan for what’s ahead. 
 
 (pd-overview-cycle-everywhere)=
-### Everywhere
+## Everywhere
 
-Throughout the project cycle, the project team must remain vigilant in identifying and addressing problems that arise. This includes promptly resolving issues, managing conflicts, and fostering effective communication to ensure project success.
+Throughout every stage of the project cycle, it’s important to spot and address problems as soon as they arise. This includes resolving issues quickly, managing disagreements, and keeping communication open so that the project stays on track.
 
 (pd-overview-cycle-closing)=
-### Closing
+## Closing
 
-The closing phase involves wrapping up the project, capturing lessons learned, and transitioning project outcomes. Key components of the closing phase include:
+The closing phase is about wrapping up the project, capturing lessons learned, and handing over outcomes. Key elements include:
 
-- Project Legacy: Documenting the project legacy ensures that the knowledge, deliverables, and best practices generated during the project are captured and can be shared with the wider research community. This helps foster continuous improvement and supports future projects.
+- **Project Legacy**: Writing up the project legacy means that knowledge, deliverables, and best practices are recorded and shared with the wider research community. This supports continuous improvement and helps future projects build on your work. For tips on documenting lessons learned, see [The Conservation Gateway's guide on capturing lessons learned](https://www.conservationgateway.org/ConservationPlanning/partnering/cpc/Documents/Capturing_Lessons_Learned_Final.pdf).
+
