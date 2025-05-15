@@ -10,16 +10,16 @@
 Project management methodologies or frameworks are structured approaches to planning, delegating, tracking, managing changes, and evaluating work across different industries, including research. 
 They provide clear guidance and direction on how work should be managed effectively, and can support greater collaboration, transparent decision making, and deliberative working. 
 
-Choosing the right project management framework for a research project is crucial, as it can significantly influence your research project's success, efficiency, and potential for collaboration.
 Research projects are often characterised by uncertainty, evolving objectives, and a need for flexibility.
 As such, they require a framework that can accommodate these dynamics.
-As a recent study pointed out, "a fine balance is needed between implementing management approaches to support the efficient and effective delivery of projects while not compromising accountability, creativity and innovation." [santos2022framework]
+Choosing the right project management framework for a research project is crucial, as it can significantly influence your research project's success, efficiency, and potential for collaboration.
+As a recent study pointed out, "a fine balance is needed between implementing management approaches to support the efficient and effective delivery of projects while not compromising accountability, creativity and innovation." @santos2022framework
 
 Traditional methodologies, for example Waterfall, offer a structured, linear approach beneficial for projects with well-defined stages and stable requirements, known from the beginning of the project design process.
 
 Agile frameworks, including Scrum and Kanban, are flexible and can adapt to changing research landscapes and iterative discovery processes that are part of many research projects.
 
-There are also a number of other methodologies and philosophies that can matter to you: PRINCE2, Lean, Stage/Phase Gate, and many more.
+There are also a number of other methodologies and philosophies that you can explore: PRINCE2, Lean, Stage/Phase Gate, and many more.
 
 The decision between project management frameworks hinges on the nature of the research, the level of clarity in objectives, and the extent to which the project can accommodate changes in scope or direction.
 Some methodologies are better suited for flexible collaboration between distributed teams.
@@ -29,7 +29,7 @@ These pages on The Turing Way are designed to assist you in choosing the right p
 
 ## Quick comparison between methodologies/frameworks
 
-| **Methodology/Framework** | **Approach** | **Key Features** | **Flexibility** | **Change Management** | **Suitability** | 
+| **Methodology / Framework** | **Approach** | **Key Features** | **Flexibility** | **Change Management** | **Suitability** | 
 |-------------------|-------------------|--------------------------|-------------------|----------------------|-----------------------------------|
 | **Agile** | Iterative and incremental | Flexibility, adaptability | High | Welcomes changes | Complex projects with variable requirements | 
 | **Scrum** | Iterative, time-boxed sprints | Roles (Scrum Master, Product Owner), Artifacts, "Ceremonies" | Moderate to High | Adapts to changes in sprints | Projects that benefit from regular reassessment | 
@@ -42,7 +42,7 @@ These pages on The Turing Way are designed to assist you in choosing the right p
 -----
 
 
-| **Methodology/Framework** | **Origin/typically used in** | **Focus** | **Outcomes** | **Readiness for Use in Research Projects** | **Adaptability for Research Projects** |
+| **Methodology / Framework** | **Origin / typically used in** | **Focus** | **Outcomes** | **Use in Research Projects** | **Adaptability** |
 |------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|--------------------------------|----------------------------------------|
 | **Agile** |  Software development, creative projects | Customer satisfaction, team collaboration | Incremental improvements, adaptability to change | Highly suitable due to its iterative nature, allowing for frequent reassessment and adaptation as research findings evolve. | Extremely adaptable, can easily integrate new research directions and findings. |
 | **Scrum** |   Software development, product development | Team productivity, Iterative development | Deliverables at the end of each sprint | Suitable for research projects that can be broken down into smaller, iterative cycles, with regular reassessment points. | Adaptable within each sprint cycle, but less so between sprints. |
