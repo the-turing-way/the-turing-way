@@ -1,4 +1,4 @@
-(pathways)=
+(ch-pathways)=
 # Pathways Feature in *The Turing Way*
 
 ## Introduction
