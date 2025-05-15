@@ -1,5 +1,5 @@
 (pd-frameworks-overview)=
-# Project Management Methodologies/Frameworks Overview
+# Project Management Frameworks Overview
 (pd-frameworks-overview-prerequisites)=
 ## Prerequisites
 | Prerequisite | Importance | Skill Level | Notes |
