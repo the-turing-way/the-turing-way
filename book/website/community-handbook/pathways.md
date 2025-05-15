@@ -18,6 +18,13 @@ This user experience risks discouraging community members from effectively using
 To tackle this issue, we've introduced the 'Pathways' feature.
 Drawing on the concepts of {ref}Personas and Pathways<pd-persona>, this is a Python package implementation, designed to improve content discovery (pathways) by preventing users (personas) from being overwhelmed with information that may not be immediately relevant.
 
+---
+height: 400px
+name: open-development
+alt: Here we have a group of people from different areas who are talking about topics of their interests - a good way to show how pathways can help not just the people from the group it is prepared for, but others who are interested in the field.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+
 This package is now maintained by members of the Infrastructure Working Group, who also collaborate with the Jupyter Book team and contribute upstream.
 
 ## Enhancing Navigation of *The Turing Way* Resources
