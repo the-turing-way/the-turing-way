@@ -78,7 +78,7 @@
   colour: deeppink
   description: >
     Data Steward is an umbrella term for numerous support roles that involve the creation, management and usage of research data. These can be very hands-on roles involving daily data analysis or roles that are more policy and advising-focused. Data Stewards are an important part of scientific communities, supporting recommended data management practices and saving researchers time by supporting them in these efforts. Data Stewards tend to have scientific backgrounds and can have the technical skills needed to analyse and manage both data and software (see also the resources curated for Research Software Engineers). This curated set of chapters will point. Data Stewards to topics and practices important for working with data and communicating with researchers.
-- name: Research Community Manager Concepts
+- name: Research Community Management
   files:
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview.md
