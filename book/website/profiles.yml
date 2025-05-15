@@ -1,4 +1,4 @@
-- name: Research Community Manager
+- name: Research Community Manager Concepts
   files:
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview.md
@@ -9,9 +9,9 @@
     - reproducible-research/rdm/rdm-sharing.md
     - reproducible-research/code-reuse.md
     - reproducible-research/code-reuse/code-reuse-overview.md
-  colour: 
+  colour: orange
   description: >
-    Research Community Managers ... to add
+    Research Community Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
 - name: Early Career Researchers
   files:
     - project-design/project-design.md
