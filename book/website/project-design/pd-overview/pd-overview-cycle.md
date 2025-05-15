@@ -14,7 +14,7 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence
 
 The initiation phase sets the stage for the project by defining its purpose, scope, and objectives. If you rush this stage, you risk undermining the project’s outcomes. Here are some key parts of project initiation:
 
-- **Project Charter**: This document describes the project’s vision, objectives, stakeholders, and main deliverables. It acts as a reference point for decisions throughout the project. You can find a [Project Charter Template on Smatcheet]([https://github.com/pm4id/project-charter-template](https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need?srsltid=AfmBOorD2-FX1O7z5HiFoWzOezc772oUUEJjE3PSliHYTuuH1dWDAueF)).
+- **Project Charter**: This document describes the project’s vision, objectives, stakeholders, and main deliverables. It acts as a reference point for decisions throughout the project. You can find a [Project Charter Template on Smartsheet](https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need?srsltid=AfmBOorD2-FX1O7z5HiFoWzOezc772oUUEJjE3PSliHYTuuH1dWDAueF) or here [https://github.com/pm4id/project-charter-template](https://github.com/pm4id/project-charter-template).
 
 - **Contracts**: Drawing up contracts with all relevant parties clarifies roles, responsibilities, and expectations. These agreements might involve collaborators, industry partners, universities, vendors, or others.
 
