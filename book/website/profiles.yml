@@ -1,3 +1,17 @@
+- name: Research Community Manager
+  files:
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-source.md
+    - reproducible-research/licensing.md
+    - reproducible-research/rdm/rdm-metadata.md
+    - reproducible-research/rdm/rdm-sharing.md
+    - reproducible-research/code-reuse.md
+    - reproducible-research/code-reuse/code-reuse-overview.md
+  colour: 
+  description: >
+    Research Community Managers ... to add
 - name: Early Career Researchers
   files:
     - project-design/project-design.md
