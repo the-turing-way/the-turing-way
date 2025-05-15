@@ -15,6 +15,9 @@
     - communication/comms-overview.md
     - communication/comms-overview/comms-overview-principles.md
     - communication/comms-overview/comms-overview-accessibly.md
+    - collaboration/collaboration.md
+    - collaboration/research-infrastructure-roles/community-manager.md
+    - collaboration/stakeholder-engagement.md
   colour: orange
   description: >
     Research Community Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
