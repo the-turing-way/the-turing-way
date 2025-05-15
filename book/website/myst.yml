@@ -328,6 +328,8 @@ project:
               title: Sharing Your Research Work
         - file: project-design/pd-checklist.md
           title: Project Design Checklist
+        - file: project-design/project-management-methodologies/overview.md
+          title: Project Management Methodologies
         - file: project-design/project-repo.md
           title: Creating Project Repositories
           children:
