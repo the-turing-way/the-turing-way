@@ -885,6 +885,13 @@ project:
               title: Record of Contributions
             - file: community-handbook/acknowledgement/acknowledgement-examples.md
               title: Different Contributions and Acknowledgements
+        - file: community-handbook/pathways.md
+          title: Pathways Feature
+          children:
+            - file: community-handbook/pathways/pathways-creation.md
+              title: Creating Learning Pathways
+            - file: community-handbook/pathways/pathways-examples.md
+              title: Pathways Examples in Action
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
