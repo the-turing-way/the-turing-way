@@ -1,5 +1,5 @@
 (ch-infrastructure-pathways)=
-# Pathways
+# Technical Documentation for Pathways
 
 The [#ch-pathways]() section of the book presents, for different roles, a set of curated sections of the book.
 This provides a way for people to find information most relevant to them.
