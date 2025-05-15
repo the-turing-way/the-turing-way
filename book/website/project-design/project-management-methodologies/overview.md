@@ -13,7 +13,7 @@ They provide clear guidance and direction on how work should be managed effectiv
 Research projects are often characterised by uncertainty, evolving objectives, and a need for flexibility.
 As such, they require a framework that can accommodate these dynamics.
 Choosing the right project management framework for a research project is crucial, as it can significantly influence your research project's success, efficiency, and potential for collaboration.
-As a recent study pointed out, "a fine balance is needed between implementing management approaches to support the efficient and effective delivery of projects while not compromising accountability, creativity and innovation." @santos2022framework
+As a recent study pointed out, _"a fine balance is needed between implementing management approaches to support the efficient and effective delivery of projects while not compromising accountability, creativity and innovation."_ @santos2022framework
 
 Traditional methodologies, for example Waterfall, offer a structured, linear approach beneficial for projects with well-defined stages and stable requirements, known from the beginning of the project design process.
 
