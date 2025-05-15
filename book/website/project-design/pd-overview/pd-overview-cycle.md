@@ -5,10 +5,10 @@
 The success of any project relies on effective management and a clear project cycle. In this chapter, we’ll walk through the main phases of the project cycle, from initiation to closure, highlighting the essential steps in each stage. For researchers, programmers, and practitioners, following a structured approach to project management helps you get the best results and make good use of your resources.
 
 ---
-name: https://hackmd.io/_uploads/HJXz1RV46.png
+name: project-cycle-ethical-checks
 alt: A simple diagram showing the main stages of a project cycle: initiation, planning, execution, monitoring, and closing
 ---
-The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.8169292).
 
 ## Initiation
 
