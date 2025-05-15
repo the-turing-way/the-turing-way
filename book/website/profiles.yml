@@ -128,7 +128,7 @@
     - reproducible-research/rdm/rdm-sharing.md
     - reproducible-research/code-reuse.md
     - reproducible-research/code-reuse/code-reuse-overview.md
-  colour: green
+  colour: skyblue
   description: >
     From research to government, every sector strongly relies upon the use of
     research software. This curated set of chapters guides the sharing and
