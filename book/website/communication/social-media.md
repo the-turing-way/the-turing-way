@@ -20,7 +20,7 @@ Although, maintaining a social media account successfully can be time-consuming.
 (cm-social-media-platforms)=
 ## Social Media Platforms
 
-You could use academic-based social media sites such as ResearchGate or Academia.edu or more general ones such as X (formerly Twitter), Facebook, Instagram, Youtube and LinkedIn.
+You could use academic-based social media sites such as [ResearchGate](https://www.researchgate.net/) or [Academia.edu](https://www.academia.edu/) or more general ones such as Twitter, Facebook, Instagram, Youtube and Linkedin.
 
 More than 20 million researchers (figure from spring 2021) have signed up to ResearchGate and it can therefore offer a great opportunity for sharing papers, connecting with colleagues through the messaging feature and can be used to advertise projects.
 There are similar benefits to using Academia.edu or Mendeley, although they are not used as much as ResearchGate.

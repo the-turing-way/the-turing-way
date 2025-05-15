@@ -1,7 +1,7 @@
 (rr-rdm-personal)=
 # Personal data management
 
-For a more practical overview on tools and practises that facilitate reproducibility, please see the [Sensitive Data chapters](https://the-turing-way.netlify.app/project-design/sdp.html) on [managing](https://the-turing-way.netlify.app/project-design/sdpm.html) and [working on](https://the-turing-way.netlify.app/project-design/sdpw.html) sensitive data under the [Guide for Project Design](https://the-turing-way.netlify.app/project-design/project-design.html#pd).
+For a more practical overview on tools and practises that facilitate reproducibility, please see the [Sensitive Data chapters](https://book.the-turing-way.org/project-design/sdp.html) on [managing](https://book.the-turing-way.org/project-design/sdpm.html) and [working on](https://book.the-turing-way.org/project-design/sdpw.html) sensitive data under the [Guide for Project Design](https://book.the-turing-way.org/project-design/project-design.html#pd).
 
 ```{figure} ../../figures/data-ecosystem.*
 ---

@@ -1,10 +1,19 @@
 (rr-rdm-repository)=
 # Data Repositories
 
-A repository is a place where digital objects can be stored and shared with others (see also [this repository definition](https://the-turing-way.netlify.app/afterword/glossary.html#term-Repository)).
+A repository is a place where digital objects can be stored and shared with others (see also [this repository definition](https://book.the-turing-way.org/afterword/glossary.html#term-Repository)).
 
 Data repositories provide access to academic outputs that are reliably accessible to any web user (see the [OpenDOAR inclusion criteria](https://v2.sherpa.ac.uk/opendoar/about.html)). 
 Repositories must earn the trust of the communities they intend to serve and demonstrate that they are reliable and capable of appropriately managing the data they hold ({cite:ps}`Lin2020trust`).
+
+```{figure} ../../figures/data-repo.*
+---
+height: 500px
+name: data-repo
+alt: A tree representing a general data repository, with squirrels symbolizing researchers gathering FAIR data, which can be open or restricted. Next to the tree are examples showing how different academic disciplines and institutions have unique types of data repositories, and how FAIR data may differ when obtained from general or domain-specific repositories.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.13882307](https://doi.org/10.5281/zenodo.13882307).
+```
 
 Long-term archiving repositories are designed for secure and permanent storage of data, ensuring data preservation over extended periods.
 This differs from platforms like GitHub and GitLab which primarily serve as collaborative development tools, facilitating version control and project management in a more dynamic and transient environment.
@@ -40,7 +49,7 @@ That way, your work will still be FAIR (because the metadata are findable and th
 
 ## Why not the supplemental materials?
 
-Supplemental materials are not following the FAIR principles - as there is no seperate DOI assigned to the supplemental materials which makes it difficult to retrieve these materials. 
+Supplemental materials are not following the FAIR principles - as there is no separate DOI assigned to the supplemental materials which makes it difficult to retrieve these materials. 
 Next to supplemental materials not being aligned with the FAIR principles, there are other reasons why a data repository is a better solution: 
 
 - Data control: Supplementary materials cannot be updated, unlike materials available at data repositories.
@@ -56,7 +65,7 @@ This chapter outlines some of the crucial functionalities that you should look o
 
 Data should be submitted to domain or discipline specific, community recognised, repository where possible. 
 A {ref}`general purpose repository<rr-rdm-repository-types-general>` can be used when there are no suitable discipline specific repositories. 
-Discipline specific data repositories are likely to have more functionalities for the type of data that you would like to share, as well as community standards that you can adhere to to make the data more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). Why sharing data is a good idea is covered in {ref}`Motivations for sharing and archiving data<rr-rdm-sharing-motivations>` and {ref}`Open Data<rr-open-data>`.
+Discipline specific data repositories are likely to have more functionalities for the type of data that you would like to share, as well as community standards that you can adhere to make the data more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). Why sharing data is a good idea is covered in {ref}`Motivations for sharing and archiving data<rr-rdm-sharing-motivations>` and {ref}`Open Data<rr-open-data>`.
 
 The choice of repository can depend on multiple factors:
 
@@ -86,7 +95,7 @@ See the [ARDC's Guide to choosing a data repository](https://ardc.edu.au/resourc
 (rr-rdm-repository-types)=
 ## Types of repositories
 
-If your disicpline does not have a disciplinary specific repository you can make use of several general repositories. 
+If your discipline does not have a disciplinary specific repository you can make use of several general repositories. 
 Below follows a (non-exhaustive) list of these different types of repositories: 
 
 (rr-rdm-repository-types-general)=
@@ -153,7 +162,4 @@ Each *component* has its own wiki that allows to add reach documentation on mult
 
 - [Introduction to OSF](https://vimeo.com/668636108) by Dr Amy Gillespie 
 - [Collaborating, sharing, and preregistering through OSF](https://www.youtube.com/watch?v=48Xy62spsLI) by Anita Eerland.
-
-(rr-rdm-repository-resources)=
-## Additional Repository Resources
 

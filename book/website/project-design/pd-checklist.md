@@ -23,7 +23,7 @@ Finally, we can plan for publishing and sharing research components before, duri
 * Consider the necessary code and data requirements for your project.
 * Document the workflow for data collection, analysis, and interpretation.
 * Define data governance processes to ensure data is kept securely, used appropriately, and complies with data regulations in relevant countries/geographic areas. 
-* Useful documentation: [data management plan](rr-rdm-dmp), [code repository](pd-project-repo), [electronic lab notebooks](rr-open-notebooks), [Data Governance Chapter](pd-dg)
+* Useful documentation: [data management plan](#rr-rdm-dmp), [code repository](#pd-project-repo), [electronic lab notebooks](#rr-open-notebooks), [Data Governance Chapter](#pd-dg)
 
 ## Operations 
 * Confirm the budget and any funding policies you need to follow.
@@ -35,28 +35,28 @@ Finally, we can plan for publishing and sharing research components before, duri
 ## Stakeholders
 * Identify all individuals, groups, or organizations that have an interest or influence in the project. This includes both internal and external stakeholders.
 * Create a visual representation or matrix to understand the relationships between stakeholders and the project. Map their level of engagement, influence, and interest at each stage of the project. This helps prioritise engagement efforts and tailor communication strategies accordingly.
-* Utilise the ["Facilitating Stakeholder Engagement"](cl-stakeholder-engagement) chapter for guidance and template resources.
-* Useful documentation: stakeholder register, stakeholder map, stakeholder analysis matrix, [personas](pd-persona).
+* Utilise the ["Facilitating Stakeholder Engagement"](#cl-stakeholder-engagement) chapter for guidance and template resources.
+* Useful documentation: stakeholder register, stakeholder map, stakeholder analysis matrix, [personas](#pd-persona).
 
 ## Community
 If you are intending to build a community for your project or to support participatory research, make a plan!
-* Contact communities from your stakeholder mapping and invite them to discusss the project and goals during planning.
+* Contact communities from your stakeholder mapping and invite them to discuss the project and goals during planning.
 * Agree decision making processes for the project involving the community.
 * Plan contribution pathways for new participants, establish guidelines for new content, and how you will grow a sense of community.
-* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](er-ethics-open-source-governance), [Research Community Managers](cl-infrastructure-community-managers), [GitHub repo for Research Community Management resources](https://github.com/alan-turing-institute/open-research-community-management)
+* Useful documentation: [Code of Conduct](#ch-coc), [Contributing Guidelines](#cl), [READMEs](https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](#er-ethics-open-source-governance), [Research Community Managers](#cl-infrastructure-community-managers), [GitHub repo for Research Community Management resources](https://github.com/alan-turing-institute/open-research-community-management)
 
 ## Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.
 * Consider licensing and copyright issues for sharing your outputs.
 * Determine how you will manage intellectual property and ownership rights using an IP register.
 * Remember to include any required reporting to funders.
-* Useful documentation: IP register, [licensing](rr-licensing) and copyright statement, [data management plan](rr-rdm-dmp).
+* Useful documentation: IP register, [licensing](#rr-licensing) and copyright statement, [data management plan](#rr-rdm-dmp).
 
 ## Communications 
 * Identify the target audience for your research.
 * Plan what you want to communicate to your audiences, when you want or need to share progress or results, and the best channels or mediums to do this.
 * Consider open and inclusive practices to involve stakeholders in decision-making.
-* Useful documentation: [The Turing Way Guide to Communication](cm-comms-overview), communication plan.
+* Useful documentation: [The Turing Way Guide to Communication](#cm-comms-overview), communication plan.
 
 ## Maintenance & Archiving 
 * Develop a plan for the long-term maintenance and sustainability of your project.

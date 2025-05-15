@@ -72,7 +72,7 @@ Ideally, the best time to apply the labels is close to the beginning of the rese
 However, much of our research builds on itself, so researchers have also found [workshops](https://datahazards.com/contents/materials/workshop.html) useful to reflect and plan what they can do better in follow-up projects.
 
 At the beginning of your workflow, you might want to prepare to avoid certain Data Hazards if you can, and if you can't avoid them because of where your data has come from, you may want to acknowledge this. 
-For example, if you have a [sensitive data project](https://the-turing-way.netlify.app/project-design/sdp.html), what Data Hazard labels will apply, and/or what can you do to design your project in a way that avoids certain harms?
+For example, if you have a [sensitive data project](https://book.the-turing-way.org/project-design/sdp.html), what Data Hazard labels will apply, and/or what can you do to design your project in a way that avoids certain harms?
  
 As you are collecting and analyzing your data, you might want to iteratively think of the potential Data Hazards that exist in the information you are actively collecting. 
 If you have a project where data has already been collected in the past, you can still apply and think of what labels may be relevant to the dataset. 

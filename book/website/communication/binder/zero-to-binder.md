@@ -1,7 +1,7 @@
 (z2b)=
 # Zero-to-Binder
 
-In this chapter, we will create a Binder project from scratch: we will first make a repository on GitHub and then launch in on mybinder.org.
+In this chapter, we will create a Binder project from scratch: we will first make a repository on GitHub and then launch it on mybinder.org.
 Sections where you are expected to complete a task are denoted by three traffic light 🚦 emojis.
 Some steps give you the option of Python, Julia or R - click on the tab of your preferred language.
 
@@ -553,7 +553,7 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 
 **Advanced usage patterns:**
 
-- Separating content from envorinment with `nbgitpuller` to reduced rebuilds:
+- Separating content from environment with `nbgitpuller` to reduced rebuilds:
   - **<https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922>**
 - Tips for reducing the start-up time of your repository:
   - **<https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956>**

@@ -1,6 +1,6 @@
 ## The Turing Way Book
 
-This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
+This is the README file for _The Turing Way_ book hosted online at https://book.the-turing-way.org/.
 For the README file of the main repository please [follow this link](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
 
 All the text for each chapter of the `book` lives inside the folder `./website` directory.
@@ -10,16 +10,16 @@ Everything else is in the `website/` directory.
 ### Configuration
 
 - The table of contents (TOC) defines the order of chapters as they appear in the book.
-To change the TOC, please edit the `website/_toc.yml` file with correct information on filenames and their relative locations in this repository.
+To change the TOC, please edit the `website/myst.yml` file with correct information on filenames and their relative locations in this repository.
 Documentation on controlling the TOC structure can be found on the [Jupyter Book website](https://jupyterbook.org/customize/toc.html).
-- Same applies for more general configuration using `website/_config.yml`.
+- Same applies for more general configuration using `website/myst.yml`.
 Documentation on configuring book settings can be found on the [Jupyter Book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
 
 The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
 
-Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://the-turing-way.netlify.app/community-handbook/local-build).
+Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
 #### On Netlify
 

@@ -9,7 +9,7 @@ While infrastructure can be defined in many ways, collectively we call these thi
 Some examples include:
 
 - Instructions to build the site from the source files, both {ref}`locally<ch-local-build>` and [for deployment](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml)
-- Continuous integration {term}`Continuous Integration` tasks to look for problems in the source
+- {term}`Continuous Integration` tasks to look for problems in the source
 - Redirect rules to help site navigation and avoid '404 Not Found' errors
 - {term}`Hosting` and {term}`DNS`
 

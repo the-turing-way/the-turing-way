@@ -83,7 +83,7 @@ name: scientific-union-badge
 alt: A blue enamel badge with AScW, that stands for Association of Scientific Workers printed on it on a wooden background.
 ---
 AScW (stands for
-Association of Scientific Workers) badge. Image from the Instagram account [@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) *(text and image reproduced under CC-BY with permission from the account)*
+Association of Scientific Workers) badge. Image from the Instagram account [\@BadgesofStruggle](https://www.instagram.com/badgesofstruggle/) *(text and image reproduced under CC-BY with permission from the account)*
 ```
 > The union began its history as the National Union of Scientific Workers in 1918, as a result of the rapid and increased class and professional consciousness, as well as politicisation of scientists in the wake of the First World War.
 > In 1927 the name was changed to the AScW, and it continued as such until 1968 when it merged with the Association of Supervisory Staff, Executives and Technicians (ASSET) to form the Association of Scientific, Technical and Managerial Staffs (ASTMS) a precursor of MSF and ultimately Unite.
@@ -102,7 +102,7 @@ Joining the union that already represents people in your workplace increases its
 Some workplaces may have several different unions that represent different types of staff.
 In these cases, you should join the one you feel best matches the type of work you do.
 
-If there is not a union in your workplace, look into the unions that already exist in your area or country. [link to section on examples of unions](er-activism-unionisation-unionexamples)
+If there is not a union in your workplace, look into the unions that already exist in your area or country. [link to section on examples of unions](#er-activism-unionisation-unionexamples)
 You might be able to join one that is relevant to your industry or duties: or you might be able to join a general union that represents lots of different workers.
 
 To join a union, you might have to pay union fees or dues.
