@@ -10,7 +10,7 @@ But if you have experienced it then you might know how frustrating it is to work
 
 This chapter will highlight ways to avoid such challenges in your projects by introducing some principals of 'code hygiene', otherwise known as *linting*.
 
-```{figure} ../figures/linting-no.*
+```{figure} ../../figures/linting-no.jpeg
 ---
 height: 500px
 name: linting-no
@@ -26,7 +26,7 @@ Some integrated development environments (IDEs) include automatic linting, but t
 
 By keeping the following advice in mind while coding, your code will be more reusable, adaptable, and clear.
 
-```{figure} ../figures/zen-of-python.*
+```{figure} ../../figures/zen-of-python.png
 ---
 height: 500px
 name: zen-of-python
