@@ -360,7 +360,7 @@ project:
                   title: Contributor Pathways
         - title: Information Management
           file: project-design/info-management.md
-          sections:
+          children:
             - file: project-design/info-management/filenaming.md
               title: File Naming Convention
             - file: project-design/info-management/code-styling.md
@@ -374,7 +374,7 @@ project:
                   title: Code Styling Tools
         - title: Data Security and Governance
           file: project-design/data-security.md
-          sections:
+          children:
             - file: project-design/data-security/sdp.md
               title: Sensitive Data Projects
               children:
