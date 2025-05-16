@@ -329,7 +329,7 @@ project:
         - file: project-design/project-management-methodologies/overview.md
           title: Project Management Methodologies
         - title: Project Setup and Organisation
-          file: project-design/pd-design-overview
+          file: project-design/pd-design-overview.md
           children:
             - file: project-design/pd-design-overview/pd-checklist.md
               title: Project Design Checklist
@@ -349,7 +349,7 @@ project:
                 - file: project-design/pd-design-overview/project-repo/project-repo-resources.md
                   title: Further Recommendations
         - title: Stakeholders
-          file: project-design/stakeholders
+          file: project-design/stakeholders.md
           children:
             - file: project-design/stakeholders/persona.md
               title: Personas and Pathways
@@ -359,7 +359,7 @@ project:
                 - file: project-design/stakeholders/persona/persona-contributors.md
                   title: Contributor Pathways
         - title: Information Management
-          file: project-design/info-management
+          file: project-design/info-management.md
           sections:
             - file: project-design/info-management/filenaming.md
               title: File Naming Convention
@@ -373,7 +373,7 @@ project:
                 - file: project-design/info-management/code-styling/code-styling-tools.md
                   title: Code Styling Tools
         - title: Data Security and Governance
-          file: project-design/data-security
+          file: project-design/data-security.md
           sections:
             - file: project-design/data-security/sdp.md
               title: Sensitive Data Projects
