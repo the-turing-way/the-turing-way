@@ -25,7 +25,7 @@ For example, can data be de-identified or anonymised?
 * Keeping data in one place is safer than transferring it elsewhere. 
 Consider whether it is possible to provide access to the data, instead of transferring them outside of your institution.
 * Often your university or institute will provide solutions for secure file transfer. 
-Contact you research data, privacy or IT support team for guidance. 
+Contact your research data, privacy or IT support team for guidance. 
 
 **4. Encryption** 
 * Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents.
