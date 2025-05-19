@@ -38,9 +38,9 @@ project:
         - file: foreword/governance.md
           title: Governance
           children:
-            - file: foreword/governance/governance-roles
+            - file: foreword/governance/governance-roles.md
               title: Governance Roles
-            - file: foreword/governance/ways-of-working
+            - file: foreword/governance/ways-of-working.md
               title: Ways of Working
         - file: foreword/cite.md
           title: How to Cite
@@ -326,89 +326,103 @@ project:
               title: Version Control and Documentation
             - file: project-design/pd-overview/pd-overview-sharing.md
               title: Sharing Your Research Work
-        - file: project-design/pd-checklist.md
-          title: Project Design Checklist
-        - file: project-design/project-repo.md
-          title: Creating Project Repositories
+        - file: project-design/project-management-methodologies/overview.md
+          title: Project Management Methodologies
+        - title: Project Setup and Organisation
+          file: project-design/pd-design-overview.md
           children:
-            - file: project-design/project-repo/project-repo-readme.md
-              title: Landing Page - README File
-            - file: project-design/project-repo/project-repo-roadmapping.md
-              title: Roadmapping
-            - file: project-design/project-repo/project-repo-contributors.md
-              title: Contributors and Communication Pathways
-            - file: project-design/project-repo/project-repo-participation.md
-              title: Participation Guidelines
-            - file: project-design/project-repo/project-repo-advanced.md
-              title: Advanced Structure for Data Analysis
-            - file: project-design/project-repo/project-repo-resources.md
-              title: Further Recommendations
-        - file: project-design/persona.md
-          title: Personas and Pathways
+            - file: project-design/pd-design-overview/pd-checklist.md
+              title: Project Design Checklist
+            - file: project-design/pd-design-overview/project-repo.md
+              title: Creating Project Repositories
+              children:
+                - file: project-design/pd-design-overview/project-repo/project-repo-readme.md
+                  title: Landing Page - README File
+                - file: project-design/pd-design-overview/project-repo/project-repo-roadmapping.md
+                  title: Roadmapping
+                - file: project-design/pd-design-overview/project-repo/project-repo-contributors.md
+                  title: Contributors and Communication Pathways
+                - file: project-design/pd-design-overview/project-repo/project-repo-participation.md
+                  title: Participation Guidelines
+                - file: project-design/pd-design-overview/project-repo/project-repo-advanced.md
+                  title: Advanced Structure for Data Analysis
+                - file: project-design/pd-design-overview/project-repo/project-repo-resources.md
+                  title: Further Recommendations
+        - title: Stakeholders
+          file: project-design/stakeholders.md
           children:
-            - file: project-design/persona/persona-creation.md
-              title: Persona Creation Tool
-            - file: project-design/persona/persona-contributors.md
-              title: Contributor Pathways
-        - file: project-design/filenaming.md
-          title: File Naming Convention
-        - file: project-design/code-styling.md
-          title: Code Styling and Linting
+            - file: project-design/stakeholders/persona.md
+              title: Personas and Pathways
+              children:
+                - file: project-design/stakeholders/persona/persona-creation.md
+                  title: Persona Creation Tool
+                - file: project-design/stakeholders/persona/persona-contributors.md
+                  title: Contributor Pathways
+        - title: Information Management
+          file: project-design/info-management.md
           children:
-            - file: project-design/code-styling/code-styling-guidelines.md
-              title: Guidelines for Code Styling
-            - file: project-design/code-styling/code-styling-readability.md
-              title: Writing Human Readable Code
-            - file: project-design/code-styling/code-styling-tools.md
-              title: Code Styling Tools
-        - file: project-design/sdp.md
-          title: Sensitive Data Projects
+            - file: project-design/info-management/filenaming.md
+              title: File Naming Convention
+            - file: project-design/info-management/code-styling.md
+              title: Code Styling and Linting
+              children:
+                - file: project-design/info-management/code-styling/code-styling-guidelines.md
+                  title: Guidelines for Code Styling
+                - file: project-design/info-management/code-styling/code-styling-readability.md
+                  title: Writing Human Readable Code
+                - file: project-design/info-management/code-styling/code-styling-tools.md
+                  title: Code Styling Tools
+        - title: Data Security and Governance
+          file: project-design/data-security.md
           children:
-            - file: project-design/sdp/types.md
-              title: Types of Sensitive Data
-            - file: project-design/sdp/personal.md
-              title: Personal Data
-            - file: project-design/sdp/confidential.md
-              title: Confidential Data
-            - file: project-design/sdp/biological.md
-              title: Biological Data
-            - file: project-design/sdp/metadata.md
-              title: Metadata
-            - file: project-design/sdp/combined.md
-              title: Combined Datasets
-        - file: project-design/sdpm.md
-          title: Managing Sensitive Data Projects
-          children:
-            - file: project-design/sdpm/informed.md
-              title: Informed consent
-            - file: project-design/sdpm/data-privacy-strategies.md
-              title: Data Privacy Strategies
-            - file: project-design/sdpm/sharing-sensitive-data.md
-              title: Sharing Sensitive Data
-            - file: project-design/sdpm/resources.md
-              title: Resources
-        - file: project-design/sdpw.md
-          title: Working on Sensitive Data Projects
-          children:
-            - file: project-design/sdpw/trew.md
-              title: Working with Trusted Research Environments
-            - file: project-design/sdpw/pd-sdp-private-learning.md
-              title: Privacy Preserving Machine Learning
-            - file: project-design/sdpw/pd-sdp-sensitive-files.md
-              title: Keeping Sensitive Files Secure
-            - file: project-design/sdpw/pd-sdp-sensitive-code.md
-              title: Sharing Your Jupyter Notebook
-            - file: project-design/sdpw/pd-sdp-exposing-data.md
-              title: Removing Sensitive Data From GitHub
-            - file: project-design/sdpw/pd-sdp-resources.md
-              title: Further Recommendations
-        - file: project-design/data-governance.md
-          title: Data Governance
-          children:
-            - file: project-design/data-governance/data-gov-ml.md
-              title: Data Governance for the Machine Learning Pipeline
-            - file: project-design/data-governance/bigcode_casestudy.md
-              title: BigCode Data Governance Case Study
+            - file: project-design/data-security/sdp.md
+              title: Sensitive Data Projects
+              children:
+                - file: project-design/data-security/sdp/types.md
+                  title: Types of Sensitive Data
+                - file: project-design/data-security/sdp/personal.md
+                  title: Personal Data
+                - file: project-design/data-security/sdp/confidential.md
+                  title: Confidential Data
+                - file: project-design/data-security/sdp/biological.md
+                  title: Biological Data
+                - file: project-design/data-security/sdp/metadata.md
+                  title: Metadata
+                - file: project-design/data-security/sdp/combined.md
+                  title: Combined Datasets
+            - file: project-design/data-security/sdpm.md
+              title: Managing Sensitive Data Projects
+              children:
+                - file: project-design/data-security/sdpm/informed.md
+                  title: Informed consent
+                - file: project-design/data-security/sdpm/data-privacy-strategies.md
+                  title: Data Privacy Strategies
+                - file: project-design/data-security/sdpm/sharing-sensitive-data.md
+                  title: Sharing Sensitive Data
+                - file: project-design/data-security/sdpm/resources.md
+                  title: Resources
+            - file: project-design/data-security/sdpw.md
+              title: Working on Sensitive Data Projects
+              children:
+                - file: project-design/sdpw/trew.md
+                  title: Working with Trusted Research Environments
+                - file: project-design/sdpw/pd-sdp-private-learning.md
+                  title: Privacy Preserving Machine Learning
+                - file: project-design/sdpw/pd-sdp-sensitive-files.md
+                  title: Keeping Sensitive Files Secure
+                - file: project-design/sdpw/pd-sdp-sensitive-code.md
+                  title: Sharing Your Jupyter Notebook
+                - file: project-design/sdpw/pd-sdp-exposing-data.md
+                  title: Removing Sensitive Data From GitHub
+                - file: project-design/sdpw/pd-sdp-resources.md
+                  title: Further Recommendations
+            - file: project-design/data-security/data-governance.md
+              title: Data Governance
+              children:
+                - file: project-design/data-security/data-governance/data-gov-ml.md
+                  title: Data Governance for the Machine Learning Pipeline
+                - file: project-design/data-security/data-governance/bigcode_casestudy.md
+                  title: BigCode Data Governance Case Study
         - file: project-design/missing-data.md
           title: Missing Data Handling
           children:
@@ -839,37 +853,6 @@ project:
               title: Acknowledgements
         - file: community-handbook/contributing-guideline.md
           title: Contributing to The Turing Way
-        - file: community-handbook/style.md
-          title: Style Guide
-          children:
-            - file: community-handbook/style/style-citing.md
-              title: Citing and Referencing External Resources
-            - file: community-handbook/style/style-crossref.md
-              title: Cross-Referencing Sections and Chapters
-            - file: community-handbook/style/style-figures.md
-              title: Using Figures
-            - file: community-handbook/style/style-more-styling.md
-              title: Glossary, Special Blocks and More Styling
-            - file: community-handbook/style/style-custom-styling.md
-              title: Custom Styling
-        - file: community-handbook/consistency.md
-          title: Maintaining Consistency
-          children:
-            - file: community-handbook/consistency/consistency-formatting.md
-              title: Formatting
-            - file: community-handbook/consistency/consistency-structure.md
-              title: Structure
-            - file: community-handbook/consistency/consistency-language.md
-              title: Language
-        - file: community-handbook/local-build.md
-          title: Build the Turing Way Book locally
-        - file: community-handbook/contributing.md
-          title: Contributing and Developing Chapters - Templates and Workflow
-          children:
-            - file: community-handbook/contributing/contributing-templates.md
-              title: Templates
-            - file: community-handbook/contributing/contributing-workflow.md
-              title: Workflow
         - file: community-handbook/acknowledgement.md
           title: Acknowledging Contributors
           children:
@@ -890,6 +873,43 @@ project:
               title: Alt text
             - file: community-handbook/accessibility/accessibility-comms-platforms.md
               title: Communication Platforms
+        - file: community-handbook/local-build.md
+          title: Build the Turing Way Book locally
+        - file: community-handbook/style.md
+          title: Style Guide
+          children:
+            - file: community-handbook/style/style-writing-markdown.md
+              title: Writing Markdown
+            - file: community-handbook/style/style-citing.md
+              title: Citing and Referencing External Resources
+            - file: community-handbook/style/style-crossref.md
+              title: Cross-Referencing Sections and Chapters
+            - file: community-handbook/style/style-figures.md
+              title: Using Figures
+            - file: community-handbook/style/style-videos.md
+              title: Videos
+            - file: community-handbook/style/style-glossary.md
+              title: Glossary
+            - file: community-handbook/style/style-blocks.md
+              title: Special Blocks
+            - file: community-handbook/style/style-custom-styling.md
+              title: Custom Styling
+        - file: community-handbook/style/style-consistency.md
+          title: Maintaining Consistency
+          children:
+            - file: community-handbook/style/consistency/consistency-formatting.md
+              title: Formatting
+            - file: community-handbook/style/consistency/consistency-structure.md
+              title: Structure
+            - file: community-handbook/style/consistency/consistency-language.md
+              title: Language
+        - file: community-handbook/contributing.md
+          title: Templates and Workflow for Chapters
+          children:
+            - file: community-handbook/contributing/contributing-templates.md
+              title: Templates
+            - file: community-handbook/contributing/contributing-workflow.md
+              title: Workflow
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
@@ -927,9 +947,9 @@ project:
               title: Newsletter's Style Guide
             - file: community-handbook/newsletters/newsletters-template.md
               title: The Turing Way Newsletter Template
-        - file: community-handbook/community-calls.md
-          title: Community Events and Calls
-          children:
+       - file: community-handbook/community-calls.md
+         title: Community Events and Calls
+         children:
             - file: community-handbook/community-calls/community-calls-motivation.md
               title: Motivation and Background
             - file: community-handbook/community-calls/community-calls-collabcafe.md

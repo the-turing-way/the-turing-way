@@ -25,7 +25,7 @@ Parts of earlier chapters in _The Turing Way_ were written in `HTML`, making som
 
 For example, the following figure depicts a table that was written in `HTML`.
 
-```{figure} ../../figures/html-to-markdown.*
+```{figure} ../../../figures/html-to-markdown.*
 ---
 name: html-to-markdown
 alt: A screenshot of a poorly formatted table written in HTML. The table is squished together and does not have column or row borders. This makes it hard for a reader to decipher its meaning.
@@ -35,7 +35,7 @@ Content written in HTML may not render properly.
 
 When reformatted to Markdown, the table became cleaner and easier to read:
 
-```{figure} ../../figures/html-to-markdown2.*
+```{figure} ../../../figures/html-to-markdown2.*
 ---
 name: html-to-markdown2
 alt: A screenshot of a table converted to Markdown from HTML. The table becomes easier to read and understand when converted to Markdown.
@@ -51,31 +51,11 @@ There are also helpful tools on the web, such as [Turndown](https://domchristie.
 
 Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test).
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
-In addition, content like YouTube videos and tables with headers that span multiple columns or rows can be written in `HTML`.
-
-
-````{attention} A Note About Styling
-:class: tip
-
-_The Turing Way_ has a [book-wide stylesheet](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
-If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
-
-For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
-
-```html
-<div class="video-container">
-    <iframe>....</iframe>
-</div>
-```
-````
-
-This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`.
 
 #### Demo
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tv0HlVgxDdI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+::: {iframe} https://www.youtube.com/embed/tv0HlVgxDdI
+:width: 100%
+:::
 
 #### Writing Checklists
 
@@ -113,10 +93,9 @@ A list of such files can be found in [this issue](https://github.com/the-turing-
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/qq9QCrykdbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+::: {iframe} https://www.youtube.com/embed/qq9QCrykdbw
+:width: 100%
+:::
 
 (ch-consistency-formatting-hr-labels)=
 ### Check 3: Add labels to chapters, subchapters, sections, and images to enable cross-referencing.
@@ -129,9 +108,9 @@ This helps make _The Turing Way_ more navigable and accessible.
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ikcjxjklLVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+::: {iframe} https://www.youtube.com/embed/ikcjxjklLVg
+:width: 100%
+:::
 
 (ch-consistency-formatting-hr-images)=
 ### Check 4: Use `MyST` for image formatting
@@ -159,9 +138,9 @@ You should always check how your image looks in the Netlify preview of the book 
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/upBiKLR_A5E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+::: {iframe} https://www.youtube.com/embed/upBiKLR_A5E
+:width: 100%
+:::
 
 (ch-consistency-formatting-sr)=
 ## Soft Requirements
@@ -176,7 +155,7 @@ Soft requirements that deal with _The Turing Way's_ formatting include:
 Some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the book-wide table of contents that appears on the left of the webpage.
 This may be confusing for users, especially when the chapter/subchapter's reference in the table of contents significantly varies from the chapter/subchapter's name.
 
-```{figure} ../../figures/mismatched-title-toc.*
+```{figure} ../../../figures/mismatched-title-toc.*
 ---
 name: mismatched-title-toc
 alt: A subchapter whose title differs from its reference in the table of contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the table of contents, it is referred as 'Data Organisation in Spreadsheets'.
@@ -196,10 +175,9 @@ Nonetheless, remember that the final title should adequately tell readers what t
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HxcdqKJbCE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+::: {iframe} https://www.youtube.com/embed/HxcdqKJbCE4
+:width: 100%
+:::
 
 (ch-consistency-formatting-sr-two)=
 ### Check 2: Ensure proper title-casing for headers
@@ -224,6 +202,6 @@ For example, because some of the headers in this chapter make up a checklist - t
 
 #### Demo
 
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ET_LI5dwP9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+::: {iframe} https://www.youtube.com/embed/ET_LI5dwP9M
+:width: 100%
+:::
