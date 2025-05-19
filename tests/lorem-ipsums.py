@@ -60,7 +60,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
                 text = f.read()
                 text = remove_comments(text)
                 if bad_phrase in text.lower():
-                    failed.append(filename.name)
+                    failed.append(filename)
         except FileNotFoundError:
             pass
 
