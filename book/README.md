@@ -17,7 +17,8 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 
 ### Deploying
 
-The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
+The site is built automatically using the two directories `book` and `book/website`.
+All of the dependencies are specified in `website/dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
 
 Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
@@ -27,11 +28,9 @@ _The Turing Way_ book is built and deployed online using [Netlify](https://www.n
 
 If you want to deploy the book on Netlify, you'll need the following settings:
 
-- Base directory: `book/website`
-- Build command: `pip install -r requirements.txt && jupyter-book build .`
-- Publish directory: `book/website/_build/html`
-
-Netlify is smart and will find your requirements.txt to do the install for you. :slightly_smiling_face:
+- Base directory: `book/`
+- Build command: `make deps && make pathways && make ci`
+- Publish directory: `website/_build/html`
 
 You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
 
