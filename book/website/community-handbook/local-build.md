@@ -90,16 +90,17 @@ $ make book
 ```
 
 ````{attention}
-The `make book` target will only build the book as it stands - it will **not** build the book with the pathways feature enabled.
+The `make book` target will only build the book using files in your local directory, it will **not** create the pathways pages.
 To build the book with pathways enabled, see the [](#other-targets:pathways) section below.
 ````
 
 The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
-Open the `book/website/_build/html/index.html` in your web browser to look at your local build.
+Open `book/website/_build/html/index.html` in your web browser to look at your local build.
 
-### Build a live serve of the book
+### Serve the book locally
 
-To build a live serve of the book which automatically refreshes as you make changes locally, run:
+When you serve the book, you will have a local copy which updates automatically as you make changes.
+To serve the book locally run,
 
 ```console
 $ make serve
