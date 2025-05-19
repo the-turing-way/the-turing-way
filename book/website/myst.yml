@@ -942,14 +942,14 @@ project:
           title: Monthly Newsletters
           children:
             - file: community-handbook/newsletters/newsletters-process.md
-              title: A Process of Creating a newsletter
+              title: A Process of Creating a Newsletter
             - file: community-handbook/newsletters/newsletters-style.md
               title: Newsletter's Style Guide
             - file: community-handbook/newsletters/newsletters-template.md
               title: The Turing Way Newsletter Template
-       - file: community-handbook/community-calls.md
-         title: Community Events and Calls
-         children:
+      - file: community-handbook/community-calls.md
+        title: Community Events and Calls
+        children:
             - file: community-handbook/community-calls/community-calls-motivation.md
               title: Motivation and Background
             - file: community-handbook/community-calls/community-calls-collabcafe.md
