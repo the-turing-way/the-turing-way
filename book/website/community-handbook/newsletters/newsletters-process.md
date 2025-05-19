@@ -12,24 +12,19 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 
 ### Create a GitHub issue to collect items
 
-Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-For example, in [this issue](https://github.com/the-turing-way/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020.
-Such GitHub issues can be published in the current newsletter inviting contributions from readers and community members for the next month.
+Create a new GitHub issue on [GitHub repository for newsletters](https://github.com/the-turing-way/newsletter/) where throughout the month you and other community members can suggest news items as a comment.
+For example, in [this issue](https://github.com/the-turing-way/newsletter/issues/29), several members could suggest news items for a newsletter before it was drafted.
 
 ### Start a draft
 
 There are several ways to start a draft for a _The Turing Way_ newsletter:
 
-1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/the-turing-way/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter's style guide <ch-newsletters-style>`).
+Create a new branch of _The Turing Way_ [GitHub repository for newsletters](https://github.com/the-turing-way/newsletter/) (find detailed process in {ref}`newsletter's style guide <ch-newsletters-style>`).
 
-You can work on this GitHub branch locally or online through a pull request (PR).
-If working online, please keep the draft mode on for your PR or add "[WIP]" (work in progress) in the title.
+You can work on this GitHub branch locally or online in a pull request (PR).
+If working online, please keep the PR in draft mode or add "[WIP]" (work in progress) in the title.
 
-2. Create the first draft on a shared HackMD when working with others to collaboratively write your draft before you transfer them to a GitHub branch.
-
-Here are two examples of HackMDs:
-- Malvika's first draft: https://hackmd.io/\@malvikasharan/tw-newsletter
-- Anne's first draft (April 2022): https://hackmd.io/\@aleesteele/ttw-newsletter-apr-22.
+You might also use online editors like HackMD, Framapad or Google Doc to allow others to review or contribute to the draft before content is transferred to a GitHub branch.
 
 ### Collect items for the newsletter as bullet points
 
@@ -38,18 +33,16 @@ Based on what we currently publish, collect information from the listed resource
 * **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Cafés, book dashes and workshops.
 
 * **News from the community**:
-  - Check X (formerly Twitter) for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
-  - Check Mastodon for updates on the [official account](https://fosstodon.org/\@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
+  - Check social platforms (Bluesky, Linkedin, Mastodon or Slack channels) for find updates. For example, checkupdates on the [Linkedin](https://www.linkedin.com/company/the-turing-way/?viewAsMember=true) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
-  - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
+  - You can share GitHub issues on Slack channels or community calls, inviting contributions from readers and community members for the next month.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
-* **Relevant resources and events for the community**: check X, Slack and online posts for any recent publication and events from community members, resources for training or opportunities for skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
+* **Highlighting relevant resources and events for the community**: From recent posts,publication and events from community members identify resources for training, opportunities for skill-building and any other materials like blog posts or articles published in the network that could be useful for others.
 
 * **Sections for acknowledgements and celebrations of community members**: this is the place to give shout-outs to our members who have given talks, workshops or helped *The Turing Way* in some way, celebrate personal milestones and highlight any relevant announcements from community members. 
-  * To identify talks and presentations, please scan *The Turing Way* accounts for GitHub issues, X, Slack and the [Zenodo Community](https://zenodo.org/communities/the-turing-way) page (for DOI).
-Since 2023, *The Turing Way* core team maintains all information about events and activities on their [centralised event page](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947).
-  * This is also a place to share tweets from the community or mention other online interactions such as posts from recent meetings where someone talked about _The Turing Way_.
+  * To identify talks and presentations, please scan *The Turing Way* accounts for GitHub issues, Slack and the [Zenodo Community](https://zenodo.org/communities/the-turing-way) page (for DOI).
+Since 2023, all information about events and activities are maintained in a centralised event page, where any event attended by team or community can be added in advance.
 
 * **In The Turing Way Orbit**: this section is an addition from 2022, which allows a dedicated section for sharing events, resources and opportunities for jobs, funding, collaboration and more from our collaborators, partners and broader research network.
 
@@ -57,14 +50,13 @@ The newsletter should provide relevant information about or from contributing an
 There should also be opportunities for folks who have never engaged before, or may not have the capacity to actively engage but still want to stay informed.
 This can include Tips & Tricks for new contributors, recent conversations in community spaces, new chapters, ideas where support is needed or resources in the project that can make new members learn ways to engage, identify paths to get started as contributors and find relatable contents like impact stories of existing members, contributor's profiles or other community-related aspects.
 
-
 ### Collect images associated with the news item
 
-Following the recommendations on {ref}`style guide for community<ch-style>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
+Following the recommendations on {ref}`style guide for community<ch-style>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 1 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
-For X mentions, there is no fixed number of screenshots, but 4-6 tweets looks less crowded in the newsletter.
-They can be edited together in one image (explained in the newsletter's style guide).
+If there are several images that you want to highlight, such as from an event or reports, you can edit them together in one image (explained in the newsletter's style guide).
+Keep accessibility and alt text in mind when selecting images.
 
 ### Write about each news item
 
@@ -75,7 +67,7 @@ Provide links when useful, give credit fairly to the community members who might
 ### Proofreading your draft
 
 Before sharing your draft you should do a proofread for grammar and typos.
-An online app like [Ginger Grammar Checker](https://www.gingersoftware.com/grammarcheck), [Grammarly](https://app.grammarly.com) free version, [GrammarCheck](https://www.grammarcheck.net/editor/) or [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help correct any grammatical and spelling errors.
+Online apps like [Grammarly](https://app.grammarly.com) free version, [GrammarCheck](https://www.grammarcheck.net/editor/) or [Reverso Speller](https://www.reverso.net/spell-checker/english-spelling-grammar/) can help correct any grammatical and spelling errors.
 
 You should also double-check to make sure that the links mentioned in the draft are not broken.
 You can use online tools such as the [W3C link checker](https://validator.w3.org/checklink) or the free version of [Dr. Link Check](https://www.drlinkcheck.com/).
@@ -104,26 +96,23 @@ After the review process, each reviewer's name can be added under the special me
 ### Publication process
 
 We are currently using [Buttondown](https://buttondown.email/) to publish our newsletters.
-TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing it with subscribers.
+It offers a simplified interface where text in Markdown can be pasted wihout requiring any formatting.
 
-Here are the steps for publishing the newsletter draft online and sending it by email to the subscribed members:
+Here are a few steps for publishing the newsletter draft online and sending it by email to the subscribed members:
 
-- Convert the Markdown content of the newsletter draft to HTML using [browserling.com](https://www.browserling.com/tools/markdown-to-html) by copy-pasting the Markdown content to the text box in the web application and pressing "Convert to HTML button".
-- If authorised, log in to the TinyLetter account and click the “Write A Newsletter” button.
-- Paste the HTML content of your draft generated by browserling.
+- Draft or export your newsletter draft in Markdown format.
+- If authorised, log in to the Buttondown account and click“email" -> "new" button.
+- Paste the Markdown content of your draft. 
 - Make sure that the subject is written in the correct text box.
-- Click “Preview” to see how the rendered version of your message will look.
-- Upload images separately to the TinyLetter platform (the quality of photos significantly degrades if copied automatically).
+- Follow instructions about [drafting email/newsletter](https://docs.buttondown.com/sending-your-first-email#draft-your-first-newsletter) [formating images](https://docs.buttondown.com/uploading-images).
+- Follow the instructions for [previewing your draft](https://docs.buttondown.com/draft-send) to check how the rendered version of your message will look.
 - Adjust formatting as needed.
-- Send a preview version to your email or _The Turing Way_ email (theturingway@gmail.com) to check if everything looks OK.
-- Once confirmed for its format and content, the newsletter is sent to the registered members by clicking “Send to all”.
-- The [online newsletters](https://buttondown.email/turingway/) are shareable by link and can be read by non-subscribed members as well.
-
-*(Learn to make your newsletter [here](https://www.sitepoint.com/how-start-a-newsletter-in-minutes-with-tinyletter/).)*
+- Send a preview version to your email or _The Turing Way_ email (theturingway@gmail.com) or to the team members involved in drafting the newsletter to double check if everything looks OK.
+- When ready and happy with the format and content, the newsletter can be [sent to the subscribed members](https://docs.buttondown.com/sending-via-email). You can also [schedule it ahead of time](https://docs.buttondown.com/scheduling-an-email).
+- The [online newsletters](https://buttondown.email/turingway/archive) are shareable by link and can be read by non-subscribed members as well.
 
  **It's published, now what?**
 
-- Update the index table in the [README.md file](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
-- Tweet about it from [\@turingway](https://twitter.com/turingway).
-- Send a notification on [Gitter](https://gitter.im/the-turing-way/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
+- Update the index table in the [README.md file](https://github.com/the-turing-way/newsletter/blob/main/README.md) with the details of the newly published newsletter.
+- Send a notification on [Slack](https://theturingway.slack.com) and social platforms.
 - Do a celebratory dance! (This is mandatory! 💃)

@@ -1,5 +1,5 @@
 (ch-community-calls-working-groups)=
-# Working Group and Team Meetings
+# Working Group Meetings
 
 Working Groups self-organise meetings on regular basis and at their own discretion. The cadence (whether monthly or bi-weekly) is up to the descretion of the group. Many of the working groups also utilise the Collaboration Cafe as a space to organise and cowork on dfferent tasks.
 
