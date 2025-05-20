@@ -156,12 +156,12 @@ $ make strict
 _The Turing Way_ has curated user pathways, collecting a series of recommended chapters for different reader types.
 The [pathways program](https://github.com/the-turing-way/pathways) generates extra Markdown files to add the pathways to the book.
 
-The `build` target does not generate these files, so a clean build (`make clean && make build`) will not have pathways.
+The `build` target does not generate these files, so a clean build (`make clean && make book`) will not have pathways.
 To build the book with pathways, use the `pathways` target to generate the pathways pages, then the `build` target to build the book,
 
 ```console
 $ make pathways
-$ make build
+$ make book
 ```
 
 This will generate the pathways files then build the book.
