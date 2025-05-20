@@ -175,6 +175,8 @@ project:
         - file: reproducible-research/renv.md
           title: Reproducible Environments
           children:
+            - file: reproducible-research/renv/renv-considerations-limitations.md
+              title: Considerations for choosing and limitations of reproducible environment tools
             - file: reproducible-research/renv/renv-options.md
               title: Capturing Computational Environments
             - file: reproducible-research/renv/renv-package.md
