@@ -1,5 +1,5 @@
 (ch-infrastructure-pathways)=
-# Technical Documentation for Pathways
+# Pathways
 
 The [#ch-pathways]() section of the book presents, for different roles, a set of curated sections of the book.
 This provides a way for people to find information most relevant to them.
@@ -12,17 +12,7 @@ It then generates injects Markdown into existing files, and generates new Markdo
 
 ## Building with pathways
 
-Because the pathways package adds and modifies Markdown files, it must be run before building the book with `jupyter-book` for the pathways to feature.
-Also, once run it does not need to be run again.
-If the pathways have been changed it is best to clean the untracked files and run pathways again.
-
-The [Makefile](https://github.com/the-turing-way/the-turing-way/blob/main/book/Makefile) has the `pathways` target which runs the pathways script.
-To build the book with pathways you could therefore run
-
-```console
-$ make pathways
-$ make serve
-```
+Building the book with pathways is described in [](#ch-local-build-other-targets-pathways).
 
 ## CI and deploy
 
