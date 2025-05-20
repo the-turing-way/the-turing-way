@@ -12,6 +12,7 @@ such as explanations about how to start using the software, or examples of how t
 What to document will be different for each software, and how to document it will be different for each audience.   
 Below, there is guidance on how writing extended software documentation can be approached.
 
+(divio-documentation-system)=
 ### Divio Documentation System
 When extended documentation is necessary, common questions are: What to document? and 
 How to organise documentation concisely?

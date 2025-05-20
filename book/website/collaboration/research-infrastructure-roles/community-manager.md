@@ -91,7 +91,6 @@ Sharan, M., & Karoune, E. (2023). Research Community Management - Skills framewo
 * Need to have a broad range of skills and expertise (technical, interpersonal, project management)
 * Supporting and encouraging engagement in the community 
 * Building infrastructure from scratch in newly created roles 
-* Being seen as a professional in their own right 
 * Connecting with new audiences who are not aware of the community
 * Bridging and translating between different groups in the same field or institution 
 * Managing tasks where there are little formal processes in place 
