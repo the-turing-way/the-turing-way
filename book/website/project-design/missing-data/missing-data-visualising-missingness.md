@@ -62,7 +62,7 @@ msno.bar(df_fictional_dataset)
 ---
 height: 400px
 name: msno-bar
-alt: Bar plot showing the number of non-missing (complete) values per variable in a fictional dataset, created using the `missingno` Python package. Each bar represents a column in the dataset: Age, Diastolic Blood Pressure, Systolic Blood Pressure, Blood Test Result, Motor Score and Cognitive Score. The height of each bar corresponds to the proportion of complete entries (left y-axis), while absolute counts are labelled at the top of each bar (e.g., Age and Motor Score both have all 8 values present). 
+alt: Bar plot showing the number of non-missing (complete) values per variable in a fictional dataset, created using the `missingno` Python package. Each bar represents a column in the dataset: Age, Diastolic Blood Pressure, Systolic Blood Pressure, Blood Test Result, Motor Score and Cognitive Score. The height of each bar corresponds to the proportion of complete entries (left y-axis), while absolute counts are labelled at the top of each bar (for example, Age and Motor Score both have all 8 values present). 
 ---
 Barplot of the nullity per column of our fictional dataset, produced via the missingno python package. 
 ```
