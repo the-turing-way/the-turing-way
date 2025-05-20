@@ -119,7 +119,6 @@ However, historically it was commonly used for websites (as opposed to other ser
 www CNAME the-turing-way.org.
 ```
 
-<!--
 ### CAA
 
 Secure Socket Layer (SSL) is a protocol for secure communication.
@@ -141,4 +140,3 @@ book CAA 0 issue "letsencrypt.org"
 This record only allows Let's Encrypt to issue certificates.
 Netlify also suggests [specifying their `accounturi` in the record](https://docs.netlify.com/domains-https/https-ssl/#netlify-managed-certificates) which would further ensure that only Netlify can request new certificates from Let's Encrypt.
 However, NameCheap doesn't seem to allow this in CAA records.
--->
