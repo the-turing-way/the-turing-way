@@ -93,7 +93,7 @@ For example `www` would mean `www.example.com`
 ### ALIAS records
 
 We use an ALIAS record for _The Turing Way_ book at `book.the-turing-way.org`.
-This is an alias for the Netlify load balancer, where the book is currently hosted Netlify.
+This is an alias for the Netlify load balancer, where the book is currently hosted.
 If the book is moved to another hosting provider the record can be updated to point to the new host.
 That way, the book will _always_ be accessible at `book.the-turing-way.org` no matter how or where it is hosted.
 
