@@ -58,6 +58,10 @@ This rubric aims to evaluate the application across multiple aspects and avoid a
 
 *This rubric is adapted from the [Mozilla Open Leadership](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) and the [Open Life Science](https://openlifesci.org/) programs*.
 
+(ch-bookdash-application-anonymisation)=
+### Anonymising applications
+[ ADD INFO HERE ]
+
 (ch-bookdash-application-rubrics)=
 ### Rubrics for scoring applications
 
@@ -69,11 +73,12 @@ We ask our reviewers to consider the following questions:
 * Does the applicant have a clear, feasible, and relevant idea of how they will contribute to the book dash?	This scoring corresponds generally to reviews of "not ready", "enthusiastic" and "clear" respectively:
 * Is the applicant enthusiastic about reproducibility and the aims of _The Turing Way_?
 
-
 Based on their evaluation of the applications they will provide scores for different criteria that will be assessed as follows:
 1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of _The Turing Way_ and book dash in general.
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
+
+[ ADD MORE INFORMATION HERE ABOUT THE REVIEW PROCESS WITH COMMITTEE ]
 
 **Table summarising our scoring rubric and criteria for each score:**
 
