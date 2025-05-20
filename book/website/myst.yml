@@ -904,8 +904,6 @@ project:
           children:
             - file: community-handbook/pathways/pathways-creation.md
               title: Creating Learning Pathways
-            - file: community-handbook/pathways/pathways-examples.md
-              title: Pathways Examples in Action
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
