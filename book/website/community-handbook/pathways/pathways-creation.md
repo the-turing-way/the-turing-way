@@ -24,7 +24,7 @@ This can involve various community events, such as regular short-format [Collabo
 Irrespective of the format, the core steps for curating pathways generally remain the same.
 
 With this principle in mind, below we offer a step-by-step process for curating a specific pathway.
-Note that these steps do not provide the event design or organisation of such meetings, which are extensively covered in our Guide for Collaboration.
+Note that these steps do not provide the event design or organisation of such meetings, which are extensively covered in our [](#cl).
 Instead, we offer five overarching considerations, informed by our experiences curating pathways for practical application by diverse groups.
 
 ### 1. Engaging Your Community in the Needs Assessment Process
