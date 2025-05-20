@@ -109,27 +109,28 @@
     Research  Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to  building.
 - name: Operational Community Management
   files:
-  - reproducible-research/open/open-checklist.md
-  - project-design/pd-design-overview/pd-checklist.md
-  - project-design/pd-design-overview/project-repo.md
-  - collaboration/new-community/new-community-guide.md
-  - collaboration/team-manual/team-manual-on-off-boarding.md
-  - collaboration/event-tools.md
-  - collaboration/organising-meetings.md
-  - collaboration/chairing.md
-  - collaboration/coworking.md
-  - collaboration/ppie-events.md
-  - collaboration/remote-collab.md
-  - collaboration/hybrid-collab.md
-  - community-handbook/communication-channels.md
-  - community-handbook/newsletters.md
-  - community-handbook/community-calls.md
-  - community-handbook/fireside-chat.md
-  - community-handbook/presenting.md
-  - community-handbook/templates.md
+    - reproducible-research/open/open-checklist.md
+    - project-design/pd-design-overview/pd-checklist.md
+    - project-design/pd-design-overview/project-repo.md
+    - collaboration/new-community/new-community-guide.md
+    - collaboration/team-manual/team-manual-on-off-boarding.md
+    - collaboration/event-tools.md
+    - collaboration/organising-meetings.md
+    - collaboration/chairing.md
+    - collaboration/coworking.md
+    - collaboration/ppie-events.md
+    - collaboration/remote-collab.md
+    - collaboration/hybrid-collab.md
+    - community-handbook/communication-channels.md
+    - community-handbook/newsletters.md
+    - community-handbook/community-calls.md
+    - community-handbook/fireside-chat.md
+    - community-handbook/presenting.md
+    - community-handbook/templates.md
   colour: red
   description: >
-  Community management often requires designing processes within the community to streamline aspects of collaboration, communication, and public engagement. This curated set of chapters will allow community managers and community management enthusiasts to dive into the operational aspects of building, sustaining and expanding their communities.
+    Community management often requires designing processes within the community to streamline aspects of collaboration, communication, and public
+    engagement. This curated set of chapters will allow community managers and community management enthusiasts to dive into the operational aspects of building, sustaining and expanding their communities.
 - name: Early Career Researchers
   files:
     - project-design/project-design.md
