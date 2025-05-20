@@ -714,7 +714,9 @@ project:
           title: Research Infrastructure Roles
           children:
             - file: collaboration/research-infrastructure-roles/community-manager.md
-              title: Community Managers Overview
+              title: Research Community Managers Overview
+            - file: collaboration/research-infrastructure-roles/research-community-manager-personal-story-1
+              title: Research Community Manager Personal Story 1
             - file: collaboration/research-infrastructure-roles/data-steward.md
               title: Data Stewards Overview
             - file: >-
