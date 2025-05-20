@@ -98,7 +98,7 @@ If the book is moved to another hosting provider the record can be updated to po
 That way, the book will _always_ be accessible at `book.the-turing-way.org` no matter how or where it is hosted.
 
 ```
-book ALIS apex-loadbalancer.netlify.com.
+book ALIAS apex-loadbalancer.netlify.com.
 ```
 
 We also redirect the root domain, `the-turing-way.org`, to the Netlify load balancer.
@@ -106,7 +106,7 @@ This is a feature of ALIAS records that wouldn't be possible with CNAME.
 We do this so that we can [redirect subdomains](#ch-infrastructure-redirects).
 
 ```
-@ ALIS apex-loadbalancer.netlify.com.
+@ ALIAS apex-loadbalancer.netlify.com.
 ```
 
 ### CNAME records
