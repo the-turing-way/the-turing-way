@@ -79,7 +79,8 @@ See the full document [online](https://communityroundtable.com/what-we-do/models
 
 The CSCCE Skills Wheel include five core competancies: technical skills, communication, programme management, programme development and interpersonal.  
 See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ) under the Creative Commons Attribution Non Commercial No Derivatives 4.0 International.
-```
+RCM Skills Framework from Turing Research Community Management Team
+Sharan, M., & Karoune, E. (2023). Research Community Management - Skills framework. Zenodo. https://doi.org/10.5281/zenodo.8337627
 
 
 (cl-infrastructure-community-managers-challenges)=
