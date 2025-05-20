@@ -2,7 +2,7 @@
 # Research Community Managers: Overview
 
 Community Management as a profession was developed to facilitate the social, informal and formal learning processes, which take place in Communities of Practice - "groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis" @lave1991situatedlearning. 
-Community Managers have been employed in open source projects in technical industries  since the early 1990's @Michlmayr2009community , and more recently in research organisations (Universities and research institutes), where they are often known as Research Community Managers.
+Community Managers have been employed in open source projects in technical industries  since the early 1990's @michlmayr2009community , and more recently in research organisations (Universities and research institutes), where they are often known as Research Community Managers.
 
 
 ```{figure} ../../figures/research-community-manager.*
