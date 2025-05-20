@@ -12,6 +12,7 @@ Redirecting at the web server rather than with [DNS](#ch-infrastructure-dns) has
 - We have more control over the format of the redirect, for example we can use wildcards and substitution.
 - Redirection will happen _after_ TLS, so HTTPS can be used.
 - Clients will receive HTTP codes indicating that they were redirected, and whether the redirect should be considered permanent.
+- The redirects are described in plain text in the book repository, making them more visible and easier to contribute to.
 
 ## Netlify redirects
 
