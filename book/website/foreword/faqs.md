@@ -15,9 +15,9 @@ You can get started by exploring different opportunities [listed on our start pa
 | Where can I browse its resources and chapters? | Check out the [Online Book](https://the-turing-way.netlify.app) |
 | Where are the raw files for these chapters stored? | Online on [GitHub repository](https://github.com/the-turing-way/the-turing-way/) |
 | How Can I get updates regularly? | Follow us on social platform as [listed on our start page](https://the-turing-way.start.page/) |
-| Is there a dedicated chat system for the community? | Join the [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw). |
+| Is there a dedicated chat system for the community? | Join the [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA). |
 | Are there monthly updates I can receive? | We send [newsletters monthly](https://the-turing-way.netlify.app/community-handbook/newsletters.html): [subscribe here](https://buttondown.email/turingway). |
-| What happened in the project last year? | Read previous reports in the [project communication folder](https://github.com/the-turing-way/the-turing-way/tree/master/communications). |
+| What happened in the project last year? | Read previous reports in the [project communication repo](https://github.com/the-turing-way/communications). |
 | Are there some presentations I can look at? | You can find them linked [to this chapter](https://the-turing-way.netlify.app/community-handbook/presenting). |
 | I don't feel like reading, can I watch short videos? | Here is a [YouTube playlist with short videos](https://www.youtube.com/playlist?list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe). |
 | Where can I learn about the next community event that I can join? | We share them regularly in our [monthly newsletters](https://buttondown.email/turingway/archive/). |
@@ -55,7 +55,7 @@ You can get started by exploring different opportunities [listed on our start pa
 | What is a Community Forum? | These online calls bring together any member of the community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
 | What are onboarding calls? | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
 | Are there Working Group Meetings? | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. Anyone interested in their work can contact the chair to join these calls. |
-| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team abd community on Slack workspace. |
+| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team and community on Slack workspace. |
 
 ## 5. Participating Asynchronously
 

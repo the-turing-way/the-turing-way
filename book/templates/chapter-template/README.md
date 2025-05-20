@@ -114,11 +114,11 @@ This could be `open-science-checklist.md` or `open-science-resources.md` for Che
 
 ### Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `_toc.yml` [file](../../../book/website/_toc.yml).
+The book-wide table of contents lives in the `myst.yml` [file](../../../book/website/myst.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
-Your chapter's files should be added to the `_toc.yml` as appropriate.
+Your chapter's files should be added to the `myst.yml` as appropriate.
 
-For example, the Version Control chapter in the Guide for Reproducible Research was added to the `_toc.yml` file like this:
+For example, the Version Control chapter in the Guide for Reproducible Research was added to the `myst.yml` file like this:
 
 ```
 - reproducible-research/reproducible-research

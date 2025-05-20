@@ -20,7 +20,8 @@ You might want to include a [web archive link](http://web.archive.org), such as 
 ```{figure} ../figures/banner-thanks.jpg
 ---
 name: banner-thanks
-alt: This image shows the evolving interest of a new researcher in sharing their work using open science practices.
+alt: > 
+  Two people, a person with orange long hair and square rimmed glassed and a person with short dark hair and a beard, are holding a blue banner with orange writing that says thanks. 
 ---
 This is an example of one of _The Turing Way_ project illustrations by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```

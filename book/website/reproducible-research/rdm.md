@@ -25,7 +25,12 @@ Clearly describing data using documentation and metadata ensures that others kno
 ---
 height: 400px
 name: data-ecosystem
-alt: image of the data ecosystem with private and public data.
+alt: >
+  A blue and grey scale cartoon.
+  Private data is shown as an underground reservoir of water under a well with an open padlock representing access to that data.
+  Above the well a person with a ponytail says confidentiality and consent indicating the mechanisms by which the private data can be accessed.
+  A pipeline fountain is spurting 1s and 0s forming a cloud labelled public data, which is raining 1s and 0s onto a field of bar chats and pie charts being tended by people, indicating the provement of public knowledge and scientific progress through public data.
+  A wheelbarrow of pie charts labelled public benefit at the front of the image reinforces this idea. 
 ---
 Open and closed data for reproducibility.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
@@ -41,7 +46,7 @@ height: 400px
 name: rdm-storage
 alt: A cartoon woman standing in front of a very messy closet. She is looking for data that she generated last year. Behind her a person is watching doubtfully, unsure whether she can find it in this mess.
 ---
-Research Data Management: making it possible to retreive data from last year.
+Research Data Management: making it possible to retrieve data from last year.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
 ```
 
