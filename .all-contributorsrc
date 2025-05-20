@@ -5145,6 +5145,15 @@
         "maintenance",
         "content"
       ]
+    },
+    {
+      "login": "bakhshir",
+      "name": "Rena Bakhshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16703268?v=4",
+      "profile": "https://github.com/bakhshir",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
