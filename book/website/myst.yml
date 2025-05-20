@@ -1045,6 +1045,8 @@ project:
           title: Glossary
         - file: afterword/bibliography.md
           title: Bibliography
+        - file: afterword/image-gallery.md
+          title: Image Gallery
 site:
   options:
     logo: ./figures/logo-detail-with-text.svg
