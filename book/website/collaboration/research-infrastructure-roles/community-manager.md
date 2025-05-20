@@ -79,8 +79,10 @@ See the full document [online](https://communityroundtable.com/what-we-do/models
 
 The CSCCE Skills Wheel include five core competancies: technical skills, communication, programme management, programme development and interpersonal.  
 See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ) under the Creative Commons Attribution Non Commercial No Derivatives 4.0 International.
+
 RCM Skills Framework from Turing Research Community Management Team
 Sharan, M., & Karoune, E. (2023). Research Community Management - Skills framework. Zenodo. https://doi.org/10.5281/zenodo.8337627
+```
 
 (cl-infrastructure-community-managers-challenges)=
 ## Challenges for Research Community Managers 
@@ -103,7 +105,7 @@ Sharan, M., & Karoune, E. (2023). Research Community Management - Skills framewo
 * Shares best practices around research, communication, collaboration, diversity, equity and inclusion, and other areas of research 
 * Supports the upskilling of members via technical skill sharing and training
 * Supports other members of the community to take on more active roles, including leadership, increasing sustainability, resilience and expansion of the community
-* Stewarding initiatives to develop the community such as data standards, a Code of Conduct <mark>check style sheet on capitalisation of this</mark>, or training workshops
+* Stewarding initiatives to develop the community such as data standards, a Code of Conduct, or training workshops
 * Offers a stable base for the community, to make sure information is documented consistently, meetings happen and relationships are strengthened
 * Connecting groups working on similar projects to support increased collaboration 
 * Breaking down silos between departments, fields and research groups 
@@ -116,7 +118,9 @@ The Center for Scientific Collaboration and Community Engagement ([cscce.org](ht
 They offer training, co-created resources, research, and an active community of practice for scientific community managers to connect and support each other. 
 
 The Alan Turing Institute has a team of Research Community Managers that work across different data science communities. More information about the team can be found on their [webpage](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research). 
+
 They have written a paper - Sharan, M., Karoune, E., Hellon, V., van Praag, C. G., Kayumbi, G., Bennett, A., Araujo Alvarez, A., Lee Steele, A., Batchelor, S., Lacey, A., Whitaker, K. (2024). Professionalising Community Management Roles in Interdisciplinary Research Projects. ArXiv e-prints, 2409.00108. [https://arxiv.org/abs/2409.00108v1](https://arxiv.org/abs/2409.00108v1)
+
 And the paper includes various reusable resources such as a skills and competency framework and proposed career pathways. 
 
 (cl-infrastructure-communitymanagers-summary)=
