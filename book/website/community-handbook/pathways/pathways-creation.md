@@ -20,7 +20,7 @@ Here are a few specific reasons why we encourage creating a pathway, providing s
 ## How to Curate Chapters for Your Pathway
 
 Collaboration with target user groups is essential for creating a successful pathway.
-This can involve various community events, such as regular short-format Collaboration Cafes, intensive long-format Book Dashes, or custom workshops tailored to specific groups or topics.
+This can involve various community events, such as regular short-format [Collaboration Cafés](#ch-community-calls-collabcafe), intensive long-format [Book Dashes](#ch-bookdash), or custom workshops tailored to specific groups or topics.
 Irrespective of the format, the core steps for curating pathways generally remain the same.
 
 With this principle in mind, below we offer a step-by-step process for curating a specific pathway.
@@ -130,6 +130,6 @@ It empowers them to transition from being readers or users to active contributor
 Reach out to members who express interest in specific topics and support them in collaborating with others within *The Turing Way* community to develop new chapters or expand existing ones.
 
 Those who wish to contribute can be connected with the relevant groups within *The Turing Way* community.
-Community meetings and events, such as Collaboration Cafés, Book Dashes, and locally organised contribution sessions, can provide an effective way to boost your community's involvement in creating the resources they need.
+Community meetings and events, such as [Collaboration Cafés](#ch-community-calls-collabcafe), [Book Dashes](#ch-bookdash), and locally organised contribution sessions, can provide an effective way to boost your community's involvement in creating the resources they need.
 
 In the next subchapters, we provide case studies and examples from different communities and groups that created context-specific personas.
