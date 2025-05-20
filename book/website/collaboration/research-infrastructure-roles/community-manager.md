@@ -81,7 +81,6 @@ The CSCCE Skills Wheel include five core competancies: technical skills, communi
 See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ) under the Creative Commons Attribution Non Commercial No Derivatives 4.0 International.
 ```
 
-<mark>Add more here from the TPR RCM paper on skills</mark>
 
 (cl-infrastructure-community-managers-challenges)=
 ## Challenges for Research Community Managers 
