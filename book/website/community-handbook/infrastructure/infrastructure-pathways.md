@@ -1,7 +1,7 @@
 (ch-infrastructure-pathways)=
 # Pathways
 
-The {ref}`ch-pathways` section of the book presents multiple curated sets of chapters to allow role and theme-based entry points to the book.
+[](#ch-pathways) presents multiple curated sets of chapters to allow role and theme-based entry points to the book.
 This feature provides a way for people to find information most relevant to them.
 
 ## Pathways package
