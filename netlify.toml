@@ -14,6 +14,12 @@ else
 fi
 '''
 
+# Enable other sites to access and cross-reference the-turing-way content dynamically
+[[headers]]
+  for = "/*"
+  [headers.values]
+    access-control-allow-origin = "*"
+
 # Cross-domain redirects for the start page
 [[redirects]]
   from = "http://the-turing-way.org/*"

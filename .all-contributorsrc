@@ -5108,6 +5108,43 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Avaga123",
+      "name": "Avaga123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112536906?v=4",
+      "profile": "https://github.com/Avaga123",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Nagabharan1",
+      "name": "Nagabharan1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72192695?v=4",
+      "profile": "https://github.com/Nagabharan1",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Cedeli",
+      "name": "Ced",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96904745?v=4",
+      "profile": "https://github.com/Cedeli",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tongyu0924",
+      "name": "tongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119610311?v=4",
+      "profile": "https://github.com/tongyu0924",
+      "contributions": [
+        "maintenance",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",

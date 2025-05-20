@@ -7,10 +7,11 @@ ORCID is an acronym for ‘Open Researcher and Contributor ID'.
 ORCID is a long-lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
 
 Watch this short video for more information:
-<div class="video-container">
-  <iframe src="https://player.vimeo.com/video/97150912" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/97150912">What is ORCID?</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+
+::: {iframe} https://player.vimeo.com/video/97150912
+:width: 100%
+:::
+
 
 (cm-citable-orcid-why)=
 ## Why You Should Get an ORCID

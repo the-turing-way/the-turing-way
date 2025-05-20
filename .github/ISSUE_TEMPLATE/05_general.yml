@@ -26,7 +26,6 @@ body:
       label: Who can help?
       description: |
         Suggest people who can help.
-      render: markdown
       placeholder: |
         - …
         - …
