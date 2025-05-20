@@ -1,3 +1,4 @@
+(ch-infrastructure-dns)=
 # DNS
 
 Domain Name System (DNS) is how human-readable domains, like `book.the-turing-way.org` get translated to Internet Protocol (IP) addresses that computers use to locate each other.
@@ -102,7 +103,7 @@ book ALIS apex-loadbalancer.netlify.com.
 
 We also redirect the root domain, `the-turing-way.org`, to the Netlify load balancer.
 This is a feature of ALIAS records that wouldn't be possible with CNAME.
-We do this so that we can redirect subdomains.
+We do this so that we can [redirect subdomains](#ch-infrastructure-redirects).
 
 ```
 @ ALIS apex-loadbalancer.netlify.com.
@@ -111,12 +112,13 @@ We do this so that we can redirect subdomains.
 ### CNAME records
 
 As explained in [](#summary-of-records) CNAME records are aliases.
-We use a CNAME record for `www` so that anyone looking up `www.the-turing-way.org` will be redirected.
+We use a CNAME record for `www` so that looking up `www.the-turing-way.org` or `www.book.the-turing-way.org` will be treated the same as the non-www domains.
 `www.` has no special meaning and is just a normal subdomain.
 However, historically it was commonly used for websites (as opposed to other services like FTP) so many will still expect a site to be served there.
 
 ```
 www CNAME the-turing-way.org.
+www.book CNAME book.the-turing-way.org.
 ```
 
 ### CAA
