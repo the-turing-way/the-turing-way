@@ -96,14 +96,14 @@
     - communication/comms-overview/comms-overview-principles.md
     - communication/comms-overview/comms-overview-accessibly.md
     - collaboration/collaboration.md
-    - collaboration/research-infrastructure-roles/-manager.md
+    - collaboration/research-infrastructure-roles/community-manager.md
     - collaboration/stakeholder-engagement.md
     - ethical-research/ethical-research.md
     - ethical-research/ethics-intro.md
     - ethical-research/cultural-change.md
-    - -handbook/-handbook.md
-    - -handbook/accessibility.md
-    - -handbook/acknowledgement.md
+    - community-handbook/community-handbook.md
+    - community-handbook/accessibility.md
+    - community-handbook/acknowledgement.md
   colour: orange
   description: >
     Research  Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to  building.
