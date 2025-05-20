@@ -91,7 +91,7 @@ On Linux based systems this is usually another package manager such as `apt`, or
 MacOS and Windows do not natively expose package management tools to the end user but tools such as `homebrew` and `chocolatey` respectively add this functionality to these operating systems.
 
 Another source of complexity are build-time vs run-time dependencies.
-A build-time dependency is only need whilst a piece of software is being packaged or compiled but not once it is built.
+A build-time dependency is only needed whilst a piece of software is being packaged or compiled but not once it is built.
 The packaged or binary version requires only its run-time dependencies to be executed once built.
 A compiler for example can be a build-time dependency, once compiled the tool likely does not need a compiler to perform its function, unless it itself is a build tool.
 
