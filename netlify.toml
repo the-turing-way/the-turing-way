@@ -27,6 +27,12 @@ fi
   status = 302
   force = true
 
+[[redirects]]
+  from = "https://www.the-turing-way.org/*"
+  to = "https://the-turing-way.start.page/"
+  status = 302
+  force = true
+
 # Wildcard redirect for old book url
 [[redirects]]
   from = "https://the-turing-way.netlify.app/*"
