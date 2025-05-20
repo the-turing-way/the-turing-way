@@ -18,7 +18,7 @@ This user experience risks discouraging community members from effectively using
 To tackle this issue, we've introduced the 'Pathways' feature.
 Drawing on the concepts of {ref}Personas and Pathways<pd-persona>, this is a Python package implementation, designed to improve content discovery (pathways) by preventing users (personas) from being overwhelmed with information that may not be immediately relevant.
 
-```{figure} ../figures/open-development-path.*
+```{figure} ../figures/open-development-path.jpg
 ---
 height: 400px
 name: open-development-path
