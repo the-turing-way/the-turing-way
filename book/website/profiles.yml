@@ -1,9 +1,118 @@
+- name: Data Stewards
+  files:
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview/overview-definitions.md
+    - reproducible-research/overview/overview-benefit.md
+    - reproducible-research/overview/overview-barriers.md
+    - reproducible-research/overview/overview-resources.md
+    - reproducible-research/rdm.md
+    - reproducible-research/rdm/rdm-sharing.md
+    - reproducible-research/overview.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-data.md
+    - reproducible-research/open/open-source.md
+    - reproducible-research/open/open-hardware.md
+    - reproducible-research/open/open-access.md
+    - reproducible-research/open/open-notebooks.md
+    - reproducible-research/open/open-scholarship.md
+    - reproducible-research/vcs.md
+    - reproducible-research/vcs/vcs-workflow.md
+    - reproducible-research/vcs/vcs-data.md
+    - reproducible-research/licensing.md
+    - reproducible-research/licensing/licensing-compatibility.md
+    - reproducible-research/licensing/licensing-ethical-source.md
+    - reproducible-research/licensing/licensing-data.md
+    - reproducible-research/rdm.md
+    - reproducible-research/rdm/rdm-data.md
+    - reproducible-research/rdm/rdm-find.md
+    - reproducible-research/rdm/rdm-dmp.md
+    - reproducible-research/rdm/rdm-fair.md
+    - reproducible-research/rdm/rdm-personal.md
+    - reproducible-research/rdm/rdm-storage.md
+    - reproducible-research/rdm/rdm-spreadsheets.md
+    - reproducible-research/rdm/rdm-metadata.md
+    - reproducible-research/rdm/rdm-methods.md
+    - reproducible-research/rdm/rdm-elns.md
+    - reproducible-research/rdm/rdm-data-curation.md
+    - reproducible-research/rdm/rdm-visualisation.md
+    - reproducible-research/rdm/rdm-repository.md
+    - reproducible-research/rdm/rdm-sharing.md
+    - reproducible-research/rdm/rdm-article.md
+    - reproducible-research/rdm/rdm-checklist.md
+    - reproducible-research/rdm/rdm-stories.md
+    - reproducible-research/rdm/rdm-resources.md
+    - reproducible-research/renv.md
+    - reproducible-research/compendia.md
+    - project-design/project-design.md
+    - project-design/pd-overview.md
+    - project-design/pd-design-overview/project-repo.md
+    - project-design/info-management/filenaming.md
+    - project-design/data-security/sdp.md
+    - project-design/data-security/sdpm.md
+    - project-design/data-security/sdpw.md
+    - project-design/data-security/data-governance.md
+    - project-design/missing-data.md
+    - project-design/risks-of-bias.md
+    - communication/communication.md
+    - communication/comms-overview.md
+    - communication/comms-overview/comms-overview-principles.md
+    - communication/comms-overview/comms-overview-accessibly.md
+    - communication/open.md
+    - communication/blogs.md
+    - communication/presentations.md
+    - communication/research-objects.md
+    - communication/citable.md
+    - communication/dif-articles.md
+    - collaboration/collaboration.md
+    - collaboration/stakeholder-engagement.md
+    - collaboration/leadership.md
+    - collaboration/research-infrastructure-roles.md
+    - collaboration/research-infrastructure-roles/data-steward.md
+    - collaboration/research-infrastructure-roles/data-steward-personal-story.md
+    - ethical-research/ethical-research.md
+    - ethical-research/ethics-intro.md
+    - ethical-research/ethics-committees.md
+    - ethical-research/cultural-change.md
+    - ethical-research/data-hazards.md
+    - community-handbook/accessibility.md
+  colour: deeppink
+  description: >
+    Data Steward is an umbrella term for numerous support roles that involve the creation, management and usage of research data. These can be very hands-on roles involving daily data analysis or roles that are more policy and advising-focused. Data Stewards are an important part of scientific communities, supporting recommended data management practices and saving researchers time by supporting them in these efforts. Data Stewards tend to have scientific backgrounds and can have the technical skills needed to analyse and manage both data and software (see also the resources curated for Research Software Engineers). This curated set of chapters will point. Data Stewards to topics and practices important for working with data and communicating with researchers.
+- name: Research Community Management
+  files:
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/overview.md
+    - reproducible-research/open.md
+    - reproducible-research/licensing.md
+    - reproducible-research/rdm.md
+    - reproducible-research/rdm/rdm-sharing.md
+    - reproducible-research/code-documentation.md
+    - reproducible-research/reviewing.md
+    - reproducible-research/compendia.md
+    - project-design/project-design.md
+    - project-design/pd-overview.md
+    - communication/communication.md
+    - communication/comms-overview.md
+    - communication/comms-overview/comms-overview-principles.md
+    - communication/comms-overview/comms-overview-accessibly.md
+    - collaboration/collaboration.md
+    - collaboration/research-infrastructure-roles/community-manager.md
+    - collaboration/stakeholder-engagement.md
+    - ethical-research/ethical-research.md
+    - ethical-research/ethics-intro.md
+    - ethical-research/cultural-change.md
+    - community-handbook/community-handbook.md
+    - community-handbook/accessibility.md
+    - community-handbook/acknowledgement.md
+  colour: orange
+  description: >
+    Research Community Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
 - name: Early Career Researchers
   files:
     - project-design/project-design.md
-    - project-design/pd-checklist.md
+    - project-design/pd-design-overview/pd-checklist.md
     - collaboration/github-novice.md
-    - project-design/project-repo.md
+    - project-design/pd-design-overview/project-repo.md
     - project-design/pd-overview.md
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview.md
@@ -16,7 +125,7 @@
     - reproducible-research/vcs.md
     - project-design/pd-overview.md
     - project-design/pd-overview/pd-overview-methods.md
-    - project-design/sdp.md
+    - project-design/data-security/sdp.md
     - communication/communication.md
     - communication/comms-overview.md
     - communication/comms-overview/comms-overview-principles.md
@@ -42,8 +151,8 @@
     - project-design/pd-overview/pd-overview-repro.md
     - project-design/pd-overview/pd-overview-methods.md
     - project-design/pd-overview/pd-overview-version.md
-    - project-design/pd-checklist.md
-    - project-design/project-repo.md
+    - project-design/pd-design-overview/pd-checklist.md
+    - project-design/pd-design-overview/project-repo.md
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview/overview-definitions.md
     - reproducible-research/overview/overview-barriers.md
@@ -71,8 +180,8 @@
     - collaboration/research-infrastructure-roles/rse.md
     - collaboration/research-infrastructure-roles/rse-personal-story.md
     - collaboration/maintain-review.md
-    - project-design/project-repo.md
-    - project-design/project-repo/project-repo-advanced.md
+    - project-design/pd-design-overview/project-repo.md
+    - project-design/pd-design-overview/project-repo/project-repo-advanced.md
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview.md
     - reproducible-research/open.md
@@ -112,7 +221,7 @@
     - reproducible-research/rdm/rdm-sharing.md
     - reproducible-research/code-reuse.md
     - reproducible-research/code-reuse/code-reuse-overview.md
-  colour: green
+  colour: skyblue
   description: >
     From research to government, every sector strongly relies upon the use of
     research software. This curated set of chapters guides the sharing and
@@ -149,14 +258,14 @@
     - reproducible-research/reviewing/reviewing-checklist.md
     - reproducible-research/code-reuse/code-reuse-details.md
     - project-design/project-design.md
-    - project-design/pd-checklist.md
-    - project-design/project-repo.md
-    - project-design/filenaming.md
-    - project-design/sdp.md
-    - project-design/sdp/metadata.md
-    - project-design/sdpm.md
-    - project-design/sdpw.md
-    - project-design/data-governance.md
+    - project-design/pd-design-overview/pd-checklist.md
+    - project-design/pd-design-overview/project-repo.md
+    - project-design/info-management/filenaming.md
+    - project-design/data-security/sdp.md
+    - project-design/data-security/sdp/metadata.md
+    - project-design/data-security/sdpm.md
+    - project-design/data-security/sdpw.md
+    - project-design/data-security/data-governance.md
     - project-design/missing-data.md
     - project-design/risks-of-bias.md
     - communication/communication.md

@@ -5135,6 +5135,25 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tongyu0924",
+      "name": "tongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119610311?v=4",
+      "profile": "https://github.com/tongyu0924",
+      "contributions": [
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "bakhshir",
+      "name": "Rena Bakhshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16703268?v=4",
+      "profile": "https://github.com/bakhshir",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
