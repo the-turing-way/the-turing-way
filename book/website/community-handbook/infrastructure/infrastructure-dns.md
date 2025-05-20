@@ -142,3 +142,30 @@ book CAA 0 issue "letsencrypt.org"
 This record only allows Let's Encrypt to issue certificates.
 Netlify also suggests [specifying their `accounturi` in the record](https://docs.netlify.com/domains-https/https-ssl/#netlify-managed-certificates) which would further ensure that only Netlify can request new certificates from Let's Encrypt.
 However, NameCheap doesn't seem to allow this in CAA records.
+
+### URL Redirects
+
+Namecheap DNS allows redirecting to URLs.
+This is not actually part of DNS and is achieved by returning HTTP redirect signals to requests (like [301](https://developer.mozilla.org/docs/Web/HTTP/Status/301) or [302](https://developer.mozilla.org/docs/Web/HTTP/Status/302)).
+You could do the same by having your webserver redirect requests to particular subdomains.
+For example, in NGINX you could use [`rewrite`](https://nginx.org/en/docs/http/ngx_http_rewrite_module.html).
+
+The following URL redirects are configured,
+
+Directing `git.the-turing-way.org` to the GitHub organisation
+
+```
+git URL-Redirect https://github.com/the-turing-way
+```
+
+Directing `slack.the-turing-way.org` to the Slack invitation link
+
+```
+slack URL-Redirect <slack invite link>
+```
+
+Directing `news.the-turing-way.org` to the newsletter archive
+
+```
+news URL-Redirect https://buttondown.email/turingway
+```
