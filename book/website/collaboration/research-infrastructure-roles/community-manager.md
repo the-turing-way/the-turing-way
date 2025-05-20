@@ -82,7 +82,6 @@ See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ
 RCM Skills Framework from Turing Research Community Management Team
 Sharan, M., & Karoune, E. (2023). Research Community Management - Skills framework. Zenodo. https://doi.org/10.5281/zenodo.8337627
 
-
 (cl-infrastructure-community-managers-challenges)=
 ## Challenges for Research Community Managers 
 * Need to mediate between community members 
