@@ -60,12 +60,12 @@ Avoid dismissing any ideas at this point, even if they don't immediately seem to
 Once you've gathered ideas from the community, whether through real-time discussions or other methods, the next step is to consolidate and cluster related topics.
 Look for recurring themes and overarching skills that emerge from the collected input.
 
-#### Explore Existing Content in The Turing Way
+#### Explore Existing Content in *The Turing Way*
 
-Now, map these identified topics and skills to the existing chapters and sections within The Turing Way. 
+Now, map these identified topics and skills to the existing chapters and sections within *The Turing Way*. 
 Determine which content directly addresses the community's needs or provides the necessary foundational understanding.
 
-To do this, use the search feature within The Turing Way book to look up relevant keywords.
+To do this, use the search feature within *The Turing Way* book to look up relevant keywords.
 Additionally, you can search for any ongoing discussions on these topics by exploring the issues and Pull Requests on the book's GitHub repository.
 
 #### Curate Chapters for Your Intended Pathway
@@ -79,7 +79,7 @@ If all the suggested chapters truly are essential, consider offering different e
 
 ### 3. Integrate and Showcase Your Pathway
 
-Follow the standard The Turing Way contribution guidelines to submit your pathway idea via a The Turing Way GitHub issue.
+Follow the standard *The Turing Way* contribution guidelines to submit your pathway idea via a *The Turing Way* GitHub issue.
 Within the issue, share any relevant resources and the list of curated chapters.
 This allows original contributors and the broader community members to provide feedback.
 
@@ -115,16 +115,16 @@ In dedicated community spaces, actively involve and support members in identifyi
 ### 5. Identifying Gaps and Community Involvement
 
 As you map the community's suggested topics and skills with the existing chapters in *The Turing Way*, you will likely identify gaps where specific guidance or dedicated chapters are currently missing.
-This presents an excellent opportunity for your community to further engage with and contribute to *The Turing Way*.
+This presents an excellent route for your community to further engage with and contribute to *The Turing Way*.
 
 #### Create a List of Missing Content
 
-Compile a list of the topics and themes that your community has identified as important but are not yet documented within The Turing Way.
-Maintain this list in a shared document, making it accessible for community members to review and add their own suggestions.
+Within the original GitHub issue or a new one, please compile a list of the topics and themes that your community has identified as important but are not yet documented within *The Turing Way*.
+Keeping an issue or other shared resource allows community members to easily identify, review and add their own suggestions.
 
 #### Encourage and Facilitate Community Contribution
 
-This list of missing resources is itself a valuable tool for truly engaging your community members with The Turing Way.
+This list of missing resources is itself a valuable tool for engaging your community members with _The Turing Way_.
 It empowers them to transition from being readers or users to active contributors and sharers of their expertise.
 
 Reach out to members who express interest in specific topics and support them in collaborating with others within *The Turing Way* community to develop new chapters or expand existing ones.
