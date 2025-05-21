@@ -21,6 +21,9 @@ project:
       ref: main
   bibliography:
     - _bibliography/references.bib
+  plugins:
+    - type: executable
+      path: image_gallery_plugin.py
   toc:
     - file: index.md
     - file: foreword/foreword.md
