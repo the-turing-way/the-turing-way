@@ -956,10 +956,8 @@ project:
               title: Tips for Applicants
             - file: community-handbook/bookdash/organisers.md
               title: Organising Groups
-            - file: community-handbook/bookdash/bookdash-attendee.md
-              title: Attendee Information
             - file: community-handbook/bookdash/bookdash-hubs.md
-              title: Organising Hubs
+              title: Organising Local Hubs
             - file: community-handbook/bookdash/bookdash-checklist.md
               title: Book Dash Checklist
             - file: community-handbook/bookdash/bookdash-application.md
