@@ -20,7 +20,7 @@ Data science is a truly interdisciplinary field that can be described as the int
 ```book/website/figures/data-science.*
 ---
 height: 500px
-label: first-pull-request
+label: data-science
 alt: >
   Venn diagram with three partially overlapping circles representing components of data science.
   The left circle (light yellow) is labeled Computer Science, the right circle (light green) is Mathematics & Statistics and the bottom circle light purple is Domain Knowledge.
