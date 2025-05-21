@@ -1,6 +1,8 @@
+(cm-website-frameworks=)
 # Frameworks
 
-## What is a framework
+(cm-website-frameworks-what=)
+## What is a framework?
 
 In website development, a framework is a set of pre-written code, tools, and
 libraries that help developers build and maintain websites more efficiently.
@@ -10,6 +12,7 @@ process and promote best practices. They essentially "frame" the development by
 managing basic functionalities and allowing developers to focus on the unique
 aspects of their projects rather than repetitive tasks.
 
+(cm-website-frameworks-benefits=)
 ## Benefits of using a framework
 
 Frameworks provide several benefits in website development:
@@ -23,6 +26,7 @@ website.
 * **Security**: Many frameworks come with built-in security features and
 updates, which help mitigate vulnerabilities.
 
+(cm-website-frameworks-list=)
 ## Popular frameworks
 
 Here, we list some commonly used frameworks. They have been
@@ -30,7 +34,7 @@ divided into two categories depending upon whether person wants to create a
 website using low-code or high-code options.
 
 ### No-Code/Low-Code frameworks
-
+* [Canva](https://www.canva.com/design-school/resources/how-to-make-website-with-canva-step-by-step-guide)
 * [Ghost](https://ghost.org/resources/building/)
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * The repository [`rzashakeri/beautify-github-profile`](https://github.com/rzashakeri/beautify-github-profile) has instructions and advice to customise your GitHub profile.
