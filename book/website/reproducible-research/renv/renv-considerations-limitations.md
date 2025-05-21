@@ -159,6 +159,26 @@ Both can be extended with additional repositories, as the main repos grow, and a
 One advantage to packaging your software with these tools is that it is an excellent reference package for anyone wishing to package your software in another packaging format as all dependencies and the full build process must be fully specified in the package derivation.
 Furthermore these packages are highly portable as the Nix and Guix package managers are agnostic to the Linux distribution on which they are installed, [Nix can be installed directly on macOS](https://mynixos.com/nix-darwin), and both can be used on Windows via [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
 
+## Building from Archival Source Code
+
+What happens if a project is abandoned and its website goes down, it moves its source code repository, is censored, or is no longer available for any reason?
+How do you rebuild a compute environment that used it then?
+
+In principle if you have kept the heavier pre-built container or VM images you don't have to deal with this issue as you've already got a working copy of the binaries that you need, though you won't be able to recreate these images.
+Functional package mangers simply need to record the list of packages and the version(s) of the package repository(s) you want them from and the environment should be fully reproducible, much lighter than a VM or container image.
+However when rebuilding that environment the cached binaries or source code needs to be retrieved from somewhere.
+
+Whilst [Software Heritage](https://www.softwareheritage.org/) has archived much of the open source code available on the major software forges making this code usable in the long term also requires that it can be built.
+It would also be convenient if it were not a manual process to retrieve the archived code and rebuild from it.
+At this point in time Guix is uniquly resilient in this regard [@courtesSourceCodeArchiving2024] with [at least 85%](https://ngyro.com/pog-reports/latest/) of all its packages archived.
+Guix provides an automated mechanism by which if the primary source archive of a package is unavailable it is able to automatically fall back on software heritage's archive and securely, reproducibly rebuild the package from source.
+Thus to the end user, save for a possibly slightly increased build time, there is no change to behaviour.
+
+Members of the Nix community are working on a solution to this problem based on [IPFS](https://ipfs.tech/) (see [this thread](https://discourse.nixos.org/t/obsidian-systems-is-excited-to-bring-ipfs-support-to-nix/7375) and [this post](https://blog.ipfs.tech/2020-09-08-nix-ipfs-milestone-1/)).
+Integration with IPFS would allow for a more distributed approach to archiving.
+Instead of relying on a central repository to resolve where to find sources any node pinning the relevent sources could act as an archive from which they can be retrieved over a peer-to-peer network.
+In addition any node currently holding a copy of a source could serve it to anyone requesting it.
+
 ## Firmware
 
 Firmware is software that runs on embedded devices and components such as microcontrollers.
