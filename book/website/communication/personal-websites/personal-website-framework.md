@@ -31,16 +31,23 @@ website using low-code or high-code options.
 
 ### No-Code/Low-Code frameworks
 
+* [Ghost](https://ghost.org/resources/building/)
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * The repository [`rzashakeri/beautify-github-profile`](https://github.com/rzashakeri/beautify-github-profile) has instructions and advice to customise your GitHub profile.
-* [Wordpress](https://wordpress.com/support/five-step-website-setup/)
-* [Ghost](https://ghost.org/resources/building/)
+* [Wix](https://learnxinyminutes.com/)
 
 ### High-Code frameworks
 
-* [Jekyll](https://jekyllrb.com/)
+#### Static website generator
+
+* [Academic pages](https://github.com/academicpages/academicpages.github.io)
 * [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
 * [Fast Html](https://fastht.ml/) (Python)
-* [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
 * Pure HTML/CSS/Javascript
-* [Academic pages](https://github.com/academicpages/academicpages.github.io)
+* [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
+
+#### Dynamic website generator
+
+* [Django](https://www.djangoproject.com/)
