@@ -143,6 +143,22 @@ If a project you depended is maintained by one person who gets burnt out and sto
 Funcional package managers make it possible for even complex, computationally intensive, multi-part pipelines, such as those used in genomics, which make use of tools is a variety of programming languages to have near bit for bit computational reproducibility.
 This is exemplified by the [PiGx: Pipelines in Genomics](https://bioinformatics.mdc-berlin.de/pigx/) project [@wurmusPiGxReproducibleGenomics2018].
 
+### Barriers to adoption
+
+If functional package managers are so good why are they not in wider use?
+
+Some barriers to the adoption of the functional package mangement paradigm are that not all software packages are available in the main repositories of these projects, and that there is a bit of steeper than average learning curve to learn to package software using these tools.
+
+Nix package derivations are authored in the [Nix expression language](https://nix.dev/manual/nix/2.24/language/index.html) and Guix packages in [Guile](https://www.gnu.org/software/guile/) an implementation of [scheme lisp](https://www.scheme.org/), both functional programming languages.
+In order to include a package in an environment specified by one of these tools, that is not already packaged with them, you must aquire some basic facility with one of these languages and write a package derivation for the tool you want to use.
+When your software depends on something that is also not packaged you can end up needing to recursively package various dependencies.
+
+The repositories are not small, the [Nix package repository](https://search.nixos.org/packages) is the largest single collection of software packages in existence by a considerable margin ([according to repology](https://repology.org/repositories/statistics/total)), with more that 120,000 packages at time of writing, and [Guix packages](https://packages.guix.gnu.org/) has a over 30,000 but maintains stricter standards for building packages from source and only accepts free / open source software.
+Both can be extended with additional repositories, as the main repos grow, and additional repositories are created the friction to their adoption declines.
+
+One advantage to packaging your software with these tools is that it is an excellent reference package for anyone wishing to package your software in another packaging format as all dependencies and the full build process must be fully specified in the package derivation.
+Furthermore these packages are highly portable as the Nix and Guix package managers are agnostic to the Linux distribution on which they are installed, [Nix can be installed directly on macOS](https://mynixos.com/nix-darwin), and both can be used on Windows via [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
+
 ## Firmware
 
 Firmware is software that runs on embedded devices and components such as microcontrollers.
