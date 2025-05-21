@@ -22,13 +22,13 @@ fi
 
 # Cross-domain redirects for the start page
 [[redirects]]
-  from = "http://the-turing-way.org/*"
+  from = "https://the-turing-way.org/*"
   to = "https://the-turing-way.start.page/"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://the-turing-way.org/*"
+  from = "https://www.the-turing-way.org/*"
   to = "https://the-turing-way.start.page/"
   status = 302
   force = true
