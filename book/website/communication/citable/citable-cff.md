@@ -7,7 +7,7 @@ The [Citation File Format](https://citation-file-format.github.io) lets you prov
 ---
 name: recognition
 width: 500px
-alt: Research software developers get recognition by making software citable.
+alt: Illustration by Scriberia for The Turing Way, highlighting the role of software citation in increasing recognition for developers. Two groups stand on separate pillars: researchers on a taller grey pillar and developers on a shorter green pillar labelled “CODE.” Large black arrows labelled “software citation” point upward, lifting the developers. Above both groups is the word “RECOGNITION” in bold, with a glowing badge and green stars. A green arc connects the two pillars, suggesting a bridge of acknowledgement. Below, three figures sit at desks, representing the broader community. 
 ---
 Research software developers get recognition by making software citable. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
@@ -29,7 +29,7 @@ You don't have to edit this information manually on Zenodo anymore.
 ---
 name: software-credit
 width: 500px
-alt: More credits for the software creators.
+alt: Illustration by Scriberia for The Turing Way, highlighting the importance of giving software creators credit through the use of `CITATION.cff` files. On the right, a developer sits at a desk, writing code represented by binary and angled brackets. A pink path of code flows toward two people on the left. One person holds a large wallet labelled “Credits,” while the other kneels and holds a magnifying glass that zooms in on the word “CFF” along the code path. A speech bubble above them reads, “More credits for the software creators!” 
 ---
 More credits for the software creators. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
@@ -153,7 +153,7 @@ For more details on software citation on GitHub please see [GitHub's guide on so
   ```{figure} ../../figures/github-cff-integration.*
   ---
   name: github-cff-integration
-  alt: Button on GitHub that provides automatically conversion of the `CITATION.cff` file to APA's and BibTex's format.
+  alt: Screenshot of a GitHub repository showing the automatic citation box generated from a `CITATION.cff` file. On the right, a dropdown labeled “Cite this repository” is expanded, displaying citation formats in APA and BibTeX. The APA citation is visible with author names listed, and a button below labeled “View citation file.” This box appears in the repository sidebar beneath metadata such as license type and tags. The screenshot demonstrates how GitHub displays citation information when a `CITATION.cff` file is included.
   ---
   "Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format. The screen capture is from the [Citation File Format repository](https://github.com/citation-file-format/citation-file-format).
   ```
