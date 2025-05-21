@@ -952,18 +952,26 @@ project:
         - file: community-handbook/bookdash.md
           title: Book Dash Events
           children:
+            - file: community-handbook/bookdash/bookdash-tips.md
+              title: Tips for Applicants
+            - file: community-handbook/bookdash/organisers.md
+              title: Organising Groups
+            - file: community-handbook/bookdash/bookdash-attendee.md
+              title: Attendee Information
+            - file: community-handbook/bookdash/bookdash-hubs.md
+              title: Organising Hubs
+            - file: community-handbook/bookdash/bookdash-checklist.md
+              title: Book Dash Checklist
             - file: community-handbook/bookdash/bookdash-application.md
               title: Application and Review Process
-            - file: community-handbook/bookdash/bookdash-logistics.md
-              title: Book Dash Logistics
-            - file: community-handbook/bookdash/bookdash-illustrator.md
-              title: Working With an Illustrator
             - file: community-handbook/bookdash/bookdash-selection.md
               title: Participant Selection Process
             - file: community-handbook/bookdash/bookdash-events.md
               title: Book Dash Main Event Plans
             - file: community-handbook/bookdash/bookdash-after.md
               title: After the Book Dash
+            - file: community-handbook/bookdash/bookdash-illustrator.md
+              title: Working With an Illustrator
         - title: Community Calls
           file: community-handbook/community-calls.md
           children:
