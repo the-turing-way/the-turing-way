@@ -466,7 +466,7 @@ project:
           children:
             - file: communication/open/education.md
               title: Open Education
-        - file: embedding-ds.md
+        - file: communication/open/embedding-ds.md
           title: Embedding Data Science Across Disciplines
         - file: communication/blogs.md
           title: Blogs for Research Communication
