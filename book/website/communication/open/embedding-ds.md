@@ -1,7 +1,7 @@
 # Embedding Data Science & AI across Disciplines: Context and Suggestions for Educators
 
 ## Overview
-> Data science (DS) is no longer limited to mathematicians, statisticians, and computer scientists. As its value becomes apparent in non-traditional disciplines, students in these areas
+Data science (DS) is no longer limited to mathematicians, statisticians, and computer scientists. As its value becomes apparent in non-traditional disciplines, students in these areas
 naturally seek to upskill in DS. With technology increasingly shaping our future, it is essential to offer opportunities to develop these skills across a broader range of fields, ensuring the
 necessary expertise and competencies are cultivated beyond their traditional domains. This chapter profiles non-cognate students, offers suggestions for educators teaching Data Science in non
 cognate disciplines, and highlights a series of good practices and pedagogical approaches for engaging with non-cognate students.
@@ -15,7 +15,7 @@ background in engineering decides to pursue a graduate degree in psychology, the
 commonly used in academic settings, particularly when discussing admissions or program requirements. However, for more inclusive and accessible language, you may prefer to describe someone
 simply as “a student without a background in data science or AI”.
 ```
-Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise (Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice (Estrellado et al., 2020) and research (McFarland et al., 2021).
+Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise [@Jiang2022datascience](Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice [@Estrellado2020data](Estrellado et al., 2020) and research [@McFarland2021education](McFarland et al., 2021).
 
 ```{figure}book/website/figures/data-science.*
 ---
@@ -29,14 +29,13 @@ alt: >
   The overlap between Domain Knowledge and Computer Science is Software Development.
   The central area where all three circles intersect is labeled Data Science.
 ---
-The interdisciplinary nature of Data Science. Illustration by Denise Bianco. Used under a CC-BY 4.0 licence.
+The interdisciplinary nature of Data Science. Illustration by Denise Bianco (2025). Used under a CC-BY 4.0 licence.
 ```
 
 In the constantly growing data-intensive society, data science is being applied within various **non-cognate disciplines** such as arts, history, and social sciences. It’s important for people
 involved in training people in these disciplines to understand how to adapt tools and develop skills in different contexts, particularly data literacy, and how educators can support the
 development of these specific competencies. Data literacy is traditionally defined as the ability to explore, understand, and communicate data as information. This definition can be expanded by
-a recent contribution from Gebre (2022), who identifies key elements of data literacy, including general competencies such as attitudes toward data and specific skills like using particular
-tools. Gebre also highlights context-specific factors that impact how learners relate to data, which are highly relevant when teaching to non-cognate students.
+a recent contribution from @Gebre2022conceptions who identifies key elements of data literacy, including general competencies such as attitudes toward data and specific skills like using particular tools. Gebre also highlights context-specific factors that impact how learners relate to data, which are highly relevant when teaching to non-cognate students.
 
 ## What does the typical learner profile from a non-cognate discipline look like?
 
@@ -69,7 +68,7 @@ But also…
 
 ## Understanding the fundamental concepts of AI and Data Science
 
-When teaching non-cognate students, it is crucial to first assess their understanding of AI and data science fundamentals. The multi-stage framework proposed by Kandlhofer et al. (2016) for AI
+When teaching non-cognate students, it is crucial to first assess their understanding of AI and data science fundamentals. The multi-stage framework proposed by @Kandlhofer2016artificial for AI
 literacy can serve as a valuable reference for evaluating students’ knowledge.
 
 Depending on existing knowledge, teaching may need to focus on:
@@ -117,7 +116,7 @@ Adaptation of Kandlhofer et al. (2016) *Topics of AI Literacy*. Illustration by 
 This Master’s degree creates expert data scientists taught through the exciting multidisciplinary lens of cultural heritage (historic buildings, sites, landscapes, museums and collections). Students will develop advanced data science skills, such as coding, crowd-sourced data science, machine learning and data visualisation, and apply them to the complexities of acquisition, analysis and exploitation of the variety of data that is generated and used in heritage contexts. The course is open to applicants with a technical background such as statistics or data science, as well as applicants from other disciplines (for example: conservation, curation, history) that want to develop data science skills. This degree route is suited both to recent graduates and early or mid-career professionals looking to retrain or up-skill.
 `````
 ## Suggestions for Educators
-> DS educators teaching students without a data science or AI background would need to pay particular attention to the students’ background knowledge, concepts, and practical and metacognitive
+DS educators teaching students without a data science or AI background would need to pay particular attention to the students’ background knowledge, concepts, and practical and metacognitive
 skills. Assessment for learning, differentiated instruction, collaborative learning, and other effective teaching methods, can be tailored to the unique needs of data science and AI education
 across disciplines.
 
@@ -136,7 +135,7 @@ Assessment for learning informs changes you can make to your lesson straight awa
 * **Express preferences about what they want to do**: understanding *WHAT*. Let students describe their ideal scenarios; this will help you refine and tailor your content.
 * **Share their goals and aspirations**: understanding WHY. What do they need this for?
 
-In *Seven Myths of Education* (2014), Daisy Christodoulou suggests that teachers should act as “thermostats, not thermometers” meaning they should not only measure where a student is but also
+In *Seven Myths of Education* @Christodoulou2014myths suggests that teachers should act as “thermostats, not thermometers” meaning they should not only measure where a student is but also
 make necessary adjustments to guide them to where they need to be. This perspective is fundamental when thinking about assessment for learning, and to understand the critical role of effective
 feedback.
 
@@ -144,11 +143,11 @@ feedback.
 tool for developing students’ thinking. Feedback must be task-focused, timely, specific, clear and unbiased. In this way, you will provide your students with information about their current
 performance and guidance on how they can improve to reach their goals.
 
-2. **Formative Assessment** supports teaching by assessing a learner’s state and inferring next steps (Zhai et al., 2021). It is similar to AfL, as both methods are used to understand student
-   progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, formative assessment is used for day-to-day
-   assessments to gauge and explore students’ understanding of a topic
+2. **Formative Assessment** supports teaching by assessing a learner’s state and inferring next steps [@Zhai2020meta](Zhai et al., 2020). It is similar to AfL, as both methods are used to
+   understand student progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, formative assessment is used for
+   day-to-day assessments to gauge and explore students’ understanding of a topic
 
-The formative assessment process usually consists of the following three practices (Stanja et al., 2023):
+The formative assessment process usually consists of the following three practices [@Stanja2022formative](Stanja et al., 2023):
 * **Eliciting**: The collection of evidence for students’ learning using tasks and questions
 * **Interpreting**: Analysing what students are saying, writing or doing and what this indicates about their thinking; and identifying implications for learning based on the previous analysis
 * **Responding**: Giving feedback to students or adaptation of instruction.
@@ -162,11 +161,10 @@ Examples include:
 * **Data challenges**: Mini group competitions where students predict outcomes based on given datasets, which are then discussed in class to learn from various approaches. When teaching in
   multidisciplinary settings, the challenges should be situated in the disciplinary domain that is most familiar to students.
 
-3. **Differentiated Instruction** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan (Tomlinson, 2017).
-
-Differentiated instruction sits between “single-size” instruction and individualised instruction, involving proactive planning of various ways for students to express their learning. While it
-may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students. In this model, the teacher is viewed as
-an organiser of knowledge rather than a gatekeeper.
+3. **Differentiated Instruction** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan [@tomlinson2017differentiate](Tomlinson,
+   2017).Differentiated instruction sits between “single-size” instruction and individualised instruction, involving proactive planning of various ways for students to express their learning.
+   While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students. In this model, the teacher is
+   viewed as an organiser of knowledge rather than a gatekeeper.
 
 Differentiated instruction in the context of data science and AI can by applied through:
 * **Tiered assignments**: Provide different levels of difficulty in project tasks or problem sets, allowing students to engage at a level that matches their proficiency.
