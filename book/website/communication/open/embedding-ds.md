@@ -15,7 +15,8 @@ background in engineering decides to pursue a graduate degree in psychology, the
 commonly used in academic settings, particularly when discussing admissions or program requirements. However, for more inclusive and accessible language, you may prefer to describe someone
 simply as “a student without a background in data science or AI”.
 ```
-Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise @Jiang2022datascience(Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice @Estrellado2020data(Estrellado et al., 2020) and research @McFarland2021education(McFarland et al., 2021).
+Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise @Jiang2022datascience. 
+It also represents a rapidly growing methodological approach for educational practice @Estrellado2020data and research @McFarland2021education.
 
 ```{figure} ../../figures/data-science.*
 ---
@@ -143,11 +144,11 @@ feedback.
 tool for developing students’ thinking. Feedback must be task-focused, timely, specific, clear and unbiased. In this way, you will provide your students with information about their current
 performance and guidance on how they can improve to reach their goals.
 
-2. **Formative Assessment** supports teaching by assessing a learner’s state and inferring next steps @Zhai2020meta(Zhai et al., 2020). It is similar to AfL, as both methods are used to
+2. **Formative Assessment** supports teaching by assessing a learner’s state and inferring next steps @Zhai2020meta. It is similar to AfL, as both methods are used to
    understand student progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, formative assessment is used for
    day-to-day assessments to gauge and explore students’ understanding of a topic
 
-The formative assessment process usually consists of the following three practices @Stanja2022formative(Stanja et al., 2023):
+The formative assessment process usually consists of the following three practices @Stanja2022formative :
 * **Eliciting**: The collection of evidence for students’ learning using tasks and questions
 * **Interpreting**: Analysing what students are saying, writing or doing and what this indicates about their thinking; and identifying implications for learning based on the previous analysis
 * **Responding**: Giving feedback to students or adaptation of instruction.
@@ -161,8 +162,8 @@ Examples include:
 * **Data challenges**: Mini group competitions where students predict outcomes based on given datasets, which are then discussed in class to learn from various approaches. When teaching in
   multidisciplinary settings, the challenges should be situated in the disciplinary domain that is most familiar to students.
 
-3. **Differentiated Instruction** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan @tomlinson2017differentiate(Tomlinson,
-   2017).Differentiated instruction sits between “single-size” instruction and individualised instruction, involving proactive planning of various ways for students to express their learning.
+3. **Differentiated Instruction** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan @tomlinson2017differentiate.
+   Differentiated instruction sits between “single-size” instruction and individualised instruction, involving proactive planning of various ways for students to express their learning.
    While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students. In this model, the teacher is
    viewed as an organiser of knowledge rather than a gatekeeper.
 
