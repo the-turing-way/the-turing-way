@@ -48,7 +48,21 @@ Applicants can mention their travel, accommodation, childcare, and accessibility
 
 Finally, we provide details regarding the event schedule and ask our applicants to indicate which time slots for collaborative co-working and social sessions would work for their time zones.
 
-## Reviewing process
+(ch-bookdash-application-processing)=
+## Processing Applications
+
+As of May 2025, processing Book Dash applications is currently a manual process usually conducted by the Research Community Manager or Research Project Manager.
+All of the applications from the Book Dash undergoe the following steps:
+1. Convert applications from form into a table for easy review
+2. Pseudo-anonymise applications as needed for review by Book Dash Planning Committee
+3. After the Book Dash Planning Committee reviews applications, gather all the applications flagged as "no", "wild card/request to discuss" into one table
+
+(ch-bookdash-application-anonymisation)=
+### Pseudo-anonymising 
+
+Pseudo-anonymising applications is an important step in enabling the Book Dash Plannnig Committee to review the 
+
+## Review process
 
 Applications for _The Turing Way_ book dashes are reviewed by at least 2 members of _The Turing Way_ core team.
 A response form created by the organising members using the rubrics described below, the response from which are shared among all the reviewers during a designated meeting between the panel members.
@@ -57,10 +71,6 @@ To avoid personal bias, each of these scores is clearly defined for every questi
 This rubric aims to evaluate the application across multiple aspects and avoid any personal bias panel members may have.
 
 *This rubric is adapted from the [Mozilla Open Leadership](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) and the [Open Life Science](https://openlifesci.org/) programs*.
-
-(ch-bookdash-application-anonymisation)=
-### Anonymising applications
-[ ADD INFO HERE ]
 
 (ch-bookdash-application-rubrics)=
 ### Rubrics for scoring applications
@@ -78,7 +88,7 @@ Based on their evaluation of the applications they will provide scores for diffe
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
-[ ADD MORE INFORMATION HERE ABOUT THE REVIEW PROCESS WITH COMMITTEE ]
+All applications that have been flagged as a "wild card" and/or "request to discuss will be collated separately, so that .
 
 **Table summarising our scoring rubric and criteria for each score:**
 
