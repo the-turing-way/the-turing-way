@@ -473,6 +473,11 @@ project:
               title: Building a Webpage for Blogs
             - file: communication/blogs/blogs-personal-stories.md
               title: Personal stories - Blogs
+        - file: communication/personal-websites.md
+          title: Personal Websites
+          children:
+            - file: communication/personal-websites/personal-website-framework.md
+              title: Using Webpage Frameworks
         - file: communication/lay-summaries.md
           title: Lay Summaries
           children:
