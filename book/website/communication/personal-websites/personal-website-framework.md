@@ -35,6 +35,7 @@ website using low-code or high-code options.
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * The repository [`rzashakeri/beautify-github-profile`](https://github.com/rzashakeri/beautify-github-profile) has instructions and advice to customise your GitHub profile.
 * [Wix](https://learnxinyminutes.com/)
+* [Squarespace](http://squarespace.com)
 
 ### High-Code frameworks
 
@@ -45,7 +46,7 @@ website using low-code or high-code options.
 * [Fast Html](https://fastht.ml/) (Python)
 * [Hugo](https://gohugo.io/)
 * [Jekyll](https://jekyllrb.com/)
-* Pure HTML/CSS/Javascript
+* [Pure HTML/CSS/Javascript](https://pure-css.github.io/start/)
 * [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
 
 #### Dynamic website generator
