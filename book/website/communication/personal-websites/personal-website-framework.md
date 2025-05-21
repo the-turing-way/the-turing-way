@@ -25,15 +25,16 @@ updates, which help mitigate vulnerabilities.
 
 ## Popular frameworks
 
-Below mentioned are some of the commonly used frameworks. These have been
+Here, we list some commonly used frameworks. They have been
 divided into two categories depending upon whether person wants to create a
 website using low-code or high-code options.
 
 ### No-Code/Low-Code frameworks
 
-* [GitHub (GH) profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
-  * Use GH repository [beautify my GH](<https://github.com/rzashakeri/beautify-github-profile>), to customize your GH profile.
+* [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
+  * The repository [`rzashakeri/beautify-github-profile`](https://github.com/rzashakeri/beautify-github-profile) has instructions and advice to customise your GitHub profile.
 * [Wordpress](https://wordpress.com/support/five-step-website-setup/)
+* [Ghost](https://ghost.org/resources/building/)
 
 ### Pro-code/High-Code frameworks
 

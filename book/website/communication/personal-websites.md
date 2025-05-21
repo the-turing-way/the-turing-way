@@ -6,8 +6,8 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| {ref}`rr-open` | Helpful | Beginner | An understanding of open research practices is useful for creating a personal website. |
-| {ref}`cm-blogs` | Helpful | Beginner | Blogs for research communication can be part of a personal website. |
+| [](#rr-open) | Helpful | Beginner | An understanding of open research practices is useful for creating a personal website. |
+| [](#cm-blogs) | Helpful | Beginner | Blogs for research communication can be part of a personal website. |
 
 (cm-personal-websites-summary)=
 ## Summary
