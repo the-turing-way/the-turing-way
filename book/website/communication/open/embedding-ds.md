@@ -108,7 +108,7 @@ alt: >
  Different approaches to learning agents
  Decision trees and neural networks
 ---
-Adaptation of Kandlhofer et al. (2016) *Topics of AI Literacy*. Illustration by Gule Saman. Used under a CC-BY 4.0 licence.
+Adaptation of Kandlhofer et al. (2016) *Topics of AI Literacy*. Illustration by Gule Saman (2024). Used under a CC-BY 4.0 licence.
 ```
 `````{admonition} Case Study
 :class: tip
