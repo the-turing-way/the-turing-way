@@ -5154,6 +5154,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "cecibaldoni",
+      "name": "Cecilia Baldoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111133332?v=4",
+      "profile": "https://github.com/cecibaldoni",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
