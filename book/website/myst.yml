@@ -904,6 +904,11 @@ project:
               title: Record of Contributions
             - file: community-handbook/acknowledgement/acknowledgement-examples.md
               title: Different Contributions and Acknowledgements
+        - file: community-handbook/pathways.md
+          title: Pathways Feature
+          children:
+            - file: community-handbook/pathways/pathways-creation.md
+              title: Creating Learning Pathways
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
@@ -925,6 +930,8 @@ project:
               title: External Link Checking
             - file: community-handbook/infrastructure/infrastructure-dns.md
               title: DNS
+            - file: community-handbook/infrastructure/infrastructure-pathways.md
+              title: Pathways
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
