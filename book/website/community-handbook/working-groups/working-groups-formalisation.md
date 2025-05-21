@@ -15,13 +15,13 @@ A few guiding questions that may help with the process of identifying if a WG sh
 ### Establishing Purpose for the Working Group
 
 To create a WG, its purpose must be established. 
-This can be done independently, and/or with the assistance of delivery team staff and/or brainstorming with other community members and leaders. 
+This can be done independently, or through brainstorming with other community members. 
 Establishing the purpose of a WG may require a series of brainstorming sessions and workshops, with various resources available to facilitate this process.
 
-The *The Turing Way* Research Community Manager or Research Project Manager may also assist in this process through facilitated sessions conducted at a Collaboration Cafe community call or in dedicated meetings or asynchronous discussions.
-Please reach out to them if you have any questions about the process or would like support in getting started.
+This process could also take place facilitated sessions conducted at a Collaboration Cafe, Community Forum, in dedicated meetings, or asynchronous discussions on GitHub.
+Please reach out to the Steering Committee or Community Management Working Group if you have any questions about the process or would like support in getting started.
 
-A WG may focus on:
+A Working Group will most likely focus on either:
 1. A specific topic related to or of interest to *The Turing Way* community.
    * For example: localisation, professionalising research infrastructure roles, accessibility in open source communities and outputs.
 2. A type of ongoing task or work currently being done within the project.
@@ -37,41 +37,39 @@ Please identify and include at least 3 to 4 members who are interested in partic
 Ideally, the proposing party should discuss their plan with *The Turing Way* Research Community Manager or invite support from other members of the project delivery team.
 
 Once proposed, the Research Community Manager will present this proposal to the rest of the project delivery team and share it with the community more broadly, inviting their inputs. 
-The project delivery team will discuss the proposal in the context of other WGs, feedback from the community, and ongoing projects. 
+The Steering Committee will discuss the proposal in the context of other Working Groups, feedback from the community, and ongoing projects. 
 Feedback from their discussion will be shared directly on the GitHub issue. 
 
-Based on the community feedback, the number of members interested, and feasibility for the work to be supported in *The Turing Way*, a final decision will be made and communicated by the project leadership with the proposing party.
+Based on the community feedback, the number of members interested, and feasibility for the work to be supported in *The Turing Way*, a final decision will be made and communicated by the Steering Committee with the proposing party.
 
 ### Approval for Establishing a Working Group
 
-The approval process for a WG involves engagement from the wider community and the project delivery team to understand what resources might be available in supporting the WG and if the WG's aims are appropriate for the community.
+The approval process for a Working Group involves engagement from the wider community and the Steering Committee to understand what resources might be available in supporting the Working Group and if the Working Group's aims are appropriate for the community.
 
-1. **Open Discussion and/or Q&A**: Discuss your idea in community spaces such as the *The Turing Way* GitHub issue, Slack workspace and/or Community Calls like the Collaboration Cafe. Please reach out to the Research Community Manager will support you with this.
-2. **Leadership Approval**: The creation of this WG must be approved by *The Turing Way* leadership at their regular bi-weekly meetings. 
-These meetings happen every two weeks, agenda for which is built by the project manager.
-Notes from their meetings are archived in the GitHub and outcomes communicated directly with the community members where needed.
+1. **Open Discussion and/or Q&A**: Discuss your idea in community spaces such as the *The Turing Way* GitHub issue, Slack workspace and/or Community Calls like the Collaboration Cafe. 
+2. **Leadership Approval**: The creation of this WG must be approved by *The Turing Way* Steering Committee, either at a Steering Committee meeting OR in writing on the issue proposing the new Working Group. 
 
 #### What's next?
 
-Once approved, the project delivery team will inform the group.
+Once approved, the Steering Committee will inform the group.
 Research Community Manager and project manager will coordinate with the group to help them access existing resources they might need and create a public repository to capture notes and documentation from their work.
-The WG's approval will be announced, and WG members will be supported in inviting more members to their work.
+The Working Group's approval will be announced, and Working Group members will be supported in inviting more community members to their work, through promoting meetings and the public repository.
 
 **Action on the group to completed a WG charter**: All WGs need to provide 'way of working' in their charter document.
-We have provided a {ref}`Working Group charter template<ch-working-groups-charter-template>`, which should be filled through group meetings or asynchronously and shared openly on WG's GitHub repo openly, inviting review and feedback from the project delivery team and community.
+We have provided a {ref}`Working Group charter template<ch-working-groups-charter-template>`, which should be filled through group meetings or asynchronously and shared openly on the Working Group's GitHub repo, inviting review and feedback from the community.
 
 ### Establishing Expectations for WG Members' Responsibilities
 
 While the roles and responsibilities may shift or evolve during the lifetime of a WG, having initial discussions enables the group to work together effectively throughout the WG's duration.
 
-* **Discuss Expectations**: Do all founding members understand the roles and responsibilities (provided in the charter) to support a WG?
+* **Discuss Expectations**: Do all founding members understand the responsibilities (provided in the charter) to support a Working Group? Are all founding members aligned on the aims and goals of the Working Group? 
 * **Discuss Founding Membership Roles**: How will this group distribute responsibilities among the roles listed above?
 * **Discuss Working Styles**: Has the group collaborated previously? What working styles do people in this group prefer, and how does that affect the team's cadence, style, and communication?
     * Note: Team-building and/or facilitation can be discussed with and/or assisted by the core staff delivery team.
 * **Discuss Previous Experience with WGs or Similar Organisational Formats**: What did you like about those formats, and what would you avoid? What kind of organisational histories do members of this WG come from?
 * **Discuss Initial Goals**: Are there concrete goals that your WG would like to accomplish at its founding? Have these goals been scoped appropriately based on resources, availability, and interest?
     * Note: Frameworks like SMART goals, Agile, Kanban, Scrum methodology may be valuable here.
-* **Discuss the Group's Communication Plans**: Are there communication tools you might need for your ongoing work (Slack channel, GitHub organisation, emails)?
+* **Discuss the Group's Communication Plans**: All Working Groups will have a GitHub repository in The Turing Way organisation to archive notes and track progress, but are there other communication tools you might need for your ongoing work (Slack channel, emails, social media posts on Turing Way accounts)?
 
 ### Logistics for Managing a Working Group
 
@@ -81,8 +79,8 @@ Once a WG has been established, it is essential to identify and discuss the foll
 * **Establish a Timeline for the WG**: How long should this group be operational? Should it be time-bound or ongoing indefinitely?
 * **Agree on Terms for All Roles**: How long should people be appointed in their roles, and how often should these roles change?
 * **Use GitHub Repository for Organising and Documenting WG Activities**: All WG activities (including notes and the charter, mentioned below) should be archived in a Turing Way GitHub repository (you can use and adapt [this template](https://github.com/the-turing-way/working-group-template)).
-    * Note: In "WG Resources," other infrastructure recommendations and needs (permissions, templates, and checklists) are available to help with this process.
-* **Establish a Reporting Mechanism and/or Public Notes Archive**: How will you share meeting notes and group progress with the wider community?
+    * Note: In {ref}`Working Group Resources<working-group-resources>` other infrastructure recommendations and needs (permissions, templates, and checklists) are available to help with this process.
+* **Establish a Reporting Mechanism and/or Public Notes Archive**: Aside from archiving meeting notes on your GitHub repository, how else will you share Working Group progress with the wider community?
     * Note: All WGs should upload notes to their respective GitHub repository [in *The Turing Way* organisation](https://github.com/the-turing-way/the-turing-way/). For a template, please see this template repository.
 * **Establish Appropriate Permissions for Accounts**: What accounts does this group need access to? Does this group have the proper account access and permissions to carry out its work?
     * Note: The Community Manager and/or Project Manager can assist with this!
@@ -92,17 +90,17 @@ Once a WG has been established, it is essential to identify and discuss the foll
 * **Advertise on Community Channels**: Use Slack, GitHub, social media, and/or the *The Turing Way* newsletter to share information about your WG.
     * Note: The Community Manager and/or Project Manager can assist with this! Ask them on Slack or tag them on GitHub to share out this information, or co-create a communication plan.
 * **Create a Slack Channel for Collaboration** (not required but encouraged): Having an ongoing channel makes communication easier. What other communication channels might this group need?
-* **Add Information about WG in Ways of Working and/or Governance Documents**: Is there a public and up-to-date record of this WG?
+* **Add Information about Working Group in Ways of Working and/or Governance Documents**: Is there a public and up-to-date record of this Working Group in the project's central documents?
 
 ### Maintaining a Working Group
 
-While initiating a WG, maintaining its activities is integral for the group's success. 
+While initiating a Working Group, maintaining its activities is integral for the group's success. 
 On a quarterly basis, a WG should make time to revisit its structures and ways of working to ensure it is adhering to its established purpose. 
 
 The following questions can guide this process:
 
 * **Review Purpose**: Is this WG still fulfilling its established purpose?
-* **Review Progress**: Has this WG been able to make progress towards its stated goals? What adjustments may need to be made to support this work?
+* **Review Progress**: Has this Working Group been able to make progress towards its stated goals? What adjustments, if any, should be made to support this work?
 * **Review Process**: Is the existing way of working valuable for this team currently? Are there other processes (decision-making, conflict management) that may need adjustment?
     * Note: The Community Manager and/or Project Manager can assist with facilitating this!
 * **Review Roles**: Is everyone in the group in a role they would like to maintain? If not, how should these roles change?
@@ -119,7 +117,7 @@ The WG may decide to pivot their scope or pause their work following their inter
 * **Disciplinary Action**: If there have been actions taken that may have broken *The Turing Way* code of conduct, the Staff Delivery Team and/or *The Turing Way* way co-leads reserve the right to retire the WG.
 * Other reasons!
 
-Once a group has decided to close down its efforts, consider the following:
+Once a group has decided to close down its efforts, the following tasks are the responsibility of the final members of the Working Group or a designated Steering Committee member:
 
 * **Document Reasons for Closing Down WG**: Documentation is essential for continuous learning—for future and current WGs, as well as the wider community and ecosystem that *The Turing Way* feeds into!
 * **Change Meeting Information**: Remember to cancel meeting invites and archive existing notes in the GitHub repository.

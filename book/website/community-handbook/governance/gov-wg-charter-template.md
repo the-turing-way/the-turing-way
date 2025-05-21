@@ -2,39 +2,39 @@
 # Template for a Working Group Charter
 
 __*The template provided here is a revised version of the [Sample group charter provided by Collaborative Leader Network](https://collaborativeleadersnetwork.org/strategy-tools/sample-group-charter).__*
-__*WG conveners should use this document to discuss different aspects of their work, build a shared understanding of the ways of working and adapt this document for their respective WGs.*__
+__*Working Group conveners should use this document to discuss different aspects of their work, build a shared understanding of the ways of working and adapt this document for their respective Working Groups.*__
 
 ## *The Turing Way* Working Group Charter: [GROUP's NAME HERE]
 
 ### Purpose
 
 ```
-This section should articulate the purpose and needs co-developed by the WG.
+This section should articulate the purpose and needs co-developed by the Working Group.
 It should also provide context for how the group intends to fulfil its purpose by addressing specific challenges and needs.
 ```
 
-The [GROUP's NAME HERE] is a collaborative space for WG members to prioritize challenges, create a roadmap, and openly share them on GitHub repositories (such as issues on *The Turing Way* main repo or a dedicated repo for the WG).
+The [GROUP's NAME HERE] is a collaborative space for Working Group members to prioritize challenges, create a roadmap, and openly share them on GitHub repositories (such as issues on *The Turing Way* main repo or a dedicated repo for the Working Group).
 
-The WG keeps the project delivery team informed and invites their input or support when needed.
+The Working Group keeps the Steering Committee informed of its activities and invites their input or support when needed via its Steering Committee delegate.
 
-Additionally, the WG engages with the broader community, inviting their participation and feedback on their work. This includes selecting the best course of action in the projects the WG undertakes. 
-The WG also considers alternatives suggested by WG members, community members, and the project delivery team in the context of community goals, current issues, concerns, and competing interests or preferences.
+Additionally, the Working Group engages with the broader community, inviting their participation in the Working Group and feedback on their work. This includes selecting the best course of action in the projects the Working Group undertakes. 
+The Working Group also considers alternatives suggested by Working Group members, community members, and the Steering Committee in the context of community goals, current issues, concerns, and competing interests or preferences.
 
 ### Roles and Responsibilities
 
-#### Structure of the WG
+#### Structure of the Working Group
 
 *Guidance and recommendations are provided in the {ref}`governance roles and responsibilities<ch-gov-roles>` chapter.*
 
 - Chairs: [NAMES]
 - Documentarian: [NAMES]
 - `Add other roles here`
-- Delivery Team Contact: [NAME]
+- Steering Council Delegate: [NAME]
 - Members at large: [NAMES]
 
 ```
 Describe the responsibilities of all roles following the guidance document.
-Provide links to resources and additional information WG members should have access to.
+Provide links to resources and additional information Working Group members should have access to.
 ```
 
 ### Responsibilities for Chair and Co-Chairs:
