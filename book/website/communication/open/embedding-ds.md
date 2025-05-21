@@ -81,7 +81,7 @@ Depending on existing knowledge, teaching may need to focus on:
 * Applying problem-solving methods at a higher level of abstraction
 * Developing a fundamental understanding of AI topics
 
-```[figure} ../../figures/kandlhofer-2016.*
+```{figure} ../../figures/kandlhofer-2016.*
 ---
 height: 500px
 label: kandlhofer-2016
