@@ -1,7 +1,7 @@
-(cm-website-frameworks=)
+(cm-website-frameworks)=
 # Frameworks
 
-(cm-website-frameworks-what=)
+(cm-website-frameworks-what)=
 ## What is a framework?
 
 In website development, a framework is a set of pre-written code, tools, and
@@ -12,7 +12,7 @@ process and promote best practices. They essentially "frame" the development by
 managing basic functionalities and allowing developers to focus on the unique
 aspects of their projects rather than repetitive tasks.
 
-(cm-website-frameworks-benefits=)
+(cm-website-frameworks-benefits)=
 ## Benefits of using a framework
 
 Frameworks provide several benefits in website development:
@@ -26,7 +26,7 @@ website.
 * **Security**: Many frameworks come with built-in security features and
 updates, which help mitigate vulnerabilities.
 
-(cm-website-frameworks-list=)
+(cm-website-frameworks-list)=
 ## Popular frameworks
 
 Here, we list some commonly used frameworks. They have been
