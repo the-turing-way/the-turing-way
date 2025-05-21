@@ -29,7 +29,7 @@ images:
     tags: []
   - filename: practitioners-hub.png
     alt-text:
-    alt-text-long: >- 
+    alt-text-long: >-
       A handrawn image by Scriberia artist of the Turing Way Practitioner's Hub, in greyscale plus bright pink. Various different scenes are scattered around a central bubble with text saying "The Turing Way Practitioner Hub". From the top left corner of the image - one dark haired person is driving a lightbulb car with a speech bubble saying "Accelerated Problem Solving". An arm holding a spanner is next to the text "Skill building". Two people are in conversation next to the text "Share Challenges and Solutions". A zigzag abstract location map encircles "Improve Ways of Working and build collaborative research around the world". Two people are collaborating at a laptop above the text "Big Team Science: Collaborative and Inclusive Research". A final person is looking at a video conference screen with the text "working with stakeholders from different sectors".
     tags: []
   - filename: open-ai.png
@@ -50,7 +50,8 @@ images:
     tags: []
   - filename: notebook-cycle.png
     alt-text:
-    alt-text-long: Screenshot of hand drawn scriberia image titled "The Notebook Cycle". Three people are depicted next to an assembly line: each labeled "Improve Narrative", "Visualisation tool", and "Edit". The three people are reviewing pages on this assembly line, which are entered from a metal pipe. Above the pipe, a person is illustrated as thinking about a paper. The end of the assembly line goes to a machine, labeled as "interactive code". A person is turning knobs on this machine, which points two three differently colored notebooks (presumably the output of this notebook cycle process).
+    alt-text-long: >-
+      Screenshot of hand drawn scriberia image titled "The Notebook Cycle". Three people are depicted next to an assembly line: each labeled "Improve Narrative", "Visualisation tool", and "Edit". The three people are reviewing pages on this assembly line, which are entered from a metal pipe. Above the pipe, a person is illustrated as thinking about a paper. The end of the assembly line goes to a machine, labeled as "interactive code". A person is turning knobs on this machine, which points two three differently colored notebooks (presumably the output of this notebook cycle process).
     tags: []
   - filename: data-wrangler.jpg
     alt-text:
