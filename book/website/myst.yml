@@ -475,6 +475,11 @@ project:
               title: Building a Webpage for Blogs
             - file: communication/blogs/blogs-personal-stories.md
               title: Personal stories - Blogs
+        - file: communication/personal-websites.md
+          title: Personal Websites
+          children:
+            - file: communication/personal-websites/personal-website-framework.md
+              title: Using Webpage Frameworks
         - file: communication/lay-summaries.md
           title: Lay Summaries
           children:
@@ -716,7 +721,9 @@ project:
           title: Research Infrastructure Roles
           children:
             - file: collaboration/research-infrastructure-roles/community-manager.md
-              title: Community Managers Overview
+              title: Research Community Managers Overview
+            - file: collaboration/research-infrastructure-roles/research-community-manager-personal-story-1
+              title: Research Community Manager Personal Story 1
             - file: collaboration/research-infrastructure-roles/data-steward.md
               title: Data Stewards Overview
             - file: >-
@@ -901,6 +908,11 @@ project:
               title: Record of Contributions
             - file: community-handbook/acknowledgement/acknowledgement-examples.md
               title: Different Contributions and Acknowledgements
+        - file: community-handbook/pathways.md
+          title: Pathways Feature
+          children:
+            - file: community-handbook/pathways/pathways-creation.md
+              title: Creating Learning Pathways
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
@@ -922,6 +934,8 @@ project:
               title: External Link Checking
             - file: community-handbook/infrastructure/infrastructure-dns.md
               title: DNS
+            - file: community-handbook/infrastructure/infrastructure-pathways.md
+              title: Pathways
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
