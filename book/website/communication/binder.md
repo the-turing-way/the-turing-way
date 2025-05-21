@@ -59,7 +59,7 @@ The cartoon below, by Juliette Taka, demonstrates one workflow a that scientist 
 ---
 name: binder_comic
 alt: Illustration showing the steps Jane takes to make her computational research reproducible using Jupyter Notebooks and Binder.
-Step 1: Jane, seated at her computer, writes a paper based on her experiments. She describes her work in a Jupyter Notebook, combining prose, code, visualisations, and additional resources (e.g., source code, data, media). She wants others to be able to reproduce, check, and improve her calculations.
+Step 1: Jane, seated at her computer, writes a paper based on her experiments. She describes her work in a Jupyter Notebook, combining prose, code, visualisations, and additional resources (for example, source code, data, media). She wants others to be able to reproduce, check, and improve her calculations.
 Step 2: She publishes her notebook and resources to a public repository (e.g., GitHub, GitLab, Bitbucket).
 Step 3: She makes the repository Binder-ready by adding configuration files that describe the software environment needed to run the notebook.
 Step 4: The globe is surrounded by people accessing the notebook—everyone can now run and reproduce her computations from anywhere.
