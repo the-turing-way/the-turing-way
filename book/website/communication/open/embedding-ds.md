@@ -17,7 +17,7 @@ simply as “a student without a background in data science or AI”.
 ```
 Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise [@Jiang2022datascience](Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice [@Estrellado2020data](Estrellado et al., 2020) and research [@McFarland2021education](McFarland et al., 2021).
 
-```{figure}book/website/figures/data-science.*
+```book/website/figures/data-science.*
 ---
 height: 500px
 label: first-pull-request
@@ -81,10 +81,10 @@ Depending on existing knowledge, teaching may need to focus on:
 * Applying problem-solving methods at a higher level of abstraction
 * Developing a fundamental understanding of AI topics
 
-```{figure}book/website/figures/kandlhofer-2016.*
+```book/website/figures/kandlhofer-2016.*
 ---
 height: 500px
-label: first-pull-request
+label: kandlhofer-2016
 alt: >
  A flowchart visualising the structure of foundational AI and computer science topics, using color-coded boxes connected by arrows to show progression and relationships.
  Top row (left to right): Light blue box labeled Automata with bullets:
