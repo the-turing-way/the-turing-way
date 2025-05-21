@@ -17,7 +17,7 @@ simply as “a student without a background in data science or AI”.
 ```
 Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise [@Jiang2022datascience](Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice [@Estrellado2020data](Estrellado et al., 2020) and research [@McFarland2021education](McFarland et al., 2021).
 
-```book/website/figures/data-science.*
+```{figure} ../../figures/data-science.*
 ---
 height: 500px
 label: data-science
