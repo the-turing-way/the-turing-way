@@ -35,7 +35,7 @@ If you are relying on various resources from the internet during such a build wh
 
 Container or VM images alone do not provide useful insight into what a particular piece of logic in a chain of inference is nor why it was made.
 
-###  Balancing stability & verifiability with rapid threat response
+### Balancing stability & verifiability with rapid threat response
 
 In cases where your systems are exposed to the open internet getting the latest security patches to your operating system is desirable.
 However there are cases where you do not want the latest updates.
