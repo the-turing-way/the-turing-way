@@ -36,7 +36,7 @@ website using low-code or high-code options.
 * [Wordpress](https://wordpress.com/support/five-step-website-setup/)
 * [Ghost](https://ghost.org/resources/building/)
 
-### Pro-code/High-Code frameworks
+### High-Code frameworks
 
 * [Jekyll](https://jekyllrb.com/)
 * [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
