@@ -34,8 +34,8 @@ website using low-code or high-code options.
 * [Ghost](https://ghost.org/resources/building/)
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * The repository [`rzashakeri/beautify-github-profile`](https://github.com/rzashakeri/beautify-github-profile) has instructions and advice to customise your GitHub profile.
-* [Wix](https://learnxinyminutes.com/)
 * [Squarespace](http://squarespace.com)
+* [Wix](https://learnxinyminutes.com/)
 
 ### High-Code frameworks
 
