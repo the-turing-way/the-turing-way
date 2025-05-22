@@ -128,7 +128,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/457628?v=4",
       "profile": "http://erambler.co.uk/",
       "contributions": [
-        "doc"
+        "doc",
+        "bug",
+        "infra"
       ]
     },
     {
@@ -257,7 +259,8 @@
         "ideas",
         "doc",
         "review",
-        "eventOrganizing"
+        "eventOrganizing",
+        "content"
       ]
     },
     {
@@ -1813,7 +1816,8 @@
       "profile": "https://remi-gau.github.io/",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "infra"
       ]
     },
     {
@@ -5028,6 +5032,136 @@
       "profile": "http://huixinng.com",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "DiegoOLopez",
+      "name": "Diego O Lopez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92211663?v=4",
+      "profile": "https://github.com/DiegoOLopez",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "agoose77",
+      "name": "Angus Hollands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1248413?v=4",
+      "profile": "https://oieltd.com",
+      "contributions": [
+        "content",
+        "bug"
+      ]
+    },
+    {
+      "login": "rowanc1",
+      "name": "Rowan Cockett",
+      "avatar_url": "https://avatars.githubusercontent.com/u/913249?v=4",
+      "profile": "http://row1.ca",
+      "contributions": [
+        "bug",
+        "infra",
+        "platform"
+      ]
+    },
+    {
+      "login": "MarionBWeinzierl",
+      "name": "Marion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56403724?v=4",
+      "profile": "https://github.com/MarionBWeinzierl",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "ahkrook",
+      "name": "ahkrook",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167080825?v=4",
+      "profile": "https://github.com/ahkrook",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "afuetterer",
+      "name": "Heinz-Alexander Fuetterer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35225576?v=4",
+      "profile": "https://github.com/afuetterer",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "vrajesh-daga",
+      "name": "vrajesh-daga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/201659831?v=4",
+      "profile": "https://github.com/vrajesh-daga",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SydneyAmbrose",
+      "name": "SydneyAmbrose",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144704015?v=4",
+      "profile": "https://github.com/SydneyAmbrose",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Avaga123",
+      "name": "Avaga123",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112536906?v=4",
+      "profile": "https://github.com/Avaga123",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Nagabharan1",
+      "name": "Nagabharan1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72192695?v=4",
+      "profile": "https://github.com/Nagabharan1",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Cedeli",
+      "name": "Ced",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96904745?v=4",
+      "profile": "https://github.com/Cedeli",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tongyu0924",
+      "name": "tongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119610311?v=4",
+      "profile": "https://github.com/tongyu0924",
+      "contributions": [
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "bakhshir",
+      "name": "Rena Bakhshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16703268?v=4",
+      "profile": "https://github.com/bakhshir",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "cecibaldoni",
+      "name": "Cecilia Baldoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111133332?v=4",
+      "profile": "https://github.com/cecibaldoni",
+      "contributions": [
+        "content"
       ]
     }
   ],

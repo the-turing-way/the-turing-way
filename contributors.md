@@ -1,3 +1,5 @@
+# Record of Contributions
+
 Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 We recognise all these contributions and acknowledge our community members fairly.
 For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors)).
@@ -22,29 +24,6 @@ This record can be used in your personal or professional portfolio (profile, CV,
 
 *The Turing Way* Project Delivery Staff are project and community members who work on the project in a paid capacity such as through employment.
 
-### Kirstie Whitaker
-
-* Role: Tools, Practices and Systems (TPS) Director, The Alan Turing Institute
- * Project Delivery Team member, Project Lead Investigator (2019-Present)
- * Book Dash Organiser: 2019-2020
-* GitHub id: [kirstiejane](http://github.com/kirstiejane)
-* ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
-* Short bio:
-> I'm the lead of the Tools, Practices and Systems (TPS) Research Programme at the Alan Turing Institute.
-I have a PhD in Neuroscience from the University of California at Berkeley and conducted my postdoctoral research at the University of Cambridge in the Brain Mapping Unit.
-I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
-
-* Personal highlights:
-> I am the lead of _The Turing Way_.
-> I've done a lot of advocacy for changing research culture to make our work more efficient and effective, and I've noticed that we need to address the power structures in academia if we are to truly make research reproducible by default.
-> I'm excited to build the Turing Way to both inspire the people who DO the research to make all their outputs as accessible as possible and to nudge everyone else in the ecosystem to care about the work required to do so.
-
-* More information:
-> I'm passionate about the concept of making science "open for all".
-> I take that to mean we should share all of our outputs - the data, code and protocols that we develop - whether they're "significant" or not.
-> But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and am particularly passionate about improving the ways we reward collaborative and supportive working.
-> Finally, I'd like to pivot to having the data science project be developed in the open from the beginning and with a decision-making governance process that is inclusive and community-led.
-
 ### Malvika Sharan
 
 * Role: Senior Researcher - Open Research, The Alan Turing Institute
@@ -64,6 +43,34 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
 > Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://book.the-turing-way.org/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
 > I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
+
+### Arielle Bennett
+
+* Role: Senior Researcher - Open Source Practices, The Alan Turing Institute
+  * Project Delivery Team member (2024-Present)
+  * Book Dash Planning Committee (2021-Present)
+* GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
+* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
+
+* Short bio:
+> Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
+
+* Personal highlights:
+> Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
+> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
+> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
+> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
+> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
+> In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
+> In **2023 Book Dashes** I've enjoyed exploring my creative side with writing, and seeing everyone's first contributions. I've also helped to revise parts of the Guide for Project Design.
+> In **2024 Book Dashes** I've hosted discussions on culture change models, reviewed a lot of PRs and broadened our timezone coverage with late night sessions for folks in the Americas. 
+
+* More information:
+> The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
+
+* Personal Quote:
+> It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
+> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
 
 ### Anne Lee Steele
 
@@ -98,38 +105,35 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Personal Quote:
 > As a new member, I am eager to get to know the community and explore new spaces of collaboration within the creative sector.
 
-### Arielle Bennett
+## Founder
 
-* Role:
-  * Core Member, Book Dash Planning Committee (2021-2023)
-  * TPS Staff (2020-Present), Project Delivery Team member
-  * Book Dash Participant (2020)
-* GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
-* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
+The project was founded in 2019 by Kirstie Whitaker at The Alan Turing Institute.
 
+### Kirstie Whitaker
+
+* Role: Tools, Practices and Systems (TPS) Director, The Alan Turing Institute
+ * Project Delivery Team member, Project Lead Investigator (2019-Present)
+ * Book Dash Organiser: 2019-2020
+* GitHub id: [kirstiejane](http://github.com/kirstiejane)
+* ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
 * Short bio:
-> Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
+> I'm the lead of the Tools, Practices and Systems (TPS) Research Programme at the Alan Turing Institute.
+I have a PhD in Neuroscience from the University of California at Berkeley and conducted my postdoctoral research at the University of Cambridge in the Brain Mapping Unit.
+I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Personal highlights:
-> Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
-> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
-> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
-> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
-> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
-> In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
-> In **2023 Book Dashes** I've enjoyed exploring my creative side with writing, and seeing everyone's first contributions. I've also helped to revise parts of the Guide for Project Design.
-> In **2024 Book Dashes** I've hosted discussions on culture change models, reviewed a lot of PRs and broadened our timezone coverage with late night sessions for folks in the Americas. 
+> I am the lead of _The Turing Way_.
+> I've done a lot of advocacy for changing research culture to make our work more efficient and effective, and I've noticed that we need to address the power structures in academia if we are to truly make research reproducible by default.
+> I'm excited to build the Turing Way to both inspire the people who DO the research to make all their outputs as accessible as possible and to nudge everyone else in the ecosystem to care about the work required to do so.
 
 * More information:
-> The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
-
-* Personal Quote:
-> It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
-> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
-
+> I'm passionate about the concept of making science "open for all".
+> I take that to mean we should share all of our outputs - the data, code and protocols that we develop - whether they're "significant" or not.
+> But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and am particularly passionate about improving the ways we reward collaborative and supportive working.
+> Finally, I'd like to pivot to having the data science project be developed in the open from the beginning and with a decision-making governance process that is inclusive and community-led.
 
 
-## Contributors information are listed alphabetically**
+## All contributors information are listed alphabetically
 
 <!---A--->
 ## A
@@ -1753,7 +1757,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 
 * Personal highlights:
 > Writing and working together with many people to get the {ref}`er-datahazards` Chapter published.
-> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight! 
+> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was definitely also a big highlight! 
 
 
 ### Susanna-Assunta Sansone
@@ -1888,11 +1892,22 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Zoë Turner
 
 * Role:
-  * Founder of NHS-R Community
+  * Fellow in NHS-R Community and Community Leader
 * GitHub id: [Lextuga007](https://github.com/Lextuga007)
 
-* Short bio:. 
-> I’m a Senior Data Scientist at the Midlands Decision Support Network which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. I’m a proud Senior Fellow of the NHS-R Community. I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my {distill} blog site.
+* Short bio:
+> I’m a Senior Data Scientist at the Midlands Decision Support Network which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. 
+> I've been an analyst in the NHS and public sector for over 10 years and have been an active member and now proud Fellow of the NHS-R Community helping to run its activities since 2023.
+> I also have a particular interest in Ethics, having studied Philosophy, and some of my thoughts on this, along with technical blogs, can be found on my [blog site](https://philosopher-analyst.netlify.app/).
+
 
 * Personal highlights:
-> _Adding highlight here!_
+> I started the Quarto book [NHS-R Community Way](https://nhsrway.nhsrcommunity.com/) closely following The Turing Way but used the format to document the NHS-R Community.
+> I wanted to put into the open all the detail that makes a community run where every person can be responsible and contribute, just like The Turing Way.
+> I promote The Turing Way because so much of the contributed work in it is as appropriate to analysis in the public sector as it is to research and I was consequently delighted to host a lightning talk from Sophia Batchelor at the 2024 RPySoc conference on The Turing Way.
+
+* Quote:
+> The Turing Way has been both inspirational and a support working in an open way and documenting everything. 
+> It's not just a repository of knowledge but a shining example of how a cultural shift to community ownership can transform how we get that knowledge out into the public domain where anyone can benefit from it.
+> I've learned so much about how to engage a community from The Turing Way and particularly have appreciated how GitHub issues have been used to get community input on all manner of subjects including the experiences of others in how to host events and what software has worked and why. 
+> These discussions are so often hidden and people never get a chance to contribute or miss the time it is discussed so it was enlightning to see this approach from The Turing Way and one that I've since copied in the NHS-R Community.

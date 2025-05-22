@@ -31,7 +31,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 name: ContinuousIntegration-Nov20
 alt: An illustration of how continuous integration works with multiple jobs and actions working alongside each other to feed into an illustration of steps to show merging into the main version.
 ---
-On the left: _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807). On the right: Overview diagram of the most important concepts of GitHub Actions, adapated from [morioh.com](https://morioh.com/p/aadcfe6cac57).
+On the left: _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807). On the right: Overview diagram of the most important concepts of GitHub Actions, adapted from [morioh.com](https://morioh.com/p/aadcfe6cac57).
 ```
 
 ### 2. Job

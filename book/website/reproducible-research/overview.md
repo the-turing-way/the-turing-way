@@ -28,6 +28,6 @@ Major media outlets have [reported on](https://www.theguardian.com/science/2018/
 
 In addition, "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {cite:ps}`Dirnagl2010bias`.
 
-For further reading resources on reproducibility, please check out the {ref}`Resources <rr-overview-resources>` subchapter.
+For further reading resources on reproducibility, please check out the [Resources](#rr-overview-resources) subchapter.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

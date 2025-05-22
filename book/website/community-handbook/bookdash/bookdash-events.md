@@ -26,7 +26,7 @@ We also discuss _The Turing Way_ as a project in general and what the core team 
 Most importantly, the core team goes through the contribution guideline and explains how attendees can effectively use their time at the Book Dash.
 
 The template for shared notes can be accessed in the community handbook {ref}`here<ch-template-bookdash-precall>`.
-You can read notes from the calls from the most recent book dash [here](https://hackmd.io/@turingway).
+You can read notes from the calls from the most recent book dash [here](https://hackmd.io/\@turingway).
 
 ### GitHub introduction session
 

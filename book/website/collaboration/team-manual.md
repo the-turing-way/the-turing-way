@@ -186,7 +186,7 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 * [Team Manual Template](https://docs.google.com/document/d/1LqGdtHg0dMbj9lsCnC1QOoWzIsnSNRTSek6i3Kls2Ik/edit)
 
 ## Credit
-This summary is based on an [X (formerly Twitter) Thread by @samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
+This summary is based on an [X (formerly Twitter) Thread by \@samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
 
 (cl-team-manual-resources)=
 ## Additional Resources on improving Research Culture

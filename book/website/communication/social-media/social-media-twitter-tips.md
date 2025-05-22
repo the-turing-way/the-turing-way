@@ -85,7 +85,7 @@ By default, regular messages on X are visible to the whole world, including (via
 * List — A list of X users that can be public (followed by anyone) or private.
 * Lists can be used to follow accounts that tweet about specific topics, but which you don’t want to follow yourself.
 * Live-tweeting — Tweeting short summaries of an event, for example of a conference talk, as it is happening.
-* Mentioning (@) — If you mention someone with their account handle (“This paper by @CaAl is great”), your tweet will show up in their notifications.
+* Mentioning (@) — If you mention someone with their account handle (“This paper by \@CaAl is great”), your tweet will show up in their notifications.
 * Notifications — Tweets that mention you and replies, retweets and likes for your tweets.
 * Quote-tweet — Sharing a tweet by someone else in a quote, while adding your comments.
 * Retweet (RT) — Sharing a tweet that was originally made by someone else.

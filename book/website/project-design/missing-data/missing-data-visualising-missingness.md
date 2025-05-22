@@ -8,7 +8,7 @@ Make as many copies of this file as you need for all your subchapters
 (pd-missing-data-visualising-missingness)=
 # Visualising Missingness
 
-Visualisation techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce *a few* visualisation tools for [python](pd-missing-data-visualising-missingness-python) and for [R](pd-missing-data-visualising-missingness-r). Lastly, we will use some of these tools to show simulated visualisations of the fictional dataset with all three types of data missingness, as introduced in {ref}`pd-missing-data-structures`. If you would like to try the below visualisations, please recreate the  example dataset (introduced in {ref}`pd-missing-data-structures`) in a file, which here we call "FictionalDataset.csv". 
+Visualisation techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce *a few* visualisation tools for [python](#pd-missing-data-visualising-missingness-python) and for [R](#pd-missing-data-visualising-missingness-r). Lastly, we will use some of these tools to show simulated visualisations of the fictional dataset with all three types of data missingness, as introduced in {ref}`pd-missing-data-structures`. If you would like to try the below visualisations, please recreate the  example dataset (introduced in {ref}`pd-missing-data-structures`) in a file, which here we call "FictionalDataset.csv". 
 
 ```{note}
 For simplicity we will be using all functions with their default parameters. However, all the functions presented have many input variables to allow for further customisation and tailoring. 
@@ -36,8 +36,6 @@ import missingno as msno
 # loading in dataset
 df_fictional_dataset = pd.read_csv("FictionalDataset.csv", header = 0, index_col = 0)
 ```
-<!-- 
-TODO: alttext -->
 
 (pd-missing-data-visualising-missingness-python1)=
 ### 1. Nullity Matrix 
@@ -48,11 +46,11 @@ msno.matrix(df_fictional_dataset)
 ---
 height: 400px
 name: msno-matrix
-alt: 
+alt: A nullity matrix plot generated using the `missingno` Python package, visualising missing data in our fictional dataset. Each column represents a variable (Age, Diastolic Blood Pressure, Systolic Blood Pressure, Blood Test Result, Motor Score and Cognitive Score), and each row corresponds to a data entry. Present values are shown as solid dark grey blocks, while missing values are shown as white gaps. On the right side, a vertical sparkline summarises the number of non-missing values in each row, allowing a quick visual comparison of how complete each row is.
 ---
 Nullity matrix of our fictional dataset, produced via the missingno python package. 
 ```
-Data entries with missing data are indicated by white, while all complete entries are shaded a dark grey. At the right of the plot there is a sparkline which summarises data completeness by row. In this instance the 3rd row has the most missing data (only 2 complete entires), while the 4th and 5th rows are the most complete (no missing entries).
+Data entries with missing data are indicated by white, while all complete entries are shaded a dark grey. At the right of the plot there is a sparkline which summarises data completeness by row. In this instance, the 3rd row has the most missing data (only 2 complete entries), while the 4th and 5th rows are the most complete (no missing entries).
 
 
 (pd-missing-data-visualising-missingness-python2)=
@@ -64,7 +62,7 @@ msno.bar(df_fictional_dataset)
 ---
 height: 400px
 name: msno-bar
-alt: 
+alt: Bar plot showing the number of non-missing (complete) values per variable in a fictional dataset, created using the `missingno` Python package. Each bar represents a column in the dataset: Age, Diastolic Blood Pressure, Systolic Blood Pressure, Blood Test Result, Motor Score and Cognitive Score. The height of each bar corresponds to the proportion of complete entries (left y-axis), while absolute counts are labelled at the top of each bar (for example, Age and Motor Score both have all 8 values present). 
 ---
 Barplot of the nullity per column of our fictional dataset, produced via the missingno python package. 
 ```
@@ -79,7 +77,7 @@ msno.heatmap(df_fictional_dataset)
 ---
 height: 400px
 name: msno-heatmap
-alt: 
+alt: Heatmap showing pairwise correlations in missingness between variables in a fictional dataset, created using the missingno Python package. Cells are colour-coded from dark blue (perfect positive correlation) to red (perfect negative correlation), with white representing no correlation. Systolic and Diastolic Blood Pressure have a perfect correlation of 1, indicating they are always missing together. Cognitive Score shows a moderate positive correlation (0.5) with both blood pressure variables, meaning it tends to be missing when they are. Blood Test Result shows weak negative correlations (−0.1) with the other variables. A vertical colour bar on the right maps the correlation values from −1 to 1.
 ---
 Pairwise nullity correlation heatmap of our fictional dataset, produced via the missingno python package.
 ```
@@ -95,7 +93,7 @@ msno.dendrogram(df_fictional_dataset)
 ---
 height: 400px
 name: msno-dendrogram
-alt: 
+alt: Dendrogram plot showing hierarchical clustering of missingness patterns across variables in a fictional dataset, created using the missingno Python package. The horizontal axis lists variables: Motor Score, Age, Blood Test Result, Systolic Blood Pressure, Diastolic Blood Pressure, and Cognitive Score. Vertical branches reflect how similarly variables tend to be missing. Motor Score and Age are joined at a distance of zero, indicating identical missingness patterns. Diastolic and Systolic Blood Pressure are also tightly clustered, while Cognitive Score branches from them at a greater distance (~1.3), suggesting partial but not perfect correlation. Blood Test Result is more weakly linked, joining at a higher level.
 ---
 Nullity correlation dendrogram of our fictional dataset, produced via the missingno python package.
 ```
@@ -146,7 +144,7 @@ gg_miss_upset(fictional_dataset)
 ---
 height: 500px
 name: gg-miss-upset
-alt: 
+alt: UpSet plot visualising intersections of missing data across variables in a fictional dataset, generated using the `gg_miss_upset` function in R. On the left, horizontal bars show the total number of missing values (set size) per variable. On the right, vertical bars indicate the number of observations with shared missingness across combinations of variables (intersection size). The largest intersection shows 2 observations missing both Diastolic and Systolic Blood Pressure. Other bars show individual missingness in variables such as Cognitive Score or Blood Test Result. Beneath the bars, a dot matrix identifies which variables are involved in each intersection.
 ---
 A bar plot showing the number of intersections of missing values between different variables. The total number of missing values in a given variable are shown by the set size bar plot in the bottom left corner of the figure. A table under the main bar plot shows the intersecting variables for a given bar. 
 
@@ -158,7 +156,7 @@ A bar plot showing the number of intersections of missing values between differe
 gg_miss_fct(x = fictional_dataset, fct = Blood.Test.Result)
 ```
 
-This function works slightly differently to the one introduced in the Python subsection. It shows the number of missing values per variable and per given value in a specified categorical variable. In this instance, the plot shows the number of missing values for every possible blood test result value (negative, positive, or missing). This could be helpful to visualise if missingness is associated with the value of a specific categorical variable (there is no relationship in our example dataset). For instance, men are less likely to fill a depression survey; this would be immediately evident if population survey data was visualised with this function against gender. 
+This function works slightly differently from the one introduced in the Python subsection. It shows the number of missing values per variable and per given value in a specified categorical variable. In this instance, the plot shows the number of missing values for every possible blood test result value (negative, positive, or missing). This could be helpful to visualise if missingness is associated with the value of a specific categorical variable (there is no relationship in our example dataset). For instance, men are less likely to fill out a depression survey; this would be immediately evident if population survey data was visualised with this function against gender. 
 
 (pd-missing-data-visualising-missingness-r4)=
 ### 4. Beyond Pairwise Nullity Correlations
@@ -176,7 +174,7 @@ fictional_dataset %>%
   prp(type = 4, extra = 0, prefix = "Prop. Miss = ", roundint=FALSE)
 ```
 
-This function models missingness uses decision trees to predict the proportion of missingness in one variable, using all other variable values. For our example dataset, the results of this function are uninspiring (just one node), however this function would be incredibly useful in a much larger dataset. 
+This function models missingness using decision trees to predict the proportion of missingness in one variable, using all other variable values. For our example dataset, the results of this function are uninspiring (just one node), however this function would be incredibly useful in a much larger dataset. 
 -->
 
 ```R
@@ -192,7 +190,7 @@ ggplot(fictional_dataset,
 ---
 height: 400px
 name: geom-miss-point
-alt: 
+alt: Scatterplot showing Diastolic Blood Pressure (y-axis) against Motor Score (x-axis), created using `geom_miss_point()` from the `naniar` R package. Each point represents an individual in the dataset. Blue points indicate complete (non-missing) values, while red points represent observations with missing Diastolic Blood Pressure. Missing values are plotted at a position 10% lower than the minimum observed value for that variable, allowing them to be visualised without being removed. The plot shows that individuals with higher Motor Scores are more likely to have missing blood pressure readings.
 ---
 A scatterplot of diastolic blood pressure against motor score. Any missing values are plotted at 10% less than the smallest value of a given feature and are colored in red.
 ```
@@ -212,7 +210,7 @@ ggplot(fictional_dataset,
 ---
 height: 400px
 name: geom-miss-point-age
-alt: 
+alt: Scatterplot displaying Cognitive Score (y-axis) against Age (x-axis), created using `geom_miss_point()` from the `naniar` R package. Each point represents an observation in the dataset. Blue points indicate complete data, while red points mark missing values for the Cognitive Score, positioned at 10% below the minimum observed score to make them visible. The plot shows that individuals over age 80 are more likely to have missing cognitive scores (although this pattern results from how the fictional dataset was constructed).
 ---
 A scatterplot of cognitive score against age. Any missing values are plotted at 10% less than the smallest value of a given feature and are colored in red. 
 ```

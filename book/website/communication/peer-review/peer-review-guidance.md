@@ -90,13 +90,13 @@ This summary provides the author an indication of the clarity of their paper.
 3. If the invitation asks you to provide a general recommendation, state it early in the review.
 The recommendation is the first thing the editor wants to know.
 Typically, you are invited to recommend ‘reject’, ‘revise & resubmit’ – with major or minor revisions, or ‘accept’. 
-  - Major revisions are needed when the conclusions are jeopardized by concerns or the usefullness of the data is limited. 
+  - Major revisions are needed when the conclusions are jeopardized by concerns or the usefulness of the data is limited. 
   Examples are problems with the applied methods, analyses, or the reasoning. 
   Reviewers should indicate the seriousness of the major concern and how it could be addressed. 
   If the concern cannot be addressed it may be better to 'reject' the work. 
   Only suggest additional analyses or testing only when the conclusions of the study are otherwise undermined - otherwise they can be addressed in a future paper. 
   - Minor revisions are needed to improve the clarity of the paper. 
-  Minor revisions can include additional citations, addition of details regarding the method, change in title or abstract to reflect the paper content, whether figures are clear, necessairy and in correspondence with the text and any presentation issues (spelling errors, wording). 
+  Minor revisions can include additional citations, addition of details regarding the method, change in title or abstract to reflect the paper content, whether figures are clear, necessarily and in correspondence with the text and any presentation issues (spelling errors, wording). 
 4. Use ‘reject’ only if absolutely necessary.
 Most journal editors make use of desk-rejection if the paper seems a poor fit; if the editor sent the paper out for review, she probably thinks it has the potential to be published.
 Start from the assumption that the authors have invested a great deal of time in the paper and that they want to improve it. 

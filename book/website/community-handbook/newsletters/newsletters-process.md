@@ -28,8 +28,8 @@ If working online, please keep the draft mode on for your PR or add "[WIP]" (wor
 2. Create the first draft on a shared HackMD when working with others to collaboratively write your draft before you transfer them to a GitHub branch.
 
 Here are two examples of HackMDs:
-- Malvika's first draft: https://hackmd.io/@malvikasharan/tw-newsletter
-- Anne's first draft (April 2022): https://hackmd.io/@aleesteele/ttw-newsletter-apr-22.
+- Malvika's first draft: https://hackmd.io/\@malvikasharan/tw-newsletter
+- Anne's first draft (April 2022): https://hackmd.io/\@aleesteele/ttw-newsletter-apr-22.
 
 ### Collect items for the newsletter as bullet points
 
@@ -39,7 +39,7 @@ Based on what we currently publish, collect information from the listed resource
 
 * **News from the community**:
   - Check X (formerly Twitter) for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
-  - Check Mastodon for updates on the [official account](https://fosstodon.org/@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
+  - Check Mastodon for updates on the [official account](https://fosstodon.org/\@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
   - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
@@ -124,6 +124,6 @@ Here are the steps for publishing the newsletter draft online and sending it by 
  **It's published, now what?**
 
 - Update the index table in the [README.md file](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
-- Tweet about it from [@turingway](https://twitter.com/turingway).
+- Tweet about it from [\@turingway](https://twitter.com/turingway).
 - Send a notification on [Gitter](https://gitter.im/the-turing-way/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)
