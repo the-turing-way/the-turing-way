@@ -185,6 +185,8 @@ project:
               title: Virtual Machines
             - file: reproducible-research/renv/renv-containers.md
               title: Containers
+            - file: reproducible-research/renv/renv-considerations-limitations.md
+              title: Considerations for choosing and limitations of reproducible environment tools
             - file: reproducible-research/renv/renv-resources.md
               title: Resources and Checklist
         - file: reproducible-research/binderhub.md
