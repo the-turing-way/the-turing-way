@@ -1,3 +1,4 @@
+(renv-considerations)=
 # Considerations for choosing and limitations of reproducible environment tools
 
 This chapter has covered a number of different tools / technologies for describing, capturing and sharing computational environments.
