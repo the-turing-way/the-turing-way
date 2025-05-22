@@ -63,7 +63,7 @@ Many researchers in low-resource settings may lack access to advanced training i
 Collaborations with local universities, research institutes, and even global organisations can enable these training sessions, while online courses and open educational resources (OERs) offer affordable learning alternatives.
 To ensure that knowledge is widely distributed, train-the-trainer initiatives could create a network of local experts who can then pass on reproducibility skills within their institutions and regions.
 
-Affordable and open-access tools are another critical aspect of improving reproducibility. Researchers can use open-source software like R, Python, and JASP for data analysis, along with platforms like GitHub for version control. 
+Affordable and open-access tools are another critical aspect of improving reproducibility. Researchers can use open-source software like R, Python, and JASP for data analysis, along with platforms like GitHub or Gitlab for version control. 
 These tools offer the capabilities of proprietary software without the financial burden usually associated with computational tools.
 
 Likewise, using online data repositories such as the Open Science Framework (OSF) or Zenodo helps researchers adhere to FAIR (Findable, Accessible, Interoperable, Reusable) data principles, ensuring their data can be accessed, shared, and reused in future research. 
