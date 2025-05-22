@@ -42,7 +42,7 @@ Vagrant.configure("2") do |config|
   # Install pip
   dnf install -y python3-pip
   # Install build dependencies
-  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/website/requirements.txt
+  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/website/dependencies.lock
   SCRIPT
 
   # Run the script using the shell provisioner
