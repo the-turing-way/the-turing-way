@@ -1,54 +1,44 @@
-# After the Book Dash
+(ch-bookdash-hubs)=
+# Book Dash Hubs
 
-Our Book Dash attendees begin to introduce their perspectives and skills into the project at the Book Dash.
-These participants go on to join our global community of contributors.
+Organisers of the Book Dash aim to support in-person, hybrid and remote participation.
 
-We invite our attendees to contribute in any capacity that is most suitable for their interests and availability.
-Also, we share with them some ways they can stay connected and keep contributing to the project.
+Previous Book Dashes have been organised for in-person participation in venues located in the UK (the originating country of the project) and the Netherlands, as hybrid events, or entirely online.
 
-## Joining the ongoing efforts
+**For participants attending a Book Dash in person:** 
+* All the participants who need to travel to the event's venue are offered financial support to cover their travel, accommodation, and related expenses such as childcare or special accessibility requirements.
+* In the past, due to the funding model of _The Turing Way_, we had to limit our selection to contributors within European countries.
 
-With every new effort initiated by our members, we gain new insights to improve our global outreach.
-These efforts often start in our [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues) section.
-These are good places to begin new discussions by creating a new issue or join the ongoing discussion by commenting on an issue.
-If our contributors want to start to get to know the project or want to return after a long break, they can begin with our good first issues.
-If they have a new idea that they would like to add to the project as a new section in an existing chapter, or as a whole new chapter, they can start by creating a new issue.
+**For participants attending a Book Dash remotely:** 
+* We have experimented with hybrid (partial remote) participation where one of the participants coordinated with their team remotely.
+Based on the success of this hybrid format and further demand for more remote participation, we have had two virtual events that did not involve travel.
+In the future, we aim to experiment with a multi-hub format allowing multiple small groups across the globe to meet in person as they work synchronously with other international contributors remotely.
+* Financial support is made available to support the remote accessibility requirements of the participants at hybrid and fully remote Book Dashes.
+It includes (but is not limited to) temporary access to high-speed internet, childcare grants and live transcription during the event.
+These bursaries are also available for the rent or purchase of small hardware items such as headphones or webcams to enhance participants' overall experience.
+* There is also financial support for subsistence costs such as buying meals or treats for the online social events during the Book Dash.
 
-## Attend our online Collaboration Cafe and coworking calls
+## Organising a Local Hub
 
-Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesdays on each month.
-These calls are 2 hour long co-working spaces for the _The Turing Way_ community.
-Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls, you can work on ideas for a new contribution or enhancement of existing content in the project.
+As part of the wider online Book Dash event it is possible to organise local hubs that take place in person over 1–2 days in the same week as the online Book Dash. 
+In the past, these hubs have been organised at London and Bristol in the UK, as well as Amsterdam and Delft in the Netherlands.
 
-Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/\@KirstieJane/CollabCafe.
-Anyone who would like to host these calls at other times, please get in touch with the team members.
-See more details in the {ref}`Coworking Calls<ch-coworking-weekly>` chapter.
+To organise a hub, you will need to consider which days are most suitable to organise the in-person event. 
+This may depend on your availability, the availability of rooms, or events that take place during the Book Dash event. 
+For the TU Delft Hub we always organised the in-person hub on the Tuesday and the Wednesday, so that we avoid the first online day which is focused on introductions, as well as the 'scriberia' day that usually takes place on Thursday. 
+You will need to arrange or consider the following: 
 
-## Reviewing open pull requests
-
-Our contributors can help us by reviewing one of the several open pull requests based on their interests.
-They can join discussions on these pull requests or help in exploring resources that currently exist in the book.
-
-## Representing _The Turing Way_ in your community/conference
-
-If our attendees would like to represent our community, they can connect with _The Turing Way_ team for support and assistance in drafting an abstract and help them prepare to deliver a short workshop or presentation. 
-This is another contribution that can be discussed and prepared collaboratively during our Collaboration Cafe or coworking calls.
-
-## Connecting through social media
-
-Everyone is welcome to join our [Slack workspace](https://theturingway.slack.com/) for informal discussions.
-They can also sign up to receive our monthly newsletter: [https://buttondown.email/turingway/](https://buttondown.email/turingway/).
-We are on X (formerly Twitter) as [\@turingway](https://twitter.com/turingway) and Mastodon as [\@turingway\@fosstodon.org](https://fosstodon.org/\@turingway), where we send regular updates.
-We also have a page on [Linkedin](https://www.linkedin.com/company/the-turing-way/).
-
-If you have more ideas or questions about the project, the Book Dash event or something else related to our community, please feel free to reach out to the team members [theturingway@gmail.com](mailto:theturingway@gmail.com).
-
-## Reports and additional materials
-
-- All the templates related to Book Dashes are provided in the {ref}`community template collection<ch-templates>`
-- [_The Turing Way_ Report By Malvika Sharan with team members from November 2020](https://github.com/the-turing-way/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-nov20-report.md)
-- CSCCE blog post by Arielle Bennett, July 2020: [Book Dashes: Collaborative Community Events](https://www.cscce.org/2020/07/09/book-dashes-collaborative-community-events/)
-- Open Working blog post by Esther Plomp, February 2020: [The Turing Way Bookdash](https://openworking.wordpress.com/2020/02/27/the-turing-way-bookdash/)
-- [_The Turing Way_ Report By Malvika Sharan with team members from February 2020](https://github.com/the-turing-way/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-feb20-report.md)
-- [_The Turing Way_ Report By Rachael Ainsworth with team members from London 2019](https://github.com/the-turing-way/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md)
-- [_The Turing Way_ Report By Rachael Ainsworth with team members from Manchester 2019](https://github.com/the-turing-way/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md)
+- Book an event location based on the amount of registrations you will expect (maximum 20 persons, realistically speaking it will probably be more towards 10 people joining)
+- Make sure there are some snacks and drinks available
+- Consider if you want to host a dinner on one of the days - this may require budget or communication to participants that they need to cover the dinner themselves
+- Consider if there is funding available from your local institute, or any funders or other stakeholders, which could be used to cover travel/accessibility/childcare/food costs
+- Let participants sign up via the general Book Dash application form, or let them sign up separately for the local hub only
+- Ask participants about any dietary and accessibility requirements, and which (parts of the) days they would like to join
+- Inform your participants at least a week in advance about a preliminary schedule, location information and other information needed to participate in the event
+- On the day itself:
+  - Open the room up early, make sure that there are name tags available and ideally stickers to hand out
+  - Use the introduction presentation to remind people about the Code of Conduct, the schedule and anything else that first-time attendees need to know
+  - Check-in with the online Book Dash by either joining a session online, or at least adding information about what people are working on at the local hub to the etherpad
+  - Focus on facilitating the participation of the participants, not on your own contributions - hosting an event takes effort!
+  - Remind people to join the Share-out sessions on Friday
+- At the end or afterwards: Thank participants and give them the opportunity to provide feedback via a short form or via the etherpads used by the wider Book Dash event
