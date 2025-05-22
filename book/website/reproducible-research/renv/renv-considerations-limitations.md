@@ -5,7 +5,7 @@ This chapter has covered a number of different tools / technologies for describi
 Two axes of comparison on which these methods differ are:
 
  - Verifiability: the ability to inspect and understand how the environment was built, as defined in @Hinsen2018
- - Completeness how much of the environment is described and how exactly
+ - Completeness: how much of the environment is described and how exactly it is described
 
 A virtual machine (VM) image is a highly complete way to capture a computational environment but in the absence of a description of how it was built it is not particularly verifiable.
 Closed source software also inherently lacks verifiability.
