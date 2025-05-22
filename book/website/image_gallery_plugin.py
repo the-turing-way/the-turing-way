@@ -197,6 +197,7 @@ def run_transform(name, data) -> dict:
     dict
         Transformed MyST document with nodes replaced by rendered image cards.
     """
+    assert name == "transform-gallery"
     # Find custom 'image-gallery-dir' nodes
     gallery_nodes = find_all_by_type(data, "image-gallery-dir")
 
@@ -235,6 +236,7 @@ imageGalleryDirective = {
 }
 
 imageGalleryTransform = {
+    "name": "transform-gallery",
     "stage": "document",
 }
 
