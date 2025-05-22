@@ -72,7 +72,7 @@ Independent parties can take the same code build it and if they get the same res
 [Reproducible Builds](https://web.archive.org/web/20240603001422/https://reproducible-builds.org/) [@ReproducibleBuilds] is a project sharing best practices for achieving this across a number of open source software projects.
 Guix's [`challenge`](https://guix.gnu.org/manual/en/html_node/Invoking-guix-challenge.html) command exposes the ability to compare a locally built to a pre-built binary provided by a remote package cache (a 'substitute' in Guix's terminology).
 (The [attempt to introduce a backdoor into the XZ utils library](https://en.wikipedia.org/w/index.php?title=XZ_Utils_backdoor&oldid=1226548252) is an interesting case study into the intricacies of these sorts of attacks and the limits of technical measures for protecting such codebases.)
-
+(renv-considerations-completeness)=
 ## Completeness
 
 There are more or less complete ways to describe a computational environment.
