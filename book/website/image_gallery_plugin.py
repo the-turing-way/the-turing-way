@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import sys
 import json
-import yaml
+import tomllib
 import traceback
 import argparse
 from pathlib import Path
@@ -11,7 +11,7 @@ from unist import *
 # --- Path Configuration ---
 SCRIPT_DIR = Path(__file__).resolve().parent
 FIGURES_DIR = SCRIPT_DIR / "figures"
-YAML_IMG_PATH = FIGURES_DIR / "images_metadata.yml"
+TOML_IMG_PATH = FIGURES_DIR / "images_metadata.toml"
 
 # --- Styling Configuration ---
 LAYOUT_STYLE = {
@@ -29,14 +29,14 @@ DEFAULT_STYLE = {
 
 
 # --- Data Loading ---
-def load_image_data(yaml_path: Path = YAML_IMG_PATH) -> list:
+def load_image_data(toml_path: Path = TOML_IMG_PATH) -> list:
     """
-    Load image metadata from a YAML file.
+    Load image metadata from a TOML file.
 
     Parameters
     ----------
-    yaml_path : pathlib.Path, optional
-        Path to the YAML file containing image metadata. Defaults to `YAML_IMG_PATH`.
+    toml_path : pathlib.Path, optional
+        Path to the TOML file containing image metadata. Defaults to `TOML_IMG_PATH`.
 
     Returns
     -------
@@ -46,20 +46,21 @@ def load_image_data(yaml_path: Path = YAML_IMG_PATH) -> list:
     Raises
     ------
     FileNotFoundError
-        If the YAML file is not found at the specified path.
+        If the TOML file is not found at the specified path.
 
-    yaml.YAMLError
-        If the YAML file cannot be parsed properly."""
-    print(f"Loading image data from {yaml_path}", file=sys.stderr, flush=True)
+    tomllib.TOMLDecodeError
+        If the TOML file cannot be parsed properly.
+    """
+    print(f"Loading image data from {toml_path}", file=sys.stderr, flush=True)
     try:
-        with yaml_path.open("r", encoding="utf-8") as f:
-            data = yaml.safe_load(f)
+        with toml_path.open("rb") as f:
+            data = tomllib.load(f)
         return data.get("images", [])
     except FileNotFoundError:
-        print(f"Error: Image data file not found at {yaml_path}", file=sys.stderr)
+        print(f"Error: Image data file not found at {toml_path}", file=sys.stderr)
         return []
-    except yaml.YAMLError as e:
-        print(f"Error parsing YAML file {yaml_path}: {e}", file=sys.stderr)
+    except tomllib.TOMLDecodeError as e:
+        print(f"Error parsing TOML file {toml_path}: {e}", file=sys.stderr)
         return []
 
 
@@ -87,12 +88,12 @@ def render_image(image_data: dict) -> dict:
         For any other unexpected error during rendering (printed to stderr).
     """
     try:
-        # Extract image data from the yaml file
+        # Extract image data from the toml file
         filename = image_data["filename"]
         alt_text = image_data.get("alt-text", "")
         tags = image_data.get("tags", [])
         image_path = FIGURES_DIR / filename
-        rel_image_path = image_path.relative_to(SCRIPT_DIR).as_posix()
+        rel_image_path = image_path.absolute().as_posix()
 
         # Build tags for the card
         tag_spans = [span([text(tag_name)], style=DEFAULT_STYLE) for tag_name in tags]
