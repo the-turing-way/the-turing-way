@@ -990,11 +990,11 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Jyoti Bhogal
 
-* Role: Book Dash participant (2024)
+* Role: Book Dash participant (2024-2025)
 * GitHub id: [jyoti-bhogal](https://github.com/jyoti-bhogal) 
 * ORCID: [0000-0002-6289-0737](https://orcid.org/0000-0002-6289-0737)
 * Short bio: 
-> I am working as a Technical Community Manager at Research Software Alliance. I have a Master’s degree in Statistics. My career journey spans roles such as a software quality engineer, data analyst, and data modeler. I am also an advocate for open-source and open science. In addition, I am the co-founder and lead of the RSE Asia Association and a recent graduate of the Community Engagement Fundamentals (CEF) course by the Center for Scientific Collaboration and Community Engagement (CSCCE). I am also an active member of several international communities such as R-Ladies Global, Open Life Science, and the International Council of RSEs. These communities have played an integral part in my professional development and inspired my current work.
+> [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/) is and [SSI 2025 Fellow](https://www.software.ac.uk/fellowship-programme/jyoti-bhogal) and is working as a Community Manager at Research Software Alliance. She has a Master’s degree in Statistics. Her career journey spans roles such as a software quality engineer, data analyst, and data modeler. She is also an advocate for open-source and open science. In addition, she is the co-founder and co-lead of the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and a graduate of the [Community Engagement Fundamentals (CEF)](https://badgr.com/public/assertions/SHsdenPsRfCIphr4pvso3A?identity__email=bhogaljyoti1@gmail.com) course by the Center for Scientific Collaboration and Community Engagement (CSCCE). She is also an active member of several international communities such as the R-Ladies Global, Open Life Science, and the International Council of RSEs. These communities have played an integral part in her professional development and inspired her current work.
  
 * Personal highlights:
 > I appreciate the welcoming and highly collaborative nature of The Turing Way Community. My experience of Book Dash was full of people ready to promptly advise/guide each other for any process-related queries. The social sessions like the meme-making workshop, Scriberia artist sessions, and the Share-outs on the event's last day were intriguing.
