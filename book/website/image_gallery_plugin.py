@@ -2,7 +2,6 @@
 import sys
 import json
 import yaml
-import concurrent.futures
 import traceback
 import argparse
 from pathlib import Path
@@ -114,14 +113,9 @@ def render_image(image_data: dict) -> dict:
         traceback.print_exception(err, file=sys.stderr)
         return None
 
-def render_images(pool) -> list:
+def render_images() -> list:
     """
-    Load image metadata and render all images concurrently using a thread pool.
-
-    Parameters
-    ----------
-    pool : concurrent.futures.Executor
-        An executor pool used to parallelize the rendering of images.
+    Load image metadata and render all images
 
     Returns
     -------
@@ -131,8 +125,9 @@ def render_images(pool) -> list:
     # Load image data if they have a filename
     images_data = [img for img in load_image_data() if "filename" in img]
     print(f"Found {len(images_data)} images to render.", file=sys.stderr, flush=True)
+    rendered_images = [render_image(data) for data in images_data]
     # Use the pool to map render_image over the list of images, filtering out any None results
-    return [img_card for img_card in pool.map(render_image, images_data) if img_card is not None]
+    return [card for card in rendered_images if card is not None]
 
 # --- MyST Directive and Transform Logic ---
 def run_directive(name: str) -> list:
@@ -174,22 +169,21 @@ def run_transform(name, data) -> dict:
     dict
         Transformed MyST document with nodes replaced by rendered image cards.
     """
-    with concurrent.futures.ThreadPoolExecutor() as pool:
-        # Find custom 'image-gallery-dir' nodes
-        gallery_nodes = find_all_by_type(data, "image-gallery-dir")
+    # Find custom 'image-gallery-dir' nodes
+    gallery_nodes = find_all_by_type(data, "image-gallery-dir")
 
-        if not gallery_nodes:
-            print("No 'image-gallery-dir' directive found in the document.", file=sys.stderr, flush=True)
-            return data
+    if not gallery_nodes:
+        print("No 'image-gallery-dir' directive found in the document.", file=sys.stderr, flush=True)
+        return data
 
-        # Render all image cards
-        children = render_images(pool)
+    # Render all image cards
+    children = render_images()
 
-        # Replace each 'image-gallery-dir' node with grid of cards
-        for node in gallery_nodes:
-            node.clear()  
-            node.update(grid([1, 1, 1, 2], children))
-            node["children"] = children
+    # Replace each 'image-gallery-dir' node with grid of cards
+    for node in gallery_nodes:
+        node.clear()  
+        node.update(grid([1, 1, 1, 2], children))
+        node["children"] = children
 
     return data
 
