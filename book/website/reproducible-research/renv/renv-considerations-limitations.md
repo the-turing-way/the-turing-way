@@ -179,7 +179,7 @@ Members of the Nix community are working on a solution to this problem based on 
 Integration with IPFS would allow for a more distributed approach to archiving.
 Instead of relying on a central repository to resolve where to find sources any node pinning the relevent sources could act as an archive from which they can be retrieved over a peer-to-peer network.
 In addition any node currently holding a copy of a source could serve it to anyone requesting it.
-
+(renv-considerations-firmware)=
 ## Firmware
 
 Firmware is software that runs on embedded devices and components such as microcontrollers.
