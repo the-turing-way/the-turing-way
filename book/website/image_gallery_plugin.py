@@ -3,13 +3,14 @@ import sys
 import json
 import tomllib
 import traceback
+import os.path
 import argparse
-from pathlib import Path
+import pathlib
 
 from unist import *
 
 # --- Path Configuration ---
-SCRIPT_DIR = Path(__file__).resolve().parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 FIGURES_DIR = SCRIPT_DIR / "figures"
 TOML_IMG_PATH = FIGURES_DIR / "images_metadata.toml"
 
@@ -29,7 +30,7 @@ DEFAULT_STYLE = {
 
 
 # --- Data Loading ---
-def load_image_data(toml_path: Path = TOML_IMG_PATH) -> list:
+def load_image_data(toml_path: pathlib.Path = TOML_IMG_PATH) -> list:
     """
     Load image metadata from a TOML file.
 
@@ -65,7 +66,7 @@ def load_image_data(toml_path: Path = TOML_IMG_PATH) -> list:
 
 
 # --- Image Rendering ---
-def render_image(image_data: dict) -> dict:
+def render_image(image_data: dict, this_dir: str) -> dict:
     """
     Render a single image as a MyST card component.
 
@@ -93,7 +94,9 @@ def render_image(image_data: dict) -> dict:
         alt_text = image_data.get("alt-text", "")
         tags = image_data.get("tags", [])
         image_path = FIGURES_DIR / filename
-        rel_image_path = image_path.absolute().as_posix()
+        rel_image_path = pathlib.Path(
+            os.path.relpath(image_path, SCRIPT_DIR / (this_dir or ""))
+        ).as_posix()
 
         # Build tags for the card
         tag_spans = [span([text(tag_name)], style=DEFAULT_STYLE) for tag_name in tags]
@@ -121,9 +124,14 @@ def render_image(image_data: dict) -> dict:
         return None
 
 
-def render_images() -> list:
+def render_images(this_dir) -> list:
     """
     Load image metadata and render all images
+
+    Parameters
+    ----------
+    this_dir : str
+        The project path of the caller
 
     Returns
     -------
@@ -200,11 +208,13 @@ def run_transform(name, data) -> dict:
         )
         return data
 
-    # Render all image cards
-    children = render_images()
-
     # Replace each 'image-gallery-dir' node with grid of cards
     for node in gallery_nodes:
+        this_dir = node.get("this-dir")
+
+        # Render all image cards
+        children = render_images(this_dir)
+
         node.clear()
         node.update(grid([1, 1, 1, 2], children))
         node["children"] = children
