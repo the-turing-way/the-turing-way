@@ -78,7 +78,7 @@
   colour: deeppink
   description: >
     Data Steward is an umbrella term for numerous support roles that involve the creation, management and usage of research data. These can be very hands-on roles involving daily data analysis or roles that are more policy and advising-focused. Data Stewards are an important part of scientific communities, supporting recommended data management practices and saving researchers time by supporting them in these efforts. Data Stewards tend to have scientific backgrounds and can have the technical skills needed to analyse and manage both data and software (see also the resources curated for Research Software Engineers). This curated set of chapters will point. Data Stewards to topics and practices important for working with data and communicating with researchers.
-- name: Research Community Management
+- name: Research Community Management - Concepts
   files:
     - reproducible-research/reproducible-research.md
     - reproducible-research/overview.md
@@ -106,7 +106,34 @@
     - community-handbook/acknowledgement.md
   colour: orange
   description: >
-    Research Community Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
+   Research Community Managers work to engage and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
+- name: Research Community Management - Operations
+  files:
+    - reproducible-research/reproducible-research.md
+    - reproducible-research/open.md
+    - reproducible-research/open/open-checklist.md
+    - project-design/project-design.md
+    - project-design/pd-design-overview/pd-checklist.md
+    - collaboration/collaboration.md
+    - collaboration/new-community/new-community-guide.md
+    - collaboration/team-manual/team-manual-on-off-boarding.md
+    - collaboration/event-tools.md
+    - collaboration/organising-meetings.md
+    - collaboration/chairing.md
+    - collaboration/coworking.md
+    - collaboration/ppie-events.md
+    - collaboration/remote-collab.md
+    - collaboration/hybrid-collab.md
+    - community-handbook/community-handbook.md
+    - community-handbook/communication-channels.md
+    - community-handbook/newsletters.md
+    - community-handbook/community-calls.md
+    - community-handbook/fireside-chat.md
+    - community-handbook/presenting.md
+    - community-handbook/templates.md
+  colour: red
+  description: >
+    Community management often requires designing processes within the community to streamline aspects of collaboration, communication, and public engagement. This curated set of chapters will allow community managers and community management enthusiasts to dive into the operational aspects of building, sustaining and expanding their communities.
 - name: Early Career Researchers
   files:
     - project-design/project-design.md
