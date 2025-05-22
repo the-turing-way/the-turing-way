@@ -100,7 +100,7 @@ Therefore, we provide multiple entry points for you to contribute based on your 
 Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others.
 They are also given mentorship opportunities in the project as they make their contributions to _The Turing Way_ or other open source projects and are encouraged to mentor new participants of the project.
 
-We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) to help you in presenting and sharing about _The Turing Way_ in your network.
+We have created a [promotion pack](https://github.com/the-turing-way/communications/tree/main/promotion-pack) to help you in presenting and sharing about _The Turing Way_ in your network.
 
 ### Citing _The Turing Way_
 

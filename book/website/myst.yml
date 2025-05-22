@@ -720,7 +720,7 @@ project:
           children:
             - file: collaboration/research-infrastructure-roles/community-manager.md
               title: Research Community Managers Overview
-            - file: collaboration/research-infrastructure-roles/research-community-manager-personal-story-1
+            - file: collaboration/research-infrastructure-roles/research-community-manager-personal-story-1.md
               title: Research Community Manager Personal Story 1
             - file: collaboration/research-infrastructure-roles/data-steward.md
               title: Data Stewards Overview
@@ -911,6 +911,8 @@ project:
           children:
             - file: community-handbook/pathways/pathways-creation.md
               title: Creating Learning Pathways
+            - file: community-handbook/pathways/pathways-example.md
+              title: Examples from Developing Pathways
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
