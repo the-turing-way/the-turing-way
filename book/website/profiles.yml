@@ -107,15 +107,13 @@
   colour: orange
   description: >
    Research Community Managers work to engage and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
-- name: Operational Community Management
+- name: Research Community Management - Operations
   files:
     - reproducible-research/reproducible-research.md
     - reproducible-research/open.md
     - reproducible-research/open/open-checklist.md
     - project-design/project-design.md
-    - project-design/project-design/pd-design-overview.md
     - project-design/pd-design-overview/pd-checklist.md
-    - project-design/pd-design-overview/project-repo.md
     - collaboration/collaboration.md
     - collaboration/new-community/new-community-guide.md
     - collaboration/team-manual/team-manual-on-off-boarding.md
