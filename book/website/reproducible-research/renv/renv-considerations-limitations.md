@@ -15,7 +15,7 @@ There are some additional considerations for completenes of description and for 
 Binary build reproducibility [@ReproducibleBuilds], bootstrapability [@nieuwenhuizenFullSourceBootstrapBuilding2023], and automated fallback to archived versions of source code [@courtesSourceCodeArchiving2024].
 
 What are our options for describing a complete and verifiable compute environments, ideally without needing to attain mastery of a number of different complex tools in order to do so?
-
+(renv-considerations-verifiability)=
 ## Verifiability
 
 ### Reproducing the images themselves
