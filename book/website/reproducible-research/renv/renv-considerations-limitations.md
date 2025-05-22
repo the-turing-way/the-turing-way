@@ -21,13 +21,13 @@ What are our options for describing a complete and verifiable compute environmen
 ### Reproducing the images themselves
 
 A container or virtual machine (VM) image once built given the same inputs will very likely give the same outputs but they are something of black box.
-Whilst they can be inspected and details of how they were built inferred this is not always easy, and not really a feature around which these technologies were designed.
-Their design came out of pragmatic considerations of capturing working computational environments to use in deployed software to keep things working in ever growing production environments.
+Whilst they can be inspected, and details of how they were built inferred, this is not always easy, and not really a feature around which these technologies were designed.
+Their design came out of pragmatic considerations for the need to capture working computational environments to use in deployed software, to keep things working in ever growing and changing production environments.
 
-This is changing, increasingly provenance, software manifests or 'bills of materials', and 'supply chain' are becoming a concern of industry.
+This is changing. Increasingly provenance, software manifests or 'bills of materials', and 'software supply chains' are becoming a concern of industry.
 This is for reasons of security and compliance with new cybersecurity regulations, so more moneyed interest is now being focused on these problems.
 
-The file specifying how the container or VM image is built for example a Dockerfile helps us to some degree as this is a record of the steps taken to build an image of an environment.
+The file specifying how the container or VM image is built, for example a Dockerfile, helps us to some degree as this is a record of the steps taken to build an image of an environment.
 However these methods can fall short in the completeness with which they capture these steps.
 
 A common example is starting a Dockerfile with `FROM ubuntu:latest`, depending on when you ran this you may get a different output.
@@ -35,40 +35,40 @@ You will get which ever version of ubuntu was the latest at the time you built t
 To reproduce this you would have to extract the version of ubuntu from the built image and specify it explicitly in the Dockerfile.
 This is also dependent on the historical version still being available to download in order to build the image.
 It is common to follow a first such as this line by up with updating the operating system in case any important patches have come out since the base image was built, this introduces another time depended aspect.
-If you are relying on various resources from the internet during such a build what is at the other end of a URL can change or disappear from one build to the next.
+If you are relying on various resources from the internet during such a build, what is at the other end of a URL can change or disappear from one build to the next.
 
-Container or VM images alone do not provide useful insight into what a particular piece of logic in a chain of inference is nor why it was made.
+Container or VM images alone do not provide useful insight into what a particular piece of logic in a chain of inference is, nor why it was made.
 
 ### Balancing stability & verifiability with rapid threat response
 
-In cases where your systems are exposed to the open internet getting the latest security patches to your operating system is desirable.
-However there are cases where you do not want the latest updates.
+In cases where your systems are exposed to the open internet, getting the latest security patches to your operating system is desirable.
+However, there are cases where you do not want the latest updates.
 Your system may be an appliance or embedded device, the exactly consistent operation of which, is safety critical for some operation.
 Any change to software on such a system must be extensively tested and potentially subject to regulatory processes before it can occur.
-Such systems may not only need to be well tested but well understood so that their behaviour can be predicted and accounted for in unusual circumstances.
+Such systems may not only need to be well tested, but well understood, so that their behaviour can be predicted and accounted for in unusual circumstances or emergencies.
 These systems are, hopefully, deeply and securely nestled in layers of protection from networked threats by firewalls which are moving fast and adapting to the latest threats or even air gaps.
 This permits them to prioritise consistency, stability, and reliability and not themselves need to adapt to the latest threats. 
 
 In academic contexts all that may be needed is the ability to re-run an analysis exactly as it was previously performed, to validate the basic reproducibility of an earlier result.
-If there is a security vulnerability in some code used in a past analysis this doesn't matter as long as it has no impact of the analysis.
+If there is a security vulnerability in some code used in a past analysis, this doesn't matter, as long as it has no impact on the analysis.
 If it can be re-run in an isolated environment it may not to be worth the time of figuring out how to update the environment to patched versions without introducing feature updates which may break the analysis code.
 
-There are plenty of online academic services where security is important and these contexts it is convenient if they are set up in such a fashion as to be able to reproduce responses would have provided at a previous point in time.
-This is also true for services of this kind operating, for example in regulated industries, where an accounting may need to be given of how and why a given output was produced at a particular point in time for legal rather than scientific reasons.
+There are plenty of online academic services where security is important, and in these contexts it is convenient if they are set up in such a fashion as to be able to reproduce responses that would have provided at a previous point in time.
+This is also true for services of this kind, for example those operating in regulated industries, where an accounting may need to be given of how and why a given output was produced at a particular point in time for legal, rather than scientific, reasons.
 
 ### Including things you do not need
 
 Another common problem here is 'packing more than you need' you might add something to your computational environment that you then never use and it's not always easy to tell what you do and do not need.
 Many of the dependencies of what runs in your environment remain implicit.
-Your base operating system is sufficient to provide the environment that you need but is all of it necessary?
+Your base operating system is sufficient to provide the environment that you need, but is all of it necessary?
 When trying to understand your environment most of these technologies leave you with a lot of noise, a lot of extra parts that may or may not be relevant.
 (This is also extra attack surface if you are taking a security lens on the problem.)
 
-### Reproducible Builds & the ability to compare against other's results
+### Reproducible builds & the ability to compare against other's results
 
 Producing a reproducible image of a computational environment is somewhat analogous to the problem of producing reproducible binary builds of compiled software.
 The ability for people to independently produce bit-for-bit identical binary builds from the same source code is a valuable feature for verifying that a cached binary build of a piece of software is what it claims to be.
-Independent parties can take the same code build it and if they get the same result attest to its correctness, this is a valuable countermeasure to the introduction of malicious code during the build process that is not in the source tree.
+Independent parties can take the same code, build it, and, if they get the same result, attest to its correctness, this is a valuable countermeasure to the introduction of malicious code during the build process that is not in the source tree.
 [Reproducible Builds](https://web.archive.org/web/20240603001422/https://reproducible-builds.org/) [@ReproducibleBuilds] is a project sharing best practices for achieving this across a number of open source software projects.
 Guix's [`challenge`](https://guix.gnu.org/manual/en/html_node/Invoking-guix-challenge.html) command exposes the ability to compare a locally built to a pre-built binary provided by a remote package cache (a 'substitute' in Guix's terminology).
 (The [attempt to introduce a backdoor into the XZ utils library](https://en.wikipedia.org/w/index.php?title=XZ_Utils_backdoor&oldid=1226548252) is an interesting case study into the intricacies of these sorts of attacks and the limits of technical measures for protecting such codebases.)
@@ -76,7 +76,7 @@ Guix's [`challenge`](https://guix.gnu.org/manual/en/html_node/Invoking-guix-chal
 ## Completeness
 
 There are more or less complete ways to describe a computational environment.
-We've seen a number of approaches to this problem in this chapter but many either miss certain aspects of an environment in its description or whilst they might capture the whole environment do so in an opaque and incompletely reproducible fashion.
+We've seen a number of approaches to this problem in this chapter, but many either miss certain aspects of an environment in its description, or whilst they might capture the whole environment, do so in an opaque and incompletely reproducible fashion.
 
 We will start by discussing the nature of the problem of dependencies in a little more depth and then move onto discussing some tools which offer more comprehensive solutions to the problem of more complete description of computational environments.
 These are functional package management tools such as [Nix](https://nixos.org/) and [Guix](https://guix.gnu.org/).
@@ -84,20 +84,20 @@ These are functional package management tools such as [Nix](https://nixos.org/) 
 ### Dependencies - a deeper look
 
 When working on an individual software project, you as the developer, will likely be paying most attention to the packages that you are using from your language's package repository.
-You may use a language specific package manager to install and manage the packages that your project needs, in python this might be `pip`.
+You may use a language-specific package manager to install and manage the packages that your project needs, in python this might be `pip`.
 It is important to remember that your project's dependencies may also have dependencies, these become transitive dependencies of your project creating a dependency tree.
-You may also use a language specific environment management tool so that you can have different projects with different versions of the same dependencies on your system at the same time, in python this might be `venv`.
+You may also use a language-specific environment management tool, so that you can have different projects with different versions of the same dependencies on your system at the same time, in python this might be `venv`.
 
 Where things start to get a bit more complicated are system dependencies.
-A package in a language may expect another tool to be installed on the system on which it is installed, for example a performant image manipulation package written in another language that it uses to perform certain tasks by the language specific package.
-Such packages are not managed by language specific package managers but by the operating system.
-On Linux based systems this is usually another package manager such as `apt`, or `dnf` for installing packages in the `deb` and `rpm` package formats respectively.
+A package in a language may expect another tool to be installed on the system on which it is installed, for example a performant image manipulation package written in another language, that it uses to perform certain tasks by the language-specific package.
+Such packages are not managed by language-specific package managers but by the operating system.
+On Linux-based systems this is usually another package manager such as `apt`, or `dnf` for installing packages in the `deb` and `rpm` package formats respectively.
 MacOS and Windows do not natively expose package management tools to the end user but tools such as [`homebrew`](https://brew.sh/) and [`chocolatey`](https://chocolatey.org/install) respectively add this functionality to these operating systems.
 
 Another source of complexity are build-time vs run-time dependencies.
-A build-time dependency is only needed whilst a piece of software is being packaged or compiled but not once it is built.
+A build-time dependency is only needed whilst a piece of software is being packaged or compiled, but not once it is built.
 The packaged or binary version requires only its run-time dependencies to be executed once built.
-A compiler for example can be a build-time dependency, once compiled the tool likely does not need a compiler to perform its function, unless it itself is a build tool.
+A compiler, for example, can be a build-time dependency, once compiled the tool likely does not need a compiler to perform its function, unless it itself is a build tool.
 
 This leads in nicely to the bootstrapping problem for software dependency trees.
 Software is written as source code but is generally distributed as pre-built packaged binaries, this saves time and resources as it only needs to built once centrally.
@@ -116,7 +116,7 @@ You can sometimes encounter situations where you need two tools installed which 
 This arises because conventionally a package has one place on your system that it is installed with a single name with which it can be invoked in a given environment.
 The name 'PackageX' can refer to only one version of that package in your environment.
 Even if you can have version 1.0 and version 2.0 of 'PackageX' installed on your system at the same time by naming them differently centrally and aliasing them to their usual name in your environment you cannot generally depend on the different versions in the same environment.
-For example: 'Tool A' requires 'PackageX' version >2.0 and 'Tool B' requires 'PackageX' version 1.0 to 1.6 you need both 'Tool A' and 'Tool B' in your project - what do you do?
+For example: 'Tool A' requires 'PackageX' version >2.0 and 'Tool B' requires 'PackageX' version 1.0 to 1.6, and you need both 'Tool A' and 'Tool B' in your project, what do you do?
 If you are using these tools at different steps of your analysis it may be possible, indeed desirable, to separate out those steps using a pipeline/workflow management tool where each step is run in its own environment with only the dependencies that it needs.
 Sometimes though your are just stuck with this problem and have no good solutions.
 
@@ -128,7 +128,7 @@ This way each tool could make reference to a different version of the same depen
 
 Described by [Eelco dolstra in his 2006 PhD thesis 'The purely functional software deployment model'](https://api.semanticscholar.org/CorpusID:8511820) [@dolstraPurelyFunctionalSoftware2006] Nix and tools adopting many of the same underlying design principles like [Guix](https://guix.gnu.org/) adopt a 'functional' approach to package management.
 Software packages in nix are called 'derivations'.
-Ideally a derivation is a 'pure' or 'referentially transparent' function meaning that they have no 'side effects', change nothing outside the function when run and their output is completely determined by their inputs.
+Ideally a derivation is a 'pure' or 'referentially transparent' function meaning that they have no 'side effects', change nothing outside the function when run, and their output is completely determined by their inputs.
 So in order to package a piece of software you have to give the derivation everything needed to build the software as an input and the build is performed in an isolated sandbox environment where it cannot access anything not explicitly included as an input to the build.
 So for example when you provide the source code to a derivation from a remote repository you also provide a hash of that code which is recorded in the derivation so it is only valid if the exact same code is given to the derivation by the remote if you attempt to rebuild it.
 
@@ -138,10 +138,10 @@ This has some excellent benefits in the long term.
 The article [Building a Secure Software Supply Chain with GNU Guix](https://doi.org/10.22152/programming-journal.org/2023/7/1) [@courtesBuildingSecureSoftware2022] goes over the uniquely robust trust architecture of this approach to software packaging.
 I will note that Thomas Depierre observed in his 2022 blog post [I am not a supplier](https://web.archive.org/web/2/https://www.softwaremaxims.com/blog/not-a-supplier) [@depierreAmNotSupplier] that conceiving of open source software as a part of the 'software supply chain' misses the crucial point that open source maintainers are not generally treated like supplies of other goods and derives would be in a supply chain and should be if you want to treat their output as a part of your supply chain.
 The functional package management approach also makes attaining reproducible binary builds throughout the 'supply chain' easier to attain [@malkaDoesFunctionalPackage2025].
-The technical robustness of this system is great for reducing the number of parties who you need to trust or the number of places untrusted parties could target but ultimately the trustworthiness of the software comes back to its maintainers and developers.
+The technical robustness of this system is great for reducing the number of parties who you need to trust or the number of places untrusted parties could target, but ultimately the trustworthiness of the software comes back to its maintainers and developers.
 If a project you depended is maintained by one person who gets burnt out and stops doing security updates it does not matter that you have a technically robust trust architecture.
 
-Funcional package managers make it possible for even complex, computationally intensive, multi-part pipelines, such as those used in genomics, which make use of tools is a variety of programming languages to have near bit for bit computational reproducibility.
+Funcional package managers make it possible for even complex, computationally intensive, multi-part pipelines, such as those used in genomics, which make use of tools is a variety of programming languages, to have near bit-for-bit computational reproducibility.
 This is exemplified by the [PiGx: Pipelines in Genomics](https://bioinformatics.mdc-berlin.de/pigx/) project [@wurmusPiGxReproducibleGenomics2018].
 
 ### Barriers to adoption
@@ -154,37 +154,37 @@ Nix package derivations are authored in the [Nix expression language](https://ni
 In order to include a package in an environment specified by one of these tools, that is not already packaged with them, you must aquire some basic facility with one of these languages and write a package derivation for the tool you want to use.
 When your software depends on something that is also not packaged you can end up needing to recursively package various dependencies.
 
-The repositories are not small, the [Nix package repository](https://search.nixos.org/packages) is the largest single collection of software packages in existence by a considerable margin ([according to repology](https://repology.org/repositories/statistics/total)), with more that 120,000 packages at time of writing, and [Guix packages](https://packages.guix.gnu.org/) has a over 30,000 but maintains stricter standards for building packages from source and only accepts free / open source software.
-Both can be extended with additional repositories, as the main repos grow, and additional repositories are created the friction to their adoption declines.
+The repositories are not small, the [Nix package repository](https://search.nixos.org/packages) is the largest single collection of software packages in existence by a considerable margin ([according to repology](https://repology.org/repositories/statistics/total)), with more that 120,000 packages at time of writing, and [Guix packages](https://packages.guix.gnu.org/) has over 30,000 but maintains stricter standards for building packages from source and only accepts free / open source software.
+Both can be extended with additional repositories, as the main repos grow, and additional repositories are created, the friction to their adoption declines.
 
 One advantage to packaging your software with these tools is that it is an excellent reference package for anyone wishing to package your software in another packaging format as all dependencies and the full build process must be fully specified in the package derivation.
-Furthermore these packages are highly portable as the Nix and Guix package managers are agnostic to the Linux distribution on which they are installed, [Nix can be installed directly on macOS](https://mynixos.com/nix-darwin), and both can be used on Windows via [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
+Furthermore, these packages are highly portable, as the Nix and Guix package managers are agnostic to the Linux distribution on which they are installed, [Nix can be installed directly on macOS](https://mynixos.com/nix-darwin), and both can be used on Windows via [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
 (renv-considerations-archive)=
 ## Building from Archival Source Code
 
 What happens if a project is abandoned and its website goes down, it moves its source code repository, is censored, or is no longer available for any reason?
 How do you rebuild a compute environment that used it then?
 
-In principle if you have kept the heavier pre-built container or VM images you don't have to deal with this issue as you've already got a working copy of the binaries that you need, though you won't be able to recreate these images.
-Functional package mangers simply need to record the list of packages and the version(s) of the package repository(s) you want them from and the environment should be fully reproducible, much lighter than a VM or container image.
+In principle if you have kept the heavier pre-built container or VM images, you don't have to deal with this issue as you've already got a working copy of the binaries that you need, though you won't be able to recreate these images.
+Functional package managers simply need to record the list of packages and the version(s) of the package repository(s) you want them from, and the environment should be fully reproducible, much lighter than a VM or container image.
 However when rebuilding that environment the cached binaries or source code needs to be retrieved from somewhere.
 
-Whilst [Software Heritage](https://www.softwareheritage.org/) has archived much of the open source code available on the major software forges making this code usable in the long term also requires that it can be built.
+Whilst [Software Heritage](https://www.softwareheritage.org/) has archived much of the open source code available on the major software forges, making this code usable in the long term also requires that it can be built.
 It would also be convenient if it were not a manual process to retrieve the archived code and rebuild from it.
 At this point in time Guix is uniquly resilient in this regard [@courtesSourceCodeArchiving2024] with [at least 85%](https://ngyro.com/pog-reports/latest/) of all its packages archived.
-Guix provides an automated mechanism by which if the primary source archive of a package is unavailable it is able to automatically fall back on software heritage's archive and securely, reproducibly rebuild the package from source.
+Guix provides an automated mechanism by which, if the primary source archive of a package is unavailable, it is able to automatically fall back on Software Heritage's archive and securely, reproducibly rebuild the package from source.
 Thus to the end user, save for a possibly slightly increased build time, there is no change to behaviour.
 
 Members of the Nix community are working on a solution to this problem based on [IPFS](https://ipfs.tech/) (see [this thread](https://discourse.nixos.org/t/obsidian-systems-is-excited-to-bring-ipfs-support-to-nix/7375) and [this post](https://blog.ipfs.tech/2020-09-08-nix-ipfs-milestone-1/)).
 Integration with IPFS would allow for a more distributed approach to archiving.
-Instead of relying on a central repository to resolve where to find sources any node pinning the relevent sources could act as an archive from which they can be retrieved over a peer-to-peer network.
+Instead of relying on a central repository to resolve where to find sources, any node pinning the relevant sources could act as an archive, from which they can be retrieved over a peer-to-peer network.
 In addition any node currently holding a copy of a source could serve it to anyone requesting it.
 (renv-considerations-firmware)=
 ## Firmware
 
 Firmware is software that runs on embedded devices and components such as microcontrollers.
 You might build a firmware 'image' on your computer and 'flash' it to a device, setting the state of some persistent memory in the device that controls how it behaves.
-When on components in a computer firmware code defines logic that sits outside your operating system, stored directly in pieces of hardware and not on the computers main storage devices.
+When on, components in a computer firmware code defines logic that sits outside your operating system, stored directly in pieces of hardware and not on the computers main storage devices.
 Firmware is often 'spoken to' via 'drivers' in your computer's operating system which provide other software with an interface to use the capabilities of the device.
 
 Firmware is a piece of our computational environments that is often forgotten but is of increasing importance as more computation is performed by dedicated hardware accelerators, this is especially true for machine learning computations.
@@ -193,9 +193,9 @@ Many PC components from SSDs to GPUs are now essentially entire small [von neuma
 Functionality which might previous have lived in operating system drivers is moving on device and is accessed by the driver through relatively high level interfaces.
 As our hardware does more, how and what it does matters more for reproducible and trustworthy computation.
 Unfortunately the firmware of GPUs and CPUs is almost universally closed and proprietary, making it unverifiable in the sense defined above.
-With the advent of more powerful RISC-V CPUs, these being somewhat more open than X84 and Arm we may see improvements in openness at this level.
+With the advent of more powerful RISC-V CPUs, these being somewhat more open than X84 and ARM, we may see improvements in openness at this level.
 RISC-V is presently still primarily used in low power applications and is not yet available chips capable of competitive desktop computation.
 There is also no guarantee of openness in all regards, proprietary extensions to the instruction set are permitted.
-This is a significant problem for the independent verifiability of the trustworthiness of computation as many of the same arguments advanced by Ken Thompson in [Reflections on trusing trust](https://archive.org/details/reflections-on-trusting-trust) [@thompsonReflectionsTrustingTrust2007] about compiler based attacks apply to the potential for firmware to be used as an attack vector.
-Supply chain attacks targeting for example hardware accelerated cryptographic functions like random number generation have significant security implications, so the inability to independently build and flash firmware from open and auditable sources to such devices should be a source of considerable concern.
+This is a significant problem for the independent verifiability of the trustworthiness of computation, as many of the same arguments advanced by Ken Thompson in [Reflections on trusing trust](https://archive.org/details/reflections-on-trusting-trust) [@thompsonReflectionsTrustingTrust2007] about compiler based attacks apply to the potential for firmware to be used as an attack vector.
+Supply chain attacks targeting, for example, hardware accelerated cryptographic functions like random number generation, have significant security implications, so the inability to independently build and flash firmware from open and auditable sources to such devices should be a source of considerable concern.
 
