@@ -13,14 +13,14 @@ The [DSWB pathway](https://book.the-turing-way.org/pathways/data-science-without
 
 The curation process was facilitated by Malvika Sharan and Precious Onyewuchi, technical partners in DSWB. They applied an iterative and collaborative process as described below:
 
-- Community Brainstorming and Needs Identification: DSWB community members reviewed The Turing Way book to identify chapters most relevant to their ongoing work.
+- Community Brainstorming and Needs Identification: DSWB community members reviewed _The Turing Way_ book to identify chapters most relevant to their ongoing work.
 This was facilitated through coworking sessions and working group meetings, fostering a shared understanding of needs.
 - Initial Chapter Selection and GitHub Integration: A preliminary list of potentially valuable chapters was compiled and documented on a dedicated GitHub page for transparent review and feedback.
 - Community Review and Prioritisation: The curated list was then shared back with the DSWB community for a second evaluation.
 Members specifically commented on each chapter, indicating whether it should be retained or removed based on its immediate applicability to current projects.
 Chapters deemed potentially useful in the future but not immediately required were removed by consensus, with the possibility of later reintegration, to ensure the pathway remained focused.
 - Feedback Integration and Finalisation: All feedback and suggestions received on GitHub were carefully considered.
-Future content recommendations were noted. The finalised DSWB pathway was then submitted as a pull request to merge into the main Turing Way book, solidifying community ownership and integration.
+Future content recommendations were noted. The finalised DSWB pathway was then submitted as a pull request to merge into the main _Turing Way_ book, solidifying community ownership and integration.
 
 ### Outcomes and Insights:
 
@@ -44,8 +44,8 @@ The initiative's proposal was developed collaboratively by experts and stakehold
 Researchers, publishers, and funders identified a critical challenge: existing guidance on research software sharing was fragmented across numerous websites, lacking a unified and clear set of instructions for different stakeholders.
 This created confusion and hindered the adoption of best practices in software citation and preservation.
 
-While a long-term solution involved establishing a central, community-driven website (proposed as Cite.Software), an intermediate solution was co-developed: the Software Citation Pathway in The Turing Way.
-Key stakeholders, including Chris Erdmann (ScilifeLab Sweden), Malvika Sharan (The Turing Way), and Carlos Martinez (The Netherlands eScience Centre), facilitated the identification of best practices and curated relevant chapters from The Turing Way.
+While a long-term solution involved establishing a central, community-driven website (proposed as Cite.Software), an intermediate solution was co-developed: the Software Citation Pathway in _The Turing Way_.
+Key stakeholders, including Chris Erdmann (ScilifeLab Sweden), Malvika Sharan (_The Turing Way_), and Carlos Martinez (The Netherlands eScience Centre), facilitated the identification of best practices and curated relevant chapters from _The Turing Way_.
 Gaps were identified and documented on GitHub issues for follow-up.
 
 ### Outcomes and Insights:
@@ -54,7 +54,7 @@ The workshop-based approach for the Software Citation pathway demonstrated the e
 
 - Targeted Thematic Focus: Concentrating on a specific challenge allowed for in-depth discussion and the development of a highly focused solution.
 - Convening Practitioners: Bringing together key individuals and organisations ensured diverse perspectives and strong buy-in.
-- Leveraging Existing Resources: Building upon the content of The Turing Way and FAIR software recommendations provided a robust foundation.
+- Leveraging Existing Resources: Building upon the content of _The Turing Way_ and FAIR software recommendations provided a robust foundation.
 - Collaborative Development: The workshop format actively fostered collaboration and the co-creation of the proposed solution.
 
 ## Different Ways to Engage Different Groups
