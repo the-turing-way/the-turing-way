@@ -9,7 +9,7 @@ alt-text-long = 'A handrawn image by Scriberia artist of a garden. "Thanks for C
 tags = [ "acknowledgement" ]
 
 [[images]]
-filename = "embedding-justice.jpg"
+filename = "embedding-justice.jpeg"
 alt-text = "An educator explains how to consider ethics to a group of students. The ethical questions are peppered throughout their learning experience which in the image is illustrated as growing trees."
 tags = [ "ethics" ]
 
@@ -29,7 +29,7 @@ alt-text-long = "A hand reaches out of an open safe and makes a thumbs up gestur
 tags = [ ]
 
 [[images]]
-filename = "hybrid.collab.png"
+filename = "hybrid-collab.png"
 alt-text-long = "A handrawn image by Scriberia artist of a hybrid collaboration. Three people are sitting on a round table and are being lead by a lady standing at the table. There is a mic on the round table so that the remote participants can listen to the speaker on the round table clearly. Two people are joining the discussion remotely from different time zones (evident by the dark and light background on their screens). One person is leading the remote participants. People from both the formats are collaboratively creating a document. The document is shown like a puzzle with flying pieces coming from the round table as well as from the remote participants."
 tags = [ ]
 
