@@ -159,7 +159,7 @@ Both can be extended with additional repositories, as the main repos grow, and a
 
 One advantage to packaging your software with these tools is that it is an excellent reference package for anyone wishing to package your software in another packaging format as all dependencies and the full build process must be fully specified in the package derivation.
 Furthermore these packages are highly portable as the Nix and Guix package managers are agnostic to the Linux distribution on which they are installed, [Nix can be installed directly on macOS](https://mynixos.com/nix-darwin), and both can be used on Windows via [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install).
-
+(renv-considerations-archive)=
 ## Building from Archival Source Code
 
 What happens if a project is abandoned and its website goes down, it moves its source code repository, is censored, or is no longer available for any reason?
