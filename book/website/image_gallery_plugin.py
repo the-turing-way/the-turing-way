@@ -133,13 +133,13 @@ def render_images() -> list:
     # Load image data if they have a filename
     images_data = [img for img in load_image_data() if "filename" in img]
     print(f"Found {len(images_data)} images to render.", file=sys.stderr, flush=True)
-    rendered_images = [render_image(data) for data in images_data]
+    rendered_images = [render_image(data, this_dir) for data in images_data]
     # Use the pool to map render_image over the list of images, filtering out any None results
     return [card for card in rendered_images if card is not None]
 
 
 # --- MyST Directive and Transform Logic ---
-def run_directive(name: str) -> list:
+def run_directive(name: str, data: dict) -> list:
     """
     Process a custom directive in a MyST document.
 
@@ -147,6 +147,10 @@ def run_directive(name: str) -> list:
     ----------
     name : str
         The name of the directive to process.
+
+    data : dict
+        Parsed MyST document in unist-compatible JSON format.
+
 
     Returns
     -------
@@ -159,7 +163,13 @@ def run_directive(name: str) -> list:
         If the provided directive name is not 'image-gallery-dir'.
     """
     assert name == "image-gallery-dir"
-    return [{"type": "image-gallery-dir", "children": []}]
+    return [
+        {
+            "type": "image-gallery-dir",
+            "children": [],
+            "this-dir": data.get("options", {}).get("this-dir"),
+        }
+    ]
 
 
 def run_transform(name, data) -> dict:
@@ -206,6 +216,12 @@ def run_transform(name, data) -> dict:
 imageGalleryDirective = {
     "name": "image-gallery-dir",
     "doc": "A directive for embedding a gallery of images with alt text and tags.",
+    "options": {
+        "this-dir": {
+            "type": "string",
+            "doc": "Path to the directory of the file embedding the gallery",
+        }
+    },
 }
 
 imageGalleryTransform = {
@@ -230,7 +246,7 @@ if __name__ == "__main__":
     if args.directive:
         # Validate/process the directive
         data = json.load(sys.stdin)
-        json.dump(run_directive(args.directive), sys.stdout)
+        json.dump(run_directive(args.directive, data), sys.stdout)
     elif args.transform:
         # Run the document transformation
         data = json.load(sys.stdin)
