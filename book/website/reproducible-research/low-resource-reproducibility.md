@@ -31,7 +31,7 @@ In many low-resource settings, researchers face formidable obstacles to achievin
 For researchers in low-resource settings, these resources are frequently unavailable, inaccessible, or prohibitively expensive.
 * Without sufficient access to technology for data storage, analysis, and sharing, researchers struggle to follow standardised reproducibility practices.
 2. **Limited Funding and Institutional Support:**
-* Funding constraints are a significant barrier, as limited budgets often cannot cover essential resources such as open-access publishing fees, software licenses, or data-sharing platforms. 
+* Funding constraints are a significant barrier, as limited budgets often cannot cover essential resources such as open-access publishing fees, software licenses, and/or data-sharing platforms. 
 This makes it challenging for researchers to adhere to best practices in data management and open science, both crucial for reproducibility.
 * Many institutions in low-resource settings lack dedicated policies or infrastructure for reproducible research, leaving researchers without guidance or institutional support for conducting transparent and repeatable studies.
 3. **Knowledge and Training Gaps:**
