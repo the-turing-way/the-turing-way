@@ -22,7 +22,11 @@ LAYOUT_STYLE = {
     "margin": 5,
 }
 
-DEFAULT_STYLE = {"background": "#009e9cff", **LAYOUT_STYLE} # Default style for all tags
+DEFAULT_STYLE = {
+    "background": "#009e9cff",
+    **LAYOUT_STYLE,
+}  # Default style for all tags
+
 
 # --- Data Loading ---
 def load_image_data(yaml_path: Path = YAML_IMG_PATH) -> list:
@@ -48,7 +52,7 @@ def load_image_data(yaml_path: Path = YAML_IMG_PATH) -> list:
         If the YAML file cannot be parsed properly."""
     print(f"Loading image data from {yaml_path}", file=sys.stderr, flush=True)
     try:
-        with yaml_path.open('r', encoding='utf-8') as f:
+        with yaml_path.open("r", encoding="utf-8") as f:
             data = yaml.safe_load(f)
         return data.get("images", [])
     except FileNotFoundError:
@@ -57,6 +61,7 @@ def load_image_data(yaml_path: Path = YAML_IMG_PATH) -> list:
     except yaml.YAMLError as e:
         print(f"Error parsing YAML file {yaml_path}: {e}", file=sys.stderr)
         return []
+
 
 # --- Image Rendering ---
 def render_image(image_data: dict) -> dict:
@@ -90,14 +95,12 @@ def render_image(image_data: dict) -> dict:
         rel_image_path = image_path.relative_to(SCRIPT_DIR).as_posix()
 
         # Build tags for the card
-        tag_spans = []
-        for tag_name in tags:
-            tag_spans.append(span([text(tag_name)], style=DEFAULT_STYLE))
+        tag_spans = [span([text(tag_name)], style=DEFAULT_STYLE) for tag_name in tags]
 
-        # Create the card components 
+        # Create the card components
         children = [
             image(str(rel_image_path), alt=alt_text),
-            div(tag_spans), 
+            div(tag_spans),
         ]
 
         # Add alt-text as a card description if it exists
@@ -109,9 +112,13 @@ def render_image(image_data: dict) -> dict:
             "children": children,
         }
     except Exception as err:
-        print(f"\n\nError rendering image: {image_data.get('filename', 'Unknown')}", file=sys.stderr)
+        print(
+            f"\n\nError rendering image: {image_data.get('filename', 'Unknown')}",
+            file=sys.stderr,
+        )
         traceback.print_exception(err, file=sys.stderr)
         return None
+
 
 def render_images() -> list:
     """
@@ -128,6 +135,7 @@ def render_images() -> list:
     rendered_images = [render_image(data) for data in images_data]
     # Use the pool to map render_image over the list of images, filtering out any None results
     return [card for card in rendered_images if card is not None]
+
 
 # --- MyST Directive and Transform Logic ---
 def run_directive(name: str) -> list:
@@ -152,6 +160,7 @@ def run_directive(name: str) -> list:
     assert name == "image-gallery-dir"
     return [{"type": "image-gallery-dir", "children": []}]
 
+
 def run_transform(name, data) -> dict:
     """
     Replace directive nodes in a MyST document with a rendered image grid.
@@ -173,7 +182,11 @@ def run_transform(name, data) -> dict:
     gallery_nodes = find_all_by_type(data, "image-gallery-dir")
 
     if not gallery_nodes:
-        print("No 'image-gallery-dir' directive found in the document.", file=sys.stderr, flush=True)
+        print(
+            "No 'image-gallery-dir' directive found in the document.",
+            file=sys.stderr,
+            flush=True,
+        )
         return data
 
     # Render all image cards
@@ -181,11 +194,12 @@ def run_transform(name, data) -> dict:
 
     # Replace each 'image-gallery-dir' node with grid of cards
     for node in gallery_nodes:
-        node.clear()  
+        node.clear()
         node.update(grid([1, 1, 1, 2], children))
         node["children"] = children
 
     return data
+
 
 # --- Plugin Specification for MyST ---
 imageGalleryDirective = {
