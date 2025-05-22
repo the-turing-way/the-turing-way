@@ -1,5 +1,5 @@
 (ch-pathways-example)=
-# Examples in Action: Case Studies from Developing Existing Pathways
+# Examples of Developing Pathways
 
 This subchapter provides detailed case studies demonstrating distinct approaches to curating learning pathways in the data science domain. Both highlight the importance of community engagement and the strategic leveraging of resources in developing pathways for learning and referencing.
 
