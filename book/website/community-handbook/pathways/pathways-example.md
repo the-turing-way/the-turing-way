@@ -32,7 +32,7 @@ The DSWB pathway curation process yielded several key insights:
 * Transparent Process: Utilising GitHub facilitated collaborative review and fostered a strong sense of ownership within the community.
 
 (ch-pathways-example-citation)=
-## Case Study 2: Software Citation - Thematic Workshop for Focused Content Development
+## Example 2: Software Citation - Thematic Workshop for Focused Content Development
 
 Curation of the [Software Citation pathway](https://book.the-turing-way.org/pathways/software-citation) employed a workshop-based methodology to address a specific thematic challenge.
 
@@ -57,7 +57,7 @@ The workshop-based approach for the Software Citation pathway demonstrated the e
 - Leveraging Existing Resources: Building upon the content of The Turing Way and FAIR software recommendations provided a robust foundation.
 - Collaborative Development: The workshop format actively fostered collaboration and the co-creation of the proposed solution.
 
-## Conclusion
+## Different Ways to Engage Different Groups
 
 Both the DSWB and Software Citation pathways offer invaluable strategies for creating effective learning resources.
 The DSWB pathway provides a good example for community-led initiatives in identifying and addressing diverse learning needs through an iterative and inclusive process. 
