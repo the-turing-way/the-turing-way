@@ -1407,17 +1407,23 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 * Role:
   * Project Delivery Team Member (2019 - 2020)
   * Book Dash Participant (2022)
+  * Book Dash Organising Committee member (May 2025)
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 
 * Short bio:
-> Patricia Herterich is an information professional working on research data issues. She is a Software Sustainability Fellow 2019, Open Life Science mentor, and member of the Hidden REF committee. She holds a MA in Library and Information Science from Humboldt University of Berlin, Germany (2013) and has over ten years of experience in research data management working at CERN’s Scientific Information Service and Higher Education institutions in the UK.
+> Patricia Herterich is an information professional and Open Science enthusiast.
+> She is a Software Sustainability Fellow 2019 and currently OLS's Associate Director for Finance and Operations.
+> She holds a MA in Library and Information Science from Humboldt University of Berlin, Germany (2013) and has over ten years of experience in research data management working at CERN’s Scientific Information Service and Higher Education institutions in the UK.
 
-* Personal highlights:
+* Personal highlights [Book Dash Participant (2022)]:
 > Reminding myself of my technical skills and how I love proper GitHub workflows. Thank you for trusting me with the facilitation of a discussion session on leadership and the wonderful input from everyone. It was great coming back and contributing to the Turing Way.
 
+* Personal highlights [Book Dash Organising Committee member (May 2025)]:
+> I loved facilitating the Scavenger Hunt. It's great to see that you can build connections in virtual events.
+
 * More information:
-> I crochet during meetings as it helps me to stay focused. Probably too much into vegan cake and pastries for my own good. Love dance-based exercise.
+> I moved my share outs from crafting to taking care of plants. And talking about bread. Also, I have too many Moomin themed items.
 
 ### Paul Owoicho
 
