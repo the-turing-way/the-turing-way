@@ -14,18 +14,17 @@ These subprojects are often time-bound and are supported by community members wh
 - [Batool Almarzouq](https://book.the-turing-way.org/afterword/contributors-record#batool-almarzouq)
 - [Melissa Black](https://book.the-turing-way.org/afterword/contributors-record#melissa-black)
 
+(subprojects-infra-wg)=
 ### Infrastructure Working Group Leads
 
-*Project Information: [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Ainfrastructure)*
+[Project board](https://github.com/orgs/the-turing-way/projects/9)
+[Working group repository](https://github.com/the-turing-way/infrastructure-working-group)
 
-- Chair: [Danny Garside](https://book.the-turing-way.org/afterword/contributors-record#danny-garside)
-- Co-Chair: [Jim Madge](https://book.the-turing-way.org/afterword/contributors-record#jim-madge)
+- Chair: [Jim Madge](https://book.the-turing-way.org/afterword/contributors-record#jim-madge)
 - Secretary: [Sarah Gibson](https://book.the-turing-way.org/afterword/contributors-record#sarah-gibson)
+- Member: [Danny Garside](https://book.the-turing-way.org/afterword/contributors-record#danny-garside)
 - Member: [Brigitta Sipőcz](https://book.the-turing-way.org/afterword/contributors-record#brigitta-sipocz)
 - Member: [Johana Bayer](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)
-
-The Infrastructure working group chair rotates every 6 months, with responsibilities shared among different members of the working groups. 
-The next chair rotation is scheduled for September 2024.
 
 ### Accessibility Working Group Leads
 
@@ -69,12 +68,11 @@ The next chair rotation is scheduled for September 2024.
 
 **Developers**
 - May Yong, Iain Stanson, Lydia France, Malvika Sharan: funded by AI for Science and Government in 2021-2022
-- Arya A., Johanna Bayer, Malvika Sharan: 2023 Google Summer of Code (GSoC) 
+- Arya A., Johanna Bayer, Malvika Sharan: 2023 Google Summer of Code (GSoC)
 
 **Maintainers**
 - [Arya A](https://book.the-turing-way.org/afterword/contributors-record#arya-a)
-- [Johanna Bayer](https://book.the-turing-way.org/afterword/contributors-record#johanna-bayer)
-- [Jim Madge](https://book.the-turing-way.org/afterword/contributors-record#jim-madge)
+- [Infrastructure working group](#subprojects-infra-wg)
 
 ### Data Science Project Management for Project Leaders
 
