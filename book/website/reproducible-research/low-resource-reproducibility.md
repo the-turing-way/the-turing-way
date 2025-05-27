@@ -89,16 +89,28 @@ With enhanced training, accessible tools, supportive networks, and clear policie
 
 ### References and Further Readings
 
-1. National Academies of Sciences, Engineering, and Medicine. (2019). *Reproducibility and Replicability in Science.* Washington, DC: The National Academies Press.
-2. Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Percie du Sert, N., & Ioannidis, J. P. (2017). *A Manifesto for Reproducible Science.* Nature Human Behaviour, 1(1), 1-9.
-3. Baker, M. (2016). *Is There a Reproducibility Crisis?* Nature, 533(7604), 452-454.
-4. Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). *The Preregistration Revolution.* Proceedings of the National Academy of Sciences, 115(11), 2600-2606.
-5. The Turing Way Community. *The Turing Way: A Handbook for Reproducible Data Science.*
-6. African Open Science Platform (AOSP). *Advancing Open Science in Africa.* Available at:[ AOSP website](https://africanopenscience.org.za)
-7. Open Science Framework (OSF). *OSF Guide to Reproducible Research.*
-8. The FAIR Guiding Principles for scientific data management and stewardship. Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. *Scientific Data*, 3, 160018.
-9. Irwin, R. E. (2018). *The Impact of Open Science on Research in African and Low-Resource Contexts.* Science and Public Policy, 45(4), 472-481.
-10. The Centre for Open Science (COS). *Promoting Reproducibility in Science.* Available at:[ COS website](https://www.cos.io/)
-11. World Health Organisation (WHO). (2021). *Open Science: Global and Regional Approaches and Roadmaps.* Available at:[ WHO website](https://www.who.int/)
-12. Moher, D., Bouter, L., Kleinert, S., Glasziou, P., Sham, M. H., Barbour, V., & Dirnagl, U. (2020). *The Hong Kong Principles for Assessing Researchers: Fostering Research Integrity.* PLOS Biology, 18(7), e3000737.
+1. National Academies of Sciences, Engineering, and Medicine. (2019). Reproducibility and Replicability in Science. Washington, DC: The National Academies Press. DOI National Academies of Sciences, Engineering, and Medicine (2025).
+
+2. Munafò, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Percie du Sert, N., & Ioannidis, J. P. (2017). A Manifesto for Reproducible Science. Nature Human Behaviour, 1(1), 1–9. DOI Munafò et al. (2025).
+
+3. Baker, M. (2016). Is There a Reproducibility Crisis? Nature, 533(7604), 452–454. DOI Baker (2025).
+
+4. Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The Preregistration Revolution. Proceedings of the National Academy of Sciences, 115(11), 2600–2606. DOI Nosek et al. (2025).
+
+5. The Turing Way Community. The Turing Way: A Handbook for Reproducible Data Science. Zenodo. DOI The Turing Way Community (2025).
+
+6. African Open Science Platform (AOSP). Advancing Open Science in Africa. Available at: AOSP website. DOI AOSP (2025).
+
+7. Open Science Framework (OSF). OSF Guide to Reproducible Research. Available at: OSF website. DOI OSF (2025).
+
+8. Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). The FAIR Guiding Principles for Scientific Data Management and Stewardship. Scientific Data, 3, 160018. DOI Wilkinson et al. (2025).
+
+9. Irwin, R. E. (2018). The Impact of Open Science on Research in African and Low-Resource Contexts. Science and Public Policy, 45(4), 472–481. DOI Irwin (2025).
+
+10. The Centre for Open Science (COS). Promoting Reproducibility in Science. Available at: COS website. DOI COS (2025).
+
+11. World Health Organization (WHO). (2021). Open Science: Global and Regional Approaches and Roadmaps. Available at: WHO website. DOI WHO (2025).
+
+12. Moher, D., Bouter, L., Kleinert, S., Glasziou, P., Sham, M. H., Barbour, V., & Dirnagl, U. (2020). The Hong Kong Principles for Assessing Researchers: Fostering Research Integrity. PLOS Biology, 18(7), e3000737. DOI Moher et al. (2025).
+
 
