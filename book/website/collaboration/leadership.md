@@ -49,12 +49,12 @@ Data science is **broadly and inclusively** considered as study of data to draw 
 ---
 width: 500px
 name: leadership-wordcloud
-alt: Workdcloud taken from wikipedia that highlights these words as more prominent than others
+alt: Word cloud of terms related to leadership, where the size of each word reflects its frequency or emphasis. Central and most prominent words include “leadership,” “group,” “relationship,” “organization,” “goal,” “followers,” and “traits.” Other notable terms include “leadership style,” “team,” “self,” “emotional intelligence,” “task,” and “assertiveness.” A mix of concepts appear, ranging from theories like “contingency theory” and “trait theory” to contextual terms such as “women,” “employees,” and “informal organization.” The words are displayed in varying shades of blue and orange.
 ---
 Words that stand out in a word cloud from [the Wikipedia entry](https://en.wikipedia.org/wiki/Leadership) about leadership.
 ```
 
-Theoretical frameworks from business schools, executive training and resources often explain, define, or assess leadership skills as traits such as "popularity, power, showmanship, or wisdom" which are not really the essence of leadership ([Harvard Business Review](https://hbr.org/2004/01/understanding-leadership)).
+Theoretical frameworks from business schools, executive training and resources often explain, define, or assess leadership skills as traits such as "popularity, power, showmanship, or wisdom" which are not the essence of leadership ([Harvard Business Review](https://hbr.org/2004/01/understanding-leadership)).
 There is no such thing as a fixed set of leadership skills and not all great leaders have the same traits, strengths or [leadership styles](https://www.skillsyouneed.com/lead/leadership-styles.html).
 
 In the context of data science, where we strive to advance our knowledge through validated scientific methods based on data, talking about leadership, essentially a nuanced and fuzzy concept, is challenging to define.
