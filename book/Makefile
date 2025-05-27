@@ -4,14 +4,14 @@ all: book
 # Install build dependencies
 deps:
 	python -m pip install --upgrade pip
-	pip install -r ./website/requirements.txt
+	pip install -r ./website/dependencies.lock
 
 # Upgrade python packages and update the requirements files
 upgrade:
 	python -m pip install --upgrade pip
 	pip install pip-tools
-	pip-compile --upgrade ./website/requirements.in
-	pip-sync ./website/requirements.txt
+	pip-compile --upgrade ./website/dependencies.in
+	pip-sync ./website/dependencies.lock
 
 # Start a webserver serving the book locally
 serve:

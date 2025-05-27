@@ -3561,7 +3561,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/8619939?v=4",
       "profile": "https://github.com/iramosp",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -4883,7 +4884,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/151555588?v=4",
       "profile": "https://github.com/denisebianco",
       "contributions": [
-        "eventOrganizing"
+        "eventOrganizing",
+        "content"
       ]
     },
     {
@@ -5132,6 +5134,43 @@
       "name": "Ced",
       "avatar_url": "https://avatars.githubusercontent.com/u/96904745?v=4",
       "profile": "https://github.com/Cedeli",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "tongyu0924",
+      "name": "tongyu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119610311?v=4",
+      "profile": "https://github.com/tongyu0924",
+      "contributions": [
+        "maintenance",
+        "content"
+      ]
+    },
+    {
+      "login": "bakhshir",
+      "name": "Rena Bakhshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16703268?v=4",
+      "profile": "https://github.com/bakhshir",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "cecibaldoni",
+      "name": "Cecilia Baldoni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111133332?v=4",
+      "profile": "https://github.com/cecibaldoni",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gulesaman",
+      "name": "gulesaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60602896?v=4",
+      "profile": "https://github.com/gulesaman",
       "contributions": [
         "content"
       ]
