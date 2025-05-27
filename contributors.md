@@ -1004,7 +1004,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 > I hope to contribute more to the chapter through Collaboration Cafe or the upcoming Book Dash in 2025!
 
 * Pull requests: 
-  * Authored: During Book Dash May 2025 I aurthored, took review, and merged the [PR #4208](https://github.com/the-turing-way/the-turing-way/pull/4208) to contribute to the [Issue #3618](https://github.com/the-turing-way/the-turing-way/issues/3618).
+  * Authored: During Book Dash May 2025 I authored, took review, and merged the [PR #4208](https://github.com/the-turing-way/the-turing-way/pull/4208) to contribute to the [Issue #3618](https://github.com/the-turing-way/the-turing-way/issues/3618).
 
 <!---K--->
 ## K
