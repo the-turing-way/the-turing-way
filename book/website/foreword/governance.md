@@ -47,7 +47,7 @@ We discuss these roles and opportunities so that you can identify the best level
 
 We want to ensure that all roles are recognised and valued in _The Turing Way_.
 Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
-You can read the details in our community handbook in the [acknowledging contributors] chapter (https://the-turing-way.netlify.app/community-handbook/acknowledgement).
+You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
 
 ### 1. Community Level
 
