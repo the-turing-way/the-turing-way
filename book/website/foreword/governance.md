@@ -15,7 +15,7 @@ We are very keen to discuss and improve our governance approaches with the invol
 ## Three Levels of Decision Making
 
 In 2023-2024, _The Turing Way_ adopted three institutional "levels".
-Originally described in the context of Studies of the institutional design of natural resource commons{cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making{cite}`Schweik2007commons`.
+Originally described in the context of Studies of the institutional design of natural resource commons {cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making {cite}`Schweik2007commons`.
 
 1. The “Community level" norms influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
 2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community-level participation easier.
@@ -26,7 +26,7 @@ The Steering Committee covers decisions at a strategic, whole-project level, suc
 ---
 width: 500px
 name: turing-way-governance
-alt: Illustration of a woman looking thoughtfully at a map she is holding which has information about community, maintenance and constitution levels. She has a backpack depicting her skills and expertise and a compass showing the direction of her personal goals. Next to her is a goalpost with directions for project goals, roles and responsibilities, resources and policies, and governance.
+alt: Illustration of a woman looking thoughtfully at a map she is holding which has information about community, maintenance and constitution levels of governance. She has a backpack depicting her skills and expertise and a compass showing the direction of her personal goals. Next to her is a goalpost with directions for project goals, roles and responsibilities, resources and policies, and governance.
 ---
 _The Turing Way_'s governance occurs across community, maintenance and constitution levels. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -104,6 +104,7 @@ At the time of writing this chapter, the following WGs have been established and
 - Infrastructure WG
 - Accessibility WG
 - Book Dash WG
+- Community Management WG
 
 ```{seealso}
 From the onset, different kinds of work in _The Turing Way_ project have been led and executed by different groups of people.
@@ -120,8 +121,8 @@ However, as the community has grown, WGs have been more formally established and
 
 Decisions at the maintainer level may include the following:
 
-* Setting up, leading or representing a  WG in different types of roles as leads, co-leads, secretaries and contributing members. 
-* Facilitating the creation of a new  WG
+* Setting up, leading or representing a WG in different types of roles as leads, co-leads, secretaries and contributing members. 
+* Facilitating the creation of a new WG
 * Decisions for planning and hosting the WG meetings and recurrence of the meetings.
 * Organising and distributing the responsibilities within each  WG.
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
