@@ -319,6 +319,8 @@ project:
             - file: project-design/pd-overview/pd-overview-planning.md
               title: Planning for Project Design
             - file: project-design/pd-overview/pd-overview-repro.md
+              title: Understanding the Project Cycle
+            - file: project-design/pd-overview/pd-overview-cycle.md
               title: Collaborative project documentation
             - file: project-design/pd-overview/pd-overview-methods.md
               title: Reproducibility Methods
