@@ -10,7 +10,7 @@ You can replicate the build process using [Make](#rr-make) and [Jupyter Book](ht
 ## Prerequisites
 
 We will be using the command line throughout this guide.
-You will need to use a terminal emulator to follow.
+You will need to use a terminal to follow.
 
 You will also need to install Python3.
 You can check which specific version of Python3 the build uses in [netlify.toml](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml).
@@ -27,7 +27,7 @@ Other command line tools you will need are,
 ### Clone The Repository
 
 ```console
-git clone https://github.com/the-turing-way/the-turing-way
+git clone https://github.com/the-turing-way/the-turing-way.git
 ```
 
 ````{note}
@@ -65,12 +65,12 @@ That will be explained in more depth in [a later section](#recommend).
 
 ### Install the Dependencies
 
-The next steps use {term}`Makefile`.
+The next steps use a {term}`Makefile`.
 The Makefile contains instructions to build a set of "targets".
 That way we can easily run the same commands repeatedly, and in different environments, without needing to remember all the parameters.
 It is easiest to change into the directory containing the Makefile,
 
-```
+```console
 $ cd book
 ```
 
@@ -89,25 +89,30 @@ You can build the book with,
 $ make book
 ```
 
-The output of the build process will provide output such as below that demonstrate how you can view the book locally,
+````{attention}
+The `make book` target will only build the book using files in your local directory, it will **not** create the pathways pages.
+To build the book with pathways enabled, see the [](#other-targets:pathways) section below.
+````
 
-```text
-===============================================================================
+The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
+Open `book/website/_build/html/index.html` in your web browser to look at your local build.
 
-Finished generating HTML for book.
-Your book's HTML pages are here:
-    _build/html/
-You can look at your book by opening this file in a browser:
-    _build/html/index.html
-Or paste this line directly into your browser bar:
-    file:///<path to repository>/book/website/_build/html/index.html
+### Serve the book locally
 
-===============================================================================
+When you serve the book, you will have a local copy which updates automatically as you make changes.
+To serve the book locally run,
+
+```console
+$ make serve
 ```
 
-Open `index.html` in your web browser to look at your local build.
+Once the build has succeeded, you can open <http://localhost:3000/> in your browser and see a version of the book with your changes which will update live with your local changes.
 
-## Building Previews for Different Branches
+```{warning}
+The build process is a little slow so you may have to be patient for your changes to become visible.
+```
+
+### Building Previews for Different Branches
 
 The build process will use the source files from whatever branch you have checked out.
 If you have just cloned the repository, that will be the `main` branch.
@@ -130,9 +135,11 @@ To remove the outputs of builds use the `clean` target,
 $ make clean
 ```
 
-### Other Targets
+(other-targets)=
+## Other Targets
 
-#### Strict Build
+(other-targets:strict)=
+### Strict Build
 
 The `strict` target is useful for debugging.
 It will make any warnings raise an error, but also continue the build.
@@ -143,19 +150,25 @@ Run the strict build with,
 $ make strict
 ```
 
-#### Pathways Build
+(ch-local-build-other-targets-pathways)=
+### Pathways Build
 
 _The Turing Way_ has curated user pathways, collecting a series of recommended chapters for different reader types.
 The [pathways program](https://github.com/the-turing-way/pathways) generates extra Markdown files to add the pathways to the book.
-The `build` target does not generate these files, so a clean build (`make clean && make build`) will not have pathways.
-To build the book with pathways, use the `pathways` target,
+
+The `build` target does not generate these files, so a clean build (`make clean && make book`) will not have pathways.
+To build the book with pathways, use the `pathways` target to generate the pathways pages, then the `build` target to build the book,
 
 ```console
 $ make pathways
+$ make book
 ```
 
 This will generate the pathways files then build the book.
 This is the build of the book which is deployed to the website.
+
+Once the pathways have been generated, you do not need run the `pathways` target again.
+If you change the pathways, it is best to clean the untracked files and run pathways again.
 
 (recommend)=
 ## Why We Recommend Using a Virtual Environment

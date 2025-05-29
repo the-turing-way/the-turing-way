@@ -15,12 +15,12 @@ Start by giving your persona a real name and real role with the help of some ass
 This will help you anchor them in reality.
 You can use the random name generator website [behindthename.com](https://www.behindthename.com/random/) to create diverse names.
 
-```{figure} ../../figures/persona-creation.*
+```{figure} ../../../figures/persona-creation.png
 ---
 name: persona-creation
-alt: Persona Canvas by DESIGNBETTERBUSINESS.COM
+alt: Persona Canvas by DESIGNBETTERBUSINESS.COM - A simple cartoon-like human figure is outlined at the center with a heart symbol on the chest. Around the figure are nine numbered circles, each linked to a labelled area. Bottom center is space for the persona’s name and role (1), information (2) and core needs (3). The left side of the canvas is for "Negative Trends" (7), illustrated by a cloud, and includes: (8) “Headaches” for professional/work-related issues, and “Fears” at the bottom (9). The right side is for “Positive Trends” (4), illustrated by a sun icon, and includes “Opportunities” for professional and work-related positive outcomes (5), and “Hopes” (6) for personal goals and hopes. 
 ---
-Persona Canvas by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas) available under the CC-BY-SA 4.0 license
+Hand-drawn style image titled "Persona Canvas" by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas). This image is available under the CC-BY-SA 4.0 license
 ```
 
 ### Section 2: Background and demography

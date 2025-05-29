@@ -19,6 +19,12 @@ def parse_args():
         default=None,
         help="If the script is be run on files changed by a pull request, parse the PR number",
     )
+    parser.add_argument(
+        "--github-token",
+        type=str,
+        default=None,
+        help="A Personal Access Token to authenticate calls to the GitHub API",
+    )
 
     return parser.parse_args()
 
@@ -37,19 +43,22 @@ def remove_comments(text_string):
     return p
 
 
-def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
+def check_changed_files(pr_num, github_token=None, bad_phrase=BAD_PHRASE):
     """Check the files in a Pull Request for an undesirable phrase
 
     Arguments:
         pr_num {str} -- Number of the Pull Request with modified files
 
     Keyword Arguments:
-        bad_phrase {str} -- The undesirable phrase to check for (default: {BAD_PHRASE})
+        bad_phrase {str} -- The undesirable phrase to check for 
+            (default: {BAD_PHRASE})
+        github_token {str} -- A Personal Access Token to authenticate calls to
+            the GitHub API (default: None)
 
     Returns:
         {list} -- List of filenames that contain the undesirable phrase
     """
-    filenames = filter_files(pr_num)
+    filenames = filter_files(pr_num, github_token=github_token)
     failed = []
 
     for filename in filenames:
@@ -60,7 +69,7 @@ def check_changed_files(pr_num, bad_phrase=BAD_PHRASE):
                 text = f.read()
                 text = remove_comments(text)
                 if bad_phrase in text.lower():
-                    failed.append(filename.name)
+                    failed.append(filename)
         except FileNotFoundError:
             pass
 
@@ -98,7 +107,7 @@ def main():
     args = parse_args()
 
     if args.pull_request is not None:
-        failed = check_changed_files(args.pull_request)
+        failed = check_changed_files(args.pull_request, github_token=args.github_token)
     else:
         failed = check_all_files()
 

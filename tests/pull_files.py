@@ -17,22 +17,37 @@ def parse_args():
         default=None,
         help="If the script is be run on files changed by a pull request, parse the PR number",
     )
+    parser.add_argument(
+        "--github-token",
+        type=str,
+        default=None,
+        help="A Personal Access Token to authenticate calls to the GitHub API",
+    )
 
     return parser.parse_args()
 
 
-def get_files_from_pr(pr_num):
+def get_files_from_pr(pr_num, github_token=None):
     """Return a list of changed files from a GitHub Pull Request
 
     Arguments:
         pr_num {str} -- Pull Request number to get modified files from
 
+    Keyword Arguments:
+        github_token {str} -- A Personal Access Token to authenticate calls to
+            the GitHub API (default: None)
+
     Returns:
         {list} -- List of modified filenames
     """
     files = []
+    headers = {"Accept": "application/vnd.github.v3+json"}
     pr_url = f"https://api.github.com/repos/the-turing-way/the-turing-way/pulls/{pr_num}/files"
-    resp = requests.get(pr_url)
+
+    if github_token is not None:
+        headers["Authorization"] = f"token {github_token}"
+
+    resp = requests.get(pr_url, headers=headers)
 
     # Raising for status to avoid ending up with red-herring tracebacks later
     resp.raise_for_status()
@@ -43,13 +58,15 @@ def get_files_from_pr(pr_num):
     return files
 
 
-def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
+def filter_files(pr_num, github_token=None, start_phrase="book/website", ignore_suffix=None):
     """Filter modified files from a Pull Request by a start phrase
 
     Arguments:
         pr_num {str} -- Number of the Pull Request to get modified files from
 
     Keyword Arguments:
+        github_token {str} -- A Personal Access Token to authenticate calls to
+            the GitHub API (default: None)
         start_phrase {str} -- Start phrase to filter changed files by
                               (default: {"book/website"})
 
@@ -59,7 +76,7 @@ def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
     Returns:
         {list} -- List of filenames that begin with the desired start phrase
     """
-    files = get_files_from_pr(pr_num)
+    files = get_files_from_pr(pr_num, github_token=github_token)
     filtered_files = []
 
     if ignore_suffix is None:
@@ -74,5 +91,5 @@ def filter_files(pr_num, start_phrase="book/website", ignore_suffix=None):
 
 if __name__ == "__main__":
     args = parse_args()
-    changed_files = filter_files(args.pull_request)
+    changed_files = filter_files(args.pull_request, args.github_token)
     print(changed_files)
