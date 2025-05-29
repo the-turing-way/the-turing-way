@@ -118,3 +118,7 @@ In this chapter, we have provided some ethical pointers for open source project 
 * [Invest in Open Infrastructure - Resources on Good Community Governance Research + Literature Collection](https://investinopen.org/research/good-community-governance/)
 * [Community Rules - Simple Templates for Great Communities](https://communityrule.info/book/)
 * [RedHat Blog - Understanding Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models)
+* [Governing The Commons: The Evolution Of Institutions of Collective Action by Elinor Ostrom](https://archive.org/details/governingthecommons)
+    * [Elinor Ostrom's 8 Principles for Managing A Commmons](https://web.archive.org/web/20240411163813/https://onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons/index.html)
+* [Governable Spaces: Democratic Design for Online Life by Nathan Schneider](https://doi.org/10.1525/luminos.181)
+* [The Tyranny of Structurelessness by Jo Freeman](https://web.archive.org/web/20240406094310/https://www.jofreeman.com/joreen/tyranny.htm)

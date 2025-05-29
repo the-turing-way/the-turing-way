@@ -55,7 +55,7 @@ You can get started by exploring different opportunities [listed on our start pa
 | What is a Community Forum? | These online calls bring together any member of the community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
 | What are onboarding calls? | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
 | Are there Working Group Meetings? | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. Anyone interested in their work can contact the chair to join these calls. |
-| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team abd community on Slack workspace. |
+| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team and community on Slack workspace. |
 
 ## 5. Participating Asynchronously
 

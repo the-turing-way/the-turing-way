@@ -238,7 +238,7 @@ The script is then passed to the provisioner.
 ```{code-block} ruby
   $script = <<-'SCRIPT'
   dnf install -y python3-pip
-  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/website/requirements.txt
+  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/website/dependencies.lock
   SCRIPT
 
   config.vm.provision "shell", inline: $script
