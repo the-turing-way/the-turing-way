@@ -112,3 +112,11 @@ Therefore, to make  _The Turing Way_ easier to read, long chapters should be app
 
 When keeping chapters modular, ensure that its subchapters only talk about one aspect of the overall topic.
 For example, if a chapter on Machine Learning was to be written for _The Turing Way_, such a chapter should contain at least three subchapters that each focus on Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
+
+(ch-consistency-structure-sr-redirects)=
+### Check 3: Add redirects when removing, renaming, or moving chapters or subchapters
+
+To avoid breaking links that other may have made to content in the book if you move, remove or rename a chapter or subchapter please specify a redirect to a suitable new location in the book.
+
+For details of how to specify a redirect please the the [Redirects](#ch-infrastructure-redirects) page.
+
