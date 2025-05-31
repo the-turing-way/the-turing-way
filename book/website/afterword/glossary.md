@@ -139,6 +139,16 @@ CRediT Taxonomy
 Data repository
 : A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
+Dependency (software)
+: **A piece of software that is required by some other piece of software.**
+
+  An application may make use of an existing software package to perform some particular function that it needs to perform, this package would be a **direct dependency** of the application.
+  A package may make use a package which itself makes use of other packages, these recursively related packages are called **transitive dependencies** of the first package.
+
+  Dependencies can also be **'build-time'** and/or **'run-time'**, a build-time dependency is needed for a package to be built into a distributable format.
+  For example a compiler would be a build-time dependency of any software written in a compiled language, but not necessarily a run-time dependency.
+  Run-time dependencies are used when the software is executed, and might be some tool which is expected to be installed and available on the system where the software is running.
+
 Differential privacy
 : A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
 
