@@ -8,7 +8,7 @@ Two axes of comparison on which these methods differ are:
 
 A virtual machine (VM) image is a highly complete way to capture a computational environment but in the absence of a description of how it was built it is not particularly verifiable.
 Closed source software also inherently lacks verifiability.
-Many package management tools for programming languages lack completeness, they cannot capture the system dependencies that using a container or VM can facilitate.
+Many package management tools for programming languages lack completeness, they cannot capture the system dependencies [{term}`def<Dependency (software)>`] that using a container or VM can facilitate.
 
 There are some additional considerations for completenes of description and for the ability to reproduce a compute environment at a future point in time.
 Binary build reproducibility [@ReproducibleBuilds], bootstrapability [@nieuwenhuizenFullSourceBootstrapBuilding2023], and automated fallback to archived versions of source code [@courtesSourceCodeArchiving2024].
@@ -58,7 +58,7 @@ This is also true for services of this kind operating, for example in regulated 
 ### Including things you do not need
 
 Another common problem here is 'packing more than you need' you might add something to your computational environment that you then never use and it's not always easy to tell what you do and do not need.
-Many of the dependencies of what runs in your environment remain implicit.
+Many of the dependencies [{term}`def<Dependency (software)>`] of what runs in your environment remain implicit.
 Your base operating system is sufficient to provide the environment that you need but is all of it necessary?
 When trying to understand your environment most of these technologies leave you with a lot of noise, a lot of extra parts that may or may not be relevant.
 (This is also extra attack surface if you are taking a security lens on the problem.)
@@ -77,14 +77,14 @@ Guix's [`challenge`](https://guix.gnu.org/manual/en/html_node/Invoking-guix-chal
 There are more or less complete ways to describe a computational environment.
 We've seen a number of approaches to this problem in this chapter but many either miss certain aspects of an environment in its description or whilst they might capture the whole environment do so in an opaque and incompletely reproducible fashion.
 
-We will start by discussing the nature of the problem of dependencies in a little more depth and then move onto discussing some tools which offer more comprehensive solutions to the problem of more complete description of computational environments.
+We will start by discussing the nature of the problem of dependencies [{term}`def<Dependency (software)>`] in a little more depth and then move onto discussing some tools which offer more comprehensive solutions to the problem of more complete description of computational environments.
 These are functional package management tools such as [Nix](https://nixos.org/) and [Guix](https://guix.gnu.org/).
 
 ### Dependencies - a deeper look
 
 When working on an individual software project, you as the developer, will likely be paying most attention to the packages that you are using from your language's package repository.
 You may use a language specific package manager to install and manage the packages that your project needs, in python this might be `pip`.
-It is important to remember that your project's dependencies may also have dependencies, these become transitive dependencies of your project creating a dependency tree.
+It is important to remember that your project's dependencies [{term}`def<Dependency (software)>`] may also have dependencies, these become transitive dependencies of your project creating a dependency tree.
 You may also use a language specific environment management tool so that you can have different projects with different versions of the same dependencies on your system at the same time, in python this might be `venv`.
 
 Where things start to get a bit more complicated are system dependencies.
@@ -111,7 +111,7 @@ At the root of the tree is a potentially very minimal set of binary files, [GUIX
 
 #### Dependency resolution & package conflicts
 
-You can sometimes encounter situations where you need two tools installed which have mutually incompatible dependencies.
+You can sometimes encounter situations where you need two tools installed which have mutually incompatible dependencies [{term}`def<Dependency (software)>`].
 This arises because conventionally a package has one place on your system that it is installed with a single name with which it can be invoked in a given environment.
 The name 'PackageX' can refer to only one version of that package in your environment.
 Even if you can have version 1.0 and version 2.0 of 'PackageX' installed on your system at the same time by naming them differently centrally and aliasing them to their usual name in your environment you cannot generally depend on the different versions in the same environment.
@@ -151,7 +151,7 @@ Some barriers to the adoption of the functional package mangement paradigm are t
 
 Nix package derivations are authored in the [Nix expression language](https://nix.dev/manual/nix/2.24/language/index.html) and Guix packages in [Guile](https://www.gnu.org/software/guile/) an implementation of [scheme lisp](https://www.scheme.org/), both functional programming languages.
 In order to include a package in an environment specified by one of these tools, that is not already packaged with them, you must aquire some basic facility with one of these languages and write a package derivation for the tool you want to use.
-When your software depends on something that is also not packaged you can end up needing to recursively package various dependencies.
+When your software depends on something that is also not packaged you can end up needing to recursively package various dependencies [{term}`def<Dependency (software)>`].
 
 The repositories are not small, the [Nix package repository](https://search.nixos.org/packages) is the largest single collection of software packages in existence by a considerable margin ([according to repology](https://repology.org/repositories/statistics/total)), with more that 120,000 packages at time of writing, and [Guix packages](https://packages.guix.gnu.org/) has a over 30,000 but maintains stricter standards for building packages from source and only accepts free / open source software.
 Both can be extended with additional repositories, as the main repos grow, and additional repositories are created the friction to their adoption declines.
