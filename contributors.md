@@ -990,11 +990,11 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Jyoti Bhogal
 
-* Role: Book Dash participant (2024)
+* Role: Book Dash participant (2024-2025)
 * GitHub id: [jyoti-bhogal](https://github.com/jyoti-bhogal) 
 * ORCID: [0000-0002-6289-0737](https://orcid.org/0000-0002-6289-0737)
 * Short bio: 
-> I am working as a Technical Community Manager at Research Software Alliance. I have a Master’s degree in Statistics. My career journey spans roles such as a software quality engineer, data analyst, and data modeler. I am also an advocate for open-source and open science. In addition, I am the co-founder and lead of the RSE Asia Association and a recent graduate of the Community Engagement Fundamentals (CEF) course by the Center for Scientific Collaboration and Community Engagement (CSCCE). I am also an active member of several international communities such as R-Ladies Global, Open Life Science, and the International Council of RSEs. These communities have played an integral part in my professional development and inspired my current work.
+> [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/) is and [SSI 2025 Fellow](https://www.software.ac.uk/fellowship-programme/jyoti-bhogal) and is working as a Community Manager at Research Software Alliance. She has a Master’s degree in Statistics. Her career journey spans roles such as a software quality engineer, data analyst, and data modeler. She is also an advocate for open-source and open science. In addition, she is the co-founder and co-lead of the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and a graduate of the [Community Engagement Fundamentals (CEF)](https://badgr.com/public/assertions/SHsdenPsRfCIphr4pvso3A?identity__email=bhogaljyoti1@gmail.com) course by the Center for Scientific Collaboration and Community Engagement (CSCCE). She is also an active member of several international communities such as the R-Ladies Global, Open Life Science, and the International Council of RSEs. These communities have played an integral part in her professional development and inspired her current work.
  
 * Personal highlights:
 > I appreciate the welcoming and highly collaborative nature of The Turing Way Community. My experience of Book Dash was full of people ready to promptly advise/guide each other for any process-related queries. The social sessions like the meme-making workshop, Scriberia artist sessions, and the Share-outs on the event's last day were intriguing.
@@ -1407,17 +1407,23 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 * Role:
   * Project Delivery Team Member (2019 - 2020)
   * Book Dash Participant (2022)
+  * Book Dash Organising Committee member (May 2025)
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 
 * Short bio:
-> Patricia Herterich is an information professional working on research data issues. She is a Software Sustainability Fellow 2019, Open Life Science mentor, and member of the Hidden REF committee. She holds a MA in Library and Information Science from Humboldt University of Berlin, Germany (2013) and has over ten years of experience in research data management working at CERN’s Scientific Information Service and Higher Education institutions in the UK.
+> Patricia Herterich is an information professional and Open Science enthusiast.
+> She is a Software Sustainability Fellow 2019 and currently OLS's Associate Director for Finance and Operations.
+> She holds a MA in Library and Information Science from Humboldt University of Berlin, Germany (2013) and has over ten years of experience in research data management working at CERN’s Scientific Information Service and Higher Education institutions in the UK.
 
-* Personal highlights:
+* Personal highlights [Book Dash Participant (2022)]:
 > Reminding myself of my technical skills and how I love proper GitHub workflows. Thank you for trusting me with the facilitation of a discussion session on leadership and the wonderful input from everyone. It was great coming back and contributing to the Turing Way.
 
+* Personal highlights [Book Dash Organising Committee member (May 2025)]:
+> I loved facilitating the Scavenger Hunt. It's great to see that you can build connections in virtual events.
+
 * More information:
-> I crochet during meetings as it helps me to stay focused. Probably too much into vegan cake and pastries for my own good. Love dance-based exercise.
+> I moved my share outs from crafting to taking care of plants. And talking about bread. Also, I have too many Moomin themed items.
 
 ### Paul Owoicho
 
