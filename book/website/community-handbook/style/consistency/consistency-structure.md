@@ -114,9 +114,13 @@ When keeping chapters modular, ensure that its subchapters only talk about one a
 For example, if a chapter on Machine Learning was to be written for _The Turing Way_, such a chapter should contain at least three subchapters that each focus on Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
 
 (ch-consistency-structure-sr-redirects)=
-### Check 3: Add redirects when removing, renaming, or moving chapters or subchapters
+### Check 3: Add redirects when removing, renaming, or moving pages
 
-To avoid breaking links that other may have made to content in the book if you move, remove or rename a chapter or subchapter please specify a redirect to a suitable new location in the book.
+To avoid breaking links that others may have made to content in the book if you move, remove or rename a page please specify a redirect to a suitable new location in the book.
+
+This is applicable to any change which results in a change to a URL, such as moving or renaming a subchapter.
+Re-arranging, renaming, and in particular deleting things should be discussed as a part of any issue, or pull request proposing them.
+When thinking about re-organising any content, consider that it might also be suitable to include it in one of the [pathways](#ch-infrastructure-pathways) which provide curated subsets of the book's content related to particular themes and roles.
 
 For details of how to specify a redirect please the the [Redirects](#ch-infrastructure-redirects) page.
 
