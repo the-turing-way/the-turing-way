@@ -15,7 +15,8 @@ background in engineering decides to pursue a graduate degree in psychology, the
 commonly used in academic settings, particularly when discussing admissions or program requirements. However, for more inclusive and accessible language, you may prefer to describe someone
 simply as “a student without a background in data science or AI”.
 ```
-Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise @Jiang2022datascience. 
+Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary
+expertise @Jiang2022datascience. 
 It also represents a rapidly growing methodological approach for educational practice @Estrellado2020data and research @McFarland2021education.
 
 ```{figure} ../../figures/data-science.*
@@ -114,7 +115,11 @@ Adaptation of Kandlhofer et al. (2016) *Topics of AI Literacy*. Illustration by 
 `````{admonition} Case Study
 :class: tip
 **UCL, Built Environment: Sustainable Heritage MSc, Data Science route**
-This Master’s degree creates expert data scientists taught through the exciting multidisciplinary lens of cultural heritage (historic buildings, sites, landscapes, museums and collections). Students will develop advanced data science skills, such as coding, crowd-sourced data science, machine learning and data visualisation, and apply them to the complexities of acquisition, analysis and exploitation of the variety of data that is generated and used in heritage contexts. The course is open to applicants with a technical background such as statistics or data science, as well as applicants from other disciplines (for example: conservation, curation, history) that want to develop data science skills. This degree route is suited both to recent graduates and early or mid-career professionals looking to retrain or up-skill.
+This Master’s degree creates expert data scientists taught through the exciting multidisciplinary lens of cultural heritage (historic buildings, sites, landscapes, museums and collections).
+Students will develop advanced data science skills, such as coding, crowd-sourced data science, machine learning and data visualisation, and apply them to the complexities of acquisition,
+analysis and exploitation of the variety of data that is generated and used in heritage contexts. The course is open to applicants with a technical background such as statistics or data
+science, as well as applicants from other disciplines (for example: conservation, curation, history) that want to develop data science skills. This degree route is suited both to recent
+graduates and early or mid-career professionals looking to retrain or up-skill.
 `````
 ## Suggestions for Educators
 DS educators teaching students without a data science or AI background would need to pay particular attention to the students’ background knowledge, concepts, and practical and metacognitive
@@ -169,7 +174,8 @@ Examples include:
 
 Differentiated instruction in the context of data science and AI can by applied through:
 * **Tiered assignments**: Provide different levels of difficulty in project tasks or problem sets, allowing students to engage at a level that matches their proficiency.
-* **Learning pathways**: Create alternative learning modules that cater to different interests applications of data science and AI, letting students choose based on their existing knowledge, career goals or academic interests.
+* **Learning pathways**: Create alternative learning modules that cater to different interests applications of data science and AI, letting students choose based on their existing knowledge,
+career goals or academic interests.
 * **Visual aids and simulations**: Use visual representations of algorithms and data flows, which can help visual learners better understand complex concepts.
 * **Collaborative Learning**: Leveraging collaborative learning strategies can enhance understanding of data science and AI and innovation across disciplines. Techniques include:
 * **Group work and Study groups**: Encourage formation of study groups that meet regularly to discuss course content and collaborate on group projects.
