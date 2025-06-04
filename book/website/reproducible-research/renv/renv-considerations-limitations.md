@@ -192,7 +192,7 @@ Firmware is often 'spoken to' via 'drivers' in your computer's operating system 
 Firmware is a piece of our computational environments that is often forgotten but is of increasing importance as more computation is performed by dedicated hardware accelerators, this is especially true for machine learning computations.
 We are seeing the sophistication of the software installed at a low level on our hardware devices increase as these devices become more capable.
 Many PC components from SSDs to GPUs are now essentially entire small [von neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) computers in their own right.
-Functionality which might previous have lived in operating system drivers is moving on device and is accessed by the driver through relatively high level interfaces.
+Functionality which might previously have lived in operating system drivers is moving on device and is accessed by the driver through relatively high level interfaces.
 As our hardware does more, how and what it does matters more for reproducible and trustworthy computation.
 Unfortunately the firmware of GPUs and CPUs is almost universally closed and proprietary, making it unverifiable in the sense defined above.
 With the advent of more powerful RISC-V CPUs, these being somewhat more open than X84 and ARM, we may see improvements in openness at this level.
