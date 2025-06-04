@@ -30,7 +30,7 @@ alt: >
   The overlap between Domain Knowledge and Computer Science is Software Development.
   The central area where all three circles intersect is labeled Data Science.
 ---
-The interdisciplinary nature of Data Science. Illustration by Denise Bianco (2025). Used under a CC-BY 4.0 licence.
+*The interdisciplinary nature of Data Science*. Illustration by Denise Bianco (2025). Used under a CC-BY 4.0 licence.
 ```
 
 In the constantly growing data-intensive society, data science is being applied within various **non-cognate disciplines** such as arts, history, and social sciences. It’s important for people
