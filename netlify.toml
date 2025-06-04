@@ -20,7 +20,22 @@ fi
   [headers.values]
     access-control-allow-origin = "*"
 
-# Cross-domain redirects for the start page
+# Wildcard redirect for old book url
+[[redirects]]
+  from = "https://the-turing-way.netlify.app/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+# Subdomain redirects
+# Wildcard redirect for www.book to book
+[[redirects]]
+  from = "https://www.book.the-turing-way.org/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+# Redirects for the start page
 [[redirects]]
   from = "https://the-turing-way.org/*"
   to = "https://the-turing-way.start.page/"
@@ -33,18 +48,23 @@ fi
   status = 302
   force = true
 
-# Wildcard redirect for old book url
+# Other helper redirects
 [[redirects]]
-  from = "https://the-turing-way.netlify.app/*"
-  to = "https://book.the-turing-way.org/:splat"
-  status = 301
+  from = "https://git.the-turing-way.org/*"
+  to = "https://github.com/the-turing-way"
+  status = 302
   force = true
 
-# Wildcard redirect for www
 [[redirects]]
-  from = "https://www.book.the-turing-way.org/*"
-  to = "https://book.the-turing-way.org/:splat"
-  status = 301
+  from = "https://news.the-turing-way.org/*"
+  to = "https://buttondown.email/turingway/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://slack.the-turing-way.org/*"
+  to = "https://join.slack.com/t/theturingway/shared_invite/zt-25ng40psm-rcaEBwhrEzsV4hhR6dz5uA"
+  status = 302
   force = true
 
 # Redirects for old welcome/home/index page urls to current
