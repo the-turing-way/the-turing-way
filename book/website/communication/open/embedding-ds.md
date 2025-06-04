@@ -1,3 +1,4 @@
+(cm-open-educators)=
 # Embedding Data Science & AI across Disciplines: Context and Suggestions for Educators
 
 ## Overview
