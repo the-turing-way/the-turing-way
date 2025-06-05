@@ -26,7 +26,8 @@ The container or VM images are however rather inscrutable black boxes, building 
 Whilst they can be inspected, and details of how they were built inferred, this is not always easy, and not really a feature around which these technologies were designed.
 Their design came out of pragmatic considerations for the need to capture working computational environments to use in deployed software, to keep things working in ever growing and changing production environments.
 
-This is changing. Increasingly provenance, software manifests or 'bills of materials', and 'software supply chains' are becoming a concern of industry.
+This is changing.
+Increasingly provenance, software manifests or 'bills of materials', and 'software supply chains' are becoming a concern of industry.
 This is for reasons of security and compliance with new cybersecurity regulations, so more moneyed interest is now being focused on these problems.
 
 The file specifying how the container or VM image is built, for example a Dockerfile, helps us to some degree as this is a record of the steps taken to build an image of an environment.
