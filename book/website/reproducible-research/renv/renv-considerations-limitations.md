@@ -66,7 +66,7 @@ You might add something to your computational environment that you then never us
 Many of the dependencies [{term}`def<Dependency (software)>`] of what runs in your environment remain implicit.
 Your base operating system is sufficient to provide the environment that you need, but is all of it necessary?
 When trying to understand your environment most of these technologies leave you with a lot of noise, a lot of extra parts that may or may not be relevant.
-(This is also extra attack surface if you are taking a security lens on the problem.)
+(This is also extra attack surface [{term}def<Attack Surface>] if you are taking a security lens on the problem.)
 
 ### Reproducible builds & the ability to compare against other's results
 

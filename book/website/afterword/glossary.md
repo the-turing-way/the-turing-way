@@ -22,6 +22,12 @@ Artificial intelligence (AI)
   Also the field of study associated with imbuing synthetic systems with these capabilities.
   See also {term}`Machine Learning (ML)<Machine Learning (ML)>`
 
+Attack Surface
+: An attack surface is a place where a system is vulnerable to some form of compromise or hostile action.
+  In a computer system these might be network endpoints, through which a hacker could try to access a system.
+  A different attack vector could be a supply chain attack in which case the dependencies of a project become attack surfaces.
+  In a physical system points of entry into a building could be considered attack surfaces.
+
 Authors
 : Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 ```
