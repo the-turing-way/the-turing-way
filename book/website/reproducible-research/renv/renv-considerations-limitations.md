@@ -37,7 +37,7 @@ A common example is starting a Dockerfile with `FROM ubuntu:latest`, depending o
 You will get which ever version of ubuntu was the latest at the time you built the image.
 To reproduce this you would have to extract the version of ubuntu from the built image and specify it explicitly in the Dockerfile.
 This is also dependent on the historical version still being available to download in order to build the image.
-It is common to follow a first such as this line by up with updating the operating system in case any important patches have come out since the base image was built, this introduces another time depended aspect.
+It is common to follow a first such as this line by up with updating the operating system in case any important patches have come out since the base image was built, this introduces another time dependant aspect.
 If you are relying on various resources from the internet during such a build, what is at the other end of a URL can change or disappear from one build to the next.
 
 Container or VM images alone do not provide useful insight into what a particular piece of logic in a chain of inference is, nor why it was made.
