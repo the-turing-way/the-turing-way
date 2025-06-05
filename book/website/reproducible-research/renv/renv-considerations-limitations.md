@@ -33,11 +33,14 @@ This is for reasons of security and compliance with new cybersecurity regulation
 The file specifying how the container or VM image is built, for example a Dockerfile, helps us to some degree as this is a record of the steps taken to build an image of an environment.
 However these methods can fall short in the completeness with which they capture these steps.
 
-A common example is starting a Dockerfile with `FROM ubuntu:latest`, depending on when you ran this you may get a different output.
-You will get which ever version of ubuntu was the latest at the time you built the image.
+A common example is starting a Dockerfile with `FROM ubuntu:latest`, this give you a base image to build your own on top of.
+Depending on when you ran this you may get a different output as which version of ubuntu is currently the latest changes over time.
 To reproduce this you would have to extract the version of ubuntu from the built image and specify it explicitly in the Dockerfile.
 This is also dependent on the historical version still being available to download in order to build the image.
-It is common to follow a first such as this line by up with updating the operating system in case any important patches have come out since the base image was built, this introduces another time dependant aspect.
+Old images are deprecated over time and stop being available public container image repositories.
+It is a common next step when building a container on top of a base image to perform an operating sytem update.
+This is usually to get things such as security patches, that may have come out since the initial image was built.
+This introduces another time dependant aspect into the image build process.
 If you are relying on various resources from the internet during such a build, what is at the other end of a URL can change or disappear from one build to the next.
 
 Container or VM images alone do not provide useful insight into what a particular piece of logic in a chain of inference is, nor why it was made.
