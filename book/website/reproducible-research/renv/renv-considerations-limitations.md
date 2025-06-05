@@ -126,7 +126,7 @@ If you are using these tools at different steps of your analysis it may be possi
 Sometimes though your are just stuck with this problem and have no good solutions.
 
 Dependency resolution is generally understood to be an [NP hard](https://en.wikipedia.org/wiki/NP-hardness) problem without guaranteed solutions, so searching your dependency tree for a reconcilable set of package versions can take a very long time and may not return a valid result.
-Functional package management side-steps this issue by having explicit for dependencies of each package, internally uniquely naming package versions and independently linking the dependencies of each package.
+Functional package management side-steps this issue by having explicit dependencies of each package, internally uniquely naming package versions and independently linking the dependencies of each package.
 This way each tool could make reference to a different version of the same dependency and not have this result in a conflict in an environment containing both tools.
 
 ## Functional package management
