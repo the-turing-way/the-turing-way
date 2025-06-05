@@ -65,6 +65,7 @@ Hard | Ensure external sources are properly referenced and included in the centr
 Hard | Do not add any empty files in the `myst.yml`, instead create an issue for new chapters |
 Soft | Ensure each chapter has a good summary on its landing page along with links to its subchapters. |
 Soft | Split long chapters into smaller subchapters so they are modular. |
+Soft | If you delete, change the name of, or move a page in `myst.yml` add a [redirect](#ch-infrastructure-redirects) |
 
 
 #### Language
