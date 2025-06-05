@@ -197,7 +197,7 @@ As our hardware does more, how and what it does matters more for reproducible an
 Unfortunately the firmware of GPUs and CPUs is almost universally closed and proprietary, making it unverifiable in the sense defined above.
 With the advent of more powerful RISC-V CPUs, these being somewhat more open than X84 and ARM, we may see improvements in openness at this level.
 RISC-V is presently still primarily used in low power applications and is not yet available in chips capable of competitive desktop computation.
-There is also no guarantee of openness in all regards, proprietary extensions to the instruction set are permitted.
+There is also no guarantee of openness in all regards on any given RISC-V chip, proprietary extensions to the RISC-V instruction set are permitted as it is permissively licensed.
 This is a significant problem for the independent verifiability of the trustworthiness of computation, as many of the same arguments advanced by Ken Thompson in [Reflections on trusing trust](https://archive.org/details/reflections-on-trusting-trust) [@thompsonReflectionsTrustingTrust2007] about compiler based attacks apply to the potential for firmware to be used as an attack vector.
 Supply chain attacks targeting, for example, hardware accelerated cryptographic functions like random number generation, have significant security implications, so the inability to independently build and flash firmware from open and auditable sources to such devices should be a source of considerable concern.
 
