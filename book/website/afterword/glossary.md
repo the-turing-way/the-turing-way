@@ -22,6 +22,12 @@ Artificial intelligence (AI)
   Also the field of study associated with imbuing synthetic systems with these capabilities.
   See also {term}`Machine Learning (ML)<Machine Learning (ML)>`
 
+Attack Surface
+: An attack surface is a place where a system is vulnerable to some form of compromise or hostile action.
+  In a computer system these might be network endpoints, through which a hacker could try to access a system.
+  A different attack vector could be a supply chain attack in which case the dependencies of a project become attack surfaces.
+  In a physical system points of entry into a building could be considered attack surfaces.
+
 Authors
 : Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 ```
@@ -138,6 +144,16 @@ CRediT Taxonomy
 ```{glossary}
 Data repository
 : A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
+
+Dependency (software)
+: **A piece of software that is required by some other piece of software.**
+
+  An application may make use of an existing software package to perform some particular function that it needs to perform, this package would be a **direct dependency** of the application.
+  A package may make use a package which itself makes use of other packages, these recursively related packages are called **transitive dependencies** of the first package.
+
+  Dependencies can also be **'build-time'** and/or **'run-time'**, a build-time dependency is needed for a package to be built into a distributable format.
+  For example a compiler would be a build-time dependency of any software written in a compiled language, but not necessarily a run-time dependency.
+  Run-time dependencies are used when the software is executed, and might be some tool which is expected to be installed and available on the system where the software is running.
 
 Differential privacy
 : A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
