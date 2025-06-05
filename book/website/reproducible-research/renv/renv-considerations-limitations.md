@@ -107,7 +107,8 @@ This leads in nicely to the bootstrapping problem for software dependency trees.
 Software is written as source code but is generally distributed as pre-built packaged binaries, this saves time and resources as it only needs to built once centrally.
 All of the tools necessary to build a given sequence of pieces of software must be available in the correct order to build up the dependency tree from source.
 For this to be possible the dependency tree must be a directed acyclic graph.
-acyclic (without cycles) as you cannot have a piece of software that indirectly depends on itself in order to be built, if you want to be able to bootstrap from source.
+acyclic means without cycles, as you cannot have a piece of software that indirectly depends on itself in order to be built, or you would become stuck unable to bootstrap from source.
+If 'A' requires 'B' to be built and 'B' requires 'A' to be built there is nowhere to start.
 You can easily end up with loops in this graph when using pre-built binaries from others if you are not fastidious about keeping such loops out.
 As you may imagine this gets interesting very fast for things like compilers, how these issues are resolved at the base of the tree is a fascinating subject in its own right but out of scope for the current discussion.
 For a large collection of software, like a modern operating system, compiling everything in the right order from source 'manually' is a very laborious process.
