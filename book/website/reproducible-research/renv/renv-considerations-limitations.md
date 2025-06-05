@@ -61,7 +61,8 @@ This is also true for services of this kind, for example those operating in regu
 
 ### Including things you do not need
 
-Another common problem here is 'packing more than you need' you might add something to your computational environment that you then never use and it's not always easy to tell what you do and do not need.
+Another common problem here is 'packing more than you need'.
+You might add something to your computational environment that you then never use and it's not always easy to tell what you do and do not need.
 Many of the dependencies [{term}`def<Dependency (software)>`] of what runs in your environment remain implicit.
 Your base operating system is sufficient to provide the environment that you need, but is all of it necessary?
 When trying to understand your environment most of these technologies leave you with a lot of noise, a lot of extra parts that may or may not be relevant.
