@@ -57,6 +57,6 @@ These pages on The Turing Way are designed to assist you in choosing the right p
 ---  
 height: 390px  
 name: project-framework-venn  
-alt: Venn diagram illustrating the relationships between different project management frameworks. Three overlapping circles represent **Iterative Frameworks (Flexible & Adaptive)**, **Structured Frameworks (Defined & Controlled)**, and **Change-Oriented Frameworks (Easily Adapts to Changes, Even Outside Sprints)**. **Scrum** is placed under Iterative Frameworks, **Agile/Kanban** falls under both Change-Oriented and Iterative, **Waterfall & Stage Gate** are under Structured, **PRINCE2** is positioned under Structured and Change-Oriented, while **Agile Stage Gate** sits underneath all three categories as a hybrid framework.  
+alt: Venn diagram illustrating the relationships between different project management frameworks. Three overlapping circles represent Iterative Frameworks (Flexible & Adaptive), Structured Frameworks (Defined & Controlled), and Change-Oriented Frameworks (Easily Adapts to Changes, Even Outside Sprints). Scrum is placed under Iterative Frameworks, Agile/Kanban falls under both Change-Oriented and Iterative, Waterfall & Stage Gate are under Structured, PRINCE2 is positioned under Structured and Change-Oriented, while Agile Stage Gate sits underneath all three categories as a hybrid framework.  
 ---  
 Project Framework Venn Diagram. Illustration by Kjirsten Fastabend, used under a CC-BY 4.0 license.
