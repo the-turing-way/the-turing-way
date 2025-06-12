@@ -3561,7 +3561,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/8619939?v=4",
       "profile": "https://github.com/iramosp",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -4883,7 +4884,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/151555588?v=4",
       "profile": "https://github.com/denisebianco",
       "contributions": [
-        "eventOrganizing"
+        "eventOrganizing",
+        "content"
       ]
     },
     {
@@ -5162,6 +5164,24 @@
       "profile": "https://github.com/cecibaldoni",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "gulesaman",
+      "name": "gulesaman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60602896?v=4",
+      "profile": "https://github.com/gulesaman",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DSrinivasKarthik",
+      "name": "D Srinivas Karthik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139240749?v=4",
+      "profile": "https://github.com/DSrinivasKarthik",
+      "contributions": [
+        "bug"
       ]
     }
   ],
