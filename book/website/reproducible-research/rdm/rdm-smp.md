@@ -20,11 +20,11 @@ Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/softwa
 An SMP is a document which describes how a specific software project will be developed and maintained, and over what period of time.
 It describes, for example, how the software will manage {ref}`version control<rr-vcs>`, how it will be {ref}`licensed<rr-licensing-floss>`, how it will manage {ref}`license compatibility<rr-licensing-compatibility>`, and so on.
 
-More than a document, a SMP should be a way for developers of research software to reflect on their process, make their choices more explicit, and consider what options are available to them.
+More than a document, a SMP should be a way for developers of research software to reflect on their process,  their choices more explicit, and consider what options are available to them.
 Ideally, this reflection should happen early on in the development process, and should be revised and updated on a regular basis.
 
 ### How can they benefit your research?
-An SMP can help the developers of research software make explict their intentions and choices on how they will manage their software project.
+An SMP can help the developers of research software make explicit their intentions and choices on how they will manage their software project.
 If you plan on sharing your code, it will help you ensure that your code is reusable by others.
 
 (rr-rdm-smp-what-software)=
