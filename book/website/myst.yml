@@ -809,6 +809,8 @@ project:
               title: Whistleblowing
             - file: ethical-research/activism/activism-env-impact.md
               title: The Environmental Impact of Digital Research
+            - file: ethical-research/activism/activism-digipres.md
+              title: Guerrilla Digital Preservation
             - file: ethical-research/activism/activism-robodebt.md
               title: Case study - Robodebt
             - file: ethical-research/activism/activism-case-study-google.md
