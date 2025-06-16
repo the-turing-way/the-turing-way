@@ -9,6 +9,7 @@ on:
 jobs:
   crowdin-contributors:
 
+    if: github.repository == 'the-turing-way/the-turing-way'
     runs-on: ubuntu-latest
 
     permissions:

@@ -8,6 +8,7 @@ on:
 jobs:
   external-link-check:
     name: External Link Check
+    if: github.repository == 'the-turing-way/the-turing-way'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout-repository
