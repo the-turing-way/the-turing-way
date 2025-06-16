@@ -3,7 +3,7 @@ name: External Link Check
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * MON"
+    - cron: '0 0 * * 1' # 'https://crontab.guru/#0_0_*_*_1'
 
 jobs:
   external-link-check:
