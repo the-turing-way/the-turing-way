@@ -15,6 +15,8 @@ Many researchers argue that time spent on reproducible research practices reduce
 What if you could get credit for your reproducibility efforts as well?
 In this chapter, we will describe how working reproducibly will allow you to get most of your research outputs published in a way that can be cited by others (not just your paper)!
 
+test
+
 ```{figure} ../figures/orcid-ids.*
 ---
 name: orcid-ids
