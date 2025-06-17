@@ -48,7 +48,21 @@ Applicants can mention their travel, accommodation, childcare, and accessibility
 
 Finally, we provide details regarding the event schedule and ask our applicants to indicate which time slots for collaborative co-working and social sessions would work for their time zones.
 
-## Reviewing process
+(ch-bookdash-application-processing)=
+## Processing Applications
+
+As of May 2025, processing Book Dash applications is currently a manual process usually conducted by the Research Community Manager or Research Project Manager.
+All of the applications from the Book Dash undergoe the following steps:
+1. Convert applications from form into a table for easy review
+2. Pseudo-anonymise applications as needed for review by Book Dash Planning Committee
+3. After the Book Dash Planning Committee reviews applications, gather all the applications flagged as "no", "wild card/request to discuss" into one table
+
+(ch-bookdash-application-anonymisation)=
+### Pseudo-anonymising 
+
+Pseudo-anonymising applications is an important step in enabling the Book Dash Plannnig Committee to review the 
+
+## Review process
 
 Applications for _The Turing Way_ book dashes are reviewed by at least 2 members of _The Turing Way_ core team.
 A response form created by the organising members using the rubrics described below, the response from which are shared among all the reviewers during a designated meeting between the panel members.
@@ -69,11 +83,12 @@ We ask our reviewers to consider the following questions:
 * Does the applicant have a clear, feasible, and relevant idea of how they will contribute to the book dash?	This scoring corresponds generally to reviews of "not ready", "enthusiastic" and "clear" respectively:
 * Is the applicant enthusiastic about reproducibility and the aims of _The Turing Way_?
 
-
 Based on their evaluation of the applications they will provide scores for different criteria that will be assessed as follows:
 1. Applicants who score **mostly 1s** do not have a clear idea/topic ready for contribution or do not have a clear understanding of the overall goals of _The Turing Way_ and book dash in general.
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
+
+All applications that have been flagged as a "wild card" and/or "request to discuss will be collated separately, so that .
 
 **Table summarising our scoring rubric and criteria for each score:**
 

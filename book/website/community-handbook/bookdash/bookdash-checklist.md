@@ -1,4 +1,4 @@
-# Book Dash Logistics
+# Book Dash Checklist
 
 We have created the following checklists, which are chronologically structured to help organise Book Dash events online or in-person.
 
