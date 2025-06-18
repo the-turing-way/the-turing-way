@@ -14,7 +14,6 @@ alt: Cartoon-like sketch of people in different nodes connecting into a central 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-
 ## Motivation
 
 The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection, stakeholder engagement, or research software engineering.
