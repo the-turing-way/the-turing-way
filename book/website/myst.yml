@@ -19,6 +19,8 @@ project:
       provider: github
       url: https://mybinder.org
       ref: main
+  plugins:
+    - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.1/curation.mjs
   bibliography:
     - _bibliography/references.bib
   toc:
@@ -46,6 +48,10 @@ project:
           title: How to Cite
         - file: foreword/faqs.md
           title: Frequently Asked Questions
+    # ===== Pathways
+    - title: Pathways
+      children:
+        - file: pathways/pathways-software-citation.md
     # ===== Guide for Reproducible Research ========================================
     - file: reproducible-research/reproducible-research.md
       children:
