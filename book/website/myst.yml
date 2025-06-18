@@ -888,15 +888,6 @@ project:
               title: Templates
             - file: community-handbook/contributing/contributing-workflow.md
               title: Workflow
-        - file: community-handbook/acknowledgement.md
-          title: Acknowledging Contributors
-          children:
-            - file: community-handbook/acknowledgement/acknowledgement-members.md
-              title: Community Members and Shared Ownership
-            - file: community-handbook/acknowledgement/acknowledgement-record.md
-              title: Record of Contributions
-            - file: community-handbook/acknowledgement/acknowledgement-examples.md
-              title: Different Contributions and Acknowledgements
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
