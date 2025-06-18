@@ -494,9 +494,9 @@ project:
           title: Social Media for Research Communications
           children:
             - file: communication/social-media/social-media-twitter-tips.md
-              title: Tips for starting with X
+              title: Starting with social media
             - file: communication/social-media/social-media-twitter-multiple.md
-              title: Managing multiple X accounts
+              title: Managing multiple accounts
         - file: communication/research-objects.md
           title: Research Objects in Action
           children:
