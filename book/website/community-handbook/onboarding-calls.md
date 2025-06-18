@@ -1,8 +1,6 @@
 (ch-onboarding-calls)=
 # Onboarding Calls
 
-![Alt: Two people, one woman with a long orange shirt and one guy with a blue shirt and a tie, and a large Welcome! sign at the back](https://i.imgur.com/NXOPPc4.jpg)
-
 ## About the Onboarding Calls
 
 Starting in 2024, onboarding calls are being hosted every two months, where experienced members of our community meet new members and create a space for them to connect with our community and available resources, ensuring they have the support they need to navigate and kickstart their journey with _The Turing Way_.

@@ -20,6 +20,53 @@ fi
   [headers.values]
     access-control-allow-origin = "*"
 
+# Wildcard redirect for old book url
+[[redirects]]
+  from = "https://the-turing-way.netlify.app/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+# Subdomain redirects
+# Wildcard redirect for www.book to book
+[[redirects]]
+  from = "https://www.book.the-turing-way.org/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+# Redirects for the start page
+[[redirects]]
+  from = "https://the-turing-way.org/*"
+  to = "https://the-turing-way.start.page/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.the-turing-way.org/*"
+  to = "https://the-turing-way.start.page/"
+  status = 302
+  force = true
+
+# Other helper redirects
+[[redirects]]
+  from = "https://git.the-turing-way.org/*"
+  to = "https://github.com/the-turing-way"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://news.the-turing-way.org/*"
+  to = "https://buttondown.email/turingway/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://slack.the-turing-way.org/*"
+  to = "https://join.slack.com/t/theturingway/shared_invite/zt-25ng40psm-rcaEBwhrEzsV4hhR6dz5uA"
+  status = 302
+  force = true
+
 # Redirects for old welcome/home/index page urls to current
 [[redirects]]
   # index.html no longer exists using Jupyter Book 2
@@ -45,20 +92,13 @@ fi
   force = true
 
 [[redirects]]
-  from = "https://the-turing-way.netlify.app"
-  to = "https://book.the-turing-way.org/"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
   from = "https://the-turing-way.netlify.app/introduction/*"
   to = "https://book.the-turing-way.org/"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
-# Book/chapter redirects
+# Redirects for old chapter top level pages
 [[redirects]]
   from = "/reproducible-research"
   to = "/reproducible-research/reproducible-research"
@@ -101,16 +141,17 @@ fi
   status = 301
   force = true
 
+# Redirects for moved chapters
 [[redirects]]
   from = "/version_control/*"
-  to = "/reproducible-research/vcs"
+  to = "/reproducible-research/vcs/:splat"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
 [[redirects]]
   from = "/binderhub/*"
-  to = "/reproducible-research/binderhub"
+  to = "/reproducible-research/binderhub/:splat"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
