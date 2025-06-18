@@ -29,10 +29,6 @@ strict:
 ci:
 	cd website && jupyter-book build --html --ci
 
-# Write pathways to your local copy of the book
-pathways:
-	pathways ./website/
-
 # Clean any build outputs and artifacts
 clean:
 	jupyter-book clean --all --yes ./website/_build
