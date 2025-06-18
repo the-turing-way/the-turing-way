@@ -857,8 +857,6 @@ project:
               title: Alt text
             - file: community-handbook/accessibility/accessibility-comms-platforms.md
               title: Communication Platforms
-        - file: community-handbook/local-build.md
-          title: Build the Turing Way Book locally
         - file: community-handbook/style.md
           title: Style Guide
           children:
@@ -899,17 +897,6 @@ project:
               title: Record of Contributions
             - file: community-handbook/acknowledgement/acknowledgement-examples.md
               title: Different Contributions and Acknowledgements
-        - file: community-handbook/accessibility.md
-          title: Accessibility Guidance and Policy
-          children:
-            - file: community-handbook/accessibility/accessibility-policy.md
-              title: Accessibility Policy
-            - file: community-handbook/accessibility/accessibility-event-organising.md
-              title: Event Organising
-            - file: community-handbook/accessibility/accessibility-alt-text.md
-              title: Alt text
-            - file: community-handbook/accessibility/accessibility-comms-platforms.md
-              title: Communication Platforms
         - file: community-handbook/translation.md
           title: Translation and Localisation
           children:
@@ -947,34 +934,6 @@ project:
               title: Newsletter's Style Guide
             - file: community-handbook/newsletters/newsletters-template.md
               title: The Turing Way Newsletter Template
-        - file: community-handbook/community-calls.md
-          title: Community Events and Calls
-          children:
-            - file: community-handbook/community-calls/community-calls-motivation.md
-              title: Motivation and Background
-            - file: community-handbook/community-calls/community-calls-collabcafe.md
-              title: Collaboration Cafes
-            - file: community-handbook/community-calls/community-calls-shareouts.md
-              title: Community Share Outs
-            - file: community-handbook/community-calls/community-calls-coworking.md
-              title: Mainainers Coworking Calls
-            - file: community-handbook/community-calls/community-calls-working-groups.md
-              title: Working Group Meetings
-            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
-              title: Coworking Drop-Ins
-            - file: community-handbook/community-calls/community-calls-office-hours.md
-              title: Office Hours (paused)
-            - file: community-handbook/community-calls/community-calls-core-team.md
-              title: Core Community Calls (discontinued)
-        - file: community-handbook/onboarding-calls.md
-          title: Onboarding and Offboarding
-          children:
-            - file: community-handbook/onboarding-offboarding/onboarding-checklist.md
-              title: Onboarding Checklist
-            - file: community-handbook/onboarding-offboarding/offboarding-checklist.md
-              title: Offboarding Checklist
-        - file: community-handbook/community-forums.md
-          title: Community Forums
         - file: community-handbook/community-calls.md
           title: Community Events and Calls
           children:
