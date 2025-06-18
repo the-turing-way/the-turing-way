@@ -14,7 +14,7 @@ Register here to attend: [add registration page link].
 
 - [ ] Create a planning issue on GitHub  - this issue's checklist
 - [ ] Identify date and time
-- [ ] Invite a chair from the Maintainers level - debrief them as needed (housekeeping, agenda, introducing speakers) - the team will help with timekeeping, zoom and notes management and helping with breakouts
+- [ ] Invite a chair from the Maintainers level - debrief them as needed (housekeeping, agenda, introducing speakers) - the team will help with timekeeping, Zoom and notes management and helping with breakouts
 - [ ] Set up the Framapad to guide the meeting (use templates from previous calls)
 - [ ] Set up a shared slide deck for all WG members to share updates before the event (use templates from previous calls)
 - [ ] Create a registration page (Google form template)
@@ -33,23 +33,23 @@ Register here to attend: [add registration page link].
 
 - [ ] Open the Zoom call 15 minutes in advance (keep the waiting room of Zoom enabled)
 - [ ] Test if speakers' microphone, camera and internet work alright - help troubleshoot any tech challenge
-- [ ] Let participants in right on time
+- [ ] Let participants in on time
 - [ ] Welcome them and share Etherpad
-- [ ] Remind them that the call will be recorded and that participants can use chat (but may not have the chance to speak during the 60 minutes live)
+- [ ] Remind them that the call will be recorded and that participants can use chat (but may not have the chance to speak during the 60-minute live)
 - [ ] Start recording (on Zoom Cloud) and enable transcription
-- [ ] At 5 minutes past, as people join, the person designated to welcome them will introduce the Turing Way, CoC, and Etherpad information and Present the topic
+- [ ] At 5 minutes past, as people join, the person designated to welcome them will introduce the Turing Way, CoC, and Etherpad information and present the topic
   - [ ] Share agenda
   - [ ]  Record the main room session
 
 ## After the session
 
 - [ ] Review Community Call pluses and deltas
-- [ ] Have a Community Call debrief with the Project Delivery Team
+- [ ] Have a Community Call debrief with the relevant working groups
 - [ ] Upload notes to the governance folder
 - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
 - [ ] Upload the video on The Turing Way YouTube - label and annotate well, and add the flyer as the video's front page
 - [ ] Share the published videos with the speakers
-- [ ] Summarise the session to send an update on Slack and newsletter
+- [ ] Summarise the session to send an update on Slack and the newsletter
 - [ ] Promote the video via Slack, Newsletter, Twitter
 - [ ] Update the book chapter and templates if needed
 - [ ] Add speakers to this GitHub repo using `all-contributions bot` for presentation
@@ -58,7 +58,6 @@ Register here to attend: [add registration page link].
 
 ## Who can help?
 
-- [ ] @the-turing-way/turing-staff-delivery-team
 - [ ] Maintenance Level members
 - [ ] Steering Committee members
 
@@ -67,6 +66,3 @@ Register here to attend: [add registration page link].
 Allocate tasks to different members
 
 _No response_
-
-### Who can help?
-The Project Delivery Team and Maintenance Level members
