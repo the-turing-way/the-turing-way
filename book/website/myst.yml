@@ -996,7 +996,7 @@ project:
             - file: community-handbook/fireside-chat/fireside-chat-checklist.md
               title: Fireside Chat Planning Checklist
             - file: community-handbook/fireside-chat/fireside-chat-roles.md
-              title: Fireside Chat Roles and Responsibilities
+              title: Fireside Chat Responsibilities
         - file: community-handbook/presenting.md
           title: Giving a Turing Way Talk
         - file: community-handbook/templates.md
