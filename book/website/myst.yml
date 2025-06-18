@@ -21,6 +21,9 @@ project:
       ref: main
   bibliography:
     - _bibliography/references.bib
+  plugins:
+    - type: executable
+      path: image_gallery_plugin.py
   toc:
     - file: index.md
     - file: foreword/foreword.md
@@ -1063,6 +1066,8 @@ project:
           title: Glossary
         - file: afterword/bibliography.md
           title: Bibliography
+        - file: afterword/image-gallery.md
+          title: Image Gallery
 site:
   options:
     logo: ./figures/logo-detail-with-text.svg
