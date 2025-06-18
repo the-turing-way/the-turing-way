@@ -724,13 +724,11 @@ project:
               title: Data Wrangler Overview
             - file: collaboration/research-infrastructure-roles/rse.md
               title: Research Software Engineers Overview
-            - file: >-
-                collaboration/research-infrastructure-roles/rse-personal-story.md
+            - file: collaboration/research-infrastructure-roles/rse-personal-story.md
               title: Research Software Engineering Personal Story
             - file: collaboration/research-infrastructure-roles/ram.md
               title: Research Application Manager Overview
-            - file: >-
-                collaboration/research-infrastructure-roles/research-infrastructure-developer.md
+            - file: collaboration/research-infrastructure-roles/research-infrastructure-developer.md
               title: Research Infrastructure Developer Overview
         - file: collaboration/remote-collab.md
           title: Remote Collaboration
