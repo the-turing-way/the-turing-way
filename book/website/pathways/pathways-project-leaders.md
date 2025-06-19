@@ -14,7 +14,7 @@ label: pathways-project-leaders
     - item: ../collaboration/leadership.md
 - item: ../project-design/project-design.md
   children:
-    - item: ../project-design/pd-overview/pd-overview.md
+    - item: ../project-design/pd-overview.md
       children:
         - item: ../project-design/pd-overview/pd-overview-planning.md
         - item: ../project-design/pd-overview/pd-overview-repro.md
