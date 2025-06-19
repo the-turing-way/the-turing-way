@@ -7,7 +7,7 @@ depth: 2
 description: >
   Project leaders are people who are responsible for project planning, resource allocation and other decision-making for and with the involvement of their project team.
   This curated set of chapters will point them to relevant tools and practices that they can use for managing their projects while ensuring transparency, reproducibility, collaboration and ethical practices throughout the lifecycle of research.
-label: pathways-project-leaders
+label: pathway-project-leaders
 ---
 - item: ../collaboration/collaboration.md
   children:

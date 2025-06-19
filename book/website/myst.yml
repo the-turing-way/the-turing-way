@@ -50,6 +50,7 @@ project:
           title: Frequently Asked Questions
     # ===== Pathways ===============================================================
     - title: Pathways
+      file: pathways/pathways.md
       children:
         - file: pathways/pathways-data-science-without-borders.md
         - file: pathways/pathways-data-stewards.md
