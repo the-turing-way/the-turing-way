@@ -55,6 +55,7 @@ project:
         - file: pathways/pathways-early-career-researchers.md
         - file: pathways/pathways-project-leaders.md
         - file: pathways/pathways-research-community-managers.md
+        - file: pathways/pathways-research-software-engineers.md
         - file: pathways/pathways-software-citation.md
     # ===== Guide for Reproducible Research ========================================
     - file: reproducible-research/reproducible-research.md
