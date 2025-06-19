@@ -95,7 +95,6 @@ To build the book with pathways enabled, see the [](#other-targets:pathways) sec
 ````
 
 The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
-Open `book/website/_build/html/index.html` in your web browser to look at your local build.
 
 ### Serve the book locally
 
