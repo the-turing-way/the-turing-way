@@ -48,11 +48,12 @@ project:
           title: How to Cite
         - file: foreword/faqs.md
           title: Frequently Asked Questions
-    # ===== Pathways
+    # ===== Pathways ===============================================================
     - title: Pathways
       children:
         - file: pathways/pathways-data-stewards.md
         - file: pathways/pathways-early-career-researchers.md
+        - file: pathways/pathways-project-leaders.md
         - file: pathways/pathways-research-community-managers.md
         - file: pathways/pathways-software-citation.md
     # ===== Guide for Reproducible Research ========================================
