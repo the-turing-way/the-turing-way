@@ -27,6 +27,8 @@ For Netlify to redirect a domain, that domain **must**,
 2. The [domain must be assigned to the site](https://docs.netlify.com/routing/redirects/redirect-options/#domain-level-redirects).
    After your primary domain, these extra domains should be added as [aliases](https://docs.netlify.com/domains/configure-domains/add-a-domain-alias/).
    This is so that Netlify knows that _we_ want to handle the requests to these domains reaching their load balancer, as they host many site with their own rules.
+3. For HTTPS support, the TLS certificate must include the subdomain to redirect.
+   You can view which domains the cert covers in the Netlify dashboard, and renew the cert if you have added new subdomains.
 :::
 
 ## Our redirects
