@@ -20,7 +20,7 @@ project:
       url: https://mybinder.org
       ref: main
   plugins:
-    - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.1/curation.mjs
+    - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
   bibliography:
     - _bibliography/references.bib
   toc:
