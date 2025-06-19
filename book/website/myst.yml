@@ -51,6 +51,7 @@ project:
     # ===== Pathways ===============================================================
     - title: Pathways
       children:
+        - file: pathways/pathways-data-science-without-borders.md
         - file: pathways/pathways-data-stewards.md
         - file: pathways/pathways-early-career-researchers.md
         - file: pathways/pathways-project-leaders.md
