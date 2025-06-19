@@ -52,6 +52,7 @@ project:
     - title: Pathways
       children:
         - file: pathways/pathways-data-stewards.md
+        - file: pathways/pathways-research-community-managers.md
         - file: pathways/pathways-software-citation.md
     # ===== Guide for Reproducible Research ========================================
     - file: reproducible-research/reproducible-research.md
