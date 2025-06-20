@@ -77,7 +77,7 @@ Three rules make a dataset tidy:
 2. Each observation must have its own row.
 3. Each value must have its own cell.
 
-There are data validation tools available, like https://goodtables.io, that allow you to automatically check whether your spreadsheets are tidy.
+There are data validation tools available, like [Frictionless Data](https://frictionlessdata.io/)'s [Python package](https://framework.frictionlessdata.io/) or [GitHub Action](https://repository.frictionlessdata.io/), that allow you to automatically check whether your spreadsheets are tidy.
 
 (rr-rdm-spreadsheets-consistent)=
 ## 3. Consistent Values
