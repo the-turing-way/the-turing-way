@@ -50,11 +50,13 @@ For readers, Pathways can be found in a [dedicated section](#pw) immediately aft
 For contributors, the `curation` directives can be edited.
 These are written in the Markdown files in the Pathways section.
 For example, [the Data Stewards pathway](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/pathways/pathways-data-stewards.md)
-The [myst-curation demo site](https://the-turing-way.github.io/myst-curation/) also has examples of how use the directive.
+The [myst-curation demo site](https://the-turing-way.github.io/myst-curation/) also has examples of how to use the directive.
 
-### Development and Maintenance
+### Transitioning Python Package to MyST Plugin
 
-With a strong emphasis on user experience, the Pathway feature was developed in two stages:
+The MyST plugin replaces a Python package implementation of the Pathway feature originally developed to address the community's need to make resources browsable.
+
+The Python package was developed in two stages through separate funding and team involvement:
 
   * **Stage 1 - Prototype Development**: A team of developers collaborated with *The Turing Way* team between 2021 and 2022 to explore various solutions for improving content discoverability within *The Turing Way*.
 To maintain the book's lightweight nature and minimise the maintenance burden, a Python package was developed and implemented on a test version of the book.
