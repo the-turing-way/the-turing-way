@@ -39,6 +39,5 @@ label: pathway-community-management-concepts
   children:
     - item: ../community-handbook/accessibility.md
     - item: ../community-handbook/acknowledgement.md
----
 :::
 
