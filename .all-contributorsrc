@@ -5174,6 +5174,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "DSrinivasKarthik",
+      "name": "D Srinivas Karthik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139240749?v=4",
+      "profile": "https://github.com/DSrinivasKarthik",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
