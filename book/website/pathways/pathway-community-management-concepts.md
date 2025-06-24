@@ -1,11 +1,12 @@
-(pw-research-community-managers)=
+(pw-community-management-concepts)=
 # Community Management Concepts
+:::{curation} Community Management Concepts
 ---
 depth: 2
 description: >
    Research Community Managers work to engage and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives.
    This curated set of chapters will allow them to gain awareness and knowledge of relevant best practices in open data science and concepts important to community building.
-label: pathway-research-community-managers-concepts
+label: pathway-community-management-concepts
 ---
 - item: ../reproducible-research/reproducible-research.md
   children:
