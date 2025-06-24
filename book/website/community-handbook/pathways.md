@@ -18,6 +18,8 @@ This user experience risks discouraging community members from effectively using
 To tackle this issue, we've introduced the 'Pathways' feature.
 Drawing on the concepts of [Personas and Pathways](#pd-persona), this is implemented as a [MyST plugin](https://github.com/the-turing-way/myst-curation), designed to improve content discovery (pathways) by preventing users (personas) from being overwhelmed with information that may not be immediately relevant.
 
+This MyST plugin replaces a Python package developed within *The Turing Way* to integrate with the JupyterBook ecosystem, and make the reuse of this feature easier for others.
+
 ```{figure} ../figures/open-development-path.jpg
 ---
 height: 400px
