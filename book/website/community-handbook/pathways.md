@@ -60,10 +60,10 @@ The MyST plugin replaces a Python package implementation of the Pathway feature 
 
 The Python package was developed in two stages through separate funding and team involvement:
 
-  * **Stage 1 - Prototype Development**: A team of developers collaborated with *The Turing Way* team between 2021 and 2022 to explore various solutions for improving content discoverability within *The Turing Way*.
-To maintain the book's lightweight nature and minimise the maintenance burden, a Python package was developed and implemented on a test version of the book.
-This stage received support through internal funding and collaboration with the Research Engineering Group at The Alan Turing Institute ([read proposal](https://github.com/the-turing-way/project-management/blob/main/proposals/2021-07-ux-funding-turing.md)).
-  * **Stage 2 - User Testing and Implementation**: This stage focused on gathering and integrating user feedback on the prototype and incorporating the Python package into *The Turing Way*'s main GitHub repository.
-This stage was supported by volunteer members and *The Turing Way* through Google Summer of Code in 2023 (read [proposal and report](https://github.com/the-turing-way/pathways/)).
+* **Stage 1 - Prototype Development**: A team of developers collaborated with *The Turing Way* team between 2021 and 2022 to explore various solutions for improving content discoverability within *The Turing Way*.
+  To maintain the book's lightweight nature and minimise the maintenance burden, a Python package was developed and implemented on a test version of the book.
+  This stage received support through internal funding and collaboration with the Research Engineering Group at The Alan Turing Institute ([read proposal](https://github.com/the-turing-way/project-management/blob/main/proposals/2021-07-ux-funding-turing.md)).
+* **Stage 2 - User Testing and Implementation**: This stage focused on gathering and integrating user feedback on the prototype and incorporating the Python package into *The Turing Way*'s main GitHub repository.
+  This stage was supported by volunteer members and *The Turing Way* through Google Summer of Code in 2023 (read [proposal and report](https://github.com/the-turing-way/pathways/)).
 
 The development process, driven by active user engagement, feedback, and an open-source approach, has resulted in a valuable addition to *The Turing Way*, further supporting its mission of making data science accessible to all.
