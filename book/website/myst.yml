@@ -20,7 +20,7 @@ project:
       url: https://mybinder.org
       ref: main
   bibliography:
-    - ../_bibliography/references.bib
+    - ../references.bib
   toc:
     - file: index.md
     - file: foreword/foreword.md
