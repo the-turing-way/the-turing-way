@@ -62,7 +62,7 @@ Accordingly, everyone who participates in _The Turing Way_ project is expected t
 
 Learn more about our community members and community-level approaches in the {ref}`aw` of this book. 
 
-```{figure} _static/videos/contributors.mp4
+```{figure} ../_static/videos/contributors.mp4
 ---
 name: contributors-table-video
 alt: Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.
