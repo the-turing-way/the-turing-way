@@ -19,7 +19,7 @@ You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-
 
 In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to get involved.
 
-```{figure} figures/theturingway-pathway.*
+```{figure} ../figures/theturingway-pathway.*
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
