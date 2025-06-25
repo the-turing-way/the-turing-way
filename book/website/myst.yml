@@ -56,7 +56,8 @@ project:
         - file: pathways/pathways-data-stewards.md
         - file: pathways/pathways-early-career-researchers.md
         - file: pathways/pathways-project-leaders.md
-        - file: pathways/pathways-research-community-managers.md
+        - file: pathways/pathways-community-management-concepts.md
+        - file: pathways/pathways-community-management-operations.md
         - file: pathways/pathways-research-software-engineers.md
         - file: pathways/pathways-software-citation.md
     # ===== Guide for Reproducible Research ========================================
