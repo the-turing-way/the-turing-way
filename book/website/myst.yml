@@ -19,8 +19,12 @@ project:
       provider: github
       url: https://mybinder.org
       ref: main
+  plugins:
+    - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
   bibliography:
     - _bibliography/references.bib
+  references:
+    myst-spec: https://mystmd.org/spec
   toc:
     - file: index.md
     - file: foreword/foreword.md
@@ -46,6 +50,18 @@ project:
           title: How to Cite
         - file: foreword/faqs.md
           title: Frequently Asked Questions
+    # ===== Pathways ===============================================================
+    - title: Pathways
+      file: pathways/pathways.md
+      children:
+        - file: pathways/pathways-data-science-without-borders.md
+        - file: pathways/pathways-data-stewards.md
+        - file: pathways/pathways-early-career-researchers.md
+        - file: pathways/pathways-project-leaders.md
+        - file: pathways/pathways-community-management-concepts.md
+        - file: pathways/pathways-community-management-operations.md
+        - file: pathways/pathways-research-software-engineers.md
+        - file: pathways/pathways-software-citation.md
     # ===== Guide for Reproducible Research ========================================
     - file: reproducible-research/reproducible-research.md
       children:
