@@ -18,7 +18,7 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 ### Deploying
 
 The site is built automatically using the two directories `book` and `book/website`.
-All of the dependencies are specified in `website/dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
+All of the dependencies are specified in `dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
 
 Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
