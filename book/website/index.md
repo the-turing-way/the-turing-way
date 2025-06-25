@@ -76,5 +76,3 @@ All contributions must abide by our [code of conduct](https://github.com/the-tur
 More information about the community, participation process and project management is available in the {ref}`ch`.
 
 We look forward to expanding and building _The Turing Way_ together.
-
-## Different Pathways
