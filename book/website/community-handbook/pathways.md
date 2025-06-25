@@ -57,6 +57,12 @@ The [myst-curation demo site](https://the-turing-way.github.io/myst-curation/) a
 ### Transitioning Python Package to MyST Plugin
 
 The MyST plugin replaces a Python package implementation of the Pathway feature originally developed to address the community's need to make resources browsable.
+With the book's migration to MyST and JupyterBook2, we wanted to create a new MyST-native pathways implementation taking advantage of the [MyST abstract syntax tree](https://mystmd.org/spec#myst-abstract-syntax-tree).
+In the long term this approach has a number of advantages, including,
+
+- Fewer lines of code
+- A simpler process to build the book with pathways
+- A more generic package, which other MyST or JupyterBook projects may want to use
 
 The Python package was developed in two stages through separate funding and team involvement:
 
