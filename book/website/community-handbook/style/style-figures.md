@@ -68,7 +68,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../../figures/first-pull-request.*
 ---
 height: 400px
 label: first-pull-request
@@ -85,7 +85,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 ````
 
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../../figures/first-pull-request.*
 ---
 height: 400px
 label: first-pull-request

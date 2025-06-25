@@ -60,7 +60,7 @@ In short:
 - **The first row is the header** 
 - Header names must not include a special character (including space) or start with a number
 
-```{figure} ../../figures/tidy-1.*
+```{figure} ../../../figures/tidy-1.*
 ---
 name: tidy-1
 alt: >

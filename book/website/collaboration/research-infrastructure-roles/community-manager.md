@@ -5,7 +5,7 @@ Community Management as a profession was developed to facilitate the social, inf
 Community Managers have been employed in open source projects in technical industries  since the early 1990's @michlmayr2009community , and more recently in research organisations (Universities and research institutes), where they are often known as Research Community Managers.
 
 
-```{figure} ../../figures/research-community-manager.*
+```{figure} ../../../figures/research-community-manager.*
 ---
 height: 500px
 name: research-community-manager

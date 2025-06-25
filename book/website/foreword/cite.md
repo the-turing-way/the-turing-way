@@ -17,7 +17,7 @@ You might want to include a [web archive link](http://web.archive.org), such as 
 
 ## Citing _The Turing Way_ Illustrations
 
-```{figure} ../figures/banner-thanks.jpg
+```{figure} ../../figures/banner-thanks.jpg
 ---
 name: banner-thanks
 alt: > 

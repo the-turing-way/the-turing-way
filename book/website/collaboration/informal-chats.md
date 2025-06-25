@@ -6,7 +6,7 @@ These are scheduled in advance so that everyone can plan their work and other me
 The purpose is to share a social break together.
 Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
-```{figure} ../figures/remote-book-dash.*
+```{figure} ../../figures/remote-book-dash.*
 ---
 name: remote-book-dash
 width: 500px

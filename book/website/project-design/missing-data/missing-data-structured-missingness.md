@@ -27,7 +27,7 @@ This is common in research contexts where data is combined from multiple studies
 
 Many datasets, fusing data from multiple sites and modalities, do take care to follow a certain design and data collection process. However, machine learning methods perform best with large datasets. It is common practice for a machine learning model to include data from many studies, often with different designs and variables. Missing values may therefore include information in and of themselves; they may be related to sampling methodologies or reflect population characteristics. Traditional imputation methods, such as those introduced in ref{`pd-missing-data-methods`}, frequently are not appropriate for handling SM and do not take advantage of the information inherent in SM {cite:ps}`Mitra2023structuredmissingness`. SM also has consequences for downstream analyses; if there is bias to the SM mechanisms, the fairness of the model would be in question. Further research is required to identify appropriate methods for universally handling SM and in defining SM within the MCAR, MAR, and MNAR framework {cite:ps}`Jackson2023structuredmissingness`. 
 
-```{figure} ../../figures/missing-data-structured-missingness.png
+```{figure} ../../../figures/missing-data-structured-missingness.png
 ---
 height: 500px
 name: missing-data-structured-missingness

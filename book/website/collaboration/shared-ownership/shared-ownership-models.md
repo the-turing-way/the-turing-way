@@ -31,7 +31,7 @@ In addition to the roles, governance also includes the decision-making processes
 As discussed, a clearly defined set of roles and responsibilities allows individuals or groups to build a sense of common purpose and set a clear expectation around shared ownership in the project.
 These roles can be developed based on the tasks, responsibilities and skill requirements in the project.
 
-```{figure} ../../figures/mountain-of-engagement-graphic.*
+```{figure} ../../../figures/mountain-of-engagement-graphic.*
 ---
 name: mountain-of-engagement
 alt: Infographic outlining a five-step process to assess and improve engagement with your work, known as 'Mountain of Engagement'. 1. A clipboard icon representing making a list of people’s interactions with your work; 2. A pyramid diagram defining 3–5 bands or levels of engagement; 3. Interactions are grouped into bands and labelled, with a larger pyramid showing example slots for each band; 4. Icons of a red X and a green check mark under a magnifying glass represent identifying what works and what doesn’t. 5. A lightbulb and chart icon symbolising how to use this information to prioritise your work and create more engagement opportunities.
