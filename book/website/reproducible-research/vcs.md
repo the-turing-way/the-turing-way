@@ -26,7 +26,7 @@ For example, when writing a paper with multiple collaborators, version control c
 
 
 
-```{figure}  ../figures/project-history.*
+```{figure}  ../../figures/project-history.*
 ---
 name: project-history
 alt: >

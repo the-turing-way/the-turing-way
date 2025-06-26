@@ -4,7 +4,7 @@
 _The Turing Way_ [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
 
-```{figure} ../figures/book-dash-collaboration.*
+```{figure} ../../figures/book-dash-collaboration.*
 ---
 height: 500px
 name: book-dash-collaboration
@@ -19,7 +19,7 @@ These virtual Book Dashes are five days long, designed for flexible participatio
 Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hour short collaborative co-working calls, called "contribution sessions" each day based on their availability.
 In the future, we will co-design hybrid events with an "online-first" approach for the Book Dash attendees who will have the opportunity to organise small local meet-ups for collaboration and social events.
 
-```{figure} ../figures/first-pull-request.*
+```{figure} ../../figures/first-pull-request.*
 ---
 height: 400px
 name: book-dash

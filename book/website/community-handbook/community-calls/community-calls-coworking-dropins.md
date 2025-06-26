@@ -10,7 +10,7 @@ The primary goal of these sessions is to provide an opportunity for answering ta
 The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or further collaboration.
 The sessions are also an opportunity to learn about and connect with new teams and individuals that an attendee may not regularly connect with.
 
-```{figure} ../../figures/research-communities.*
+```{figure} ../../../figures/research-communities.*
 ---
 height: 400px
 name: research-communities

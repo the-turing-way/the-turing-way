@@ -27,7 +27,7 @@ You can think of these as saving versions of these files.
 If you need to go back to a previous version of a file because of a mistake, or if you changed your mind about a previous update, you can access the file in your preferred version, or return your entire project to a past state.
 
 
-```{figure} ../../figures/main-branch.*
+```{figure} ../../../figures/main-branch.*
 ---
 name: main-branch
 alt: >

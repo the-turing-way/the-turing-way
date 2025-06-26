@@ -143,7 +143,7 @@ You have likely been on the receiving end of error messages that were of little 
 An error message is unhelpful when it is too broad, too vague, or unclear about what the next steps may be.
 When making your program robust, you should therefore put thought into the information you provide in an error message.
 
-```{figure} ../../figures/error-management.*
+```{figure} ../../../figures/error-management.*
 ---
 name: error-management
 alt: Three stages of error management. Left, a person working on a computer that is smoking, but the screen is clear and the person is unaware that there is a problem. Middle, a person with a computer that is smoking, displaying an error message. The person does not understand the message and is confused. Right, a person with a smoking computer that is presenting a clear error message. The person can now fix the problem and is happy.

@@ -4,7 +4,7 @@
 > This is a summary of a discussion held at the June 2024 Book Dash event between participants.
 > As such, this sub-chapter may appear more opinionated than other chapters in the guides.
 
-```{figure} ../../figures/feedback-loop-process.*
+```{figure} ../../../figures/feedback-loop-process.*
 ---
 height: 400px
 name: Culture Change Through Feedback Loops

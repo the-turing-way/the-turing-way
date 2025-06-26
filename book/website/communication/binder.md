@@ -55,7 +55,7 @@ There is a **free and public** version of this interface running at [**mybinder.
 
 The cartoon below, by Juliette Taka, demonstrates one workflow a that scientist using Binder might adopt.
 
-```{figure} ../figures/binder-comic.*
+```{figure} ../../figures/binder-comic.*
 ---
 name: binder_comic
 alt: Illustration showing the steps Jane takes to make her computational research reproducible using Jupyter Notebooks and Binder.
@@ -127,7 +127,7 @@ And as has been mentioned, mybinder.org is a completely public service and you s
 However, mybinder.org does run an add-on called [`jupyter-offlinenotebook`](https://github.com/manics/jupyter-offlinenotebook) which provides a download button to save your notebooks locally, _even if your browser has lost its connection with the cloud infrastructure that is providing the compute!_
 This means you can save your progress locally, update your repository with your saved notebooks, and relaunch your Binder with the updated notebooks.
 
-```{figure} ../figures/binder_notebook_banner.*
+```{figure} ../../figures/binder_notebook_banner.*
 ---
 name: binder_notebook_banner
 alt: Screenshot of a Jupyter Notebook interface running on mybinder.org. The “Download” button near the top right is highlighted in purple. This button allows users to save their notebook file locally. The notebook is titled “visualise,” and the interface shows standard Jupyter toolbar options, including file operations, kernel selection, and resource usage (147.1 MB / 2 GB). 

@@ -10,7 +10,7 @@
 | {ref}`Organising Coworking Calls or Meetings <cl-coworking>` and {ref}`Chairing Events <cl-chairing>`  | Helpful    | Beginner     | These chapters may be useful if you are planning to host events and/or co-working during an ambassador scheme
 | {ref}`Tools for Collaboration <cl-event-tools>`  | Helpful    | Beginner     | This chapter gives a useful overview of collaboration tools which can be deployed in an ambassador scheme
 
-```{figure} ../figures/peer-learning.*
+```{figure} ../../figures/peer-learning.*
 ---
 height: 500px
 name: peer-learning

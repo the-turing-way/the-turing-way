@@ -34,7 +34,7 @@ We provide an example of alt text in the section below.
 ## Using MyST syntax to add a figure to a _Turing Way_ chapter
 
 All our chapters are written in Markdown files.
-Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.*)`, where the relative path of the image file is provided inside the round brackets '()'.
+Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../../figures/file-collection.*)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
 Furthermore, this doesn't allow authors to resize figures in their chapters or cross-reference them somewhere else in the book.
@@ -51,7 +51,7 @@ Using the parameter: `name`, you can reference figures in other chapters in a si
 All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in a section within a markdown file using the following directive:
 
 ````
-```{figure} ../../figures/file-collection.*
+```{figure} ../../../figures/file-collection.*
 ---
 height: 500px
 name: file-collection
@@ -65,7 +65,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
 
-```{figure} ../../figures/file-collection.*
+```{figure} ../../../figures/file-collection.*
 ---
 height: 500px
 name: file-collection
@@ -78,7 +78,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 When an image cannot be loaded in a browser or the link to the image breaks, alt text is displayed in place of a figure as shown below:
 
-```{figure} ../../figures/alt-text-demo.*
+```{figure} ../../../figures/alt-text-demo.*
 ---
 name: alt-text-demo
 alt: >
@@ -105,7 +105,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../../figures/first-pull-request.*
 ---
 height: 400px
 name: first-pull-request
@@ -122,7 +122,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 ````
 
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../../figures/first-pull-request.*
 ---
 height: 400px
 name: first-pull-request-demo
