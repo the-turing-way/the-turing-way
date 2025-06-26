@@ -5184,6 +5184,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "nkosaku",
+      "name": "Kosaku Nakano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64463851?v=4",
+      "profile": "https://github.com/nkosaku",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
