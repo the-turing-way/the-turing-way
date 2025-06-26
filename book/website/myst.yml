@@ -22,7 +22,7 @@ project:
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
   bibliography:
-    - ../references.bib
+    - references.bib
   references:
     myst-spec: https://mystmd.org/spec
   toc:
