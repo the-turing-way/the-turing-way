@@ -800,6 +800,8 @@ project:
           title: Research Ethics Committees Workflows
         - file: ethical-research/preclinical-research.md
           title: Ethical Decisions in Preclinical Research
+        - file: ethical-research/community-research-ethics.md
+          title: Community Centered Health Research Ethics
         - file: ethical-research/law-policy.md
           title: Law, Policy and Human Rights in Ethics
           children:
