@@ -4905,7 +4905,8 @@
       "contributions": [
         "content",
         "a11y",
-        "review"
+        "review",
+        "bug"
       ]
     },
     {
