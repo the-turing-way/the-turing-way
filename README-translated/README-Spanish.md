@@ -112,13 +112,13 @@ Si tienes alguna pregunta por favor [contáctanos](#get-in-touch).
 
 Las ilustraciones del _The Turing Way_ se han creado por artistas de [Scriberia](https://www.scriberia.co.uk/) como parte de [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) en Manchester el 17 de mayo de 2019, en Londres el 28 de mayo de 2019 y el 21 de febrero de 2020.
 Las mismas representan una variedad de contenidos del manual, de los esfuerzos de colaboración en la comunidad y del proyecto _The Turing Way_ en general.
-Estas ilustraciones están disponibles en Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) bajo una licencia CC-BY.
+Estas ilustraciones están disponibles en Zenodo ([https://zenodo.org/record/13882307)](https://zenodo.org/record/13882307) bajo una licencia CC-BY.
 
 Cuando utilices cualquiera de las imágenes, por favor incluye la siguiente atribución:
 > Esta imagen fue creada por Scriberia para la comunidad The Turing Way y se usa bajo una licencia CC-BY.
 
 La última versión de Zenodo se puede citar como:
-> The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
+> The Turing Way Community, & Scriberia. (2024). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.13882307
 
 Hemos utilizado algunas de estas ilustraciones en las respuestas a las contribuciones de personas que se integran a esta comunidad en el [Bot de bienvenida](https://github.com/apps/welcome) de este repositorio de GitHub.
 
@@ -126,14 +126,13 @@ Hemos utilizado algunas de estas ilustraciones en las respuestas a las contribuc
 
 #### Email
 
-Puedes ponerte en contacto con nuestra administradora de la comunidad **Malvika Sharan** por correo electrónico a [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-Alternativamente, puedes comunicarte con la investigadora principal **Kirstie Whitaker** por correo electrónico a [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Puede ponerse en contacto con el equipo de *The Turing Way* enviando un correo electrónico a [theturingway@gmail.com](mailto:theturingway@gmail.com) o [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 
 
 #### Chat
 
-Conectar con otros y compartir tus ideas en Slack usando [este enlace de invitación](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
+Conectar con otros y compartir tus ideas en Slack usando [este enlace de invitación](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA). 
 
 Tenemos una sala de chat de Gitter (si prefieres una alternativa de código abierto para el chat) y nos encantaría que pasaras a saludar a <https://gitter.im/the-turing-way/the-turing-way>.
 Este foro también está sincronizado con [Matrix](https://matrix.org) en [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y puedes unirte a nosotros allí si lo prefieres.
@@ -143,7 +142,7 @@ Este foro también está sincronizado con [Matrix](https://matrix.org) en [#the-
 También tenemos una lista de correos a la que enviamos actualizaciones mensuales del proyecto.
 Subscríbete en <https://buttondown.com/turingway>.
 
-También puedes seguirnos en nuestro Twitter ([@turingway](https://twitter.com/turingway)).
+También puedes seguirnos en [Mastodon](https://fosstodon.org/@turingway), [Bluesky](https://bsky.app/profile/turingway.bsky.social) y [Linkedin](https://www.linkedin.com/company/the-turing-way/).
 
 ## Colaboradores
 
