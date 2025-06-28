@@ -56,7 +56,7 @@ $ python3 -m venv ./venv
 Next, active the virtual environment,
 ::::{tab-set}
 :::{tab-item} Unix
-:sync: linux
+:sync: Unix
 ```console
 $ source ./venv/bin/activate
 ```
