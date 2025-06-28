@@ -54,10 +54,21 @@ $ python3 -m venv ./venv
 ```
 
 Next, active the virtual environment,
-
+::::{tab-set}
+:::{tab-item} Unix
+:sync: Unix
 ```console
 $ source ./venv/bin/activate
 ```
+:::
+:::{tab-item} Windows
+:sync: Windows
+```console
+$ venv\Scripts\activate
+```
+:::
+::::
+
 
 Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
 Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
