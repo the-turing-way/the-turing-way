@@ -26,6 +26,18 @@ For example, if a new release of the project will be made or an event will be ho
 
 For details, please see [this presentation](https://docs.google.com/presentation/d/e/2PACX-1vSMCLWnN1_lO4ofD9cCjN9TJxyHYIvBFfgarOlwi95G4JJ5m672v-sYFbvfRyHPag83XviEJBrIecga/pub?start=false&loop=false&delayms=3000) by the [Open Life Science](https://openlifesci.org/) training and mentoring program.
 
+## Strategic roadmapping
+
+Your project might grow beyond what you initially set out to do in which case it can be useful to create a strategic roadmap.
+Similarly to a project roadmap, a strategic roadmap covers the following aspects:
+1. The purpose and objectives for this roadmap.
+2. The scope of your roadmap - you might create several roadmaps to cover different aspects of your project to make.
+3. [Stakeholders](https://book.the-turing-way.org/project-design/stakeholders): The people you need to involve or inform in the project you are roadmapping.
+4. Your starting position: 
+5. Milestones
+6. Action plan
+
+
 ## Case Study: AutSPACES Project
 
 *This case study has been drafted by Lotty Coupet, a community manager of the AutSPACES project (2021).*
