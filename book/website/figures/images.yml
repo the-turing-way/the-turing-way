@@ -1,0 +1,76 @@
+images:
+  - filename: academic-industry-partnership.jpg
+    alt-text: >-
+      a man in academic and a woman in industry, both sitting at a desk with a laptop; then speaking to each other
+    alt-text-long:
+    tags: [communication, collaboration, impact]
+  - filename: thank-you-contributors.jpg
+    alt-text:
+    alt-text-long: >-
+      A handrawn image by Scriberia artist of a garden. "Thanks for Contributing to the Turing Way" is written at the top in scripted text in green and black. The image is drawn in shades of green, grey, and black: in a cartoon-like style. The garden contacts a toolshed in the far corner, with bushes that contain pie charts. There is a pond that contains ones and zeroes, like binary code. The phrase "thanks" is drawn on a flower label, that is stuck into a flower pot that has leafy green roots coming out of the pot.
+    tags: [acknowledgement]
+  - filename: embedding-justice.jpg
+    alt-text: >-
+      An educator explains how to consider ethics to a group of students. The ethical questions are peppered throughout their learning experience which in the image is illustrated as growing trees.
+    alt-text-long:
+    tags: [ethics]
+  - filename: learning-levels.jpeg
+    alt-text:
+    alt-text-long: >-
+      The R development guide welcomes contributors to the R project from all levels, beginners, intermediate, and seasoned. The image shows contributors at the beginners levels putting the building blocks together, the contributors at intermediate levels who are familiar with some tools using them to build the project further, and those at the seasoned stage constructing more advanced work (described here by building with bricks, crane and a huge city, respectively.)
+    tags: [ethics]
+  - filename: ambassador-program-roche.jpeg
+    alt-text:
+    alt-text-long: >-
+      10 students are pictured in a circle who are the Turing-Roche Community scholars. Around them in bubbles are their 9 projects represented- a book with risk of bias written on it, a book with a jigsaw piece, a data scientist and clinician shaking hands, a seminar series, a buzzer, a youtube logo, a podcast microphone logo, a technical seminar series adn an image of a video camera. Turing and Roche logos are in a love heart with an arrow through it and scholars are pictured talking to others with the love heart logo. They are also pictured chatting with each other in graduation gowns and caps and traveling round the globe on a plane.
+    tags: []
+  - filename: licensing.jpg
+    alt-text:
+    alt-text-long: >-
+      A hand reaches out of an open safe and makes a thumbs up gesture. The Safe is high-tech tooking with circuit tracery on its surface. The thumb of the hand looks like a signed document. There is a happy face in green looking at the thumbs up from the open safe. In contrast on the other side of the image there is a locked version of a similar safe. There is a red and grumpy face looking at the locked safe which is being shaken in frustration.
+    tags: []
+  - filename: hybrid.collab.png
+    alt-text:
+    alt-text-long: >-
+      A handrawn image by Scriberia artist of a hybrid collaboration. Three people are sitting on a round table and are being lead by a lady standing at the table. There is a mic on the round table so that the remote participants can listen to the speaker on the round table clearly. Two people are joining the discussion remotely from different time zones (evident by the dark and light background on their screens). One person is leading the remote participants. People from both the formats are collaboratively creating a document. The document is shown like a puzzle with flying pieces coming from the round table as well as from the remote participants.
+    tags: []
+  - filename: practitioners-hub.png
+    alt-text:
+    alt-text-long: >-
+      A handrawn image by Scriberia artist of the Turing Way Practitioner's Hub, in greyscale plus bright pink. Various different scenes are scattered around a central bubble with text saying "The Turing Way Practitioner Hub". From the top left corner of the image - one dark haired person is driving a lightbulb car with a speech bubble saying "Accelerated Problem Solving". An arm holding a spanner is next to the text "Skill building". Two people are in conversation next to the text "Share Challenges and Solutions". A zigzag abstract location map encircles "Improve Ways of Working and build collaborative research around the world". Two people are collaborating at a laptop above the text "Big Team Science: Collaborative and Inclusive Research". A final person is looking at a video conference screen with the text "working with stakeholders from different sectors".
+    tags: []
+  - filename: open-ai.png
+    alt-text:
+    alt-text-long: >-
+      A hand drawn image titled "Open AI" with the subtitle "open to everyone across the world." People are taking different pathways for multiple directions which all lead to a space in the middle with a garden labeled "Open AI." Inside the garden we have many trees, one with a globe on it, and others with different kinds of data like 1s and 0s to represent code and a tree with pictures of cats to represent images. People are performing different care and maintenance tasks like curating data, reviewing data, and watering the plants. There is text within the garden representing types of activities, including share resources, data curation and stewardship, and reflect on the impact of AI
+    tags: []
+  - filename: giving-a-talk.jpg
+    alt-text:
+    alt-text-long: >-
+      Hand drawn sketch of a woman is giving a presentation about The Turing Way to a diverse group of people. She is presenting The Turing Way's five guides as available online. In another panel, someone presents the concepts learned from The Turing Way to their colleague who seems to be collaborating on a shared project.
+    tags: []
+  - filename: investing-in-community.png
+    alt-text:
+    alt-text-long: >-
+      Screenshot of hand drawn image, a sketch by Scriberia that uses pink and grey colors. It features two buildings next to each other with smiling faces and text bubbles, as if they are having a conversation. The buildings have gardens on the top where people are pruning trees, bushes and flowers. A bridge goes across the two buildings with a person carrying tools in a wheelbarrow.
+    tags: []
+  - filename: responsible-data-use.png
+    alt-text:
+    alt-text-long: >-
+      A handrawn image, titled "Research Ethics for Social Data" with a question in the thought-bubble that every researcher ask themselves while working with social data - "Am I using the data responsibly?" The bubble on the left depicts the vast amount of data one gets when they gain access to use the social data from the platforms for research. Whereas the fact that the researcher is questioning himself while looking at the bubble to the right demonstrating the safety and security of each user (whose data is being used), shows how important it is for researchers to respect the privacy of each user without compromising their safety at the cost of their research. The scale at the bottom depicts the balance one must keep in mind, while working with such data and hence, responsibly and ethically use the data at hand.
+    tags: []
+  - filename: notebook-cycle.png
+    alt-text:
+    alt-text-long: >-
+      Screenshot of hand drawn scriberia image titled "The Notebook Cycle". Three people are depicted next to an assembly line: each labeled "Improve Narrative", "Visualisation tool", and "Edit". The three people are reviewing pages on this assembly line, which are entered from a metal pipe. Above the pipe, a person is illustrated as thinking about a paper. The end of the assembly line goes to a machine, labeled as "interactive code". A person is turning knobs on this machine, which points two three differently colored notebooks (presumably the output of this notebook cycle process).
+    tags: []
+  - filename: data-wrangler.jpg
+    alt-text:
+    alt-text-long: >-
+      Hand-drawn illustration by Scriberia. A person representing a Data Wrangler is in a central bubble, on their left there are links to three clusters/chains of connected shapes representing unstructured data. The Data Wrangler unravels these clusters/chains and re-structures them to form three distinct presents, labelled Research Ready Data, shown to the right of the central bubble. Attached to the central bubble there are smaller individual bubbles labelled Connecting Specialists (shown by a triangle of linked people), Data Privacy and Security (padlock) and 'Data Quality and Standards (sparkling diamond).
+    tags: []
+# # template: copy and add in info
+#   - filename:
+#     alt-text:
+#     alt-text-long:
+#     tags: []
