@@ -855,7 +855,7 @@ project:
             - file: ethical-research/data-hazards/dh-intro.md
               title: Introduction
             - file: ethical-research/data-hazards/dh-how-to-use.md
-              title: How To Use
+              title: Using Data Hazard Labels
             - file: ethical-research/data-hazards/dh-case-study.md
               title: Case Study
         - file: ethical-research/ethics-open-source-governance.md
@@ -876,43 +876,6 @@ project:
               title: Acknowledgements
         - file: community-handbook/contributing-guideline.md
           title: Contributing to The Turing Way
-        - file: community-handbook/style.md
-          title: Style Guide
-          children:
-            - file: community-handbook/style/style-writing-markdown.md
-              title: Writing Markdown
-            - file: community-handbook/style/style-citing.md
-              title: Citing and Referencing External Resources
-            - file: community-handbook/style/style-crossref.md
-              title: Cross-Referencing Sections and Chapters
-            - file: community-handbook/style/style-figures.md
-              title: Using Figures
-            - file: community-handbook/style/style-videos.md
-              title: Videos
-            - file: community-handbook/style/style-glossary.md
-              title: Glossary
-            - file: community-handbook/style/style-blocks.md
-              title: Special Blocks
-            - file: community-handbook/style/style-custom-styling.md
-              title: Custom Styling
-            - file: community-handbook/style/style-consistency.md
-              title: Maintaining Consistency
-              children:
-                - file: community-handbook/style/consistency/consistency-formatting.md
-                  title: Formatting
-                - file: community-handbook/style/consistency/consistency-structure.md
-                  title: Structure
-                - file: community-handbook/style/consistency/consistency-language.md
-                  title: Language
-        - file: community-handbook/local-build.md
-          title: Build the Turing Way Book locally
-        - file: community-handbook/contributing.md
-          title: Contributing and Developing Chapters - Templates and Workflow
-          children:
-            - file: community-handbook/contributing/contributing-templates.md
-              title: Templates
-            - file: community-handbook/contributing/contributing-workflow.md
-              title: Workflow
         - file: community-handbook/acknowledgement.md
           title: Acknowledging Contributors
           children:
@@ -922,6 +885,50 @@ project:
               title: Record of Contributions
             - file: community-handbook/acknowledgement/acknowledgement-examples.md
               title: Different Contributions and Acknowledgements
+        - file: community-handbook/accessibility.md
+          title: Accessibility Guidance and Policy
+          children:
+            - file: community-handbook/accessibility/accessibility-policy.md
+              title: Accessibility Policy
+            - file: community-handbook/accessibility/accessibility-event-organising.md
+              title: Event Organising
+            - file: community-handbook/accessibility/accessibility-alt-text.md
+              title: Alt text
+            - file: community-handbook/accessibility/accessibility-comms-platforms.md
+              title: Communication Platforms
+        - file: community-handbook/style.md
+          title: Style Guide
+          children:
+            - file: community-handbook/style/style-citing.md
+              title: Citing and Referencing External Resources
+            - file: community-handbook/style/style-crossref.md
+              title: Cross-Referencing Sections and Chapters
+            - file: community-handbook/style/style-figures.md
+              title: Using Figures
+            - file: community-handbook/style/style-more-styling.md
+              title: Glossary, Special Blocks and More Styling
+            - file: community-handbook/style/style-custom-styling.md
+              title: Custom Styling
+        - file: community-handbook/consistency.md
+          title: Maintaining Consistency
+          children:
+            - file: community-handbook/consistency/consistency-formatting.md
+              title: Formatting
+            - file: community-handbook/consistency/consistency-structure.md
+              title: Structure
+            - file: community-handbook/consistency/consistency-language.md
+              title: Language
+        - file: community-handbook/presenting.md
+          title: Giving a Turing Way Talk
+        - file: community-handbook/local-build.md
+          title: Build the Turing Way Book locally
+        - file: community-handbook/contributing.md
+          title: Templates and Workflow for Chapters
+          children:
+            - file: community-handbook/contributing/contributing-templates.md
+              title: Templates
+            - file: community-handbook/contributing/contributing-workflow.md
+              title: Workflow
         - file: community-handbook/pathways.md
           title: Pathways Feature
           children:
@@ -954,19 +961,6 @@ project:
               title: Redirects
             - file: community-handbook/infrastructure/infrastructure-pathways.md
               title: Pathways
-        - file: community-handbook/accessibility.md
-          title: Accessibility
-          children:
-            - file: community-handbook/accessibility/accessibility-policy.md
-              title: Accessibility Policy
-            - file: >-
-                community-handbook/accessibility/accessibility-event-organising.md
-              title: Event Organising
-            - file: community-handbook/accessibility/accessibility-alt-text.md
-              title: Alt text
-            - file: >-
-                community-handbook/accessibility/accessibility-comms-platforms.md
-              title: Communication Platforms
         - file: community-handbook/communication-channels.md
           title: Communication Platforms
           children:
@@ -978,11 +972,39 @@ project:
           title: Monthly Newsletters
           children:
             - file: community-handbook/newsletters/newsletters-process.md
-              title: A Process of Creating a newsletter
+              title: A Process of Creating a Newsletter
             - file: community-handbook/newsletters/newsletters-style.md
               title: Newsletter's Style Guide
             - file: community-handbook/newsletters/newsletters-template.md
               title: The Turing Way Newsletter Template
+        - file: community-handbook/community-calls.md
+          title: Community Events and Calls
+          children:
+            - file: community-handbook/community-calls/community-calls-motivation.md
+              title: Motivation and Background
+            - file: community-handbook/community-calls/community-calls-collabcafe.md
+              title: Collaboration Cafes
+            - file: community-handbook/community-calls/community-calls-shareouts.md
+              title: Community Share Outs
+            - file: community-handbook/community-calls/community-calls-coworking.md
+              title: Mainainers Coworking Calls
+            - file: community-handbook/community-calls/community-calls-working-groups.md
+              title: Working Group Meetings
+            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
+              title: Coworking Drop-Ins
+            - file: community-handbook/community-calls/community-calls-office-hours.md
+              title: Office Hours (paused)
+            - file: community-handbook/community-calls/community-calls-core-team.md
+              title: Core Community Calls (discontinued)
+        - file: community-handbook/onboarding-calls.md
+          title: Onboarding and Offboarding
+          children:
+            - file: community-handbook/onboarding-offboarding/onboarding-checklist.md
+              title: Onboarding Checklist
+            - file: community-handbook/onboarding-offboarding/offboarding-checklist.md
+              title: Offboarding Checklist
+        - file: community-handbook/community-forums.md
+          title: Community Forums
         - file: community-handbook/bookdash.md
           title: Book Dash Events
           children:
@@ -998,49 +1020,13 @@ project:
               title: Book Dash Main Event Plans
             - file: community-handbook/bookdash/bookdash-after.md
               title: After the Book Dash
-        - title: Community Calls
-          file: community-handbook/community-calls.md
-          children:
-            - file: community-handbook/community-calls/community-calls-motivation.md
-              title: Background, Motivations, and Techniques
-            - file: community-handbook/community-calls/community-calls-forums.md
-              title: Community Forums
-            - file: community-handbook/community-calls/community-calls-onboarding.md
-              title: Onboarding Calls
-            - file: community-handbook/community-calls/community-calls-coworking-organisation.md
-              title: Organising Coworking Calls
-            - file: community-handbook/community-calls/community-calls-collabcafe.md
-              title: Collaboration Cafes
-            - file: community-handbook/community-calls/community-calls-shareouts.md
-              title: Community Share-outs
-            - file: community-handbook/community-calls/community-calls-coworking.md
-              title: Coworking Calls
-            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
-              title: Coworking Drop-ins
-            - file: community-handbook/community-calls/community-calls-working-groups.md
-              title: Working Group Meetings
-            - file: community-handbook/community-calls/community-calls-core-team.md
-              title: Core Team Meetings
-            - file: community-handbook/community-calls/community-calls-office-hours.md
-              title: Office Hours
-        - file: community-handbook/onboarding-offboarding.md
-          title: Onboarding and Offboarding
-          children:
-            - file: community-handbook/onboarding-offboarding/onboarding-general-calls.md
-              title: General Onboarding
-            - file: community-handbook/onboarding-offboarding/onboarding-core-team.md
-              title: Core Team Onboarding
-            - file: community-handbook/onboarding-offboarding/offboarding-core-team.md
-              title: Core Team Offboarding
         - file: community-handbook/fireside-chat.md
           title: Fireside Chat Series
           children:
             - file: community-handbook/fireside-chat/fireside-chat-checklist.md
               title: Fireside Chat Planning Checklist
             - file: community-handbook/fireside-chat/fireside-chat-roles.md
-              title: Fireside Chat Roles and Responsibilities
-        - file: community-handbook/presenting.md
-          title: Giving a Turing Way Talk
+              title: Fireside Chat Responsibilities
         - file: community-handbook/templates.md
           title: Template Collection
           children:

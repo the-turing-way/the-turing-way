@@ -1,33 +1,58 @@
 (ch-community-calls)=
-# _The Turing Way_ Community Calls
+# Community Calls
 
 _The Turing Way_ community is distributed around the world.
-Our members are from diverse backgrounds, have different skills and interests, work many different jobs, and contribute to this project for a great variety of reasons. They are also, for the most part, unpaid to contribute to this open source project.
+Our members are from diverse backgrounds, have different skills and interests, work many different jobs, and contribute to this project for a great variety of reasons. 
+They are also, for the most part, not paid to contribute to this open source project.
 
-To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. These calls may vary from collaboration and working calls to organisational meetings, to public share-outs that demonstrate transparency, to a mixture of all of the above. Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom.
+To bring the community together, _The Turing Way_ has a variety of different community calls organised throughout the year. 
+These calls involve variety of formats, from collaboration and working on a shared task, to organisational meetings, to public share-outs that demonstrate transparency, to a combination of all of the above. 
+Due to the international nature of the project, these calls are generally organised online using a platform such as Zoom, but where possible, in-person aspects are involved, such as by hosting local hubs.
 
-On each page of this subchapter, you can learn more about each type of community call, which are roughly organised into four types: community coworking calls, organising and governance calls, onboarding and welcoming calls, and public celebration calls.
+<<<<<<< HEAD
+On different chapters, you can learn more about each type of community call. They are organised based on their purpose to engage different groups, such as all members of our community versus the maintainers. We have also documented information about meetings that are not organised centrally or are paused, but can be used as references to either understand the historical context or design other events.
 
-It is important to note that not all of our community calls fit neatly into one category over another. Some may mix practices and purposes (for example coworking as well as celebrations), while others may have a specific purpose (such as decision-making). 
-All are meant to demonstrate our principles of being an open and transparent community.
+Not all of our community calls fit neatly into one category over another. 
+Some use mixed practices depending on the purposes (for example coworking and celebrations), while others may have a specific purpose (such as close discussion or open decision-making). 
+=======
+On each page of this subchapter, you can learn more about each type of community call, which are roughly organised based on their nature such as open to the community, open for maintainers, and suggestion for calls that are not organised centrally or paused, but offers format that can be used by our community members.
 
-Because of their scope and size, the {ref}`Book Dash<ch-bookdash>` and {ref}`Fireside Chat series<ch-fireside-chat>` are documented separately.
-However, those calls overlap with many of the principles and practices shared in this community call chapter.
+Not all of our community calls fit neatly into one category over another. 
+Some use mix practices depending on the purposes (for example coworking and celebrations), while others may have a specific purpose (such as close discussion or open decision-making). 
+>>>>>>> ee03abef3 (remove coworking organisation chapter from CH and link to CL)
+All are meant to integrate our principles of being an open and transparent community.
 
 ## 1. Coworking calls
 
-{ref}`Weekly Coworking<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are coworking calls, open for members working across Community Level and Maintenance Level initiatives within _The Turing Way_.
+<<<<<<< HEAD
+{ref}`Coworking for maintainers<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are {ref}`coworking calls<cl-coworking>`, open for _The Turing Way_ community members working across Maintenance and Community Levels respectively.
 
-The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
-This allows people, who otherwise may feel isolated while working alone at home, to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
+We bring the practice of coworking to _The Turing Way_ through online coworking calls, helping people allocate time in their schedules to work alongside others.
+These calls intend to cultivate a sense of shared space and inspiration similar to in-person interactions, but without the associated time and travel commitments.
 
-We bring the practice of coworking to _The Turing Way_ using online coworking calls, through which we intend to develop a sense of energy and inspiration similar to in-person interactions but without the time and travel commitments.
+Our coworking calls provide opportunities for community members to dedicate time to their desired tasks within _The Turing Way_ and make progress towards completion with the support of others on the call.
+These interactions can involve discussing plans, co-developing resources, sharing ideas, or providing accountability for self-directed tasks.
 
-Our coworking calls provide opportunities for community members to allocate time to their desired tasks in _The Turing Way_ and get them done, partially or fully, with the support of others in the call who can help discuss their plans, share ideas or hold accountability.
+We have described the process of {ref}`organising coworking calls<cl-coworking>` in our guide for collaboration.
+If you would like to set up coworking calls, you can repurpose and adapt the format, templates, and materials provided in _The Turing Way_ to support your teams and communities.
+=======
+{ref}`Weekly Coworking for maintainers<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are {ref}`coworking calls<cl-coworking>`, open for _The Turing Way_ community members working across Maintenance and Community Levels initiatives respectively.
+
+We bring the practice of coworking to _The Turing Way_ through online coworking calls.
+Online coworking calls generally allow people to allocate time in their schedules to work alongside others.
+
+These calls intend to cultivate a sense of energy and inspiration similar to in-person interactions, but without the associated time and travel commitments.
+
+Our coworking calls provide opportunities for community members to dedicate time to their desired tasks within _The Turing Way_ and complete them, either partially or fully, with the support of others on the call.
+These interactions can involve discussing plans, co-developing resources, sharing ideas, or providing accountability of self-directed tasks.
+
+We have described the process of {ref}}`organising coworking calls<cl-coworking>` in our guide for collaboration.
+If you would like to set up coworking calls, you can repurpose and adapt the format, templates, and materials discussed in this chapter to support your teams and communities.
+>>>>>>> ee03abef3 (remove coworking organisation chapter from CH and link to CL)
 
 ## 2. Governance-Related Calls
 
-{ref}`Community Forums<ch-community-calls-governance-forum>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
+{ref}`Community Forums<ch-community-forums>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. 
 These calls are a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
@@ -36,7 +61,7 @@ Collaborative notes, capturing feedback and highlights are archived on the [`gov
 
 ## 3. Onboarding and Welcoming calls
 
-{ref}`Onboarding Calls<ch-community-calls-onboarding>` allows experienced members of our community to offer beginner-friendly spaces for new members of our community.
+{ref}`Onboarding Calls<ch-onboarding-calls>` allow experienced members of our community to offer beginner-friendly spaces for new members of our community.
 
 Members, who may not have previous experience engaging with _The Turing Way_ or any open science projects, may find it hard to navigate different aspects of the projects.
 Community dynamics, especially for folks who know each other and work well together, can make it intimidating for folks who are still figuring out what part of the project and community is the right fit for them.
@@ -44,8 +69,8 @@ Community dynamics, especially for folks who know each other and work well toget
 Onboarding and welcoming calls are, therefore, organised for beginnings and newcomers to the project in mind.
 These calls include a general introduction to _The Turing Way_, the use of GitHub and different resources that can provide good starting points for those starting off with their journey with us.
 
-We had on a few occasions started and paused {ref}`Office Hours (now retired)<ch-community-calls-office-hours>`, which aimed to provide consistent time each week for anyone to join an open call and speak with our Research Community Manager.
-These calls are not as popular as our Collaboration Cafés and onboarding calls, hence, discontinued after a few attempts to engage with new members.
+We had on a few occasions started and paused {ref}`Office Hours (now paused)<ch-community-calls-office-hours>`, which aimed to provide consistent time each week for anyone to join an open call and speak with our Research Community Manager.
+These calls are not as popular as our Collaboration Cafés, hence discontinued and replaced with dedicated onboarding calls.
 
 ## 4. Community Share-Out and Celebration calls
 
@@ -55,6 +80,16 @@ This is particularly organised at the end of Book Dash, where community members 
 In the Collaboration Cafes, there is generally time reserved at the end of the call to share discussions from the two-hour coworking session.
 
 The Community Forums also hold space for celebrating the ongoing work or progress of Working Groups and sharing their work out to other achievements of our community members with the wider public and community.
+
+## 5. Book Dash and Fireside Chats
+
+{ref}`Book Dash<ch-bookdash>` events allow _The Turing Way_ members to collaboratively and synchronously work to develop new chapters or resources, and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
+They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
+
+{ref}`Fireside Chat series<ch-fireside-chat>` are public events featuring people discussing reproducibility, open research, ethics, collaboration, and other data science/research opportunities.
+Co-designed with projects or communities beyond _The Turing Way_, these informal yet structured discussions invite diverse speakers to share perspectives and foster cross-community knowledge exchange.
+
+These calls align with many principles and practices discussed in this community call chapter, with specific details documented separately in the Community Handbook.
 
 ## Resources
 
