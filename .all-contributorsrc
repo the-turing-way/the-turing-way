@@ -5193,6 +5193,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "stefanv",
+      "name": "Stefan van der Walt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45071?v=4",
+      "profile": "https://mentat.za.net",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
