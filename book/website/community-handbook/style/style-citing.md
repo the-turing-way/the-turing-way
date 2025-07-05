@@ -4,7 +4,7 @@
 In MyST Markdown you can make citations in two ways, using DOIs or the bibliography.
 If you want to cite an article with a DOI, you can use a [DOI link](https://mystmd.org/guide/citations#doi-links).
 We maintain a centralised [BibTeX](http://www.bibtex.org/) bibliography file containing references.
-The bibliography file is located in the book repository, [`./book/website/_bibliography/references.bib`][turingbib].
+The bibliography file is located in the book repository, [`./book/website/references.bib`][turingbib].
 
 ## DOI citations
 
@@ -83,4 +83,4 @@ You can read more about the markdown citation syntax in the [MyST Markdown docum
 MyST also support the older style of [citation role](https://mystmd.org/guide/citations#citation-roles) used in Jupyter Book v1.
 These are not preferred for new citations, but you may see existing citation in this style in the book.
 
-[turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_bibliography/references.bib
+[turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/references.bib

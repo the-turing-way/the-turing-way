@@ -146,7 +146,7 @@ we combine the three commands in a single recipe above.
 
 This is what the dependency tree looks like for this Makefile:
 
-![DAG for Makefile no. 1](../../figures/makefile-no1.png)
+![DAG for Makefile no. 1](../../../figures/makefile-no1.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">The
 dependency graph for our first Makefile, created using
 [makefile2graph](https://github.com/lindenb/makefile2graph). Notice the
@@ -494,6 +494,6 @@ many dependencies!
 
 The resulting PDF file should now look like this:
 
-![Report with all genres](../../figures/make-report-all-genres.png)<small
+![Report with all genres](../../../figures/make-report-all-genres.png)<small
 style="margin: 5pt auto; text-align: center; display: block;">A compressed
 view of the report with histograms for all genres.</small>

@@ -11,7 +11,7 @@ This can empower more people involved in and impacted by the machine learning pi
 The following framework can support the understanding of different community governance opportunities in the ML pipeline.
 
 
-```{figure} ../../../figures/ml-pipeline-governance-opps.jpg
+```{figure} ../../../../figures/ml-pipeline-governance-opps.jpg
 ---
 height: 400px
 name: ml-pipeline-governance-opps

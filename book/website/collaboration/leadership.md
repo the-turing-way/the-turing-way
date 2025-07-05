@@ -45,7 +45,7 @@ _The Turing Way_ is built upon Open Leadership principles, which involve and sup
 
 Data science is **broadly and inclusively** considered as study of data to draw meaningful insights, contribute to the technological advances and benefit society by informing decisions across all sectors.
 
-```{figure} ../figures/leadership-wordcloud.jpg
+```{figure} ../../figures/leadership-wordcloud.jpg
 ---
 width: 500px
 name: leadership-wordcloud

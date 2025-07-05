@@ -12,7 +12,7 @@ For any open source project, one of the most challenging tasks for a new contrib
 Contribution guidelines of open source projects outline how community members can make such a contribution, but they often do not explain how one can contribute to the project by becoming a project maintainer.
 Dedicated project maintainers from the project's core team or volunteer community often take up the role of supporting such contributions by other contributors.
 
-```{figure} ../figures/governance-maintainers-without-text-only.*
+```{figure} ../../figures/governance-maintainers-without-text-only.*
 ---
 height: 500px
 name: governance-maintainers

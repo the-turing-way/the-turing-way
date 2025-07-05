@@ -12,7 +12,7 @@ Therefore, data visualisation is an aspect of research data management!
 Below follow some resources that may help you in creating clearer, more accessible and more transparent data visualisations. 
 
 <!--
-```{figure} ../figures/data-visualisation.*
+```{figure} ../../figures/data-visualisation.*
 ---
 name: project-design
 alt: A group of people collaboratively developing a data visualisation by using a giant pencil. 

@@ -5,7 +5,7 @@ As a community-led project, we believe in and promote a collaborative approach t
 For example, writing a _The Turing Way_ chapter is an iterative process that involves designing, outlining, writing, reviewing, and editing its contents.
 Similarly, community-oriented processes evolve over time with the help and feedback from the community members.
 
-```{figure} ../../figures/people-process.*
+```{figure} ../../../figures/people-process.*
 ---
 height: 500px
 name: people-process
