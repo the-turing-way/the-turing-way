@@ -54,7 +54,7 @@ You might need to check any tool you're considering with your IT department and 
 As your collaboration grows and progresses you may also consider joint events, such as a seminar series, journal club or joint conference/symposium. 
 Collaboration Cafes and/or co-working sessions can also help bring a sense of community to your collaboration. 
 They can be spaces where you onboard new members, brainstorm or work on research together. 
-More in this {ref}`this Turing Way chapter <ch-coworking>`.
+More in this {ref}`this Turing Way chapter <ch-community-calls-coworking>`.
 
 Establishing communication tools, such as a newsletter, is a useful way of sharing collaboration news, advertising your events and opportunities and spreading awareness. 
 There is more info on how to create a newsletter in {ref}`this Turing Way chapter <ch-newsletters>`and you can also find previous Turing-Roche newsletters [here](https://github.com/alan-turing-institute/turing-roche-partnership/tree/main/communications/newsletters).

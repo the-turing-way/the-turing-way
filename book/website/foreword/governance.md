@@ -194,7 +194,7 @@ Please join Community Forums to stay up to date with the development.
 - You can find out about our next Community Forums in the [monthly newsletters](https://buttondown.email/turingway/archive/).
 
 ```{note}
-Since 2019, {ref}`Collaboration Cafés<ch-coworking-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
+Since 2019, {ref}`Collaboration Cafés<ch-community-calls-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
 These spaces have allowed different groups to form around shared ideas and work of interests, several becoming [Communities of Practice](https://en.wikipedia.org/wiki/Community_of_practice) within _The Turing Way_.
 
 Initially, some community members self-organised themselves into groups to work together, collaborated with the Project Delivery Teams, supported/mentored members from the broader community and represented the project in different contexts.
