@@ -49,7 +49,7 @@ If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-
 Indeed, a large part of the work of data scientists is to transform the data into a form that the computer can read. 
 However, this is incredibly time-consuming when the information is split between several spreadsheets and when there are no concrete data transformation plans before the data is acquired.
 
-There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/wiki/Glossary_of_probability_and_statistics#tidy_data) {cite:ps}`Wickham2014tidydata`. 
+There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815) {cite:ps}`Wickham2014tidydata`. 
 The tidy data format allows for filtering and sorting data easily in spreadsheet software. 
 
 In short:
