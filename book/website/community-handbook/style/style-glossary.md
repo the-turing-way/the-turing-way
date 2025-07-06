@@ -1,10 +1,10 @@
 (ch-style-glossary)=
 # Glossary
 
-_The Turing Way_ has a {ref}`glossary` file located in the Afterword of the book, which comprises of definitions of different terms in alphabetical order.
+_The Turing Way_ has a {ref}`aw-glossary` file located in the Afterword of the book, which comprises of definitions of different terms in alphabetical order.
 This file can be updated with the definitions of new terms, which can then be linked to any chapter in the book where this term occurs.
 
-To add an entry for a new term, please jump to the right alphabetical section of the {ref}`glossary` file and use the following syntax:
+To add an entry for a new term, please jump to the right alphabetical section of the {ref}`aw-glossary` file and use the following syntax:
 
 ```
 New Term-1

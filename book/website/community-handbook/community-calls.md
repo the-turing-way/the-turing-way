@@ -27,7 +27,7 @@ Our coworking calls provide opportunities for community members to allocate time
 
 ## 2. Governance-Related Calls
 
-{ref}`Community Forums<ch-community-calls-governance-forum>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
+{ref}`Community Forums<ch-community-calls-forums>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. 
 These calls are a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.
