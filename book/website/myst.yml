@@ -1,5 +1,22 @@
 version: 1
 project:
+  error_rules:
+    - rule: link-resolves
+      severity: ignore
+    - rule: reference-target-resolves
+      severity: error
+    - rule: link-text-exists
+      severity: error
+    - rule: directive-options-correct
+      severity: error
+    - rule: directive-argument-correct
+      severity: error
+    - rule: directive-body-correct
+      severity: error
+    - rule: role-body-correct
+      severity: error
+    - rule: reference-syntax-valid
+      severity: error
   title: The Turing Way
   authors:
     - name: The Turing Way Community
