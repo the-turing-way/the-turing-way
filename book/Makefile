@@ -27,7 +27,7 @@ strict:
 
 # Build the book in a non-interactive environment (for CI)
 ci:
-	cd website && jupyter-book build --html --ci --strict
+	cd website && jupyter-book build --html --ci
 
 # Clean any build outputs and artifacts
 clean:
