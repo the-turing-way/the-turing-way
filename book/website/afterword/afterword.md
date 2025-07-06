@@ -2,7 +2,7 @@
 # Afterword
 
 The last part of _The Turing Way_ book is called **Afterword**.
-Following this design principle of standard books, we have so far included [](#glossary), [](#bibliography) and [](#contributors-record-highlights) of the book as the supplementary materials of _The Turing Way_.
+Following this design principle of standard books, we have so far included [](#aw-glossary), [](#aw-bibliography) and [](#contributors-record-highlights) of the book as the supplementary materials of _The Turing Way_.
 
 The community collaboration and development aspects of the book has been written into the [Community Handbook](#ch) section of this book.
 
