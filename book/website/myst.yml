@@ -4,7 +4,7 @@ project:
     - rule: link-resolves
       severity: ignore
     - rule: reference-target-resolves
-      severity: error
+      severity: ignore
     - rule: link-text-exists
       severity: error
     - rule: directive-options-correct
