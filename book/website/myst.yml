@@ -336,6 +336,8 @@ project:
               title: Planning for Project Design
             - file: project-design/pd-overview/pd-overview-repro.md
               title: Collaborative project documentation
+            - file: project-design/pd-overview/pd-checklist.md
+              title: Project Design Checklist
             - file: project-design/pd-overview/pd-overview-methods.md
               title: Reproducibility Methods
             - file: project-design/pd-overview/pd-overview-version.md
@@ -347,8 +349,6 @@ project:
         - title: Project Setup and Organisation
           file: project-design/pd-design-overview.md
           children:
-            - file: project-design/pd-design-overview/pd-checklist.md
-              title: Project Design Checklist
             - file: project-design/pd-design-overview/project-repo.md
               title: Creating Project Repositories
               children:
