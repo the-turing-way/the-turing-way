@@ -3,21 +3,21 @@
 This is the README file for _The Turing Way_ book hosted online at https://book.the-turing-way.org/.
 For the README file of the main repository please [follow this link](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
 
-All the text for each chapter of the `book` lives inside the folder `./website` directory.
+All the text for each chapter of the `book` lives inside the folder `./en` directory.
 All figures associated to the chapters are stored in and linked from the `./figures` directory.
-Everything else is in the `website/` directory.
+Everything else is in the `en/` directory.
 
 ### Configuration
 
 - The table of contents (TOC) defines the order of chapters as they appear in the book.
-To change the TOC, please edit the `website/myst.yml` file with correct information on filenames and their relative locations in this repository.
+To change the TOC, please edit the `en/myst.yml` file with correct information on filenames and their relative locations in this repository.
 Documentation on controlling the TOC structure can be found on the [Jupyter Book website](https://jupyterbook.org/customize/toc.html).
-- Same applies for more general configuration using `website/myst.yml`.
+- Same applies for more general configuration using `en/myst.yml`.
 Documentation on configuring book settings can be found on the [Jupyter Book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
 
-The site is built automatically using the two directories `book` and `book/website`.
+The site is built automatically using the two directories `book` and `book/en`.
 All of the dependencies are specified in `dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
 
 Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
@@ -30,13 +30,13 @@ If you want to deploy the book on Netlify, you'll need the following settings:
 
 - Base directory: `book/`
 - Build command: `make deps && make pathways && make ci`
-- Publish directory: `website/_build/html`
+- Publish directory: `en/_build/html`
 
 You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
 
 ## Bibliography
 
-The collection of bibliography items from all the chapters exist in the `./website/references.bib` file.
+The collection of bibliography items from all the chapters exist in the `./en/references.bib` file.
 More details can be read in the [CONTRIBUTING.md](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates

@@ -43,5 +43,5 @@ You can run the external link checking process locally using Lychee _after_ [bui
 From the repository root,
 
 ```console
-$ lychee --config ./lychee.toml book/website/_build/html/**/*.html
+$ lychee --config ./lychee.toml book/en/_build/html/**/*.html
 ```

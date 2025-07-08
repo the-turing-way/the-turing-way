@@ -1,9 +1,5 @@
 _build/
 
-website/_site
-website/_build
-website/.sass-cache
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

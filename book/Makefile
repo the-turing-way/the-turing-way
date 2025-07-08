@@ -15,20 +15,20 @@ upgrade:
 
 # Start a webserver serving the book locally
 serve:
-	cd website && jupyter-book start
+	cd en && jupyter-book start
 
 # Build the book and export as HTML
 book:
-	cd website && jupyter-book build --html
+	cd en && jupyter-book build --html
 
 # Build the book stopping on errors
 strict:
-	cd website && jupyter-book build --html --strict
+	cd en && jupyter-book build --html --strict
 
 # Build the book in a non-interactive environment (for CI)
 ci:
-	cd website && jupyter-book build --html --ci
+	cd en && jupyter-book build --html --ci
 
 # Clean any build outputs and artifacts
 clean:
-	jupyter-book clean --all --yes ./website/_build
+	jupyter-book clean --all --yes ./en/_build

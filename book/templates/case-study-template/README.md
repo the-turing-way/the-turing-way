@@ -15,12 +15,12 @@ _The Turing Way_ is made up of Guides which span several chapters.
 For every Guide, there is a `Case Studies` chapter that contains a collection of case studies that explore how key concepts from the Guide relate to specific subjects (such as a project, person, organisation, or phenomenon).
 
 Structurally, a Guide in _The Turing Way_ Github repository is a folder and your case study is a file in the `case-studies` sub-folder within it.
-All Guides in _The Turing Way_ live in the `book/website` directory.
+All Guides in _The Turing Way_ live in the `book/en` directory.
 
 For example, if you wrote the case study about the [Statistical Methods Manuscript](https://book.the-turing-way.org/reproducible-research/case-studies/statistical-methods-manuscript.html) in the Guide for Reproducible Research, then the file structure could resemble the following:
 
 ```
-book/website
+book/en
 │
 └───reproducible-research <---- (Folder for the Guide to Reproducible Research)
 │   │
@@ -59,7 +59,7 @@ With proper file names, other contributors can easily identify the purpose of yo
 
 ### Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `myst.yml` [file](book/website/myst.yml).
+The book-wide table of contents lives in the `myst.yml` [file](book/en/myst.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `myst.yml` as appropriate.
 

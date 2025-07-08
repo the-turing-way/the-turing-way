@@ -275,10 +275,10 @@ $ vagrant ssh
 ```
 
 The project directory has been mounted at `/vagrant` on the guest.
-We can change to the `book/website` directory and build the book like in the [README](https://github.com/the-turing-way/the-turing-way/blob/main/book/README.md).
+We can change to the `book/en` directory and build the book like in the [README](https://github.com/the-turing-way/the-turing-way/blob/main/book/README.md).
 
 ```{code-block} console
-[vagrant@theturingway ~]$ cd /vagrant/book/website/
+[vagrant@theturingway ~]$ cd /vagrant/book/en/
 [vagrant@theturingway website]$ jupyter-book build .
 ```
 

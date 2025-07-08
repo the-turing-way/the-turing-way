@@ -21,7 +21,7 @@ If you want to contribute content for which there is no corresponding template, 
 
 _The Turing Way_'s Github repository follows an overall file structure where Guides are folders and chapters are sub-folders within them.
 Similarly, case studies are located inside a `case-studies` sub-folder within the Guide folders.
-All folders are located inside the [`book/website`](https://github.com/the-turing-way/the-turing-way/tree/main/book/website) directory.
+All folders are located inside the [`book/en`](https://github.com/the-turing-way/the-turing-way/tree/main/book/en) directory.
 
 When writing new content, ensure that the new files and folders you create are placed appropriately to preserve _The Turing Way's_ file structure.
 
@@ -30,7 +30,7 @@ For example, the [Version Control](https://book.the-turing-way.org/reproducible-
 ````{admonition} Adding new files and folders
 :class: dropdown
 ```
-book\website
+book/en
 │
 └───reproducible-research <---- (folder for the Guide to Reproducible Research)
 │   │   reproducible-research.md <---- (Guide's landing page)
@@ -73,7 +73,7 @@ This ensures that your new content is accessible, and fits the overall style, st
 (ch-contributing-workflow-toc)=
 ## Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `myst.yml` [file](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/myst.yml).
+The book-wide table of contents lives in the `myst.yml` [file](https://github.com/the-turing-way/the-turing-way/blob/main/book/en/myst.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `myst.yml` as appropriate.
 
