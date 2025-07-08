@@ -10,7 +10,7 @@ generated on: $current_time" > book-stats.md
 echo "guide name; number of chapters; number of subchapters"  >> book-stats.md
 echo "guide name; number of chapters; number of subchapters"
 
-path="../en/"
+path="../website/"
 # Sum up chapters and subchapters
 total_chapters=0
 total_subchapters=0

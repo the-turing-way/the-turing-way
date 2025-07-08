@@ -10,12 +10,12 @@ _The Turing Way_ book is made up of Guides which span several chapters.
 This means that when your chapter is added to the book, it will belong to one of its Guides.
 
 Structurally, a Guide in _The Turing Way_ Github repository is a folder and your chapter is a sub-folder within it.
-All Guides in _The Turing Way_ live in the `book/en` directory.
+All Guides in _The Turing Way_ live in the `book/website` directory.
 
 For example, if you wrote the [Version Control](https://book.the-turing-way.org/reproducible-research/vcs.html) Chapter in the Guide to Reproducible Research the file structure will resemble the following:
 
 ```
-book/en
+book\website
 │
 └───reproducible-research <---- (folder for the Guide to Reproducible Research)
 │   │   reproducible-research.md ---- (Guide's Landing Page)
@@ -114,7 +114,7 @@ This could be `open-science-checklist.md` or `open-science-resources.md` for Che
 
 ### Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `myst.yml` [file](../../../book/en/myst.yml).
+The book-wide table of contents lives in the `myst.yml` [file](../../../book/website/myst.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `myst.yml` as appropriate.
 

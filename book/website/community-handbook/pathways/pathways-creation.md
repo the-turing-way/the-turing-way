@@ -88,7 +88,7 @@ In addition to this, draft a concise 1-2 sentence description outlining the targ
 #### Updating the `profiles.yml` File
 
 Once your pathway idea is ready for integration, add the proposed persona name and its details to the `profiles.yml` file.
-This file is located in the `book/en` directory of *The Turing Way* GitHub repository.
+This file is located in the `book/website` directory of *The Turing Way* GitHub repository.
 You can find detailed technical instructions for this process in the Infrastructure chapter within the Community Handbook.
 
 After updating the YAML file, create a Pull Request following the standard contribution guidelines for review and approval.

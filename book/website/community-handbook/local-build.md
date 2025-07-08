@@ -100,8 +100,8 @@ You can build the book with,
 $ make book
 ```
 
-The build process will create a new folder `book/en/_build/html` where all of the HTML files are saved.
-Open `book/en/_build/html/index.html` in your web browser to look at your local build.
+The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
+Open `book/website/_build/html/index.html` in your web browser to look at your local build.
 
 ### Serve the book locally
 
