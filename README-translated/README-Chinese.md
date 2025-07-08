@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="book/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -22,14 +22,14 @@
 
 _The Turing Way_ 是一本关于可重复的、合乎道德的和协作的数据科学的手册。我们参与并支持由不同贡献者组成的社区，使数据科学对每个人都是可访问的、可理解的和有效的。 我们的目标是提供学术界、工业界和公共部门的研究人员和数据科学家在项目开始时所需的所有信息，以确保项目结束后易于复制。
 
-[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](../book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 *The Turing Way是一本书、一个社区和一个全球合作。*
 
 我们鼓励所有的利益相关者，包括学生、研究人员、软件工程师、项目负责人和融资团队，使用The Turing Way来了解他们在数据科学中的角色和可重复性责任。
 您可以线上阅读这本书 [在线版本](https://book.the-turing-way.org), 按照我们的贡献指南所述为项目做出贡献 [贡献指南](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and 并重新使用所有材料 ([（见许可证）](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](../book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
+[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *The Turing Way 线上书籍的截图 ([use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -73,7 +73,7 @@ _The Turing Way_ 是一个开放式协作和社区主导的项目。
 我们希望能够满足我们的贡献者的需求。
 因此，我们根据你的兴趣、有效性或技能要求，为你的贡献提供多个切入点。
 
-![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/figures/README_imgs/README_contributions.png)
 
 *贡献包括开发和分享新的章节；维护和改进现有的章节；分享 _The Turing Way_ 资源；审查和更新以前开发的材料；翻译其章节，以帮助该项目在全球范围内使用，并分享研究的最佳实践。*
 
@@ -100,7 +100,7 @@ DOI允许我们对资源库进行归档，它们对于确保学术出版物对�
 
 ### 引用 _The Turing Way_ 插图
 
-![This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era](../book/website/figures/evolution-open-research.jpg)
+![This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era](../book/figures/evolution-open-research.jpg)
 
 _The Turing Way_ 插图由[Scriberia](https://www.scriberia.co.uk/)的艺术家进行创作，作为[_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)书冲入市场的一部分，分别于 2019 年 5 月 17 日在曼彻斯特、2019 年 5 月 28 日和 2020 年 2 月 21 日在伦敦以及 2020 年 11 月 27 日和 2021 年 5 月 28 日在网上发布。它们描绘了各种 手册中的内容、社区中的协同努力以及 _The Turing Way_ 项目的总体情况。 在 CC-BY 许可下，可在 Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807)上获得这些插图。
 
