@@ -13,8 +13,8 @@ This is because the list of broken links will change whenever the job is run, so
 
 Errors are grouped by the output html pages they appear in.
 
-The paths of these pages after `book/website/_build/html` correspond to their source Markdown files.
-For example, `book/website/_build/html/reproducible-research/vcs/vcs-workflow.html` corresponds to `book/website/reproducible-research/vcs/vcs-workflow.md`.
+The paths of these pages after `book/en/_build/html` correspond to their source Markdown files.
+For example, `book/en/_build/html/reproducible-research/vcs/vcs-workflow.html` corresponds to `book/en/reproducible-research/vcs/vcs-workflow.md`.
 Broken links can be fixed in the Markdown file.
 
 ### False Negatives
