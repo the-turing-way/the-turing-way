@@ -4905,7 +4905,8 @@
       "contributions": [
         "content",
         "a11y",
-        "review"
+        "review",
+        "bug"
       ]
     },
     {
@@ -5180,6 +5181,24 @@
       "name": "D Srinivas Karthik",
       "avatar_url": "https://avatars.githubusercontent.com/u/139240749?v=4",
       "profile": "https://github.com/DSrinivasKarthik",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "nkosaku",
+      "name": "Kosaku Nakano",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64463851?v=4",
+      "profile": "https://github.com/nkosaku",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "stefanv",
+      "name": "Stefan van der Walt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45071?v=4",
+      "profile": "https://mentat.za.net",
       "contributions": [
         "bug"
       ]

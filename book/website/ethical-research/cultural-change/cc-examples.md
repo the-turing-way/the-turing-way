@@ -90,7 +90,7 @@ This model, represented as a pyramid similar to Maslov's Hierarchy of Needs, sug
 4. Fourth tier - Incentives - Make it rewarding
 5. Fifth tier - Policies - Make it required 
 
-```{figure} ../../figures/strategy-culture-change-nosek.*
+```{figure} ../../../figures/strategy-culture-change-nosek.*
 ---
 height: 400px
 name: Nosek et al Strategy for Culture Change Diagram

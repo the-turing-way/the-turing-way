@@ -54,10 +54,21 @@ $ python3 -m venv ./venv
 ```
 
 Next, active the virtual environment,
-
+::::{tab-set}
+:::{tab-item} Unix
+:sync: Unix
 ```console
 $ source ./venv/bin/activate
 ```
+:::
+:::{tab-item} Windows
+:sync: Windows
+```console
+$ venv\Scripts\activate
+```
+:::
+::::
+
 
 Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
 Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
@@ -88,11 +99,6 @@ You can build the book with,
 ```console
 $ make book
 ```
-
-````{attention}
-The `make book` target will only build the book using files in your local directory, it will **not** create the pathways pages.
-To build the book with pathways enabled, see the [](#other-targets:pathways) section below.
-````
 
 The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
 Open `book/website/_build/html/index.html` in your web browser to look at your local build.
@@ -149,27 +155,6 @@ Run the strict build with,
 ```console
 $ make strict
 ```
-
-(ch-local-build-other-targets-pathways)=
-### Pathways Build
-
-_The Turing Way_ has curated user pathways, collecting a series of recommended chapters for different reader types.
-The [pathways program](https://github.com/the-turing-way/pathways) generates extra Markdown files to add the pathways to the book.
-
-The `build` target does not generate these files, so a clean build (`make clean && make book`) will not have pathways.
-To build the book with pathways, use the `pathways` target to generate the pathways pages, then the `build` target to build the book,
-
-```console
-$ make pathways
-$ make book
-```
-
-This will generate the pathways files then build the book.
-This is the build of the book which is deployed to the website.
-
-Once the pathways have been generated, you do not need run the `pathways` target again.
-If you change the pathways, it is best to clean the untracked files and run pathways again.
-
 (recommend)=
 ## Why We Recommend Using a Virtual Environment
 

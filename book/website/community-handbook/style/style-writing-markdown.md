@@ -67,7 +67,7 @@ See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-
 
 Some of these abbreviations are:
 
-```{figure} ../../figures/latin-abbreviation.*
+```{figure} ../../../figures/latin-abbreviation.*
 ---
 height: 400px
 name: latin-abbreviation

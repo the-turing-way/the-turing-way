@@ -12,7 +12,7 @@ Pairwise deletion, or available case analysis, only involves removing data entri
 ## Imputation
 Imputation refers to "filling in" any missing values. Many ways of imputing missing data exist: 
 
-```{figure} ../../figures/missing-data-handling-diagram.png
+```{figure} ../../../figures/missing-data-handling-diagram.png
 ---
 height: 500px
 name: missing-data-handling-diagram

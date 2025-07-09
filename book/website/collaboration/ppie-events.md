@@ -2,7 +2,7 @@
 # Hosting Events with Members of the Public
 A guide for involving members of the public at research events.
 
-```{figure} ../figures/public-and-patient-involvement-and-engagement.*
+```{figure} ../../figures/public-and-patient-involvement-and-engagement.*
 ---
 height: 500px
 name: Public and Patient Involvement in Research

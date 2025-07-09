@@ -88,7 +88,7 @@ For example say we have a code modelling the water levels in a reservoir over ti
 
 The result may look like this:
 
-```{figure} ../../figures/eyeball-test1.*
+```{figure} ../../../figures/eyeball-test1.*
 ---
 name: eyeball-test1
 alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where level remains fairly constant.
@@ -97,7 +97,7 @@ alt: Scatter plot of water level in a reservoir measured at regular intervals ov
 
 On a day with rain it might look like this:
 
-```{figure} ../../figures/eyeball-test2.*
+```{figure} ../../../figures/eyeball-test2.*
 ---
 name: eyeball-test2
 alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where level increases steadily between 6am and 9pm before dropping slightly in the last 3-hour period.
@@ -106,7 +106,7 @@ alt: Scatter plot of water level in a reservoir measured at regular intervals ov
 
 and on a dry day it might look like this:
 
-```{figure} ../../figures/eyeball-test3.*
+```{figure} ../../../figures/eyeball-test3.*
 ---
 name: eyeball-test3
 alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where level decreases steadily.
@@ -115,7 +115,7 @@ alt: Scatter plot of water level in a reservoir measured at regular intervals ov
 
 All of these outputs look very different but are valid. However, if a researcher sees a result like this:
 
-```{figure} ../../figures/eyeball-test-error.*
+```{figure} ../../../figures/eyeball-test-error.*
 ---
 name: eyeball-test-error
 alt: Scatter plot of water level in a reservoir measured at regular intervals over 24 hours, where fairly constant levels flank one very high measurement taken at midday.

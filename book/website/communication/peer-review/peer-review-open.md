@@ -1,7 +1,7 @@
 (cm-pr-open)=
 # Open Peer Review
 
-```{figure} ../../figures/open-peer-review.*
+```{figure} ../../../figures/open-peer-review.*
 ---
 height: 500px
 name: open-peer-review

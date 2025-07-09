@@ -16,7 +16,7 @@ The comfortable mode is divided into four sections:
 4. **Right sidebar:** You can use it to add comments, report issues, and see the existing Glossary available for the strings.
 
 
-```{figure} ../../figures/crowdin-editor.*
+```{figure} ../../../figures/crowdin-editor.*
 ---
 name: crowdin-editor
 width: 90%
@@ -33,20 +33,20 @@ If your language of interest works better with different engines (for example, M
 ```
 Strings may have the following statuses:
 
-- ![icons](../../figures/icons/untranslated_icon.png) - Untranslated
-- ![icons](../../figures/icons/partially_translated_icon.png) - Partially translated (in this case, some of the plural forms are not translated)
-- ![icons](../../figures/icons/translated_icon.png) - Translated
-- ![icons](../../figures/icons/partially_approved_icon.png) - Partially approved (in this case, some plural forms are not approved)
-- ![icons](../../figures/icons/approved_icon.png) - Approved
-- ![icons](../../figures/icons/hidden_icon.png) - Hidden (visible only for project managers and proofreaders)
+- ![icons](../../../figures/icons/untranslated_icon.png) - Untranslated
+- ![icons](../../../figures/icons/partially_translated_icon.png) - Partially translated (in this case, some of the plural forms are not translated)
+- ![icons](../../../figures/icons/translated_icon.png) - Translated
+- ![icons](../../../figures/icons/partially_approved_icon.png) - Partially approved (in this case, some plural forms are not approved)
+- ![icons](../../../figures/icons/approved_icon.png) - Approved
+- ![icons](../../../figures/icons/hidden_icon.png) - Hidden (visible only for project managers and proofreaders)
 
-An active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on ![icons](../../figures/icons/preview_filter.png) and show translation preview using ![icons](../../figures/icons/eye.png).
+An active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on ![icons](../../../figures/icons/preview_filter.png) and show translation preview using ![icons](../../../figures/icons/eye.png).
 
 Crowdin editor won't only show you suggestions of a translation made by the translation engine but also suggestions from translation in different projects that shared their Translation Memory (TM) with _The Turing Way_ and will be detected if the string is has a similarity above 70%.
 This avoids duplication of effort.
 If you would like to re-use our Translation Memory (TM) in your own open-source projects, feel free to contact our Translation and Localisation leads.  
 
-```{figure} ../../figures/translation-memory.*
+```{figure} ../../../figures/translation-memory.*
 ---
 name: Translation_Memory
 width: 90%
@@ -66,7 +66,7 @@ In order to translate the project's terminology properly and consistently, we ke
 In the Glossary, you can create, store, and manage all the project terminology in one place. 
 The use of glossaries in each language team is optional, but heavily recommended. Each project automatically generates its own Glossary when it's created, and it can be filled with content by each project team. 
 
-```{figure} ../../figures/Glossary.*
+```{figure} ../../../figures/Glossary.*
 ---
 name: Glossary_
 width: 90%
@@ -81,7 +81,7 @@ To add terms to the Glossary you need to double-select a term, and then select t
 A new window will appear showing both the English and [language] explanations for that term. 
 If the term is new in that language, you'll need to specify the equivalent word in your language for that English term.
 
-```{figure} ../../figures/adding-glossary.*
+```{figure} ../../../figures/adding-glossary.*
 ---
 name: Adding-glossary
 width: 90%
@@ -119,7 +119,7 @@ The translated files won't be exported to GitHub unless they have been completel
 - Tag and variable order `{ref}<0>text</0>` should have the same structure
 ```
 
-```{figure} ../../figures/proofreading.gif
+```{figure} ../../../figures/proofreading.gif
 ---
 name: proofreading.gif
 width: 90%

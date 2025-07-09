@@ -24,7 +24,7 @@ You will find these details in the following chapters:
 - {ref}`fw-cite`
 - {ref}`fw-faqs`
 
-```{figure} ../figures/banner-welcome.jpg
+```{figure} ../../figures/banner-welcome.jpg
 ---
 width: 500px
 name: banner-welcome

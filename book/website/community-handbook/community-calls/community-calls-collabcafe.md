@@ -1,7 +1,7 @@
 (ch-community-calls-collabcafe)=
 # Online Collaboration Cafe
 
-```{figure} ../../figures/collaboration-cafe.*
+```{figure} ../../../figures/collaboration-cafe.*
 ---
 height: 500px
 name: collaboration-cafe
