@@ -132,7 +132,7 @@ Puede ponerse en contacto con el equipo de *The Turing Way* enviando un correo e
 
 #### Chat
 
-Conectar con otros y compartir tus ideas en Slack usando [este enlace de invitación](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA). 
+Conectar con otros y compartir tus ideas en Slack usando [este enlace de invitación](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 Tenemos una sala de chat de Gitter (si prefieres una alternativa de código abierto para el chat) y nos encantaría que pasaras a saludar a <https://gitter.im/the-turing-way/the-turing-way>.
 Este foro también está sincronizado con [Matrix](https://matrix.org) en [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y puedes unirte a nosotros allí si lo prefieres.
