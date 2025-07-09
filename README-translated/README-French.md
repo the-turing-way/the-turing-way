@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/logo/logo.jpg" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/figures/logo/logo.jpg" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -25,13 +25,13 @@ _The Turing Way_ est un manuel sur la science des données reproductible, éthiq
 Nous impliquons et soutenons une communauté diversifiée de contributeurs et contributrices afin de rendre la science des données accessible, compréhensible et efficace pour tout le monde.
 Notre objectif est de fournir toutes les informations dont les scientifiques ont besoin au début de leurs projets pour s'assurer qu'ils soient faciles à reproduire à la fin.
 
-[![Le projet Turing Way est un livre, une communauté, un projet open-source et une culture de la collaboration. Ceci est démontré par quatre illustrations, la première montrant le livre Turing Way, la deuxième montrant comment la communauté peut se développer, la troisième montrant deux personnes collaborant sur une demande de modification, la dernière montrant un équilibre où la reproductibilité est plus importante que le nombre d'articles publiés](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
+[![Le projet Turing Way est un livre, une communauté, un projet open-source et une culture de la collaboration. Ceci est démontré par quatre illustrations, la première montrant le livre Turing Way, la deuxième montrant comment la communauté peut se développer, la troisième montrant deux personnes collaborant sur une demande de modification, la dernière montrant un équilibre où la reproductibilité est plus importante que le nombre d'articles publiés](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
 
 *The Turing Way est un livre, une communauté et une collaboration mondiale.*
 
 Toutes les parties prenantes, y compris les étudiants et les étudiantes, les chercheurs et les chercheuses, les ingénieurs et ingénieures logiciels, les chefs et cheffes de projet et les équipes de financement, sont encouragées à utiliser _The Turing Way_ pour comprendre leur rôle et leur responsabilité en matière de reproductibilité dans la science des données. Vous pouvez lire le livre [en ligne](https://book.the-turing-way.org), contribuer au projet tel que décrit dans nos [directives de contribution](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md) et réutiliser tout le matériel ([voir la licence](https://github.com/the-turing-way/the-turing-way/blob/master/LICENSE.md)).
 
-[![Ceci est une capture d'écran du livre en ligne _The Turing Way_. Elle montre également l'une des illustrations de _The Turing Way_ au début du livre. Dans cette illustration, il y a une route ou un chemin avec des magasins pour différentes compétences en science des données. Les gens peuvent entrer et sortir avec leur panier et choisir ce dont ils ont besoin.](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
+[![Ceci est une capture d'écran du livre en ligne _The Turing Way_. Elle montre également l'une des illustrations de _The Turing Way_ au début du livre. Dans cette illustration, il y a une route ou un chemin avec des magasins pour différentes compétences en science des données. Les gens peuvent entrer et sortir avec leur panier et choisir ce dont ils ont besoin.](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Capture d'écran du livre en ligne The Turing Way ([utilisez cette image dans une présentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing)).*
 
@@ -85,7 +85,7 @@ Tout le monde doit suivre notre [code de conduite](../CODE_OF_CONDUCT.md) et con
 Nous voulons nous assurer que vous êtes à l'aise de contribruer peu importe le niveau de connaissances que vous avez.
 Pour cette raison, nous proposons plusieurs points d'entrée pour que vous puissiez contribuer en fonction de vos intérêts, de votre disponibilité ou des compétences requises.
 
-![Cette image montre six des nombreux types de contributions que chacun peut apporter. Il s'agit de : Développer et partager, Maintenir et améliorer, Partager des ressources, Réviser et mettre à jour, Rendre international par la traduction, et Partager les meilleures pratiques](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_contributions.png)
+![Cette image montre six des nombreux types de contributions que chacun peut apporter. Il s'agit de : Développer et partager, Maintenir et améliorer, Partager des ressources, Réviser et mettre à jour, Rendre international par la traduction, et Partager les meilleures pratiques](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/figures/README_imgs/README_contributions.png)
 
 *Les contributions comprennent l'élaboration et le partage de nouveaux chapitres, la maintenance et l'amélioration des chapitres existants, le partage des ressources de _The Turing Way_, la révision et la mise à jour du matériel précédemment développé, la traduction de chapitres pour aider à rendre ce projet accessible à l'échelle mondiale, et le partage des meilleures pratiques en matière de recherche*.
 
@@ -113,7 +113,7 @@ Si vous avez des questions, n'hésitez pas à nous [contacter](#entrer-en-contac
 
 ### Citer les illustrations de _The Turing Way_ (en anglais)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/evolution-open-research.jpg" alt="Voici un exemple d'une des illustrations du Chemin de Turing. Elle tente de montrer l'évolution vers une ère de science ouverte" width="600">.
+  <img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/figures/evolution-open-research.jpg" alt="Voici un exemple d'une des illustrations du Chemin de Turing. Elle tente de montrer l'évolution vers une ère de science ouverte" width="600">.
 </p>
 
 Les illustrations de _The Turing Way_ sont créées par des artistes de [Scriberia](https://www.scriberia.co.uk/) dans le cadre de [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/master/workshops/book-dash) à Manchester le 17 mai 2019, à Londres le 28 mai 2019 et le 21 février 2020, et en ligne le 27 novembre 2020 et le 28 mai 2021.

@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="book/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -25,7 +25,7 @@ _The Turing Way_ is a handbook to reproducible, ethical and collaborative data s
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
 
-[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
+[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
 
 *The Turing Way is a book, a community and a global collaboration.*
 
@@ -34,7 +34,7 @@ You can read the book [online](https://book.the-turing-way.org), contribute to t
 **We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**. 
 If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://book.the-turing-way.org/community-handbook/translation.html) and join our collaborative efforts.
 
-[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
+[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Screenshot of The Turing Way online book ([use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -93,7 +93,7 @@ Everyone who joins the project is expected to follow our [code of conduct](CODE_
 We want to meet our contributors where they are.
 Therefore, we provide multiple entry points for you to contribute based on your interest, availability or skill requirements.
 
-![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](book/website/figures/README_imgs/README_contributions.png)
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](book/figures/README_imgs/README_contributions.png)
 
 *Contributions include development and sharing of new chapters; maintenance and improvement of existing chapters; sharing _The Turing Way_ resources; review and updating of previously developed materials; translating its chapter to help make this project globally accessible, and sharing best practices in research.*
 

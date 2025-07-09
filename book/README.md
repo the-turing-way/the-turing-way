@@ -4,7 +4,7 @@ This is the README file for _The Turing Way_ book hosted online at https://book.
 For the README file of the main repository please [follow this link](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
 
 All the text for each chapter of the `book` lives inside the folder `./website` directory.
-All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
+All figures associated to the chapters are stored in and linked from the `./figures` directory.
 Everything else is in the `website/` directory.
 
 ### Configuration

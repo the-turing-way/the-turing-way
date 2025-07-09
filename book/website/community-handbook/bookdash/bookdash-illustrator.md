@@ -25,7 +25,7 @@ Picture taken by Jez Cope at the Book Dash 2019 in Manchester. Hand sketched ill
 ```
 
 All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 licence on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
-All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
+All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/figures).
 
 When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
 > _This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_

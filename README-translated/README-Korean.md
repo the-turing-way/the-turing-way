@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="book/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org)
@@ -27,12 +27,12 @@
 
 _The Turing Way_ 는 재현 가능하고 윤리적이며 협력적인 데이터 과학에 대한 안내서입니다. 우리는 다양한 기여자로 구성된 커뮤니티에 참여하고 지원하여 데이터 과학이 모든 사람에게 접근 가능하고 이해하기 쉽고 효과적이도록 합니다. 우리의 목표는 학계, 산업 및 공공 부문의 연구자들과 데이터 과학자들이 프로젝트를 시작할 때 필요한 모든 정보를 제공하여 프로젝트가 끝난 후에도 쉽게 재현할 수 있도록 하는 것입니다
 
-[![The Turing Way 프로젝트는 한 권의 책, 커뮤니티, 오픈 소스 프로젝트이자 협업 문화입니다. 이는 네 가지 일러스트레이션을 통해 나타납니다. 첫 번째는 The Turing Way 책을 보여주고, 두 번째는 커뮤니티가 성장하는 모습을 보여주며, 세 번째는 두 사람이 풀 리퀘스트에서 협업하는 모습을 보여줍니다. 마지막 네 번째는 발표된 논문 수보다 재현성을 더 중요하게 평가하는 균형을 보여줍니다.](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![The Turing Way 프로젝트는 한 권의 책, 커뮤니티, 오픈 소스 프로젝트이자 협업 문화입니다. 이는 네 가지 일러스트레이션을 통해 나타납니다. 첫 번째는 The Turing Way 책을 보여주고, 두 번째는 커뮤니티가 성장하는 모습을 보여주며, 세 번째는 두 사람이 풀 리퀘스트에서 협업하는 모습을 보여줍니다. 마지막 네 번째는 발표된 논문 수보다 재현성을 더 중요하게 평가하는 균형을 보여줍니다.](../book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 The Turing Way는 한 권의 책이자 커뮤니티이며 전 세계적인 협업입니다.
 
 우리는 학생, 연구원, 소프트웨어 엔지니어, 프로젝트 매니저 및 자금 조달 팀을 포함한 모든 이해 관계자들이 데이터 과학에서의 역할과 반복 가능성에 대한 책임을 이해하기 위해 The Turing Way를 사용하도록 권장합니다. 이 책은 온라인 버전으로 읽을 수 있으며, 우리의 기여 가이드에 따라 프로젝트에 기여할 수 있습니다. 또한 모든 자료를 재사용할 수 있습니다 (라이선스 참조).
-[![이것은 온라인 The Turing Way 책의 스크린샷입니다. 또한 책의 시작 부분에 있는 The Turing Way 일러스트 중 하나를 보여줍니다. 이 일러스트에서는 다양한 데이터 과학 기술을 위한 상점이 있는 도로나 길이 있습니다. 사람들은 쇼핑 카트를 가지고 들어가 필요한 것을 골라 살 수 있습니다.](../book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
+[![이것은 온라인 The Turing Way 책의 스크린샷입니다. 또한 책의 시작 부분에 있는 The Turing Way 일러스트 중 하나를 보여줍니다. 이 일러스트에서는 다양한 데이터 과학 기술을 위한 상점이 있는 도로나 길이 있습니다. 사람들은 쇼핑 카트를 가지고 들어가 필요한 것을 골라 살 수 있습니다.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *The Turing Way 온라인 책의 스크린샷*
 
@@ -77,7 +77,7 @@ _The Turing Way_는 개방형 협업 및 커뮤니티 주도 프로젝트입니�
 우리는 기여자의 요구를 충족할 수 있기를 원합니다.
 따라서 우리는 귀하의 관심사, 가용성 또는 기술 요구 사항에 따라 귀하의 기여에 대한 여러 진입점을 제공합니다.
 
-![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/figures/README_imgs/README_contributions.png)
 
 [프로모션 정보 팩](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack)는 _The Turing Way_ 네트워크 를 소개하고 공유하는 데 도움이 됩니다.
 
@@ -102,7 +102,7 @@ DOI를 사용하면 리포지토리를 보관할 수 있으며 학술 출판물�
 귀하의 작업에서 Turing Way 프로젝트를 참고하시면 매우 감사하겠습니다. 도움이 되기를 바랍니다. 궁금한 점이 있으시면 [문의](#get-in-touch)해 주세요.
 
 ### 명언 _Turing Way_ 일러스트레이션
-![이것은 개방형 과학 시대를 향한 진화를 보여주려는 튜링 방식 삽화 중 하나의 예입니다.](../book/website/Figures/evolution-open-research.jpg)
+![이것은 개방형 과학 시대를 향한 진화를 보여주려는 튜링 방식 삽화 중 하나의 예입니다.](../book/figures/evolution-open-research.jpg)
 
 _The Turing Way_ 일러스트레이션은 [Scriberia](https://www.scriberia.co.uk/)의 아티스트가 [_The Turing Way_ 북 대시](https://github.com/the-turing-way/)로 제작했습니다. -turing-way/tree/main/workshops/book-dash) 책은 2019년 5월 17일 맨체스터, 2019년 5월 28일, 2020년 2월 21일 런던에서 출시되며 2020년 11월 27일과 2021년 5월 28일에 온라인으로 출판되었습니다. 다양한 핸드북의 내용, 커뮤니티의 공동 노력, Turing Way 프로젝트의 전반적인 그림을 설명합니다. 이 그림은 CC-BY 라이선스에 따라 Zenodo([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807)에서 볼 수 있습니다.
 
