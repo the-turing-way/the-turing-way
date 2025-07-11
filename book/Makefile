@@ -20,15 +20,18 @@ serve:
 # Build the book and export as HTML
 book:
 	cd website && jupyter-book build --html
+	cd pt-br && jupyter-book build --html
 
 # Build the book stopping on errors
 strict:
 	cd website && jupyter-book build --html --strict
+	cd pt-br && jupyter-book build --html --strict
 
 # Build the book in a non-interactive environment (for CI)
 ci:
 	cd website && jupyter-book build --html --ci
+	cd pt-br && jupyter-book build --html --ci
 
 # Clean any build outputs and artifacts
 clean:
-	jupyter-book clean --all --yes ./website/_build
+	jupyter-book clean --all --yes ./**/_build
