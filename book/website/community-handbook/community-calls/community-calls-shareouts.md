@@ -83,4 +83,4 @@ Each working group was usually represented by one person. This person would shar
 
 In 2024, _The Turing Way_ delivery team is trialing the separation of Working Group Share-outs from the broader Book Dash Share-outs that occur at the end of the Book Dash week.
 
-For more information, read the {ref}`Governance Forum <ch-community-calls-governance-forum>` subchapter.
+For more information, read the {ref}`Community Forum <ch-community-calls-forums>` subchapter.

@@ -7,7 +7,7 @@ These calls will serve as a platform for the community to come together, share a
 
 ## Motivation for Organisation
 
-{ref}`Community Forums<ch-community-calls-governance-forum>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
+{ref}`Community Forums<ch-community-calls-forums>` are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 
 From June 2022 to September 2023, the Project Delivery Team hosted a regular meeting for the members working at the Maintenance Level under the title {ref}`Core Community Meetings<ch-community-calls-core-team>` with 30 people working across different Working Groups.
 These meetings, although not open to the broader community, discussed community-wide projects and reported updates broadly via our newsletters.

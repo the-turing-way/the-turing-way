@@ -1,4 +1,4 @@
-(glossary)=
+(aw-glossary)=
 
 # Glossary
 

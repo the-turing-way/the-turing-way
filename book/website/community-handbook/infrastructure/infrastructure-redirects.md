@@ -50,7 +50,7 @@ In our [DNS](#ch-infrastructure-dns) configuration we have pointed `the-turing-w
 Most of the redirects are for chapters or pages which have moved internally.
 The full list of these isn't described here but can be seen in [nelify.toml](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml).
 
-(ch-infrastructures-redirects-helpers)=
+(ch-infrastructure-redirects-helpers)=
 ### Helpers
 
 Our helper redirects allow us to have easy to remember and share URLs which we can point to community resources, which may move.

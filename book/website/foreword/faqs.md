@@ -49,7 +49,7 @@ You can get started by exploring different opportunities [listed on our start pa
 
 | Types of calls/meetings | How |
 |:----------------------- |:---------------------------------|
-| What is a {ref}`ch-coworking-collabcafe`? | These are open coworking calls for anyone interested in collaborating with _The Turing Way_ members. These take place every first and third Wednesday of each month, 15:00 - 17:00 UK time. |
+| What is a {ref}`ch-community-calls-collabcafe`? | These are open coworking calls for anyone interested in collaborating with _The Turing Way_ members. These take place every first and third Wednesday of each month, 15:00 - 17:00 UK time. |
 | {ref}`ch-bookdash` | These are a week-long events organised twice a year. Participants are selected through open calls for applications. |
 | What is a {ref}`Fireside Chat<ch-fireside-chat>`? | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
 | What is a Community Forum? | These online calls bring together any member of the community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
