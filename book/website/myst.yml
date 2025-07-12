@@ -134,10 +134,16 @@ project:
         - file: reproducible-research/licensing.md
           title: Licensing
           children:
+            - file: reproducible-research/licensing/licensing-ip.md
+              title: Intellectual Properties
+            - file: reproducible-research/licensing/licensing-floss.md
+              title: Free/Libre and Open Source License
             - file: reproducible-research/licensing/licensing-compatibility.md
               title: License Compatibility
             - file: reproducible-research/licensing/licensing-ethical-source.md
               title: Ethics-informed Licensing
+            - file: reproducible-research/licensing/licensing-documentation.md
+              title: Licensing Documentation
             - file: reproducible-research/licensing/licensing-data.md
               title: Data Licenses
             - file: reproducible-research/licensing/licensing-hardware.md
