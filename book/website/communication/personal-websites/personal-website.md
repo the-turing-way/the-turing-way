@@ -12,7 +12,7 @@
 (cm-personal-websites-summary)=
 ## Summary
 
-This chapter explores the importance and benefits of a personal website for researchers.
+This section explores the importance and benefits of a personal website for researchers.
 It provides a general structure with common components and content suggestions for developing personal websites.
 Then, coding and non-coding website generators with different levels of complexity are discussed, explaining their features and differences.
 Several deployment options and maintenance strategies are also presented, helping researchers to choose the best solution for their needs.
