@@ -135,7 +135,7 @@ project:
           title: Licensing
           children:
             - file: reproducible-research/licensing/licensing-ip.md
-              title: Intellectual Properties
+              title: Intellectual Property
             - file: reproducible-research/licensing/licensing-floss.md
               title: Free/Libre and Open Source License
             - file: reproducible-research/licensing/licensing-compatibility.md
