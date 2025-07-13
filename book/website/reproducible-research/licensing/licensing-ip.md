@@ -2,7 +2,7 @@
 # Intellectual Property
 
 IP is an umbrella term that refers to a number of distinct areas of law.
-Primarily, these three areas are relavnt in research and data science:
+Primarily, these three areas are relevant in research and data science:
 
 - **[Copyright](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/)**
 - **[Patent](https://www.wipo.int/patents/en/)**
