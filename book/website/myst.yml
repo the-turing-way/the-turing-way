@@ -492,7 +492,7 @@ project:
         - file: communication/personal.md
           title: Communication of Personal Skills and Research
           children:
-            - file: communication/personal/CV.md
+            - file: communication/personal/personal-cv.md
               title: Narrative CV
             - file: communication/personal/personal-website.md
               title: Personal Website 
