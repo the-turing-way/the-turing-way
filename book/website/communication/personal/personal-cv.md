@@ -71,21 +71,26 @@ Example: In [year], I co-organised the first stakeholder engagement day in the U
 
 (cm-personal-narrative-cv-how-tips)=
 ### Tips
-- To reference a publication, use a digital object identifier (DOI) (ref to section?) hyperlinked to the publication. Only include a full citation if requested by the funder to save space.
+- To reference a publication, use a digital object identifier ([DOI](#cm-citable-steps-doi) hyperlinked to the publication. 
+Only include a full citation if requested by the funder to save space.
 - For a team project, mention your specific contributions and the skills that you used or developed. 
 - Describe how this research advanced the field. 
 - Demonstrate your commitment to open and transparent research practices, including in how you manage and share data, methods, and findings.
-- Go beyond a list of the numbers of people you have supervised or mentored. For example, how did you help them to develop and what did they go on to achieve? 
-- What was the scale and profile of a team you have led and how was your leadership important for the achievements of the team?  Even if you didn’t have a leadership role, how did you contribute to the success of a team or the development of others? 
-- Did you overcome any challenges in collaborations or partnerships? How did you contribute to helping collaborations to succeed? 
-- Have you taken steps to be inclusive in your approach to managing or mentoring? If so, explain how you have done so. 
+- Go beyond a list of the numbers of people you have supervised or mentored. 
+For example, how did you help them to develop and what did they go on to achieve? 
+- What was the scale and profile of a team you have led and how was your leadership important for the achievements of the team?
+Even if you didn’t have a leadership role, how did you contribute to the success of a team or the development of others? 
+- Did you overcome any challenges in collaborations or partnerships? 
+How did you contribute to helping collaborations to succeed? 
+- Have you taken steps to be inclusive in your approach to managing or mentoring? 
+If so, explain how you have done so. 
 - Don’t overwhelm reviewers with long lists, or dilute the communication of your key achievements.
 
 
 (cm-personal-narrative-cv-outputs)=
 ## Types of contributions to consider
 
-1. Research objects (ref to section?), which could include:
+1. [Research objects](#cm-ro), which could include:
 • Peer reviewed publications, preprints, conference publications or policy publications 
 • Data sets, software, code, protocols, materials
 • Products (commercial, entrepreneurial, industrial, educational)
@@ -93,24 +98,25 @@ Example: In [year], I co-organised the first stakeholder engagement day in the U
 • Patents, designs
 • Artefacts
 • Exhibitions, audio or visual media
-2. Development of methods, tools or resources
-3. Generation of new ideas and hypotheses
-4. Funding you have won (include funder, your role, dates, what the funding enabled)
+2. Development of methods, tools or resources.
+3. Generation of new ideas and hypotheses.
+4. Funding you have won (include funder, your role, dates, what the funding enabled).
 5. Awards you have received or other forms of peer recognition, such as invited talks.
-6. Supervision or mentoring, or positions of responsibility
+6. Supervision or mentoring, or positions of responsibility.
 7. Project management or line management, critical to the success of a team or team members.
 8. Strategic leadership shaping the direction of a team, organisation, company or institution.
-9. Formal teaching (if focused on the development of others)
-10. Establishing or driving collaborations or networks. If you are at an early stage in your research career, you can describe substantial contributions to team-working.
-11. Leadership of activities across disciplines, institutions, and/or countries
-12. Editing and reviewing responsibilities
-13. Committee work within your organisation and beyond (such as activities for learned societies, funders or contributions to professional bodies)
-14. Activities that have contributed to the improvement of research integrity or cultures, including equality, diversity and inclusion practices
-15. Knowledge exchange or organisation of community events, such as conferences or workshops
-16. Contributions to open research, active sharing of knowledge and skills, community resources
-17. Policy engagement and development
-18. Partnerships with business, industry, healthcare, and so forth
-19. Public engagement with research, or participatory research
+9. Formal teaching (if focused on the development of others).
+10. Establishing or driving collaborations or networks. 
+If you are at an early stage in your research career, you can describe substantial contributions to team-working.
+11. Leadership of activities across disciplines, institutions, and/or countries.
+12. Editing and reviewing responsibilities.
+13. Committee work within your organisation and beyond (such as activities for learned societies, funders or contributions to professional bodies).
+14. Activities that have contributed to the improvement of research integrity or cultures, including equality, diversity and inclusion practices.
+15. Knowledge exchange or organisation of community events, such as conferences or workshops.
+16. Contributions to open research, active sharing of knowledge and skills, community resources.
+17. Policy engagement and development.
+18. Partnerships with business, industry, healthcare, and so forth.
+19. Public engagement with research, or participatory research.
 20. Patient and public involvement (PPI)
 
 
