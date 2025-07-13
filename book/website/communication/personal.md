@@ -1,4 +1,4 @@
-(cm-personal-websites)=
+(cm-personal)=
 # Personal Websites
 
 (cm-personal-websites-prerequisites)=
@@ -9,7 +9,9 @@
 | [](#rr-open) | Helpful | Beginner | An understanding of open research practices is useful for creating a personal website. |
 | [](#cm-blogs) | Helpful | Beginner | Blogs for research communication can be part of a personal website. |
 
-(cm-personal-websites-summary)=
+Include output stuff
+
+(cm-personal-summary)=
 ## Summary
 
 This chapter explores the importance and benefits of a personal website for researchers.
@@ -18,7 +20,7 @@ Then, coding and non-coding website generators with different levels of complexi
 Several deployment options and maintenance strategies are also presented, helping researchers to choose the best solution for their needs.
 Finally, the chapter concludes with a list of additional resources.
 
-(cm-personal-websites-motivation)=
+(cm-personal-motivation)=
 ## Motivation and Background
 
 A personal website is an online space where researchers can share their work and additional interests with a broad audience.
