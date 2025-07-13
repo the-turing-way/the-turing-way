@@ -1,5 +1,5 @@
-(rr-licensing-ethical)=
-# 'Ethical Source'
+(rr-licensing-ethical-source)=
+# Ethical Source
 
 The ethical source movement seeks to affirmatively protect specific user rights by curtailing freedom 0, the freedom to use software 'for any purpose' and prohibiting the use of the software for unethical purposes.
 Consequently, these licenses by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses.

@@ -1,5 +1,5 @@
 (rr-licensing-floss)=
-# Free/Libre' or 'Open Source' software
+# Free/Libre or Open Source software
 
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
 Consequently, they are among the most developed and useful context for understanding the licensing of other things.
