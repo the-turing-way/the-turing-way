@@ -62,7 +62,7 @@ How have you succesfully carried out the project?
 (cm-personal-narrative-cv-how)=
 ## How to structure sentences and paragraphs 
 
-The information in this section has been summarized based on   ... June 2023, University of Oxford. https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/narrative_cv_guide_oxford_june_2023_0.pdf
+The information in this section has been summarized based on @oxford2023narrative.
 
 1. Summary sentence: start with the main message that you want a reviewer to notice.
 2. Short descriptions of your strongest contributions: what you did and why it is important, with evidence. 
@@ -102,7 +102,7 @@ If so, explain how you have done so.
 (cm-personal-narrative-cv-outputs)=
 ## Types of contributions to consider
 
-The list in this section has been based on the overview by the University of Oxford 2023.
+The list in this section has been based on the overview by @oxford2023narrative.
 
 1. [Research objects](#cm-ro), which could include:
 • Peer reviewed publications, preprints, conference publications or policy publications 
@@ -138,7 +138,8 @@ If you are at an early stage in your research career, you can describe substanti
 ## Other resources
 
 - [Developing a narrative CV: guidance for researchers]([url](https://researchsupport.admin.ox.ac.uk/learn-more-about-developing-a-narrative-cv#collapse4313436))  by the University of Oxford 
--  '[How to write a narrative CVs for funding applications](https://www.youtube.com/watch?v=VKk8oKM_kec )' webinar by the University of Oxford h
+- '[How to write a narrative CVs for funding applications](https://www.youtube.com/watch?v=VKk8oKM_kec )' webinar by the University of Oxford
+- [Young Academy Ireland Narrative CV Toolkit: Resources and Examples](https://doi.org/10.5281/zenodo.15011146)
 
 ## Summary
 
