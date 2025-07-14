@@ -29,7 +29,7 @@ _The Turing Way_ book is built and deployed online using [Netlify](https://www.n
 If you want to deploy the book on Netlify, you'll need the following settings:
 
 - Base directory: `book/`
-- Build command: `make deps && make pathways && make ci`
+- Build command: `make deps && make ci`
 - Publish directory: `website/_build/html`
 
 You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
