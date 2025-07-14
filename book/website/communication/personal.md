@@ -1,7 +1,7 @@
 (cm-personal)=
-# Personal Websites
+# Communication of Personal Skills and Research
 
-(cm-personal-websites-prerequisites)=
+(cm-personal-prerequisites)=
 ## Prerequisites
 
 | Prerequisite | Importance | Skill Level | Notes |
