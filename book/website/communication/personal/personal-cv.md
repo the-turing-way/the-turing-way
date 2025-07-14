@@ -105,13 +105,13 @@ If so, explain how you have done so.
 The list in this section has been based on the overview by @oxford2023narrative.
 
 1. [Research objects](#cm-ro), which could include:
-• Peer reviewed publications, preprints, conference publications or policy publications 
-• Data sets, software, code, protocols, materials
-• Products (commercial, entrepreneurial, industrial, educational)
-• Evidence synthesis
-• Patents, designs
-• Artefacts
-• Exhibitions, audio or visual media
+    - Peer reviewed publications, preprints, conference publications or policy publications 
+    - Data sets, software, code, protocols, materials
+    - Products (commercial, entrepreneurial, industrial, educational)
+    - Evidence synthesis
+    - Patents, designs
+    - Artefacts
+    - Exhibitions, audio or visual media
 2. Development of methods, tools or resources.
 3. Generation of new ideas and hypotheses.
 4. Funding you obtained (include funder, your role, dates, what the funding enabled).
