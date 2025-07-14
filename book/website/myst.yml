@@ -495,7 +495,7 @@ project:
             - file: communication/personal/personal-cv.md
               title: Narrative CV
             - file: communication/personal/personal-website.md
-              title: Personal Website 
+              title: Personal Website
         - file: communication/lay-summaries.md
           title: Lay Summaries
           children:
