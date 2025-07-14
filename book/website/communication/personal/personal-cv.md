@@ -2,23 +2,28 @@
 # Narrative/Evidenced based CVs
 
 
-The 'narrative' or 'evidenced based' CV format provides a structured written description of a person’s contributions and achievements to research in a manner that reflects a broad range of relevant skills and experiences, more than can often be seen in a traditional academic CV.
-
-There is no ideal type of researcher, and an evidence-based CV allows you to highlight your own academic profile without being limited by a small range of questions and criteria.  
+The 'narrative' or 'evidenced based' CV format provides a structured written description of a person’s contributions and achievements to research. 
+Compared to traditional academic CVs, narrative CVs reflect a broad range of relevant skills and experiences. 
+As there is no ideal type of researcher, evidence-based CVs allow you to highlight your own academic profile without being limited by a small range of questions and criteria.  
 
 (cm-personal-narrative-cv-motivation)=
 ## Motivation
 
-Traditional academic CVs have focused primarily on the quantity rather than the quality of research contributions. By focusing on a narrow range of metrics based on publications and obtainal of grants, they do not capture the full range of research acitivities. Traditional CVs also don't allow space to explain how researchers have overcome barriers and how they embraced opportunities. Narrative CVs also allow you to explain how the activities you undertook strenghtened your skills or were important for your career stage, and the rationale for undertaking those activities.
+Traditional academic CVs have focused primarily on the quantity rather than the quality of research contributions. 
+By focusing on a narrow range of metrics based on publications and obtainal of grants, traditional CVs do not capture the full range of research acitivities. 
+Traditional CVs also don't allow an explanation of how researchers have overcome barriers and how they embraced opportunities. 
+Instead, narrative CVs place more focus on how the activities you undertook strenghtened your skills or were important for your career stage, and the rationale for undertaking those activities.
 
-The narrative CV aims to reward a broader set of research-related activities beyond peer-reviewed publications, valuing diverse contributions and career paths in research. This will lead to more inclusion and diversity in research, as well as encouraging a more responsible manner of using metrics. 
+The narrative CV aims to reward a broader set of research-related activities beyond peer-reviewed publications, valuing diverse contributions and career paths in research. 
+This will lead to more inclusion and diversity in research, as well as encouraging a more responsible manner of using metrics. 
 
 The evidenced-based CV also aligns with initatives focussing on improving the way research is evaluated, such as San Francisco Declaration on Research Assessment ([DORA](https://sfdora.org/read/)) and Coalition for Advancing Research Assessment ([CoARA](https://coara.eu/)). 
 
 (cm-personal-narrative-cv-templates)=
 ## Narrative CV Templates
 
-There are many versions of a narrative CV. Below you can find examples that some research funders use: 
+There are many versions of a narrative CV. 
+Below you can find examples that some research funders use: 
 * [Résumé for Research and Innovation](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/) (R4RI)
 * [Evidenced-based CV](https://www.nwo.nl/en/evidence-based-cv) (NWO)
 * [Swiss National Science Foundation CV](https://www.snf.ch/en/gKcnwW6aEft4bMPF/page/your-curriculum-vitae-all-about-the-cv-format) (SNSF)
@@ -34,18 +39,25 @@ Evidenced-based CVs generally consist of two sections:
 **1. Academic profile:**
 - Who are you as a researcher? 
 - What are your most relevant qualities and academic achievements? 
-- What is your vision and focus, and how does this reflect in your work? How is your vision/work relevant to the call?
-- How have you used opportunities (such grants)
-- Are there other circumstances that should be taken into account? Generally there is a section where you can indicate any career breaks, unconventional career paths or other contributions to the research community. This provides context for the evaluation relative to the career stage you are in. Focus on how these circumstances have affected your career, do not go into details of the circumstances themselves.
+- What is your vision and focus, and how does this reflect in your work? 
+How is your vision/work relevant to the call?
+- How have you used opportunities (such grants)?
+- Are there other circumstances that should be taken into account? 
+Generally there is a section in the narrative CV where you can indicate any career breaks, unconventional career paths or other contributions to the research community. 
+This provides context for the evaluation relative to the career stage you are in. 
+Focus on how these circumstances have affected your career, do not go into details of the circumstances themselves.
  
 **2. Key output** (generally there is a maximum of 10):
-- Motivation why this key output is selected, focusing on knowledge advancement and recent achievements. Emphasise the resulting change or benefit (who were the beneficiaries, were benefits social/economic/environmental/health/cultural?)
+- Motivation why this key output is selected, focusing on knowledge advancement and recent achievements. 
+Emphasise the resulting change or benefit (who were the beneficiaries, were benefits social/economic/environmental/health/cultural?).
 - Focus on your strongest contributions and those that are most relevant for the call yo uare applying for. 
 - Description of your contribution to the key output (for example, via [CRediT Contributor Roles Taxonomy](https://credit.niso.org/)).
-- Focus on quality over quantity. What evidence shows that this work is of high quality and/or that it is relevant to the proposed project?
+- Focus on quality over quantity. 
+What evidence shows that this work is of high quality and/or that it is relevant to the proposed project?
 - Describe the importance of your key output to the community and your career. 
 - Focus on what you have achieved, not on what you are planning to do in the future. 
-- Describe outcomes, and how you enabled them, rather than just stating activities. How have you succesfully carried out the project?
+- Describe outcomes, and how you enabled them, rather than just stating activities. 
+How have you succesfully carried out the project?
 
 (cm-personal-narrative-cv-how)=
 ## How to structure sentences and paragraphs 
@@ -53,7 +65,7 @@ Evidenced-based CVs generally consist of two sections:
 The information in this section has been summarized based on   ... June 2023, University of Oxford. https://researchsupport.admin.ox.ac.uk/sites/default/files/researchsupport/documents/media/narrative_cv_guide_oxford_june_2023_0.pdf
 
 1. Summary sentence: start with the main message that you want a reviewer to notice.
-2. Succinct descriptions of your strongest contributions: what you did and why it is important, with evidence. 
+2. Short descriptions of your strongest contributions: what you did and why it is important, with evidence. 
 3. Sentence summarising additional contributions: end with a brief mention of other activities or contributions that you do not have space to describe fully but you feel are important for this funding application.
 
 (cm-personal-narrative-cv-how-examples)=
@@ -61,7 +73,7 @@ The information in this section has been summarized based on   ... June 2023, Un
 
 Example: I carried out the data integration using [method A] and co-wrote an early analysis of the effects of [B and C] on health outcomes [DOI]. This study (cited XXX times since X year) was the basis of a series of research community workshops, organised by [organisation D], which led to a [funder] award for the [E] consortium (£ amount).
 
-Example: I have supervised/line-managed/mentored [numbers of students, staff roles etc.] who went on to [example achievements of supervisees and mentees]. I supported their development through [examples of specific ways you supported development, such as providing opportunities (e.g. through sponsorship, resources, sharing of contacts, offering roles with responsibilities) for learning skill A or experiencing B].
+Example: I have supervised/line-managed/mentored [numbers of students, staff roles] who went on to [example achievements of supervisees and mentees]. I supported their development through [examples of specific ways you supported development, such as providing opportunities (through sponsorship, resources, sharing of contacts, offering roles with responsibilities) for learning skill A or experiencing B].
 
 Example: As part of the [XX] Collaboration, I supported effective teamwork by setting up channels on Slack for exchange of information and questions; this has improved our understanding of what partners are working on, in between formal meetings.
 
@@ -72,7 +84,7 @@ Example: In [year], I co-organised the first stakeholder engagement day in the U
 (cm-personal-narrative-cv-how-tips)=
 ### Tips
 - To reference a publication, use a digital object identifier ([DOI](#cm-citable-steps-doi) hyperlinked to the publication. 
-Only include a full citation if requested by the funder to save space.
+Only include full citations if requested by the funder to save space.
 - For a team project, mention your specific contributions and the skills that you used or developed. 
 - Describe how this research advanced the field. 
 - Demonstrate your commitment to open and transparent research practices, including in how you manage and share data, methods, and findings.
@@ -90,6 +102,8 @@ If so, explain how you have done so.
 (cm-personal-narrative-cv-outputs)=
 ## Types of contributions to consider
 
+The list in this section has been based on the overview by the University of Oxford 2023.
+
 1. [Research objects](#cm-ro), which could include:
 • Peer reviewed publications, preprints, conference publications or policy publications 
 • Data sets, software, code, protocols, materials
@@ -100,7 +114,7 @@ If so, explain how you have done so.
 • Exhibitions, audio or visual media
 2. Development of methods, tools or resources.
 3. Generation of new ideas and hypotheses.
-4. Funding you have won (include funder, your role, dates, what the funding enabled).
+4. Funding you obtained (include funder, your role, dates, what the funding enabled).
 5. Awards you have received or other forms of peer recognition, such as invited talks.
 6. Supervision or mentoring, or positions of responsibility.
 7. Project management or line management, critical to the success of a team or team members.
