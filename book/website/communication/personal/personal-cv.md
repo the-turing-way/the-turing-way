@@ -50,7 +50,7 @@ Focus on how these circumstances have affected your career, do not go into detai
 **2. Key output** (generally there is a maximum of 10):
 - Motivation why this key output is selected, focusing on knowledge advancement and recent achievements. 
 Emphasise the resulting change or benefit (who were the beneficiaries, were benefits social/economic/environmental/health/cultural?).
-- Focus on your strongest contributions and those that are most relevant for the call yo uare applying for. 
+- Focus on your strongest contributions and those that are most relevant for the call you are applying for. 
 - Description of your contribution to the key output (for example, via [CRediT Contributor Roles Taxonomy](https://credit.niso.org/)).
 - Focus on quality over quantity. 
 What evidence shows that this work is of high quality and/or that it is relevant to the proposed project?
