@@ -10,12 +10,9 @@ All figures associated to the chapters are stored in, and linked from, the [`fig
 
 The book's configuration is defined in [`website/myst.yml`](./website/myst.yml). The possible fields for this file are explained [in the MystMD documentation](https://mystmd.org/guide/frontmatter#in-a-myst-yml-file).
 
-### Deploying
+### Building
 
-The site is built automatically using the two directories `book` and `book/website`.
-All of the dependencies are specified in `dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
-
-Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
+Instructions for how to build the book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
 ## Bibliography
 
