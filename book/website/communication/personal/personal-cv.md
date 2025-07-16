@@ -46,7 +46,10 @@ Generally there is a section in the narrative CV where you can indicate any care
 This provides context for the evaluation relative to the career stage you are in. 
 Focus on how these circumstances have affected your career, do not go into details of the circumstances themselves.
  
-**2. Key output** (generally there is a maximum of 10):
+### Key outputs 
+
+Generally there is a maximum of 10.
+
 - Motivation why this key output is selected, focusing on knowledge advancement and recent achievements. 
 Emphasise the resulting change or benefit (who were the beneficiaries, were benefits social/economic/environmental/health/cultural?).
 - Focus on your strongest contributions and those that are most relevant for the call you are applying for. 
