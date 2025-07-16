@@ -142,7 +142,3 @@ If you are at an early stage in your research career, you can describe substanti
 - [Developing a narrative CV: guidance for researchers](https://researchsupport.admin.ox.ac.uk/learn-more-about-developing-a-narrative-cv#collapse4313436)  by the University of Oxford 
 - '[How to write a narrative CVs for funding applications](https://www.youtube.com/watch?v=VKk8oKM_kec )' webinar by the University of Oxford
 - [Young Academy Ireland Narrative CV Toolkit: Resources and Examples](https://doi.org/10.5281/zenodo.15011146)
-
-## Summary
-
-[recap]
