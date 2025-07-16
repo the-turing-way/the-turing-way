@@ -5,7 +5,7 @@
 
 It is useful to preview changes you have been working on as you go on your local machine.
 You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
-You can replicate the build process using [Make](#rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+You can replicate the build process using [Make](#rr-make) and [Jupyter Book](https://next.jupyterbook.org).
 
 ## Prerequisites
 
@@ -32,7 +32,7 @@ git clone https://github.com/the-turing-way/the-turing-way.git
 
 ````{note}
 The repository is quite large and cloning may take a long time on slower internet connections.
-You can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#).
+You can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone).
 Specifically, focusing on blobless clones, involves utilizing the `--filter=blob:none` option in the git clone command.
 
 By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout.
@@ -91,31 +91,19 @@ Install the build dependencies into your virtual environment,
 $ make deps
 ```
 
-### Build the Book
-
-You are now ready to build the book.
-You can build the book with,
-
-```console
-$ make book
-```
-
-The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
-Open `book/website/_build/html/index.html` in your web browser to look at your local build.
-
 ### Serve the book locally
 
-When you serve the book, you will have a local copy which updates automatically as you make changes.
+When you serve the book, it will be deployed on a local webserver which updates automatically as you make changes.
 To serve the book locally run,
 
 ```console
 $ make serve
 ```
 
-Once the build has succeeded, you can open <http://localhost:3000/> in your browser and see a version of the book with your changes which will update live with your local changes.
+Once the build has succeeded, you can open <http://localhost:3000/> in your browser.
 
-```{warning}
-The build process is a little slow so you may have to be patient for your changes to become visible.
+```{tip}
+The build process takes time so you may have to wait for changes to become visible in your browser.
 ```
 
 ### Building Previews for Different Branches
@@ -127,8 +115,24 @@ To build another branch, for example a feature branch you are working on you fir
 
 ```console
 $ git switch mybranch
+```
+
+If you are already running `make serve`, you should see the book updating automatically. Otherwise you can run `make serve` again.
+
+(other-targets)=
+## Other Targets
+
+### Export the Book to HTML
+
+You can build the book, writing the outputs as HTML,
+
+```console
 $ make book
 ```
+
+The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
+This is the same command used to prepare the book for deployment to the website.
+
 
 ## Clean Up After a Build
 
@@ -140,9 +144,6 @@ To remove the outputs of builds use the `clean` target,
 ```console
 $ make clean
 ```
-
-(other-targets)=
-## Other Targets
 
 (other-targets:strict)=
 ### Strict Build
