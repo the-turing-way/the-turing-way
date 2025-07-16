@@ -115,8 +115,9 @@ To build another branch, for example a feature branch you are working on you fir
 
 ```console
 $ git switch mybranch
-$ make serve
 ```
+
+If you are already running `make serve`, you should see the book updating automatically. Otherwise you can run `make serve` again.
 
 (other-targets)=
 ## Other Targets
