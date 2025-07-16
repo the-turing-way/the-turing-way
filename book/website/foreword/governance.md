@@ -22,7 +22,7 @@ Originally described in the context of Studies of the institutional design of na
 3. At the "Constitutional" level, nominated community leaders from the Maintenance level participate in the Turing Way Steering Committee. 
 The Steering Committee covers decisions at a strategic, whole-project level, such as the establishment of Working Groups, and creating and revising project-related norms that affect the whole of the project, the community and their sustainability.
 
-```{figure} ../figures/turing-way-governance-2.jpeg
+```{figure} ../../figures/turing-way-governance-2.jpeg
 ---
 width: 500px
 name: turing-way-governance

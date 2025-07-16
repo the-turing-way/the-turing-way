@@ -18,7 +18,7 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 ### Deploying
 
 The site is built automatically using the two directories `book` and `book/website`.
-All of the dependencies are specified in `website/dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
+All of the dependencies are specified in `dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
 
 Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
@@ -29,14 +29,14 @@ _The Turing Way_ book is built and deployed online using [Netlify](https://www.n
 If you want to deploy the book on Netlify, you'll need the following settings:
 
 - Base directory: `book/`
-- Build command: `make deps && make pathways && make ci`
+- Build command: `make deps && make ci`
 - Publish directory: `website/_build/html`
 
 You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
 
 ## Bibliography
 
-In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
+The collection of bibliography items from all the chapters exist in the `./website/references.bib` file.
 More details can be read in the [CONTRIBUTING.md](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates

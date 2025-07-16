@@ -1,7 +1,7 @@
 (er-datahazardshowtouse)=
 # How to use the Data Hazards project
 
-```{figure} ../../figures/data-hazard.*
+```{figure} ../../../figures/data-hazard.*
 ---
 height: 500px
 name: data-hazard

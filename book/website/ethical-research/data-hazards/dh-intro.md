@@ -26,7 +26,7 @@ Each label has, as described in the main website:
 - **Safety Precautions** things that we would want to see done before the research is deployed.
 
 ### Example label: high environmental cost
-```{figure} ../../figures/data-hazard-environmental-cost.*
+```{figure} ../../../figures/data-hazard-environmental-cost.*
 ---
 height: 250px
 name: data-hazard-environmental-cost
