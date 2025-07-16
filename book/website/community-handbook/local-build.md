@@ -102,8 +102,8 @@ $ make serve
 
 Once the build has succeeded, you can open <http://localhost:3000/> in your browser.
 
-```{warning}
-The build process is a little slow so you may have to be patient for your changes to become visible.
+```{tip}
+The build process takes time so you may have to wait for changes to become visible in your browser.
 ```
 
 ### Building Previews for Different Branches
