@@ -88,16 +88,11 @@ Example: As part of the [XX] Collaboration, I supported effective teamwork by se
 
 :::{tab-item} Example 4
 :sync: Example 4
-Example: As part of the [XX] Collaboration, I supported effective teamwork by setting up channels on Slack for exchange of information and questions; this has improved our understanding of what partners are working on, in between formal meetings.
+Example: As a member of the department X Equality, Diversity and Inclusivity committee, I initiated and led a working group on neurodiversity, resulting in several practical changes such a good practice guide for organising departmental events and training opportunities for HR staff.
 :::
 
 :::{tab-item} Example 5
 :sync: Example 5
-Example: As a member of the department X Equality, Diversity and Inclusivity committee, I initiated and led a working group on neurodiversity, resulting in several practical changes such a good practice guide for organising departmental events and training opportunities for HR staff.
-:::
-
-:::{tab-item} Example 6
-:sync: Example 6
 Example: In [year], I co-organised the first stakeholder engagement day in the UK (XX attendees) for [public interest topic A], which included a panel discussion at which campaigners spoke about their experiences and break-out groups discussed research priorities. Evidence submitted as part of public consultation led to changes in local policy, leading to [XX%] decline in the effect of [A] on the affected population group.
 :::
 ::::
