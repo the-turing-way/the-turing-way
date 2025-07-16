@@ -58,7 +58,7 @@ Stale issue
 
 Always leave a welcoming, friendly message to explain what you are doing and why
 
-#### Growing/sowing
+#### Sowing
 
 - [ ] Is this an issue
     - [ ] Move to a discussion if this is a discussion
@@ -91,7 +91,7 @@ Always leave a welcoming, friendly message to explain what you are doing and why
 
 ### PRs
 
-#### Growing/sowing
+#### Sowing
 
 - [ ] Is this a PR
 - [ ] Assign appropriate labels
