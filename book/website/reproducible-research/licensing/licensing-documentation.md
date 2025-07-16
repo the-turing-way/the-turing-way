@@ -1,7 +1,7 @@
 (rr-licensing-documentation)=
 # Licensing Documentation
 
-Licenses accompanying documentation clarify how accompanying materials can be used, copied, or shared.
+License for documentation clarify how accompanying materials can be used, copied, or shared.
 These licenses can be applied to standalone documentation or in combination with licenses associated with other kinds of artefacts.
 
 For example, *The Turing Way* uses two licenses, one for documentation (Creative Commons) and another for code (MIT).
