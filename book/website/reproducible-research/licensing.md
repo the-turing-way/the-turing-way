@@ -2,7 +2,8 @@
 # Licensing
 
 A license is a legal agreement between creator or owner of a resource such as software, data, and documentation, and its users.
-The specific license accompanying a resource clearly defines the scope and communicates what users can and cannot do with the work. This protects the creator's rights over their resources while granting users usage rights.
+The specific license accompanying a resource clearly defines the scope and communicates what users can and cannot do with the work.
+This protects the creator's rights over their resources while granting users some, limited rights.
 
 ```{note}
 In the context of Intellectual Property (IP) Law, IPs are intangible expressions, such as words, designs, literary and artistic work and scholarly outputs, patents, trademarks and trade secrets, with specific copyrights or monopoly rights.
