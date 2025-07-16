@@ -1,7 +1,7 @@
 ## The Turing Way Book
 
 This is the README file for _The Turing Way_ book hosted online at [book.the-turing-way.org](https://book.the-turing-way.org).
-For the README file of the main repository please [follow this link](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
+For the README file of the main repository please [follow this link](../README.md).
 
 All the text for each chapter of the `book` lives inside the [`website`](./website/) directory.
 All figures associated to the chapters are stored in, and linked from, the [`figures`](./figures/) directory.
