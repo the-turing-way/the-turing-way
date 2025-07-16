@@ -34,7 +34,8 @@ It is important to check which template you need to follow, what restrictions ar
 
 Evidenced-based CVs generally consist of two sections:
 
-**1. Academic profile:**
+### Academic profile
+
 - Who are you as a researcher? 
 - What are your most relevant qualities and academic achievements? 
 - What is your vision and focus, and how does this reflect in your work? 
