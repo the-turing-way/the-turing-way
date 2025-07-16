@@ -12,9 +12,6 @@ By focusing on a narrow range of metrics based on publications and obtainal of g
 Traditional CVs also don't allow an explanation of how researchers have overcome barriers and how they embraced opportunities. 
 Instead, narrative CVs place more focus on how the activities you undertook strenghtened your skills or were important for your career stage, and the rationale for undertaking those activities.
 
-The narrative CV aims to reward a broader set of research-related activities beyond peer-reviewed publications, valuing diverse contributions and career paths in research. 
-This will lead to more inclusion and diversity in research, as well as encouraging a more responsible manner of using metrics. 
-
 The evidenced-based CV also aligns with initatives focussing on improving the way research is evaluated, such as San Francisco Declaration on Research Assessment ([DORA](https://sfdora.org/read/)) and Coalition for Advancing Research Assessment ([CoARA](https://coara.eu/)). 
 
 (cm-personal-narrative-cv-templates)=
@@ -72,6 +69,18 @@ The information in this section has been summarized based on @oxford2023narrativ
 
 (cm-personal-narrative-cv-how-examples)=
 ### Examples
+
+::::{tab-set}
+:::{tab-item} Example 1
+:sync: Example 1
+Example: I carried out the data integration using [method A] and co-wrote an early analysis of the effects of [B and C] on health outcomes [DOI]. This study (cited XXX times since X year) was the basis of a series of research community workshops, organised by [organisation D], which led to a [funder] award for the [E] consortium (£ amount).
+
+:::
+:::{tab-item} Example 2
+:sync: Example 2
+Example: I have supervised/line-managed/mentored [numbers of students, staff roles] who went on to [example achievements of supervisees and mentees]. I supported their development through [examples of specific ways you supported development, such as providing opportunities (through sponsorship, resources, sharing of contacts, offering roles with responsibilities) for learning skill A or experiencing B].
+:::
+::::
 
 Example: I carried out the data integration using [method A] and co-wrote an early analysis of the effects of [B and C] on health outcomes [DOI]. This study (cited XXX times since X year) was the basis of a series of research community workshops, organised by [organisation D], which led to a [funder] award for the [E] consortium (£ amount).
 
