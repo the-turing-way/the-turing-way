@@ -32,7 +32,7 @@ Licensing. _The Turing Way_ project illustration by Scriberia. Used under a CC-B
 ```
 
 Licensing of software, data, AI/ML models, hardware and other creative works, such as documentation and visuals, share common attributes and concepts.
-In this chapter, we describe the concepts to make it easier for more people to read and understand the usage rights granted by most licenses relevant to the research and data science community.
+This chapter describes those concepts, making it easier for more people to read and understand the usage rights granted by most licenses relevant to the research and data science community.
 
 ```{caution}
 Good legal advice is timely, specific, and given by an expert; this chapter is none of these.
