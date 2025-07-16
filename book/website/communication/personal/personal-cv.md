@@ -85,6 +85,7 @@ Example: In [year], I co-organised the first stakeholder engagement day in the U
 
 (cm-personal-narrative-cv-how-tips)=
 ### Tips
+
 - To reference a publication, use a digital object identifier ([DOI](#cm-citable-steps-doi) hyperlinked to the publication. 
 Only include full citations if requested by the funder to save space.
 - For a team project, mention your specific contributions and the skills that you used or developed. 
@@ -99,7 +100,6 @@ How did you contribute to helping collaborations to succeed?
 - Have you taken steps to be inclusive in your approach to managing or mentoring? 
 If so, explain how you have done so. 
 - Don’t overwhelm reviewers with long lists, or dilute the communication of your key achievements.
-
 
 (cm-personal-narrative-cv-outputs)=
 ## Types of contributions to consider
