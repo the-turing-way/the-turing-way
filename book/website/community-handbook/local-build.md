@@ -93,14 +93,14 @@ $ make deps
 
 ### Serve the book locally
 
-When you serve the book, you will have a local copy which updates automatically as you make changes.
+When you serve the book, it will be deployed on a local webserver which updates automatically as you make changes.
 To serve the book locally run,
 
 ```console
 $ make serve
 ```
 
-Once the build has succeeded, you can open <http://localhost:3000/> in your browser and see a version of the book with your changes which will update live with your local changes.
+Once the build has succeeded, you can open <http://localhost:3000/> in your browser.
 
 ```{warning}
 The build process is a little slow so you may have to be patient for your changes to become visible.
