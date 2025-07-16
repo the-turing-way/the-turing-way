@@ -954,7 +954,7 @@ project:
               title: Redirects
             - file: community-handbook/infrastructure/infrastructure-pathways.md
               title: Pathways
-        - file: website/community-handbook/github-gardening.md
+        - file: community-handbook/github-gardening.md
           title: GitHub Gardening
         - file: community-handbook/accessibility.md
           title: Accessibility
