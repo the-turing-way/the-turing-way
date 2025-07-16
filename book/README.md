@@ -21,10 +21,8 @@ More details can be read in the [CONTRIBUTING.md](https://github.com/the-turing-
 
 ## Content Templates
 
-Templates for different types of content can be created in the [`templates` directory](./templates).
+Templates for different types of content can be found in the [`templates`](./templates) directory.
+This includes the following:
 
-As of now, the template directory includes the following:
-* `case-study-template`: a template for writing and/or revising case studies
-* `chapter-template`: a template for writing new chapters or revising old ones
-
-The template can be copied to create content relevant to a chapter in the `content` directory.
+* [`case-study-template`](templates/case-study-template/): a template for writing and/or revising case studies
+* [`chapter-template`](templates/chapter-template/): a template for writing new chapters or revising old ones
