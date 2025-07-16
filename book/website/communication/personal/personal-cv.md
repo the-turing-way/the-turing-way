@@ -80,17 +80,27 @@ Example: I carried out the data integration using [method A] and co-wrote an ear
 :sync: Example 2
 Example: I have supervised/line-managed/mentored [numbers of students, staff roles] who went on to [example achievements of supervisees and mentees]. I supported their development through [examples of specific ways you supported development, such as providing opportunities (through sponsorship, resources, sharing of contacts, offering roles with responsibilities) for learning skill A or experiencing B].
 :::
-::::
 
-Example: I carried out the data integration using [method A] and co-wrote an early analysis of the effects of [B and C] on health outcomes [DOI]. This study (cited XXX times since X year) was the basis of a series of research community workshops, organised by [organisation D], which led to a [funder] award for the [E] consortium (£ amount).
-
-Example: I have supervised/line-managed/mentored [numbers of students, staff roles] who went on to [example achievements of supervisees and mentees]. I supported their development through [examples of specific ways you supported development, such as providing opportunities (through sponsorship, resources, sharing of contacts, offering roles with responsibilities) for learning skill A or experiencing B].
-
+:::{tab-item} Example 3
+:sync: Example 3
 Example: As part of the [XX] Collaboration, I supported effective teamwork by setting up channels on Slack for exchange of information and questions; this has improved our understanding of what partners are working on, in between formal meetings.
+:::
 
+:::{tab-item} Example 4
+:sync: Example 4
+Example: As part of the [XX] Collaboration, I supported effective teamwork by setting up channels on Slack for exchange of information and questions; this has improved our understanding of what partners are working on, in between formal meetings.
+:::
+
+:::{tab-item} Example 5
+:sync: Example 5
 Example: As a member of the department X Equality, Diversity and Inclusivity committee, I initiated and led a working group on neurodiversity, resulting in several practical changes such a good practice guide for organising departmental events and training opportunities for HR staff.
+:::
 
+:::{tab-item} Example 6
+:sync: Example 6
 Example: In [year], I co-organised the first stakeholder engagement day in the UK (XX attendees) for [public interest topic A], which included a panel discussion at which campaigners spoke about their experiences and break-out groups discussed research priorities. Evidence submitted as part of public consultation led to changes in local policy, leading to [XX%] decline in the effect of [A] on the affected population group.
+:::
+::::
 
 (cm-personal-narrative-cv-how-tips)=
 ### Tips
