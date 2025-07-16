@@ -91,17 +91,6 @@ Install the build dependencies into your virtual environment,
 $ make deps
 ```
 
-### Build the Book
-
-You are now ready to build the book.
-You can build the book with,
-
-```console
-$ make book
-```
-
-The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
-
 ### Serve the book locally
 
 When you serve the book, you will have a local copy which updates automatically as you make changes.
@@ -126,8 +115,23 @@ To build another branch, for example a feature branch you are working on you fir
 
 ```console
 $ git switch mybranch
+$ make serve
+```
+
+(other-targets)=
+## Other Targets
+
+### Export the Book to HTML
+
+You can build the book, writing the outputs as HTML,
+
+```console
 $ make book
 ```
+
+The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
+This is the same command used to prepare the book for deployment to the website.
+
 
 ## Clean Up After a Build
 
@@ -139,9 +143,6 @@ To remove the outputs of builds use the `clean` target,
 ```console
 $ make clean
 ```
-
-(other-targets)=
-## Other Targets
 
 (other-targets:strict)=
 ### Strict Build
