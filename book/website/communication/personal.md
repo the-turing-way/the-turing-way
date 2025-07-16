@@ -36,7 +36,8 @@ But this space is not necessarily limited to academic content; it can also be a 
 As a result, this website can be customised to express the individual's unique identity and values.
 This online presence can help researchers expand their visibility, engage with a wider audience, connect with potential collaborators, and even create new career opportunities.
 
-The narrative CV aims to reward a broader set of research-related activities beyond peer-reviewed publications, valuing diverse contributions and career paths in research. 
+The narrative CV aims to reward a broader set of research-related activities beyond peer-reviewed publications.
+It values diverse contributions and career paths in research. 
 This will lead to more inclusion and diversity in research, as well as encouraging a more responsible manner of using metrics.
 It also allows researchers to place focus on activities that they value, instead of being limited by a restricted amount of criteria.
 
