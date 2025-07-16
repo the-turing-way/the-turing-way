@@ -5,7 +5,7 @@ License for documentation clarify how accompanying materials can be used, copied
 These licenses can be applied to standalone documentation or in combination with licenses associated with other kinds of artefacts.
 
 For example, *The Turing Way* uses two licenses, one for documentation (Creative Commons) and another for code (MIT).
-You can find details in the [LICENSE.md](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)) located in the main GitHub repository.
+You can find details in the [LICENSE.md](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md) located in the main GitHub repository.
 
 ## Creative Commons Licenses for Documentation
 
@@ -35,7 +35,7 @@ There are six different license types, listed from most to least permissive natu
 * **CC BY Non-Commercial Share-Alike (NC SA)** allows you to copy and publish, requires attribution, does not allow commercial use, allows you to modify and adapt, and does not allow you to change the license.
 * **CC BY Non-Commercial Non-Disclosure (NC ND)** allows you to copy and publish, requires attribution, does not allow commercial use, does not allow you to modify and adapt, and allows you to change the license.
 
-```{figure} ../../figures/cc-license-chart.* 
+```{figure} ../../../figures/cc-license-chart.* 
 ---
 height: 500px
 name: Creative Commons License Types

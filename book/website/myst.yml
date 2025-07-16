@@ -137,7 +137,7 @@ project:
             - file: reproducible-research/licensing/licensing-ip.md
               title: Intellectual Property
             - file: reproducible-research/licensing/licensing-floss.md
-              title: Free/Libre and Open Source License
+              title: Free/Libre and Open Source Software
             - file: reproducible-research/licensing/licensing-compatibility.md
               title: License Compatibility
             - file: reproducible-research/licensing/licensing-ethical-source.md

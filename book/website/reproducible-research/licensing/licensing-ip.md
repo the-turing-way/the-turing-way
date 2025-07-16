@@ -4,9 +4,9 @@
 IP is an umbrella term that refers to a number of distinct areas of law.
 Primarily, these three areas are relevant in research and data science:
 
-- **[Copyright](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/)**
-- **[Patent](https://www.wipo.int/patents/en/)**
-- **[Trademark](https://euipo.europa.eu/ohimportal/en/trade-mark-definition/)**
+- [Copyright](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/)
+- [Patent](https://www.wipo.int/patents/en/)
+- [Trademark](https://euipo.europa.eu/ohimportal/en/trade-mark-definition/)
 
 What these have in common is the attempt to extend property rights to intangible goods, meaning their use by others can be prevented or [licensed](https://www.oshwa.org/faq/#what-is-a-license/).
 Governments with such laws effectively create a limited grant of monopoly over these goods for their creators, and other holders of these rights.
