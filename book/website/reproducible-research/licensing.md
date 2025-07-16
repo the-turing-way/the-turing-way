@@ -90,7 +90,6 @@ We will address the specifics of licensing each of these types of output in thei
 
 We have also provided separate subchapters for the following resources:
 
-- {ref}`Documentation<rr-licensing-documentation>`
-- {ref}`Data<rr-licensing-data>`
-- {ref}`Machine Learning Models<rr-licensing-ml>`
-- {ref}`Hardware<rr-licensing-hardware>`
+- [Data](#rr-licensing-data)
+- [Machine Learning Models](#rr-licensing-ml)
+- [Hardware](#rr-licensing-hardware)
