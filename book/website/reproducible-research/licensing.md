@@ -1,7 +1,7 @@
 (rr-licensing)=
 # Licensing
 
-A license is a legal agreement between creator or owner of resources such as software, data or documentation and users.
+A license is a legal agreement between creator or owner of a resource such as software, data, and documentation, and its users.
 The specific license accompanying a resource clearly defines the scope and communicates what users can and cannot do with the work. This protects the creator's rights over their resources while granting users usage rights.
 
 ```{note}
