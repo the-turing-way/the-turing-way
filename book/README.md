@@ -8,11 +8,7 @@ All figures associated to the chapters are stored in, and linked from, the [`fig
 
 ### Configuration
 
-- The table of contents (TOC) defines the order of chapters as they appear in the book.
-To change the TOC, please edit the `website/myst.yml` file with correct information on filenames and their relative locations in this repository.
-Documentation on controlling the TOC structure can be found on the [Jupyter Book website](https://jupyterbook.org/customize/toc.html).
-- Same applies for more general configuration using `website/myst.yml`.
-Documentation on configuring book settings can be found on the [Jupyter Book website](https://jupyterbook.org/customize/config.html).
+The book's configuration is defined in [`website/myst.yml`](./website/myst.yml). The possible fields for this file are explained [in the MystMD documentation](https://mystmd.org/guide/frontmatter#in-a-myst-yml-file).
 
 ### Deploying
 
