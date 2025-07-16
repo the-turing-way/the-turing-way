@@ -1,7 +1,5 @@
 (cm-personal-narrative-cv)=
 # Narrative/Evidenced based CVs
-
-
 The 'narrative' or 'evidenced based' CV format provides a structured written description of a person’s contributions and achievements to research. 
 Compared to traditional academic CVs, narrative CVs reflect a broad range of relevant skills and experiences. 
 As there is no ideal type of researcher, evidence-based CVs allow you to highlight your own academic profile without being limited by a small range of questions and criteria.  
