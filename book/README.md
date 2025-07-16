@@ -22,18 +22,6 @@ All of the dependencies are specified in `dependencies.in`, which is transformed
 
 Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
-#### On Netlify
-
-_The Turing Way_ book is built and deployed online using [Netlify](https://www.netlify.com/).
-
-If you want to deploy the book on Netlify, you'll need the following settings:
-
-- Base directory: `book/`
-- Build command: `make deps && make ci`
-- Publish directory: `website/_build/html`
-
-You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
-
 ## Bibliography
 
 The collection of bibliography items from all the chapters exist in the `./website/references.bib` file.
