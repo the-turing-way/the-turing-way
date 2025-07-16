@@ -9,7 +9,7 @@ This protects the creator's rights over their resources while granting users som
 In the context of Intellectual Property (IP) Law, IPs are intangible expressions, such as words, designs, literary and artistic work and scholarly outputs, patents, trademarks and trade secrets, with specific copyrights or monopoly rights.
 IPs form the basis of a licensing agreement, where a licensor owns the IP and grants the licensee (users) the right to use it. 
 
-*Reference: [Intellectual Property, Harvard Medical School, Longwood Research Data Management](https://datamanagement.hms.harvard.edu/share-publish/intellectual-property)*
+*Reference: {cite}`harvard2025ip`*
 ```
 
 > This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
