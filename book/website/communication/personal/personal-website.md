@@ -13,10 +13,8 @@
 ## Summary
 
 This section explores the importance and benefits of a personal website for researchers.
-It provides a general structure with common components and content suggestions for developing personal websites.
 Then, coding and non-coding website generators with different levels of complexity are discussed, explaining their features and differences.
 Several deployment options and maintenance strategies are also presented, helping researchers to choose the best solution for their needs.
-Finally, the chapter concludes with a list of additional resources.
 
 (cm-personal-websites-motivation)=
 ## Motivation and Background
@@ -69,6 +67,7 @@ website using low-code or high-code options.
   * The repository [`rzashakeri/beautify-github-profile`](https://github.com/rzashakeri/beautify-github-profile) has instructions and advice to customise your GitHub profile.
 * [Squarespace](http://squarespace.com)
 * [Wix](https://learnxinyminutes.com/)
+* [Wordpress](https://wordpress.com/blog/2025/01/02/personal-website/)
 
 ### High-Code frameworks
 
