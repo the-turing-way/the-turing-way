@@ -45,7 +45,8 @@ Focus on how these circumstances have affected your career, do not go into detai
  
 ### Key outputs 
 
-Generally there is a maximum of 10.
+Generally, a maximum of 10 key outputs are described in this section. 
+Here we describe how to describe these outputs, give examples and end with a list of types of outputs you may consider.
 
 - Motivation why this key output is selected, focusing on knowledge advancement and recent achievements. 
 Emphasise the resulting change or benefit (who were the beneficiaries, were benefits social/economic/environmental/health/cultural?).
