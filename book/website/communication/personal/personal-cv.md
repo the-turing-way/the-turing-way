@@ -10,7 +10,8 @@ As there is no ideal type of researcher and evidence-based CVs allow you to high
 Traditional academic CVs have focused primarily on the quantity rather than the quality of research contributions. 
 By focusing on a narrow range of metrics based on publications and obtainal of grants, traditional CVs do not capture the full range of research acitivities. 
 Traditional CVs also don't allow an explanation of how researchers have overcome barriers and how they embraced opportunities. 
-Instead, narrative CVs place more focus on how the activities you undertook strenghtened your skills or were important for your career stage, and the rationale for undertaking those activities.
+
+In contrast, narrative CVs place more focus on how the activities you undertook strenghtened your skills or were important for your career stage, and the rationale for undertaking those activities.
 
 The evidenced-based CV also aligns with initatives focussing on improving the way research is evaluated, such as San Francisco Declaration on Research Assessment ([DORA](https://sfdora.org/read/)) and Coalition for Advancing Research Assessment ([CoARA](https://coara.eu/)). 
 
