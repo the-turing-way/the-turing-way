@@ -27,8 +27,9 @@ Both sections conclude with a list of additional resources.
 (cm-personal-motivation)=
 ## Motivation and Background
 
-It is important to advertise your research skills and output via various pathways.
+It is important to advertise your research skills and outputs via various pathways to increase your visibility as a researcher.
 Examples are a personal website or a narrative CV. 
+Both a personal website and a narrative CV allow you to take control of your narrative, showing what you consider to be important in your career path instead of having a pre-defined structure or 'box' of what is expected (as is the case in platforms like LinkedIn or the traditional CV).
 
 A personal website is an online space where researchers can share their work and additional interests with a broad audience.
 It can serve as a platform to present research findings, projects, talks, publications, CV or resume, and other professional information.
