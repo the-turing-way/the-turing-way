@@ -1,5 +1,5 @@
 (rr-licensing-ml)=
-# Licensing Machine Learning models
+# Licensing Machine Learning Models
 
 ## Legal Status of AI/ML model weights
 
