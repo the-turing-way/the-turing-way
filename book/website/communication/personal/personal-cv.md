@@ -30,7 +30,7 @@ It is important to check which template you need to follow, what restrictions ar
 (cm-personal-narrative-cv-overview)=
 ## Overview
 
-Evidenced-based CVs generally consist of two sections:
+Evidenced-based CVs generally consist of two sections: the academic profile and the key outputs.
 
 ### Academic profile
 
