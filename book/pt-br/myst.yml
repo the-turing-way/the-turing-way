@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2796d44c-4922-413e-a407-1ada8ddcf987
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/the-turing-way/the-turing-way
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
