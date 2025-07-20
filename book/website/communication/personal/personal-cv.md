@@ -121,6 +121,7 @@ If so, explain how you have done so.
 ## Types of contributions to consider
 
 The list in this section has been based on the overview by @oxford2023narrative.
+Note that not all funders consider grants, awards or prizes to fall under outputs.
 
 1. [Research objects](#cm-ro), which could include:
     - Peer reviewed publications, preprints, conference publications or policy publications 
@@ -148,7 +149,7 @@ If you are at an early stage in your research career, you can describe substanti
 16. Contributions to open research, active sharing of knowledge and skills, community resources.
 17. Policy engagement and development.
 18. Partnerships with business, industry, healthcare, and so forth.
-19. Public engagement with research, or participatory research.
+19. Public engagement with research, participatory research, or public engagement via creative works.
 20. Patient and public involvement (PPI)
 
 
