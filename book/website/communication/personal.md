@@ -13,7 +13,8 @@
 (cm-personal-summary)=
 ## Summary
 
-This chapter explores the importance and benefits of communicating your skills and your research via various pathways, including a personal website and a narrative or evidenced-based CV.
+This chapter explores the importance and benefits of communicating your skills and your research via various pathways. At the moment, we included two pathways: a personal website and a narrative or evidenced-based CV. 
+Those two pathways gives you some freedom to present what you consider to be the most important first, and gives the opportunity to explain what you did, why you did it and where it brought you, while online profile on social media website or on orcid are restricted in what you can present..
 
 The section on personal websites provides a general structure with common components and content suggestions for developing personal websites.
 Then, coding and non-coding website generators with different levels of complexity are discussed, explaining their features and differences.
