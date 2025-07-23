@@ -14,7 +14,7 @@ purpose of quality assurance (see FAIR for Research Software). The SMP can be li
 
 One important thing to say in this context is that software includes a wide range of things: from analysis code used by only one researcher to software libraries with many users. See {ref}`below<rr-rdm-smp-what-software>` for more details.
 
-Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/software/software_management_plan.html).
+Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/software/fair_software/software_management_plan.html).
 
 ### What it is?
 An SMP is a document which describes how a specific software project will be developed and maintained, and over what period of time.
