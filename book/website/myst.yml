@@ -495,11 +495,13 @@ project:
               title: Building a Webpage for Blogs
             - file: communication/blogs/blogs-personal-stories.md
               title: Personal stories - Blogs
-        - file: communication/personal-websites.md
-          title: Personal Websites
+        - file: communication/personal.md
+          title: Communication of Personal Skills and Research
           children:
-            - file: communication/personal-websites/personal-website-framework.md
-              title: Using Webpage Frameworks
+            - file: communication/personal/personal-cv.md
+              title: Narrative CV
+            - file: communication/personal/personal-website.md
+              title: Personal Website
         - file: communication/lay-summaries.md
           title: Lay Summaries
           children:
