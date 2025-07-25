@@ -66,8 +66,8 @@ In different subchapters, you will learn about licensing principles as well as g
 
 - {ref}`rr-licensing-ip`
 - {ref}`rr-licensing-floss`
+- {ref}`rr-licensing-compatibility`
 - {ref}`rr-licensing-ethical-source`
 - {ref}`rr-licensing-data`
 - {ref}`rr-licensing-ml`
 - {ref}`rr-licensing-hardware`
-
