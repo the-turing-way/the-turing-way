@@ -1,22 +1,24 @@
 (rr-licensing-floss)=
 # Free/Libre or Open Source software
 
+Since, in *The Turing Way*, we aim to promote open and reproducible ways of working, in this subchapter, we have explained free and open source software (FLOSS) licensing.
+
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
-Consequently, they are among the most developed and useful context for understanding the licensing of other things.
+Consequently, they are among the most developed and useful contexts for understanding the licensing of other things.
 
 Software that is not free (in the 'libre' sense defined below) is proprietary.
 Software that you are not allowed to copy or modify falls into this category, as does software with usage restrictions, for example, "For research use only" or "For non-commercial use only".
 
 Permissively licensed things can generally be used by anyone for any purpose.
-A popular minimal example of this for software is known as the [MIT license](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) the 'public domain' license.
-Copyleft licenses attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-Unlike permissively licensed content, which can be modified and redistributed under a different license (including as a part of a closed and/or for profit project), copyleft content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copyleft obligation.
-In other words if you take copyleft content, modify it, and distribute your modifications, those modifications must also be copyleft.
+A popular minimal example of this for software is known as the [MIT license](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) is the 'public domain' license.
+Copyleft licenses attempt to ensure that any re-distributions or derived works also remain 'free'; the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
+Unlike permissively licensed content, which can be modified and redistributed under a different license (including as a part of a closed and/or for-profit project), copyleft content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copyleft obligation.
+In other words, if you take copyleft content, modify it, and distribute your modifications, those modifications must also be copyleft.
 
 (rr-licensing-floss-copyleft)=
 ## Copyleft License
 
-The concept of copyleft licenses and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
+The concept of copyleft licenses and their first example, the GPL, originated with Richard Stallman, who founded the Free Software Foundation (FSF) in 1985.
 The idea is a 'hack' of copyright law to use the protections that it affords to privately owned software to a software commons.
 <!-- citations needed -->
 
@@ -37,43 +39,47 @@ The name 'open source' places the emphasis on freedom 1 and could more readily b
 'Open source' is associated with, if not a preference for, then a more favourable view of, permissive licenses.
 
 ```{note}
-The word 'free' in english does not distinguish something being monetarily free 'gratis' from politically free 'libre'.
+The word 'free' in English does not distinguish between something being monetarily free 'gratis' from politically free 'libre'.
 This is often summarised along the lines of: "free as in speech, not necessarily free as in beer"
-Thus the phrase 'libre software' is sometimes encountered in English to succinctly distinguish the concept of software which respects your liberty from software which is finacially free to use ('gratis').
-This ambiguity confusingly leads to the name 'Freeware' which is software that can be copied without paying anyone, but comes without source and cannot be modified.
+Thus, the phrase 'libre software' is sometimes encountered in English to succinctly distinguish the concept of software which respects your liberty from software which is financially free to use ('gratis').
+
+The ambiguity in how 'free' is used/perceived has led to the name 'Freeware', which is software that can be copied without paying anyone, but comes without source and cannot be modified.
 The 'free' in 'freeware' is gratis but not libre.
 It is also common to encounter the acronyms FOSS (Free and open source software) and FLOSS (Free/libre and open source software)
+
+An important thing to note here is that although open source software is free to use, building and maintaining software requires extensive labour and resources that are not free and should not be trivialised.
+To reflect this, more recently, the phrasing of "free as in puppy" is used to imply that you need to care for it to survive and thrive.
 ```
 
-The FSF contends that all software should respect these freedoms and that all software which does not respect these freedoms creates an asymmetric relationship between the users and developers of that software which can readily be abused by the developers to exploit their users.
-If developers are bad stewards of a free software projects, the friction for replacing them is lower, as all of the work put into the software does not need to be re-done.
+The FSF contends that all software should respect these freedoms and that all software which does not respect these freedoms creates an asymmetric relationship between the users and developers of that software, which can readily be abused by the developers to exploit their users.
+If developers are bad stewards of a free software project, the friction for replacing them is lower, as all of the work put into the software does not need to be redone.
 A 'fork' of the project can be made, developed and maintained by different developers whom the community of users deem a better steward.
 
-This is not true of proprietary projects where the developers own the rights to the code and thus cannot be readily replaced by the community of users if they begin to abuse these users who are now held captive by switching costs.
-It should be noted that an acrimonious project fork is quite uncommon and by no means always successful, it is the move of last resort.
-The credible threat of a fork redresses the power balance between developers and users giving users leverage if developers make unpopular choices.
+This is not true of proprietary projects where the developers own the rights to the code and thus cannot be readily replaced by the community of users if they begin to abuse these users, who are now held captive by switching costs.
+It should be noted that an acrimonious project fork is quite uncommon and by no means always successful; it is the move of last resort.
+The credible threat of a fork redresses the power balance between developers and users, giving users leverage if developers make unpopular choices.
 
 ### Protecting the Rights of Creators and Users
 
 Copyleft licenses are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
 To attempt to achieve this goal, copyleft software requires that when distributing copyleft software or in some cases derived works that you do so under the same terms as the original license.
-Creative commons 'share-alike' licenses attempt the same thing for other content.
+Creative Commons 'share-alike' licenses attempt the same thing for other content.
 One of the advantages of this approach is that the simplest way to redistribute your changes is often to contribute them to the 'upstream project' or to 'upstream' them.
-If you add some features to a codebase for your own use and contribute them upstream then you get the advantage of the assistance of upstream maintainers in keeping your code up to date and working correctly with the rest of the project.
-You don't have to maintain your own fork and keep it up to date with the latest patches from the rest of the codebase and you don't have to manage your own distribution.
-All this also means that everyone else benefits from your improvements and you benefit from everyone elses'.
-Being a good open source citizen means playing by these rules and, if you can, contributing your fixes and improvements to upstream projects; not just freeloading off of them.
+If you add some features to a codebase for your own use and contribute them upstream, then you get the advantage of the assistance of upstream maintainers in keeping your code up to date and working correctly with the rest of the project.
+You don't have to maintain your own fork and keep it up to date with the latest patches from the rest of the codebase, and you don't have to manage your own distribution.
+All this also means that everyone else benefits from your improvements, and you benefit from everyone else's.
+Being a good open source citizen means playing by these rules and, if you can, contributing your fixes and improvements to upstream projects, not just freeloading off of them.
 
-Copyleft licenses do not prohibit commercial use, indeed numerous companies exist which develop copyleft projects.
+Copyleft licenses do not prohibit commercial use; indeed, numerous companies exist which develop copyleft projects.
 Many of those generate revenue through support services instead of selling licenses, which would incentivise an unhealthy relationship with their users.
 [Nextcloud](https://nextcloud.com/) is an excellent example of a commercial, open source project.
-Nextcloud makes use of the [AGPL v3.0](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) a license which extends the protections of the GPL to software used over a network.
-It gives users who interact with this software over a network, for example by using a web service, rather than run it on their own computers, the right to access a copy of the source code; which they are further free to modify and distribute as is usual for the GPL.
+Nextcloud makes use of the [AGPL v3.0](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3), a license which extends the protections of the GPL to software used over a network.
+It gives users who interact with this software over a network, for example by using a web service, rather than running it on their own computers, the right to access a copy of the source code, which they are further free to modify and distribute as is usual for the GPL.
 
 Within copyleft licenses, there are 'strong' and 'weak' copyleft licenses.
-'Strong' copyleft licenses require that combined works which contain them as a library also carry the same license but weak copyleft licenses permit their re-distribution as a library within a combined work under a different license.
-We will define derived and combined works in the section on license compatibility where the detailed implications of the distinctions between strong & weak copyleft, and permissive licencing are explored in more practical detail.
-It is important to note that licenses can be incompatible such that creating a combined work is highly impractical to do legally.
+'Strong' copyleft licenses require that combined works which contain them as a library also carry the same license, but weak copyleft licenses permit their re-distribution as a library within a combined work under a different license.
+We will define derived and combined works in the section on license compatibility, where the detailed implications of the distinctions between strong & weak copyleft, and permissive licensing are explored in more practical detail.
+It is important to note that licenses can be incompatible, such that creating a combined work is highly impractical to do legally.
 
 <table>
     <thead>
