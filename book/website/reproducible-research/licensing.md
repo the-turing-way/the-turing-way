@@ -60,35 +60,14 @@ It can also be useful to include license information in the form of standard str
 There are useful tools which automate this available from [REUSE](https://reuse.software/), a project from the [FSFe](https://fsfe.org/) which developed the spec.
 This is especially true if your project contains material that is licensed in multiple different ways, or a part of your project is being used in someone else's which uses a different (compatible) license.
 
-### Intellectual Properties
+### Explore Different Subchapters
 
-A basic understanding of IP law is important for anyone producing creative works governed by it, including documentation, software, datasets, graphics and more.
-This is true irrespective of the nature of your project: closed commercial projects building on open tooling; commercial projects maintaining an open resource; open community-driven and/or non-profit projects building shared resources.
-Each of these may need to make slightly different licensing choices from the beginning of their projects to be compatible with their goals.
+In different subchapters, you will learn about licensing principles as well as guidance for selecting appropriate licenses for different artefacts:
 
-Without going into too much detail due to their complexity, in a subchapter, we provide a brief summary of relevant IP laws.
-**Read details in the subchapter {ref}`rr-licensing-ip`.**
+- {ref}`rr-licensing-ip`
+- {ref}`rr-licensing-floss`
+- {ref}`rr-licensing-ethical-source`
+- {ref}`rr-licensing-data`
+- {ref}`rr-licensing-ml`
+- {ref}`rr-licensing-hardware`
 
-### Licenses to Support Open Usage
-
-Since, in *The Turing Way*, we aim to promote open and reproducible ways of working, in a subchapter we have explained free and open source software (FLOSS) licensing - **read details in the subchapter {ref}`rr-licensing-floss`.**
-
-We also explain how combining different artefacts from different sources works from a legal perspective  - **read details in the subchapter {ref}`rr-licensing-compatibility`.**
-
-### Ethical Licensing
-
-Decisions about the license selected at the inception of a project can have long-lasting and significant ramifications.
-The choices that we make about how our work is licensed shape who can and cannot legally use our work and for what purpose.
-
-Therefore, in a subchapter, we discuss the ethical ramifications of licensing choices.
-**Read details in the subchapter {ref}`rr-licensing-ethical-source`.**
-
-Since there are divergent schools of thought on ethics, we aim to provide information about the implications of licensing choices without prescribing a specific ethic.
-
-### Licensing Other Artefacts
-
-We have also provided separate subchapters for the following resources:
-
-- [Data](#rr-licensing-data)
-- [Machine Learning Models](#rr-licensing-ml)
-- [Hardware](#rr-licensing-hardware)
