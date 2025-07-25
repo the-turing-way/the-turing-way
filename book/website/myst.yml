@@ -343,26 +343,25 @@ project:
               file: project-design/pd-overview/pd-overview-version.md
             - title: Sharing Your Research Work
               file: project-design/pd-overview/pd-overview-sharing.md
-    - title: Project Design Checklist
-      file: project-design/pd-overview/pd-checklist.md
-    - title: Creating Project Repositories
-      file: project-design/pd-overview/project-repo.md
-      children:
-        - title: Landing Page – README File
-          file: project-design/pd-overview/project-repo/project-repo-readme.md
-        - title: Roadmapping
-          file: project-design/pd-overview/project-repo/project-repo-roadmapping.md
-        - title: Contributors and Communication Pathways
-          file: project-design/pd-overview/project-repo/project-repo-contributors.md
-        - title: Participation Guidelines
-          file: project-design/pd-overview/project-repo/project-repo-participation.md
-        - title: Advanced Structure for Data Analysis
-          file: project-design/pd-overview/project-repo/project-repo-advanced.md
-        - title: Further Recommendations
-          file: project-design/pd-overview/project-repo/project-repo-resources.md
+        - title: Project Design Checklist
+          file: project-design/pd-overview/pd-checklist.md
+        - title: Creating Project Repositories
+          file: project-design/pd-overview/project-repo.md
+          children:
+            - title: README File
+              file: project-design/pd-overview/project-repo/project-repo-readme.md
+            - title: Roadmapping
+              file: project-design/pd-overview/project-repo/project-repo-roadmapping.md
+            - title: Contributors and Communication Pathways
+              file: project-design/pd-overview/project-repo/project-repo-contributors.md
+            - title: Participation Guidelines
+              file: project-design/pd-overview/project-repo/project-repo-participation.md
+            - title: Advanced Structure for Data Analysis
+              file: project-design/pd-overview/project-repo/project-repo-advanced.md
+            - title: Further Recommendations
+              file: project-design/pd-overview/project-repo/project-repo-resources.md
         - title: Project Management Methodologies
           file: project-design/project-management-methodologies/overview.md
-        - title: Project Setup and Organisation
         - title: Stakeholders
           file: project-design/stakeholders.md
           children:
