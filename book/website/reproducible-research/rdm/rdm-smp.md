@@ -73,8 +73,8 @@ For example, when you release major versions of your software.
 - [SMP decision tree](https://smp.research.software/)
 
 ## Additional Resources
+
 - [Self-study materials on SMPs](https://esciencecenter-digital-skills.github.io/research-software-support/modules/softwaremanagementplans/slides-smp)
 - [TU Delft Library ‘Navigating Research Data and Software: A Practical Guide for PhD Supervisors’ 2025](https://www.youtube.com/watch?v=5Zy3l4dTJd4)
 - [Recommendations for Developing and Aligning Policies on Research Software](https://doi.org/10.5281/zenodo.13740998)
-- Articles
-   - {cite:ps}`Grossmann2024smp`
+- @Grossmann2024smp
