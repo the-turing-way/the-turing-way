@@ -39,7 +39,7 @@ The common thread with these different interpretations is that not all software 
 The context of the software is important to understand how it should be managed.
 
 The [Practical guide to Software Management Plans](https://doi.org/10.5281/zenodo.7038280) provides a collection of optional requirements to be included in an SMP.
-From these requirements `Purpose` is recommended as a starting point, and should always be there: software should always be made with a purpose in mind, and its purpose determines its management level.
+From these requirements "Purpose" is recommended as a starting point, and should always be there: software should always be made with a purpose in mind, and its purpose determines its management level.
 
 (rr-rdm-smp-when)=
 ### When to write an SMP?
