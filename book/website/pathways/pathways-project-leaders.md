@@ -20,7 +20,7 @@ label: pathway-project-leaders
         - item: ../project-design/pd-overview/pd-overview-repro.md
         - item: ../project-design/pd-overview/pd-overview-methods.md
         - item: ../project-design/pd-overview/pd-overview-version.md
-        - item: ../project-design/pd-design-overview/pd-checklist.md
+        - item: '#pd-checklist'
         - item: '#pd-project-repo'
 - item: ../reproducible-research/reproducible-research.md
   children:

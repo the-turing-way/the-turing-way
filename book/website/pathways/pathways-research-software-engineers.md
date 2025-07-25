@@ -27,7 +27,7 @@ label: pathway-research-software-engineers
     - item: ../project-design/pd-design-overview.md
       children:
         - item: '#pd-project-repo'
-        - item: ../project-design/pd-design-overview/project-repo/project-repo-advanced.md
+        - item: '#pd-overview-repo-advanced'
 - item: ../reproducible-research/reproducible-research.md
   children:
     - item: ../reproducible-research/overview.md
