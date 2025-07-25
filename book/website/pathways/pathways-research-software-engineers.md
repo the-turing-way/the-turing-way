@@ -24,7 +24,7 @@ label: pathway-research-software-engineers
     - item: ../collaboration/maintain-review.md
 - item: ../project-design/project-design.md
   children:
-    - item: ../project-design/pd-design-overview.md
+    - item: '#pd-overview'
       children:
         - item: '#pd-project-repo'
         - item: '#pd-overview-repo-advanced'
