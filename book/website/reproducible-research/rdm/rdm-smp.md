@@ -16,7 +16,7 @@ One important thing to say in this context is that software includes a wide rang
 
 Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/software/fair_software/software_management_plan.html).
 
-### What it is?
+### What is it?
 An SMP is a document which describes how a specific software project will be developed and maintained, and over what period of time.
 It describes, for example, how the software will manage {ref}`version control<rr-vcs>`, how it will be {ref}`licensed<rr-licensing-floss>`, how it will manage {ref}`license compatibility<rr-licensing-compatibility>`, and so on.
 
