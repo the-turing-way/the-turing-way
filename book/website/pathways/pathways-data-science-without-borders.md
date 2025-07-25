@@ -53,8 +53,8 @@ label: pathway-data-science-without-borders
   children:
     - item: ../project-design/pd-design-overview.md
       children:
-        - item: ../project-design/pd-design-overview/pd-checklist.md
-        - item: ../project-design/pd-design-overview/project-repo.md
+        - item: '#pd-checklist'
+        - item: '#pd-project-repo'
     - item: ../project-design/info-management.md
       children:
         - item: ../project-design/info-management/filenaming.md
