@@ -62,12 +62,13 @@ This is especially true if your project contains material that is licensed in mu
 
 ### Explore Different Subchapters
 
-In different subchapters, you will learn about licensing principles as well as guidance for selecting appropriate licenses for different artefacts:
+In the following subchapters, you will learn about licensing principles, recommendations and guidance for selecting appropriate licenses for different artefacts:
 
 - {ref}`rr-licensing-ip`
 - {ref}`rr-licensing-floss`
 - {ref}`rr-licensing-compatibility`
 - {ref}`rr-licensing-ethical-source`
+- {ref}`rr-licensing-documentation`
 - {ref}`rr-licensing-data`
 - {ref}`rr-licensing-ml`
 - {ref}`rr-licensing-hardware`
