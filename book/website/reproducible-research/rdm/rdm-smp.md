@@ -62,6 +62,7 @@ For example, when you release major versions of your software.
 
 [](#rr-rdm-smp-templates)
 ## Existing SMP templates
+
 - [SSI Checklist for a Software Management Plan](https://doi.org/10.5281/zenodo.1422656)
 - [Netherlands eScience Center Software Sustainability Protocol](https://doi.org/10.5281/zenodo.1451750)
 - [ELIXIR Software Management Plan for Life Sciences](https://doi.org/10.37044/osf.io/k8znb)
@@ -70,6 +71,7 @@ For example, when you release major versions of your software.
 
 [](#rr-rdm-smp-tools)
 ## SMP tools
+
 - [SMP decision tree](https://smp.research.software/)
 
 ## Additional Resources
