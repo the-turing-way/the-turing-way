@@ -1,29 +1,37 @@
 (rr-licensing-ip)=
-# Intellectual Property
+# Intellectual Property (IP)
+
+A basic understanding of IP law is important for anyone producing creative works governed by it, including documentation, software, datasets, graphics and more.
+This is true irrespective of the nature of your project: closed commercial projects building on open tooling; commercial projects maintaining an open resource; open community-driven and/or non-profit projects building shared resources.
+Each of these may need to make slightly different licensing choices from the beginning of their projects to be compatible with their goals.
+
+Without going into too much detail due to their complexity, in a subchapter, we provide a brief summary of relevant IP laws.
+
+## Copyrights, Patents and Trademarks
 
 IP is an umbrella term that refers to a number of distinct areas of law.
 Primarily, these three areas are relevant in research and data science:
 
-- [Copyright](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/)
-- [Patent](https://www.wipo.int/patents/en/)
-- [Trademark](https://euipo.europa.eu/ohimportal/en/trade-mark-definition/)
+- [Copyrights](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/)
+- [Patents](https://www.wipo.int/patents/en/)
+- [Trademarks](https://euipo.europa.eu/ohimportal/en/trade-mark-definition/)
 
 What these have in common is the attempt to extend property rights to intangible goods, meaning their use by others can be prevented or [licensed](https://www.oshwa.org/faq/#what-is-a-license/).
-Governments with such laws effectively create a limited grant of monopoly over these goods for their creators, and other holders of these rights.
+Governments with such laws effectively create a limited grant of monopoly over these goods for their creators and other holders of these rights.
 This is generally done with the ostensible intent to incentivise the creation and improvement of such goods, but can in practice result in perverse incentives which fail to do so.
 
 This chapter is intended to educate people on the basic concepts of Licensing. 
-Please not take the descriptions provided or viewpoints shared as legal advice, they are not that.
+Please do not take the descriptions provided or viewpoints shared as legal advice; they are not that.
 Consult your librarian and a legal expert to provide actual legal advice for your case.
 
 ```{warning}
 It is important to consider that copyright, licenses, and patents are all legal concepts.
 As such, they are subject to what the law prescribes, which may change over time and space.
-Simply put, different countries have different laws, and follow different procedures with regard to enforcing them.
+Simply put, different countries have different laws and follow different procedures with regard to enforcing them.
 The content provided here is broadly based on American and European law and legal traditions.
-It might not be applicable - might even be contra indicated - or relevant in your particular context.
-However most nations are signatories to international treaty agreements which somewhat harmonise these laws notably the Berne Convention, the [TRIPS Agreement](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm), and others under the [World IP Organization (WIPO)](https://www.wipo.int/portal/en/index.html).
-Whilst international efforts have sought to harmonize copyright enforcement, the real world is a messy place.
+It might not be applicable - might even be contraindicated - or relevant in your particular context.
+However, most nations are signatories to international treaty agreements which somewhat harmonise these laws, notably the Berne Convention, the [TRIPS Agreement](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm), and others under the [World IP Organisation (WIPO)](https://www.wipo.int/portal/en/index.html).
+Whilst international efforts have sought to harmonise copyright enforcement, the real world is a messy place.
 ```
 
 Perhaps the most relevant part of IP law for software, data and other creative works is copyright.
@@ -32,14 +40,14 @@ We will dispense quickly with patents and trademarks here, so we can move on to 
 (rr-licensing-patents)=
 ## Patents
 
-The most important difference between patent and copyright to be immediately aware of is that by default all rights are retained by the author on works made public under copyright, whereas patents must be registered before their content is publicly disclosed.
+The most important difference between patent and copyright to be immediately aware of is that by default, all rights are retained by the author on works made public under copyright, whereas patents must be registered before their content is publicly disclosed.
 Thus, if you want to patent something, you must do so prior to sharing it publicly.
 The precise details of what constitutes a disclosure and the strictness of the application of this rule can vary by jurisdiction.
 
-Patents on processes and software rather than specific inventions are a matter of contention in US law and explicitly not recognised in EU law (at time of writing).
+Patents on processes and software rather than specific inventions are a matter of contention in US law and explicitly not recognised in EU law (at the time of writing).
 Unlike copyright, you generally have to pay to register and maintain a patent.
 You must also do so in each jurisdiction in which you want this patent to apply, though some have reciprocal agreements for recognising patents from other jurisdictions.
-To ensure that patents held by the authors of software do not impact on the freedom to use and distribute  open software, some licenses specifically include permission to use any applicable patents (for example section 3 of the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html)), though this cannot protect against patents held by 3rd parties.
+To ensure that patents held by the authors of software do not impact on the freedom to use and distribute  open software, some licenses specifically include permission to use any applicable patents (for example, section 3 of the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html)), though this cannot protect against patents held by 3rd parties.
 
 <!-- citations needed -->
 <!-- when should you patent something and when not?-->
@@ -51,17 +59,17 @@ To ensure that patents held by the authors of software do not impact on the free
 ## Trademarks
 
 Trademarks are a brand, symbol, or identifying mark associated with a project, product or service.
-Trademarks differ from the copyright & patent in that their primary function is consumer protection.
+Trademarks differ from copyrights & patents in that their primary function is consumer protection.
 They prevent bad actors from impersonating recognisable brands and deceiving consumers into purchasing products that are not being offered by who they think they are.
 They, like patents, must also be registered, but unlike patents, this can be done after they have been made public.
 
-Registering a trademark generally comes with an administrative fee, but is not as costly as maintaining a patent.
+Registering a trademark generally comes with an administrative fee, but it is not as costly as maintaining a patent.
 Trademarks generally only apply within a specific sector, as people are unlikely to confuse brands which do completely different things.
 They can be relevant in the context of the name and logo of a software project, especially when a project changes hands or is forked, in which case the fork may not be able to use the original name of the project even if that project is no longer maintained.
-Open source projects not associated with a company which have trademarks may have these held by a legal entity such as a non-profit, through which they might also take donations and pay for project infrastructure.
+Open source projects not associated with a company which have trademarks may have these held by a legal entity, such as a non-profit, through which they might also take donations and pay for project infrastructure.
 It can be valuable for open source projects to register for trademarks as their work can easily be cloned, modified and re-distributed with ill intent.
-Examples of modified open source tools distributed with malware added have been documented, and trademark enforcement could in some cases help to prevent or deter this.
-Nextcloud, for example, has a very [comprehensive guide to the use of their marks](https://nextcloud.com/trademarks/) with excellent explanations for the restrictions that they place on their use.
+Examples of modified open source tools distributed with malware added have been documented, and trademark enforcement could, in some case,s help to prevent or deter this.
+Nextcloud, for example, has a [comprehensive guide to the use of their marks](https://nextcloud.com/trademarks/) with excellent explanations for the restrictions that they place on their use.
 <!--A subtler case is unofficial packages which charge a high rate for the software which could be downloaded elsewhere for free -->
 
 <!-- citations needed -->
