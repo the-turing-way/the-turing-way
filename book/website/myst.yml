@@ -345,6 +345,8 @@ project:
               file: project-design/pd-overview/pd-overview-sharing.md
         - title: Project Design Checklist
           file: project-design/pd-overview/pd-checklist.md
+        - title: Project Management Methodologies
+          file: project-design/project-management-methodologies/overview.md
         - title: Creating Project Repositories
           file: project-design/pd-overview/project-repo.md
           children:
@@ -360,8 +362,6 @@ project:
               file: project-design/pd-overview/project-repo/project-repo-advanced.md
             - title: Further Recommendations
               file: project-design/pd-overview/project-repo/project-repo-resources.md
-        - title: Project Management Methodologies
-          file: project-design/project-management-methodologies/overview.md
         - title: Stakeholders
           file: project-design/stakeholders.md
           children:
