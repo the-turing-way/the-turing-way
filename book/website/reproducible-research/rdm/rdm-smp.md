@@ -31,7 +31,7 @@ If you plan on sharing your code, it will help you ensure that your code is reus
 ### What software to manage?
 Some researchers say they do not create any software, they only write one-off scripts to analyse data.
 These scripts, short as they may be, are still software.
-The Australian [A National Agenda for Research Software](https://ardc.edu.au/project/research-software-agenda-for-australia/) proposes different categories of research software: analysis code, prototype tools, infrastructure software.
+The Australian [National Agenda for Research Software](https://ardc.edu.au/project/research-software-agenda-for-australia/) proposes different categories of research software: analysis code, prototype tools, infrastructure software.
 The key point is that SMPs apply to research software across this spectrum, although it may apply differently depending on the needs of the software.
 
 [Defining the roles of research software (Version 2)](https://doi.org/10.54900/xdh2x-kj281) provides a different view of the different categories of research software.
