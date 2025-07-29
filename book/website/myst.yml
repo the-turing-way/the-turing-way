@@ -21,6 +21,7 @@ project:
       ref: main
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
+    - plugins/github.mjs
   bibliography:
     - _bibliography/references.bib
   references:
