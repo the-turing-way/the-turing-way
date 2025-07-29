@@ -6,8 +6,8 @@ And similar to a DMP, an SMP is a living document, which should be updated throu
 
 According to {cite:ps}`Grossmann2024smp`, a SMP is:
 
-> instrument to collect ideas and information necessary for their programming activity, which helps them gain awareness and provide for the necessary resources. 
-> Such an instrument can be an SMP, which aims to collect all information relevant for the software development in a scientific context to support a structured approach or help distributed teams to adhere to (self-) defined standards
+> an instrument to collect ideas and information necessary for [researchers] programming activity, which helps [researchers] gain awareness and provide for the necessary resources. 
+> Such an instrument can be an SMP, which aims to collect all information relevant for the software development in a scientific context to support a structured approach or help distributed teams to adhere to (self-) defined standards.
 > 
 > A Software Management Plan (SMP) contains general and technical information about the software project, information on quality assurance, release and public availability as well as legal and ethical aspects that affect the software. 
 > The SMP summarises information that adequately describes and documents the creation, documentation, storage, versioning, licensing, archiving and/or publication of the software created or used in a project. 
@@ -26,7 +26,7 @@ Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/softwa
 An SMP is a document which describes how a specific software project will be developed and maintained, and over what period of time.
 It describes, for example, how the software will manage [version control](#rr-vcs), how it will be [licensed](#rr-licensing-floss), how it will manage [license compatibility](#rr-licensing-compatibility), and so on.
 
-More than a document, a SMP should be a way for developers of research software to reflect on their process,  their choices more explicit, and consider what options are available to them.
+More than a document, a SMP should be a way for developers of research software to reflect on their process, their choices more explicit, and consider what options are available to them.
 Ideally, this reflection should happen early on in the development process, and should be revised and updated on a regular basis.
 
 ### How can they benefit your research?
@@ -49,7 +49,7 @@ From these requirements "Purpose" is recommended as a starting point, and should
 
 (rr-rdm-smp-when)=
 ### When to write an SMP?
-Ideally, an SMP should be drafted during the planning phase of your research project, alongside your DMP. 
+Ideally, a SMP should be drafted during the planning phase of your research project, alongside your DMP. 
 Some funders (for example NWO, ZonMw, the Netherlands eScience Center) require an SMP as part of your grant application.
 
 - Find out if your institution has its own Software Management Plan template, if so, use it
