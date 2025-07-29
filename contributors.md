@@ -95,7 +95,7 @@ This record can be used in your personal or professional portfolio (profile, CV,
 * Role: Research Project Manager, The Turing Way
   * Core Member, Book Dash Participant (2024)
   * TPS Staff (2024-Present), Project Delivery Team member
-* GitHub id: [Léllé Demertzi](https://github.com/LelleDi)
+* GitHub: {githubuser}`LelleDi`
 * ORCID: [0009-0009-2782-0408](https://orcid.org/0009-0009-2782-0408)
 * Short bio:
 > Léllé is the Research Project Manager for The Turing Way, since September 2024. An architect by training, she has previously worked in cultural management in art institutions around the world. She is Organiser for the AI&Arts Interest Group at The Alan Turing Institute, where she can bridge her art practice with computational methods, as well as promote scholarship and engagement activities in the cross-disciplinary field.
@@ -253,7 +253,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Aman Goel
 
 - Role: Book Dash participant (2022)
-- GitHub ID: {githubuser}`amangoel185`
+- GitHub: {githubuser}`amangoel185`
 - ORCID: [0000-0003-3567-2096](https://orcid.org/0000-0003-3567-2096)
 
 - Short bio:
@@ -390,7 +390,7 @@ More information:
 * Roles:
  * Google Summer of Code 2023 Intern
  * Book Dash participant (2023)
-* GitHub id:  @arya1302 
+* GitHub: {githubuser}`arya1302`
 * Short bio:
 >  I am a pre-final year undergraduate student pursuing Computer Science Engineering ( Artificial Intelligence) at Amrita University, India. I joined The Turing Way as a part of Google Summer of Code (GSoC) 2023. I have a strong interest in software development, with a passion for web development. I am skilled in Python and have experience working with React, Flask, and Django. 
 
@@ -1078,7 +1078,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
   * Contributor to Guide for Ethical Research (2020-2021)
   * Book Dash Planning Committee (2021-2022)
   * Book Dash Participant (2020)
-* GitHub id: [Laura Carter](https://github.com/LauraCarter)
+* GitHub: {githubuser}`LauraCarter`
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 
 * Short bio:
