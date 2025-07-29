@@ -17,7 +17,7 @@ To identify what could be the best format for your coworking calls, you need to 
 
 **Purpose of your coworking calls**
 
-We host such events for our community members for building connections, supporting our contributors, onboarding new members and celebrating their work in real time.
+As described in the {ref}`motivation<ch-community-calls-motivation>` subchapter, we host such events for our community members for building connections, supporting our contributors, onboarding new members and celebrating their work in real time.
 
 Your purpose for hosting coworking calls could be completely different and identifying that is important for you to plan the remaining logistics.
 
