@@ -365,7 +365,7 @@ More information:
 ### Anne Fouilloux
 
 * Role: Book Dash Participant (2022-2023)
-* GitHub id: annefou
+* GitHub: {githubuser}`annefou`
 * ORCID: 0000-0002-1784-2920
 
 * Short bio:  
@@ -429,7 +429,7 @@ More information:
 ### Becki Green
 
 * Role: Book Dash Participant (2021)
-* Github id: beckigreen
+* GitHub: {githubuser}`beckigreen`
 * ORCID: [0000-0002-0513-5188](https://orcid.org/0000-0002-0513-5188)
 
 * Short bio:
@@ -736,7 +736,7 @@ Quotes:
 ### Hannah Nicholls
 
 * Role: Book Dash Participant (2021)
-* GitHub id: hlnicholls
+* GitHub: {githubuser}`hlnicholls`
 * ORCID: [0000-0002-3480-7852](https://orcid.org/0000-0002-3480-7852)
 
 * Short bio:
@@ -802,7 +802,7 @@ I would like to be a part of it.
 ### Iman Al Hasani
 
 * Role: Book Dash Participant (2022)
-* GitHub id: Imanalhasani
+* GitHub: {githubuser}`Imanalhasani`
 * ORCID: 0000-0001-9998-772X
 
 * Short bio:
@@ -896,7 +896,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
   - Core Member, Practitioners Hub (2023-Present)
   - TPS Staff (2022-Present)
   - Book Dash Participant (2022-2023)
-- GitHub id: dingaaling
+- GitHub: {githubuser}`dingaaling`
 - ORCID: [0000-0002-8266-4358](https://www.orcid.org/0000-0002-8266-4358)
 
 - Short bio:
@@ -923,7 +923,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
  * Core Member, Book Dash Committee (2023)
  * Google Summer of Code Mentor (2023)
  * Book Dash Participant (2022-2023)
-* GitHub id: likeajumprope
+* GitHub: {githubuser}`likeajumprope`
 * Twitter id: likeajumprope
 * ORCID: [0000-0003-4891-6256](https://www.orcid.org/0000-0003-4891-6256]
 
@@ -1100,7 +1100,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
   * Core Member, VU Amsterdam Representative (2021-Present)
   * Book Dash Planning Committee Member (2022-2023)
   * Book Dash Participant (2021)
-* GitHub id: karvovskaya
+* GitHub: {githubuser}`karvovskaya`
 * Twitter: @LangData
 * ORCID: [0000-0001-7777-5603](https://orcid.org/0000-0001-7777-5603)
 
@@ -1181,7 +1181,7 @@ what it would cover.
 ### Luisa Cutillo
 
 * Role: Book Dash participant (2024)
-* GitHub id: luisacutillo78
+* GitHub: {githubuser}`luisacutillo78`
 * ORCID: https://orcid.org/0000-0002-2205-0338
 
 * Short bio:
@@ -1377,7 +1377,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Nina Di Cara
 
 * Role: Book Dash Participant/Helper (2020)
-* GitHub id: ninadicara
+* GitHub: {githubuser}`ninadicara`
 * ORCID: [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
 
 * Short bio:
