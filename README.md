@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="book/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org"><img src="book/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
