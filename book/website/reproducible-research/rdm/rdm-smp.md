@@ -13,7 +13,7 @@ According to {cite:ps}`Grossmann2024smp`, a SMP is:
 > The SMP summarises information that adequately describes and documents the creation, documentation, storage, versioning, licensing, archiving and/or publication of the software created or used in a project. 
 > Associated hardware and other necessary resources, as well as other associated software and software libraries, text and data publications must also be described and are a special feature of the SMP.
 > The purpose of an SMP is initially to support the traceability and, if necessary, the longterm usability of the software (for direct application as well as for further processing) and to facilitate user support in the event of queries. 
-> The SMP therefore also serves the purpose of quality assurance (see FAIR for Research Software).
+> The SMP therefore also serves the purpose of quality assurance.
 > The SMP can be linked to one or more DMPs if the software is used for data generation or processing. 
 > SMP and DMP can be summarised as output plans.
 
