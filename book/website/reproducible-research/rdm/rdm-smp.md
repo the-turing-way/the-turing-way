@@ -17,7 +17,8 @@ According to {cite:ps}`Grossmann2024smp`, a SMP is:
 > The SMP can be linked to one or more DMPs if the software is used for data generation or processing. 
 > SMP and DMP can be summarised as output plans.
 
-One important thing to say in this context is that software includes a wide range of things: from analysis code used by only one researcher to software libraries with many users. See [ref](#rr-rdm-smp-what-software) for more details.
+One important thing to say in this context is that software includes a wide range of things: from analysis code used by only one researcher to software libraries with many users.
+See [](#rr-rdm-smp-what-software) for more details.
 
 Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/software/fair_software/software_management_plan.html).
 
