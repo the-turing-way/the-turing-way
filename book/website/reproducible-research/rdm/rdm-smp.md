@@ -4,7 +4,7 @@
 A Software Management Plan (SMP), similar to a [](#rr-rdm-dmp), is a document that describes how your software will be generated, used and shared during and after your project.
 And similar to a DMP, an SMP is a living document, which should be updated throughout the research project as needed.
 
-Accodring to {cite:ps}`Grossmann2024smp`, a SMP is:
+According to {cite:ps}`Grossmann2024smp`, a SMP is:
 
 > instrument to collect ideas and information necessary for their programming activity, which helps them gain awareness and provide for the necessary resources. 
 > Such an instrument can be an SMP, which aims to collect all information relevant for the software development in a scientific context to support a structured approach or help distributed teams to adhere to (self-) defined standards
