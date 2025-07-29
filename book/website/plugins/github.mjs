@@ -8,7 +8,6 @@ const gitHubUserRole = {
     required: true,
   },
   run(data) {
-    console.log(data);
     const node = {
       type: "link",
       url: `https://github.com/${data.body}`,
@@ -19,7 +18,6 @@ const gitHubUserRole = {
         },
       ],
     };
-    console.log(node);
     return [node];
   },
 };
