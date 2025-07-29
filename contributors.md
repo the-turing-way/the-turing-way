@@ -248,12 +248,12 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > 
 * Personal highlights:
 > Alexandra is a positive and curious person who enjoys learning and discovering new things.
-> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub. 
+> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub).
 
 ### Aman Goel
 
 - Role: Book Dash participant (2022)
-- GitHub ID: @amangoel185
+- GitHub ID: {githubuser}`amangoel185`
 - ORCID: [0000-0003-3567-2096](https://orcid.org/0000-0003-3567-2096)
 
 - Short bio:
@@ -267,7 +267,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 Abasi-amefon Obot Affia
 
 * Role: Book Dash participant (2024)
-* GitHub id: @amefonaffia 
+* GitHub: {githubuser}`amefonaffia` 
 * ORCID: 0000-0001-7627-1198
 
 Short bio: 
@@ -285,7 +285,7 @@ More information:
 ### Andrea Chi Zhang
 
 * Role: Book Dash participant (2023) 
-* GitHub id: @andreaczhang 
+* GitHub: {githubuser}`andreaczhang` 
 * ORCID: 0000-0003-0501-5909
 * Short bio: 
 > I am a biostatistician with an interest in becoming an RSE (research software engineer). I teach statistics to medical researchers at the University of Oslo in Norway, and do some research on the side. 
@@ -328,7 +328,7 @@ More information:
 ### Ankur Kumar
 
 - Role: Book Dash Participant (2021)
-- GitHub id: @leoank
+- GitHub: {githubuser}`leoank`
 - ORCID: [0000-0002-7686-7335](https://orcid.org/0000-0002-7686-7335)
 
 - Short bio:
@@ -554,7 +554,7 @@ I also hope that it can convince people who don't consider themselves capable of
 
 ### Christopher Burr
 * Role: Book Dash participant (2024)
-* GitHub id: @chrisdburr
+* GitHub: {githubuser}`chrisdburr`
 * ORCID: 0000-0003-0386-8182
 
 * Short bio:
@@ -596,7 +596,7 @@ I also hope that it can convince people who don't consider themselves capable of
 ### Elisa Rodenburg
 
 * Role: Book Dash Participant (2021)
-* GitHub id: @Elisa-on-GitHub
+* GitHub: {githubuser}`Elisa-on-GitHub`
 * ORCID: 0000-0001-6068-9792
 
 * Short bio:
@@ -699,7 +699,7 @@ Visit us at the [Open Research Calendar Website](https://openresearchcalendar.gi
 ### Goodnews Sandy
 
 * Role: Book Dash participant (2023-2024)
-* GitHub id: @sandygudie 
+* GitHub: {githubuser}`sandygudie` 
 
 * Short bio:
 > I am a fullstack developer and enjoy contributing to open source projects. I contribute to the open science community Saudi Arabia and contribute to the localization effort in the TTW. I have a couple of articles on [medium](https://medium.com/@sandygoody) on various web technologies and activities. I enjoy contributing to Open Source.
@@ -717,7 +717,7 @@ Quotes:
 ### Giulia Tomba
 
 * Role: Book Dash participant (2024)
-* GitHub id: @giuliatomba
+* GitHub: {githubuser}`giuliatomba`
 * ORCID: 0009-0003-0302-2491
 
 * Short bio:
@@ -908,7 +908,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 ### Jessica Scheick
 
 * Role: Book Dash Participant (2021)
-* GitHub id: @JessicaS11
+* GitHub: {githubuser}`JessicaS11`
 * ORCID: [0000-0002-3421-4459](https://www.orcid.org/0000-0002-3421-4459)
 
 * Short bio:
@@ -1120,7 +1120,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
  * Core Member, Accessibility Working Group Co-Lead (2023)
  * Book Dash Committee Member (2023-Present)
  * Book Dash participant (2022-2024)
-* GitHub ID: @LizHareDogs
+* GitHub: {githubuser}`LizHareDogs`
 * ORCID: [0000-0002-3978-2543](https://orcid.org/0000-0002-3978-2543)
 
 * Short bio:
@@ -1163,7 +1163,7 @@ what it would cover.
 ### Lucy Stephenson
 
 * Role: Book Dash participant (2024)
-* GitHub id: @lucyjstephenson
+* GitHub: {githubuser}`lucyjstephenson`
 * ORCID: 0000-0003-2489-7476
 
 * Short bio:
@@ -1345,7 +1345,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Maya Anderson Gonzalez
 
 * Role: Book Dash May 2023 participant
-* GitHub id: @MayaAndersonGonzalez
+* GitHub: {githubuser}`MayaAndersonGonzalez`
 * ORCID: 0000-0002-6275-6626
 
 * Short bio:
@@ -1359,7 +1359,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
   * Book Dash participant (2024)
   * Book Dash Organising Committee member (June 2024)
   * GitHub upskilling co-facilitator June 2024
-* GitHub id: @mishkanemes
+* GitHub: {githubuser}`mishkanemes`
 * ORCID: n/a
 
 * Short bio: 
@@ -1612,7 +1612,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Sara Villa
 
 * Role: Book Dash participant (2022 and 2024)
-* GitHub id: @SaraVilla
+* GitHub: {githubuser}`SaraVilla`
 * ORCID: https://orcid.org/0000-0001-9502-0888
 
 * Short bio:
@@ -1692,7 +1692,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 
 ### Seun Olufemi
 * Role: Book Dash Participant (2024)
-* GitHub id: @seunolufemi123
+* GitHub: {githubuser}`seunolufemi123`
 * ORCID: [0000-0002-8292-2345](https://orcid.org/0000-0002-8292-2345)
 
 * Short bio: 
@@ -1705,7 +1705,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Shern Tee
 
 * Role: Book Dash Participant (2022-2023)
-* GitHub id: @srtee
+* GitHub: {githubuser}`srtee`
 * ORCID: [0000-0003-2701-005X](https://orcid.org/0000-0003-2701-005X)
 
 * Short bio: 
@@ -1735,7 +1735,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 ### Sophie Aranas
 
 * Role: Book Dash participant (2024)
-* GitHub id: @aranas 
+* GitHub: {githubuser}`aranas` 
 * ORCID: https://orcid.org/0000-0001-9708-7058
 
 * Short bio:
@@ -1848,7 +1848,7 @@ Data Science and Analytics MSc Statistics MSc, Statistics with Applications to F
 * Role:
  * Book Dash Committee (2023)
  * Book Dash Participant (2022)
-* GitHub id: @WinnyNekesa
+* GitHub: {githubuser}`WinnyNekesa`
 
 * Short bio:
 >  I am the Head, of the Library and Documentation Centre at the Public Procurement and Disposal of Public Assets Authority  where I   oversee the provision of Library, Registry and other Knowledge Management Systems, ensuring that the information storage and retrieval needs of PPDA staff and stakeholders are met.
