@@ -158,6 +158,8 @@ project:
               title: Finding Data
             - file: reproducible-research/rdm/rdm-dmp.md
               title: Data Management Plan
+            - file: reproducible-research/rdm/rdm-smp.md
+              title: Software Management Plan
             - file: reproducible-research/rdm/rdm-fair.md
               title: The FAIR Principles and Practices
             - file: reproducible-research/rdm/rdm-personal.md
