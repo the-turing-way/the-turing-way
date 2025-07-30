@@ -20,7 +20,7 @@ Drawing on the concepts of [Personas and Pathways](#pd-persona), this is impleme
 
 This MyST plugin replaces a Python package developed within *The Turing Way* to integrate with the JupyterBook ecosystem, and make the reuse of this feature easier for others.
 
-```{figure} ../figures/open-development-path.jpg
+```{figure} ../../figures/open-development-path.jpg
 ---
 height: 400px
 name: open-development-path

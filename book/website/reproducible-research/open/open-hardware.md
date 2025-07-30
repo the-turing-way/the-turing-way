@@ -47,7 +47,7 @@ We will go through these various components in the following sections.
 
 ## Types and phases of open source hardware
 
-```{figure} ../../figures/open-hardware.*
+```{figure} ../../../figures/open-hardware.*
 ---
 height: 500px
 name: open-hardware
@@ -91,7 +91,7 @@ In order to make your project more open, one can work on several aspects of open
 
 # Why should you use or develop open source hardware?
 
-```{figure} ../../figures/why-open-hardware.*
+```{figure} ../../../figures/why-open-hardware.*
 ---
 height: 500px
 name: why-open-hardware

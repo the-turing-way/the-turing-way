@@ -58,7 +58,7 @@ sind herzlich willkommen und können über das GitHub Repository <https://github
 Dies ist ein Teil des Teams, das am Turing Institut mitarbeitet.
 Für Informationen darüber, wie man uns kontaktiert, lesen Sie bitte die [Governance Roles document](../GOVERNANCE_ROLES.md).
 
-![Team photo](book/website/figures/TuringWayTeam.jpg)
+![Team photo](book/figures/TuringWayTeam.jpg)
 
 ### Mitarbeiten
 

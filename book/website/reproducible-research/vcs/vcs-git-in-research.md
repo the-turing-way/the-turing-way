@@ -1,7 +1,7 @@
 (rr-vcs-git4research)=
 # Git for research projects
 
-```{figure} ../../figures/healthy-research-tree.jpg
+```{figure} ../../../figures/healthy-research-tree.jpg
 ---
 name: ds4research
 alt: Researchers are pouring water on a tree. The water represents data science principles and tooling, the tree represents the research. The tree is big and beautiful, on its branches are specific outcome written, that is workflow efficiency, powerful statistics, better collaboration, informative visualisations, more outputs, reproducible analysis, and team and community building.

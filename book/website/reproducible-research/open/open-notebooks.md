@@ -1,7 +1,7 @@
 (rr-open-notebooks)=
 # Open Notebooks
 
-```{figure} ../../figures/executable-notebooks.*
+```{figure} ../../../figures/executable-notebooks.*
 ---
 name: Executable Notebooks
 alt: "Cartoon style with black lines and a light blue accent colour. Two people look at an easel chart depicting a project overview. Below them are the logos of github, Read the docs, jupyter book, and sphinx. Emanating from the project overview are a series of documents with bubbles showing that basing a project around an open executable notebook such as a jupyter book allows participants to: Understand the direction/ of the project, Track its progress, Enable diverse participation, Create transparency in outcomes, and Make auditing easier for organisers. At the end of the documents there is a globe covered in the speech bubbles of project participants."
