@@ -1,4 +1,4 @@
-﻿(rr-overview-resources)=
+(rr-overview-resources)=
 # Resources
 For additional resources like videos and reference papers on reproducibility, see the {ref}`rr-overview-resources-reading` and {ref}`rr-overview-resources-addmaterial` sections.
 

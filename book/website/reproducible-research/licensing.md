@@ -1,7 +1,7 @@
 (rr-licensing)=
 # Licensing
 
-```{figure} ../figures/licensing.*
+```{figure} ../../figures/licensing.*
 ---
 height: 500px
 name: licensing
@@ -273,7 +273,7 @@ In the case of academic works attribution requirements can serve to re-enforce t
 - Prose, Images, Audio, Video, Datasets, and similar
     - [Creative Commons (CC)](https://creativecommons.org/)
         - [Creative Commons License Chooser](https://creativecommons.org/choose/)
-          ```{figure} ../figures/cc-license-chart.*
+          ```{figure} ../../figures/cc-license-chart.*
           ---
           height: 500px
           name: Creative Commons License Types
