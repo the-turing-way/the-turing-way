@@ -5,6 +5,8 @@ For the README file of the main repository please [follow this link](../README.m
 
 All the text for each chapter of the `book` lives inside the [`website`](./website/) directory.
 All figures associated to the chapters are stored in, and linked from, the [`figures`](./figures/) directory.
+Everything else is in the `website/` directory.
+
 
 ### Configuration
 
