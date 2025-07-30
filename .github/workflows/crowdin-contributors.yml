@@ -44,6 +44,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
+          token: ${{ secrets.CROWDIN_ACTION_TOKEN }}
           title: Update Crowdin Contributors table
           body: By [action-crowdin-contributors](https://github.com/andrii-bodnar/action-crowdin-contributors) GitHub action
           commit-message: Update Crowdin Contributors table
