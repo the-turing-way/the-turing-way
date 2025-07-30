@@ -51,3 +51,13 @@ These pages on The Turing Way are designed to assist you in choosing the right p
 | **PRINCE2** |   Government, large corporate projects | Project governance, Control mechanisms | Project completion within specified constraints | Moderately suitable, especially for large-scale research projects needing stringent control and structured management. | Moderate adaptability, with some flexibility within its structured framework. |
 | **Stage/Gate (Phase Gate)** |  Product development, large-scale engineering projects | Stage completion, Risk management | Go/No-go decisions at each phase, Risk mitigation | Moderately suitable for research projects that are large and complex, requiring systematic review at each phase. | Moderate adaptability; changes are generally feasible at specific stages, but less so mid-phase. |
 | **Agile Stage Gate** |  R&D, product development | Agility with structured reviews | Agile flexibility with stage-wise decision making | Highly suitable for research, combining the flexibility of Agile with the structured review process of Stage Gate. | Very adaptable, offering the benefits of Agile’s responsiveness with added decision points for reassessment. |
+
+## How Frameworks Intersect
+```{figure} ../../../figures/project-management-diagram.png
+---  
+height: 390px  
+name: project-framework-venn  
+alt: Venn diagram illustrating the relationships between different project management frameworks. Three overlapping circles represent Iterative Frameworks (Flexible & Adaptive), Structured Frameworks (Defined & Controlled), and Change-Oriented Frameworks (Easily Adapts to Changes, Even Outside Sprints). Scrum is placed under Iterative Frameworks, Agile/Kanban falls under both Change-Oriented and Iterative, Waterfall & Stage Gate are under Structured, PRINCE2 is positioned under Structured and Change-Oriented, while Agile Stage Gate sits underneath all three categories as a hybrid framework.  
+---  
+A Project Framework Venn diagram showing the interplay among Iterative (flexible), Structured (controlled), and Change-Oriented (adaptable) project management frameworks. Illustration by Kjirsten Fastabend, used under a CC-BY 4.0 license.
+```

@@ -4,14 +4,14 @@ all: book
 # Install build dependencies
 deps:
 	python -m pip install --upgrade pip
-	pip install -r ./website/dependencies.lock
+	pip install -r ./dependencies.lock
 
 # Upgrade python packages and update the requirements files
 upgrade:
 	python -m pip install --upgrade pip
 	pip install pip-tools
-	pip-compile --upgrade ./website/dependencies.in
-	pip-sync ./website/dependencies.lock
+	pip-compile --upgrade ./dependencies.in
+	pip-sync ./dependencies.lock
 
 # Start a webserver serving the book locally
 serve:
@@ -28,10 +28,6 @@ strict:
 # Build the book in a non-interactive environment (for CI)
 ci:
 	cd website && jupyter-book build --html --ci
-
-# Write pathways to your local copy of the book
-pathways:
-	pathways ./website/
 
 # Clean any build outputs and artifacts
 clean:
