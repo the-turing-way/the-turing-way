@@ -14,7 +14,7 @@ label: pathway-community-management-how-to
     - item: ../reproducible-research/open/open-checklist.md
 - item: ../project-design/project-design.md
   children:
-    - item: ../project-design/pd-design-overview/pd-checklist.md
+    - item: '#pd-checklist'
 - item: ../collaboration/collaboration.md
   children:
     - item: ../collaboration/new-community/new-community-guide.md

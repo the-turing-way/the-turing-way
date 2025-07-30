@@ -13,8 +13,8 @@ label: pathway-early-career-researchers
   children:
     - item: ../project-design/pd-overview.md
       children:
-        - item: ../project-design/pd-design-overview/pd-checklist.md
-        - item: ../project-design/pd-design-overview/project-repo.md
+        - item: '#pd-checklist'
+        - item: '#pd-project-repo'
 - item: ../collaboration/github-novice.md
 - item: ../reproducible-research/reproducible-research.md
   children:

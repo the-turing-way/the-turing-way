@@ -51,10 +51,10 @@ label: pathway-data-science-without-borders
         - item: ../reproducible-research/code-reuse/code-reuse-details.md
 - item: ../project-design/project-design.md
   children:
-    - item: ../project-design/pd-design-overview.md
+    - item: '#pd-overview'
       children:
-        - item: ../project-design/pd-design-overview/pd-checklist.md
-        - item: ../project-design/pd-design-overview/project-repo.md
+        - item: '#pd-checklist'
+        - item: '#pd-project-repo'
     - item: ../project-design/info-management.md
       children:
         - item: ../project-design/info-management/filenaming.md
