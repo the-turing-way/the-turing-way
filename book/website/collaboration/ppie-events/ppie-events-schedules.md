@@ -185,7 +185,7 @@ Ideally you will include people with lived experience in the planning of an even
 Involving people with lived experience in the planning and delivery of events ensures the perspective  of people with lived experience is built into the dialogue throughout your event. 
 Active involvement could be including people with lived experience in the planning committee of your event, and asking potential attendees for feedback on the planning and materials of your event. 
 You should aim to have community members or a representative involved in all aspects of planning. 
-For larger events that are not solely focused on PPIE, consider establishing roles and responsibilities for PPIE contributors on planning commitees that are not solely limited to tasks related to their own participation or the event's PPIE activities.
+For larger events that are not solely focused on PPIE, consider establishing roles and responsibilities for PPIE contributors on planning committees that are not solely limited to tasks related to their own participation or the event's PPIE activities.
 
 Active involvement can also help organizers develop a greater understanding of what is important from the perspective of people with lived experience and ensure that the proposed structure and content of the event is shaped in a way that will meet the needs of the potential attendees.
 

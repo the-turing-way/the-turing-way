@@ -8,12 +8,12 @@ As there is no ideal type of researcher and evidence-based CVs allow you to high
 ## Motivation
 
 Traditional academic CVs have focused primarily on the quantity rather than the quality of research contributions. 
-By focusing on a narrow range of metrics based on publications and obtainal of grants, traditional CVs do not capture the full range of research acitivities. 
+By focusing on a narrow range of metrics based on publications and obtainal of grants, traditional CVs do not capture the full range of research activities.
 Traditional CVs also don't allow an explanation of how researchers have overcome barriers and how they embraced opportunities. 
 
-In contrast, narrative CVs place more focus on how the activities you undertook strenghtened your skills or were important for your career stage, and the rationale for undertaking those activities.
+In contrast, narrative CVs place more focus on how the activities you undertook strengthened your skills or were important for your career stage, and the rationale for undertaking those activities.
 
-The evidenced-based CV also aligns with initatives focussing on improving the way research is evaluated, such as San Francisco Declaration on Research Assessment ([DORA](https://sfdora.org/read/)) and Coalition for Advancing Research Assessment ([CoARA](https://coara.eu/)). 
+The evidenced-based CV also aligns with initiatives focussing on improving the way research is evaluated, such as San Francisco Declaration on Research Assessment ([DORA](https://sfdora.org/read/)) and Coalition for Advancing Research Assessment ([CoARA](https://coara.eu/)). 
 
 (cm-personal-narrative-cv-templates)=
 ## Narrative CV Templates
@@ -58,7 +58,7 @@ What evidence shows that this work is of high quality and/or that it is relevant
 - Describe the importance of your key output to the community and your career. 
 - Focus on what you have achieved, not on what you are planning to do in the future. 
 - Describe outcomes, and how you enabled them, rather than just stating activities. 
-How have you succesfully carried out the project?
+How have you successfully carried out the project?
 
 (cm-personal-narrative-cv-how)=
 ## How to structure sentences and paragraphs 

@@ -265,7 +265,7 @@ Some examples are:
 You can also consider setting up a dedicated email address that is active before and during the event for people to direct accessibility questions towards.
 For example, during the event an attendee with low vision can email and ask for context on content that was shared during a live session. 
 
-Large-scale conferences may also consider dedicating a member of staff for each day of the conference who is fully informed onthe best practices for public engagement and will be able to provide assistance and information to attendees with lived experience. 
+Large-scale conferences may also consider dedicating a member of staff for each day of the conference who is fully informed on the best practices for public engagement and will be able to provide assistance and information to attendees with lived experience. 
 
 Although not all events will require a full team of support staff, it is useful to consider how organizers will facilitate the inclusion of people with lived experience on the day of the event. 
 
