@@ -21,10 +21,12 @@ project:
       ref: main
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
+    - plugins/github.mjs
   bibliography:
     - references.bib
   references:
     myst-spec: https://mystmd.org/spec
+    myst-guide: https://mystmd.org/guide/
   toc:
     - file: index.md
     - file: foreword/foreword.md
@@ -899,8 +901,8 @@ project:
               title: Glossary
             - file: community-handbook/style/style-blocks.md
               title: Special Blocks
-            - file: community-handbook/style/style-custom-styling.md
-              title: Custom Styling
+            - file: community-handbook/style/style-custom-roles-and-directives.md
+              title: Custom Roles and Directives
             - file: community-handbook/style/style-consistency.md
               title: Maintaining Consistency
               children:
@@ -960,6 +962,8 @@ project:
               title: Redirects
             - file: community-handbook/infrastructure/infrastructure-pathways.md
               title: Pathways
+            - file: community-handbook/infrastructure/infrastructure-plugins.md
+              title: MyST Plugins
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
