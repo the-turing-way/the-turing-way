@@ -20,7 +20,7 @@ Data science is a truly interdisciplinary field that can be described as the int
 expertise @Jiang2022datascience. 
 It also represents a rapidly growing methodological approach for educational practice @Estrellado2020data and research @McFarland2021education.
 
-```{figure} ../../figures/data-science.*
+```{figure} ../../../figures/data-science.*
 ---
 height: 500px
 label: data-science
@@ -84,7 +84,7 @@ Depending on existing knowledge, teaching may need to focus on:
 * Applying problem-solving methods at a higher level of abstraction
 * Developing a fundamental understanding of AI topics
 
-```{figure} ../../figures/kandlhofer-2016.*
+```{figure} ../../../figures/kandlhofer-2016.*
 ---
 height: 500px
 label: kandlhofer-2016
