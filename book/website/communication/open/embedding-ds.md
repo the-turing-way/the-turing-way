@@ -2,6 +2,7 @@
 # Embedding Data Science & AI across Disciplines: Context and Suggestions for Educators
 
 ## Overview
+
 Data science (DS) is no longer limited to mathematicians, statisticians, and computer scientists. As its value becomes apparent in non-traditional disciplines, students in these areas
 naturally seek to upskill in DS. With technology increasingly shaping our future, it is essential to offer opportunities to develop these skills across a broader range of fields, ensuring the
 necessary expertise and competencies are cultivated beyond their traditional domains. This chapter profiles non-cognate students, offers suggestions for educators teaching Data Science in non
@@ -16,6 +17,7 @@ background in engineering decides to pursue a graduate degree in psychology, the
 commonly used in academic settings, particularly when discussing admissions or program requirements. However, for more inclusive and accessible language, you may prefer to describe someone
 simply as “a student without a background in data science or AI”.
 ```
+
 Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary
 expertise @Jiang2022datascience. 
 It also represents a rapidly growing methodological approach for educational practice @Estrellado2020data and research @McFarland2021education.
@@ -32,7 +34,7 @@ alt: >
   The overlap between Domain Knowledge and Computer Science is Software Development.
   The central area where all three circles intersect is labeled Data Science.
 ---
-*The interdisciplinary nature of Data Science*. Illustration by Denise Bianco (2025). Used under a CC-BY 4.0 licence.
+The interdisciplinary nature of Data Science. Illustration by Denise Bianco (2025). Used under a CC-BY 4.0 licence.
 ```
 
 In the constantly growing data-intensive society, data science is being applied within various **non-cognate disciplines** such as arts, history, and social sciences. It’s important for people
@@ -47,6 +49,7 @@ non-cognate student may have implications for the student’s course selection, 
 may need to complete additional coursework or prerequisites to gain the necessary knowledge and skills to succeed in their chosen field.
 
 While it’s challenging to define a single profile due to varying circumstances, some general traits can be identified:
+
 * Career changers
 * Driven by personal interest
 * In need of expanding their skill sets
@@ -75,6 +78,7 @@ When teaching non-cognate students, it is crucial to first assess their understa
 literacy can serve as a valuable reference for evaluating students’ knowledge.
 
 Depending on existing knowledge, teaching may need to focus on:
+
 * Building initial awareness
 * Experimenting with and familiarising students with the theory behind certain AI topics
 * Encouraging independent problem-solving
@@ -124,6 +128,7 @@ graduates and early or mid-career professionals looking to retrain or up-skill.
 ```
 
 ## Suggestions for Educators
+
 DS educators teaching students without a data science or AI background would need to pay particular attention to the students’ background knowledge, concepts, and practical and metacognitive
 skills. Assessment for learning, differentiated instruction, collaborative learning, and other effective teaching methods, can be tailored to the unique needs of data science and AI education
 across disciplines.
@@ -195,11 +200,10 @@ career goals or academic interests.
 * **Flipped classrooms**: Providing students with information before class means that students can learn at their own pace, take responsibility for their learning and actively engage in class. This will also improve collaboration between students and between students and educators, who can get to know them better and provide better support.
 
 ## Summary
+
 In conclusion, teaching students without a data science or AI background can be challenging for educators, but it also provides many opportunities, especially in terms of creativity, knowledge
 sharing, and problem-solving. We recommend conducting an initial assessment of students’ understanding of AI and data science fundamentals (data literacy) to determine where the focus should
 be. It is important not to take students’ existing knowledge and specific expertise for granted. Teaching approaches such as assessment for learning can be useful for this purpose, while
 formative assessment and differentiated instruction, combined with a blend of methods to cater to different learning styles, can support the design of teaching content and the adjustment of
 material according to students’ needs. Collaborative learning is also an effective way to engage students, leverage their existing knowledge, and foster a supportive environment for rich
 exchanges and co-development.
-
-
