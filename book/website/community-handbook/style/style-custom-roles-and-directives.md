@@ -13,5 +13,7 @@ We can write our own roles and directives to help improve the books consistency 
 ### GitHub User
 
 The GitHub User role produces a link to a GitHub user profile.
+This helps ensure links to GitHub profiles are consistent across the book and avoids duplicating the user name in text and in the URL.
+
 The role takes one argument, which is the name of the profile.
 For example, `` {githubuser}`the-turing-way` `` renders as {githubuser}`the-turing-way`.
