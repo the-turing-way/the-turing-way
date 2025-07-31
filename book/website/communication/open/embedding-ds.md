@@ -132,10 +132,12 @@ It is important not to make assumptions about students’ prior knowledge and sk
 without a data science and AI background may find them particularly useful for tailoring teaching and learning to students’ needs and skill sets. These different pedagogical approaches are
 designed to help you gain insights into your students’ understanding of specific concepts or topics, allowing you to better support their individual progress.
 
-1. **Assessment for Learning** is used during learning, and it is useful to identify student demographics, student needs and starting points, and to generate feedback they can use to improve
+### Assessment for Learning
+
+Assessment for Learning is used during learning, and it is useful to identify student demographics, student needs and starting points, and to generate feedback they can use to improve
    performance. Assessment for Learning can take different forms: it could be as simple as observing class discussions, asking questions in oral or written form, or using collaborative tools
    such as Miro or Notion to leverage visual aids and conceptual mapping.
-   
+
 Assessment for learning informs changes you can make to your lesson straight away to make it more effective. Through assessment for learning, students will:
 
 * **Introduce themselves**: understanding WHO. General information will help you understand the overall cohort’s demographics and map out discipline-specific interests.
@@ -147,11 +149,15 @@ In *Seven Myths of Education* @Christodoulou2014myths suggests that teachers sho
 make necessary adjustments to guide them to where they need to be. This perspective is fundamental when thinking about assessment for learning, and to understand the critical role of effective
 feedback.
 
-**Effective feedback in assessment for learning**: Effective feedback requires active listening from both the educator and the student. As part of the questioning process, it is an essential
+#### Effective feedback in assessment for learning
+
+Effective feedback requires active listening from both the educator and the student. As part of the questioning process, it is an essential
 tool for developing students’ thinking. Feedback must be task-focused, timely, specific, clear and unbiased. In this way, you will provide your students with information about their current
 performance and guidance on how they can improve to reach their goals.
 
-2. **Formative Assessment** supports teaching by assessing a learner’s state and inferring next steps @Zhai2020meta. It is similar to AfL, as both methods are used to
+### Formative Assessment
+
+Formative Assessment supports teaching by assessing a learner’s state and inferring next steps @Zhai2020meta. It is similar to AfL, as both methods are used to
    understand student progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, formative assessment is used for
    day-to-day assessments to gauge and explore students’ understanding of a topic
 
@@ -169,12 +175,15 @@ Examples include:
 * **Data challenges**: Mini group competitions where students predict outcomes based on given datasets, which are then discussed in class to learn from various approaches. When teaching in
   multidisciplinary settings, the challenges should be situated in the disciplinary domain that is most familiar to students.
 
-3. **Differentiated Instruction** — a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan @tomlinson2017differentiate.
+### Differentiated Instruction*
+
+Differentiated Instruction is a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan @tomlinson2017differentiate.
    Differentiated instruction sits between “single-size” instruction and individualised instruction, involving proactive planning of various ways for students to express their learning.
    While it may require fine-tuning for individual learners, offering multiple options increases the likelihood of effectively meeting the needs of many students. In this model, the teacher is
    viewed as an organiser of knowledge rather than a gatekeeper.
 
 Differentiated instruction in the context of data science and AI can by applied through:
+
 * **Tiered assignments**: Provide different levels of difficulty in project tasks or problem sets, allowing students to engage at a level that matches their proficiency.
 * **Learning pathways**: Create alternative learning modules that cater to different interests applications of data science and AI, letting students choose based on their existing knowledge,
 career goals or academic interests.
