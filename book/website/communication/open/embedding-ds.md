@@ -113,15 +113,16 @@ alt: >
 ---
 Adaptation of Kandlhofer et al. (2016) *Topics of AI Literacy*. Illustration by Gule Saman (2024). Used under a CC-BY 4.0 licence.
 ```
-`````{admonition} Case Study
+
+```{dropdown} Case Study: UCL, Built Environment: Sustainable Heritage MSc, Data Science route
 :class: tip
-**UCL, Built Environment: Sustainable Heritage MSc, Data Science route**
 This Master’s degree creates expert data scientists taught through the exciting multidisciplinary lens of cultural heritage (historic buildings, sites, landscapes, museums and collections).
 Students will develop advanced data science skills, such as coding, crowd-sourced data science, machine learning and data visualisation, and apply them to the complexities of acquisition,
 analysis and exploitation of the variety of data that is generated and used in heritage contexts. The course is open to applicants with a technical background such as statistics or data
 science, as well as applicants from other disciplines (for example: conservation, curation, history) that want to develop data science skills. This degree route is suited both to recent
 graduates and early or mid-career professionals looking to retrain or up-skill.
-`````
+```
+
 ## Suggestions for Educators
 DS educators teaching students without a data science or AI background would need to pay particular attention to the students’ background knowledge, concepts, and practical and metacognitive
 skills. Assessment for learning, differentiated instruction, collaborative learning, and other effective teaching methods, can be tailored to the unique needs of data science and AI education
