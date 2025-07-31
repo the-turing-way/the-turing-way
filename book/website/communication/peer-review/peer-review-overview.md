@@ -21,7 +21,7 @@ However, there are also initiatives to peer review preprints, for example, [Peer
 Feedback helps improve your project, on its way to being shared with the broader community.​
 * *Step 2* - The project is going well, but it needs input from the broader community to reach it's full potential.
 This stage is often where the formal peer review process happens, but in an open project this level of feedback is often provided throughout.​
-* *Step 3* - By incorporating everyone's ideas, the project unites the community and percieves feedback as a way to improve projects rather than as a competitive process.
+* *Step 3* - By incorporating everyone's ideas, the project unites the community and perceives feedback as a way to improve projects rather than as a competitive process.
 
 We see peer review as an important exercise in {ref}`collaboration<cl>` not limited to a quality-safeguard procedure.
 However, in current research practice, peer review often appears as a hurdle everyone needs to pass through.

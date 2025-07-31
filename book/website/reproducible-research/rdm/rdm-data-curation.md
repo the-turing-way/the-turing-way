@@ -47,7 +47,7 @@ There are also  metadata standards that already exist to help you with standardi
 See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
 
 ### 6. Data access 
-Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
+Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or reuse it.
 You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data. 
 See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
 

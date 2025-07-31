@@ -2,7 +2,7 @@
 (rr-code-reuse-details)=
 # Detailed Recommendations for Code Reuse
 
-Make sure you (or somebody else) can re-use your code to do the same exact thing you did.
+Make sure you (or somebody else) can reuse your code to do the same exact thing you did.
 This section contains a simple checklist of recommendations for making your software more reusable.
 In this section contains a more in-depth explanation of each of these recommendations, with pointers to other relevant parts of this guide.
 
@@ -40,7 +40,7 @@ A nice side-effect of scripting the sequence of operations is that this often ca
 
 ### 5. License your code
 
-Make sure you attach a license to your code and specify how you want to be cited when people re-use it.
+Make sure you attach a license to your code and specify how you want to be cited when people reuse it.
 Consider using a permissive license that allows for reuse.
 Also, you should choose a license which is compatible with the licenses of libraries or packages your software depends on.
 
@@ -48,7 +48,7 @@ Also, you should choose a license which is compatible with the licenses of libra
 
 ### 6. Make sure it is citable
 
-Make sure to specify how you want to be cited when people re-use it.
+Make sure to specify how you want to be cited when people reuse it.
 
 **See also**: {ref}`cm-citable-cite-software`
 
@@ -60,7 +60,7 @@ If the software depends on any sort of data, the data should be available
 
 ## Re-runnable recommendations
 
-Make sure you (or others) can re-use it to do the thing you did, but with different data/different parameters
+Make sure you (or others) can reuse it to do the thing you did, but with different data/different parameters
 
 ### 1. Remove hardcoded bits and make the code modular
 You do not want to have details specific to your data or analysis parameters hardcoded into the code.

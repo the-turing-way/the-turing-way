@@ -53,7 +53,7 @@ This fair credit system encourages researchers to further maintain reproducibili
 **6. Ensure continuity of your work**
 
 By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators.
-This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and re-use our research materials {cite:ps}`MozillaScienceLab`.
+This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and reuse our research materials {cite:ps}`MozillaScienceLab`.
 This ensures the continuity of a research idea and can even find fresh applications in other contexts.
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite:ps}`Markowetz2015`.
 

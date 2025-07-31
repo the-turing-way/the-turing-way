@@ -44,7 +44,7 @@ To learn more about version control, consult the {ref}`Chapter on Version Contro
 Developing research code outside the TRE, for example in a public GitHub repository, can also make publishing the research methods for TRE projects simpler. 
 Developing code you wish to export from the TRE inside the environment carries risks. 
 For example, sensitive data could be committed to the Git repository by mistake, which is impossible when the code has been developed in a separate location. 
-The secure egress process and export policy for the TRE in question will necessarily be rigourous in proportion to the sensitivity of the data being analysed. 
+The secure egress process and export policy for the TRE in question will necessarily be rigorous in proportion to the sensitivity of the data being analysed.
 It's therefore important to consider the time constraints associated with exporting any research outputs at the end of a project.
     
 Developing research code within the TRE may be more appropriate where progress is overly slowed by developing externally, such as when data access is critical for any development. 

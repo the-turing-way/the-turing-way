@@ -4,7 +4,7 @@
 
 * [British sociological association authorship guidelines](https://www.britsoc.co.uk/publications/guidelines-reports/authorship-guidelines.aspx)
 
-* [Committe of Publication Ethics (COPE) website](https://publicationethics.org/).
+* [Committee of Publication Ethics (COPE) website](https://publicationethics.org/).
   
 * [How to handle authorship disputes: a guide for new researchers](https://publicationethics.org/files/2003pdf12_0.pdf).
 

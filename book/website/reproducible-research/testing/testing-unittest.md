@@ -65,7 +65,7 @@ In contrast a script which is just one long continuous series of lines which pro
 
 Modular code is much easier to reuse, too.
 For example, if a researcher has an individual function that does some Useful Thing and in a future project they need to do that thing again, it is trivial to copy or import the function.
-In contrast, if the code that does this Useful Thing is entwined with a great deal of other code in a long script it is much harder to separate it out for re-use.
+In contrast, if the code that does this Useful Thing is entwined with a great deal of other code in a long script it is much harder to separate it out for reuse.
 
 ## Unit Testing Tips
 
