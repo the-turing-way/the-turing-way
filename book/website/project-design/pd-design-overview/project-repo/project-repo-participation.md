@@ -9,7 +9,7 @@ In addition to setting out some ground rules for communication in your project, 
 Those instructions are laid out in a CONTRIBUTING file (this is an idea borrowed from software engineering where capitalised filenames are the norm for the most important files of a project).
 A CONTRIBUTING file describes how others may contribute to the project and engage with other contributors (or a community).
 
-Your audiences for the contributing guidelines are your potential contributors who need to understand what is expected from them, project consumers who need to know how they can remix and re-use your work, and yourself who creates and maintains the file as a key part to outline interactions with your community.
+Your audiences for the contributing guidelines are your potential contributors who need to understand what is expected from them, project consumers who need to know how they can remix and reuse your work, and yourself who creates and maintains the file as a key part to outline interactions with your community.
 
 Here are a few suggestions of what your contributing guidelines could cover:
 

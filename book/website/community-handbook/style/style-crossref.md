@@ -31,7 +31,7 @@ For example, `[My custom cross-reference](#ch-style-crossref)` renders as [My cu
 Other styles can be used if you want to customise the link text or use another style.
 
 You will also see references using the older roles like ``{ref}`my-label` `` in the book.
-Cross-references using this style will still work but are not prefered.
+Cross-references using this style will still work but are not preferred.
 
 ## _The Turing Way_ naming convention for labels
 
