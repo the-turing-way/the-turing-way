@@ -6,11 +6,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 
-_The Turing Way_  ist ein Handbuch zur reproduzierbaren Data Science, das sie hier finden können: <https://book.the-turing-way.org>.
+_The Turing Way_  ist ein Handbuch zur reproduzierbaren Data Science, das Sie hier finden können: <https://book.the-turing-way.org>.
 Momentan befinden Sie sich im GitHub Repository des Projektes. Hier werden
 alle Teile des Handbuchs gesammelt und gemeinsam weiterentwickelt.
 
-Unser Ziel ist es, Forschern (und allen Interessierten) die notwendigen Informationen zugänglich zu machen, die es ihnen ermöglichen ein Projekt reproduzierbar durchzuführen.
+Unser Ziel ist es, Forschern (und allen Interessierten) die notwendigen Informationen zugänglich zu machen, die es ihnen ermöglichen, ein Projekt reproduzierbar durchzuführen.
 
 Alle Beteiligten, z.B. Doktoranden, PhD Studenten, Postdocs, PIs und wissenschaftliche Mitarbeiter, können zum verantwortungsvollen Umgang mit Reproduzierbarkeit beitragen. Dieses Handbuch zeigt auf, welche Aufgaben sie übernehmen können um Data Science effizienter, effektiver und leichter verständlich zu machen.
 
@@ -43,7 +43,7 @@ Um Forschungsergebnisse zugänglich zu machen, braucht man Kenntnisse in den Ber
 nicht von akademischen Forschern und Data Scientists erwartet werden.
 
 Deshalb ist es für Anfänger
-häufig schwierig einen Einstieg in das Thema Reproduzierbarkeit zu finden und ihren Teil dazu beizutragen.
+häufig schwierig, einen Einstieg in das Thema Reproduzierbarkeit zu finden und ihren Teil dazu beizutragen.
 
 *The Turing Way* ist ein Handbuch, das Studierenden, ihren Betreuenden,
 Förderern von Projekten oder Verlegern den verantwortungsvollen Umgang mit Reproduzierbarkeit erleichtert - selbst wenn sie keine Vorkenntnise auf diesem Gebiet haben.
@@ -67,13 +67,13 @@ Für Informationen darüber, wie man uns kontaktiert, lesen Sie bitte die [Gover
 
 Alle Beitragenden werden gebeten den [Verhaltenskodex](CODE_OF_CONDUCT.md) einzuhalten und die [Hinweise für Beitragende](CONTRIBUTING.md) zu lesen.
 
-Wenn Sie noch wenig Erfahrung mit der Zusammenarbeit über GitHub Projekte haben, können sie Fallstudien und ihre Tipps und Tricks auch über unser [Google Formular](https://goo.gl/forms/akFqZEIy2kxAjfZW2) einreichen.
+Wenn Sie noch wenig Erfahrung mit der Zusammenarbeit über GitHub-Projekte haben, können Sie Fallstudien und Ihre Tipps und Tricks auch über unser [Google Formular](https://goo.gl/forms/akFqZEIy2kxAjfZW2) einreichen.
 
 ### _The Turing Way_ zitieren
 
-Sie können _The Turing Way_ über das Zenodo Archiv mit der DOI:
+Sie können _The Turing Way_ über das Zenodo Archive mit der DOI
 [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853) zitieren.
-DOIs geben uns die Möglichkeit, das Repository zu archivieren und fördern die
+DOIs geben uns die Möglichkeit, das Repository zu archivieren, und fördern die
 Nachverfolgbarkeit der Nutzung in akademischen Veröffenlichungen.
 
 Das Zitat wird ungefähr folgendermaßen aussehen:
