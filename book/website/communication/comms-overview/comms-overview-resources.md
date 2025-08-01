@@ -34,7 +34,7 @@ Read more in this chapter: {ref}`cm-lay-summaries`.
 
 **Readability tests:**
 * [Hemingway app](http://www.hemingwayapp.com/)
-* [The forst word readability test](http://thefirstword.co.uk/readabilitytest/)
+* [The first word readability test](http://thefirstword.co.uk/readabilitytest/)
 
 
 (cm-comms-overview-resources-podcasts)=
@@ -56,7 +56,7 @@ Read more in this chapter: {ref}`cm-podcasts`.
 
 Read more in this chapter: {ref}`cm-presentations`.
 
-Here are some websites that offer free resources making different aspects of presenations:
+Here are some websites that offer free resources making different aspects of presentations:
 
 * [The Noun Project](https://thenounproject.com) for icons and photographs.
 * [Unsplash](https://unsplash.com) for photographs.

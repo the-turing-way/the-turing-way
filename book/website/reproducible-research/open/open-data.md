@@ -14,7 +14,7 @@ This lack of data sharing is an obstacle to international research (be it academ
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
 Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
 Open data is freely available on the internet.
-Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
+Any user is permitted to download, copy, analyse, re-process, and reuse it for any other purpose with minimal financial, legal, and technical barriers.
 
 This represents a real shift in how research works. Funders are starting to require researchers to make their data available and submit data management plans {ref}`Data Management Plans<rr-rdm-dmp>` as part of project proposals.
 At the moment, anyone who wishes to use data from a researcher often has to contact that researcher and make a request.

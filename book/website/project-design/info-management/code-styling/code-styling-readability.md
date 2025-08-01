@@ -1,7 +1,7 @@
 (pd-code-styling-readability)=
 # Writing Human Readable Code
 
-Writing clear, well commented, readable and re-usable code benefits not only you but the community (or audience) that you are developing it for.
+Writing clear, well commented, readable and reusable code benefits not only you but the community (or audience) that you are developing it for.
 This may be your lab, external collaborators, stakeholders, or you might be writing open source software for global distribution!
 Whatever scale you work at, readability counts!
 

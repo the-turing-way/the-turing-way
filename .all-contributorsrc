@@ -5211,6 +5211,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "stweil",
+      "name": "Stefan Weil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6734573?v=4",
+      "profile": "https://github.com/stweil",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",

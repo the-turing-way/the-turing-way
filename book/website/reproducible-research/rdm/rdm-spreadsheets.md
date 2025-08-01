@@ -44,7 +44,7 @@ In addition to the visual feedback, you can now also use this information to fil
 (rr-rdm-spreadsheets-format)=
 ## 2. Tidy Format For Spreadsheets
 
-If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-this/), then it may be difficult for collaborators to easily {ref}`read-in and re-use <rr-rdm-fair>` your data for further analysis.
+If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-this/), then it may be difficult for collaborators to easily {ref}`read-in and reuse <rr-rdm-fair>` your data for further analysis.
 
 Indeed, a large part of the work of data scientists is to transform the data into a form that the computer can read. 
 However, this is incredibly time-consuming when the information is split between several spreadsheets and when there are no concrete data transformation plans before the data is acquired.
