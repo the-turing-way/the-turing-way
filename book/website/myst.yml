@@ -9,7 +9,7 @@ project:
   copyright: 2019-2025
   exclude:
     - LICENSE.md
-  github: the-turing-way/the-turing-way
+  github: https://github.com/the-turing-way/the-turing-way
   license:
     code: MIT
     content: CC-BY-4.0
