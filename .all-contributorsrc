@@ -18,8 +18,8 @@
   "types": {
 	"a11y": {
       "symbol": "♿️",
-      "description": "Accessibility",
-		},
+      "description": "Accessibility"
+    },
     "audio": {
       "symbol": "🔊",
       "description": "Audio",
