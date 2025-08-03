@@ -9,6 +9,12 @@
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "skipCi": false,
   "contributorsSortAlphabetically": true,
+  "projectName": "the-turing-way",
+  "projectOwner": "the-turing-way",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "commitConvention": "none",
+  "commitType": "docs"
   "contributors": [
     {
       "login": "rainsworth",
@@ -5221,11 +5227,5 @@
         "bug"
       ]
     }
-  ],
-  "projectName": "the-turing-way",
-  "projectOwner": "the-turing-way",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "commitConvention": "none",
-  "commitType": "docs"
+  ]
 }
