@@ -14,7 +14,7 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "commitConvention": "none",
-  "commitType": "docs"
+  "commitType": "docs",
   "contributors": [
     {
       "login": "rainsworth",
