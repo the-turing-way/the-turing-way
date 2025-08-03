@@ -18,115 +18,143 @@
   "types": {
 	"a11y": {
       "symbol": "♿️",
-      "description": "Accessibility"
+      "description": "Accessibility",
+	  "link": "[<%= symbol %>],"
     },
     "audio": {
       "symbol": "🔊",
       "description": "Audio",
+	  "link": "[<%= symbol %>],"
     },
     "blog": {
       "symbol": "📝",
       "description": "Blogposts",
+	  "link": "[<%= symbol %>],"	  
     },
     "business": {
       "symbol": "💼",
       "description": "Business development",
+	  "link": "[<%= symbol %>],"
     },
     "content": {
       "symbol": "🖋",
       "description": "Content",
+	  "link": "[<%= symbol %>],"
     },
     data: {
       "symbol": "🔣",
       "description": "Data",
+	  "link": "[<%= symbol %>],"
     },
     design: {
       "symbol": "🎨",
       "description": "Design",
+	  "link": "[<%= symbol %>],"
     },
     eventOrganizing: {
       "symbol": "📋",
       "description": "Event Organizing",
+	  "link": "[<%= symbol %>],"
     },
     example: {
       "symbol": "💡",
       "description": "Examples",
+	  "link": "[<%= symbol %>],"
     },
     financial: {
       "symbol": "💵",
       "description": "Financial",
+	  "link": "[<%= symbol %>],"
     },
     fundingFinding: {
       "symbol": "🔍",
       "description": "Funding Finding",
+	  "link": "[<%= symbol %>],"
     },
     ideas: {
       "symbol": "🤔",
       "description": "Ideas, Planning, & Feedback",
+	  "link": "[<%= symbol %>],"
     },
     infra: {
       "symbol": "🚇",
       "description": "Infrastructure (Hosting, Build-Tools, etc)",
+	  "link": "[<%= symbol %>],"
     },
     maintenance: {
       "symbol": "🚧",
       "description": "Maintenance",
+	  "link": "[<%= symbol %>],"
     },
     mentoring: {
       "symbol": "🧑‍🏫",
       "description": "Mentoring",
+	  "link": "[<%= symbol %>],"
     },
     platform: {
       "symbol": "📦",
       "description": "Packaging/porting to new platform",
+	  "link": "[<%= symbol %>],"
     },
     plugin: {
       "symbol": "🔌",
       "description": "Plugin/utility libraries",
+	  "link": "[<%= symbol %>],"
     },
     projectManagement: {
       "symbol": "📆",
       "description": "Project Management",
+	  "link": "[<%= symbol %>],"
     },
     question: {
       "symbol": "💬",
       "description": "Answering Questions",
+	  "link": "[<%= symbol %>],"
     },
     research: {
       "symbol": "🔬",
       "description": "Research",
+	  "link": "[<%= symbol %>],"
     },
     security: {
       "symbol": "🛡️",
       "description": "Security",
+	  "link": "[<%= symbol %>],"
     },
     talk: {
       "symbol": "📢",
       "description": "Talks",
+	  "link": "[<%= symbol %>],"
     },
     tool: {
       "symbol": "🔧",
       "description": "Tools",
+	  "link": "[<%= symbol %>],"
     },
     translation: {
       "symbol": "🌍",
       "description": "Translation",
+	  "link": "[<%= symbol %>],"
     },
     tutorial: {
       "symbol": "✅",
       "description": "Tutorials",
+	  "link": "[<%= symbol %>],"
     },
     userTesting: {
       "symbol": "📓",
       "description": "User Testing",
+	  "link": "[<%= symbol %>],"
     },
     video: {
       "symbol": "📹",
       "description": "Videos",
+	  "link": "[<%= symbol %>],"
     },
     promotion: {
       "symbol": "📣",
       "description": "Promotion",
+	  "link": "[<%= symbol %>],"
     },
   },
   "contributors": [
