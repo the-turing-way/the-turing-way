@@ -15,6 +15,120 @@
   "repoHost": "https://github.com",
   "commitConvention": "none",
   "commitType": "docs",
+  "types": {
+	"a11y": {
+      "symbol": "♿️",
+      "description": "Accessibility",
+    },
+    "audio": {
+      "symbol": "🔊",
+      "description": "Audio",
+    },
+    "blog": {
+      "symbol": "📝",
+      "description": "Blogposts",
+    },
+    "business": {
+      "symbol": "💼",
+      "description": "Business development",
+    },
+    "content": {
+      "symbol": "🖋",
+      "description": "Content",
+    },
+    data: {
+      "symbol": "🔣",
+      "description": "Data",
+    },
+    design: {
+      "symbol": "🎨",
+      "description": "Design",
+    },
+    eventOrganizing: {
+      "symbol": "📋",
+      "description": "Event Organizing",
+    },
+    example: {
+      "symbol": "💡",
+      "description": "Examples",
+    },
+    financial: {
+      "symbol": "💵",
+      "description": "Financial",
+    },
+    fundingFinding: {
+      "symbol": "🔍",
+      "description": "Funding Finding",
+    },
+    ideas: {
+      "symbol": "🤔",
+      "description": "Ideas, Planning, & Feedback",
+    },
+    infra: {
+      "symbol": "🚇",
+      "description": "Infrastructure (Hosting, Build-Tools, etc)",
+    },
+    maintenance: {
+      "symbol": "🚧",
+      "description": "Maintenance",
+    },
+    mentoring: {
+      "symbol": "🧑‍🏫",
+      "description": "Mentoring",
+    },
+    platform: {
+      "symbol": "📦",
+      "description": "Packaging/porting to new platform",
+    },
+    plugin: {
+      "symbol": "🔌",
+      "description": "Plugin/utility libraries",
+    },
+    projectManagement: {
+      "symbol": "📆",
+      "description": "Project Management",
+    },
+    question: {
+      "symbol": "💬",
+      "description": "Answering Questions",
+    },
+    research: {
+      "symbol": "🔬",
+      "description": "Research",
+    },
+    security: {
+      "symbol": "🛡️",
+      "description": "Security",
+    },
+    talk: {
+      "symbol": "📢",
+      "description": "Talks",
+    },
+    tool: {
+      "symbol": "🔧",
+      "description": "Tools",
+    },
+    translation: {
+      "symbol": "🌍",
+      "description": "Translation",
+    },
+    tutorial: {
+      "symbol": "✅",
+      "description": "Tutorials",
+    },
+    userTesting: {
+      "symbol": "📓",
+      "description": "User Testing",
+    },
+    video: {
+      "symbol": "📹",
+      "description": "Videos",
+    },
+    promotion: {
+      "symbol": "📣",
+      "description": "Promotion",
+    },
+  },
   "contributors": [
     {
       "login": "rainsworth",
