@@ -155,7 +155,7 @@
       "symbol": "📣",
       "description": "Promotion",
 	  "link": "[<%= symbol %>],"
-    },
+    }
   },
   "contributors": [
     {
