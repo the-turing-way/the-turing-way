@@ -19,7 +19,7 @@
 	"a11y": {
       "symbol": "♿️",
       "description": "Accessibility",
-    },
+		},
     "audio": {
       "symbol": "🔊",
       "description": "Audio",
