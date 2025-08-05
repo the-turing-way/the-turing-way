@@ -114,8 +114,8 @@ Nextcloud, for example, has a very [comprehensive guide to the use of their mark
 <!-- UK copyright info https://www.gov.uk/topic/intellectual-property/copyright -->
 
 By default, if you make a work publicly available, you retain the copyright to that work and all rights that this gives you over it.
-Anyone wishing to re-use that work must seek to license the right to do so from you, or open themselves to the possibility of a lawsuit for infringing on your copyright.
-Irrespective of how you choose to license your work, however, there are some generally accepted exceptions to the protections of copyright that permit the re-use of works (or parts of works) without the consent of the copyright holder, under certain circumstances.
+Anyone wishing to reuse that work must seek to license the right to do so from you, or open themselves to the possibility of a lawsuit for infringing on your copyright.
+Irrespective of how you choose to license your work, however, there are some generally accepted exceptions to the protections of copyright that permit the reuse of works (or parts of works) without the consent of the copyright holder, under certain circumstances.
 These are known as 'fair use' or 'fair dealing' exceptions.
 Under the 'fair use' standard originating in the USA, the following criteria are considered on a case-by-case basis to decide if a use constitutes an infringement of copyright:
 
@@ -129,9 +129,9 @@ The 'fair dealing' standard, originating in British law, generally includes more
 Notably disputes over what constitutes fair-use are not easily administrable and can require protracted court proceedings to settle definitively.
 <!-- citations needed -->
 
-For anyone wishing to circulate their work and grant others the right to re-use, remix, or re-distribute that work free of charge, coming to individual licensing arrangements with everyone who might want to do this is obviously impractical.
+For anyone wishing to circulate their work and grant others the right to reuse, remix, or re-distribute that work free of charge, coming to individual licensing arrangements with everyone who might want to do this is obviously impractical.
 To address this, there exist numerous pre-made 'off-the-self' licenses that you can apply to your work.
-Which of these you choose shapes how and under what circumstances others are permitted to re-use your work without infringing on your copyright.
+Which of these you choose shapes how and under what circumstances others are permitted to reuse your work without infringing on your copyright.
 
 Pre-made licenses exist that are tailored to the differences between different types of works.
 For example, there are licenses intended to be used for software and licenses intended to be used for other creative works such as images, prose (text), as well as hardware & designs.
@@ -265,9 +265,9 @@ In the case of academic works attribution requirements can serve to re-enforce t
 ### Where to find open licenses for different types of work
 
 - Code
-    - The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open source licenses
+    - The [Open Source Initiative (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open source licenses
     - [Free Software Foundation](https://www.fsf.org/) maintains a [list of GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses)
-        - [GNU/FSF recomendations](https://www.gnu.org/licenses/license-recommendations.html)
+        - [GNU/FSF recommendations](https://www.gnu.org/licenses/license-recommendations.html)
     - [choosealicense.com](https://choosealicense.com/) provides a tool to guide you through the license choice project.
     - [Organisation for ethical source](https://ethicalsource.dev/) maintains a list of [ethical source licenses](https://ethicalsource.dev/licenses/)
 - Prose, Images, Audio, Video, Datasets, and similar
@@ -331,7 +331,7 @@ To get around this, some copyleft projects developed by companies that commercia
 #### 'Source Available' or 'Shared Source'
 
 Under a proprietary license the code is generally not made public.
-Some projects share their code but do not license its re-use, modification or redistribution.
+Some projects share their code but do not license its reuse, modification or redistribution.
 This is known as being 'source available' or 'shared-source', the [Vivaldi](https://vivaldi.com/) web browser is an example of such a project.
 
 (rr-licensing-welcoming)=

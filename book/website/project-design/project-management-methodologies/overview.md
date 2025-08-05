@@ -53,7 +53,7 @@ These pages on The Turing Way are designed to assist you in choosing the right p
 | **Agile Stage Gate** |  R&D, product development | Agility with structured reviews | Agile flexibility with stage-wise decision making | Highly suitable for research, combining the flexibility of Agile with the structured review process of Stage Gate. | Very adaptable, offering the benefits of Agile’s responsiveness with added decision points for reassessment. |
 
 ## How Frameworks Intersect
-```{figure} ../../figures/project-management-diagram.png
+```{figure} ../../../figures/project-management-diagram.png
 ---  
 height: 390px  
 name: project-framework-venn  

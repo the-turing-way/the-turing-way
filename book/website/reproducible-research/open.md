@@ -23,12 +23,12 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 Open research aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable, and accessible to society. It pushes for change in the way that research is carried out and disseminated by digital tools. One definition of open research, [as given by the Organisation for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf "Making Open Science a Reality, OECD Science, Technology and Industry Policy Papers No. 25"), is the practice of making "the primary outputs of publicly funded research results – publications and the research data – publicly accessible in a digital format with no or minimal restriction." To achieve this openness in research, each element of the research process should:
 
 - _Be publicly available_: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls.
-- _Be reusable_: Research outputs need to be licensed appropriately, so that prospective users know any limitations on re-use.
+- _Be reusable_: Research outputs need to be licensed appropriately, so that prospective users know any limitations on reuse.
 - _Be transparent_: With appropriate metadata to provide clear statements of how research output was produced and what it contains.
 
 Schematically, the research process has the following form: data are collected and then analysed (often using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their work. This can happen in notebooks or other forms of documentation. For experimental studies, Electronic Lab Notebooks are common. Open research aims to make each of these elements open:
 
-- _Open Data_: Documenting and sharing research data openly for re-use.
+- _Open Data_: Documenting and sharing research data openly for reuse.
 - _Open Source Software_: Documenting research code and routines, and making them freely accessible and available.
 - _Open Hardware_: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
 - _Open Access_: Making all published outputs freely accessible for maximum use and impact.

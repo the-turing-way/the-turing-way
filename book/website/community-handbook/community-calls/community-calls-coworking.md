@@ -29,7 +29,7 @@ The resource requirement for these calls is also very similar to the Collaborati
 3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
 
 We don't record these calls.
-We also don't create {ref}`breakout rooms<ch-community-calls-collabcafe-breakout>` unless there are multiple people working on the same thing.
+We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unless there are multiple people working on the same thing.
 
 ### Format of the call
 
@@ -71,7 +71,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 
 The session chair will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
 If everyone plans to work on independent tasks, we will remain in the main room and work silently.
-For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms][ch-community-calls-collabcafe-breakout] for them.
+For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#ch-coworking-collabcafe-breakout) for them.
 
 If there are new members on the call, one of the members (usually host of the call) will take the new member to a breakout room to show them around the project repository and share some tips for getting started.
 

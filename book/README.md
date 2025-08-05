@@ -1,38 +1,20 @@
 ## The Turing Way Book
 
-This is the README file for _The Turing Way_ book hosted online at https://book.the-turing-way.org/.
-For the README file of the main repository please [follow this link](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
+This is the README file for _The Turing Way_ book hosted online at [book.the-turing-way.org](https://book.the-turing-way.org).
+For the README file of the main repository please [follow this link](../README.md).
 
-All the text for each chapter of the `book` lives inside the folder `./website` directory.
-All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
+All the text for each chapter of the `book` lives inside the [`website`](./website/) directory.
+All figures associated to the chapters are stored in, and linked from, the [`figures`](./figures/) directory.
 Everything else is in the `website/` directory.
+
 
 ### Configuration
 
-- The table of contents (TOC) defines the order of chapters as they appear in the book.
-To change the TOC, please edit the `website/myst.yml` file with correct information on filenames and their relative locations in this repository.
-Documentation on controlling the TOC structure can be found on the [Jupyter Book website](https://jupyterbook.org/customize/toc.html).
-- Same applies for more general configuration using `website/myst.yml`.
-Documentation on configuring book settings can be found on the [Jupyter Book website](https://jupyterbook.org/customize/config.html).
+The book's configuration is defined in [`website/myst.yml`](./website/myst.yml). The possible fields for this file are explained [in the MystMD documentation](https://mystmd.org/guide/frontmatter#in-a-myst-yml-file).
 
-### Deploying
+### Building
 
-The site is built automatically using the two directories `book` and `book/website`.
-All of the dependencies are specified in `dependencies.in`, which is transformed into the lock file `dependencies.lock` using `pip-compile`.
-
-Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
-
-#### On Netlify
-
-_The Turing Way_ book is built and deployed online using [Netlify](https://www.netlify.com/).
-
-If you want to deploy the book on Netlify, you'll need the following settings:
-
-- Base directory: `book/`
-- Build command: `make deps && make pathways && make ci`
-- Publish directory: `website/_build/html`
-
-You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
+Instructions for how to build the book locally can be found in [_The Turing Way_'s Community Handbook](https://book.the-turing-way.org/community-handbook/local-build).
 
 ## Bibliography
 
@@ -41,10 +23,8 @@ More details can be read in the [CONTRIBUTING.md](https://github.com/the-turing-
 
 ## Content Templates
 
-Templates for different types of content can be created in the [`templates` directory](./templates).
+Templates for different types of content can be found in the [`templates`](./templates) directory.
+This includes the following:
 
-As of now, the template directory includes the following:
-* `case-study-template`: a template for writing and/or revising case studies
-* `chapter-template`: a template for writing new chapters or revising old ones
-
-The template can be copied to create content relevant to a chapter in the `content` directory.
+* [`case-study-template`](templates/case-study-template/): a template for writing and/or revising case studies
+* [`chapter-template`](templates/chapter-template/): a template for writing new chapters or revising old ones
