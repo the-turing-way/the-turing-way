@@ -68,4 +68,4 @@ working day. Don't review for more than an hour at a time, after that the succes
 Sometimes, with more complex code reviews, online communication can lead to unproductive conversations.
 Setting up an in-person meeting can help to resolve some of the trickier issues in a more collaborative and friendly manner.
 As an alternative, the development/research team can set regular meetings for doing code reviews with all of the team members.
-For example, see the approach taken by a professor organizing [lab meetings for code](http://fperez.org/py4science/code_reviews.html).
+For example, see the approach taken by a professor organizing [lab meetings for code](http://web.archive.org/web/20210512053038/http://fperez.org/py4science/code_reviews.html).

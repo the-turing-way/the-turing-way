@@ -71,7 +71,7 @@ In contrast, if the code that does this Useful Thing is entwined with a great de
 
 - Many testing frameworks have tools specifically geared towards writing and running unit tests.
 - Isolate the development environment from the test environment.
-- Write test cases that are independent of each other. For example, if a unit A utilises the result supplied by another unit B, you should test unit A with a [test double](#Use_test_doubles_stubs_mocking_where_appropriate), rather than actually calling the unit B. If you don't do this your test failing may be due to a fault in either unit A *or* unit B, making the bug harder to trace.
+- Write test cases that are independent of each other. For example, if a unit A utilises the result supplied by another unit B, you should test unit A with a [test double][rr-testing-guidance-mocking], rather than actually calling the unit B. If you don't do this your test failing may be due to a fault in either unit A *or* unit B, making the bug harder to trace.
 - Aim at covering all paths through a unit. Pay particular attention to loop conditions.
 - In addition to writing cases to verify the behaviour, write cases to ensure the performance of the code. For example, if a function that is supposed to add two numbers takes several minutes to run there is likely a problem.
 - If you find a defect in your code write a test that exposes it. Why? First, you will later be able to catch the defect if you do not fix it properly. Second, your test suite is now more comprehensive. Third, you will most probably be too lazy to write the test after you have already fixed the defect. Say a code has a simple function to classify people as either adults or children:
@@ -111,32 +111,32 @@ So once the bug is fixed:
 ```
 def adult_or_child(age):
 
-# Check age is valid
-if age < 0:
-  raise ValueError, 'Not possible to have a negative age'
+  # Check age is valid
+  if age < 0:
+    raise ValueError, 'Not possible to have a negative age'
 
-# If the age is greater or equal to 18 classify them as an adult
-if age >= 18:
-  person_status = 'Adult'
+  # If the age is greater or equal to 18 classify them as an adult
+  if age >= 18:
+    person_status = 'Adult'
 
-# If the person is not an adult classify them as a child
-else:
-  person_status = 'Child'
+  # If the person is not an adult classify them as a child
+  else:
+    person_status = 'Child'
 
-return person_status
+  return person_status
 ```
 
 Go ahead and write a test to ensure that future changes in the code can't cause it to happen again:
 ```
 def test_adult_or_child():
 
-#Test that an adult is correctly classified as an adult
-assert adult_or_child(22) == 'Adult'
+  # Test that an adult is correctly classified as an adult
+  assert adult_or_child(22) == 'Adult'
 
-# Test that an child is correctly classified as a child
-assert adult_or_child(5) == 'Child'
+  # Test that an child is correctly classified as a child
+  assert adult_or_child(5) == 'Child'
 
-# Test that supplying an invalid age results in an error
-with pytest.raises(ValueError):
+  # Test that supplying an invalid age results in an error
+  with pytest.raises(ValueError):
     adult_or_child(-10)
 ```

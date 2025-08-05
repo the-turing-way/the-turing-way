@@ -7,10 +7,11 @@ ORCID is an acronym for ‘Open Researcher and Contributor ID'.
 ORCID is a long-lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
 
 Watch this short video for more information:
-<div class="video-container">
-  <iframe src="https://player.vimeo.com/video/97150912" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/97150912">What is ORCID?</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+
+::: {iframe} https://player.vimeo.com/video/97150912
+:width: 100%
+:::
+
 
 (cm-citable-orcid-why)=
 ## Why You Should Get an ORCID
@@ -25,6 +26,15 @@ You can use ORCID to access or sign up to services that utilise ORCID, for examp
 
 You can use your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
+
+```{figure} ../../../figures/orcid-ids.*
+---
+name: orcid-ids2
+alt: A researcher surrounded by a ring formed of all her different outputs, linked by an ORCID. Text reads "ORCID IDs" and "One Ring to Rule All Outputs."
+---
+ORCID IDs link all your research outputs together.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 (cm-citable-orcid-use)=
 ## Using ORCID

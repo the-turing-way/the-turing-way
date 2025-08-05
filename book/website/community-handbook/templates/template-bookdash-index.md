@@ -9,14 +9,14 @@ The access permission can be set so that the notes can be read by everyone and e
 
 ###### tags: `bookdash 2021` `may` `event`
 
-==If you are new to HackMD, please see this short guide: https://hackmd.io/@turingway/hackmd-guide==
+==If you are new to HackMD, please see this short guide: https://hackmd.io/\@turingway/hackmd-guide==
 
 [TOC]
 
 :information_source: Pre-event drop-in call, DD Month YYYY
 ---
 
-* Session notes: https://hackmd.io/@turingway/bookdash-may2021-drop-in <--- update this
+* Session notes: https://hackmd.io/\@turingway/bookdash-may2021-drop-in <--- update this
 * Sessions:
     * Session 1: 09:00 - 10:00 London time - [see in your time zone](https://arewemeetingyet.com/London/YYYY-MM-DD/HH:MM)
     * Session 2: 17:00 - 18:00 London time - [see in your time zone](https://arewemeetingyet.com/London/YYYY-MM-DD/HH:MM)
@@ -29,7 +29,7 @@ The access permission can be set so that the notes can be read by everyone and e
 
 On DD Month YYYY, we will host a one-hour GitHub Introduction Session, from 16:00 - 17:00 London time to walk you through the different steps to make contributions on GitHub.
 
-* Agenda: https://hackmd.io/@turingway/bookdash-may2021-github <--- update this
+* Agenda: https://hackmd.io/\@turingway/bookdash-may2021-github <--- update this
 * Time: 16:00 - 17:00 London time - [see in your time zone](https://arewemeetingyet.com/London/YYYY-MM-DD/HH:MM)
 * Zoom Link: (add link) <--- update this
 
@@ -47,7 +47,7 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 - We will have an artist - Sophie Ong - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
   - (add dates)  <--- update this
   - Please use this hackmd to check to see if other projects have booked to work with the artist:
-- Info to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-may2021-scriberia  <--- update this
+- Info to work with the artist at this hackmd: https://hackmd.io/\@turingway/bookdash-may2021-scriberia  <--- update this
 - See reusable images from previous book dash events: [Zenodo link](https://zenodo.org/record/3332807)
 
 :spiral_note_pad: Book Dash Main Events, DD Month YYYY <--- update this
@@ -55,12 +55,12 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 
 * Intro to The Turing Way & the Book Dash: [Intro slides](ttps://tinyurl.com/bookdash-may21)  <--- update this
 * Shared notes and agenda (basic schedule for each day are given below):
-    * **Day 1, 17 May**: https://hackmd.io/@turingway/bookdash-may2021-day1  <--- update this
-    * **Day 2, 18 May**: https://hackmd.io/@turingway/bookdash-may2021-day2  <--- update this
-    * **Day 3, 19 May**: https://hackmd.io/@turingway/bookdash-may2021-day3  <--- update this
-    * **Day 4, 20 May**: https://hackmd.io/@turingway/bookdash-may2021-day4  <--- update this
-    * **Day 5, 21 May**: https://hackmd.io/@turingway/bookdash-may2021-day5  <--- update this
-* All notes will be linked here for reference after the event: https://hackmd.io/@turingway/bookdash-may2021  <--- update this
+    * **Day 1, 17 May**: https://hackmd.io/\@turingway/bookdash-may2021-day1  <--- update this
+    * **Day 2, 18 May**: https://hackmd.io/\@turingway/bookdash-may2021-day2  <--- update this
+    * **Day 3, 19 May**: https://hackmd.io/\@turingway/bookdash-may2021-day3  <--- update this
+    * **Day 4, 20 May**: https://hackmd.io/\@turingway/bookdash-may2021-day4  <--- update this
+    * **Day 5, 21 May**: https://hackmd.io/\@turingway/bookdash-may2021-day5  <--- update this
+* All notes will be linked here for reference after the event: https://hackmd.io/\@turingway/bookdash-may2021  <--- update this
 
 ## Schedule and Instructions for Each Day
 
@@ -68,7 +68,7 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 
 ### Day 1:  DD Month YYYY <--- update this
 
-Notes: https://hackmd.io/@turingway/bookdash-may2021-day1 <--- update this
+Notes: https://hackmd.io/\@turingway/bookdash-may2021-day1 <--- update this
 
 #### Development & Networking Sessions <--- update this table
 
@@ -83,7 +83,7 @@ Notes: https://hackmd.io/@turingway/bookdash-may2021-day1 <--- update this
 
 ### Day 2: DD Month YYYY <--- update this
 
-Notes: https://hackmd.io/@turingway/bookdash-may2021-day2 <--- update this
+Notes: https://hackmd.io/\@turingway/bookdash-may2021-day2 <--- update this
 
 #### Development & Networking Sessions <--- update this table
 
@@ -98,7 +98,7 @@ Notes: https://hackmd.io/@turingway/bookdash-may2021-day2 <--- update this
 
 ### Day 3: DD Month YYYY <--- update this
 
-Notes: https://hackmd.io/@turingway/bookdash-may2021-day3 <--- update this
+Notes: https://hackmd.io/\@turingway/bookdash-may2021-day3 <--- update this
 
 #### Development & Networking Sessions <--- update this table
 
@@ -128,7 +128,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 
 ### Day 4: DD Month YYYY <--- update this
 
-Notes: https://hackmd.io/@turingway/bookdash-may2021-day4 <--- update this
+Notes: https://hackmd.io/\@turingway/bookdash-may2021-day4 <--- update this
 
 #### Development & Networking Sessions <--- update this table
 
@@ -146,7 +146,7 @@ Notes: https://hackmd.io/@turingway/bookdash-may2021-day4 <--- update this
 *This is a community-share out day with 2 optional development sessions. Please note that the Zoom link for today is different from the rest of the days as a few sessions are open to public.*
 
 #### Development Sessions (optional)
-Notes: https://hackmd.io/@turingway/bookdash-may2021-day5 <--- update this
+Notes: https://hackmd.io/\@turingway/bookdash-may2021-day5 <--- update this
 
 | Time          |    Agenda | Hosts | Attendees |
 | ------------- | ----------| ------|------|
@@ -169,7 +169,7 @@ In this session, all the contributors including the Book Dash attendees will hav
 
 :heavy_plus_sign::arrow_up_small: Pluses and deltas - Final Feedback Document <--- update links
 ---
-**IMPORTANT:** Please take a few minutes to **share your highlights** as a comment under issue [#1973](https://github.com/alan-turing-institute/the-turing-way/issues/1937) and **provide feedback** (pluses and delta: https://hackmd.io/@turingway/bookdash-may2021-feedback) from the event.
+**IMPORTANT:** Please take a few minutes to **share your highlights** as a comment under issue [#1973](https://github.com/the-turing-way/the-turing-way/issues/1937) and **provide feedback** (pluses and delta: https://hackmd.io/\@turingway/bookdash-may2021-feedback) from the event.
 
 _These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._
 
@@ -180,48 +180,48 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ### Participation guidelines
 
-- Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
-- Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
+- Code of Conduct: https://book.the-turing-way.org/community-handbook/coc.html
+- Contribution guideline: https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
 
 ### Communication channels
 
-- Slack Channel: [Invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
-    - New to Slack? [See this quick start guide](https://hackmd.io/@turingway/slack-guide)
-- Mailing list: https://tinyletter.com/TuringWay/
-- Twitter account: https://twitter.com/turingway
+- Slack Channel: [Invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
+    - New to Slack? [See this quick start guide](https://hackmd.io/\@turingway/slack-guide)
+- Mailing list: https://buttondown.email/turingway/
+- X (formerly Twitter) account: https://twitter.com/turingway
 
 ### Acknowledging your contributions to _The Turing Way_
 
-- Contributors Record: https://the-turing-way.netlify.app/afterword/contributors-record.html
-    - [See how we acknowledge our contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)
+- Contributors Record: https://book.the-turing-way.org/afterword/contributors-record.html
+    - [See how we acknowledge our contributors](https://book.the-turing-way.org/community-handbook/acknowledgement.html)
 
 ### GitHub Resources
 
-- GitHub repository: https://github.com/alan-turing-institute/the-turing-way
-- Online Book: https://the-turing-way.netlify.app/welcome
+- GitHub repository: https://github.com/the-turing-way/the-turing-way
+- Online Book: https://book.the-turing-way.org/welcome
 - Impact story: https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science
     - [Short summary](https://www.turing.ac.uk/sites/default/files/inline-images/Turing%20Way%20oner_0.jpg)
-- Open issues: https://github.com/alan-turing-institute/the-turing-way/issues
-- Open Pull Requests: https://github.com/alan-turing-institute/the-turing-way/pulls
-- [Reports from the previous Book Dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash)
+- Open issues: https://github.com/the-turing-way/the-turing-way/issues
+- Open Pull Requests: https://github.com/the-turing-way/the-turing-way/pulls
+- [Reports from the previous Book Dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles:
+**Please read and follow our project [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles:
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
 ### Managing your contributions to the GitHub repository
 
 The tl;dr version for easy reference during dashing:
-1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition.
-    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/main/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the placeholder sentences.
+1. Comment on an [existing issue](https://github.com/the-turing-way/the-turing-way/issues) or open a new issue referencing your addition.
+    * The [issue template](https://github.com/the-turing-way/the-turing-way/blob/main/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the placeholder sentences.
     * Add the ```book-dash-<location>``` label in the column on the right.
 2. [Fork](https://help.github.com/articles/fork-a-repo) the Turing Way repository to your GitHub profile.
 3. Make your changes!
 4. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
     * Open a pull request as early in your contributing process as possible and add the label [WIP] to the title to designate "work in progress".
-    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the placeholder sentences.
+    * The [pull request template](https://github.com/the-turing-way/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the placeholder sentences.
     * Add the ```book-dash-<location>``` label in the column on the right.
     * As you continue to make changes they will automatically be included in your existing pull request.
     * Change [WIP] to [Ready for review] in the pull request title when you are happy for your contribution to be reviewed and merged. :tada:
@@ -229,13 +229,13 @@ The tl;dr version for easy reference during dashing:
 **What types of contributions can you make?**
 
 * Reviewers for your Book Dash application have suggested a few specific topics for each of you
-* You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, and links)
+* You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/the-turing-way/the-turing-way/issues)
+* Proofread [existing chapters](https://book.the-turing-way.org) (check for typos, grammar, and links)
 * Add further information to an existing chapter
 * Suggest topics for new chapters (particularly if you can write them!)
     * A chapter can be minimum 3 paragraphs in length - what can you write 3 paragraphs on?
     * What skills or tools do you wish you had been taught at the start of your research career?
-* Review ```[Ready to review]``` [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
+* Review ```[Ready to review]``` [pull requests](https://github.com/the-turing-way/the-turing-way/pulls)
 * Contribute to discussion in ```[WIP]``` pull requests and issues
 * Incorporate case studies into the book
 * Checklists for specific skill or recommendation
@@ -245,7 +245,7 @@ The tl;dr version for easy reference during dashing:
 
 #### :bell: GitHub Notifications
 
-Click [here](https://github.com/alan-turing-institute/the-turing-way/invitations) to accept your invitation to have write access to *The Turing Way* - this gives you agency to merge your own pull requests (once approved!), review other pull requests, and add labels to issues and pull requests.
+Click [here](https://github.com/the-turing-way/the-turing-way/invitations) to accept your invitation to have write access to *The Turing Way* - this gives you agency to merge your own pull requests (once approved!), review other pull requests, and add labels to issues and pull requests.
 
 #### :no_bell: Turn off these notifications
 

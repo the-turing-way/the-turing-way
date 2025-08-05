@@ -1,7 +1,10 @@
 contact_links:
-  - name: "\u2615 Collaboration Cafe"
-    url: https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html
+  - name: "\U0001F4E3 Give a talk"
+    url: https://github.com/the-turing-way/conferences/issues/new?assignees=&labels=talks-and-workshops%2Cnewsletter&projects=&template=give_a_talk.yml&title=%5BTALK%5D+%3Ctitle%3E
+    about: Resources and checklist for giving a talk about the Turing Way
+  - name: "\u2615 Collaboration cafe"
+    url: https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html
     about: Sign up for mentored sprints and co-working sessions with Turing Way community members
   - name: "\U0001F5E3 All other questions and general chat"
-    url: https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw
+    url: https://slack.the-turing-way.org
     about: Chat with the Turing Way community on Slack

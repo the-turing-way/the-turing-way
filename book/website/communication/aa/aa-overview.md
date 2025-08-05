@@ -45,10 +45,19 @@ Here are two good articles on how we need to move away from the culture of first
 * [No more first author, no more last author by Gretchen Kisher]( https://www.nature.com/articles/d41586-018-06779-2)
 * [Challenges in assessing contributions to reproducible research and open science by Malvika Sharan](https://malvikasharan.github.io/blogs/dora-panel-open-science/).
 
-However, decisions concerning authorship are still central in the minds of most academics and also used as a marker of a projects impact. 
+However, decisions concerning authorship are still central in the minds of most academics and also used as a marker of a project's impact. 
 Therefore, decisions about authorship need to be taken and the two main decisions to make are: who should get authorship on the paper? and what order the names should take? 
 
 Contributions to research projects and how these translate into the authorship of a journal article are tackled in many different ways dependent on what discipline the study is based in, the location of the publication (which journal or publisher is used), the motivation of the project contributors and the number of people involved in the project. 
 The name order is heavily based in a discipline specific tradition of what is understood by that order and this can create tension when new research collaborations are set up.
+
+```{figure} ../../../figures/acknowledge-authors.* 
+---
+height: 500px
+name: acknowledge-authors
+alt: We need to move away from the concept of 'authorship' (depicted as one person supported by four unindentifiable figures) to acknowledging contributors - represented by lots of visible figures representing investigation, conceptualisation, data curation, formal analysis, and funding acquisition. 
+---
+Acknowledging contributors. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
 
 There is a growing trend pushing against more traditional ideas of authorship; in the number of authors and their order, and that authorship should reflect the contributions of the whole research team or community. Such an inclusive authorship model is hard to achieve and must be planned at the beginning of any project so that all contributions are recorded.

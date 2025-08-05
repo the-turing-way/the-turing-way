@@ -44,7 +44,7 @@ Project Binder provides a user with the following infrastructure:
 
 - some hardware to execute code, usually a server hosted in the cloud but can be on-premise hardware too;
 - a computational environment containing:
-  - the approriate software,
+  - the appropriate software,
   - any extra package dependencies,
   - any required input data,
   - and a copy of the code itself (Notebooks or scripts);
@@ -55,10 +55,14 @@ There is a **free and public** version of this interface running at [**mybinder.
 
 The cartoon below, by Juliette Taka, demonstrates one workflow a that scientist using Binder might adopt.
 
-```{figure} ../figures/binder-comic.png
+```{figure} ../../figures/binder-comic.*
 ---
 name: binder_comic
-alt: An illustration of the steps a person can take to create a binderized project.
+alt: Illustration showing the steps Jane takes to make her computational research reproducible using Jupyter Notebooks and Binder.
+Step 1: Jane, seated at her computer, writes a paper based on her experiments. She describes her work in a Jupyter Notebook, combining prose, code, visualisations, and additional resources (for example, source code, data, media). She wants others to be able to reproduce, check, and improve her calculations.
+Step 2: She publishes her notebook and resources to a public repository (for example, GitHub, GitLab, Bitbucket).
+Step 3: She makes the repository Binder-ready by adding configuration files that describe the software environment needed to run the notebook.
+Step 4: The globe is surrounded by people accessing the notebook—everyone can now run and reproduce her computations from anywhere.
 ---
 Figure credit: [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 ```
@@ -123,10 +127,10 @@ And as has been mentioned, mybinder.org is a completely public service and you s
 However, mybinder.org does run an add-on called [`jupyter-offlinenotebook`](https://github.com/manics/jupyter-offlinenotebook) which provides a download button to save your notebooks locally, _even if your browser has lost its connection with the cloud infrastructure that is providing the compute!_
 This means you can save your progress locally, update your repository with your saved notebooks, and relaunch your Binder with the updated notebooks.
 
-```{figure} ../figures/binder_notebook_banner.jpg
+```{figure} ../../figures/binder_notebook_banner.*
 ---
 name: binder_notebook_banner
-alt: A screenshot of the control panel of a Jupyter Notebook with a download button highlighted by a purple rectangle.
+alt: Screenshot of a Jupyter Notebook interface running on mybinder.org. The “Download” button near the top right is highlighted in purple. This button allows users to save their notebook file locally. The notebook is titled “visualise,” and the interface shows standard Jupyter toolbar options, including file operations, kernel selection, and resource usage (147.1 MB / 2 GB). 
 ---
 Using this "Download" button in a Jupyter Notebook running on mybinder.org will allow you to save your notebooks locally, even after the Binder instance has been disconnected from computational resources.
 ```
@@ -155,4 +159,4 @@ Remember, mybinder.org is an entirely public service and under no circumstances 
 (binder-segue)=
 ## How to create a Binder-ready project
 
-The next chapter contains a [Zero-to-Binder tutorial](z2b) that will guide you through creating your first Binder-ready project on GitHub.
+The next chapter contains a [Zero-to-Binder tutorial](#z2b) that will guide you through creating your first Binder-ready project on GitHub.

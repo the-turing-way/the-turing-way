@@ -5,11 +5,11 @@
 (cm-dif-articles-micropublishing-what)=
 ## What is Micropublishing?
 
-A micropublication can be thought of as a mini research article - they are a small, simple article describing a single result or claim without a broader narrative. 
+A micropublication can be thought of as a mini research article - they are a small, simple articles describing a single result or claim without a broader narrative. 
 They are also referred to as a brief or short report. 
 
 The idea behind micropublishing is to get more research published and out in the open so it can be used by other researchers. 
-For example during a research lifecycle, you may get small results from pilot experiments that won't fit the narrative of your final traditonal research article, therefore micropublishing allows you to get this kind of thing published.
+For example during a research lifecycle, you may get small results from pilot experiments that won't fit the narrative of your final traditional research article, therefore micropublishing allows you to get this kind of thing published.
 
 Micropublications gained more popularity during the COVID-19 pandemic (see blog here- https://elifesciences.org/labs/77a64938/outbreak-a-micropublishing-journal-for-collaborative-covid-19-research) where there was an emphasis on getting data and results out, no matter how small. 
 
@@ -43,6 +43,6 @@ You may want to include the same sections you would include in a research articl
 (cm-dif-articles-micropublishing-review)=
 ## How do you review Micropublications?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 For micropublications you can review them in a similar manner to how you would review a research article.

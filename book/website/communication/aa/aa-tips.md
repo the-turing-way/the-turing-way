@@ -45,7 +45,7 @@ It is not good practice to wait until you have finished writing a paper to have 
     * This needs to include a formal statement about authorship, different peoples roles, when it will be reviewed and how it will be reviewed.
 
 * Make sure that every member of the project has signed an authorship agreement at the beginning of the project or this agreement/vote has been recorded in meeting notes.
-    * Someone should be assigned to oversee this and also to get this agreement from any new member that join during the project.
+    * Someone should be assigned to oversee this and also to get this agreement from any new members that join during the project.
 
 * Record a time for the policy to be reviewed, who will do it and what will happen in this review. 
 
@@ -60,7 +60,7 @@ It is likely that you will have new members join your project at different stage
 ## Revisit the authorship policy before you start to write each article
 Each article from a project may not have the same authorship due to the specialist nature of certain types of publications and different aspects of a project. 
 
-* To make credit for the project more equitable, it is worth considering what publications can be written to give chance for different team members to be first author.  
+* To make credit for the project more equitable, it is worth considering what publications can be written to give a chance for different team members to be first author.  
 You may also want to have some publications that give authorship to the whole team equally. 
     * Junior members of the team will gain more advantage from first author papers than more senior members. It will have an impact on their career status and job prospects.
     * Sharing out the first author role will also distribute the workload more fairly throughout your team as the first author is responsible for a large part of the work involved in writing and administering the paper. 

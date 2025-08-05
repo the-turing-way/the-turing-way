@@ -1,7 +1,8 @@
 [build]
-  base = "book/website"
-  command = "pip install -r requirements.txt && jupyter-book build ."
-  publish = "book/website/_build/html"
+base = "book/"
+command = "make deps && make ci"
+environment = { PYTHON_VERSION = "3.13" }
+publish = "website/_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
 [context.deploy-preview]
@@ -13,21 +14,91 @@ else
 fi
 '''
 
-# A redirect rule with all the supported properties
+# Enable other sites to access and cross-reference the-turing-way content dynamically
+[[headers]]
+  for = "/*"
+  [headers.values]
+    access-control-allow-origin = "*"
+
+# Wildcard redirect for old book url
 [[redirects]]
-  from = "https://the-turing-way.netlify.app"
-  to = "https://the-turing-way.netlify.app/welcome"
+  from = "https://the-turing-way.netlify.app/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+# Subdomain redirects
+# Wildcard redirect for www.book to book
+[[redirects]]
+  from = "https://www.book.the-turing-way.org/*"
+  to = "https://book.the-turing-way.org/:splat"
+  status = 301
+  force = true
+
+# Redirects for the start page
+[[redirects]]
+  from = "https://the-turing-way.org/*"
+  to = "https://the-turing-way.start.page/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.the-turing-way.org/*"
+  to = "https://the-turing-way.start.page/"
+  status = 302
+  force = true
+
+# Other helper redirects
+[[redirects]]
+  from = "https://git.the-turing-way.org/*"
+  to = "https://github.com/the-turing-way"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://news.the-turing-way.org/*"
+  to = "https://buttondown.email/turingway/"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://slack.the-turing-way.org/*"
+  to = "https://join.slack.com/t/theturingway/shared_invite/zt-25ng40psm-rcaEBwhrEzsV4hhR6dz5uA"
+  status = 302
+  force = true
+
+# Redirects for old welcome/home/index page urls to current
+[[redirects]]
+  # index.html no longer exists using Jupyter Book 2
+  # Previously the home page redirects pointed to index.html
+  from = "https://book.the-turing-way.org/index.html"
+  to = "https://book.the-turing-way.org/"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://the-turing-way.netlify.app/welcome"
+  to = "https://book.the-turing-way.org/"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://the-turing-way.netlify.app/welcome.html"
+  to = "https://book.the-turing-way.org/"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
 [[redirects]]
   from = "https://the-turing-way.netlify.app/introduction/*"
-  to = "https://the-turing-way.netlify.app/welcome"
+  to = "https://book.the-turing-way.org/"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
+# Redirects for old chapter top level pages
 [[redirects]]
   from = "/reproducible-research"
   to = "/reproducible-research/reproducible-research"
@@ -70,149 +141,17 @@ fi
   status = 301
   force = true
 
-[[redirects]]
-  from = "/reproducibility/01/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/02/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "reproducibility/03/definitions"
-  to = "/reproducible-research/overview/overview-definitions"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/04/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/04/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/open_research/*"
-  to = "/reproducible-research/open"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
+# Redirects for moved chapters
 [[redirects]]
   from = "/version_control/*"
-  to = "/reproducible-research/vcs"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/licensing/*"
-  to = "/reproducible-research/licensing"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/credit/*"
-  to = "/reproducible-research/credit"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/rdm/*"
-  to = "/reproducible-research/rdm"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducible_environments/*"
-  to = "/reproducible-research/renv"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/code_quality/*"
-  to = "/reproducible-research/code-quality"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/testing/*"
-  to = "/reproducible-research/testing"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reviewing/*"
-  to = "/reproducible-research/reviewing"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/continuous_integration/*"
-  to = "/reproducible-research/ci"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/make/*"
-  to = "/reproducible-research/make"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/research_compendia/*"
-  to = "/reproducible-research/compendia"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/risk_assessment/*"
-  to = "/reproducible-research/risk-assess"
+  to = "/reproducible-research/vcs/:splat"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
 [[redirects]]
   from = "/binderhub/*"
-  to = "/reproducible-research/binderhub"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/collaborating_github/*"
-  to = "/communication/communication"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/open-source-comms/* "
-  to = "/communication/os-comms"
+  to = "/reproducible-research/binderhub/:splat"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true

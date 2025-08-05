@@ -26,7 +26,7 @@ The only exception to this naming scheme is CC0, which will be introduced in the
 |---|---|
 BY | Creator must be credited
 SA | Derivatives or redistributions must have identical license
-NC | Only non-commerical uses are allowed
+NC | Only non-commercial uses are allowed
 ND | No derivatives are allowed
 
 
@@ -80,7 +80,7 @@ CC licenses also cover copyrights and other neighbouring rights.
 
 Another difference is the availability of a standardised Community Norms document with the PDDL.
 The lack of such a document with CC0 means that you have to rely on community norms, which may often be unspoken or unwritten and can vary from community to community, to ensure fair attribution.
-A comparison between the PDDL and CC0 is provided [here](https://opendatacommons.org/faq.1.html).
+A comparison between the PDDL and CC0 is provided [here](https://opendatacommons.org/faq/).
 
 (rr-licensing-data-options)=
 ## Other Licensing Options
@@ -92,6 +92,6 @@ Another example is the [Open Government Licence](http://www.nationalarchives.gov
 
 The [Data Curation Center (DCC) guide](https://www.dcc.ac.uk/guidance/how-guides/license-research-data) {cite:ps}`ball2011license` on how to license research data expatiates on the licenses discussed in this chapter, and gives more information about [Prepared Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-6000), [Bespoke Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-7000), [Multiple Licensing](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000) and [Mechanisms for Licensing Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-14000).
 
-If you would like to read more about the challenges and finer points of licensing, [this article](https://research.okfn.org/avoiding-data-use-silos/) is a great resource to get you started.
+If you would like to read more about the challenges and finer points of licensing, [this article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3320472) is a great resource to get you started.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

@@ -1,8 +1,0 @@
-config:
-  BinderHub:
-    # connect image registry and set image prefix
-    use_registry: true
-    image_prefix: <docker>/<prefix>-
-
-    # jupyterhub IP address
-    #hub_url: http://<jupyter-ip>

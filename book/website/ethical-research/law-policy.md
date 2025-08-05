@@ -13,7 +13,7 @@ Ethical work should be grounded in human rights, but sometimes require more guid
 
 Laws and policies are made by people, and they are subject to negotiations and exercises of power: they can also be changed.
 
-```{figure} ../figures/human-rights.jpg
+```{figure} ../../figures/human-rights.*
 ---
 name: human-rights
 alt: Image shows two people sitting on the ground. They are smiling and looking at the concrete wall called 'human rights' that is secured by heavy chain and lock. Behind the wall there are several monsters depicting human right violators and harmful elements of society that can breach laws and policy in the absence of this protective wall.
@@ -22,7 +22,7 @@ Illustration about human rights, law and policies.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
-## Background and Motivation
+## Motivation and Background
 
 It's useful to know how the ethics that guide your work are underpinned by other frameworks, including law, policy, and human rights.
 Knowing the law, policy, and human rights that underpin research ethics will give you a deeper understanding of how to conduct ethical research.

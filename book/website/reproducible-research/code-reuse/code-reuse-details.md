@@ -44,7 +44,7 @@ Make sure you attach a license to your code and specify how you want to be cited
 Consider using a permissive license that allows for reuse.
 Also, you should choose a license which is compatible with the licenses of libraries or packages your software depends on.
 
-**See also**: {ref}`rr-licensing-software`, {ref}`rr-licensing-software-permissive`, {ref}`rr-licensing-compatibility`
+**See also**: {ref}`rr-licensing`, {ref}`rr-licensing-floss`, {ref}`rr-licensing-compatibility`
 
 ### 6. Make sure it is citable
 
@@ -63,7 +63,7 @@ If the software depends on any sort of data, the data should be available
 Make sure you (or others) can re-use it to do the thing you did, but with different data/different parameters
 
 ### 1. Remove hardcoded bits and make the code modular
-You do not want to have details specific of your data or analysis parameters hardcoded into the code.
+You do not want to have details specific to your data or analysis parameters hardcoded into the code.
 If something can become a reusable function, separate it from the hardcoded parameters and turn it into something (re)usable on its own.
 Make the modules pure: given the same input, a pure function always returns the same value.
 Instead of specifying file paths inside the scripts, consider passing them as command line arguments for a more portable and general and reusable script.
@@ -95,12 +95,12 @@ All this can be carefully documented for another human to re-do all the same exa
 ## Extendable and Modifiable Recommendations
 Make sure others can build on your code to extend it and improve it.
 
-### 2. Make sure your code is readable by humans
+### 1. Make sure your code is readable by humans
 It often pays more to write code for other humans so they can read it (including your future self).
 A cryptic oneliner with obscure variable names is not any faster or more efficient than splitting the one liner into multiple steps with readable variable names that make sense.
 Furthermore, using coding conventions will help other readers.
 
 **See also**: {ref}`rr-code-style-and-formatting`, {ref}`rr-code-quality-advantages`
 
-### 3. Make sure comments are present
+### 2. Make sure comments are present
 Write comments before writing the actual code. Imagine that somebody could just read the comments and skip all the code bits between comments and get a full picture of what is going on as if they read the whole code.

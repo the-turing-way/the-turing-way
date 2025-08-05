@@ -2,15 +2,18 @@
 
 # Cross-Referencing Sections and Chapters
 
-We recommend using the cross-referencing style as described in the [Jupyter Book](https://jupyterbook.org/content/citations.html) for chapters or files, and different contents of chapters such as sections and figures.
+We recommend using targets as described in the [MyST Markdown documentation](https://mystmd.org/guide/cross-references#targets-and-labels-for-referencing).
+These look like `(my-label)=`, where `my-label` is the label of the target.
+It is a flexible system which allows you to label many elements of a document including files, headings, lists, figures and even paragraphs.
 
-In Jupyter Book, labels are a way to add tags to parts of your content or a file that you can reference later on.
-This is very helpful because you can insert labels to other parts of your book without worrying about the relative or absolute paths of the file.
+You can use labels to create a reference to your target in any part of the book.
+This is very helpful because you can make references without worrying about the relative or absolute paths of the file.
+Also, if the element which you are referencing moves, your cross-reference will still work as long as the label is unchanged.
 
 In this document, we have provided examples to describe how you can use labels for different chapters or part of chapters within the book.
 We have also defined a naming convention for labels for _The Turing Way_ to ensure that the locations of these labels in the book are identifiable by their name.
 
-## Labels in Jupyter Book
+## Labels and references
 
 To add a label for a section or a chapter/subchapter, use a syntax of the following pattern before the element you wish to label:
 
@@ -19,18 +22,18 @@ To add a label for a section or a chapter/subchapter, use a syntax of the follow
 # The thing that I want to label
 ```
 
-You can insert cross-references to the labels of sections in your file with the following syntax:
+There are a number of ways to reference a label.
+These are described in the [Myst Markdown documentation](https://mystmd.org/guide/cross-references#reference-syntax).
+We prefer the short syntax, which will automatically generate the link text.
+These cross references look like `[](#ch-style-crossref)`, which renders as [](#ch-style-crossref).
+You can change the link text by writing in the first set of square brackets.
+For example, `[My custom cross-reference](#ch-style-crossref)` renders as [My custom cross-reference](#ch-style-crossref).
+Other styles can be used if you want to customise the link text or use another style.
 
-```
-{ref}`my-label-name`
+You will also see references using the older roles like ``{ref}`my-label` `` in the book.
+Cross-references using this style will still work but are not prefered.
 
-```
-
-Similarly, you can use labels for cross referencing chapters or subchapters.
-
-Please see details in the examples given below.
-
-### _The Turing Way_ naming convention for the labels
+## _The Turing Way_ naming convention for labels
 
 We recommend using the following naming standard for labels, which will allow different authors and contributors of _The Turing Way_ to intuitively identify the locations of the files where these labels have been created.
 
@@ -59,90 +62,21 @@ We have created a label for that chapter called `rr-overview` by adding the labe
 # Overview
 ```
 
-Similarly, for different subchapters we recommend extending the label name with another placeholder for subchapter's name.
+Similarly, for different subchapters we recommend extending the label name with another placeholder for the subchapter's name.
 For example, `rr-overview-resources` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources).
 This label can be created by using the following directive in the corresponding file:
 
 ```
-(sectioninitials-filename)=
+(rr-overview-resources)=
 # Resources
 ```
 
-In the same manner, for different sections in a subchapters we recommend extending the label name with another placeholder.
+In the same manner, for different sections in a subchapter we recommend extending the label name with another placeholder.
 This can be chosen by the authors, which should be a short yet sensible name for the section where the label is being created.
-For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterails).
+For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterial).
 This label can be created in the corresponding file for the suggested section name using the following directive:
 
 ```
-(sectioninitials-filename-section)=
+(rr-overview-resources-addmaterial)=
 ## Additional Material
 ```
-
-### Examples of cross-referencing
-
-**Examples for cross-referencing sections of chapters and subchapters**
-
-We will use examples for the chapters in "Reproducible Research" guide located in the `book/website` directory.
-
-**_Case 1_**: When you cross-reference a section of the chapter within the same file _before_ a label has been created.
-
-Taking the previous example of `rr-overview-resources-addmaterial`, we can use this label to cross-reference
-it in an earlier section within the same file using the following:
-
-```
-{ref}`rr-overview-resources-addmaterial`
-```
-
-This will appear in the online book like so: {ref}`rr-overview-resources-addmaterial`.
-
-**_Case 2_**: When you cross-reference a section of the chapter within the same file _after_ a label has been created.
-
-In the same subchapter "Resources", we have created a label `rr-overview-resources-reading` for the section "Further Reading".
-We can cross-reference it in a later section within the same file using the following:
-
-```
-{ref}`rr-overview-resources-reading`
-```
-
-It will appear in your chapter like this: {ref}`rr-overview-resources-reading`.
-
-**_Case 3_**: When you cross-reference a section of a chapter in a different file (chapter) before or after a label has been created.
-
-In the subchapter "Definitions" of the "Overview" chapter, we have created a label
-`rr-overview-definitions` for the section "Table of definitions for reproducibility".
-
-We can cross-reference it in a different subchapter or chapter.
-In this case, let's cross-reference it in the landing (main) page of the "Overview" chapter by using the following:
-
-```
-{ref}`rr-overview-definitions`
-```
-
-It will appear in your chapter like this: {ref}`rr-overview-definitions`.
-
-Though we are demonstrating this example for subchapters within the same chapter ("Overview"), the similar syntaxes can be used for cross-referencing in other chapters within the book.
-
-**Examples for Cross referencing chapters and subchapters**
-
-**_Case 4_**: Cross-referencing a chapter or subchapter in a different file (chapter/subchapter) before or after a label has been created.
-
-For example, in the landing page of the chapter "Open Research", we have created a label `rr-open`.
-We can cross-reference it in the section "What to learn next?" in a different subchapter "Resources" of the "Overview" chapter by using the following:
-
-```
-{ref}`rr-open`
-```
-
-It will appear in your chapter like this: {ref}`rr-open`.
-
-Though we are demonstrating this example for cross-referencing chapters and subchapters across the book, the same syntax can be used for cross-referencing subchapters within the same chapter.
-
-### Providing an alternative title for the references
-
-For any of the above mentioned references, you can provide an alternative title while cross referencing by adding the title before the label as shown in this example:
-
-```
-{ref}`Chapter on Open Research<rr-open>`
-```
-
-here we are giving an alternative title to the 'Open Research chapter', which will appear in your file like this: {ref}`Chapter on Open Research <rr-open>`

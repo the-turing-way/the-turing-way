@@ -11,7 +11,7 @@ We are incredibly grateful to our community members who are the readers, co-auth
 
 Thank you for joining the incredible journey of _The Turing Way_!
 
-```{figure} ../figures/community.jpg
+```{figure} ../../figures/community.*
 ---
 height: 400px
 name: community
@@ -20,47 +20,13 @@ alt: A garden full of folks working on different parts of the garden. Someone is
 *The Turing Way* community illustrated as a garden. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-## License for The Turing Way book series
+## Wondering where to start?
 
-All content in this book series is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast) (CC BY 4.0) license.
+Please follow {ref}`ch-contributing-guideline` and {ref}`ch-coc` to participate in and contribute to _The Turing Way_.
 
-The original files can be accessed online on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website).
+Read the {ref}`fw-community` for details about community and community roles.
 
-## Useful links
+Find information about the members involved in the governance of _The Turing Way_, including the project delivery team in {ref}`fw-governance-roles`.
+An overview of how they collaborate across the different levels of governance in the {ref}`fw-ways-of-working` documentation.
 
-Visit the Turing Way GitHub repository at [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) to find out what we are working on.
-Start contributing to the book by reading our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md).
-
-If you are new and would like to connect with us, join our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
-We also host bimonthly [online Collaboration Cafés](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) to cowork online with our community members online.
-This would be the right place to get opinions from other community members and request their feedback and review on your work.
-
-For specific questions or concerns, you can contact our community manager **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-Alternatively, you can contact the lead investigator **Kirstie Whitaker** by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-
-To stay updated with our community events, subscribe to [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
-To receive monthly newsletters, [join our mailing list](https://tinyletter.com/TuringWay)
-
-We are also on [Twitter](https://twitter.com/turingway), follow us for daily updates.
-
-### Wondering where to start?
-
-Here are a few suggestions for a good first contributions:
-
-- Fix a typo in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/alan-turing-institute/the-turing-way).
-- Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
-- Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
-- Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
-
-## The Turing Way Contact Points
-
-The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about).
-She leads the Tools, Practices and Systems Research Programme at [The Alan Turing Institute](http://turing.ac.uk).
-
-The Community Manager is [Malvika Sharan](https://about.me/malvikasharan). She is a research associate at the [Alan Turing Institute](http://turing.ac.uk).
-
-You can contact them on the community Gitter Channel [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way).
-You can write an email to Malvika Sharan for any question of query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-In case you want to directly reach Kirstie, email her at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-
-For contact details for Code of Conduct related query and reporting, please see the {ref}`Code of Conduct file <ch-coc>` in this Community Handbook.
+For any questions or concerns, please contact the {ref}`project delivery team<fw-governance-roles>`.

@@ -4,7 +4,7 @@ Try reading the chapter on reproducible computational environments and then the 
 
 [TutorialsPoint](https://www.tutorialspoint.com/software_testing/) has a number of useful tutorials related to testing, as does the [Turing Institute](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html). It is also worth looking at [softwaretestingfundamentals.com](http://softwaretestingfundamentals.com).
 
-## Materials used: How this will help you/ why this is useful
+## Materials used: Motivation and Background
 
 - [Talk by Chrys Woods](https://drive.google.com/file/d/1CBTAhCVixccui1DjeUT13qh6ga5SDXjl/view) [**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**](https://chryswoods.com/main/copyright.html)
 - [Turing testing course basics](https://alan-turing-institute.github.io/rsd-engineeringcourse/ch03tests/01testingbasics.html) **Creative Commons share and remix**

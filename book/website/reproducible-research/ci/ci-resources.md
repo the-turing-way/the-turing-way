@@ -14,7 +14,7 @@
   - Includes code to install any dependencies required to run the project in a before_install step
   - Contains a script to run the project tests
 - Commit the `ci.yml` file to the project's GitHub repository
-- Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible
+- Each time a new commit is pushed CI will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible
 
 ## What to learn next
 

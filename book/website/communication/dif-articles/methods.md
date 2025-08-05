@@ -28,13 +28,13 @@ Methods papers make your method more discoverable to others in your field and be
 
 Methods papers can vary in format. Overall you want to inform readers exactly what was done - you may include preliminary work, how data was generated/collected, how the data was analysed, validation of the method, and details about robustness of the method.
 
-For any of these sections, it may be useful to add step-by-step processes, rationale and as much as detail as possible such as settings and conditions for your experiment, specific software you used, specific reagents and resources used.
+For any of these sections, it may be useful to add step-by-step processes, rationale and as much detail as possible such as settings and conditions for your experiment, specific software you used, specific reagents and resources used.
 
 
 (cm-dif-articles-methods-review)=
 ## How do you review a Methods Paper?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 When reviewing a methods paper specifically it may be useful to focus on (adapted from [F1000Research's guidance](https://f1000research.com/for-referees/guidelines)):
 * Is the rationale for developing the new method (or application) clearly explained?
