@@ -10,11 +10,11 @@ Office hours were a pilot community call that was trialed from Sept 2022 to Marc
 
 This meeting space was trialled after the need was established to create a space where newcomers to the project could learn more about the community (before joining a collaboration cafe or coworking call - two other types of community calls within _The Turing Way_ community). Two hour slots were scheduled weekly on Friday afternoons (UK time), which were advertised as spaces that community members or newcomers could attend to learn more about the project or ask any question they might have.
 
-This space was created as an informal space to ask questions about the project, join other beginnings in the project, or as a space for informal coffee chats. They were modeled to be one-on-one online help sessions to directly help new community members as they learn more about _The Turing Way_ project. No booking or prior planning was required, and no attendence was tracked to ensure psychological safety and informality of the call.
+This space was created as an informal space to ask questions about the project, join other beginnings in the project, or as a space for informal coffee chats. They were modeled to be one-on-one online help sessions to directly help new community members as they learn more about _The Turing Way_ project. No booking or prior planning was required, and no attendance was tracked to ensure psychological safety and informality of the call.
 
 In 2022 and 2023, these calls were hosted by _The Turing Way_ Community Manager, Anne Lee Steele.  
 
-Similar to other community calls in 2023, the information for this call was hosted on HackMD: [https://hackmd.io/@turingway/office-hours](https://hackmd.io/@turingway/office-hours)
+Similar to other community calls in 2023, the information for this call was hosted on [HackMD](https://hackmd.io/@turingway/office-hours).
 
 ## About "office" or "drop-in" hours
 
@@ -28,9 +28,9 @@ _Last updated: February 2024_
 
 After trialing office hours between the months of September 2022 and March 2023, these calls were retired. This was due to the following reasons:
 
-1. **Low attendence**: In the 6 months that the cals were organised, they were not well-attended. While the calls were advertised across the Slack workspace and social media websites, there was usually no more than one attendee in each office hour, with some office hours not being attended by any community member at all. In these cases, the space was re-organised for meetings  (or alternatively: the space was re-organsed)
+1. **Low attendance**: In the 6 months that the cals were organised, they were not well-attended. While the calls were advertised across the Slack workspace and social media websites, there was usually no more than one attendee in each office hour, with some office hours not being attended by any community member at all. In these cases, the space was re-organised for meetings  (or alternatively: the space was re-organsed)
 
-2. **Unclear purpose**: Existing documentation around office hours and/or drop-in hours suggest that such calls are usually better attended if there is a clear purpose for attendence, such as a specific question (see: [Think Student](https://thinkstudent.co.uk/what-is-a-drop-in-session-at-uni/), [Small Pond Science](https://smallpondscience.com/2016/03/21/what-are-office-hours-for/)). Because of the 'question-and-answer' format, they are not 
+2. **Unclear purpose**: Existing documentation around office hours and/or drop-in hours suggest that such calls are usually better attended if there is a clear purpose for attendance, such as a specific question (see: [Think Student](https://thinkstudent.co.uk/what-is-a-drop-in-session-at-uni/), [Small Pond Science](https://smallpondscience.com/2016/03/21/what-are-office-hours-for/)). Because of the 'question-and-answer' format, they are not 
 
 3. **Need for structured space**: During the May 2023 and November 2023 Book Dashes that followed this trial, the team received positive feedback about the "Github workshops" that were organised around the event (which were open to all to attend) worked well as a hands-on jumping off point for the project.  
 

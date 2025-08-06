@@ -21,10 +21,12 @@ project:
       ref: main
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
+    - plugins/github.mjs
   bibliography:
     - references.bib
   references:
     myst-spec: https://mystmd.org/spec
+    myst-guide: https://mystmd.org/guide/
   toc:
     - file: index.md
     - file: foreword/foreword.md
@@ -158,6 +160,8 @@ project:
               title: Finding Data
             - file: reproducible-research/rdm/rdm-dmp.md
               title: Data Management Plan
+            - file: reproducible-research/rdm/rdm-smp.md
+              title: Software Management Plan
             - file: reproducible-research/rdm/rdm-fair.md
               title: The FAIR Principles and Practices
             - file: reproducible-research/rdm/rdm-personal.md
@@ -482,6 +486,8 @@ project:
           children:
             - file: communication/open/education.md
               title: Open Education
+            - file: communication/open/embedding-ds.md
+              title: Embedding Data Science Across Disciplines
         - file: communication/blogs.md
           title: Blogs for Research Communication
           children:
@@ -489,11 +495,13 @@ project:
               title: Building a Webpage for Blogs
             - file: communication/blogs/blogs-personal-stories.md
               title: Personal stories - Blogs
-        - file: communication/personal-websites.md
-          title: Personal Websites
+        - file: communication/personal.md
+          title: Communication of Personal Skills and Research
           children:
-            - file: communication/personal-websites/personal-website-framework.md
-              title: Using Webpage Frameworks
+            - file: communication/personal/personal-cv.md
+              title: Narrative CV
+            - file: communication/personal/personal-website.md
+              title: Personal Website
         - file: communication/lay-summaries.md
           title: Lay Summaries
           children:
@@ -893,8 +901,8 @@ project:
               title: Glossary
             - file: community-handbook/style/style-blocks.md
               title: Special Blocks
-            - file: community-handbook/style/style-custom-styling.md
-              title: Custom Styling
+            - file: community-handbook/style/style-custom-roles-and-directives.md
+              title: Custom Roles and Directives
             - file: community-handbook/style/style-consistency.md
               title: Maintaining Consistency
               children:
@@ -954,6 +962,8 @@ project:
               title: Redirects
             - file: community-handbook/infrastructure/infrastructure-pathways.md
               title: Pathways
+            - file: community-handbook/infrastructure/infrastructure-plugins.md
+              title: MyST Plugins
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:

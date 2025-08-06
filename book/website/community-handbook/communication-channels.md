@@ -8,7 +8,7 @@ In addition the project delivery team makes use of various communication platfor
 
 Given the diverse range of formal and informal projects managed by both the project delivery team and community members, the communication within _The Turing Way_ community can be broadly categorised as synchronous and asynchronous.
 
-## GitHub for Synchronous and Asynchonous Communications
+## GitHub for Synchronous and Asynchronous Communications
 
 [GitHub Issue](https://github.com/the-turing-way/the-turing-way/issues) and [Github discussions](https://github.com/the-turing-way/the-turing-way/discussions) 
 serve as a dynamic space where updates, queries, and discussions happen. 

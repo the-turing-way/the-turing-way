@@ -1,4 +1,4 @@
-(glossary)=
+(aw-glossary)=
 
 # Glossary
 
@@ -119,12 +119,12 @@ Corresponding author
 : The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
 
 Creative Commons
-: Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
+: Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can reuse it.
   This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
   You can read more about copyright and licensing in {ref}`the chapter on licensing<rr-licensing>`.
   The 'CC0' is a public domain dedication waiving the copyright and anyone to use the work as they see fit.
   There are a number of variants on the creative license which use the copyright on the work to stipulate terms on which it can be re-used.
-  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
+  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial reuse (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
   The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
 
 CRediT Taxonomy
@@ -397,10 +397,10 @@ Open access publishing (libre)
 : Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
 Open core
-: A model for the monetisation of software where the 'core' compenents are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
+: A model for the monetisation of software where the 'core' components are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
 
 Open data
-: Documenting and sharing research data openly for re-use.
+: Documenting and sharing research data openly for reuse.
 
 Open educational resources
 : Making educational resources publicly available to be re-used and modified.
@@ -408,7 +408,7 @@ Open educational resources
 Open license
 : A license is a document that specifies what can and cannot be done with a work.
   It grants permissions and states restrictions.
-  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  Broadly speaking, an open license is one that grants permission to access, reuse and redistribute a work with few or no restrictions.
   (See {ref}`licensing<rr-licensing>` for more details)
 
 Open notebooks

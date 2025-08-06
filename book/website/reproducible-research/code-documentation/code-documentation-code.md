@@ -3,7 +3,7 @@
 
 It is a good practice to document the source code of software regardless of how time consuming it may be. 
 The goal of code documentation is to provide context and explanations for the source code. 
-This way others can understand why a piece of software exists, how it was built and how to use it or re-use it. 
+This way others can understand why a piece of software exists, how it was built and how to use it or reuse it.
 
 ## Extended Software Documentation
 
@@ -23,9 +23,9 @@ The system distinguish between four types of documentation: tutorial, how-to gui
 For example, how to navigate the graphical interface of software $X$.
 * **How-to guides** describe the specific steps required to solve particular problems with the software in question.
 For example, how to find research dataset $A$ in the data archive $B$, using software $X$.
-* **Explanations** aim to create understading by providing context to relevant topics for the software.
+* **Explanations** aim to create understanding by providing context to relevant topics for the software.
 For example, if software $X$ implements a [quickSort algorithm](https://www.geeksforgeeks.org/quick-sort/) to find a value in a lists of integers,
-it might be relevent to include an explanation about why that algorithm was chosen and how such algorithm operates.
+it might be relevant to include an explanation about why that algorithm was chosen and how such algorithm operates.
 * **Reference guides** describe the code and how to use it. 
 They should include  descriptions of functions, fields, attributes, methods and APIs, and how to use them.
 For example, if software $X$ includes a function $S$ that adds two numbers. 
@@ -55,9 +55,9 @@ Code comments can be included as *block comments* or *inline comments*.
 They are used to explain what some pieces of code do, or to explain why something in the code was done in a particular way. 
 A good practice is to comment only what is necessary, and not to aim to comment each single line of code. 
 
-How to write code comments depends on the programming language and the codinging styles that one wants to follow. These are some refereces relevant for writting code comments.
+How to write code comments depends on the programming language and the codinging styles that one wants to follow. These are some references relevant for writing code comments.
 
-- [Best practices for writting code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
+- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 - [Docstrings Converntions for Python](https://peps.python.org/pep-0257/)
 - [Creating docstrings in R](https://josephcrispell.github.io/2021/07/26/creating-R-docstring.html)
 - {ref}`pd-code-styling-readability`
