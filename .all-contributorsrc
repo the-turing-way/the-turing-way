@@ -16,145 +16,35 @@
   "commitConvention": "none",
   "commitType": "docs",
   "types": {
-	"a11y": {
+    "a11y": {
       "symbol": "♿️",
       "description": "Accessibility",
-	  "link": "[<%= symbol %>],"
-    },
-    "audio": {
-      "symbol": "🔊",
-      "description": "Audio",
-	  "link": "[<%= symbol %>],"
-    },
-    "blog": {
-      "symbol": "📝",
-      "description": "Blogposts",
-	  "link": "[<%= symbol %>],"	  
-    },
-    "business": {
-      "symbol": "💼",
-      "description": "Business development",
-	  "link": "[<%= symbol %>],"
+	  "link": "https://book.the-turing-way.org/afterword/subprojects.html#accessibility-working-group"
     },
     "content": {
       "symbol": "🖋",
       "description": "Content",
-	  "link": "[<%= symbol %>],"
-    },
-    "data": {
-      "symbol": "🔣",
-      "description": "Data",
-	  "link": "[<%= symbol %>],"
-    },
-    "design": {
-      "symbol": "🎨",
-      "description": "Design",
-	  "link": "[<%= symbol %>],"
-    },
-    "eventOrganizing": {
-      "symbol": "📋",
-      "description": "Event Organizing",
-	  "link": "[<%= symbol %>],"
-    },
-    "example": {
-      "symbol": "💡",
-      "description": "Examples",
-	  "link": "[<%= symbol %>],"
-    },
-    "financial": {
-      "symbol": "💵",
-      "description": "Financial",
-	  "link": "[<%= symbol %>],"
-    },
-    "fundingFinding": {
-      "symbol": "🔍",
-      "description": "Funding Finding",
-	  "link": "[<%= symbol %>],"
+	  "link": "https://book.the-turing-way.org"
     },
     "ideas": {
       "symbol": "🤔",
       "description": "Ideas, Planning, & Feedback",
-	  "link": "[<%= symbol %>],"
+	  "link": "https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion"
     },
     "infra": {
       "symbol": "🚇",
       "description": "Infrastructure (Hosting, Build-Tools, etc)",
-	  "link": "[<%= symbol %>],"
-    },
-    "maintenance": {
-      "symbol": "🚧",
-      "description": "Maintenance",
-	  "link": "[<%= symbol %>],"
-    },
-    "mentoring": {
-      "symbol": "🧑‍🏫",
-      "description": "Mentoring",
-	  "link": "[<%= symbol %>],"
-    },
-    "platform": {
-      "symbol": "📦",
-      "description": "Packaging/porting to new platform",
-	  "link": "[<%= symbol %>],"
-    },
-    "plugin": {
-      "symbol": "🔌",
-      "description": "Plugin/utility libraries",
-	  "link": "[<%= symbol %>],"
-    },
-    "projectManagement": {
-      "symbol": "📆",
-      "description": "Project Management",
-	  "link": "[<%= symbol %>],"
-    },
-    "question": {
-      "symbol": "💬",
-      "description": "Answering Questions",
-	  "link": "[<%= symbol %>],"
-    },
-    "research": {
-      "symbol": "🔬",
-      "description": "Research",
-	  "link": "[<%= symbol %>],"
-    },
-    "security": {
-      "symbol": "🛡️",
-      "description": "Security",
-	  "link": "[<%= symbol %>],"
+	  "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
     },
     "talk": {
       "symbol": "📢",
       "description": "Talks",
-	  "link": "[<%= symbol %>],"
-    },
-    "tool": {
-      "symbol": "🔧",
-      "description": "Tools",
-	  "link": "[<%= symbol %>],"
+	  "link": "https://github.com/the-turing-way/conferences"
     },
     "translation": {
       "symbol": "🌍",
       "description": "Translation",
-	  "link": "#"
-    },
-    "tutorial": {
-      "symbol": "✅",
-      "description": "Tutorials",
-	  "link": "[<%= symbol %>],"
-    },
-    "userTesting": {
-      "symbol": "📓",
-      "description": "User Testing",
-	  "link": "[<%= symbol %>],"
-    },
-    "video": {
-      "symbol": "📹",
-      "description": "Videos",
-	  "link": "[<%= symbol %>],"
-    },
-    "promotion": {
-      "symbol": "📣",
-      "description": "Promotion",
-	  "link": "[<%= symbol %>],"
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#translation-and-localisation-working-group"
     }
   },
   "contributors": [
