@@ -134,7 +134,7 @@
     "translation": {
       "symbol": "🌍",
       "description": "Translation",
-	  "link": "[<%= symbol %>],"
+	  "link": "#"
     },
     "tutorial": {
       "symbol": "✅",
