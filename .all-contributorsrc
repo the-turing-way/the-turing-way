@@ -96,6 +96,21 @@
       "description": "Blogposts",
       "link": "https://github.com/the-turing-way/newsletter"
     },
+    "userTesting": {
+      "symbol": "📓",
+      "description": "User Testing",
+      "link": "https://book.the-turing-way.org"
+    },
+    "fundingFinding": {
+      "symbol": "🔍",
+      "description": "Funding Finding",
+      "link": "https://book.the-turing-way.org"
+    },
+    "projectManagement": {
+      "symbol": "📆",
+      "description": "Project Management",
+      "link": "https://book.the-turing-way.org"
+    },
     "tutorial": {
       "symbol": "✅",
       "description": "Tutorials",
