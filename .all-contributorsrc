@@ -24,22 +24,22 @@
     "content": {
       "symbol": "🖋",
       "description": "Content",
-	  "link": "https://book.the-turing-way.org"
+      "link": "https://book.the-turing-way.org"
     },
     "ideas": {
       "symbol": "🤔",
       "description": "Ideas, Planning, & Feedback",
-	  "link": "https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion"
+      "link": "https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion"
     },
     "infra": {
       "symbol": "🚇",
       "description": "Infrastructure (Hosting, Build-Tools, etc)",
-	  "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
     },
     "talk": {
       "symbol": "📢",
       "description": "Talks",
-	  "link": "https://github.com/the-turing-way/conferences"
+      "link": "https://github.com/the-turing-way/conferences"
     },
     "translation": {
       "symbol": "🌍",
