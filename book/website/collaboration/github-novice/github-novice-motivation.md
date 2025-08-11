@@ -31,7 +31,7 @@ Through the GitHub repository webpage, you can:
 * View a project's detailed [history of changes](#rr-vcs-workflow) to each file.
 * Revisit old versions of files and track contributions made.
 * [Roll back](#rr-vcs-versions-retrieving) to previous versions of files if needed.
-* Visualize helpful, color-coded "[diffs](#rr-vcs-git-compare)" that highlight what has changed between different versions of the same file.
+* Visualize helpful, color-coded "[diffs](#rr-vcs-versions-comparing)" that highlight what has changed between different versions of the same file.
   * This helps during [peer review](#cm-peer-review) and makes it easy to identify how the file has changed, line by line.
 
 <!-- These bullet points above need links to resources in The Turing Way if they exist, or externally if not -->
@@ -41,7 +41,7 @@ Through the GitHub repository webpage, you can:
 You can [manage](#pd) your project by creating [project boards](#cl-event-tools) that include to-do lists and issues (problems or tasks that need to be done).
 [Discussion forums](https://github.com/features/discussions) and flexibility in [user permissions](#cl-maintain-review-permissions) mean you can give team members (and/or the general public) the appropriate levels of access.
 
-The [Insights](https://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project/about-insights-for-projects) menu shows project stats, such as a list of [all contributors](#ch-acknowledgement-record) and how often they contribute each week.
+The [Insights](https://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project/about-insights-for-projects) menu shows project stats, such as a [list of all contributors](#ch-acknowledgement-record) and how often they contribute each week.
 
 <!-- Need links for: guide to project management, project boards, discussion forums, user permissions, insights menu, list of all contributors -->
 
