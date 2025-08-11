@@ -34,16 +34,12 @@ Through the GitHub repository webpage, you can:
 * Visualize helpful, color-coded "[diffs](#rr-vcs-versions-comparing)" that highlight what has changed between different versions of the same file.
   * This helps during [peer review](#cm-peer-review) and makes it easy to identify how the file has changed, line by line.
 
-<!-- These bullet points above need links to resources in The Turing Way if they exist, or externally if not -->
-
 ## Project Management
 
 You can [manage](#pd) your project by creating [project boards](#cl-event-tools) that include to-do lists and issues (problems or tasks that need to be done).
 [Discussion forums](https://github.com/features/discussions) and flexibility in [user permissions](#cl-maintain-review-permissions) mean you can give team members (and/or the general public) the appropriate levels of access.
 
 The [Insights](https://docs.github.com/en/issues/planning-and-tracking-with-projects/viewing-insights-from-your-project/about-insights-for-projects) menu shows project stats, such as a [list of all contributors](#ch-acknowledgement-record) and how often they contribute each week.
-
-<!-- Need links for: guide to project management, project boards, discussion forums, user permissions, insights menu, list of all contributors -->
 
 ## Collaboration and Community
 
@@ -58,8 +54,6 @@ Multiple people can work on the same files at the same time, and git can track t
 * Hold [discussions](https://github.com/features/discussions) with other collaborators
 * [Roadmap](#rr-project-documentation) new tasks and receive feedback from others
 
-<!-- Need links for: branches, pull request, discussion forums, user permissions, insights menu, list of all contributors -->
-
 ## Reproducibility
 
 Sharing your project on GitHub helps improve [reproducibility](#rr-overview), transparency, and verifiability, all key principles in [research](#rr-vcs-git4research).
@@ -71,8 +65,6 @@ This ensures your work is preserved and easier to reference.
 ## Publishing and Outreach
 
 Sharing your project on GitHub is not only useful for [collaboration](#cl), but also for [communication](#cm) - reaching a wider audience and increasing the impact of your work.
-
-<!-- Can you add a sentence here to clarify the difference between collaboration - above - and publishing / outreach? They're both types of communication but serve different purposes. Maybe this is a good section to link to the Communications guide? -->
 
 Projects on GitHub can be [set to either public or private](#https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) (visible to anyone or only accessible by you or your team).
 There are benefits that come with making your project public:
@@ -97,11 +89,8 @@ GitHub can also integrate with [Continuous Integration (CI)](#rr-ci) and Continu
 These tools automatically test new changes, help catch errors, and can even automate the process of creating releases.
 This integration ensures your project still works as expected with each change, and makes development more efficient.
 
-<!-- I think this section needs to be clearer about what a release is (do we have somewhere in the book to link to?) and why a tagged version is different to "just" version controlling your work with git (described above). The points about CI and CD are great - but I don't think they fit under the heading "releases" - so maybe this sub title should be "Testing and Release Management" something like that? -->
-
 ## Distributed Backup
 
-<!-- Needs a better title - maybe "distributed backup" - maybe adjust the next sentence to rephrase? -->
 Hosting your project on GitHub serves as a safety net that can be accessed from anywhere.
 * A copy of your work is stored online, not just on one device.
 * If you lose your local files, such as due to hardware failure, you can still recover everything from GitHub.
@@ -109,8 +98,6 @@ Hosting your project on GitHub serves as a safety net that can be accessed from 
 * If you stop maintaining a project, others can still view, [cite](#cm-citable-linking) or [fork](https://docs.github.com/articles/fork-a-repo) it to continue development.
 
 ## Role Modeling for Others
-
-<!-- What about "role modelling for others" ? -->
 
 Choosing to set your project as public allows others to learn from your work.
 By viewing your files, learners can see how you approached problems and implemented solutions.
@@ -128,9 +115,6 @@ This is not to understate the value of the command line and git.
 The command line is a powerful tool and with a little practice, is not as difficult as it may seem.
 Experienced users will likely find the command line more convenient and efficient for advanced workflows.
 You can choose the best approach for you, whether that is clicking through menus or typing commands.
-
-
-<!-- I don't think we should overly convolve "easy to use" with "no command line" - I think that misses the point that the command line isn't as hard as people might think! So maybe there's a combination of the "easy to use" and "markdown" sections that emphasise "easy to get started" ?> Also - GitHub is NOT infact all that easy to use :sweat_smile: -->
 
 ## Markdown
 
@@ -151,8 +135,6 @@ For example, `# heading 1`, will produce first level header style for that text.
 * Markdown guide: [Basic syntax](https://www.markdownguide.org/basic-syntax/)
 
 How and when to use Markdown formatting in your file will become clearer as you go through this chapter.
-
-<!-- the chapter needs to end with flagging what comes next and where to find additional resources-->
 
 ## Next steps
 
