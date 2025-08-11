@@ -3,9 +3,9 @@
 
 | Prerequisite | Importance |
 | -------------|------------|
-| {ref}`Version control<rr-vcs>` | Helpful |
+| [Version control](#rr-vcs) | Helpful |
 
-GitHub is an online web interface for collaborating, developing, sharing and using {ref}`Git<rr-vcs-git>` ({ref}`version control<rr-vcs>`).
+GitHub is an online web interface for collaborating, developing, sharing and using [git](#rr-vcs-git) ([version control](#rr-vcs)).
 It's designed to be easily accessible (you do not need to be a coder!) to share your work and (if you want) allow other people to test, modify, remix and reuse it.
 It also provides space and tools for collaboration and maintenance.
 
@@ -14,7 +14,7 @@ Thus, this chapter is tailored towards GitHub and its resources, though other pl
 
 Some key things to know about GitHub:
 
-- It provides an easy-to-use interface for {ref}`version control<rr-vcs>` that allows all activities to be recorded so you can revisit past versions and you know who made each contribution to the project.
+- It provides an easy-to-use interface for [version control](#rr-vcs) that allows all activities to be recorded so you can revisit past versions and you know who made each contribution to the project.
 - It has project management features - [issues](https://github.com/features/issues), [pull requests](https://github.com/features/code-review), and [discussions](https://github.com/features/discussions) - providing a social platform and communication tools that help a group of people to work together effectively.
 - It can be used to store documentation, data and make web pages for projects - not just code!
 - It has many options for automating repeated project management tasks including continuous integration testing and deployment.
@@ -24,8 +24,8 @@ In this chapter we outline some of the ways that you can benfit from using GitHu
 
 ## Version Control
 
-GitHub provides an interactive user interface that makes {ref}`version control<rr-vcs>` more accessible and intuitive.
-It can be useful for those unfamiliar with command-line {ref}`git<rr-vcs-git>`.
+GitHub provides an interactive user interface that makes [version control](#rr-vcs) more accessible and intuitive.
+It can be useful for those unfamiliar with command-line [Git](#rr-vcs-git).
 
 Through the GitHub repository webpage, you can:
 * View a project's detailed history of changes to each file.
@@ -54,7 +54,7 @@ Multiple people can work on the same files at the same time, and git can track t
 
 * Work on different versions of the project using branches
 * Suggest changes using pull requests, which are then reviewed and accepted
-* Track bugs and feature requests using documented {ref}`issues<cm-os-comms-issue-tracking>`
+* Track bugs and feature requests using documented [issues](#cm-os-comms-issue-tracking)
 * Hold discussions with other collaborators
 * Roadmap new tasks and receive feedback from others
 
@@ -62,10 +62,10 @@ Multiple people can work on the same files at the same time, and git can track t
 
 ## Reproducibility
 
-Sharing your project on GitHub helps improve {ref}`reproducibility<rr-overview>`, transparency, and verifiability, all key principles in research.
+Sharing your project on GitHub helps improve [reproducibility](#rr-overview), transparency, and verifiability, all key principles in research.
 By providing open access to your work, others can understand your methods, build upon your work, and accurately replicate your results.
-Many researchers {ref}`include<cm-citable>` GitHub links in their publications to share analyses with instructions to reproduce their results.
-You can also integrate your project with [Zenodo](https://zenodo.org/) to generate a Digital Object Identifier (DOI) for {ref}`citation<cm-citable-linking>`.
+Many researchers [attach](#cm-citable)` GitHub links in their publications to share analyses with instructions to reproduce their results.
+You can also integrate your project with [Zenodo](https://zenodo.org/) to generate a Digital Object Identifier (DOI) for [citation](#cm-citable-linking).
 This ensures your work is preserved and easier to reference.
 
 ## Publishing and Outreach
@@ -79,8 +79,8 @@ There are a few benefits that come with making your project public:
 * Increased visibility through GitHub's Explore feature.
 * Others can "star" (bookmark) or "watch" your project for updates.
 * Share your project through a trustworthy GitHub.com link with others, as the platform is widely known.
-* Use GitHub pages to create a clean, professional {ref}`webpage<cm-personal-websites>` for your project
-* Add a {ref}`README file<pd-project-repo-readme>` to act as your project's landing page, where you can welcome visitors, explain your work, and provide {ref}`documentation<rr-documentation-code>`.
+* Use GitHub pages to create a clean, professional [webpage](#cm-personal-websites) for your project
+* Add a [README file](#pd-project-repo-readme) to act as your project's landing page, where you can welcome visitors, explain your work, and provide [documentation](#rr-documentation-code).
 
 ## Releases
 
@@ -88,7 +88,7 @@ There are a few benefits that come with making your project public:
 
 GitHub can help publish new versions of your project.
 You can create releases that bundle your files, provide detailed release notes, and host files for download.
-GitHub can also integrate with {ref}`Continuous Integration (CI)<rr-ci>` and Continuous Delivery / Deployment (CD) tools.
+GitHub can also integrate with [Continuous Integration (CI)](#rr-ci) and Continuous Delivery / Deployment (CD) tools.
 You can use this to automatically test new changes, ensuring everything still works as expected, streamlining development.
 
 ## Sustainability and Preservation
