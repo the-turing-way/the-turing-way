@@ -49,7 +49,7 @@ The [Insights](https://docs.github.com/en/issues/planning-and-tracking-with-proj
 
 The combination of pathways to leverage version control and project management tasks makes GitHub a great place to build a community around your work.
 
-Its tools allow for clear communication and task allocation.
+Its tools allow for clear [communication](#cm-os-comms-channels) and task allocation.
 Multiple people can work on the same files at the same time, and git can track the changes and resolve any conflicts.
 
 * Work on different versions of the project using [branches](#rr-vcs-workflow-branches)
@@ -153,3 +153,12 @@ For example, `# heading 1`, will produce first level header style for that text.
 How and when to use Markdown formatting in your file will become clearer as you go through this chapter.
 
 <!-- the chapter needs to end with flagging what comes next and where to find additional resources-->
+
+## Next steps
+
+Keep reading this chapter for detailed GitHub tutorials.
+The next subchapter, [](#cl-github-novice-firststeps), will walk you through creating your own GitHub project.
+
+For more GitHub information and learning materials, visit [GitHub.com](https://github.com).
+
+You can also explore [The Turing Way's home page](https://book.the-turing-way.org) for additional guides, reading, and resources.
