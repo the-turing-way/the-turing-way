@@ -301,6 +301,34 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 You can build and host the book website locally. 
 The steps are described in [this section](https://book.the-turing-way.org/community-handbook/local-build) of the The Turing Way.
 
+### To build the book in a container
+
+1. Create an image containing all of the dependencies from top level directory:
+
+   ```
+   docker build . --tag the-turing-way
+   ```
+
+   or
+
+   ```
+   podman build . --tag the-turing-way
+   ```
+
+2. Build with `jupyter-book`:
+
+   ```
+   docker run --rm -v $(pwd):/usr/local the-turing-way jupyter-book build
+/usr/local/book/website
+   ```
+
+   or
+
+   ```
+   podman run --rm -v $(pwd):/usr/local localhost/the-turing-way jupyter-book
+build /usr/local/book/website
+   ```
+
 ## Style Guide
 
 In _The Turing Way_'s [Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html), we have developed a style guide for the project.
