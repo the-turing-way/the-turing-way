@@ -5,10 +5,118 @@
     "book/website/afterword/contributors-record.md"
   ],
   "imageSize": 100,
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 6,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "skipCi": false,
   "contributorsSortAlphabetically": true,
+  "projectName": "the-turing-way",
+  "projectOwner": "the-turing-way",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "commitConvention": "none",
+  "commitType": "docs",
+  "types": {
+    "a11y": {
+      "symbol": "♿️",
+      "description": "Accessibility",
+	  "link": "https://book.the-turing-way.org/afterword/subprojects.html#accessibility-working-group"
+    },
+    "content": {
+      "symbol": "🖋",
+      "description": "Content",
+      "link": "https://book.the-turing-way.org"
+    },
+    "ideas": {
+      "symbol": "🤔",
+      "description": "Ideas, Planning, & Feedback",
+      "link": "https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion"
+    },
+    "eventOrganizing": {
+      "symbol": "📋",
+      "description": "Event Organizing",
+      "link": "https://docs.google.com/spreadsheets/d/1WsIAUKgdIRRfd3h09ee2gc7sVmV2u1gEEh3L6u6L1MQ/edit?gid=577525947#gid=577525947,"
+    },
+    "infra": {
+      "symbol": "🚇",
+      "description": "Infrastructure (Hosting, Build-Tools, etc)",
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
+    },
+    "tool": {
+      "symbol": "🔧",
+      "description": "Tools",
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
+    },
+    "video": {
+      "symbol": "📹",
+      "description": "Videos",
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
+    },
+    "maintenance": {
+      "symbol": "🚧",
+      "description": "Maintenance",
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#subprojects-infra-wg"
+    },
+    "question": {
+      "symbol": "💬",
+      "description": "Answering Questions",
+      "link": "https://github.com/orgs/the-turing-way/discussions"
+    },
+    "talk": {
+      "symbol": "📢",
+      "description": "Talks",
+      "link": "https://github.com/the-turing-way/conferences"
+    },
+    "promotion": {
+      "symbol": "📣",
+      "description": "Promotion",
+      "link": "https://github.com/the-turing-way/conferences"
+    },
+    "translation": {
+      "symbol": "🌍",
+      "description": "Translation",
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#translation-and-localisation-working-group"
+    },
+    "platform": {
+      "symbol": "📦",
+      "description": "Packaging/porting to new platform",
+      "link": "https://jupyterbook.org"
+    },
+    "design": {
+      "symbol": "🎨",
+      "description": "Design",
+      "link": "https://book.the-turing-way.org"
+    },
+    "example": {
+      "symbol": "💡",
+      "description": "Examples",
+      "link": "https://book.the-turing-way.org"
+    },
+    "blog": {
+      "symbol": "📝",
+      "description": "Blogposts",
+      "link": "https://github.com/the-turing-way/newsletter"
+    },
+    "userTesting": {
+      "symbol": "📓",
+      "description": "User Testing",
+      "link": "https://book.the-turing-way.org"
+    },
+    "fundingFinding": {
+      "symbol": "🔍",
+      "description": "Funding Finding",
+      "link": "https://book.the-turing-way.org"
+    },
+    "projectManagement": {
+      "symbol": "📆",
+      "description": "Project Management",
+      "link": "https://book.the-turing-way.org"
+    },
+    "tutorial": {
+      "symbol": "✅",
+      "description": "Tutorials",
+      "link": "https://book.the-turing-way.org"
+    }
+  },
   "contributors": [
     {
       "login": "rainsworth",
@@ -5220,12 +5328,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "kafitzgerald",
+      "name": "Katelyn FitzGerald",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7872563?v=4",
+      "profile": "https://github.com/kafitzgerald",
+      "contributions": [
+        "content"
+      ]
     }
-  ],
-  "projectName": "the-turing-way",
-  "projectOwner": "the-turing-way",
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "commitConvention": "none",
-  "commitType": "docs"
+  ]
 }
