@@ -9,7 +9,7 @@ Speakers are invited from diverse backgrounds and perspectives present their vie
 ```{figure} ../../figures/fireside-chat.*
 ---
 name: fireside-chat
-alt: People sitting around the campfire and informally talking to each other.
+alt:  Illustration by Scriberia for The Turing Way, showing a group of contributors having a chat ssitting around a log fire. The logs, which are fueling the fire, are in the cenre of the illustration. Emanating upwards from the logs is the fire and surrounding the flames of the fire are speech bubbles, network graphs, line charts and pie charts. At the top of the flame is a banner reading "THE", then the flames spell out "FIRESIDE" and finally on the logs is the word "CHAT". Moreover, there are 4 contributors sitting around the fire on the bottom of the illustration; they each have speech bubbles attatched to the end of a stick, which they are roasting in the fire. The contributor sitting on the left-hand side is sitting in a wheelchair, there are 2 in the middle sitting on a log and a final one on the right-hand side is standing up and walking towards the rest of the group.
 ---
 Fireside Chat in The Turing Way.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
