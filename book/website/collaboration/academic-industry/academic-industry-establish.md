@@ -9,7 +9,7 @@ There is no standard route to setting up an academic-industry collaboration.
 These collaborations may spring from small organic interactions such as researchers connecting at a conference, or may be driven more 'formally' by a partnerships team at either organisation. 
 
 Before jumping into a formal partnership, we recommend to first collaborate on a smaller project or task of shared interest. 
-This allows both organisations to see how the other works in practice (rather than any pre-concieved ideas), how you collaborate together and overall 'test the waters'. 
+This allows both organisations to see how the other works in practice (rather than any pre-conceived ideas), how you collaborate together and overall 'test the waters'. 
 
 In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong Turing Data Study Group {cite}`DSG2020Roche`.
 

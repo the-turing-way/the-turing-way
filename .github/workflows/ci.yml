@@ -1,16 +1,11 @@
 name: CI
 
-# run on pushes and pull requests to main
+# run on pull requests to main, but ignore pull requests from the all-contributors bot
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main
-    paths:
-      - "book/**"
-      - ".github/workflows/**"
+      - "!all-contributors/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!
@@ -21,7 +16,6 @@ defaults:
 jobs:
   build-jb:
     name: Build
-    if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
@@ -44,28 +38,7 @@ jobs:
         working-directory: ./book
 
       - name: Build Jupyter-Book with warnings raised to errors
-        run: make strict
-        working-directory: ./book
-
-  build-pathways:
-    name: Build Pathways
-    needs: build-jb
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout-repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
-
-      - name: Install dependencies
-        run: make deps
-        working-directory: ./book
-
-      - name: Run pathways script
-        run: make pathways
+        run: make ci
         working-directory: ./book
 
   offline-link-check:

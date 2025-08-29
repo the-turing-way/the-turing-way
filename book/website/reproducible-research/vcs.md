@@ -26,16 +26,23 @@ For example, when writing a paper with multiple collaborators, version control c
 
 
 
-```{figure}  ../figures/project-history.*
+```{figure}  ../../figures/project-history.*
 ---
 name: project-history
-alt: Contrast in project history management. On the left - choosing between ambiguously named files. On the right - picking between successive versions (from V01 to V06).
+alt: >
+  An illustration with two examples of project history management.
+  The left shows a stack of ambiguously named files, shown as book-like objects.
+  A hand carefully tries to pull out one of the files without making the stack crumble. 
+  In contrast, the right shows a dial with options ranging from V1 to V6.
+  On top of the dial the six corresponding files are represented as ordered documents.
+  A hand moves the dial to V3, which highlights the third document on top in blue. 
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+  Version control, in contrast to ambiguously named files, enables easy picking between successive document versions. 
+  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 
-In this chapter, we introduce  versioning best practices regardless of tools{ref}`in the workflow chapter<rr-vcs-workflow>`, before describing in more details the use of version control and {ref}`git for research projects<rr-vcs-git4research>` that comprise  documentation, datasets and code.
+In this chapter, we introduce versioning best practices regardless of tools {ref}`in the workflow chapter<rr-vcs-workflow>`, before describing in more details the use of version control and {ref}`git for research projects<rr-vcs-git4research>` that comprise  documentation, datasets and code.
 Most instructions given in this chapter will be indeed geared towards Git, which is most commonly used by researchers, and a web-based Git repository hosting service, [GitHub](https://github.com/), which facilitates online collaborations. 
 We also give information about {ref}`larger dataset versioning<rr-vcs-data>`, and introduce tools allowing the use Git workflows for this purpose, although Git is not appropriate for binary files versioning.
 

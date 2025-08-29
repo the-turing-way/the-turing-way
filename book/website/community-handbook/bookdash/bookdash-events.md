@@ -26,7 +26,7 @@ We also discuss _The Turing Way_ as a project in general and what the core team 
 Most importantly, the core team goes through the contribution guideline and explains how attendees can effectively use their time at the Book Dash.
 
 The template for shared notes can be accessed in the community handbook {ref}`here<ch-template-bookdash-precall>`.
-You can read notes from the calls from the most recent book dash [here](https://hackmd.io/@turingway).
+You can read notes from the calls from the most recent book dash [here](https://hackmd.io/\@turingway).
 
 ### GitHub introduction session
 
@@ -49,7 +49,7 @@ In the previous events, we have used the following materials:
 ### Contribution sessions
 
 On each day of the Book Dash, we will hold three 2.5 hour-long contribution sessions when hosting virtually each followed by a break or social event.
-Each contribution session will follow the Pomodoro technique for coworking that we also use for the {ref}`coworking calls<ch-coworking-motivation>` using the [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to coordinate the time.
+Each contribution session will follow the Pomodoro technique for coworking that we also use for the {ref}`coworking calls<ch-community-calls-motivation>` using the [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to coordinate the time.
 
 In the opening session of the first day, one of the planning committee members will provide an overview of _The Turing way_ project and the resources that are available for the participants for their book dash contributions.
 Attendees will be then allocated in small groups with their collaborators based on their SMART goals.

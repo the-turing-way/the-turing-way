@@ -80,7 +80,7 @@ However, this leaves a user vulnerable to similar security issues as described i
 The best advice for using images built by others is, as usual, only download and run something on your machine if it comes from a trusted source.
 Docker Hub has "official image" badges for commonly used, verified images as shown here:
 
-```{figure} ../../figures/docker-official-image.*
+```{figure} ../../../figures/docker-official-image.*
 ---
 name: docker-official-image
 alt: A screenshot of official image badges
@@ -212,7 +212,7 @@ It is good practice to use `COPY`, except where `ADD` is specifically required, 
 
 Here is what happens if a container is opened from an image called `book_example`, built from the example above:
 
-```{figure} ../../figures/container-example.*
+```{figure} ../../../figures/container-example.*
 ---
 name: container-example
 alt: A screenshot of what happens when a container is opened from an image
@@ -246,7 +246,7 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-```{figure} ../../figures/workdir-example.*
+```{figure} ../../../figures/workdir-example.*
 ---
 name: workdir-example
 alt: Screenshot of container generated using WORKDIR command
@@ -262,7 +262,7 @@ After each `RUN` statement in a Dockerfile, the image is saved, and any followin
 As an example, here is what happens in the above example if the `WORKDIR A` line is swapped
 for `RUN cd A`.
 
-```{figure} ../../figures/cd-example.*
+```{figure} ../../../figures/cd-example.*
 ---
 name: cd-example
 alt: A screenshot of what happens when the WORKDIR command is swapped with RUN cd
@@ -428,7 +428,7 @@ dockerd-rootless-setuptool.sh install
 docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
 ```
 
-The following prequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
+The following prerequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
 
 (rr-renv-containers-podman)=
 ## Podman
@@ -564,7 +564,7 @@ Windows or MacOS.
 
 Singularity provides [Vagrant](https://www.vagrantup.com/) boxes which let users
 on Windows or MacOS quickly deploy a virtual machine with Singularity installed.
-Instuctions can be found [in the Singularity
+Instructions can be found [in the Singularity
 documentation](https://sylabs.io/guides/latest/admin-guide/installation.html#installation-on-windows-or-mac)
 ```
 

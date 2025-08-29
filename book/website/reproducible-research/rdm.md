@@ -21,7 +21,7 @@ RDM ensures efficiency in research workflows, and also greater reach and impact,
 Data should be stored in multiple locations and backed-up regularly to prevent loss or data corruption.
 Clearly describing data using documentation and metadata ensures that others know how to access, use and reuse your data, and also enable conditions for sharing and publishing data to be outlined.
 
-```{figure} ../figures/data-ecosystem.*
+```{figure} ../../figures/data-ecosystem.*
 ---
 height: 400px
 name: data-ecosystem
@@ -40,13 +40,13 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 (rr-rdm-useful)=
 ## Motivation and Background
 
-```{figure} ../figures/rdm-storage.*
+```{figure} ../../figures/rdm-storage.*
 ---
 height: 400px
 name: rdm-storage
 alt: A cartoon woman standing in front of a very messy closet. She is looking for data that she generated last year. Behind her a person is watching doubtfully, unsure whether she can find it in this mess.
 ---
-Research Data Management: making it possible to retreive data from last year.
+Research Data Management: making it possible to retrieve data from last year.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
 ```
 

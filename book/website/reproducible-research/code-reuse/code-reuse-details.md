@@ -2,7 +2,7 @@
 (rr-code-reuse-details)=
 # Detailed Recommendations for Code Reuse
 
-Make sure you (or somebody else) can re-use your code to do the same exact thing you did.
+Make sure you (or somebody else) can reuse your code to do the same exact thing you did.
 This section contains a simple checklist of recommendations for making your software more reusable.
 In this section contains a more in-depth explanation of each of these recommendations, with pointers to other relevant parts of this guide.
 
@@ -40,7 +40,7 @@ A nice side-effect of scripting the sequence of operations is that this often ca
 
 ### 5. License your code
 
-Make sure you attach a license to your code and specify how you want to be cited when people re-use it.
+Make sure you attach a license to your code and specify how you want to be cited when people reuse it.
 Consider using a permissive license that allows for reuse.
 Also, you should choose a license which is compatible with the licenses of libraries or packages your software depends on.
 
@@ -48,7 +48,7 @@ Also, you should choose a license which is compatible with the licenses of libra
 
 ### 6. Make sure it is citable
 
-Make sure to specify how you want to be cited when people re-use it.
+Make sure to specify how you want to be cited when people reuse it.
 
 **See also**: {ref}`cm-citable-cite-software`
 
@@ -60,7 +60,7 @@ If the software depends on any sort of data, the data should be available
 
 ## Re-runnable recommendations
 
-Make sure you (or others) can re-use it to do the thing you did, but with different data/different parameters
+Make sure you (or others) can reuse it to do the thing you did, but with different data/different parameters
 
 ### 1. Remove hardcoded bits and make the code modular
 You do not want to have details specific to your data or analysis parameters hardcoded into the code.
@@ -95,12 +95,12 @@ All this can be carefully documented for another human to re-do all the same exa
 ## Extendable and Modifiable Recommendations
 Make sure others can build on your code to extend it and improve it.
 
-### 2. Make sure your code is readable by humans
+### 1. Make sure your code is readable by humans
 It often pays more to write code for other humans so they can read it (including your future self).
 A cryptic oneliner with obscure variable names is not any faster or more efficient than splitting the one liner into multiple steps with readable variable names that make sense.
 Furthermore, using coding conventions will help other readers.
 
 **See also**: {ref}`rr-code-style-and-formatting`, {ref}`rr-code-quality-advantages`
 
-### 3. Make sure comments are present
+### 2. Make sure comments are present
 Write comments before writing the actual code. Imagine that somebody could just read the comments and skip all the code bits between comments and get a full picture of what is going on as if they read the whole code.
