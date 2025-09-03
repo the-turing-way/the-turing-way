@@ -1,6 +1,12 @@
 # GitHub Gardening
 
-Instructions and information for gardeners…
+Managing a open source community and maintaining its infrastructure, like [code repositories](#rr-vcs) and {term}`issue trackers <Issue Tracking>`, takes time an effort.
+In the free and open source community this work is often called maintenance.
+This work is difficult and requires strong technical skills as well as excellent interpersonal skills.
+It can often seem that this work goes unappreciated, but it is critically important for the health of an open source project.
+
+In _The Turing Way_ we call this work gardening, because that is an analogy for how this kind of activity is about tending to the community, keeping it healthy and helping it grow.
+This page has instructions and guidelines for our gardeners to help them work.
 
 ## Guiding principles
 
