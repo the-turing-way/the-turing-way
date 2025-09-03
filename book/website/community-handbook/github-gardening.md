@@ -86,29 +86,24 @@ They should be marked as ready for review when the author feels it is ready to b
 These stages correlate roughly with how _mature_ an item is.
 They are not law but they are intended to help us understand what stage an item is at and what we should be aiming to do to help contributors at each stage.
 
-## Sowing
+### Sowing
 
-Initial actions to ensure an item has the best chance of success
+Sowing is for new items.
+The sowing tasks are initial actions to ensure the best chance of success.
 
-## Fertilising
+### Fertilising
 
-Working on active items to help push them over the line
+Fertilising is for in progress items.
+These tasks are to help push them over the line, so that contributions can be made.
 
-## Pruning
+### Pruning
 
-Closing items which have gone stale
-
-## Glossary
-
-Stale issue
-: A stale issue is
-
+Pruning is for items which have gone {term}`stale <Stale>`.
+This step keeps the repository clean, closing inactive or completed work while leaving the option for it to be continued in the future.
 
 ## Checklists
 
 ### Issues
-
-Always leave a welcoming, friendly message to explain what you are doing and why
 
 #### Sowing
 
@@ -126,8 +121,8 @@ Always leave a welcoming, friendly message to explain what you are doing and why
 
 - Ensuring issue is "in action"
     - [ ] Post in the issue
-        - Is anyone working on the issue, has anyone been assigned? 
-        - What support does the contributer need to fix the issue?
+        - Is anyone working on the issue, has anyone been assigned?
+        - What support does the contributor need to fix the issue?
     - [ ] Suggest actions
         - Invite to post a Slack message
         - Invite to collaboration cafe
