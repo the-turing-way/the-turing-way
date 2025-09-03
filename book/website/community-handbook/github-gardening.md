@@ -10,10 +10,37 @@ This page has instructions and guidelines for our gardeners to help them work.
 
 ## Guiding principles
 
-- Upskill contributors, teaching them best practices
-- Be a mentor
-- Be a human
-- You are not "GitHub police"
+### Maintain quality
+
+Gardening work plays an important role in maintaining the quality of a project.
+[Continuous integration processes](#rr-ci) and [code review](#rr-reviewing) help to ensure the quality of contributions as they are merged.
+However, there are many other aspects of the community where gardeners can help.
+
+You should focus on keeping the quality of issues, discussions and pull requests high.
+You shouldn't be afraid to close items or ask for changes.
+Gardening work makes items higher quality, which improves the chances they will be seen, have engagement and get completed.
+
+### Be a mentor
+
+Gardeners can mentor community members, teaching them new skills and encouraging best practice.
+You should look to share your knowledge and teach others.
+However, don't feel you have to personally fix problems or that you have to take on work when you ask for changes.
+
+### Use your knowledge
+
+Contributing to a project as a new community member can be intimidating.
+There is a lot of institutional knowledge that is difficult to learn or share.
+Gardeners should use their experience to help contributors, for example, recommending people who would be interested in a pull request or pointing to style conventions in the [](#ch).
+
+### Be a human
+
+In the process of gardening, you may have to take actions that might be difficult for others.
+For example, closing an issue as "will not fix" or requesting large changes to a contribution.
+You may also find taking this kind of action difficult yourself.
+
+You should remember to be kind to other.
+If you have to say anything that may be difficult to accept or understand, take some time to explain.
+Remember to be welcoming, a project can only survive with contributors, and everyone starts as a new contributors.
 
 ## GitHub item purpose
 
