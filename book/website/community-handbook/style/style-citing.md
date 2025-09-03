@@ -17,6 +17,7 @@ For example, `[](doi:10.5281/zenodo.15213042)` renders as [](doi:10.5281/zenodo.
 
 You can read more about DOI links in the [MyST Markdown documentation](https://mystmd.org/guide/citations#doi-links).
 
+(ch-style-citing-bibliography)
 ## Bibliography
 
 ### BibTeX file basics

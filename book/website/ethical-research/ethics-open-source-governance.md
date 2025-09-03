@@ -16,7 +16,7 @@ This chapter discusses some of the key points to take into consideration when de
 
 *Ethical behaviour in governance is defined as the way in which stakeholders try to manage collective action from the perspective, and in the interest, of the majority, thus avoiding damaging behaviours, and through a better control of the power and responsibilities of the leaders. In the area of governance, therefore, ethics aims at raising awareness of the others' rights and common needs, by imposing some principles of minimum requirement.*
 
-Source: Dessain, V., Meier, O., & Salas, V. (2011). {cite:t}`Corporate Governance and Ethics<Dessain2011governance>`.
+Source: Dessain, V., Meier, O., & Salas, V. (2011). @Dessain2011governance.
 ```
 
 (er-ethics-open-source-governance-motivation)=
@@ -78,7 +78,7 @@ In short: `if (ethical == true) { // Do stuff } else { // FIXME }`
 (er-ethics-open-source-governance-action)=
 ## Ethics Need Governance to become Actionable
 Open source project communities may already have an implicit set of ethics regarding their project in place. 
-However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay {cite:t}`The Tyranny of Structurelessness<Freeman2012Stuctureless>`, impotent.
+However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay @Freeman2012Stuctureless, impotent.
 
 To empower your project to act on your ethics, it will need some governance model to adhere to. 
 There already exist a number of more-or-less established governance models and you can take a look at the resources section of this chapter for links to more information on them. 

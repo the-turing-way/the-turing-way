@@ -28,7 +28,7 @@ At the January and March 2023 core team calls, drafts were shared about the stat
 
 At the June 2023 core team meeting, further formalisation was done. An "accessibility working group" had solidified in the previous months (April 2023), in partnership and with volunteers from Metadocencia, while the "infrastructure" and "translation and localisation" working groups continued to consolidate their work. The Infrastructure Working Group lead on the transition to a Github organisation, which was completed in August 2023. The Translation and Localisation team were particularly supported to give talks that centered their work during this time.
 
-At the September 2023 core team meeting, feedback was shared explicitely about decision-making within the project, sharing feedback about which decisions were blocked and/or needed support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
+At the September 2023 core team meeting, feedback was shared explicitly about decision-making within the project, sharing feedback about which decisions were blocked and/or needed support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
 
 ## Evolution of format of call
 

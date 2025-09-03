@@ -13,27 +13,6 @@ As you start contributing to _The Turing Way_, don't forget that your ideas are 
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
-## Table of contents
-
-Been here before? Already know what you're looking for in this guide? Jump to the following sections:
-
-- [Joining the community](#joining-the-community)
-- [Inclusivity](#inclusivity)
-- [Get in touch](#get-in-touch)
-- [Contributing through GitHub](#contributing-through-github)
-- [Writing in Markdown](#writing-in-markdown)
-- [Where to start: issues](#where-to-start-issues)
-  - [Issue labels](#issue-labels)
-- [Making a change with a pull request](#making-a-change-with-a-pull-request)
-  - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-  - [2. Fork _The Turing Way_ repository to your profile](#2-fork-the-turing-way-repository)
-  - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-  - [4. Submit a pull request](#4-submit-a-pull-request)
-- [The process of writing chapters](#the-process-of-writing-chapters)
-- [Style Guide](#style-guide)
-- [Representing _The Turing Way_](#representing-the-turing-way)
-- [Recognising Contributions](#recognising-contributions)
-
 ## Joining the community
 
 _The Turing Way_ is a community-led and collaboratively developed project.

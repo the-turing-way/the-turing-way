@@ -12,7 +12,7 @@ To identify what could be the best format for your coworking calls, you need to 
 
 **Purpose of your coworking calls**
 
-In _The Turing Way_, as described in the {ref}`motivation <ch-coworking-motivation>` subchapter, we host these calls for building connections, supporting our contributors, onboarding new members and celebrating their work.
+In _The Turing Way_, as described in the {ref}`motivation <ch-community-calls-motivation>` subchapter, we host these calls for building connections, supporting our contributors, onboarding new members and celebrating their work.
 
 Your purpose for hosting coworking calls could be completely different and identifying that is important for you to plan the remaining logistics.
 A few other scenarios could be:

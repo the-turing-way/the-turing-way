@@ -11,10 +11,6 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    permissions:
-      pull-requests: write
-      contents: write
-
     # This environment contains secrets specific to crowdin and only workflows
     # listing this environment can use them
     environment: crowdin
@@ -44,9 +40,11 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
+          token: ${{ secrets.CROWDIN_ACTION_TOKEN }}
           title: Update Crowdin Contributors table
           body: By [action-crowdin-contributors](https://github.com/andrii-bodnar/action-crowdin-contributors) GitHub action
           commit-message: Update Crowdin Contributors table
           committer: Crowdin Bot <support+bot@crowdin.com>
           branch: crowdin-contributors/patch
-          team-reviewers: [translation]
+          team-reviewers: |
+            translation
