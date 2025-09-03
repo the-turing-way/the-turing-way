@@ -42,30 +42,49 @@ You should remember to be kind to other.
 If you have to say anything that may be difficult to accept or understand, take some time to explain.
 Remember to be welcoming, a project can only survive with contributors, and everyone starts as a new contributors.
 
-## GitHub item purpose
+## GitHub item usage
+
+To help keep items findable, we use GitHub features for different purposes.
 
 ### Issues
 
-- An issue is a task
-    - Of a reasonable size for one person (or, a list of sub-issues)
-    - Which has a clear "definition of done"
+An issue is a task, for example a bug to fix or a feature to add.
+A good issue should,
+
+- be of a reasonable size for one person
+- or, to coordinate large pieces of work, be a list of sub-issues
+- have a clear "definition of done"
+
+Examples of bad issues could be,
+
+- Too much work for one person or a single pull request
+- No clear work to be done, a question or a discussion
 
 ### Discussions
 
-- Items for discussion (not necessarily tied to action or implementation)
-- General questions
-- Ideas
+Discussions are used for conversations which are not necessarily tied to a specific task.
+They are often broader than issues.
 
-### PRs
+Examples of good discussions are,
 
-- A proposal to merge one branch into another
-    - Marked as a draft if it is work in progress
-    - Marked as ready to review if you feel it is ready to be merged
+- Questions about the project
+- Proposals and new ideas
+- Polling the community
+- Discussing the options before opening an issue
+
+### Pull requests
+
+Pull requests are proposals to merge one branch into another.
+
+We encourage people to open pull requests early.
+This helps make their work visible and get early feedback.
+Pull requests should be marked as drafts while they are work in progress.
+They should be marked as ready for review when the author feels it is ready to be merged.
 
 ## Gardening stages
 
 These stages correlate roughly with how _mature_ an item is.
-It isn't a law, but is intended to help us understand what stage an item is at and what we should be aiming to do to help contributors at each stage.
+They are not law but they are intended to help us understand what stage an item is at and what we should be aiming to do to help contributors at each stage.
 
 ## Sowing
 
