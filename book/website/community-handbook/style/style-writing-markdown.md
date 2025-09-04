@@ -60,6 +60,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 > I do not like green eggs and ham i do not like them sam i am
 ```
 
+(ch-style-writing-markdown-latin)=
 ## Avoid latin abbreviation
 
 Please do not use Latin abbreviations.
