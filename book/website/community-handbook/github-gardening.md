@@ -112,9 +112,9 @@ This step keeps the repository clean, closing inactive or completed work while l
 
 #### Sowing
 
-- [] Ensure it is in the correct repository?
+- [ ] Ensure it is in the correct repository
     - If not, move to a more appropriate repository
-- [] Ensure it is [an issue](#gh-gardening-items-issues)?
+- [ ] Ensure it is [an issue](#gh-gardening-items-issues)
     - Move to [a discussion](#gh-gardening-items-discussions) if appropriate
 - [ ] Ensure there is a definition of done
     - Ask the author to find one if this isn't clear
