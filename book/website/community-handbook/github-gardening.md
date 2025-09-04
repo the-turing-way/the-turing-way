@@ -1,5 +1,5 @@
 (ch-gardening)=
-# GitHub Gardening
+# GitHub gardening
 
 Managing a open source community and maintaining its infrastructure, like [code repositories](#rr-vcs) and {term}`issue trackers <Issue Tracking>`, takes time an effort.
 In the free and open source community this work is often called maintenance.
@@ -62,6 +62,16 @@ Examples of bad issues could be,
 - Too much work for one person or a single pull request
 - No clear work to be done, a question or a discussion
 
+(gh-gardening-items-pull-requests)=
+### Pull requests
+
+Pull requests are proposals to merge one branch into another.
+
+We encourage people to open pull requests early.
+This helps make their work visible and get early feedback.
+Pull requests should be marked as drafts while they are work in progress.
+They should be marked as ready for review when the author feels it is ready to be merged.
+
 (gh-gardening-items-discussions)=
 ### Discussions
 
@@ -74,16 +84,6 @@ Examples of good discussions are,
 - Proposals and new ideas
 - Polling the community
 - Discussing the options before opening an issue
-
-(gh-gardening-items-pull-requests)=
-### Pull requests
-
-Pull requests are proposals to merge one branch into another.
-
-We encourage people to open pull requests early.
-This helps make their work visible and get early feedback.
-Pull requests should be marked as drafts while they are work in progress.
-They should be marked as ready for review when the author feels it is ready to be merged.
 
 ## Gardening stages
 
@@ -140,7 +140,7 @@ This step keeps the repository clean, closing inactive or completed work while l
     - If there is no stale label, mark as stale and leave a message
     - If there is a stale label and 30 days have passed, close the issue as stale
 
-### PRs
+### Pull requests
 
 #### Sowing
 
@@ -170,3 +170,28 @@ This step keeps the repository clean, closing inactive or completed work while l
 :::{warning}
 Closing a PR from a branch on _The Turing Way_'s repository will delete that branch and could result in loss of the commits.
 :::
+
+### Discussions
+
+#### Sowing
+
+- [ ] Ensure it is [a discussion](#gh-gardening-items-discussions)
+- [ ] Ensure there is a clear focus
+    - If it is a question, make sure it is well defined
+    - If it is a discussion, suggestion, poll or similar, make sure the topic is clear
+- [ ] Tag community members who can help
+
+#### Fertilising
+
+- [ ] Check progress
+    - Ask what hasn't been resolved
+- [ ] Support discussions
+    - Tag community members who can help
+    - Suggest advertising in Slack
+    - Invite to collaboration cafe
+
+#### Pruning
+
+- [ ] Close discussions when they have concluded
+    - If the discussion is a Q&A, mark an accepted answer
+- [ ] Close as outdated if it is {term}`stale <Stale>`
