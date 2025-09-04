@@ -1,3 +1,4 @@
+(ch-gardening)=
 # GitHub Gardening
 
 Managing a open source community and maintaining its infrastructure, like [code repositories](#rr-vcs) and {term}`issue trackers <Issue Tracking>`, takes time an effort.
@@ -6,7 +7,7 @@ This work is difficult and requires strong technical skills as well as excellent
 It can often seem that this work goes unappreciated, but it is critically important for the health of an open source project.
 
 In _The Turing Way_ we call this work gardening, because that is an analogy for how this kind of activity is about tending to the community, keeping it healthy and helping it grow.
-This page has instructions and guidelines for our gardeners to help them work.
+This page has [instructions](#ch-gardening-checklists) and guidelines for our gardeners to help them work.
 
 ## Guiding principles
 
@@ -46,6 +47,7 @@ Remember to be welcoming, a project can only survive with contributors, and ever
 
 To help keep items findable, we use GitHub features for different purposes.
 
+(gh-gardening-items-issues)=
 ### Issues
 
 An issue is a task, for example a bug to fix or a feature to add.
@@ -60,6 +62,7 @@ Examples of bad issues could be,
 - Too much work for one person or a single pull request
 - No clear work to be done, a question or a discussion
 
+(gh-gardening-items-discussions)=
 ### Discussions
 
 Discussions are used for conversations which are not necessarily tied to a specific task.
@@ -101,40 +104,40 @@ These tasks are to help push them over the line, so that contributions can be ma
 Pruning is for items which have gone {term}`stale <Stale>`.
 This step keeps the repository clean, closing inactive or completed work while leaving the option for it to be continued in the future.
 
+(ch-gardening-checklists)=
 ## Checklists
 
 ### Issues
 
 #### Sowing
 
-- [ ] Is this an issue
-    - [ ] Move to a discussion if this is a discussion
-    - [ ] If there is no definition of done
-        - Ask if we can find one
-        - Move to a discussion(?)
-        - Close as unfixable
-- [ ] Is this issue in the correct repository
+- [] Ensure it is in the correct repository?
+    - If not, move to a more appropriate repository
+- [] Ensure it is [an issue](#gh-gardening-items-issues)?
+    - Move to [a discussion](#gh-gardening-items-discussions) if appropriate
+- [ ] Ensure there is a definition of done
+    - Ask the author to find one if this isn't clear
+    - Move to a discussion if there needs to be a discussion to find one
+    - Close as unfixable if one cannot be found
 - [ ] Assign appropriate labels
-- [ ] Tag (or assign) relevant community members
+- [ ] Tag (or assign) community members who may be interested or who can help
 
 #### Fertilising
 
-- Ensuring issue is "in action"
-    - [ ] Post in the issue
-        - Is anyone working on the issue, has anyone been assigned?
-        - What support does the contributor need to fix the issue?
-    - [ ] Suggest actions
-        - Invite to post a Slack message
-        - Invite to collaboration cafe
-        - Link with another community member
+- [ ] Ensure issue is in action
+    - Check who is working on the issue and assign
+- [ ] Understand progress and challenges
+    - Check what support contributors need to fix the issue
+- [ ] Support assignees
+    - Tag community members who can help
+    - Invite to post a Slack message
+    - Invite to collaboration cafe
 
 #### Pruning
 
-- If the issue is stale (we should define stale) - I would hope we could automate at least some of this section
-    - If there is no stale label
-        - [ ] Mark as stale and leave a message
-    - If there is a stale label and x days have passed
-        - [ ] Close the issue as stale
+- [ ] Handle {term}`stale <Stale>` issues
+    - If there is no stale label, mark as stale and leave a message
+    - If there is a stale label and 30 days have passed, close the issue as stale
 
 ### PRs
 
