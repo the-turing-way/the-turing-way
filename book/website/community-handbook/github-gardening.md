@@ -92,17 +92,17 @@ They are not law but they are intended to help us understand what stage an item 
 
 ### Sowing
 
-Sowing is for new items.
-The sowing tasks are initial actions to ensure the best chance of success.
+Sowing ensures new items have the best chance of success.
+It makes sure items are visible and well defined.
 
 ### Fertilising
 
-Fertilising is for in progress items.
-These tasks are to help push them over the line, so that contributions can be made.
+Fertilising helps push in-progress items over the line, so that contributions can be finalised.
+We help keep contributors engaged and support them to overcome challenges.
 
 ### Pruning
 
-Pruning is for items which have gone {term}`stale <Stale>`.
+Pruning manages the end of life for items which have gone {term}`stale <Stale>`.
 This step keeps the repository clean, closing inactive or completed work while leaving the option for it to be continued in the future.
 
 (ch-gardening-checklists)=
