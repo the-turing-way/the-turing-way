@@ -75,6 +75,7 @@ Examples of good discussions are,
 - Polling the community
 - Discussing the options before opening an issue
 
+(gh-gardening-items-pull-requests)=
 ### Pull requests
 
 Pull requests are proposals to merge one branch into another.
@@ -143,33 +144,29 @@ This step keeps the repository clean, closing inactive or completed work while l
 
 #### Sowing
 
-- [ ] Is this a PR
+- [ ] Ensure it has the [correct status](#gh-gardening-items-pull-requests)
+    - Convert to "Draft" if it is still work in progress
+    - Convert to "Ready for review" if it is ready for final reviews
 - [ ] Assign appropriate labels
-- [ ] Convert to "Draft" or "Ready for review" as appropriate
-- [ ] Assign reviewers
-    Or tag people who may be interested
+- [ ] Assign or tag potential reviewers
 
 #### Fertilising
 
-- Getting the PR "over the line"
-    - [ ] Reach out to the contributor.
-        - How close are they to finished?
-        - What support do they need to finish?
-        - Do they have the time to complete this PR?
-    - [ ] Suggest(?) actions
-        - Invite to post a Slack message
-        - Invite to collaboration cafe
-        - Link with another community member
-        - Arrange for someone to adopt the PR
+- [ ] Check progress with the authors
+    - Ask how close are they to finished
+    - Understand what support they need
+- [ ] Support assignees
+    - Tag community members who can help
+    - Invite to post a Slack message
+    - Invite to collaboration cafe
+    - Arrange for someone to adopt the PR if the author no longer has time
 
 #### Pruning
 
-- Is there a realistic chance this PR will be merged?
-  Are the contributors still engaged?
-  Is the branch still well in sync with main?
-  - [ ] Reach out to draw attention to these issues
-  - [ ] Close the PR
+- [ ] Merge if it is ready, passes tests and has accepted reviews
+- [ ] Close if there is no realistic chance of a merge.
+  For example if the authors are not engaged or the branch is very far behind main
 
 :::{warning}
-Closing a PR may delete the branch which could result in loss of the commits on that branch.
+Closing a PR from a branch on _The Turing Way_'s repository will delete that branch and could result in loss of the commits.
 :::
