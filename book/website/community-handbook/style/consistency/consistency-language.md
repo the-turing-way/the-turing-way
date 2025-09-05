@@ -47,6 +47,6 @@ This makes _The Turing Way_ less distracting and easier to read.
 When writing content for _The Turing Way_, the use of Latin abbreviations is discouraged.
 This is because screen readers may read them aloud in a manner that is confusing to those who rely on such devices.
 
-Furthermore, as described in the {ref}`style guide<ch-style>`, contributions that contain Latin abbreviations will fail the _The Turing Way_ repository's continuous integration workflow.
+Please refer to the [style guide](#ch-style-writing-markdown-latin) for recommendations on how to avoid common Latin abbreviations in your writing.
 
-Please refer to the {ref}`style guide<ch-style>` for recommendations on how to avoid common Latin abbreviations in your writing.
+To enforce this consistency, contributions that contain Latin abbreviations will fail the _The Turing Way_ repository's continuous integration workflow.
