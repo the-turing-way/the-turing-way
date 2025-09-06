@@ -9,7 +9,7 @@ The access permission can be set so that the notes can be read by everyone and e
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to Framapad, please see this short guide: [https://framapad.org/](https://framapad.org/)==
+==If you are new to Framapad, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
 - **Location:** Online/in-person
