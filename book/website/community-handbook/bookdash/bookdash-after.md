@@ -20,7 +20,7 @@ Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesday
 These calls are 2 hour long co-working spaces for the _The Turing Way_ community.
 Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls, you can work on ideas for a new contribution or enhancement of existing content in the project.
 
-Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/\@KirstieJane/CollabCafe.
+Participants can sign up on this Framapad to attend the upcoming calls: https://hackmd.io/\@KirstieJane/CollabCafe.
 Anyone who would like to host these calls at other times, please get in touch with the team members.
 See more details in the {ref}`Coworking Calls<ch-community-calls-coworking>` chapter.
 
