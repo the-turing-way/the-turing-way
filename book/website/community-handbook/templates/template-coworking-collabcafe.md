@@ -1,7 +1,7 @@
 (ch-template-coworking-collabcafe)=
 # Collaboration Cafe Call Template
 
-*A permanent document exists in the Framapad: [https://framapad.org/abc/en/\@KirstieJane/CollabCafe](https://framapad.org/abc/en/\@KirstieJane/CollabCafe) that is regularly updated with the empty template for the next event.*
+*A permanent document exists in the Framapad: [https://hackmd.io/\@KirstieJane/CollabCafe](https://hackmd.io/\@KirstieJane/CollabCafe) that is regularly updated with the empty template for the next event.*
 
 ## _The Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
 
