@@ -1,7 +1,7 @@
 (ch-template-bookdash-index)=
 # Book Dash Main Shared Document
 
-*This template can be shared via a HackMD page to provide all information centrally for the Book Dash participants.
+*This template can be shared via a Framapad page to provide all information centrally for the Book Dash participants.
 The access permission can be set so that the notes can be read by everyone and edited by signed-in users.*
 
 ```
@@ -9,7 +9,7 @@ The access permission can be set so that the notes can be read by everyone and e
 
 ###### tags: `bookdash 2021` `may` `event`
 
-==If you are new to HackMD, please see this short guide: https://hackmd.io/\@turingway/hackmd-guide==
+==If you are new to Framapad, please see this short guide: https://hackmd.io/\@turingway/hackmd-guide==
 
 [TOC]
 
@@ -46,8 +46,8 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 
 - We will have an artist - Sophie Ong - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
   - (add dates)  <--- update this
-  - Please use this hackmd to check to see if other projects have booked to work with the artist:
-- Info to work with the artist at this hackmd: https://hackmd.io/\@turingway/bookdash-may2021-scriberia  <--- update this
+  - Please use this framapad to check to see if other projects have booked to work with the artist:
+- Info to work with the artist at this framapad: https://hackmd.io/\@turingway/bookdash-may2021-scriberia  <--- update this
 - See reusable images from previous book dash events: [Zenodo link](https://zenodo.org/record/3332807)
 
 :spiral_note_pad: Book Dash Main Events, DD Month YYYY <--- update this
