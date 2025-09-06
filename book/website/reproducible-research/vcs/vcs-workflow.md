@@ -19,7 +19,7 @@ In these cases, the use of a version control software is highly recommended.
 
 This process of creating a snapshot is described differently in different version control software.
 For example, Git describes it as "a commit". Some systems call it "a time-point" or "a checkpoint";
-and this is referred to as "saving your work" in other cases such as in [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
+and this is referred to as "saving your work" in other cases such as in [Google docs](https://docs.google.com/) or [Framapad](https://framapad.org/abc/en/).
 The version history may be more or less informative.
 
 As you keep saving your work by adding changes, you make more and more snapshots.
