@@ -1,14 +1,14 @@
 (ch-template-bookdash-github)=
 # Book Dash GitHub Session
 
-*This template can be shared via a HackMD page to facilitate a pre-event GitHub session for the Book Dash participants. The access permission can be set so that the notes can be read by everyone and edited by signed-in users.*
+*This template can be shared via a Framapad page to facilitate a pre-event GitHub session for the Book Dash participants. The access permission can be set so that the notes can be read by everyone and edited by signed-in users.*
 
 ```
 # Book Dash, DD Month YYYY - GitHub Session
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to HackMD, please see this short guide: [https://hackmd.io/\@turingway/hackmd-guide](https://hackmd.io/\@turingway/hackmd-guide)==
+==If you are new to Framapad, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
 - **Date:** DD Month <--- Update this
@@ -85,4 +85,3 @@ What worked? What did not work? What additional support would you need before or
 
 -
 -
-```
