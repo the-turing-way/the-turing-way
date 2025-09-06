@@ -24,16 +24,11 @@ If you are interested in coworking with one of the team members on a day that is
 
 The resource requirement for these calls is also very similar to the Collaboration Cafe.
 
-1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/\@turingway/coworking-call](https://hackmd.io/\@turingway/coworking-call) –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call](https://annuel2.framapad.org/p/ttw-coworking-call)
-2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
-3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
+1. Shared notes by [Framapad](https://hackmd.io/): [https://hackmd.io/\@turingway/coworking-call] –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call]
 
-We don't record these calls.
-We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unless there are multiple people working on the same thing.
+2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the Framapad.
 
-### Format of the call
-
-We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared HackMD](https://hackmd.io/\@malvikasharan/TW-coworking) for each week.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared Framapad](https://hackmd.io/\@malvikasharan/TW-coworking) for each week.
 
 We'll run the following schedule during each call:
 
