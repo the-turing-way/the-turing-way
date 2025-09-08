@@ -607,6 +607,12 @@ Source Available
 Staged
 : Staging the changes that will be included in the next git commit.
 
+Stale
+: {term}`Issues` and {term}`pull requests <Pull Request>` become stale when they have been open for an extended period of time with no progress or engagement.
+  This becomes a problem as the chance of these issues being completed reduces, as knowledge and enthusiasm are lost.
+  It is also possible that bug reports become so out of date they are no longer relevant, or pull requests are so far out of sync that merging is difficult.
+  There is no canonical definition of stale, however, some progress may use automation to close items after a set period of inactivity.
+
 Stochastic Code
 : Code which, while correct, does not always output the same result. For example a program that outputs ten random numbers will generate a different result each time, despite being correct.
 
