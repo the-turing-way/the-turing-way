@@ -20,14 +20,20 @@ serve:
 # Build the book and export as HTML
 book:
 	cd website && jupyter-book build --html
+	# Temporary hack to remove unused thebe JS
+	rm website/_build/html/*thebe*.js
 
 # Build the book stopping on errors
 strict:
 	cd website && jupyter-book build --html --strict
+	# Temporary hack to remove unused thebe JS
+	rm website/_build/html/*thebe*.js
 
 # Build the book in a non-interactive environment (for CI)
 ci:
 	cd website && jupyter-book build --html --ci
+	# Temporary hack to remove unused thebe JS
+	rm website/_build/html/*thebe*.js
 
 # Clean any build outputs and artifacts
 clean:
