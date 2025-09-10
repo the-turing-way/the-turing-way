@@ -1396,7 +1396,10 @@
       "contributions": [
         "bug",
         "content",
-        "review"
+        "review",
+        "infra",
+        "tool",
+        "maintenance"
       ]
     },
     {
