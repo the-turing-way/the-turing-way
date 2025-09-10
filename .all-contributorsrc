@@ -2328,7 +2328,12 @@
       "contributions": [
         "content",
         "bug",
-        "infra"
+        "infra",
+        "tool",
+        "eventOrganizing",
+        "maintenance",
+        "review",
+        "talk"
       ]
     },
     {
