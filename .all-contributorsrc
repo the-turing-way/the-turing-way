@@ -934,7 +934,9 @@
         "code",
         "infra",
         "bug",
-        "a11y"
+        "a11y",
+        "talk",
+        "maintenance"
       ]
     },
     {
