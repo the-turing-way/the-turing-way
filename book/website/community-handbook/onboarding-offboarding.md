@@ -9,6 +9,8 @@ These onboarding and offboarding documents are living documents – as is _The T
 
 As you will learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). In other words: as the project evolves – so will the team that enables its sustainability as a project.
 
+_Note: we often use Framapad for community-shared notes._
+
 Or alternatively, whether it's changed responsibilities, a new job, shifting interests, or any other reason –– we understand that life happens, and that communities will always be shifting and evolving! While we are sad to see you go for now, we hope that you'll stay engaged with us in *The Turing Way* community! 
 
 Whether you are joining

@@ -36,7 +36,7 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Send an email to the unselected attendees with feedback
 - [ ] Set up an email chain and a Slack channel to connect all members and share updates
 - [ ] Update presentation for introducing the project to the participants on day-1 of the Book Dash
-- [ ] Update shared HackMD for `pre-event calls<ch-template-bookdash-precall>`, {ref}`book dash event<ch-template-bookdash-notes>` and {ref}`feedback<ch-template-bookdash-feedback>`
+- [ ] Update shared Framapad for `pre-event calls<ch-template-bookdash-precall>`, {ref}`book dash event<ch-template-bookdash-notes>` and {ref}`feedback<ch-template-bookdash-feedback>`
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
 - [ ] Group participants into the proposed working groups as per their SMART goals from the onboarding call

@@ -15,7 +15,7 @@ This onboarding checklist is no longer in active use, it has been added to the C
 - [ ] Change [Github repository](https://github.com/the-turing-way/the-turing-way) permissions as needed
 - [ ] Add to appropriate section of [Governance Roles document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md) 
 - [ ] (If applicable) Participate in [Enrichment Exit Process](https://mathison.turing.ac.uk/page/3021?SearchId=0) for the Alan Turing Institute
-- [ ] (If applicable) Remove from HackMD team for The Turing Way
+- [ ] (If applicable) Remove from Framapad team for The Turing Way
 - [ ] (If applicable) Give Accounts/Password Access on Keybase
 - [ ] (If applicable) Remove from the [Core Google Drive](https://drive.google.com/drive/u/0/folders/1bdjA-fBotMi9CnjDqu84d5hPZWwjgi-x)
     - [ ] Remove email from [promotion pack](https://drive.google.com/drive/u/1/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF) folder
