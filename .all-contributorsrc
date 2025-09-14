@@ -19,7 +19,7 @@
     "a11y": {
       "symbol": "♿️",
       "description": "Accessibility",
-	  "link": "https://book.the-turing-way.org/afterword/subprojects.html#accessibility-working-group"
+      "link": "https://book.the-turing-way.org/afterword/subprojects.html#accessibility-working-group"
     },
     "content": {
       "symbol": "🖋",
@@ -934,7 +934,9 @@
         "code",
         "infra",
         "bug",
-        "a11y"
+        "a11y",
+        "talk",
+        "maintenance"
       ]
     },
     {
@@ -1396,7 +1398,10 @@
       "contributions": [
         "bug",
         "content",
-        "review"
+        "review",
+        "infra",
+        "tool",
+        "maintenance"
       ]
     },
     {
@@ -2326,7 +2331,14 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/6788290?v=4",
       "profile": "https://bsipocz.github.io/",
       "contributions": [
-        "content"
+        "content",
+        "bug",
+        "infra",
+        "tool",
+        "eventOrganizing",
+        "maintenance",
+        "review",
+        "talk"
       ]
     },
     {
