@@ -13,12 +13,6 @@ project:
   license:
     code: MIT
     content: CC-BY-4.0
-  thebe:
-    binder:
-      repo: the-turing-way/the-turing-way
-      provider: github
-      url: https://mybinder.org
-      ref: main
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
     - plugins/github.mjs
