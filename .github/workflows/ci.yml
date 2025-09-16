@@ -63,7 +63,7 @@ jobs:
         working-directory: ./book
 
       - name: Check offline links
-        uses: lycheeverse/lychee-action@v2.0.2
+        uses: lycheeverse/lychee-action@v2
         with:
           args: --config './lychee.toml' --no-progress --offline --root-dir "$GITHUB_WORKSPACE/book/website/_build/html/" 'book/website/_build/html/**/*.html'
           fail: true
