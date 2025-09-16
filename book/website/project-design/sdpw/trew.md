@@ -22,7 +22,7 @@ To learn more about what TREs are, check out [the graphic and video on this page
 
 In general, researchers working in TREs will find that much of the same guidance for working effectively and reproducibly as outlined in the {ref}`Guide for Reproducible Research<rr-overview>` section will be just as relevant as in any other computing environment.
 
-There are however some important questions to consider when working in TREs that will affect the your development workflow for scientific code writing and data analysis:
+There are however some important questions to consider when working in TREs that will affect your development workflow for scientific code writing and data analysis:
     
 **1) Does the TRE have internet access?**
     
