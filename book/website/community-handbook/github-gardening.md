@@ -17,31 +17,32 @@ Gardening work plays an important role in maintaining the quality of a project.
 [Continuous integration processes](#rr-ci) and [code review](#rr-reviewing) help to ensure the quality of contributions as they are merged.
 However, there are many other aspects of the community where gardeners can help.
 
-You should focus on keeping the quality of issues, discussions and pull requests high.
-You shouldn't be afraid to close items or ask for changes.
+Gardeners should focus on keeping the quality of issues, discussions and pull requests high.
+Gardeners shouldn't be afraid to close items or ask for changes.
 Gardening work makes items higher quality, which improves the chances they will be seen, have engagement and get completed.
 
 ### Be a mentor
 
 Gardeners can mentor community members, teaching them new skills and encouraging best practice.
-You should look to share your knowledge and teach others.
-However, don't feel you have to personally fix problems or that you have to take on work when you ask for changes.
+Gardeners should look to share their knowledge and teach others.
+However, gardeners shouldn't feel they have to personally fix problems or take on work when they ask for changes.
 
 ### Use your knowledge
 
 Contributing to a project as a new community member can be intimidating.
-There is a lot of institutional knowledge that is difficult to learn or share.
-Gardeners should use their experience to help contributors, for example, recommending people who would be interested in a pull request or pointing to style conventions in the [](#ch).
+There is a lot of institutional knowledge that is difficult to learn and share.
+Gardeners should use their experience to help contributors.
+For example, recommending people who would be interested in a pull request or pointing to style conventions in the [](#ch).
 
 ### Be a human
 
-In the process of gardening, you may have to take actions that might be difficult for others.
-For example, closing an issue as "will not fix" or requesting large changes to a contribution.
-You may also find taking this kind of action difficult yourself.
+In their work, gardeners may have to take actions that might be difficult for others to accept or understand.
+For example, closing an issue as "will not fix" or requesting large changes to a pull request.
+Gardeners may also find taking this kind of action difficult themselves.
 
-You should remember to be kind to other.
-If you have to say anything that may be difficult to accept or understand, take some time to explain.
-Remember to be welcoming, a project can only survive with contributors, and everyone starts as a new contributors.
+Gardeners must remember to be kind to others.
+If gardeners need to say anything that may be difficult, they should take some time to explain.
+They should remember to be welcoming; a project can only survive with contributors, and everyone starts as a new contributors.
 
 ## GitHub item usage
 
