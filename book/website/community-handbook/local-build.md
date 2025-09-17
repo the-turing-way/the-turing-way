@@ -50,7 +50,7 @@ Navigate into the repository using the command `cd the-turing-way`; the `cd` com
 Create a virtual environment using Python,
 
 ```console
-$ python3 -m venv ./venv
+python3 -m venv ./venv
 ```
 
 Next, active the virtual environment,
@@ -58,13 +58,13 @@ Next, active the virtual environment,
 :::{tab-item} Unix
 :sync: Unix
 ```console
-$ source ./venv/bin/activate
+source ./venv/bin/activate
 ```
 :::
 :::{tab-item} Windows
 :sync: Windows
 ```console
-$ venv\Scripts\activate
+venv\Scripts\activate
 ```
 :::
 ::::
@@ -82,13 +82,13 @@ That way we can easily run the same commands repeatedly, and in different enviro
 It is easiest to change into the directory containing the Makefile,
 
 ```console
-$ cd book
+cd book
 ```
 
 Install the build dependencies into your virtual environment,
 
 ```console
-$ make deps
+make deps
 ```
 
 ### Serve the book locally
@@ -97,7 +97,7 @@ When you serve the book, it will be deployed on a local webserver which updates 
 To serve the book locally run,
 
 ```console
-$ make serve
+make serve
 ```
 
 Once the build has succeeded, you can open <http://localhost:3000/> in your browser.
@@ -114,7 +114,7 @@ If you have just cloned the repository, that will be the `main` branch.
 To build another branch, for example a feature branch you are working on you first switch to that branch,
 
 ```console
-$ git switch mybranch
+git switch mybranch
 ```
 
 If you are already running `make serve`, you should see the book updating automatically. Otherwise you can run `make serve` again.
@@ -127,7 +127,7 @@ If you are already running `make serve`, you should see the book updating automa
 You can build the book, writing the outputs as HTML,
 
 ```console
-$ make book
+make book
 ```
 
 The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
@@ -142,7 +142,7 @@ Clearing these files to force a build from scratch may reveal errors and warning
 To remove the outputs of builds use the `clean` target,
 
 ```console
-$ make clean
+make clean
 ```
 
 (other-targets:strict)=
@@ -154,7 +154,7 @@ That way, all warnings should be presented to you as errors.
 Run the strict build with,
 
 ```console
-$ make strict
+make strict
 ```
 (recommend)=
 ## Why We Recommend Using a Virtual Environment
