@@ -36,7 +36,7 @@ jobs:
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html'
+          args: --config './lychee.toml' --no-progress '--root-dir "$GITHUB_WORKSPACE/book/website/_build/html/" book/website/_build/html/**/*.html'
           fails: false
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runner's GitHub token to avoid rate limiting
