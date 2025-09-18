@@ -52,7 +52,7 @@ It's great to have colleagues that understand this and can be there to give advi
 RCM work is very varied and challenging. It's great for people, like me, that love problem solving and not knowing what the next day will bring. 
 
 RCM work is also great experience and a wonderful stepping stone into senior research roles. 
-Alot of the work we do involves skills that are needed for Team leads or Principal Investigators such as stakeholder management and engagement. 
+A lot of the work we do involves skills that are needed for Team leads or Principal Investigators such as stakeholder management and engagement. 
 We also often work at the strategic level of projects and very closely with senior team members. 
 This experience is excellent for career progression.
 

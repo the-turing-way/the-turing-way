@@ -8,7 +8,7 @@ height: 500px
 name: Public and Patient Involvement in Research
 alt: Members of the public and people with lived experience of medical conditions are health care are shown collaborating with data scientists, clinicians, health care providers, and professors on a research project. There are intersecting circles to demonstrate that the research project is only possible because everyone involved is contributing and listening to the people with lived experience. 
 ---
-Collaborating with Members of the Public: Actively involving members of the public and experts with lived experience in the design, development, and delivery of projects can greately improve the quality and relevance of the research. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The AI for Multiple Long Term Conditions Research Support Facility community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI [10.5281/zenodo.8082554](https://doi.org/10.5281/zenodo.8082554).
+Collaborating with Members of the Public: Actively involving members of the public and experts with lived experience in the design, development, and delivery of projects can greatly improve the quality and relevance of the research. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The AI for Multiple Long Term Conditions Research Support Facility community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI [10.5281/zenodo.8082554](https://doi.org/10.5281/zenodo.8082554).
 ```
 
 (cl-ppie-events-summary)=

@@ -38,7 +38,7 @@ Open source offers opportunities to practice leadership and management skills, s
 
 ### Making Your Work Open Source
 
-- _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research.
+- _Re-usability_: Making your work openly available for reuse makes it easier for others to incorporate into their research.
 If you make your software citeable, via a DOI [{term}`def<Digital Object Identifier>`] for example, this can increase your citations.
 - _Contribution_: When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
 If your project is open, the number of potential contributing developers and thus the potential knowledge pool is orders of magnitude larger.
@@ -61,7 +61,7 @@ Open source provides an endless, ever-changing set of Rubix cubes for you to sol
 There are several ways in which open-source software benefits research:
 
 (rr-open-source-benefitsresearch-reusable)=
-### Re-usable
+### Reusable
 
 Open source software projects allow researchers to take advantage of each others’ work.
 This enables researchers to apply their efforts to high-value work.

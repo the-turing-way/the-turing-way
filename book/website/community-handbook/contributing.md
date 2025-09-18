@@ -10,7 +10,7 @@ Since _The Turing Way_ is written asynchronously by multiple authors around the 
 ---
 height: 400px
 name: that-could-be-a-chapter
-alt: A sketch of Kirstie saying “That could be a chapter”
+alt: Illustration by Scriberia for The Turing Way, showing a contributor having an idea for a chapter on The Turing Way. The contributor in question is named Kirstie Whitaker and she is on the left hand side of the illustration saying "THAT COULD BE A CHAPTER IN THE TURING WAY". On the right hand side is a sketch of a physical book named "THE TURING WAY", with stream of speech bubbles, comments and squares starting from the the left-hand side, going behind Kirsty and entering the spine of the book.
 ---
 "That could be a chapter in The Turing Way!" - Kirstie Whitaker. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
