@@ -955,6 +955,8 @@ project:
               title: Pathways
             - file: community-handbook/infrastructure/infrastructure-plugins.md
               title: MyST Plugins
+        - file: community-handbook/github-gardening.md
+          title: GitHub Gardening
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
