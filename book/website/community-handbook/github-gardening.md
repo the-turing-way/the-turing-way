@@ -170,6 +170,7 @@ This step keeps the repository clean, closing inactive or completed work while l
 
 :::{warning}
 Closing a PR from a branch on _The Turing Way_'s repository will delete that branch and could result in loss of the commits.
+Closing a PR will not delete a branch on a fork.
 :::
 
 ### Discussions
