@@ -934,7 +934,9 @@
         "code",
         "infra",
         "bug",
-        "a11y"
+        "a11y",
+        "talk",
+        "maintenance"
       ]
     },
     {
@@ -1396,7 +1398,10 @@
       "contributions": [
         "bug",
         "content",
-        "review"
+        "review",
+        "infra",
+        "tool",
+        "maintenance"
       ]
     },
     {
@@ -2326,7 +2331,14 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/6788290?v=4",
       "profile": "https://bsipocz.github.io/",
       "contributions": [
-        "content"
+        "content",
+        "bug",
+        "infra",
+        "tool",
+        "eventOrganizing",
+        "maintenance",
+        "review",
+        "talk"
       ]
     },
     {
@@ -5343,6 +5355,24 @@
       "name": "JZhou-ScottLogic",
       "avatar_url": "https://avatars.githubusercontent.com/u/205162886?v=4",
       "profile": "https://github.com/JZhou-ScottLogic",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JohnnyRobs19",
+      "name": "Jonathan Siew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145652841?v=4",
+      "profile": "https://github.com/JohnnyRobs19",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "TylerGHawthorne",
+      "name": "TylerGHawthorne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/218156932?v=4",
+      "profile": "https://github.com/TylerGHawthorne",
       "contributions": [
         "content"
       ]
