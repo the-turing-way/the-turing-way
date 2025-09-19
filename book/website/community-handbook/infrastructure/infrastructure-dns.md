@@ -47,7 +47,7 @@ dig [@DNS-server] [domain] [record-type]
 For example, we can check the A record for `book.the-turing-way.org` using Google's DNS server (`8.8.8.8`) like this
 
 ```console
-dig @8.8.8.8 book.the-turing-way.org A
+$ dig @8.8.8.8 book.the-turing-way.org A
 
 ; <<>> DiG 9.10.6 <<>> @8.8.8.8 book.the-turing-way.org A
 ; (1 server found)

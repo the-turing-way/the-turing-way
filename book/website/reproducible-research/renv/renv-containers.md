@@ -536,7 +536,7 @@ Create a new file in the `tmp` directory and close the container:
 
 Inspect the files in `tmp` on the host. The file `a.txt` was modified by the container process:
 ```console
-cat tmp/a.txt
+$ cat tmp/a.txt
 Hello
 World!
 ```
