@@ -6,7 +6,7 @@ Research Infrastructure Developers (RIDs) are experts in building and maintainin
 (cl-infrastructure-rid-role)=
 ## What do Research Infrastructure Developers do? 
 
-Research Infrastructure Developers design and build the computational and data infrastructure for researchers, making use of best practice techniques such as software defined infrastructure, continuous integration and deployment, version control) to create systems that are performant, resiliant and easy to (re-)deploy and maintain.
+Research Infrastructure Developers design and build the computational and data infrastructure for researchers, making use of best practice techniques such as software defined infrastructure, continuous integration and deployment, version control) to create systems that are performant, resilient and easy to (re-)deploy and maintain.
 
 They may be attached to a specific project or they may work as part of a team building and supporting larger, shared services (most usually both).
 

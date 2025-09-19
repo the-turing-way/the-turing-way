@@ -18,7 +18,7 @@ New translated and approved files are sent back automatically to the translation
 
 Most of this process is done automatically, translators do not need to interact with GitHub in any way.
 
-```{figure} ../../figures/workflow-crowdin.*
+```{figure} ../../../figures/workflow-crowdin.*
 ---
 name: create-account-crowdin
 width: 80%
@@ -27,12 +27,15 @@ alt: The workflow used in Crowdin.
 The Translation workflow, which is located on a fork of _The Turing Way_ repository inside the [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account.
 ```
 
+## Multideployment of Localised Versions
+
+Currently, there is no deployment for the book in different languages due to difficulties with Netlify multi-deployment. The Turing Way will be migrating to a different deployment platform to support multi-deployment of the book. The localisation working group has created [a log](https://hackmd.io/0ohbT9_rQJCBWDkC20mzgA?both) that contains challenges and updates in their work to streamline the multi-deployment. This log can be accessed on HackMD and is continually updated.
 
 ## Join the Translation Team in Crowdin
 
 - **Create an account in our Crowdin project** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 
-```{figure} ../../figures/create-account-crowdin.*
+```{figure} ../../../figures/create-account-crowdin.*
 ---
 name: create-account-crowdin_
 width: 90%
@@ -50,7 +53,7 @@ If you have an account in [crowdin.com](https://crowdin.com/), you will still ne
 
 - **Read the landing page of _The Turing Way_** and README to understand the vision and mission of _The Turing Way_ Book.
 
-```{figure} ../../figures/README.gif
+```{figure} ../../../figures/README.gif
 ---
 name: explore-readme-crowdin
 width: 90%
@@ -72,7 +75,7 @@ alt: Crowdsourcing page in Crowdin which has three tabs, one showing the languag
 If your language is not in the list, please feel free to contact one of the managers and ask for a new language through Crowdin or Slack.
 ```
 
-```{figure} ../../figures/add-language-crowdin.gif
+```{figure} ../../../figures/add-language-crowdin.gif
 ---
 name: add-language
 width: 90%
@@ -94,7 +97,7 @@ alt: You can add a new language by contacting one of the managers.
     One of these is the task tab.
     In the Tasks, we assign tasks to get files translated or proofread by the community or set the due dates and receive notifications about the changes and updates in tasks.
 
-```{figure} ../../figures/tasks-crowdin.gif
+```{figure} ../../../figures/tasks-crowdin.gif
 ---
 name: tasks-crowdin
 width: 90%
@@ -110,7 +113,7 @@ alt: You can add a new task to Crowdin by clicking on the console at the top and
 The arrow icons next to the high priority files are always pointing up and coloured red!  
 ```
 
-```{figure} ../../figures/choose-file-crowdin.gif
+```{figure} ../../../figures/choose-file-crowdin.gif
 ---
 name: choose-file-crowdin
 width: 90%

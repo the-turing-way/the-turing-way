@@ -1,11 +1,11 @@
 (er-datahazardshowtouse)=
 # How to use the Data Hazards project
 
-```{figure} ../../figures/data-hazard.*
+```{figure} ../../../figures/data-hazard.*
 ---
 height: 500px
 name: data-hazard
-alt: A cartoon sketch of a female-presenting researcher using the Data Hazard labels on a research project. The first section in the image is the researcher looking at 10 data hazard labels under the heading 'Learn'. An arrow leads to the next step, where under the heading 'Apply' the group of people are looking at a research paper with the researcher and talking to one another, one person is raising a hand to ask a question. An arrow then leads to 'Display' where the researcher is pointing to their paper infront of an audience, with the hazard labels on each side. Learn, Apply and Display are all connected to the bigger title of Reflect, surrounded by a thought bubble. To the right-hand side of the Reflect heading, the researcher and another person are sticking hazard labels to a piece of paper.
+alt: A cartoon sketch of a female-presenting researcher using the Data Hazard labels on a research project. The first section in the image is the researcher looking at 10 data hazard labels under the heading 'Learn'. An arrow leads to the next step, where under the heading 'Apply' the group of people are looking at a research paper with the researcher and talking to one another, one person is raising a hand to ask a question. An arrow then leads to 'Display' where the researcher is pointing to their paper in front of an audience, with the hazard labels on each side. Learn, Apply and Display are all connected to the bigger title of Reflect, surrounded by a thought bubble. To the right-hand side of the Reflect heading, the researcher and another person are sticking hazard labels to a piece of paper.
 
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -72,7 +72,7 @@ Ideally, the best time to apply the labels is close to the beginning of the rese
 However, much of our research builds on itself, so researchers have also found [workshops](https://datahazards.com/contents/materials/workshop.html) useful to reflect and plan what they can do better in follow-up projects.
 
 At the beginning of your workflow, you might want to prepare to avoid certain Data Hazards if you can, and if you can't avoid them because of where your data has come from, you may want to acknowledge this. 
-For example, if you have a [sensitive data project](https://the-turing-way.netlify.app/project-design/sdp.html), what Data Hazard labels will apply, and/or what can you do to design your project in a way that avoids certain harms?
+For example, if you have a [sensitive data project](https://book.the-turing-way.org/project-design/sdp.html), what Data Hazard labels will apply, and/or what can you do to design your project in a way that avoids certain harms?
  
 As you are collecting and analyzing your data, you might want to iteratively think of the potential Data Hazards that exist in the information you are actively collecting. 
 If you have a project where data has already been collected in the past, you can still apply and think of what labels may be relevant to the dataset. 

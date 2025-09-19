@@ -5,10 +5,17 @@ In the {ref}`rr-overview-definitions` section, we discussed the different aspect
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
 
-```{figure} ../../figures/reasons-reproducibility.*
+```{figure} ../../../figures/reasons-reproducibility.*
 ---
 name: reasons-reproducibility
-alt: Why we should care about working reproducibly.
+alt: > 
+  Six different reasons for why we should care about working reproducibly shown as a large grey rectangular box with six different images. 
+  Tracking Project history illustrated with a clock. 
+  Collaborate and review illustrated with two intersecting magnifying glasses over a ladybug. 
+  Avoid misinformation illustrated as a document of notes with a large tick on it. 
+  Write paper efficiently illustrated as a notes document with three different versions on the left side merging into the main document. 
+  Get credit fairly illustrated by an award rosette. 
+  And finally ensure continuity illustrated by a triangle with arrows showing continued working going around and around.
 ---
 An illustration of reasons why we should care about working reproducibly.
 ```
@@ -46,7 +53,7 @@ This fair credit system encourages researchers to further maintain reproducibili
 **6. Ensure continuity of your work**
 
 By following guidelines for reproducibility, we can easily communicate our work with different stakeholders such as our supervisors, funders, reviewers, students, and potential collaborators.
-This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and re-use our research materials {cite:ps}`MozillaScienceLab`.
+This aspect of reproducibility increases the usefulness of our research by enabling others to easily build on our results, and reuse our research materials {cite:ps}`MozillaScienceLab`.
 This ensures the continuity of a research idea and can even find fresh applications in other contexts.
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite:ps}`Markowetz2015`.
 

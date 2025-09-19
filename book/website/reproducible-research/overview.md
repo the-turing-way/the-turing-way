@@ -6,10 +6,10 @@
 
 No previous knowledge needed.
 
-```{figure} ../figures/research-cycle.*
+```{figure} ../../figures/research-cycle.*
 ---
 name: research-cycle
-alt: The research process is represented as a perpetual cycle of generating research ideas, performing data planning and design, data collection, and data processing and analysis, publishing, preserving and hence, allowing re-use of data. 
+alt: The research process is represented as a perpetual cycle of generating research ideas, performing data planning and design, data collection, and data processing and analysis, publishing, preserving and hence, allowing reuse of data.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -28,6 +28,6 @@ Major media outlets have [reported on](https://www.theguardian.com/science/2018/
 
 In addition, "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {cite:ps}`Dirnagl2010bias`.
 
-For further reading resources on reproducibility, please check out the {ref}`Resources <rr-overview-resources>` subchapter.
+For further reading resources on reproducibility, please check out the [Resources](#rr-overview-resources) subchapter.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

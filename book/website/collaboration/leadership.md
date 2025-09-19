@@ -15,14 +15,6 @@ Open leaders might not necessarily be the same people who have formal authority 
 Nonetheless, open leaders work towards facilitating an environment that empowers others to collaborate equitably, identify shared challenges, develop shared goals, and address them with a shared sense of agency.
 In the long term, their work contributes to the success of projects, and institutional goals and hence should be rewarded with formal titles, recognitions, and positive culture change.
 
-```{figure} ../figures/healthy-leadership.png
----
-name: healthy-image
-alt: Leadership is illustrated as a fractal where different people are watering growing flowers in the different places - that is leading to new fractals with more people. There are a few quotes written on ths image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
----
-Illustration of Healthy Leadership by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154).
-We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent Strategy.
-```
 ## Open Leadership Framework
 
 *The Turing Way* embodies Open Leadership and has its origin in Mozilla's Open Leadership Framework.
@@ -53,16 +45,16 @@ _The Turing Way_ is built upon Open Leadership principles, which involve and sup
 
 Data science is **broadly and inclusively** considered as study of data to draw meaningful insights, contribute to the technological advances and benefit society by informing decisions across all sectors.
 
-```{figure} ../figures/leadership-wordcloud.jpg
+```{figure} ../../figures/leadership-wordcloud.jpg
 ---
 width: 500px
 name: leadership-wordcloud
-alt: Workdcloud taken from wikipedia that highlights these words as more prominent than others
+alt: Word cloud of terms related to leadership, where the size of each word reflects its frequency or emphasis. Central and most prominent words include “leadership,” “group,” “relationship,” “organization,” “goal,” “followers,” and “traits.” Other notable terms include “leadership style,” “team,” “self,” “emotional intelligence,” “task,” and “assertiveness.” A mix of concepts appear, ranging from theories like “contingency theory” and “trait theory” to contextual terms such as “women,” “employees,” and “informal organization.” The words are displayed in varying shades of blue and orange.
 ---
 Words that stand out in a word cloud from [the Wikipedia entry](https://en.wikipedia.org/wiki/Leadership) about leadership.
 ```
 
-Theoretical frameworks from business schools, executive training and resources often explain, define, or assess leadership skills as traits such as "popularity, power, showmanship, or wisdom" which are not really the essence of leadership ([Harvard Business Review](https://hbr.org/2004/01/understanding-leadership)).
+Theoretical frameworks from business schools, executive training and resources often explain, define, or assess leadership skills as traits such as "popularity, power, showmanship, or wisdom" which are not the essence of leadership ([Harvard Business Review](https://hbr.org/2004/01/understanding-leadership)).
 There is no such thing as a fixed set of leadership skills and not all great leaders have the same traits, strengths or [leadership styles](https://www.skillsyouneed.com/lead/leadership-styles.html).
 
 In the context of data science, where we strive to advance our knowledge through validated scientific methods based on data, talking about leadership, essentially a nuanced and fuzzy concept, is challenging to define.
@@ -74,7 +66,7 @@ In data science and research, discussions and upskilling in leadership are extre
 * (Open) Leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
 
 In this chapter, we explore different aspects of (open) leadership skills that are applicable in the data science and research contexts. 
-After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" (as stated in the [Welcome page of The Turing Way](https://the-turing-way.netlify.app/)).
+After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" (as stated in the [Welcome page of The Turing Way](https://book.the-turing-way.org/)).
 
 We hope that by discussing leadership here, we will:
 * Spotlight on important points that everyone in research should know

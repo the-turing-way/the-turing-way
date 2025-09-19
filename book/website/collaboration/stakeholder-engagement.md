@@ -42,7 +42,7 @@ This is motivated by the fact that different teams may have different ways of wo
 Once the information is gathered in a single place, you can identify questions and highlights from the interviews to prompt group discussion for alignment.
 
 ### Example resources
-- Turing RAM team [requirements gathering questionnaire example](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/requirements_gathering.md) for understanding different team approaches to creating case studies.
+- Turing RAM team [requirements gathering questionnaire example](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/stakeholder_workshops/requirements_gathering.md) for understanding different team approaches to creating case studies.
 
 ### RAM insights
 - Often times different people will use the same term to mean completely different things or for different purposes.
@@ -54,14 +54,14 @@ This glossary should be a living and breathing document, that can be updated, an
 ## Organising stakeholder workshops
 ### Key question: What work before, during, and after a workshop should be done to run an effective stakeholder workshop?
 
-Workshops are best suited for engagement activites where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task, as opposed to gatherings which are purely driven by conversation. 
+Workshops are best suited for engagement activities where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task, as opposed to gatherings which are purely driven by conversation. 
 This ensures participants are taking active steps towards achieving a shared goal.
 
 Organising an effective workshop is a multi stage process which can be segmented into three stages; pre-workshop, workshop, and post-workshop.
 We think it's important to prepare for each stage with equal weight and consideration to ensure the best process for participants throughout.
 
 ### Example resources
-- [RAM Stakeholder Workshop Checklist](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/stakeholder_workshops.md) with key steps and considerations the pre-workshop, workshop, and post-workshop stages
+- [RAM Stakeholder Workshop Checklist](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/stakeholder_workshops/stakeholder_workshops.md) with key steps and considerations the pre-workshop, workshop, and post-workshop stages
 
 ### RAM insights
 - Be prepared to rein in conversations which labour a point with no apparent solution
@@ -84,7 +84,7 @@ A helpful model to inform this exercise is Simon Sinek's [Golden Circle method](
 It is important to take these conversations in order, so that strategy alignment can be built from the bottom-up.
 
 ### Example resources
-- [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What conversations
+- [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/team_strategy/index.md) on facilitating Why/How/What conversations
 - {ref}`Chairing Events <cl-chairing>`
 - {ref}`Tools for Collaboration <cl-event-tools>`
 

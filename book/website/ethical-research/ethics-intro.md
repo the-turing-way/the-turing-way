@@ -5,7 +5,7 @@
 
 This section briefly introduces the key concepts of *Responsible Research and Innovation* (RRI) and *Research Integrity*.
 Both refer to different questions within the field of research ethics.
-Below is a table summarising these questions.
+Below is a table summarising these questions:
 
 | Factor | RRI | Research Integrity |
 | -------- | -------- | -------- |
@@ -13,7 +13,7 @@ Below is a table summarising these questions.
 | **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
 | **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
-```{figure} ../figures/ethical-research.*
+```{figure} ../../figures/ethical-research.*
 ---
 name: ethical-research
 alt: One person looks for research integrity and another person holds up a map and looks for the research consequences.
@@ -105,7 +105,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
  The point here is to work with data subjects in a respectful and inclusive way.
  One (in)famous case in which there was no respect for data subjects was the Tuskagee experiments, wherein African-American men were recruited to study the development of untreated syphilis, but the volunteers were falsely told they were receiving free treatment — the monitoring and lies persisted for forty years {cite:ps}`cdc2021theus`.
  On the other hand, we can question how scientists engage with fellow researchers.
- We can here discuss the importance of codes of conduct in open source collaborations, for example, [*The Turing Way*'s](https://the-turing-way.netlify.app/community-handbook/coc.html?highlight=code%20conduct); or — returning to “research misconduct” — how one might engage in authorship fraud.
+ We can here discuss the importance of codes of conduct in open source collaborations, for example, [*The Turing Way*'s](https://book.the-turing-way.org/community-handbook/coc.html?highlight=code%20conduct); or — returning to “research misconduct” — how one might engage in authorship fraud.
  Once again, there are many examples of this sort of practice.
  From being insincere about who contributed to a paper because the academic incentives system almost encourages this {cite:ps}`Harvey2018GiftHonorary` to inventing entirely fictional authors {cite:ps}`lowe2016afield,marcus2016why`, these are questions that are not commonly within the public’s purview.
 

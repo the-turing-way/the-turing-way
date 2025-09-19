@@ -67,6 +67,10 @@ headers = []
 # Remap URI matching pattern to different URI.
 # remap = [ "https://example.com http://example.invalid" ]
 
+# Fallback extensions to apply when a URL does not specify one.
+# This is common in documentation tools that cross-reference files without extensions.
+fallback_extensions = ["md", "html"]
+
 # Base URL or website root directory to check relative URLs.
 # base = "https://example.com"
 
@@ -96,9 +100,7 @@ exclude = [
 
 # Exclude these filesystem paths from getting checked.
 exclude_path = [
-  "book/website/_build/html/_sources/",
-  "book/website/_build/html/_static/webpack-macros.html",
-  "book/website/_build/html/_static/sbt-webpack-macros.html",
+  "book/website/_build/html/build/",
   ]
 
 # URLs to check (supports regex). Has preference over all excludes.

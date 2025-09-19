@@ -30,7 +30,7 @@ The rise in this global average temperature is strikingly illustrated by the ‘
 The general trend shows a progression, over the past few centuries or so, from there being more blue on the left (towards the past) to more red on the right (towards the present). In short, the surface of our planet is, overall and year-on-year, warming!
 
 
-```{figure} ../../figures/global_warming_stripes.*
+```{figure} ../../../figures/global_warming_stripes.*
 ---
 height: 500px
 name: Global warming stripes, by Ed Hawkins.
@@ -43,7 +43,7 @@ This more verbose figure makes it more explicit what the global warming stripes 
 
 
 
-```{figure} ../../figures/GLOBE---1850-2022-MO-barslabel.*
+```{figure} ../../../figures/GLOBE---1850-2022-MO-barslabel.*
 ---
 height: 500px
 name: Bars with Scale, by Ed Hawkins.
@@ -104,7 +104,7 @@ For the Summit supercomputer it is known that about 63.8% of the power is consum
 Another way of reducing energy usage is to avoid running task unnecessarily. Some examples include:
 
 
-* Running CI[[https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html](https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
+* Running CI[[https://book.the-turing-way.org/reproducible-research/ci/ci-options.html](https://book.the-turing-way.org/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
 * If you do test-driven development, run only tests that have previously failed. In this way you do not need to test code which you already know has been tested. You can use this GH action for limiting when tests (pytest) are run: [https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed) 
 * Run CI with smaller datasets.
 
@@ -115,7 +115,7 @@ Energy usage at different times of the day has different carbon intensity. This 
 
 The Climate Aware Task Scheduler (CATS)[https://github.com/GreenScheduler/cats] has been built specifically with this in mind. This tool can calculate how much carbon will be emitted during the run of a specific task, look at the carbon emission forecast, and schedule the task to be run at a time when carbon intensity is low.
 
-```{figure} ../../figures/environmental-impact.*
+```{figure} ../../../figures/environmental-impact.*
 ---
 width: 574px
 name: environmental-impact

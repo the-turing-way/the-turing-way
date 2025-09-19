@@ -6,11 +6,11 @@
 Registered Reports are an article type divided into two published parts- a study protocol and a research article. 
 The study protocol is reviewed **prior** to the data being collected and the research being carried out. 
 
-```{figure} ../../figures/cos-reg-reports.*
+```{figure} ../../../figures/cos-reg-reports.*
 ---
 height: 200px
 name: registered reports
-alt: a timeline showing the stages of publishing a registered report
+alt: Diagram showing the stages of the research and publication process. The process is illustrated as a series of blue arrows labeled: Develop Idea, Design Study, Collect & Analyze Data, Write Report and Publish Report. Below the arrows, two red upward arrows mark the peer review stages: Stage 1 Peer Review occurs after study design, and Stage 2 Peer Review follows report writing, before publication.
 ---
 Image from Centre for Open Science- https://www.cos.io/initiatives/registered-reports
 ```
@@ -62,7 +62,7 @@ If you undertook any further analyses that you didn't outline in your protocol t
 (cm-dif-articles-registered-reports-review)=
 ## How do you review a Registered Report?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 For registered reports specifically, they are reviewed twice. 
 This happens once at stage 1 (study protocol) and again at stage 2 (research article). 

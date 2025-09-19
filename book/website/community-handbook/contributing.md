@@ -6,15 +6,15 @@ However, these new contributions need to be consistent with the overall theme, p
 
 Since _The Turing Way_ is written asynchronously by multiple authors around the world, we created a series of templates to guide different kinds of content development while maintaining a consistent format of the book.
 
-```{figure} ../figures/that-could-be-a-chapter.*
+```{figure} ../../figures/that-could-be-a-chapter.*
 ---
 height: 400px
 name: that-could-be-a-chapter
-alt: A sketch of Kirstie saying “That could be a chapter”
+alt: Illustration by Scriberia for The Turing Way, showing a contributor having an idea for a chapter on The Turing Way. The contributor in question is named Kirstie Whitaker and she is on the left hand side of the illustration saying "THAT COULD BE A CHAPTER IN THE TURING WAY". On the right hand side is a sketch of a physical book named "THE TURING WAY", with stream of speech bubbles, comments and squares starting from the the left-hand side, going behind Kirsty and entering the spine of the book.
 ---
 "That could be a chapter in The Turing Way!" - Kirstie Whitaker. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 This chapter provides a brief overview of the workflow for writing chapters and case studies for _The Turing Way_.
 We encourage you to read through and follow the recommendations if you wish to make a contribution.
-Also, ensure that you read our [Contributor Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) in addition to our [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations as you prepare your contributions.
+Also, ensure that you read our [Contributor Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) in addition to our [style](https://book.the-turing-way.org/community-handbook/style.html) and [consistency](https://book.the-turing-way.org/community-handbook/consistency.html) recommendations as you prepare your contributions.

@@ -34,7 +34,7 @@ For any of these sections, it may be useful to add step-by-step processes, ratio
 (cm-dif-articles-methods-review)=
 ## How do you review a Methods Paper?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 When reviewing a methods paper specifically it may be useful to focus on (adapted from [F1000Research's guidance](https://f1000research.com/for-referees/guidelines)):
 * Is the rationale for developing the new method (or application) clearly explained?
