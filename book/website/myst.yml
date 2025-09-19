@@ -322,43 +322,41 @@ project:
             - file: reproducible-research/case-studies/case-study-statistical.md
               title: A Statistical Methods Manuscript
     # ===== Guide for Project Design ========================================
-    - file: project-design/project-design.md
+    - title: Guide for Project Design
+      file: project-design/project-design.md
       children:
-        - file: project-design/pd-overview.md
-          title: Overview of Project Design
+        - title: Overview of Project Design
+          file: project-design/pd-overview.md
           children:
-            - file: project-design/pd-overview/pd-overview-planning.md
-              title: Planning for Project Design
-            - file: project-design/pd-overview/pd-overview-repro.md
-              title: Collaborative project documentation
-            - file: project-design/pd-overview/pd-overview-methods.md
-              title: Reproducibility Methods
-            - file: project-design/pd-overview/pd-overview-version.md
-              title: Version Control and Documentation
-            - file: project-design/pd-overview/pd-overview-sharing.md
-              title: Sharing Your Research Work
-        - file: project-design/project-management-methodologies/overview.md
-          title: Project Management Methodologies
-        - title: Project Setup and Organisation
-          file: project-design/pd-design-overview.md
+            - title: Planning for Project Design
+              file: project-design/pd-overview/pd-overview-planning.md
+            - title: Collaborative Project Documentation
+              file: project-design/pd-overview/pd-overview-repro.md
+            - title: Reproducibility Methods
+              file: project-design/pd-overview/pd-overview-methods.md
+            - title: Version Control and Documentation
+              file: project-design/pd-overview/pd-overview-version.md
+            - title: Sharing Your Research Work
+              file: project-design/pd-overview/pd-overview-sharing.md
+        - title: Project Design Checklist
+          file: project-design/pd-overview/pd-checklist.md
+        - title: Project Management Methodologies
+          file: project-design/project-management-methodologies/overview.md
+        - title: Creating Project Repositories
+          file: project-design/pd-overview/project-repo.md
           children:
-            - file: project-design/pd-design-overview/pd-checklist.md
-              title: Project Design Checklist
-            - file: project-design/pd-design-overview/project-repo.md
-              title: Creating Project Repositories
-              children:
-                - file: project-design/pd-design-overview/project-repo/project-repo-readme.md
-                  title: Landing Page - README File
-                - file: project-design/pd-design-overview/project-repo/project-repo-roadmapping.md
-                  title: Roadmapping
-                - file: project-design/pd-design-overview/project-repo/project-repo-contributors.md
-                  title: Contributors and Communication Pathways
-                - file: project-design/pd-design-overview/project-repo/project-repo-participation.md
-                  title: Participation Guidelines
-                - file: project-design/pd-design-overview/project-repo/project-repo-advanced.md
-                  title: Advanced Structure for Data Analysis
-                - file: project-design/pd-design-overview/project-repo/project-repo-resources.md
-                  title: Further Recommendations
+            - title: README File
+              file: project-design/pd-overview/project-repo/project-repo-readme.md
+            - title: Roadmapping
+              file: project-design/pd-overview/project-repo/project-repo-roadmapping.md
+            - title: Contributors and Communication Pathways
+              file: project-design/pd-overview/project-repo/project-repo-contributors.md
+            - title: Participation Guidelines
+              file: project-design/pd-overview/project-repo/project-repo-participation.md
+            - title: Advanced Structure for Data Analysis
+              file: project-design/pd-overview/project-repo/project-repo-advanced.md
+            - title: Further Recommendations
+              file: project-design/pd-overview/project-repo/project-repo-resources.md
         - title: Stakeholders
           file: project-design/stakeholders.md
           children:
@@ -955,6 +953,8 @@ project:
               title: Pathways
             - file: community-handbook/infrastructure/infrastructure-plugins.md
               title: MyST Plugins
+        - file: community-handbook/github-gardening.md
+          title: GitHub Gardening
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
