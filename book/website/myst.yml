@@ -1020,6 +1020,8 @@ project:
               title: Coworking Drop-ins
             - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
+            - file: community-handbook/community-calls/community-calls-steering-committee.md
+              title: Steering Committee Meetings
             - file: community-handbook/community-calls/community-calls-core-team.md
               title: Core Team Meetings
             - file: community-handbook/community-calls/community-calls-office-hours.md
