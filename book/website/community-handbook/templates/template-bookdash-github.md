@@ -8,8 +8,6 @@
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to Framapad, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
-
 :::info
 - **Date:** DD Month <--- Update this
 - **Time:** 16:00 - 17:00 London time ([in your time zone](https://arewemeetingyet.com/London/YYYY-MM-DD/16:00)) <--- Update this
