@@ -1,7 +1,7 @@
 (ch-template-bookdash-github)=
 # Book Dash GitHub Session
 
-*This template can be shared via a Framapad page to facilitate a pre-event GitHub session for the Book Dash participants. The access permission can be set so that the notes can be read by everyone and edited by signed-in users.*
+*This template can be shared via a Framapad page to facilitate a pre-event GitHub session for the Book Dash participants.*
 
 ```
 # Book Dash, DD Month YYYY - GitHub Session
