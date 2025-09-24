@@ -9,8 +9,6 @@ The access permission can be set so that the notes can be read by everyone and e
 
 ###### tags: `bookdash 2021` `may` `event`
 
-==If you are new to Framapad, please see this short guide: https://hackmd.io/\@turingway/hackmd-guide==
-
 [TOC]
 
 :information_source: Pre-event drop-in call, DD Month YYYY
