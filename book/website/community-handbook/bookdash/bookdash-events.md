@@ -25,8 +25,7 @@ These topics can be something that is either missing in the existing chapters or
 We also discuss _The Turing Way_ as a project in general and what the core team is working on to support the development of its guide on reproducibility, ethics, project design, collaboration, communication and a meta-book on the project itself.
 Most importantly, the core team goes through the contribution guideline and explains how attendees can effectively use their time at the Book Dash.
 
-The template for shared notes can be accessed in the community handbook {ref}`here<ch-template-bookdash-precall>`.
-You can read notes from the calls from the most recent book dash [here](https://hackmd.io/\@turingway) (Framapad).
+The template for shared notes can be accessed in the community handbook {ref}`here<ch-template-bookdash-precall>`. You can read notes from the calls for the most recent Book Dash in the [latest Book Dash report (May 2025)](https://github.com/the-turing-way/bookdash/blob/main/reports/2025-May-BookDash-13.md). At the end of that report there are links to all the framapads used during the May 2025 Book Dash.
 
 ### GitHub introduction session
 
