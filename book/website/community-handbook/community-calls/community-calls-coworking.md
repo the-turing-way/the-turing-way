@@ -19,6 +19,21 @@ We announce these in our [monthly newsletters](https://buttondown.email/turingwa
 
 Community members have also commended these coworking calls, with positive messages shared in the Book Dash Slack channel.
 
+The Book Dash Slack channel is created per event and may change each time. The current channel and any temporary links are announced in the community calendar event, the weekly Slack reminder (sent each Monday), and in the shared Etherpad/Framapad notes. If you can't find the channel after joining the Slack workspace via the invite link above, ask in the community Slack or DM one of the organisers and they'll point you to the right channel.
+
+### If you're attending (or want to help run) — quick checklist
+
+- Attending only:
+  - Check the calendar and Monday Slack reminder for the Zoom link and the current Book Dash channel.
+  - Open the Etherpad/Framapad, add your name, set a short goal, and join the Zoom at the scheduled time.
+  - Add brief notes or progress updates to the shared pad during the call.
+
+- Helping to chair or co-host:
+  - Update the Etherpad/Framapad with dates for the upcoming calls and move previous notes to the archive region.
+  - Share the Code of Conduct and the shared timer link in the call chat.
+  - Create breakout rooms when needed and manage them between Pomodoros.
+  - Post the archived notes and announce the next dates in the Book Dash Slack channel and on X after the call.
+
 Though scheduled for 1 hour, you are welcome to join for shorter periods as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
 If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you.
 
