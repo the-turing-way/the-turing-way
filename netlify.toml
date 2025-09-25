@@ -1,6 +1,6 @@
 [build]
 base = "book/"
-command = "make deps && make ci"
+command = "make deps && pip list --verbose && echo $PATH && which jupyter-book && make ci"
 environment = { PYTHON_VERSION = "3.13" }
 publish = "website/_build/html"
 
