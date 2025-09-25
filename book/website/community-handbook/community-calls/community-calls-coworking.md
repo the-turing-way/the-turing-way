@@ -45,7 +45,7 @@ The resource requirement for these calls is also very similar to the Collaborati
 
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the Framapad.
 
-We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared Framapad](https://hackmd.io/@malvikasharan/TW-coworking) for each week.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared Framapad](https://annuel2.framapad.org/p/ttw-collaboration-cafe) for each week.
 
 We'll run the following schedule during each call:
 
