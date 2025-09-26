@@ -49,7 +49,7 @@ If you keep your call open for any of your community members to join, you may en
 This would also mean that for some calls, there won't be anyone available to co-work with you.
 
 It's useful to handle some sort of sign-up sheet or registration system so the organisers know who to expect on the call.
-In _The Turing Way_, we use dedicated HackMD notes that can be updated before each call by the participants.
+In _The Turing Way_, we use dedicated Framapad notes that can be updated before each call by the participants.
 
 **Frequency of these calls**
 
