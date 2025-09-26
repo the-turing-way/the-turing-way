@@ -29,13 +29,13 @@ It is available on [pypy](https://pypi.org) and can be installed using pip.
 
 ```
 # Install autopep8
-$ pip install --upgrade autopep8
+pip install --upgrade autopep8
 ```
 
 You can modify a file in place by running the following command:
 
 ```
-$ autopep8 --in-place --aggressive --aggressive <filename>
+autopep8 --in-place --aggressive --aggressive <filename>
 ```
 
 To some extent, the module can also be used on R scripts!

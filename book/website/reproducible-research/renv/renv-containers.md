@@ -455,7 +455,7 @@ Adding a user to the docker group is essentially giving them a high-level of acc
 For example:
 
 ```console
-$ docker run --mount=type=bind,source=/,destination=/host -it busybox
+docker run --mount=type=bind,source=/,destination=/host -it busybox
 ```
 
 The user now has access to the filesystem of the host with the permissions of `root`.
@@ -506,13 +506,13 @@ If you are running a distribution with SELinux (for example Fedora or CentOS) yo
 
 This can be demonstrated with a simple example. Create a directory and put file with some text in it:
 ```console
-$ mkdir tmp
-$ echo "Hello" > tmp/a.txt
+mkdir tmp
+echo "Hello" > tmp/a.txt
 ```
 
 Now mount this directory into an interactive [busybox](https://www.busybox.net/) container:
 ```console
-$ podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
+podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
 ```
 
 In the container's shell, confirm that the session belongs to the root user:
@@ -548,7 +548,7 @@ It is also impossible to read or modify files that the user running the containe
 For example, the `/etc/shadow` file which contains users' hashed passwords:
 
 ```console
-$ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
+podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
 / # cat /shadow
 cat: can't open '/shadow': Permission denied
 ```
@@ -618,20 +618,20 @@ The `%runscript` defines the command to be executed when the container is run.
 A container image can then be built:
 
 ```console
-$ sudo singularity build lolcow.sif lolcow.def
+sudo singularity build lolcow.sif lolcow.def
 ```
 
 This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a Singularity image file (`lolcow.sif`).
 The container can be run with:
 
 ```console
-$ singularity run lolcow.sif
+singularity run lolcow.sif
 ```
 
 or, simply:
 
 ```console
-$ ./lolcow.sif
+./lolcow.sif
 ```
 
 ````{note}
@@ -639,7 +639,7 @@ The way that Singularity packages container images as a single file in your work
 You may simply copy your container image to a cluster using `scp` or `rsync`:
 
 ```console
-$ rsync -avz lolcow.sif <user>@<hpc_system>:~/
+rsync -avz lolcow.sif <user>@<hpc_system>:~/
 ```
 ````
 
@@ -669,16 +669,16 @@ To use Nvidia GPUs in a container pass the `--nv` flag to the `run`, `exec` or `
 For example:
 
 ```console
-$ singularity pull docker://tensorflow/tensorflow:latest-gpu
-$ singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
+singularity pull docker://tensorflow/tensorflow:latest-gpu
+singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
 ```
 
 Using AMD GPUs is similar but the `--rocm` flag is used.
 For example:
 
 ```console
-$ singularity pull docker://rocm/tensorflow:latest
-$ singularity run --rocm tensorflow_latest.sif
+singularity pull docker://rocm/tensorflow:latest
+singularity run --rocm tensorflow_latest.sif
 ```
 
 When using the `--nv` and `--rocm` graphics drivers and libraries from the host are passed to the container.
