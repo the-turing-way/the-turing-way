@@ -5376,6 +5376,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "FreekPols",
+      "name": "Freek Pols",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55780866?v=4",
+      "profile": "https://github.com/FreekPols",
+      "contributions": [
+        "bug"
+      ]
     }
   ]
 }
