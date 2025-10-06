@@ -34,7 +34,9 @@ Slide decks can be built using the template in the [Google drive](https://docs.g
 Online meetings links and registration forms will typically be handled by a member of the Steering Committee or Community Management Working Group. 
 
 ### Template Community Forum Structure
-The current format of the call is included below, and will likely evolve as the community needs evolve.
+
+The current format of the call is included below.
+It may change as the community's needs evolve.
 All timings are approximate and depend on how long each section needs according to the chair of that particular Community Forum.
 We do, however, recommend leading with a community discussion activity, since this sets the tone for interaction, deliberation, and empowerment which are part of the Community Forum overarching goals. 
 
