@@ -22,7 +22,7 @@ Currently, these calls are hosted in English and recorded for use by participant
 These calls also involve live discussion, screen-sharing, and other interactive activities that may be internet bandwidth-intensive.
 
 ## Organisation & Format
-Originally these Community Forums were organised directly by the [Project Delivery Team](https://book.the-turing-way.org/foreword/community). 
+Originally these Community Forums were organised directly by the [Project Delivery Team](#fw-community). 
 However, as the project has transitioned away from this structure in 2025, the responsibility for organising these events now sits with the Steering Committee, with support from the Community Management Working Group and wider community, as part of their commitment to stewarding the projects guiding principles of empowerment, inclusion, and transparency.
 
 ### Organisation
