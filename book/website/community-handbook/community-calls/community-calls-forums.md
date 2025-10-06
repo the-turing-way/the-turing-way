@@ -5,7 +5,7 @@ Starting in 2024, The Turing Way hosts public community calls that bring togethe
 
 These calls serve as a platform for the community to come together, share accomplishments, and discuss governance-related matters. 
 
-## Motivation for Organisation
+## Motivation
 
 Community Forums are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 
