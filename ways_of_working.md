@@ -57,11 +57,12 @@ All members are welcome to join these calls! ✨
 - ✅ **Translation and Localisation Meetings**: Every second Wednesday at 14:30 UK time, members of the Translation and Localisation Working Groups share this coworking space to carry out translation work across several languages, and support each other ([Translation Chapter](https://book.the-turing-way.org/community-handbook/translation)).
 - ✅ **Infrastructure Monthly Meetings**: Every second Tuesday of the month, at 16:00 UK time, members of the Infrastructure Working Groups work together on infrastructure-related maintenance and development efforts ([Infrastructure Chapter](https://book.the-turing-way.org/community-handbook/infrastructure)).
 - ✅ **Accessibility Monthly Meeting**s: Every second Monday of the month, at 17:00 UK time, members of the Accessibility Working Group work together on access-related chapters and guidance for the community ([Accessibility Chapter](https://book.the-turing-way.org/community-handbook/accessibility)).
+- ✅ **Book Dash Meetings**: Every month (day and time variable) between planning Book Dashes. Members of the Book Dash Working Group work together to make long term strategic decisions about our Book Dash events and they help to form and run the Book Dash planning committees [Book Dash WG repository](https://github.com/the-turing-way/bookdash).  Once the planning committee has been formed for each Book Dash, they meet more regularly (bi-weekly) in the run up to the Book Dash events in May and November each year.
+- ✅ **Community Management Meetings**: *ADD details here*
 
 ### Group-Specific Events and Meetings 
 
 - **Book Dash**: These bi-yearly online or hybrid events are hosted by the Book Dash Working Group. These are less intense versions of Book Sprint, inviting members through an application-based selection process to work on specific areas of the book and/or community initiatives ([Book Dash Chapter](https://book.the-turing-way.org/community-handbook/bookdash)).
-- **Coworking Calls**: Every Monday, from 11:00 to 12:00 UK time, the project delivery team and members from across different Working Groups use these coworking calls to catch up on their task lists ([Coworking Call Chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-weekly)).
 - **Steering Committee Meetings**: These meetings will be organised on a monthly basis for the members working together at the Constitutional Level. Dates and times will be decided with the members of the Steering Committee.
 
 ## Commitments
