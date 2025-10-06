@@ -1,8 +1,11 @@
 (ch-calls-steering-committee)=
 # Steering Committee Meetings 
 
-```{warning} This page is under review and will be updated with more details soon.
+```{warning} 
+These meetings are in a state of flux as governance is formalised.
+The details here are likely to change rapidly.
 ```
+
 ## Steering Committee Meetings
 In 2025, Steering Committee Meetings will be hosted regularly to formalise Constitution Level governance.
 These meetings are attended by drawing from chairs and representatives of Working Groups and Delivery Groups (projects carried out in collaboration with _The Turing Way_).
