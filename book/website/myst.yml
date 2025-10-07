@@ -18,7 +18,6 @@ project:
   references:
     myst-spec: https://mystmd.org/spec
     myst-guide: https://mystmd.org/guide/
-    Juptyerbook-team-compass: https://compass.jupyterbook.org/
   toc:
     - file: index.md
     - file: foreword/foreword.md
