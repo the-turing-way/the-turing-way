@@ -7,7 +7,7 @@ The details here are likely to change rapidly.
 ```
 
 ## Steering Committee Meetings
-In 2025, Steering Committee Meetings will be hosted regularly to formalise Constitution Level governance.
+Steering Committee Meetings are hosted regularly to formalise Constitution Level governance.
 These meetings are attended by drawing from chairs and representatives of Working Groups and Delivery Groups (projects carried out in collaboration with _The Turing Way_).
 These calls utilise prepared agenda items and particular issues to be voted on by different members.
 The Chair and Secretary of the Steering Committee are responsible for scheduling and agreeing the agenda. 
