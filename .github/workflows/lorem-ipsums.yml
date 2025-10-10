@@ -12,8 +12,6 @@ on:
   pull_request:
     branches:
       - main
-    paths:
-      - "book/**"
 
 # Set up the Continuous Integration job
 jobs:
@@ -24,10 +22,10 @@ jobs:
     # This section collects together the steps involved in running the test
     steps:
       # Checkout the repository. Relies on another GH-Action.
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       # Set up the Python version. Relies on another GH-Action.
       - name: Setup Python 3.13
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.13"
       # Install Python dependencies

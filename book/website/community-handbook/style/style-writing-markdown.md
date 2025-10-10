@@ -60,6 +60,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 > I do not like green eggs and ham i do not like them sam i am
 ```
 
+(ch-style-writing-markdown-latin)=
 ## Avoid latin abbreviation
 
 Please do not use Latin abbreviations.
@@ -67,7 +68,7 @@ See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-
 
 Some of these abbreviations are:
 
-```{figure} ../../figures/latin-abbreviation.*
+```{figure} ../../../figures/latin-abbreviation.*
 ---
 height: 400px
 name: latin-abbreviation
@@ -86,8 +87,6 @@ Instead of third abbreviation in the table for *id est* that is often used to cl
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
 Any chapter containing a Latin abbreviation will fail the continuous integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/the-turing-way/the-turing-way/blob/main/tests/no-bad-latin.py).
-
-*To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
 
 ## Tips
 

@@ -42,7 +42,7 @@ df_fictional_dataset = pd.read_csv("FictionalDataset.csv", header = 0, index_col
 ```python
 msno.matrix(df_fictional_dataset)
 ```
-```{figure} ../../figures/msno_matrix.png
+```{figure} ../../../figures/msno_matrix.png
 ---
 height: 400px
 name: msno-matrix
@@ -58,7 +58,7 @@ Data entries with missing data are indicated by white, while all complete entrie
 ```python
 msno.bar(df_fictional_dataset)
 ```
-```{figure} ../../figures/msno_bar.png
+```{figure} ../../../figures/msno_bar.png
 ---
 height: 400px
 name: msno-bar
@@ -73,7 +73,7 @@ This is a simplification of the first visualisation method; a simple bar plot sh
 ```python
 msno.heatmap(df_fictional_dataset)
 ```
-```{figure} ../../figures/msno_heatmap.png
+```{figure} ../../../figures/msno_heatmap.png
 ---
 height: 400px
 name: msno-heatmap
@@ -89,7 +89,7 @@ Pairwise nullity correlation heatmap of our fictional dataset, produced via the 
 ```python
 msno.dendrogram(df_fictional_dataset)
 ```
-```{figure} ../../figures/msno_dendrogram.png
+```{figure} ../../../figures/msno_dendrogram.png
 ---
 height: 400px
 name: msno-dendrogram
@@ -140,7 +140,7 @@ An interesting extension of the gg_miss_var function can help in pointing out th
 gg_miss_upset(fictional_dataset)
 ```
 
-```{figure} ../../figures/gg-miss-upset.png
+```{figure} ../../../figures/gg-miss-upset.png
 ---
 height: 500px
 name: gg-miss-upset
@@ -186,7 +186,7 @@ ggplot(fictional_dataset,
   geom_miss_point()
 ```
 
-```{figure} ../../figures/geom-miss-point.png
+```{figure} ../../../figures/geom-miss-point.png
 ---
 height: 400px
 name: geom-miss-point
@@ -206,7 +206,7 @@ ggplot(fictional_dataset,
   geom_miss_point()
 ```
 
-```{figure} ../../figures/geom-miss-point-age.png
+```{figure} ../../../figures/geom-miss-point-age.png
 ---
 height: 400px
 name: geom-miss-point-age

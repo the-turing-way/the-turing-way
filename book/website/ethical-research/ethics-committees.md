@@ -9,7 +9,7 @@ This is because they can provide ethical oversight to expert researchers who do 
 This is not to liberate the researcher of their ethical responsibilities -- ultimately, they make the decisions as to how to conduct their work -- but to provide support in respect to these questions.
 Whilst there is a great deal of complexity involved in holding individuals accountable in scientific projects, this chapter assumes that RECs seek to improve how science is conducted at large.
 
-```{figure} ../figures/ethics-committee-with-text.*
+```{figure} ../../figures/ethics-committee-with-text.*
 ---
 height: 500px
 name: ethics-committee-with-text
@@ -107,7 +107,7 @@ It is worth asking if there are such policies and processes in your institution.
 In the case of using personal data, it is also worth noting if any method for making data anonymous will be employed.
 For more details on anonymisation, see [this subchapter](https://github.com/the-turing-way/the-turing-way/pull/1579) of *The Turing Way*.
 
-In either case, data security doesn't apply only to personal data. Consider, for example, a project conducted with a government body that holds certain information that musn't be released, or a firm providing you with proprietary code.
+In either case, data security doesn't apply only to personal data. Consider, for example, a project conducted with a government body that holds certain information that mustn't be released, or a firm providing you with proprietary code.
 Ultimately, this is a broad question that requires that we:
 
 1. Describe any privacy concerns and share institutional processes followed in this regard (for example, a data protection impact assessment);

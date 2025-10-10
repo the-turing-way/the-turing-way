@@ -9,7 +9,7 @@ A more elaborate approach to making your research software more reusable is by f
 
 When we talk about making code reusable, it is useful to clarify what we mean. 
 In the {ref}`Table of Definitions for Reproducibility<rr-overview-definitions-reproducibility>` we defined reproducible research as using the same data and the same code.
-However, when we talk about code re-use this can take many forms: we may want to run the exact same code (for compiled programming languages, this could even mean the exact same binary file), or we may want to modify the source code and extend it in some particular way to fit our needs.
+However, when we talk about code reuse this can take many forms: we may want to run the exact same code (for compiled programming languages, this could even mean the exact same binary file), or we may want to modify the source code and extend it in some particular way to fit our needs.
 Freire and Chirigati {cite:ps}`Freire2018Reproducibility` provide a framework of different levels of reproducibility, depending on what can be modified. 
 They define the following levels of reproducibility: repeatable, re-runnable, portable, extendable and modifiable.
 

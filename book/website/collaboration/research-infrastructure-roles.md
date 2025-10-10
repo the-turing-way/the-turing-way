@@ -1,7 +1,7 @@
 (cl-research-infrastructure-roles)=
 # Research Infrastructure Roles: Introduction
 
-```{figure} ../figures/researchers-environment.*
+```{figure} ../../figures/researchers-environment.*
 ---
 height: 500px
 name: researchers-environment

@@ -1,7 +1,7 @@
 (pd-code-styling-readability)=
 # Writing Human Readable Code
 
-Writing clear, well commented, readable and re-usable code benefits not only you but the community (or audience) that you are developing it for.
+Writing clear, well commented, readable and reusable code benefits not only you but the community (or audience) that you are developing it for.
 This may be your lab, external collaborators, stakeholders, or you might be writing open source software for global distribution!
 Whatever scale you work at, readability counts!
 
@@ -118,7 +118,7 @@ If you are sharing text files or working collaboratively on manuals or documents
 When using Markdown, it can be clearer to include a new line after every sentence.
 This chapter (and most, if not all, of this book) has a new line after every sentence that makes the raw text easier to read, review and solve the spacing issue.
 
-```{figure} ../../../figures/xkcd1285.png
+```{figure} ../../../../figures/xkcd1285.png
 ---
 height: 500px
 name: xkcd1285

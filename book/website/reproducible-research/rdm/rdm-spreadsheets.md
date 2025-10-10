@@ -44,7 +44,7 @@ In addition to the visual feedback, you can now also use this information to fil
 (rr-rdm-spreadsheets-format)=
 ## 2. Tidy Format For Spreadsheets
 
-If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-this/), then it may be difficult for collaborators to easily {ref}`read-in and re-use <rr-rdm-fair>` your data for further analysis.
+If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-this/), then it may be difficult for collaborators to easily {ref}`read-in and reuse <rr-rdm-fair>` your data for further analysis.
 
 Indeed, a large part of the work of data scientists is to transform the data into a form that the computer can read. 
 However, this is incredibly time-consuming when the information is split between several spreadsheets and when there are no concrete data transformation plans before the data is acquired.
@@ -60,7 +60,7 @@ In short:
 - **The first row is the header** 
 - Header names must not include a special character (including space) or start with a number
 
-```{figure} ../../figures/tidy-1.*
+```{figure} ../../../figures/tidy-1.*
 ---
 name: tidy-1
 alt: >
@@ -77,7 +77,7 @@ Three rules make a dataset tidy:
 2. Each observation must have its own row.
 3. Each value must have its own cell.
 
-There are data validation tools available, like https://goodtables.io, that allow you to automatically check whether your spreadsheets are tidy.
+There are data validation tools available, like [Frictionless Data](https://frictionlessdata.io/)'s [Python package](https://framework.frictionlessdata.io/) or [GitHub Action](https://repository.frictionlessdata.io/), that allow you to automatically check whether your spreadsheets are tidy.
 
 (rr-rdm-spreadsheets-consistent)=
 ## 3. Consistent Values

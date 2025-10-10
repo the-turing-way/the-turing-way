@@ -33,7 +33,7 @@ In all cases, the goal is to use your programming experience to figure out how t
 - Do the [tests](#rr-checklist-for-code-review:tests) and [documentation](#rr-checklist-for-code-review:documentation) conform to the standards?
 - Is all the code easily understood? Depending on the language, files may contain interfaces, classes or other type definitions, and functions (see [Architecture](#rr-checklist-for-code-review:architecture)).
     The essential architectural concepts can be reviewed as follows:
-  - Check the [interfaces](#interfaces) lists.
+  - Check the [interfaces](#rr-checklist-for-code-review:interfaces) lists.
   - Check the [classes and types](#rr-checklist-for-code-review:classes-and-types) lists.
   - Check the [function/method declarations](#functionmethod-declarations) lists.
   - Check the [function/method definitions](#functionmethod-definitions) lists.

@@ -11,7 +11,7 @@ The function `lint` takes a filename as an argument and a list of 'linters' that
 These range from whitespace conventions to checking that curly brackets do not have their lines.
 The output provides a list of markers with recommendations for changing the formatting of your code line-by-line, meaning it is best used early and often in your project.
 
-```{figure} ../../../figures/lintr-output.png
+```{figure} ../../../../figures/lintr-output.png
 ---
 height: 500px
 name: lintr_output
@@ -29,13 +29,13 @@ It is available on [pypy](https://pypi.org) and can be installed using pip.
 
 ```
 # Install autopep8
-$ pip install --upgrade autopep8
+pip install --upgrade autopep8
 ```
 
 You can modify a file in place by running the following command:
 
 ```
-$ autopep8 --in-place --aggressive --aggressive <filename>
+autopep8 --in-place --aggressive --aggressive <filename>
 ```
 
 To some extent, the module can also be used on R scripts!

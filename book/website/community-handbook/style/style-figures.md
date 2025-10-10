@@ -30,7 +30,7 @@ In general, make sure to always cite the image properly as directed by the image
 (ch-style-figures-image)=
 ## Image location, type, size and file name
 
-Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
+Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/figures).
 If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub, or adding locally and pushing the change online when using git.
 
 Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
@@ -68,7 +68,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../../figures/first-pull-request.*
 ---
 height: 400px
 label: first-pull-request
@@ -85,7 +85,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 ````
 
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../../figures/first-pull-request.*
 ---
 height: 400px
 label: first-pull-request

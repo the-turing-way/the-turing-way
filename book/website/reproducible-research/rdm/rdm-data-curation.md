@@ -8,7 +8,7 @@ Data curation also enables you to easily access datasets and information that yo
 You can imagine that if you don't follow the data curation process, it becomes difficult to access that data.
 
 
-```{figure} ../../figures/data-curation.*
+```{figure} ../../../figures/data-curation.*
 ---
 name: data-curation
 alt: A cartoon illustration describing the seven steps outlined below of the Data Curation Pipeline. The first step is capture, where a person is trying to catch some bugs. The second one is appraisal, where there is a looking glass trying to review the data. The third one is disposal, where some trash is being tossed out of the pipeline. The fourth step is description, which is showing some data charts. The fifth step is preservation, where these charts are then stored in glass jars. The sixth step is access, where individuals would have access to these jars with data in them. The last step is transformation, where different datasets are being transformed into a new one.
@@ -47,7 +47,7 @@ There are also  metadata standards that already exist to help you with standardi
 See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
 
 ### 6. Data access 
-Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
+Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or reuse it.
 You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data. 
 See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
 

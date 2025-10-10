@@ -7,7 +7,7 @@ This chapter is under review.
 
 _In this document, Dr Kirstie Whitaker, founder of _The Turing Way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership in open science more broadly._
 
-```{figure} ../figures/healthy-leadership.png
+```{figure} ../../figures/healthy-leadership.png
 ---
 name: healthy-leadership
 alt: Leadership is illustrated as a fractal where different people are watering and growing flowers in different places - that is leading to new fractals with more people. There are a few quotes written on the image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
