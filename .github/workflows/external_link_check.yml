@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.13"
 
@@ -45,7 +45,7 @@ jobs:
         run: cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
 
       - name: Update Issue
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: Broken links
           issue-number: 3171
