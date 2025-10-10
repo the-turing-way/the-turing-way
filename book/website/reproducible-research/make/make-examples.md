@@ -31,7 +31,7 @@ everything that we need (*except the Makefile of course!*). To start, clone
 the base repository using git:
 
 ```bash
-$ git clone https://github.com/alan-turing-institute/IntroToMake
+git clone https://github.com/alan-turing-institute/IntroToMake
 ```
 
 This basic repository contains all the code that we'll need in this tutorial,
@@ -65,7 +65,7 @@ If you want to follow along, ensure that you have the ``matplotlib`` and
 ``numpy`` packages installed:
 
 ```bash
-$ pip install matplotlib numpy
+pip install matplotlib numpy
 ```
 
 You will also need a working version of ``pdflatex`` and, of course, ``make``.
@@ -79,7 +79,7 @@ Let's create our first Makefile. In the terminal, move into the
 ``IntroToMake`` repository that you just cloned:
 
 ```bash
-$ cd IntroToMake
+cd IntroToMake
 ```
 
 Using your favourite editor, create a file called ``Makefile`` with the
@@ -103,7 +103,7 @@ indentation with spaces.
 You should now be able to type:
 
 ```bash
-$ make output/report.pdf
+make output/report.pdf
 ```
 
 If everything worked correctly, the two figures will be created and pdf report
@@ -202,8 +202,8 @@ doesn't complain when there is no file to remove.
 You can try out the new Makefile by running:
 
 ```bash
-$ make clean
-$ make
+make clean
+make
 ```
 
 Make should remove the output and intermediate files after the first command,
@@ -347,7 +347,7 @@ where they have more meaningful names. Let's switch over to the ``big_data``
 branch:
 
 ```bash
-$ git checkout big_data         # checkout the big_data branch
+git checkout big_data         # checkout the big_data branch
 ```
 
 The directory structure now looks like this:
@@ -385,7 +385,7 @@ We'll adapt our Makefile to create a figure in the output directory called
 Before changing the Makefile, run
 
 ```bash
-$ make clean
+make clean
 ```
 to remove the output files.
 
@@ -486,7 +486,7 @@ If you run this Makefile, it will need to build 28 figures. You may want to
 use the ``-j`` flag to ``make`` to build these targets **in parallel!**
 
 ```bash
-$ make -j 4
+make -j 4
 ```
 
 The ability to build targets in parallel is quite useful when your project has

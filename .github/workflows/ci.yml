@@ -26,10 +26,10 @@ jobs:
 
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python_version }}
 
@@ -47,10 +47,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.13"
 
@@ -63,9 +63,9 @@ jobs:
         working-directory: ./book
 
       - name: Check offline links
-        uses: lycheeverse/lychee-action@v2.0.2
+        uses: lycheeverse/lychee-action@v2
         with:
-          args: --config './lychee.toml' --no-progress --offline 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
+          args: --config './lychee.toml' --no-progress --offline --root-dir "$GITHUB_WORKSPACE/book/website/_build/html/" 'book/website/_build/html/**/*.html'
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting

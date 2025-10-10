@@ -238,7 +238,7 @@ The script is then passed to the provisioner.
 ```{code-block} ruby
   $script = <<-'SCRIPT'
   dnf install -y python3-pip
-  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/dependencies.lock
+  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/requirements.txt
   SCRIPT
 
   config.vm.provision "shell", inline: $script
@@ -255,8 +255,8 @@ Windows users can also try [Hyper-V](https://learn.microsoft.com/en-us/virtualiz
 If you haven't already, clone The Turing Way repository and change to the projects root directory.
 
 ```{code-block} console
-$ git clone https://github.com/the-turing-way/the-turing-way.git
-$ cd the-turing-way
+git clone https://github.com/the-turing-way/the-turing-way.git
+cd the-turing-way
 ```
 
 Now create the virtual machine.
@@ -264,14 +264,14 @@ The output will show Vagrant creating the machine as well as the provisioner scr
 Windows users can modify this command to `vagrant up --provider hyperv` to use Hyper-V.
 
 ```{code-block} console
-$ vagrant up
+vagrant up
 ```
 
 You can now connect to the machine with SSH.
 Vagrant has a convenient wrapper to make this simple.
 
 ```{code-block} console
-$ vagrant ssh
+vagrant ssh
 ```
 
 The project directory has been mounted at `/vagrant` on the guest.
@@ -289,6 +289,6 @@ You can also destroy the virtual machine to clean up all storage associated with
 
 ```{code-block} console
 [vagrant@theturingway ~]$ exit
-$ vagrant halt
-$ vagrant destroy
+vagrant halt
+vagrant destroy
 ```

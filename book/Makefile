@@ -4,14 +4,14 @@ all: book
 # Install build dependencies
 deps:
 	python -m pip install --upgrade pip
-	pip install -r ./dependencies.lock
+	pip install -r ./requirements.txt
 
 # Upgrade python packages and update the requirements files
 upgrade:
 	python -m pip install --upgrade pip
 	pip install pip-tools
-	pip-compile --upgrade ./dependencies.in
-	pip-sync ./dependencies.lock
+	pip-compile --upgrade
+	pip-sync
 
 # Start a webserver serving the book locally
 serve:
@@ -20,14 +20,20 @@ serve:
 # Build the book and export as HTML
 book:
 	cd website && jupyter-book build --html
+	# Temporary hack to remove unused thebe JS
+	rm website/_build/html/*thebe*.js
 
 # Build the book stopping on errors
 strict:
 	cd website && jupyter-book build --html --strict
+	# Temporary hack to remove unused thebe JS
+	rm website/_build/html/*thebe*.js
 
 # Build the book in a non-interactive environment (for CI)
 ci:
 	cd website && jupyter-book build --html --ci
+	# Temporary hack to remove unused thebe JS
+	rm website/_build/html/*thebe*.js
 
 # Clean any build outputs and artifacts
 clean:
