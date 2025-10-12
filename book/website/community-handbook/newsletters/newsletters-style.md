@@ -18,7 +18,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`.
     - Provide links wherever useful, for example, [Framapad for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/the-turing-way/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/the-turing-way/the-turing-way).
     - Create links for email addresses using this Markdown syntax - ``[real-email-address](mailto:real-email-address)``.
-    - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. try to keep them to a mimumum if you can.
+    - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. Try to keep them to a minimum if you can.
 - **Quoting others**: Use greater than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
     > This is my legendary quote.
