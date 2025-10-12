@@ -21,7 +21,7 @@
 - Create a flyer to share on social media using [this template](https://docs.google.com/presentation/d/1Fx2WcVvGX6dM3z74VDQp_UD8edKp6Phl/edit?usp=sharing&ouid=102682705838770934280&rtpof=true&sd=true)
 - Coordinate on Slack with the speakers to check if they are happy with the announcements and if their info is correct
 - Announce at least 3-4 weeks in advance on Slack, Newsletter, X (formerly Twitter) and in different talks
-- Add information to the Intro Framapad: https://hackmd.io/@turingway/demo-intro
+- Add information to the Start Page: https://the-turing-way.start.page/
 - Hosts will define an agenda and questions for the session - hosts will also allocate some questions for each other to speak on
 - Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin 
 - Plan with your cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)
