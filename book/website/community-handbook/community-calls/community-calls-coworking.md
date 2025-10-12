@@ -41,7 +41,7 @@ If you are interested in coworking with one of the team members on a day that is
 
 The resource requirement for these calls is also very similar to the Collaboration Cafe.
 
-1. Shared notes by [Framapad](https://hackmd.io/): [https://hackmd.io/\@turingway/coworking-call] –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call]
+1. Shared notes by [Framapad](https://annuel2.framapad.org):  [https://annuel2.framapad.org/p/ttw-coworking-call]
 
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the Framapad.
 
@@ -65,7 +65,7 @@ However, since these calls are attended by fewer participants, it provides more 
 
 Please update the document each month using the following steps:
 
-- [Update the Etherpad](https://annuel2.framapad.org/p/ttw-coworking-call) each month by adding dates for the weekly calls
+- [Update the Framapad](https://annuel2.framapad.org/p/ttw-coworking-call) each month by adding dates for the weekly calls
 - Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
 - Share the notes on Slack and X (formerly Twitter) announcing the dates
 - Use the notes during the call to share information as you chair the call

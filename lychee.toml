@@ -95,7 +95,8 @@ glob_ignore_case = false
 # exclude = [ '.*\.github.com\.*' ]
 exclude = [
   "turing.ac.uk",
-  "doi.org"
+  "doi.org",
+  "file://.*/undefined"
   ]
 
 # Exclude these filesystem paths from getting checked.
