@@ -6,7 +6,7 @@
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to Framapad, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
+==If you are new to Framapad, please see this short guide: [https://framapad.org/abc/en/](https://framapad.org/abc/en/)==
 
 :::info
 - **Date:** (DD Month YYYY)
