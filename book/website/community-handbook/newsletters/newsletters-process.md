@@ -27,7 +27,7 @@ If working online, please keep the draft mode on for your PR or add "[WIP]" (wor
 
 2. Create the first draft on a shared Framapad when working with others to collaboratively write your draft before you transfer them to a GitHub branch.
 
-Here are two examples of Framapads:
+Here are two examples of newsletter drafts:
 - Malvika's first draft: https://hackmd.io/\@malvikasharan/tw-newsletter
 - Anne's first draft (April 2022): https://hackmd.io/\@aleesteele/ttw-newsletter-apr-22.
 
