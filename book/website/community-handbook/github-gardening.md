@@ -1,5 +1,5 @@
 (ch-gardening)=
-# GitHub gardening
+# GitHub Gardening
 
 Managing a open source community and maintaining its infrastructure, like [code repositories](#rr-vcs) and {term}`issue trackers <Issue Tracking>`, takes time an effort.
 In the free and open source community this work is often called maintenance.
