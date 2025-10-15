@@ -14,8 +14,6 @@ For details, please refer to the [Communication Platforms](https://book.the-turi
 
 You can reach out to all members listed in our [governance document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md) by tagging them on GitHub issues or Pull Requests, or directly on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
-You can reach the _The Turing Way_ Project Delivery Team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
-
 Please join the fortnightly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them.
 
 Talks, presentations and recordings from different events are posted on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA) regularly.
@@ -23,7 +21,6 @@ Talks, presentations and recordings from different events are posted on our [You
 ### Community Channels
 
 - Email:
-    - Institutional Email: turingway@turing.ac.uk
     - Gmail: theturingway@gmail.com
 - GitHub Repositories:
     - [Organisation](https://github.com/the-turing-way)
@@ -69,7 +66,7 @@ All members are welcome to join these calls! ✨
 
 All members, especially at the maintenance and constitution levels, commit to:
 - making the implicit explicit by documenting their work
-- abiding by the Code of Conduct in all community platforms and spaces where they represent _The Turing Way_
+- abiding by the [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) in all community platforms and spaces where they represent _The Turing Way_.
 - following the contribution guidelines and keeping them up to date
 - recording any new updates, exceptions or useful knowledge in project management and core documents needed to facilitate collaboration
 - dedicating their time and expertise to fixing open issues either directly via GitHub or providing mentorship and support to community members and project contributors
