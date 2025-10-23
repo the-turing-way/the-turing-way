@@ -80,7 +80,9 @@ The CAFE community can provide the interdisciplinary researcher with a supportiv
 
 ### The data specialist
 
-The data specialist is a researcher or support staff who specializes in working with datasets. They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others. The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.
+The data specialist is a researcher or support staff who specializes in working with datasets.
+They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others.
+The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.
 
 ## What to consider before launching a CAFE?
 
