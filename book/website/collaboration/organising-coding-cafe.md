@@ -279,7 +279,9 @@ Snacks and drinks are a great way to promote interaction and collaboration among
 This helps to create a more relaxed and informal atmosphere where connections are made more easily.
 
 ### Exercises
-Exercises provide a great opportunity for community members to practice their programming skills and to learn new techniques. They also help to reinforce the concepts covered in the presentations and to ensure that community members are able to apply what they have learned in a practical way. Besides, exercises can be a great way to get community members to interact with each other and to collaborate.
+Exercises provide a great opportunity for community members to practice their programming skills and to learn new techniques.
+They also help to reinforce the concepts covered in the presentations and to ensure that community members are able to apply what they have learned in a practical way.
+Besides, exercises can be a great way to get community members to interact with each other and to collaborate.
 
 ## Community building
 
