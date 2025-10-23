@@ -240,7 +240,9 @@ That’s why we dedicate at least some part of the events on a presentation comp
 These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.
 
 #### Benefits of presentations
-The presentation component of CAFE serves several important purposes. First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics. This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.
+The presentation component of CAFE serves several important purposes.
+First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics.
+This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.
 
 Secondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming. By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.
 
