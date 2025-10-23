@@ -96,7 +96,10 @@ Programming CAFEs usually work thanks to shared voluntary effort of many motivat
 Thus having a financial aid for running such events is not strictly necessarily. 
 But it certainly helps providing some extra perks (such as refreshments or merchandise) that can help attract initial attention of your target audience.
 
-Securing funding can be a challenge, but there are resources available to help. In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes. Consider reaching out to these programs to see if they would be interested in supporting your community. You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals.
+Securing funding can be a challenge, but there are resources available to help.
+In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes.
+Consider reaching out to these programs to see if they would be interested in supporting your community.
+You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals.
 
 ### Internal communication
 
