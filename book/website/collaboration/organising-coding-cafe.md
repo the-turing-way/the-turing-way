@@ -214,7 +214,10 @@ When it comes to registrations for events, make sure that the process is simple 
 
 ### Meetings
 
-Whether you choose to meet online, in person, or hybrid, a consistent schedule of meetups can be a great way to build connections and foster a sense of community. Ice-breakers can be a great way to get people talking and help everyone feel more comfortable. Some good ice-breakers include “two truths and a lie”, “speed dating”, and “name games”. Make sure to create an inclusive environment where everyone feels welcome and valued.
+Whether you choose to meet online, in person, or hybrid, a consistent schedule of meetups can be a great way to build connections and foster a sense of community.
+Ice-breakers can be a great way to get people talking and help everyone feel more comfortable.
+Some good ice-breakers include “two truths and a lie”, “speed dating”, and “name games”.
+Make sure to create an inclusive environment where everyone feels welcome and valued.
 
 ### Creating an inclusive atmosphere
 
