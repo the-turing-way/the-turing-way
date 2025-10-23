@@ -227,7 +227,9 @@ Create opportunities for people to connect and collaborate, such as hackathons o
 
 ### Creating and maintaining connections
 
-To help community members stay connected, make sure to provide ongoing opportunities for engagement. Host regular meetups or workshops, and encourage members to share their projects and successes. Consider setting up a Slack channel or other messaging platform to facilitate ongoing conversations and collaborations.
+To help community members stay connected, make sure to provide ongoing opportunities for engagement.
+Host regular meetups or workshops, and encourage members to share their projects and successes.
+Consider setting up a Slack channel or other messaging platform to facilitate ongoing conversations and collaborations.
 
 ### Swag!
 
