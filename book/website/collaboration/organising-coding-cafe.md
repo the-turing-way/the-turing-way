@@ -221,7 +221,9 @@ Make sure to create an inclusive environment where everyone feels welcome and va
 
 ### Creating an inclusive atmosphere
 
-It’s important to make sure that everyone feels included in the community. Consider assigning mentors or buddies to new members to help them get acclimated. Encourage members to share their experiences and to help each other out. Create opportunities for people to connect and collaborate, such as hackathons or study groups.
+It’s important to make sure that everyone feels included in the community.
+Consider assigning mentors or buddies to new members to help them get acclimated. Encourage members to share their experiences and to help each other out.
+Create opportunities for people to connect and collaborate, such as hackathons or study groups.
 
 ### Creating and maintaining connections
 
