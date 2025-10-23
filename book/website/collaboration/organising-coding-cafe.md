@@ -137,7 +137,9 @@ Try to find out what frequency may be seen as a standard for your audience and l
 You can also reach out to partner institutions that already have experience and ask for advice.
 Nothing is written in stone: you can later change the frequency based on your experience.
 
-As a suggestion: most of our coding cafes are organized on a monthly basis with a dynamic audience. That means that some people will join most of your events while others may only come irregularly for certain topics. However, some coding cafes do not follow a strict schedule but are organized ad-hoc once there are enough speakers, topics, or volunteers. 
+As a suggestion: most of our coding cafes are organized on a monthly basis with a dynamic audience.
+That means that some people will join most of your events while others may only come irregularly for certain topics.
+However, some coding cafes do not follow a strict schedule but are organized ad-hoc once there are enough speakers, topics, or volunteers. 
 
 ### Best dates & times
 
