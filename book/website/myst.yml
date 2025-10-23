@@ -629,6 +629,8 @@ project:
           title: Organising Meetings
         - file: collaboration/coworking.md
           title: Organising Online Coworking Calls
+        - file: collaboration/organising-coding-cafe.md
+          title: Organising Coding Cafes
         - file: collaboration/organising-conference.md
           title: Organising Conferences
           children:
