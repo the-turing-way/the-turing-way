@@ -143,7 +143,9 @@ However, some coding cafes do not follow a strict schedule but are organized ad-
 
 ### Best dates & times
 
-Finding your rhythm is important, but not enough. Making exceptions to your frequency may be necessary. Some events may alter your planning such as for example:
+Finding your rhythm is important, but not enough.
+Making exceptions to your frequency may be necessary.
+Some events may alter your planning such as for example:
 
 - **holidays** (your attendance will probably be low if you plan an in-person coding event on Christmas Eve);
 - **vacation season** (be mindful of potential school holiday breaks in your region if your community consists of programmers with families for example);
