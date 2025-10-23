@@ -290,7 +290,10 @@ By building a community of learners, you can support each other, learn from each
 
 ### Communication is key
 
-First and foremost, effective communication is key to building and sustaining a learning community. Make sure that everyone has a way to communicate with each other, whether it be through an online forum, a social media group, or a messaging app. Encourage members to share their experiences, ask questions, and offer advice. Consider setting up a regular newsletter or email list along with a list of upcoming meetings on your website to keep everyone informed about upcoming events and opportunities.
+First and foremost, effective communication is key to building and sustaining a learning community.
+Make sure that everyone has a way to communicate with each other, whether it be through an online forum, a social media group, or a messaging app.
+Encourage members to share their experiences, ask questions, and offer advice.
+Consider setting up a regular newsletter or email list along with a list of upcoming meetings on your website to keep everyone informed about upcoming events and opportunities.
 
 ### Event registration
 
