@@ -184,7 +184,11 @@ However, providing foods and drinks also comes with disadvantages such as
 
 If you order pizza for example for all participants, you need a higher budget and you have an additional effort of ordering and receiving pizza in time.
 
-There is a vast amount of choices for selecting the right food and drinks for your audience. If you organize an event for a vegan audience, offering steaks for barbecue seems an odd choice. The same may be true for your audience. A traditional choice for programming events may be pizza and you probably can hardly go wrong with this all-time favorite. However, there may be better lunch options that can be distributed much easier, such as onigiri for example. 
+There is a vast amount of choices for selecting the right food and drinks for your audience.
+If you organize an event for a vegan audience, offering steaks for barbecue seems an odd choice.
+The same may be true for your audience.
+A traditional choice for programming events may be pizza and you probably can hardly go wrong with this all-time favorite.
+However, there may be better lunch options that can be distributed much easier, such as onigiri for example. 
 
 Drinks can be organized in the same fashion depending on your audience’s preferences. Decide if you want to offer alcoholic options for example or if you need both, hot and cold drinks at the same time.
 
