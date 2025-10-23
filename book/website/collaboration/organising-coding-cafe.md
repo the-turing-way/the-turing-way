@@ -251,7 +251,9 @@ Finally, the presentation component is a great way to showcase the diverse range
 By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.
 
 #### Format of presentations
-The format of the presentations will vary depending on the presenter and the topic being discussed. However, in general, presentations will be structured as a short talk followed by a Q&A session. This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.
+The format of the presentations will vary depending on the presenter and the topic being discussed.
+However, in general, presentations will be structured as a short talk followed by a Q&A session.
+This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.
 
 ### Examples of CAFE topics 
 The topics covered in the presentations will also vary depending on the interests and needs of the community. Some examples of potential presentation topics might include:
