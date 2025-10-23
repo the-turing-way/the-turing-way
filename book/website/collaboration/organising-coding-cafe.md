@@ -168,7 +168,10 @@ If you offer food and drinks for example, you may benefit from setting your codi
 
 ### Food & drinks
 
-No one likes to work on an empty stomach - same goes for programming. Offering food or drinks may help to increase the mood of the audience and may attract some additional people. There will probably be a lot of events and meetings to choose from on busy days, and offering snacks or drinks may help people to decide to spend their time at your coding cafe. Some advantages of offering food and drinks are:
+No one likes to work on an empty stomach - same goes for programming.
+Offering food or drinks may help to increase the mood of the audience and may attract some additional people.
+There will probably be a lot of events and meetings to choose from on busy days, and offering snacks or drinks may help people to decide to spend their time at your coding cafe.
+Some advantages of offering food and drinks are:
 
 - Increase of attraction;
 - Increase of happiness;
