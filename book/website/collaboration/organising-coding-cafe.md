@@ -162,7 +162,8 @@ That means that not everyone will be available to join an event on campus on cer
 If you know your audience well, you may avoid some pitfalls with setting the date.
 Mondays and Fridays may be preferred telework days for example, so plan accordingly on other days. 
 
-Depending on your format, certain times during the day may be more suitable than others. If you offer food and drinks for example, you may benefit from setting your coding cafe during lunch hours or organize it in the late afternoons as an early dinner option.
+Depending on your format, certain times during the day may be more suitable than others.
+If you offer food and drinks for example, you may benefit from setting your coding cafe during lunch hours or organize it in the late afternoons as an early dinner option.
 
 
 ### Food & drinks
