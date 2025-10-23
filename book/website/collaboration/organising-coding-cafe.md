@@ -42,7 +42,9 @@ For example, you might start a CAFE that focuses exclusively on Python, or you m
 
 ### Skill level
 
-Another factor to consider when defining the focus of your programming CAFE is the skill level of potential participants. You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers. Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+Another factor to consider when defining the focus of your programming CAFE is the skill level of potential participants. 
+You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers. 
+Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
 
 ### Research applications
 
