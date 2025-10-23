@@ -56,7 +56,8 @@ The focus on research applications will depend on the interests and needs of the
 
 ## Choose your target audience
 
-The CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience. Here are some examples of personas who might benefit from participating in the community:
+The CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience.
+Here are some examples of personas who might benefit from participating in the community:
 
 ### The beginner programmer
 
