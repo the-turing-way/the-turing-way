@@ -61,7 +61,10 @@ Here are some examples of personas who might benefit from participating in the c
 
 ### The beginner programmer
 
-The beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools. They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research. They might have followed a Introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged. The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
+The beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools.
+They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research.
+They might have followed a Introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged.
+The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
 
 ### The advanced programmer
 
