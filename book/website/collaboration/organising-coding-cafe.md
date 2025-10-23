@@ -268,7 +268,10 @@ Some examples of potential presentation topics might include:
 By covering a diverse range of topics, we hope to provide valuable resources and knowledge to community members of all skill levels and interests.
 
 ### Coding component
-We also schedule time for coding during the CAFE events. This is a great opportunity for community members to work on their own projects, collaborate with others, and ask questions about programming-related issues. We also allow participants to code during the presentation component of the event if a presentation is not relevant to their interests or needs. In this way the event is always open for a diverse audience with different interests and skill levels, which is valuable for interaction and knowledge sharing in the community.
+We also schedule time for coding during the CAFE events.
+This is a great opportunity for community members to work on their own projects, collaborate with others, and ask questions about programming-related issues.
+We also allow participants to code during the presentation component of the event if a presentation is not relevant to their interests or needs.
+In this way the event is always open for a diverse audience with different interests and skill levels, which is valuable for interaction and knowledge sharing in the community.
 
 ### Promoting interaction
 Community organizers can promote interaction by keeping an informal overview of the community members (and their projects, questions and skills) and facilitate connections. Snacks and drinks are a great way to promote interaction and collaboration among community members. This helps to create a more relaxed and informal atmosphere where connections are made more easily.
