@@ -212,7 +212,16 @@ Things you may need to consider are:
 - Presenter options.
  
 
-All in all, make sure that the idea of your programming cafe fits into the chosen room. 30 participants may not fit in a common meeting room. A room at a non-central building may be a barrier for your community since they need to travel there. Also make sure that your participants will be able to access the room, even if they don’t have access cards for example. Investing time into printing way points may pay off since it minimizes the risk that your participants get lost on the way to you. As an alternative, you can also provide a detailed description of how to get there in your invitation. Make sure that the room is fit for programming needs, e.g. power outlets and tables are required. As an alternative, you can organize extension cables or similar. Think also about your format: do you need a screen for presenting or a flipchart or room to freely move around. If you order pizza, make sure you are not thrown out of the room for smuggling greasy food into an auditorium.
+All in all, make sure that the idea of your programming cafe fits into the chosen room.
+30 participants may not fit in a common meeting room.
+A room at a non-central building may be a barrier for your community since they need to travel there.
+Also make sure that your participants will be able to access the room, even if they don’t have access cards for example.
+Investing time into printing way points may pay off since it minimizes the risk that your participants get lost on the way to you.
+As an alternative, you can also provide a detailed description of how to get there in your invitation.
+Make sure that the room is fit for programming needs: check whether power outlets and tables are required.
+As an alternative, you can organize extension cables or similar.
+Think also about your format: do you need a screen for presenting or a flipchart or room to freely move around.
+If you order pizza, make sure you are not thrown out of the room for smuggling greasy food into an auditorium.
 
 ## Format
 
