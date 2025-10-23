@@ -6,7 +6,10 @@ A programming CAFE (Code Along, Feel Empowered) is a community event that brings
 
 ## Why a programming CAFE?
 
-Programming has become an essential skill for many fields, including research. However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. That’s where a programming CAFE or community can make a significant difference. Here are some reasons why you might want to consider starting a programming community in your university:
+Programming has become an essential skill for many fields, including research. 
+However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. 
+That’s where a programming CAFE or community can make a significant difference. 
+Here are some reasons why you might want to consider starting a programming community in your university:
 
 ### Build a supportive community
 
