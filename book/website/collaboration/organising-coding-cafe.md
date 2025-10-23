@@ -103,7 +103,10 @@ You can also explore crowdfunding options, ask your department head for budget a
 
 ### Internal communication
 
-Organized internal communication is critical to the success of any community. It’s important to have a clear and effective system for communication among organizers, including regular meetings and status updates. Consider using tools like GitHub project boards to track progress and assign tasks. It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting.
+Organized internal communication is critical to the success of any community. 
+It’s important to have a clear and effective system for communication among organizers, including regular meetings and status updates.
+Consider using tools like GitHub project boards to track progress and assign tasks.
+It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting.
 
 ### Considerations for meeting planning
 When it comes to planning community meetings, it’s important to stay organized and keep everyone informed. Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks. Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it.
