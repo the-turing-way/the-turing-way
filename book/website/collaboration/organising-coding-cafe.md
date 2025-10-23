@@ -285,7 +285,8 @@ Besides, exercises can be a great way to get community members to interact with 
 
 ## Community building
 
-Programming can be a daunting task, especially when you’re just starting out, but it doesn’t have to be a lonely one. By building a community of learners, you can support each other, learn from each other, and grow together.
+Programming can be a daunting task, especially when you’re just starting out, but it doesn’t have to be a lonely one.
+By building a community of learners, you can support each other, learn from each other, and grow together.
 
 ### Communication is key
 
