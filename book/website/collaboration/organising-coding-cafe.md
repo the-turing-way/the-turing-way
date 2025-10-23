@@ -235,7 +235,9 @@ There are pro’s and con’s to each of these options.
 You may initially start with something that works for the organizers and the initial community, and then adjust based on the needs of the community as the community grows.
 
 ### Presentation component
-At CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That’s why we dedicate at least some part of the events on a presentation component on a programming related topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.
+At CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community.
+That’s why we dedicate at least some part of the events on a presentation component on a programming related topic.
+These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.
 
 #### Benefits of presentations
 The presentation component of CAFE serves several important purposes. First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics. This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.
