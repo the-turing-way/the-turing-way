@@ -117,7 +117,8 @@ Create a schedule of events that can be published online and advertised ahead of
 There are many technologies and tools available that can help you manage your community more effectively.
 For example, you can use Slack or Discord to communicate with members, create a website with GitHub pages to share resources and information, and use social media platforms like Twitter to promote your community and attract new members.
 
-In conclusion, building and sustaining a community around learning how to program requires a dedicated team of organizers, clear communication, effective event planning, and access to resources like funding. By relying on a core team of organizers to make key decisions and create an overarching vision, you can create a thriving community that supports and inspires each other.
+In conclusion, building and sustaining a community around learning how to program requires a dedicated team of organizers, clear communication, effective event planning, and access to resources like funding.
+By relying on a core team of organizers to make key decisions and create an overarching vision, you can create a thriving community that supports and inspires each other.
 
 ## Logistics
 
