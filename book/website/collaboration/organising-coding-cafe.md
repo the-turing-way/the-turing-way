@@ -256,7 +256,8 @@ However, in general, presentations will be structured as a short talk followed b
 This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.
 
 ### Examples of CAFE topics 
-The topics covered in the presentations will also vary depending on the interests and needs of the community. Some examples of potential presentation topics might include:
+The topics covered in the presentations will also vary depending on the interests and needs of the community.
+Some examples of potential presentation topics might include:
 
 - Introduction to Python/R/MATLAB
 - Data visualization techniques
