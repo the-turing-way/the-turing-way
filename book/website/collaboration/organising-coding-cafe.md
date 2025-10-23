@@ -68,7 +68,9 @@ The CAFE community can provide the beginner programmer with a supportive environ
 
 ### The advanced programmer
 
-The advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages. They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software. The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
+The advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages.
+They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software.
+The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
 
 ### The interdisciplinary researcher
 
