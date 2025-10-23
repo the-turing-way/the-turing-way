@@ -109,7 +109,9 @@ Consider using tools like GitHub project boards to track progress and assign tas
 It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting.
 
 ### Considerations for meeting planning
-When it comes to planning community meetings, it’s important to stay organized and keep everyone informed. Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks. Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it.
+When it comes to planning community meetings, it’s important to stay organized and keep everyone informed.
+Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks.
+Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it.
 
 ### Reaching your audience
 There are many technologies and tools available that can help you manage your community more effectively. For example, you can use Slack or Discord to communicate with members, create a website with GitHub pages to share resources and information, and use social media platforms like Twitter to promote your community and attract new members.
