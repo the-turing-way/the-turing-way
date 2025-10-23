@@ -152,7 +152,8 @@ Some events may alter your planning such as for example:
 - **exam or internship weeks at your institutions** (if you are inviting students to your events make sure that they are around to join);
 -**major events at your institution that will be prioritized by your community** (do not plan a programming cafe as an alternative to a major software related conference at your institution for example).
 
-Additionally, planning around events that bring a lot of people together anyway may be beneficial. If you know that your audience will come together for a shorter event, you may want to try to get them after the event for your programming cafe.
+Additionally, planning around events that bring a lot of people together anyway may be beneficial.
+If you know that your audience will come together for a shorter event, you may want to try to get them after the event for your programming cafe.
 
 Finding the right week day and the best day time is equally important.
 A lot of institutions are offering telework options.
