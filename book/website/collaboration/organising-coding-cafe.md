@@ -279,7 +279,8 @@ First and foremost, effective communication is key to building and sustaining a 
 
 ### Event registration
 
-When it comes to registrations for events, make sure that the process is simple and easy to understand. Use a platform that is user-friendly and accessible, such as Eventbrite or Google Forms, and make sure that people know how to sign up.
+When it comes to registrations for events, make sure that the process is simple and easy to understand.
+Use a platform that is user-friendly and accessible, such as Eventbrite or Google Forms, and make sure that people know how to sign up.
 
 ### Meetings
 
