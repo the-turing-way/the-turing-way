@@ -229,7 +229,10 @@ There are several considerations for the format of the programming CAFE.
 These include: Frequency, Timing, Agenda, Topics. These aspects may differ depending on the size of the community, the capacity of the organizers, and the needs of the community.
 
 ### Frequency and Timing
-We have successful experiences of running monthly and bi-weekly CAFE events. They can be planned as lunch meetings, at the end of the working day or (partly) after office hours. There are pro’s and con’s to each of these options. You may initially start with something that works for the organizers and the initial community, and then adjust based on the needs of the community as the community grows.
+We have successful experiences of running monthly and bi-weekly CAFE events.
+They can be planned as lunch meetings, at the end of the working day or (partly) after office hours.
+There are pro’s and con’s to each of these options.
+You may initially start with something that works for the organizers and the initial community, and then adjust based on the needs of the community as the community grows.
 
 ### Presentation component
 At CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That’s why we dedicate at least some part of the events on a presentation component on a programming related topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.
