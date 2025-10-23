@@ -37,7 +37,8 @@ A programming CAFE will vary depending on the needs and interests of the communi
 
 ### Programming languages
 
-A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language-independent. For example, you might start a CAFE that focuses exclusively on Python, or you might create a more broader CAFE that covers several programming languages such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.
+A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language-independent. 
+For example, you might start a CAFE that focuses exclusively on Python, or you might create a more broader CAFE that covers several programming languages such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.
 
 ### Skill level
 
