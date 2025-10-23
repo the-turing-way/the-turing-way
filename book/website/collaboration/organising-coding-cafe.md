@@ -244,7 +244,8 @@ The presentation component of CAFE serves several important purposes.
 First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics.
 This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.
 
-Secondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming. By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.
+Secondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming.
+By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.
 
 Finally, the presentation component is a great way to showcase the diverse range of interests and expertise within the CAFE community. By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.
 
