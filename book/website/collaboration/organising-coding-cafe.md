@@ -132,7 +132,10 @@ Your cafe will not be a success if you are eager to meet as often as possible, b
 Meeting too often may be exhausting for you as an organizer, and frustrating for your community as being pushed to constantly declining events may feel overwhelming.
 However, meeting only once in a blue moon is certainly not frequently enough to build strong bonds in your community. 
 
-Finding the right balance is important. Try to find out what frequency may be seen as a standard for your audience and live within the rhythm of your institution. You can also reach out to partner institutions that already have experience and ask for advice. Nothing is written in stone: you can later change the frequency based on your experience.
+Finding the right balance is important.
+Try to find out what frequency may be seen as a standard for your audience and live within the rhythm of your institution.
+You can also reach out to partner institutions that already have experience and ask for advice.
+Nothing is written in stone: you can later change the frequency based on your experience.
 
 As a suggestion: most of our coding cafes are organized on a monthly basis with a dynamic audience. That means that some people will join most of your events while others may only come irregularly for certain topics. However, some coding cafes do not follow a strict schedule but are organized ad-hoc once there are enough speakers, topics, or volunteers. 
 
