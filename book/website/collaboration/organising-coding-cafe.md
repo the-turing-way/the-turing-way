@@ -122,7 +122,8 @@ By relying on a core team of organizers to make key decisions and create an over
 
 ## Logistics
 
-Organizing a coding cafe requires some logistics, as for every event. However, coding cafes may come with special requirements that you need to take into account. The key message of this chapter is: *Know your audience!*
+Organizing a coding cafe requires some logistics, as for every event. However, coding cafes may come with special requirements that you need to take into account.
+The key message of this chapter is: *Know your audience!*
 
 ### Frequency
 
