@@ -274,7 +274,9 @@ We also allow participants to code during the presentation component of the even
 In this way the event is always open for a diverse audience with different interests and skill levels, which is valuable for interaction and knowledge sharing in the community.
 
 ### Promoting interaction
-Community organizers can promote interaction by keeping an informal overview of the community members (and their projects, questions and skills) and facilitate connections. Snacks and drinks are a great way to promote interaction and collaboration among community members. This helps to create a more relaxed and informal atmosphere where connections are made more easily.
+Community organizers can promote interaction by keeping an informal overview of the community members (and their projects, questions and skills) and facilitate connections.
+Snacks and drinks are a great way to promote interaction and collaboration among community members.
+This helps to create a more relaxed and informal atmosphere where connections are made more easily.
 
 ### Exercises
 Exercises provide a great opportunity for community members to practice their programming skills and to learn new techniques. They also help to reinforce the concepts covered in the presentations and to ensure that community members are able to apply what they have learned in a practical way. Besides, exercises can be a great way to get community members to interact with each other and to collaborate.
