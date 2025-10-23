@@ -196,7 +196,9 @@ Decide if you want to offer alcoholic options for example or if you need both, h
 
 ### Room setup
 
-Last but not least, decide on the right room. A coding cafe can be organized online which comes with its own challenges. If you decide to organize an in-person event, you need to book a room that fits the needs of your event. 
+Last but not least, decide on the right room.
+A coding cafe can be organized online which comes with its own challenges.
+If you decide to organize an in-person event, you need to book a room that fits the needs of your event. 
 
 Things you may need to consider are:
 
