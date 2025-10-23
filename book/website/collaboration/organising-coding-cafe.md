@@ -74,7 +74,9 @@ The CAFE community can provide the advanced programmer with a platform to share 
 
 ### The interdisciplinary researcher
 
-The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. They might have a basic understanding of programming concepts but lack the technical skills to implement them. The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
+The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. 
+They might have a basic understanding of programming concepts but lack the technical skills to implement them.
+The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
 
 ### The data specialist
 
