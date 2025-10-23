@@ -92,7 +92,9 @@ The time commitment for each organizer may be around **0.1 FTE** (Full-Time Equi
 Make sure you can commit sufficient time for organization, before you commit to organising.  
 
 ### Funding opportunities
-Programming CAFEs usually work thanks to shared voluntary effort of many motivated individuals. Thus having a financial aid for running such events is not strictly necassary. But it certainly helps providing some extra perks (e.g. refreshments or merchendise) that can help attract initial attention of your target audience.
+Programming CAFEs usually work thanks to shared voluntary effort of many motivated individuals. 
+Thus having a financial aid for running such events is not strictly necessarily. 
+But it certainly helps providing some extra perks (such as refreshments or merchandise) that can help attract initial attention of your target audience.
 
 Securing funding can be a challenge, but there are resources available to help. In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes. Consider reaching out to these programs to see if they would be interested in supporting your community. You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals.
 
