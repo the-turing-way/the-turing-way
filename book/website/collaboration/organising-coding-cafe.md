@@ -87,7 +87,9 @@ The CAFE community can provide the data expert with a platform to connect with o
 ## What to consider before launching a CAFE?
 
 ### Organizers
-Building and sustaining a community around learning how to program relies on a core team of organizers who can take responsibility for managing the community and ensuring that it runs smoothly. The time commitment for each organizer may be around **0.1 FTE** (Full-Time Equivalent) per organizer, depending on the size and scope of the community. Make sure you can commit sufficient time for organization, before you commit to organising.  
+Building and sustaining a community around learning how to program relies on a core team of organizers who can take responsibility for managing the community and ensuring that it runs smoothly. 
+The time commitment for each organizer may be around **0.1 FTE** (Full-Time Equivalent) per organizer, depending on the size and scope of the community. 
+Make sure you can commit sufficient time for organization, before you commit to organising.  
 
 ### Funding opportunities
 Programming CAFEs usually work thanks to shared voluntary effort of many motivated individuals. Thus having a financial aid for running such events is not strictly necassary. But it certainly helps providing some extra perks (e.g. refreshments or merchendise) that can help attract initial attention of your target audience.
