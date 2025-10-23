@@ -19,7 +19,8 @@ A programming community like CAFE can provide a supportive environment where res
 
 ### Foster collaboration and knowledge-sharing
 
-Programming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing. By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.
+Programming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing.
+By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.
 
 ### Provide access to resources and opportunities
 
