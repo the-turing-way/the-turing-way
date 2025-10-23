@@ -247,7 +247,8 @@ This not only helps to deepen the knowledge and skills of individual community m
 Secondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming.
 By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.
 
-Finally, the presentation component is a great way to showcase the diverse range of interests and expertise within the CAFE community. By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.
+Finally, the presentation component is a great way to showcase the diverse range of interests and expertise within the CAFE community.
+By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.
 
 #### Format of presentations
 The format of the presentations will vary depending on the presenter and the topic being discussed. However, in general, presentations will be structured as a short talk followed by a Q&A session. This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.
