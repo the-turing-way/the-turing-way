@@ -237,4 +237,5 @@ Finally, swag can be a fun and rewarding way to recognize and incentivize commun
 Consider giving out stickers, t-shirts, or other branded merchandise to show your appreciation.
 Not only does it make people feel valued, but it can also help to spread the word about your community.
 
-In conclusion, building and sustaining a learning community takes effort and dedication, but the rewards are worth it. By fostering effective communication, creating a welcoming and inclusive environment, and providing ongoing opportunities for engagement, you can create a community that supports and inspires each other.
+In conclusion, building and sustaining a learning community takes effort and dedication, but the rewards are worth it.
+By fostering effective communication, creating a welcoming and inclusive environment, and providing ongoing opportunities for engagement, you can create a community that supports and inspires each other.
