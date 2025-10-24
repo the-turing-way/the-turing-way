@@ -52,8 +52,6 @@ Finally, you might choose to define the focus of your programming CAFE based on 
 For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research.
 The focus on research applications will depend on the interests and needs of the community.
 
-(cl-organising-cafes-audience)=
-
 ## Choose your target audience
 
 The CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience.
