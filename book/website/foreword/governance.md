@@ -15,7 +15,7 @@ We are very keen to discuss and improve our governance approaches with the invol
 ## Three Levels of Decision Making
 
 In 2023-2024, _The Turing Way_ adopted three institutional "levels".
-Originally described in the context of Studies of the institutional design of natural resource commons{cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making{cite}`Schweik2007commons`.
+Originally described in the context of Studies of the institutional design of natural resource commons {cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making {cite}`Schweik2007commons`.
 
 1. The “Community level" norms influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
 2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community-level participation easier.
