@@ -13,7 +13,6 @@ Here are some reasons why you might want to consider starting a programming comm
 
 ### Build a supportive community
 
-Learning to code can be a frustrating and challenging experience, especially when you’re stuck on a problem or error.
 Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference.
 A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.
 
