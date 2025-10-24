@@ -173,14 +173,14 @@ Offering food or drinks may help to increase the mood of the audience and may at
 There will probably be a lot of events and meetings to choose from on busy days, and offering snacks or drinks may help people to decide to spend their time at your coding cafe.
 Some advantages of offering food and drinks are:
 
-- Increase of attraction;
-- Increase of happiness;
-- Works as an icebreaker since people come together at a potential buffet.
+- Increase of attraction
+- Increase of happiness
+- Works as an icebreaker since people come together at a potential buffet
 
 However, providing foods and drinks also comes with disadvantages such as
 
-- Increase of cost;
-- Increase of organizational effort.
+- Increase of cost
+- Increase of organizational effort
 
 If you order pizza for example for all participants, you need a higher budget and you have an additional effort of ordering and receiving pizza in time.
 
@@ -202,14 +202,14 @@ If you decide to organize an in-person event, you need to book a room that fits 
 
 Things you may need to consider are:
 
-- Room size;
-- Convenient location of the room;
-- Accessibility of the room;
-- Findability of the room;
-- Number of power outlets;
-- Number of tables;
-- Are food and drink consumption allowed?;
-- Presenter options.
+- Room size
+- Convenient location of the room
+- Accessibility of the room
+- Findability of the room
+- Number of power outlets
+- Number of tables
+- Are food and drink consumption allowed?
+- Presenter options
  
 
 All in all, make sure that the idea of your programming cafe fits into the chosen room.
