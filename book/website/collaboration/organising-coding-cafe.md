@@ -52,8 +52,6 @@ Finally, you might choose to define the focus of your programming CAFE based on 
 For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research.
 The focus on research applications will depend on the interests and needs of the community.
 
-(cl-organising-cafes-audience)=
-
 ## Choose your target audience
 
 The CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience.
@@ -94,7 +92,7 @@ Make sure you can commit sufficient time for organization, before you commit to 
 ### Funding opportunities
 Programming CAFEs usually work thanks to shared voluntary effort of many motivated individuals. 
 Thus having a financial aid for running such events is not strictly necessarily. 
-But it certainly helps providing some extra perks (such as refreshments or merchandise) that can help attract initial attention of your target audience.
+But it certainly helps for providing some extra perks (such as refreshments or merchandise) that can help attract initial attention of your target audience.
 
 Securing funding can be a challenge, but there are resources available to help.
 In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes.
