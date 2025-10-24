@@ -33,7 +33,7 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
 - Decide if there will be designated speakers with presentations.
   - Share the speaker's guidelines and protocols with them.
 - Establish a shared document that can be updated online for agenda and note-taking. 
-  For example, using [Google Docs](https://docs.google.com) or [HackMD](https://hackmd.io).
+  For example, using [Google Docs](https://docs.google.com) or [Framapad](https://framapad.org/abc/en/).
   - Create a template for this meeting (that can also be used for future meetings).
 - Create a shared document to share the following:
   - Participation guidelines.

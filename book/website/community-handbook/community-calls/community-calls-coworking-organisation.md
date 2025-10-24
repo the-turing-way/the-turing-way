@@ -43,7 +43,7 @@ If you keep your call open for any of your community members to join, you may en
 This would also mean that for some calls, there won't be anyone available to co-work with you.
 
 It's useful to handle some sort of sign-up sheet or registration system so the organisers know who to expect on the call.
-In _The Turing Way_, we use dedicated HackMD notes that can be updated before each call by the participants.
+In _The Turing Way_, we use dedicated Framapad notes that can be updated before each call by the participants.
 
 **Frequency of these calls**
 
@@ -72,7 +72,7 @@ As the organisers of the event, you will be required to:
 
 The following aspects will require you to make choices in regards of what tools you will use.
 
-- maintaining shared notes: a few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
+- maintaining shared notes: a few options are [Etherpad](https://etherpad.org/), [Framapad](https://framapad.org/abc/en/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
 - managing registration: a few options are via shared notes, [Zoom](https://zoom.us), [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
 - hosting the calls: a few options are [Zoom](https://zoom.us), [Google Hangout](https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jitsi](https://meet.jit.si/)
 - facilitating chats: a few options are [Slack](https://slack.com/), [Gitter](https://gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
@@ -82,8 +82,6 @@ The following aspects will require you to make choices in regards of what tools 
 **2. Plan and host the calls**
 
 As discussed earlier, you will need to agree upon dates and a time with people who would like to participate in coworking calls.
-Your calls could be organised on a weekly or monthly basis that consistently take place on a certain day and time periodically, or it could be organised once in a while by finding a common availability.
-
 Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
 - update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also quite effective when they receive a calendar invite.
 - maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.

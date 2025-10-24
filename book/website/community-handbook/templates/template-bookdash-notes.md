@@ -1,7 +1,7 @@
 (ch-template-bookdash-notes)=
-# HackMD Template for Shared Notes
+# Framapad Template for Shared Notes
 
-*This template can be used for shared note-taking and information exchange in HackMD during the book dash events.
+*This template can be used for shared note-taking and information exchange in Framapad during the book dash events.
 The access permission can be set so that the notes can be read by everyone and edited by any signed-in users.*
 
 ```
@@ -9,7 +9,7 @@ The access permission can be set so that the notes can be read by everyone and e
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to HackMD, please see this short guide: [https://hackmd.io/\@turingway/hackmd-guide](https://hackmd.io/\@turingway/hackmd-guide)==
+==If you are new to Framapad, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
 - **Location:** Online/in-person
@@ -37,7 +37,7 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 - GitHub resources and managing your contributions
 - An onboarding breakout room for new members and people who need refresher in GitHub
 - Feel free to propose breakout rooms if you have already identified your groups (topic, language, discussions)
-- Please use this HackMD as extensively as needed
+- Please use this Framapad as extensively as needed
 
 ## Groupings for breakout rooms based on the topics of interest:
 

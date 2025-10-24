@@ -6,7 +6,7 @@
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to HackMD, please see this short guide: [https://hackmd.io/\@turingway/hackmd-guide](https://hackmd.io/\@turingway/hackmd-guide)==
+==If you are new to Framapad, please see this short guide: [https://framapad.org/abc/en/](https://framapad.org/abc/en/)==
 
 :::info
 - **Date:** (DD Month YYYY)
@@ -32,7 +32,7 @@ Please see more details on [the project](https://github.com/the-turing-way/the-t
 ### Agenda
 
 - Introductions (get to know each other): 10 minutes
-- About the Book Dash ([logistics, accessibility support, socials](https://hackmd.io/\@turingway/bookdash-may2021-index)): 10 minutes
+- About the Book Dash ([logistics, accessibility support, socials](https://hackmd.io/@turingway/bookdash-may2021-index)): 10 minutes
 - [SMART goal setting exercise](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) in breakout (or quiet writing): 15 minutes
 - A Scriberia artist will be there!! - would you like to get some illustration? (you should [check this out(https://zenodo.org/record/3332808))
 - Report out and general discussion: 30 minutes
@@ -63,9 +63,9 @@ Please see more details on [the project](https://github.com/the-turing-way/the-t
 ---
 <!-- Other important details discussed during the meeting can be entered here. -->
 * Detailed [Presentation](https://zenodo.org/record/3615259) about the project ([video](https://www.youtube.com/watch?v=dlycvMU45ek)) <--- update this
-* See the index HackMd: https://hackmd.io/\@turingway/bookdash-may2021-index <--- update this
+* See the index Framapad: https://hackmd.io/@turingway/bookdash-may2021-index <--- update this
 * GitHub: https://github.com/the-turing-way/the-turing-way
-    * [Introductory materials](https://hackmd.io/\@turingway/bookdash-may2021-index#GitHub-Resources) <--- update this
+    * [Introductory materials](https://hackmd.io/@turingway/bookdash-may2021-index#GitHub-Resources) <--- update this
 
 :dart: Goal setting exercise: Breakout
 ---
@@ -93,9 +93,9 @@ Setting our personal goals will help us prepare better for your participation:
 > **S**pecific: What do I want to accomplish?:
 > **M**easurable: How will I measure my success?:
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
-    > step 1:
-    > step 2:
-    > step 3:
+>     > step 1:
+>     > step 2:
+>     > step 3:
 > **R**elevant: Does this goal meet a specific need?: 
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
 > Goal statement:
@@ -104,9 +104,9 @@ Setting our personal goals will help us prepare better for your participation:
 > **S**pecific: What do I want to accomplish?:
 > **M**easurable: How will I measure my success?:
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
-    > step 1:
-    > step 2:
-    > step 3:
+>     > step 1:
+>     > step 2:
+>     > step 3:
 > **R**elevant: Does this goal meet a specific need?: 
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
 > Goal statement:
@@ -129,4 +129,4 @@ Here are a few suggestions for a good first contributions:
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/the-turing-way/the-turing-way/issues).
 - Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
-```
+````
