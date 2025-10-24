@@ -5421,6 +5421,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "juliancervos",
+      "name": "Julian Lopez Gordillo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25617825?v=4",
+      "profile": "https://github.com/juliancervos",
+      "contributions": [
+        "review"
+      ]
     }
   ]
 }
