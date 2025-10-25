@@ -1,5 +1,5 @@
 (cl-organising-coding-cafe)=
-# Organising a Programing  CAFE
+# Organising a Programming  CAFE
 
 A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
 
