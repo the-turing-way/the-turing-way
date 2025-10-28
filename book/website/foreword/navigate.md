@@ -16,7 +16,7 @@ Other guides contain different socio-technical aspects that should be considered
 * {ref}`cl`
 * {ref}`er`
 
-```{figure} ../figures/theturingway-chapters.*
+```{figure} ../../figures/theturingway-chapters.*
 ---
 name: theturingway-chapters
 alt: >

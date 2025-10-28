@@ -9,7 +9,7 @@ In the following sections you can find details about each step of the process.
 
 To get started, visit [`cffinit`](https://citation-file-format.github.io/cff-initializer-javascript/) and click on the "Create" button to continue to the **Start** screen.
 
-```{figure} ../../figures/gifs/cffinit-0.gif
+```{figure} ../../../figures/gifs/cffinit-0.gif
 ---
 name: cffinit-0
 width: 80%
@@ -24,7 +24,7 @@ Landing page of cffinit. [^cffinitversion]
 
 On the first page of the application, enter the title of your work, write a message to indicate how you want your software to be mentioned, and select whether you are creating a `CITATION.cff` file for software or a dataset.
 
-```{figure} ../../figures/gifs/cffinit-1.gif
+```{figure} ../../../figures/gifs/cffinit-1.gif
 ---
 name: cffinit-1
 width: 80%
@@ -44,7 +44,7 @@ As title, message and author are required fields by the schema, these fields wil
 
 Click next to continue to the **Authors** screen.
 
-```{figure} ../../figures/gifs/cffinit-1-filled.gif
+```{figure} ../../../figures/gifs/cffinit-1-filled.gif
 ---
 name: cffinit-1-filled
 width: 80%
@@ -61,7 +61,7 @@ Fill the relevant fields for authors.
 Adding ORCID for authors is highly recommended.
 See {ref}`cm-citable-orcid` to learn more about ORCID.
 
-```{figure} ../../figures/gifs/cffinit-2.gif
+```{figure} ../../../figures/gifs/cffinit-2.gif
 ---
 name: cffinit-2
 width: 80%
@@ -70,7 +70,7 @@ alt: Second page of the form, for Authors.
 Second page of the form, for Authors. [^cffinitversion]
 ```
 
-```{figure} ../../figures/gifs/cffinit-2-add-author.gif
+```{figure} ../../../figures/gifs/cffinit-2-add-author.gif
 ---
 name: cffinit-2-add-author
 width: 80%
@@ -83,7 +83,7 @@ After adding one author, you have the minimum required information for a valid `
 Add more authors as needed.
 Click next afterwards to continue.
 
-```{figure} ../../figures/gifs/cffinit-2-filled.gif
+```{figure} ../../../figures/gifs/cffinit-2-filled.gif
 ---
 name: cffinit-2-filled
 width: 80%
@@ -100,7 +100,7 @@ In this screen you can download the generated file or copy it from the preview w
 We highly recommend that you add more information.
 Click the "Add more" button to add more fields to your citation file to make it even better.
 
-```{figure} ../../figures/gifs/cffinit-3.gif
+```{figure} ../../../figures/gifs/cffinit-3.gif
 ---
 name: cffinit-3
 width: 80%
@@ -126,7 +126,7 @@ Here is a brief description of the additional screens:
 - License: The license under which the work is available;
 - Version specific: Information about a specific release or commit, including the date of the release.
 
-```{figure} ../../figures/gifs/cffinit-3-advanced.gif
+```{figure} ../../../figures/gifs/cffinit-3-advanced.gif
 ---
 name: cffinit-3-advanced
 width: 80%
@@ -143,7 +143,7 @@ Great that you made it to the final screen!
 After adding all the relevant information, you will have a validated `CITATION.cff` file.
 Download or copy it and add it to your public repository to get the credit you deserve!
 
-```{figure} ../../figures/gifs/cffinit-final.gif
+```{figure} ../../../figures/gifs/cffinit-final.gif
 ---
 name: cffinit-final
 width: 80%

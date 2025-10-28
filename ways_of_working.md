@@ -93,8 +93,13 @@ All members, especially at the maintenance and constitution levels, will:
 
 ## Authorship and Contributorship in _The Turing Way_
 
-Anyone who contributes to the book is considered an author in _The Turing Way_.
-The first author is always `The Turing Way Community`.
+Anyone who contributes to the book is considered an author of _The Turing Way_.
+
+Our Community Handbook provides detailed processes and guidelines for 
+[Acknowledging Contributors](https://book.the-turing-way.org/community-handbook/acknowledgement). 
+This section offers an overview and highlights the main points to ensure you have an initial understanding.
+
+**The first author is always `The Turing Way Community`.**
 
 You don't have to have written a chapter to be listed as an author.
 Substantial contributions to the running of the project, for example, adding in (or improving) documentation on *how* someone can contribute to *The Turing Way*, hosted an event, given a talk or onboarded new members to *The Turing Way*, all count as core contributions warranting authorship.
@@ -112,7 +117,7 @@ We release a new version every 6 months or if substantial updates to existing ch
 Authorship is cumulative.
 If you have been added as an author on one release, you will stay as an author on all future releases.
 
-***Thank you for contributing to the Turing Way!*** We value your thoughtful participation and contributions to _The Turing Way_! :hibiscus::sunflower::rocket::star2:
+***Thank you for contributing to the Turing Way!*** We value your thoughtful participation and contributions to _The Turing Way_! 
 
 ## Resources
 

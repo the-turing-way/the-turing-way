@@ -13,7 +13,7 @@ At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] move
 A quote from the Budapest Open Access Initiative sums up the objective:
 >"We mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles...the only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited"
 
-It has been estimated around 28% of the scholarly literature is Open Access {cite}`Piwowar2018stateofOA`and in 2020 more outputs were published through Open Access channels than traditional subscription channels globally {cite}`Dimensions2021openaccesssurpasses`.
+It has been estimated around 28% of the scholarly literature is Open Access {cite}`Piwowar2018stateofOA` and in 2020 more outputs were published through Open Access channels than traditional subscription channels globally {cite}`Dimensions2021openaccesssurpasses`.
 
 (rr-open-access-routes)=
 ## Routes for Open Access
@@ -44,12 +44,14 @@ The number of these journals is still increasing rapidly, with 17,000 listed in 
 
 Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and where do we go from here?", where she provides an overview of how different models of scientific publication look like, and how we can take an informed approach to Open Access.
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/Mycp7SzBWB0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  <p><a href="https://www.youtube.com/embed/Mycp7SzBWB0">History of  Scientific Publishing - Where do we go from here??</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+::: {iframe} https://www.youtube.com/embed/Mycp7SzBWB0
+:align: center
+:width: 100%
 
-*Slides for this talk can be cited as Victoria Hellon. (2022, May 4). Scientific Publishing: a brief history and where do we go from here?. Zenodo. https://doi.org/10.5281/zenodo.6516871.*
+History of Scientific Publishing - Where do we go from here?
+Slides: https://doi.org/10.5281/zenodo.6516871
+:::
+
 
 (rr-open-access-gold-publishing)=
 #### Gold Open Access publishing
@@ -102,7 +104,7 @@ Concerning the moment to make the paper publicly available, many journals establ
 Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
-```{figure} ../../figures/routes-to-OA.*
+```{figure} ../../../figures/routes-to-OA.*
 ---
 height: 500px
 name: routes-to-OA
@@ -127,7 +129,7 @@ Publishing openly also has benefits for you as an author.
 Your work is likely to reach a larger audience meaning it may have a broader societal impact.
 Papers published openly are also more likely to have a citation advantage {cite}`Tennant2016openaccess`.
 
-```{figure} ../../figures/share-work-openly.*
+```{figure} ../../../figures/share-work-openly.*
 ---
 height: 500px
 name: share-work-openly
@@ -152,7 +154,7 @@ They have also switched many of their journals from a closed, subscription model
 However, [many are critical](https://www.the-scientist.com/news-opinion/for-a-hefty-fee-nature-journals-offer-open-access-publishing-68181) of the increasing cost publishers are charging to publish in Open Access.
 
 Further pushes to make more research open and advocate for change in slow-changing publishers has come from initiatives such as [Plan S](https://www.coalition-s.org/why-plan-s/) which is backed by a coalition of funders and stakeholders.
-UKRI has also recently announced a new Open Access policy {cite}`ukri2021openaccess`for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
+UKRI has also recently announced a new Open Access policy {cite}`ukri2021openaccess` for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
 
 The push for open is also prevalent across the globe- initiatives such as [SciELO](https://en.wikipedia.org/wiki/SciELO) which was created to meet the scientific communication needs of developing countries and provides an efficient way to increase visibility and access to scientific literature.
 
