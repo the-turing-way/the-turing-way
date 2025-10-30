@@ -5412,6 +5412,42 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "TiernanOSullivan",
+      "name": "Tiernan O'Sullivan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/172599503?v=4",
+      "profile": "https://github.com/TiernanOSullivan",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "juliancervos",
+      "name": "Julian Lopez Gordillo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25617825?v=4",
+      "profile": "https://github.com/juliancervos",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "nnorouzi913",
+      "name": "nnorouzi913",
+      "avatar_url": "https://avatars.githubusercontent.com/u/239992651?v=4",
+      "profile": "https://github.com/nnorouzi913",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "StefanW0",
+      "name": "Stefan Wouters",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183834624?v=4",
+      "profile": "https://github.com/StefanW0",
+      "contributions": [
+        "review"
+      ]
     }
   ]
 }
