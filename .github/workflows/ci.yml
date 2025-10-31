@@ -42,7 +42,7 @@ jobs:
         run: |
           if [[ "${{ matrix.os }}" == *"ubuntu"* ]]; then
             echo "Running strict build on Ubuntu"
-            make ci --strict
+            make strict
           else
             make ci
           fi
