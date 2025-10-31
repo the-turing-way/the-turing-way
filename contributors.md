@@ -778,7 +778,8 @@ about open and reproducible (data) science. I am currently thinking a lot about
 how we could use the content from The Turing Way and turn it into a course.
 This idea was also part of an application, where I proposed to start a new
 group on *Open AI*.
-> Specifically, I have co-authored these chapters: [Research Compendia](https://book.the-turing-way.org/reproducible-research/compendia.html), [File Naming Convention](https://book.the-turing-way.org/project-design/filenaming.html), and reviewed many contributions.
+> Specifically, I have co-authored these chapters: [Research Compendia](https://book.the-turing-way.org/reproducible-research/compendia.html), [File Naming Convention](https://book.the-turing-way.org/project-design/info-management/filenaming/
+), and reviewed many contributions.
 > I regularly recommend The Turing Way as a resource. Both for learning more
 about reproducible data science and also when discussing specific topics.
 I think that people are taking it on and reading it :)
@@ -1052,7 +1053,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Personal highlights:
 >I started familiarizing myself with the GitHub environment and learned how to collaborate through it. It was especially nice to meet the vibrant community working together on the Turing Way!
-> Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://book.the-turing-way.org/reproducible-research/rdm/rdm-toolkits.html).
+> Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://book.the-turing-way.org/reproducible-research/rdm/rdm-resources/#research-data-management-toolkits).
 
 
 <!---L--->
