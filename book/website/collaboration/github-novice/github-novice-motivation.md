@@ -30,7 +30,7 @@ However, there is no need to download GitHub onto your computer; it is much simp
 In order to use GitHub, you do not need to be a computer coder!
 To format text, you only need to learn a very simple type of file formatting syntax called markdown. 
 Again, you do not need to download a markdown editor as it can all be written directly in GitHub in your web browser.
-Markdown syntax [{term}`def<Syntax>`] is designed to be human readable even if it isn’t rendered [{term}`def<Rendered Output>`].
+Markdown syntax {term}`Syntax` is designed to be human readable even if it isn’t rendered {term}`Rendered Output`.
 This allows you to format your text into a nice-looking document, including adding in links, pictures, tables and web links.
 In most cases, GitHub even provides a "preview" option that allows you to see what your rendered document will look like.
 
