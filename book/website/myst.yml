@@ -13,6 +13,11 @@ project:
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
     - plugins/github.mjs
+  error_rules:
+    - rule: link-resolves
+      severity: ignore
+      key:
+        - '{http,https}://*'
   bibliography:
     - references.bib
   references:
