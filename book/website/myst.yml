@@ -17,7 +17,7 @@ project:
     - rule: link-resolves
       severity: ignore
       key:
-        - '{http,https}://*'
+        - '{http,https}://**'
   bibliography:
     - references.bib
   references:
