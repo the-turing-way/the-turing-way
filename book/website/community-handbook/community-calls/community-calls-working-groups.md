@@ -33,7 +33,7 @@ Find more information on their [Github repository](https://github.com/the-turing
 
 These calls are for co-working on infrastructure support, and for learning more about the work of the team. 
 
-Find more information in the [#infrastructure]() channel on Slack, or on their [Github repository]().
+Find more information in the [#infrastructure](https://theturingway.slack.com/archives/C01EUGMQSNP) channel on Slack, or on their [Github repository](https://github.com/the-turing-way/infrastructure-working-group/).
 
 ### Translation and Localisation
 
