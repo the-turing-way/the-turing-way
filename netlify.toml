@@ -67,6 +67,18 @@ fi
   status = 302
   force = true
 
+[[redirects]]
+  from = "https://calendar.the-turing-way.org/*"
+  to = "https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://ics.the-turing-way.org/*"
+  to = "https://calendar.google.com/calendar/ical/theturingway%40gmail.com/public/basic.ics"
+  status = 302
+  force = true
+
 # Redirects for old welcome/home/index page urls to current
 [[redirects]]
   # index.html no longer exists using Jupyter Book 2
