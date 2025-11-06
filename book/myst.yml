@@ -1,0 +1,4 @@
+# MyST configuration
+html:
+  css:
+    - headings.css
