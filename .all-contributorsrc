@@ -5448,6 +5448,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "jabezsamsondev-prog",
+      "name": "Jabez Samson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/233149054?v=4",
+      "profile": "https://www.jabezsamson.in/",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
