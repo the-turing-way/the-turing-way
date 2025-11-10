@@ -24,7 +24,7 @@ Sometimes an additional description goes here.
 As usual, you can find more updates and opportunities in the 'Community News' and 'Opportunities in _The Turing Way_ orbit' sections below. 
 To keep up to date with community events, you can also subscribe to our [shared calendar here](https://calendar.google.com/calendar/u/0/r?cid=theturingway@gmail.com). 📅
 
-If you're interested in keeping up in real-time, don't forget that you can always join our [Slack workspace](https://tinyurl.com/jointuringwayslack), follow the project on [Twitter](https://twitter.com/turingway), or join us on [Fosstodon](https://fosstodon.org/@turingway).
+If you're interested in keeping up in real-time, don't forget that you can always join our [Slack workspace](https://tinyurl.com/jointuringwayslack), or join us on [Fosstodon](https://fosstodon.org/@turingway).
 
 ---
 
@@ -56,15 +56,6 @@ Join us, and [sign up on Eventbrite here](Link to Eventbrite).
 
 ## Title for event in community
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
-
-## Title for event in community
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
-
-## Title for event in community
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac erat sed elit scelerisque tincidunt id sed sapien. Donec ultrices, velit sed molestie vulputate, magna est tincidunt nunc, id venenatis felis mi mollis mauris. Suspendisse nisl ex, elementum at dui in, dignissim placerat lectus. Suspendisse ut felis non enim ultrices commodo. Integer lacus tortor, vehicula in nibh eu, suscipit mattis risus. Maecenas finibus efficitur tortor, sed cursus ipsum aliquam ultricies. Vivamus a risus quis augue hendrerit feugiat vitae a ipsum. 
 
 ---
 
@@ -99,7 +90,6 @@ You are welcome to join *The Turing Way* community, and learn more about the pro
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 *   [Mastodon profile](https://scholar.social/web/@turingway@fosstodon.org)
 *   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-*   [Twitter profile](https://twitter.com/turingway)
 
 If you'd like to contribute to the next newsletter, please email Anne Lee Steele at asteele@turing.ac.uk! Feel free to send her a message on Slack, or [book some time in on Anne's calendly](calendly.com/aleesteele/) to say hello.
 
@@ -162,7 +152,6 @@ Find more details on these topics below 👇
 - [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
 - [Public Gitter channel](https://gitter.im/the-turing-way/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-- [X (formerly Twitter) Channel](https://twitter.com/turingway)
 
 You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
