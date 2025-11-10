@@ -5467,6 +5467,24 @@
         "content",
         "design"
       ]
+    },
+    {
+      "login": "HyunKN",
+      "name": "Sugu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152015418?v=4",
+      "profile": "https://github.com/HyunKN",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "mikey247",
+      "name": "Michael Umeokoli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93191705?v=4",
+      "profile": "https://mikey24-7.xyz",
+      "contributions": [
+        "review"
+      ]
     }
   ]
 }
