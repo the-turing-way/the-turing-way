@@ -1,61 +1,104 @@
 # Lesson & Curriculum Development 
 
 ## Overview
-> Curriculum development is an ongoing process aimed at finding new and effective ways to provide students with intellectually challenging and personally inspiring learning experiences. Determining the appropriate level for students and defining learning outcomes are essential when designing a lesson or curriculum. This process varies based on the program of study, such as undergraduate, postgraduate, or flexible learning programs. Data science students, for example, learn complex concepts early in their programs, whereas students taking optional data science courses later in their degree do so at a different pace. By understanding the learners and  program requirements and learning outcomes, educators can tailor the curriculum to match the year of study, ensuring course-specific outcomes and competencies are suitably challenging. Frameworks like Bloom's Taxonomy can help educators structure courses to progress from fundamental to advanced skills, enhancing the students’ learning experience. This chapter will discuss techniques for defining learning outcomes, designing practical and theoretical teaching sessions, outlining learning principles, and examining the characteristics of adult learning and their implications for educators.
+> Curriculum development is an ongoing process aimed at finding new and effective ways to provide students with intellectually challenging and personally inspiring learning experiences.
+Determining the appropriate level for students and defining learning outcomes are essential when designing a lesson or curriculum. This process varies based on the program of study, such as
+undergraduate, postgraduate, or flexible learning programs. Data science students, for example, learn complex concepts early in their programs, whereas students taking optional data science
+courses later in their degree do so at a different pace. By understanding the learners and  program requirements and learning outcomes, educators can tailor the curriculum to match the year of
+study, ensuring course-specific outcomes and competencies are suitably challenging. Frameworks like Bloom's Taxonomy can help educators structure courses to progress from fundamental to
+advanced skills, enhancing the students’ learning experience. This chapter will discuss techniques for defining learning outcomes, designing practical and theoretical teaching sessions,
+outlining learning principles, and examining the characteristics of adult learning and their implications for educators.
 
 ## 1. Defining Learning Outcomes (LOs)
-> When developing a lesson or curriculum, you need to determine the appropriate level of study, as similar courses can be taught in both undergraduate and postgraduate programs. The complexity of the material and the type of degree will vary and determine the learning outcomes. For example, students specialising in data science will encounter more complex concepts earlier in their studies compared to those students not specialising in data science and taking optional courses later in their programs.
-> 
-Once the program and its requirements (program learning outcomes) are known, the year of study provides an indication of the level of study. With this context set, you can move on to specifics about the course, such as the **course learning outcomes** and the level of competency expected by the end of the course. These outcomes can be developed using **Bloom's Taxonomy** (Figure 1), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and knowledge. 
+When developing a lesson or curriculum, you need to determine the appropriate level of study, as similar courses can be taught in both undergraduate and postgraduate programs. The complexity
+of the material and the type of degree will vary and determine the learning outcomes. For example, students specialising in data science will encounter more complex concepts earlier in their 
+studies compared to those students not specialising in data science and taking optional courses later in their programs.
+
+Once the program and its requirements (program learning outcomes) are known, the year of study provides an indication of the level of study. With this context set, you can move on to
+specifics about the course, such as the **course learning outcomes** and the level of competency expected by the end of the course. These outcomes can be developed using **Bloom's Taxonomy**
+(Figure 1), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and
+knowledge. 
 
 ![Screenshot (28)](https://hackmd.io/_uploads/BJWpcbYYR.png)
 *Figure 1: System for Developing Effective Learning Outcomes for Curriculum or Lessons*
 
+The learning outcomes can be developed using the helpful list of verbs given in Figure 2. The LOs  provide a broad overview of the course. Next, identify how you will assess the students, 
+considering the frequency and mode of assessment, alongside how you intend to provide feedback and the frequency of providing feedback. At this point, you can collect evidence of previous 
+learning to improve course delivery for future iterations. Once the learning outcomes and assessments have been defined, draft a plan for the **teaching** and **learning techniques** to be 
+used for the course. It is very crucial to ensure that the outcomes of the processes and course are equitable, equity should be considered from the start and not introduced as an afterthought.
 
-The learning outcomes can be developed using the helpful list of verbs given in Figure 2. The LOs  provide a broad overview of the course. Next, identify how you will assess the students, considering the frequency and mode of assessment, alongside how you intend to provide feedback and the frequency of providing feedback. At this point, you can collect evidence of previous learning to improve course delivery for future iterations. Once the learning outcomes and assessments have been defined, draft a plan for the **teaching** and **learning techniques** to be used for the course. It is very crucial to ensure that the outcomes of the processes and course are equitable, equity should be considered from the start and not introduced as an afterthought.
 
-![126 Bloom's Taxonomy Verbs For Digital Learning](https://hackmd.io/_uploads/rksEaWYF0.jpg)
-
-*Figure 2: Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)*
+```{figure} ../../../figures/blooms-taxonomy-verbs.*
+---
+height: 400px
+label: blooms-taxonomy-verbs
+alt: >
+  A colorful bulb‑shaped graphic showing the hierarchical levels of Bloom’s Taxonomy from bottom to top: Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation, with key action
+  verbs listed beside each level.
+---
+Figure 2: Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)
+_"Bloom’s Taxonomy Verbs" by Fractus Learning is used under a CC BY 4.0 License.
+```
 
 ## 2. Types of Sessions
 
-
-> Any learning, especially Science learning, can be divided into two parts: Theoretical and Practical. It is essential to make both types of sessions engaging for the students to enhance learning, it can be done by incorporating a variety of interactive and dynamic teaching methods, such as multimedia integration, interactive techniques, coding demonstration, personalisation, group work and signposting the lecture contents.
+> Any learning, especially Science learning, can be divided into two parts: theoretical and practical. It is essential to make both types of sessions engaging for the students to enhance
+learning, it can be done by incorporating a variety of interactive and dynamic teaching methods, such as multimedia integration, interactive techniques, coding demonstration, personalisation,
+group work and signposting the lecture contents.
 ### 
 ### Theoretical Sessions
 Creating a good theoretical knowledge base for any topic is essential for effective learning and their implementation. This process has the following key components:
 
-1. **Developing the theory**: Establishing a theoretical foundation is important for Data Scientists to develop their skills to solve real world problems. Introduce fundamental concepts and theories related to the topic, ensuring that the learners grasp the essential principles before moving to more complex concepts. The explanation should be clear and concise, supported by relevant examples preferably real world to which the students can relate to. These concepts can be demonstrated through a dataset that is provided at the start of the course and examined when each component is being studied. These datasets can be opensource data or mock data that is generated specifically for this purpose.
-2. **Signposting Advanced Resources**: Students can have different levels of learning and interests on a topic. Signposting them towards relevant resources e.g. academic papers, books, online resources or expert talks is useful. It is essential to point the students towards reputable resources or provide a curated list for the whole course while dividing it into themes/topics that align with the course contents.
+1. **Developing the theory**: Establishing a theoretical foundation is important for data scientists to develop their skills to solve real world problems. Introduce fundamental concepts and
+theories related to the topic, ensuring that the learners grasp the essential principles before moving to more complex concepts. The explanation should be clear and concise, supported by
+relevant examples preferably real world to which the students can relate to. These concepts can be demonstrated through a dataset that is provided at the start of the course and examined when
+each component is being studied. These datasets can be opensource data or mock data that is generated specifically for this purpose.
+3. **Signposting Advanced Resources**: Students can have different levels of learning and interests on a topic. Signposting them towards relevant resources e.g. academic papers, books, online
+resources or expert talks is useful. It is essential to point the students towards reputable resources or provide a curated list for the whole course while dividing it into themes/topics that
+align with the course contents.
 
 ### Practical Sessions
-To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, capabilities and background of the students is essential. Practical sessions should be integrated into the curriculum and lesson design. 
+To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, 
+capabilities and background of the students is essential. Practical sessions should be integrated into the curriculum and lesson design. 
 
-There are different teaching methdos that can be used to deliver practical sessions (Table 1). For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advance-he.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. Choosing flipped learning would depend on the demographics and preference of a cohort. Depending on the feasibility and preferences various forms of study material can be provided e.g. pre-recorded short lecture, reading material, provision of skeleton code that will be discussed or modified during the session etc. The in-class time should be dedicated to discussion, problem-solving, Q&A and hands-on activities to make it more engaging.
-<div class="alert alert-block alert-success">
-<b>Checklist for planning different types of session (theoretical or practical):</b>
+There are different teaching methdos that can be used to deliver practical sessions (Table 1). For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advancehe.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. Choosing flipped learning would depend on the demographics and preference 
+of a cohort.Depending on the feasibility and preferences various forms of study material can be provided e.g. pre-recorded short lecture, reading material, provision of skeleton code that will 
+be discussed or modified during the session etc. The in-class time should be dedicated to discussion, problem-solving, Q&A and hands-on activities to make it more engaging.
 
+```{hint} Checklist for planning different types of session
+:class: dropdown
 - [ ] Clearly define the competencies and learning outcomes
 - [ ] Specify the tools and libraries students are expected to learn to use 
 - [ ] Learning outcomes of the course/session
 - [ ] Revisit outcomes to help students track their progress
 - [ ] Understand the practical application of the learning
 - [ ] Identify the learning styles to be used: 1. Visual, 2. Auditory and 3. Kin-aesthetic (Table 2)
-- [ ] Identify the mode of student engagement: 1.lecture, 2. brainstorming, 3.case studies, 4.role plays, 5.discussions, 6.reflection, 7.parking lot, 8.storytelling, 9.Recordings, 10.guest lecture, 11. peer learning  and 12. gamification (Table 1)</div>
-
+- [ ] Identify the mode of student engagement: 1.lecture, 2. brainstorming, 3.case studies, 4.role plays, 5.discussions, 6.reflection, 7.parking lot, 8.storytelling, 9.Recordings, 10.guest
+lecture, 11. peer learning  and 12. gamification (Table 1)</div>
+```
 
 ### Passive Learning vs Active Learning 
 
-Passive Learning is a traditional, teacher-centered approach where learners receive information without actively engaging in the learning process. The educator controls the learning environment, delivering content through lectures, demonstrations, or pre-defined exercises. In this setting, students are often passive recipients of information, with limited opportunities for interaction or feedback. The focus is on covering a specific curriculum efficiently, ensuring that learners gain a foundational understanding of data science concepts and tools. However, this method may not always encourage deep engagement or critical thinking, as learners may not actively apply the knowledge in real-world contexts during the training.
+Passive learning is a traditional, teacher-centered approach where learners receive information without actively engaging in the learning process. The educator controls the learning
+environment, delivering content through lectures, demonstrations, or pre-defined exercises. In this setting, students are often passive recipients of information, with limited opportunities
+for interaction or feedback. The focus is on covering a specific curriculum efficiently, ensuring that learners gain a foundational understanding of data science concepts and tools. However,
+this method may not always encourage deep engagement or critical thinking, as learners may not actively apply the knowledge in real-world contexts during the training.
 
-On the other hand, active learning refers to teaching methods that engage students in the learning process beyond passive listening and note-taking. Consequently, it emphasises activities that encourage students to understand contexts and reflect on their actions (Konkol'ová & Paralič, 2018). This approach can be incorporated into both theoretical and practical teaching sessions.
+On the other hand, active learning refers to teaching methods that engage students in the learning process beyond passive listening and note-taking. Consequently, it emphasises activities that
+encourage students to understand contexts and reflect on their actions (Konkol'ová & Paralič, 2018). This approach can be incorporated into both theoretical and practical teaching sessions.
 
-Some active learning methods include demonstration, cooperative learning, case studies, discussion, project-based learning, or pair programming. For example, in project-based learning, students work on actual data science projects, from data collection and cleaning to analysis and interpretation, to encourage deeper understanding of the concepts. Pair programming enables students to collaborate on coding tasks and problem-solving, fostering both technical skills and teamwork. In active learning methods, emphasis is placed on autonomy, cooperation, responsibility, creativity, and critical thinking.
+Some active learning methods include demonstration, cooperative learning, case studies, discussion, project-based learning, or pair programming. For example, in project-based learning, 
+students work on actual data science projects, from data collection and cleaning to analysis and interpretation, to encourage deeper understanding of the concepts. Pair programming enables 
+students to collaborate on coding tasks and problem-solving, fostering both technical skills and teamwork. In active learning methods, emphasis is placed on autonomy, cooperation, 
+responsibility, creativity, and critical thinking.
 
-<div class="alert alert-block alert-info">
-<b>Case study:</b> Students use Python tools and ChatGPT APIs to analyse structured and unstructured data (Tsai, 2024). Lesson learnt: The key lies in instructors creating unique assignments that build on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not considered the brain by students and instructors.</div>
-
+```
+`````{admonition} Case Study
+:class: tip
+Students use Python tools and ChatGPT APIs to analyse structured and unstructured data (Tsai, 2024). Lesson learnt: The key lies in instructors creating unique assignments that build on
+students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not
+considered the brain by students and instructors.</div>
+`````
 
 **Key elements of active learning in Educational Big Data Analytics** (Tsai, 2024):
 * **Data Acquisition:** Relevant to the problem being solved, considering primary and secondary datsources
@@ -96,7 +139,8 @@ Some active learning methods include demonstration, cooperative learning, case s
 ||Engaging students
 |**Parking Lot**|Deferring irrelevant questions or those the educator doesn’t have time to address immediately 
 ||Less important questions can be addressed asynchronous via email or course announcement or by sharing relevant resources
-|**Storytelling**|Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous lecture (like a teaser for the session) 
+|**Storytelling**|Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous 
+lecture (like a teaser for the session) 
 ||Visualising the story by the help of images, infographics,  plots (e.g. graphs) in illustrating key points
 ||Encouraging active participation
 ||Providing opportunity for in-depth reflection
@@ -115,16 +159,28 @@ Some active learning methods include demonstration, cooperative learning, case s
 
 *Table 1. Training methods and their applications.* Adapted from *Center for Applied Linguistics. (2010). Methods in Training.*
 
-<div class="alert alert-block alert-info">
-<b>Case study:</b> Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), Sakulkueakulsuk et al., (2018) outline a novel educational approach using games to teach students. The program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education with gamification and real-world challenges.</div>
+```
+`````{admonition} Case Study
+:class: tip
+Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), Sakulkueakulsuk et al., (2018) outline a novel educational approach using games to teach students. The
+program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and
+motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found
+that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education
+with gamification and real-world challenges.</div>
+`````
 
 ## 3. Adult Learning Principles
 
-> Developing effective and meaningful learning programs for adult learners is a challenge for many higher education institutions. Adults learn differently from children and thus, require different teaching methods and approaches. They may also face challenges like financial limitations, preventing them from fully participating in the learning experience. These crucial differences are explored in Adult Learning Theory. Understanding adult learning priciples is fundamental when develping learning outcomes and teaching material for postgradute or flexible learning programs.
+> Developing effective and meaningful learning programs for adult learners is a challenge for many higher education institutions. Adults learn differently from children and thus, require
+different teaching methods and approaches. They may also face challenges like financial limitations, preventing them from fully participating in the learning experience. These crucial
+differences are explored in Adult Learning Theory. Understanding adult learning priciples is fundamental when develping learning outcomes and teaching material for postgradute or flexible
+learning programs.
 
 According to the U.S. Department of Education (2018), adult learners are aged 25 and older. This definition also applies to the UK and the majority of European countries.
 
-Based on [Adult Learning Theory](https://research.com/education/adult-learning-theory#:~:text=1%20Understanding%20Adult%20Learning%3A%20Adult%20learning%20refers%20to,self-directed%20learning%2C%20and%20transformative%20learning.%20...%20More%20items), the [Adult Learning Model](https://lvp.digitalpromiseglobal.org/content-area/adult-learner) synthesises research from the learning sciences with essential skills (e.g., problem-solving, numeracy, oral communications). Learning styles differ between individuals, and therefore teaching methods should reflect these differences.
+Based on [Adult Learning Theory](https://research.com/education/adult-learning-theory#:~:text=1%20Understanding%20Adult%20Learning%3A%20Adult%20learning%20refers%20to,self-directed%20learning%2C%20and%20transformative%20learning.%20...%20More%20items), the [Adult Learning Model](https://lvp.digitalpromiseglobal.org/content-area/adult-learner) synthesises 
+research from the learning sciences with essential skills (e.g., problem-solving, numeracy, oral communications). Learning styles differ between individuals, and therefore teaching methods 
+should reflect these differences.
 
 As a common starting point, an adult person receives information through three main sensory receivers (all or a combination of them):
 * Visual: learning through watching, observing, and reading;
@@ -154,41 +210,55 @@ As a common starting point, an adult person receives information through three m
 
 *Table 2*. *Facilitation methods for different Learning Styles.*
 
-Each of these sensory channels corresponds to specific teaching methods and techniques (Table 2). Therefore, the aim should be to incorporate a blend of methods rather than focusing on just one style of teaching. For instance, use a variety of instructional methods such as lectures, discussions, role-plays (which can be particularly effective for teaching data ethics concepts), and practical exercises (e.g., quizzes, brainstorming sessions). Additionally, provide diverse training materials, including slides, manuals or handouts, and videos, to accommodate different learning preferences (Table 1).
+Each of these sensory channels corresponds to specific teaching methods and techniques (Table 2). Therefore, the aim should be to incorporate a blend of methods rather than focusing on just 
+one style of teaching. For instance, use a variety of instructional methods such as lectures, discussions, role-plays (which can be particularly effective for teaching data ethics concepts), 
+and practical exercises (e.g., quizzes, brainstorming sessions). Additionally, provide diverse training materials, including slides, manuals or handouts, and videos, to accommodate different 
+learning preferences (Table 1).
  
 ### Characteristics of Adult Learning & Implications for Educators	
 
 * **Adults learn from experiences**
-All new learning for adults is based on what they already know. Encourage students to use examples from their previous experience as much as possible: conduct a skills assessment first and then add to it by bringing in other sources of information; never assume that the students do not know anything about the subject matter.
+All new learning for adults is based on what they already know. Encourage students to use examples from their previous experience as much as possible: conduct a skills assessment first and
+then add to it by bringing in other sources of information; never assume that the students do not know anything about the subject matter.
 * **Adults learn best from peers**
 Adults learn best from those of similar age and background. Encourage them to share with one another.
 * **Adults learn best what is relevant to their lives**
-Adults learn what they want/have time to learn, what they are interested in and what they think will be useful to them in their lives. Use training materials that are relevant to the students and real-world scenarios.
+Adults learn what they want/have time to learn, what they are interested in and what they think will be useful to them in their lives. Use training materials that are relevant to the students
+and real-world scenarios.
 * **Adults have solid existing knowledge**
-Adults are likely to have a wealth of experience, skills and ideas. Encourage them to participate fully in the learning process as equals and share what they know. Encourage them to take responsibility for their own learning and actions. 
+Adults are likely to have a wealth of experience, skills and ideas. Encourage them to participate fully in the learning process as equals and share what they know. Encourage them to take
+responsibility for their own learning and actions. 
 * **Adults learn best through discussions**
-As learners grow older, their powers of observation and reasoning often grow stronger. This ability to observe, think and analyse means that in adult or flexible education, all are learners and all are teachers. Try to use discussions as much as possible because it enables adults to be both learners and teachers. Lectures and note-taking are less effective.
+As learners grow older, their powers of observation and reasoning often grow stronger. This ability to observe, think and analyse means that in adult or flexible education, all are learners
+and all are teachers. Try to use discussions as much as possible because it enables adults to be both learners and teachers. Lectures and note-taking are less effective.
 * **Adults learn best through discovery**
-If an educator teaches only through lectures, then students will probably only remember a fraction of what is said. So, creating participatory sessions where students are actively “saying and doing” will help them remember more from the session. 
+If an educator teaches only through lectures, then students will probably only remember a fraction of what is said. So, creating participatory sessions where students are actively “saying and
+doing” will help them remember more from the session. 
 
 ## 4. Inclusive Teaching & Learning Sessions
 
-> Creating an inclusive and supporting environment empowers learners. Developing inclusive teaching and learning sessions is essential to address the diversity within a student group. Recognising this diversity is crucial for reducing student attrition in programs. It is important to be aware of the group's demographics, including differences in race, ethnicity, gender, educational background, professional background, and special needs.
+> Creating an inclusive and supporting environment empowers learners. Developing inclusive teaching and learning sessions is essential to address the diversity within a student group.
+Recognising this diversity is crucial for reducing student attrition in programs. It is important to be aware of the group's demographics, including differences in race, ethnicity, gender,
+educational background, professional background, and special needs.
 
 Here are some strategies that can be adopted/adapted to create inclusive sessions:
 
 1. **Develop Self-Awareness and Empathy** 
-Educators should reflect on their own backgrounds and experiences, understanding how these impact their assumptions and interactions with students. Building empathy by engaging with students, showing them that they matter, and demonstrating a genuine desire to understand their unique perspectives is crucial for the course.
-2. **Create a Welcoming Learning Environment**
-Establish a space where students feel welcomed, respected, and valued. This can be achieved by creating an environment of mutual respect, encouraging collaboration and positive peer interactions, implementing a code of conduct, and working to inhibit stereotyping.
-3. **Select Appropriate Teaching Methods**
-Choose teaching methods suited to the diverse group being taught. Design activities that consider the factors identified in 1 (develop self-awareness and empathy), ensuring students feel a sense of belonging, see improvement in their competencies, and develop an interest in the course. For example: lectures can be recorded for students who are unable to attend a session or need more time to understand a specific topic at their pace. However, to prevent a decline in attendance due to the availability of recorded content, interactive activities should not be recorded. This encourages students to attend lectures and emphasises the value of participating in these activities for a more comprehensive learning experience.
-4. **Collaborate with Academic Colleagues**
+Educators should reflect on their own backgrounds and experiences, understanding how these impact their assumptions and interactions with students. Building empathy by engaging with students,
+showing them that they matter, and demonstrating a genuine desire to understand their unique perspectives is crucial for the course.
+3. **Create a Welcoming Learning Environment**
+Establish a space where students feel welcomed, respected, and valued. This can be achieved by creating an environment of mutual respect, encouraging collaboration and positive peer
+interactions, implementing a code of conduct, and working to inhibit stereotyping.
+4. **Select Appropriate Teaching Methods**
+Choose teaching methods suited to the diverse group being taught. Design activities that consider the factors identified in 1 (develop self-awareness and empathy), ensuring students feel a
+sense of belonging, see improvement in their competencies, and develop an interest in the course. For example: lectures can be recorded for students who are unable to attend a session or need
+more time to understand a specific topic at their pace. However, to prevent a decline in attendance due to the availability of recorded content, interactive activities should not be recorded.
+This encourages students to attend lectures and emphasises the value of participating in these activities for a more comprehensive learning experience.
+5. **Collaborate with Academic Colleagues**
 Work with other academics in the field to develop and share practices that maximize inclusion. Inclusivity is a community-wide effort.
 
-<div class="alert alert-block alert-success">
-<b>Checklist for creating an inclusive environment:</b>
-
+```{hint} Checklist for creating an inclusive environment
+:class: dropdown
 - [ ] Encourage students to use **office hours** for introductions, building relationships, and making them feel more comfortable seeking help.
 - [ ] Conduct **anonymous surveys** to understand student expectations and areas of interest for course development.
 - [ ] Provide **mentorship** by connecting students with mentors or buddies of similar backgrounds for guidance and encouragement.
@@ -197,37 +267,50 @@ Work with other academics in the field to develop and share practices that maxim
 - [ ] **Foster a growth mindset** by encouraging students not to compare themselves with peers and reassuring them they will learn over time.
 - [ ] **Validate challenges faced by students**, acknowledging that data science can be difficult.
 - [ ] **Celebrate small successes** and accomplishments to boost student confidence.</div>
+`````
 
 ## 5. Summary
 
-In conclusion, the development of an effective lesson or curriculum requires careful planning and consideration of various elements, including the level of study, program requirements, learner requirements and appropriate teaching methods. By clearly defining competencies and learning outcomes, selecting suitable assessment methods, and incorporating diverse teaching techniques, educators can create engaging and equitable learning experiences. Whether through theoretical or practical sessions, using a blend of methods to cater to different learning styles ensures that students can grasp and apply complex concepts effectively. By embracing both conventional and participatory training approaches, educators can foster a dynamic and inclusive learning environment that prepares students for real-world challenges, particularly in data science.
+In conclusion, the development of an effective lesson or curriculum requires careful planning and consideration of various elements, including the level of study, program requirements, learner 
+requirements and appropriate teaching methods. By clearly defining competencies and learning outcomes, selecting suitable assessment methods, and incorporating diverse teaching techniques, 
+educators can create engaging and equitable learning experiences. Whether through theoretical or practical sessions, using a blend of methods to cater to different learning styles ensures that 
+students can grasp and apply complex concepts effectively. By embracing both conventional and participatory training approaches, educators can foster a dynamic and inclusive learning 
+environment that prepares students for real-world challenges, particularly in data science.
 
 ## 6. Resources for Creating Engaging Teaching and Learning Content
 
 ### Creating Accessible Learning & Teaching Materials
 
 * [The National Center on Accessible Educational Materials](https://aem.cast.org/) offers support, resources, and guidance for developing accessible learning and teaching materials.
-* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](colorsafe.co), which provides text and background contrast ratios (a score above 3 is considered acceptable, with higher scores being better).
+* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](colorsafe.co), which provides text and background contrast ratios (a score above 3 is considered
+acceptable, with higher scores being better).
 * To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](funkify.org).
 * For identifying areas on a webpage that require improvement, [siteimprove.com](siteimprove.com) is a useful tool.
 * [ColorBrewer 2.0](https://colorbrewer2.org/) offers optimised, contrast-checked, and colorblind-friendly colour schemes for creating clear and accessible teaching materials.
 
 ### Increasing Student Engagement
-Educational technology (EdTech) tools are designed specifically to enhance the teaching and learning experience, improve outcomes and increase accessibility, collaboration and engagement amongst students and educators. Following is a list of useful resources. However it is worth noting that this field is constantly evolving, with new resources emerging and existing ones updating:
-* [Kahoot](https://kahoot.com/) offers interactive quizzes, games, real-time feedback, easy to create content and also has a library of pre-made quizzes. It gamifies learning through competition and is suitable for in-person and remote learning.
-* [Mentimeter](https://www.mentimeter.com/) has features for creating real-time polls, quizzes, word clouds and Q&A sessions. It helps gather instant feedback from students and creates interactive presentations for increased engagement.
-* [Wooclap](https://www.wooclap.com/) has the option to create live polls, quizzes, brainstorming tools and audience interaction features. It can integrate with presentation software to create interactive lectures.
-* [Padlet](https://padlet.com/) is a collaborative online bulletin board with real-time updates. Participants (students, educators etc) can post notes, links, images and videos facilitating interactive and collaborative projects.
+Educational technology (EdTech) tools are designed specifically to enhance the teaching and learning experience, improve outcomes and increase accessibility, collaboration and engagement 
+amongst students and educators. Following is a list of useful resources. However it is worth noting that this field is constantly evolving, with new resources emerging and existing ones 
+updating:
+* [Kahoot](https://kahoot.com/) offers interactive quizzes, games, real-time feedback, easy to create content and also has a library of pre-made quizzes. It gamifies learning through
+  competition and is suitable for in-person and remote learning.
+* [Mentimeter](https://www.mentimeter.com/) has features for creating real-time polls, quizzes, word clouds and Q&A sessions. It helps gather instant feedback from students and creates
+  interactive presentations for increased engagement.
+* [Wooclap](https://www.wooclap.com/) has the option to create live polls, quizzes, brainstorming tools and audience interaction features. It can integrate with presentation software to create
+  interactive lectures.
+* [Padlet](https://padlet.com/) is a collaborative online bulletin board with real-time updates. Participants (students, educators etc) can post notes, links, images and videos facilitating
+  interactive and collaborative projects.
 * [Miro](https://miro.com/) is a collaborative tool that can be used for brainstorming sessions, virtual workshops and project management.
-* [Plickers](https://get.plickers.com/) is an interactive tool that allows teachers to collect real-time feedback from students using cards. Each student holds up a card to answer a question, and the teacher scans the room with a smartphone or tablet. It's particularly useful in classrooms without sufficient technology for each student.
-* [Nearpod](https://nearpod.com/) is an interactive presentation and assessment tool that enables teachers to create and deliver lessons with embedded quizzes, polls, and videos. It supports real-time student engagement and provides instant feedback, making it ideal for both in-person and virtual classrooms.
-* [Quizizz](https://quizizz.com/) allows educators to conduct student-paced formative assessments in a fun and engaging way. Teachers can create quizzes or use those shared by other educators. The platform offers immediate feedback and can be accessed by students from any device.
-* [GoSoapBox](https://www.gosoapbox.com/) is used in classrooms to keep students engaged through quizzes, polls, and discussions. It allows educators to gauge the comprehension of students continuously and adjust the pace of teaching accordingly.
-* [Formative](https://en-gb.formative.com/) is a web-based assessment tool that lets teachers create assignments and assessments that students can respond to in real-time. Educators can provide immediate feedback and track individual student progress.
-* [Quizalize](https://www.quizalize.com/) is a gaming platform where teachers can turn formative assessment into a fun classroom team game. It features detailed class and student-level analytics, helping educators identify who needs help and on what topics.
+* [Plickers](https://get.plickers.com/) is an interactive tool that allows teachers to collect real-time feedback from students using cards. Each student holds up a card to answer a question,
+  and the teacher scans the room with a smartphone or tablet. It's particularly useful in classrooms without sufficient technology for each student.
+* [Nearpod](https://nearpod.com/) is an interactive presentation and assessment tool that enables teachers to create and deliver lessons with embedded quizzes, polls, and videos. It supports
+  real-time student engagement and provides instant feedback, making it ideal for both in-person and virtual classrooms.
+* [Quizizz](https://quizizz.com/) allows educators to conduct student-paced formative assessments in a fun and engaging way. Teachers can create quizzes or use those shared by other educators.
+  The platform offers immediate feedback and can be accessed by students from any device.
+* [GoSoapBox](https://www.gosoapbox.com/) is used in classrooms to keep students engaged through quizzes, polls, and discussions. It allows educators to gauge the comprehension of students
+  continuously and adjust the pace of teaching accordingly.
+* [Formative](https://en-gb.formative.com/) is a web-based assessment tool that lets teachers create assignments and assessments that students can respond to in real-time. Educators can
+  provide immediate feedback and track individual student progress.
+* [Quizalize](https://www.quizalize.com/) is a gaming platform where teachers can turn formative assessment into a fun classroom team game. It features detailed class and student-level
+  analytics, helping educators identify who needs help and on what topics.
 
-
-
----
-
-### References
