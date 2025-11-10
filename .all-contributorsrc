@@ -5467,6 +5467,15 @@
         "content",
         "design"
       ]
+    },
+    {
+      "login": "HyunKN",
+      "name": "Sugu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/152015418?v=4",
+      "profile": "https://github.com/HyunKN",
+      "contributions": [
+        "infra"
+      ]
     }
   ]
 }
