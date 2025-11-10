@@ -13,7 +13,7 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 ### Create a GitHub issue to collect items
 
 Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-For example, in [this issue](https://github.com/the-turing-way/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020.
+For example, in [this issue](https://github.com/the-turing-way/newsletter/issues/29), several members could suggest news items to include in the next newsletter, in this case for March 2025.
 Such GitHub issues can be published in the current newsletter inviting contributions from readers and community members for the next month.
 
 ### Start a draft
@@ -27,10 +27,6 @@ If working online, please keep the draft mode on for your PR or add "[WIP]" (wor
 
 2. Create the first draft on a shared HackMD when working with others to collaboratively write your draft before you transfer them to a GitHub branch.
 
-Here are two examples of HackMDs:
-- Malvika's first draft: https://hackmd.io/\@malvikasharan/tw-newsletter
-- Anne's first draft (April 2022): https://hackmd.io/\@aleesteele/ttw-newsletter-apr-22.
-
 ### Collect items for the newsletter as bullet points
 
 Based on what we currently publish, collect information from the listed resources for the topics described below (they can be presented in a format agreed with *The Turing Way* staff):
@@ -38,14 +34,18 @@ Based on what we currently publish, collect information from the listed resource
 * **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Cafés, book dashes and workshops.
 
 * **News from the community**:
-  - Check X (formerly Twitter) for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
+  - Check Github issue for updates shared by community members to add to newsletter
+  - Check Linkedin for updates on the [official account](https://www.linkedin.com/company/the-turing-way/), tagged posts, and the [#TuringWay Hashtag](https://www.linkedin.com/feed/hashtag/?keywords=TuringWay)
+  - Check Blue Sky for updates on the [official account]() and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - Check Mastodon for updates on the [official account](https://fosstodon.org/\@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
   - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
-* **Relevant resources and events for the community**: check X, Slack and online posts for any recent publication and events from community members, resources for training or opportunities for skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
+* **Relevant resources and events for the community**: check social media, Slack and online posts for any recent publication and events from community members, resources for training or opportunities for skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
 
+* **Section recurring Community Events and Calls**: this is the place to edit dates and information related to recurring community calls (such as onboarding calls and community calls), as well as regular calls organised by working groups within the community.
+ 
 * **Sections for acknowledgements and celebrations of community members**: this is the place to give shout-outs to our members who have given talks, workshops or helped *The Turing Way* in some way, celebrate personal milestones and highlight any relevant announcements from community members. 
   * To identify talks and presentations, please scan *The Turing Way* accounts for GitHub issues, X, Slack and the [Zenodo Community](https://zenodo.org/communities/the-turing-way) page (for DOI).
 Since 2023, *The Turing Way* core team maintains all information about events and activities on their [centralised event page](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947).
@@ -57,13 +57,12 @@ The newsletter should provide relevant information about or from contributing an
 There should also be opportunities for folks who have never engaged before, or may not have the capacity to actively engage but still want to stay informed.
 This can include Tips & Tricks for new contributors, recent conversations in community spaces, new chapters, ideas where support is needed or resources in the project that can make new members learn ways to engage, identify paths to get started as contributors and find relatable contents like impact stories of existing members, contributor's profiles or other community-related aspects.
 
-
 ### Collect images associated with the news item
 
 Following the recommendations on {ref}`style guide for community<ch-style>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
-For X mentions, there is no fixed number of screenshots, but 4-6 tweets looks less crowded in the newsletter.
+For social media mentions, there is no fixed number of screenshots, but 4-6 posts looks less crowded in the newsletter.
 They can be edited together in one image (explained in the newsletter's style guide).
 
 ### Write about each news item
@@ -104,7 +103,6 @@ After the review process, each reviewer's name can be added under the special me
 ### Publication process
 
 We are currently using [Buttondown](https://buttondown.email/) to publish our newsletters.
-TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing it with subscribers.
 
 Here are the steps for publishing the newsletter draft online and sending it by email to the subscribed members:
 
@@ -124,6 +122,6 @@ Here are the steps for publishing the newsletter draft online and sending it by 
  **It's published, now what?**
 
 - Update the index table in the [README.md file](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
-- Tweet about it from [\@turingway](https://twitter.com/turingway).
-- Send a notification on [Gitter](https://gitter.im/the-turing-way/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
+- Post about the newsletter on social media (Linkedin, Bluesky, and Fosstodon)
+- Send a notification on the relevant [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)
