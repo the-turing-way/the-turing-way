@@ -68,6 +68,7 @@ Chairs or a designated representative of the following **Working Groups** join t
 - **Book Dash Working Group**
 - **Accessibility Working Group**
 - **Translation and Localisation Working Group**
+- **Funding and Sustainability Working Group**
 
 Leads or designated representatives of the **Delivery Groups** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
