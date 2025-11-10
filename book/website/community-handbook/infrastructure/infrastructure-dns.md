@@ -127,6 +127,8 @@ We also have a set of CNAME records to route "helper" subdomains to our webserve
 git CNAME the-turing-way.org.
 news CNAME the-turing-way.org.
 slack CNAME the-turing-way.org.
+calendar CNAME the-turing-way.org.
+ics CNAME the-turing-way.org.
 ```
 
 ### CAA
