@@ -41,7 +41,6 @@ Based on what we currently publish, collect information from the listed resource
 * **News from the community**:
   - Check Github issue for updates shared by community members to add to newsletter
   - Check Linkedin for updates on the [official account](https://www.linkedin.com/company/the-turing-way/), tagged posts, and the [#TuringWay Hashtag](https://www.linkedin.com/feed/hashtag/?keywords=TuringWay)
-  - Check X (formerly Twitter) for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
   - Check Blue Sky for updates on the [official account]() and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - Check Mastodon for updates on the [official account](https://fosstodon.org/\@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
@@ -128,6 +127,6 @@ Here are the steps for publishing the newsletter draft online and sending it by 
  **It's published, now what?**
 
 - Update the index table in the [README.md file](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
-- Post about the newsletter on social media (X/Twitter, Linkedin, Bluesky, and Fosstodon)
+- Post about the newsletter on social media (Linkedin, Bluesky, and Fosstodon)
 - Send a notification on the relevant [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)
