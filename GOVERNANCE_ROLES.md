@@ -82,7 +82,7 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Volunteer Member or Funded in Full-Time Equivalent (or %) | Time period allocated to the project |
 |---|---|---|---|
-| Anne Lee Steele ([aleesteele](https://book.the-turing-way.org/afterword/contributors-record#anne-lee-steele)) | Research Community Manager; The Alan Turing Institute | _The Turing Way_ Community Manager - Maintenance Level | March 2022 - Present | - |
+| Anne Lee Steele ([aleesteele](https://book.the-turing-way.org/afterword/contributors-record#anne-lee-steele)) | Research Community Manager; The Alan Turing Institute | _The Turing Way_ Community Manager - Maintenance Level | March 2022 - June 2025 | - |
 | Andrea Sánchez-Tapia ([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation Working Group Co-Lead and various community roles | 2021 - 2024 |
 | Melissa Black ([melibleq](https://github.com/melibleq)) | Translation and Localisation Working Group member | Volunteer Member  | 2023 - 2024 |
 | Arya A. ([arya1302](https://book.the-turing-way.org/afterword/contributors-record#arya-a)) | Google Summer of Code (GSoC) 2023 intern on Pathway Package | 50% | Apr 2023 - Sep 2023 |
