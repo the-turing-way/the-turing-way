@@ -43,7 +43,6 @@ Members participating in different Working Groups and projects carried out in _T
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-
 | Esther Plomp ([EstherPlomp](https://book.the-turing-way.org/afterword/contributors-record/#esther-plomp)) | University of Aruba | Book Dash Working Group member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
 | Alexandra Araujo Alvarez ([alexandraaaj](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash Working Group member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
 | Carlos Martinez-Ortiz ([c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash Working Group member| Feb 2020 - Present | - |
