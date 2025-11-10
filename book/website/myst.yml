@@ -79,6 +79,8 @@ project:
           children:
             - file: reproducible-research/open/open-data.md
               title: Open Data
+            - file: reproducible-research/open/open-source-resources.md
+              title: Open Source Resources
             - file: reproducible-research/open/open-source.md
               title: Open Source Software
             - file: reproducible-research/open/open-hardware.md
