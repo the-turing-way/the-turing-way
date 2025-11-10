@@ -12,7 +12,7 @@ Using software like [VirtualBox](https://www.virtualbox.org/) or [Vagrant](https
 As you could probably guess, having several VMs running at once can be a drain on memory.
 So just because you can run several VMs does not mean you should.
 
-```{figure} ../../figures/virtual-machine.*
+```{figure} ../../../figures/virtual-machine.*
 ---
 name: virtual-machine
 alt: A screenshot of a Virtual Machine.
@@ -47,7 +47,7 @@ To create a new machine, click "New" in the top left.
 A window will pop up where you can enter a name for the machine and select what operating system (and version) to use.
 In the figure below, a machine called `demo_VM` running Ubuntu is being created:
 
-```{figure} ../../figures/vm-create-machine.*
+```{figure} ../../../figures/vm-create-machine.*
 ---
 name: vm-create-machine
 alt: A screenshot showing a Virtual Machine is created.
@@ -63,7 +63,7 @@ The default options are suitable for most purposes, but this process permits cus
 
 To start a virtual machine, select the machine from the list of VMs on the left, and click the green `Start` arrow at the top:
 
-```{figure} ../../figures/vm-start-machine.*
+```{figure} ../../../figures/vm-start-machine.*
 ---
 name: vm-start-machine
 alt: A screenshot showing how to start a Virtual Machine.
@@ -78,7 +78,7 @@ A researcher can do work on their VM, and then export it.
 To export a VM, click `File` in the top left and then `Export`.
 This will export the VM as a single file which can be shared.
 
-```{figure} ../../figures/vm-export-machine.*
+```{figure} ../../../figures/vm-export-machine.*
 ---
 name: vm-export-machine
 alt: A screenshot showing how to export a Virtual Machine.
@@ -238,7 +238,7 @@ The script is then passed to the provisioner.
 ```{code-block} ruby
   $script = <<-'SCRIPT'
   dnf install -y python3-pip
-  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/website/requirements.txt
+  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/requirements.txt
   SCRIPT
 
   config.vm.provision "shell", inline: $script
@@ -255,8 +255,8 @@ Windows users can also try [Hyper-V](https://learn.microsoft.com/en-us/virtualiz
 If you haven't already, clone The Turing Way repository and change to the projects root directory.
 
 ```{code-block} console
-$ git clone https://github.com/the-turing-way/the-turing-way.git
-$ cd the-turing-way
+git clone https://github.com/the-turing-way/the-turing-way.git
+cd the-turing-way
 ```
 
 Now create the virtual machine.
@@ -264,14 +264,14 @@ The output will show Vagrant creating the machine as well as the provisioner scr
 Windows users can modify this command to `vagrant up --provider hyperv` to use Hyper-V.
 
 ```{code-block} console
-$ vagrant up
+vagrant up
 ```
 
 You can now connect to the machine with SSH.
 Vagrant has a convenient wrapper to make this simple.
 
 ```{code-block} console
-$ vagrant ssh
+vagrant ssh
 ```
 
 The project directory has been mounted at `/vagrant` on the guest.
@@ -289,6 +289,6 @@ You can also destroy the virtual machine to clean up all storage associated with
 
 ```{code-block} console
 [vagrant@theturingway ~]$ exit
-$ vagrant halt
-$ vagrant destroy
+vagrant halt
+vagrant destroy
 ```

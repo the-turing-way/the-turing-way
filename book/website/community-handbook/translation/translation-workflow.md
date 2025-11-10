@@ -87,7 +87,7 @@ As soon as you started translating your project, machine learning algorithms eng
 For example, in Crowdin, you can hover over the source words underlined with the light dashed line to see the previous translations formed by the translation consistency feature. 
 You can also search earlier translations for specific source words using the Search TM tab.
 
-```{figure} ../../figures/translation-consistency-previous-translations-editor.*
+```{figure} ../../../figures/translation-consistency-previous-translations-editor.*
 ---
 name: translation_consistency_previous_translations_editor
 width: 90%
@@ -108,7 +108,7 @@ Unlike the manager, the Proofreader doesn't have access to project settings.
 - **Translator** – can translate strings and vote for translations added by other members.
 
 
-```{figure} ../../figures/translation-memory-animation.*
+```{figure} ../../../figures/translation-memory-animation.*
 ---
 name: translation-memory
 width: 90%
@@ -137,7 +137,7 @@ While updates of the translated content might change according to the availabili
 * Set periodical reviews to improve translations
 * Update translation guidelines and glossaries
 
-If you have any recommendations for improving the translation guidelines or setting up language-specific rules, contact [the translation and localisation team](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
+If you have any recommendations for improving the translation guidelines or setting up language-specific rules, contact {ref}`the translation and localisation team<fw-governance-roles>`.
 We are very eager to improve the workflow and make _The Turing Way_ a global project accessible to the wider community.
 
 

@@ -19,7 +19,7 @@ You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-
 
 In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to get involved.
 
-```{figure} figures/theturingway-pathway.*
+```{figure} ../figures/theturingway-pathway.*
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
@@ -62,7 +62,7 @@ Accordingly, everyone who participates in _The Turing Way_ project is expected t
 
 Learn more about our community members and community-level approaches in the {ref}`aw` of this book. 
 
-```{figure} _static/videos/contributors.mp4
+```{figure} ../_static/videos/contributors.mp4
 ---
 name: contributors-table-video
 alt: Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.
@@ -76,4 +76,3 @@ All contributions must abide by our [code of conduct](https://github.com/the-tur
 More information about the community, participation process and project management is available in the {ref}`ch`.
 
 We look forward to expanding and building _The Turing Way_ together.
-

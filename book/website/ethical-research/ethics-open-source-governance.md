@@ -16,7 +16,7 @@ This chapter discusses some of the key points to take into consideration when de
 
 *Ethical behaviour in governance is defined as the way in which stakeholders try to manage collective action from the perspective, and in the interest, of the majority, thus avoiding damaging behaviours, and through a better control of the power and responsibilities of the leaders. In the area of governance, therefore, ethics aims at raising awareness of the others' rights and common needs, by imposing some principles of minimum requirement.*
 
-Source: Dessain, V., Meier, O., & Salas, V. (2011). {cite:t}`Corporate Governance and Ethics<Dessain2011governance>`.
+Source: Dessain, V., Meier, O., & Salas, V. (2011). @Dessain2011governance.
 ```
 
 (er-ethics-open-source-governance-motivation)=
@@ -48,7 +48,7 @@ For many projects that are community led, this means involving the people that a
 True co-creation is an active process of inclusion, and there are many levels of engagement that can be tailored to a projects’ individual needs (see the figure - Arnstein's Ladder of Citizen Participation), which a governance model might also need to take into account, for example, how is delegated power dealt with by the project?  
 
 
-```{figure} ../figures/ladder-of-participation.*
+```{figure} ../../figures/ladder-of-participation.*
 ---
 name: ladder-of-participation
 alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research - manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
@@ -78,7 +78,7 @@ In short: `if (ethical == true) { // Do stuff } else { // FIXME }`
 (er-ethics-open-source-governance-action)=
 ## Ethics Need Governance to become Actionable
 Open source project communities may already have an implicit set of ethics regarding their project in place. 
-However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay {cite:t}`The Tyranny of Structurelessness<Freeman2012Stuctureless>`, impotent.
+However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay @Freeman2012Stuctureless, impotent.
 
 To empower your project to act on your ethics, it will need some governance model to adhere to. 
 There already exist a number of more-or-less established governance models and you can take a look at the resources section of this chapter for links to more information on them. 
@@ -118,3 +118,7 @@ In this chapter, we have provided some ethical pointers for open source project 
 * [Invest in Open Infrastructure - Resources on Good Community Governance Research + Literature Collection](https://investinopen.org/research/good-community-governance/)
 * [Community Rules - Simple Templates for Great Communities](https://communityrule.info/book/)
 * [RedHat Blog - Understanding Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models)
+* [Governing The Commons: The Evolution Of Institutions of Collective Action by Elinor Ostrom](https://archive.org/details/governingthecommons)
+    * [Elinor Ostrom's 8 Principles for Managing A Commmons](https://web.archive.org/web/20240411163813/https://onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons/index.html)
+* [Governable Spaces: Democratic Design for Online Life by Nathan Schneider](https://doi.org/10.1525/luminos.181)
+* [The Tyranny of Structurelessness by Jo Freeman](https://web.archive.org/web/20240406094310/https://www.jofreeman.com/joreen/tyranny.htm)

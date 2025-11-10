@@ -61,7 +61,7 @@ For further information on the implementation of a Responsible AI License, check
 
 ### Choosing an OpenRAIL
 
-```{figure} ../../figures/rail-diagram.*
+```{figure} ../../../figures/rail-diagram.*
 ---
 name: rail-diagram
 alt: An illustration depicting a flow chart diagram for a decision making process on which OpenRAIL is the best choice for an ML project.

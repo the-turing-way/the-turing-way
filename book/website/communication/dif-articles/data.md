@@ -28,7 +28,7 @@ There are lots of reasons why you would want to write a data paper.
 
 ### Research community benefits:
 1. More efficient research
-2. Re-use in teaching
+2. Reuse in teaching
 3. Easier to find useful data
 4. Data archived and preserved for future use
 5. New research made possible
@@ -109,4 +109,4 @@ You can find general guidance on how to peer review a paper in our peer review c
 
 When reviewing a data paper specifically it may be useful to focus on (adapted from [F1000Research's guidance](https://f1000research.com/for-referees/guidelines)):
 * Is the rationale for creating the dataset clearly described?
-* Is the dataset clearly presented in a useable and accessible format?
+* Is the dataset clearly presented in a usable and accessible format?

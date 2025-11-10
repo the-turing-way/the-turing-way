@@ -3,7 +3,7 @@
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
 
-*The Turing Way* project leaders, Dr. Kirstie Whitaker and Dr. Malvika Sharan, are dedicated to a ***welcoming and harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
+*The Turing Way* community is dedicated to a ***welcoming and harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
 
@@ -25,12 +25,11 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 
 ### Contact for Reporting
 
-The co-lead-investigators of _The Turing Way_ - Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - are responsible for enforcing the Code of Conduct.
+_The Turing Way_ project delivery team, listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), are responsible for enforcing the Code of Conduct.
 
-If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:a.krystalli@sheffield.ac.uk), who is our ombudsperson.
+Please email [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
-Together they form the current Code of Conduct committee.
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) for support in making a report to the project leads on your behalf, with or without your name associated with it.
+You can reach out to specific members of the team for support in making a report to the project leads on your behalf, with or without your name associated with it.
 
 Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
 
@@ -82,24 +81,23 @@ Examples of unacceptable behaviour by Turing Way community members at any projec
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Turing Way community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
+If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the enforcement manual for details).
 
 ## 2.4 Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
-Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* Core Staff Team at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or by making a pull request to this document on GitHub.
+Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* Project Delivery Team at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or by making a pull request to this document on GitHub.
 
 # 3 Incident Reporting Guidelines
 
 ## 3.1 Contact points
 
-If you feel able to, please contact Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
+If you feel able to, please contact _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) who is responsible for enforcing the Code of Conduct.
+You can directly contact the senior members of the team listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
 
 ## 3.2 Alternate contact points
 
-If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:annakrystalli@googlemail.com), who is our ombudsperson.
-
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
+You can reach out to our Research Community Manager and Research Project Manager listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), for support in making a report to the project leads on your behalf or anonymously.
 
 ## 3.3 What to do if someone is in physical danger
 
@@ -145,8 +143,6 @@ In the event that a resolution can't be determined in that time, a member of the
 ## 4.4 Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach a consensus and deadlocks for over a week, Kirstie Whitaker will break the tie.
-If any of the committee members are unable to take part in the discussion due to a conflict of interest, Anna Krystalli, as an external member of the CoC committee, will make the decision.
 
 Possible responses may include:
 
@@ -157,7 +153,7 @@ Possible responses may include:
 * A private in-person conversation between a member of the committee and the individual(s) involved.
   In this case, the person who has the conversation will provide a written summary for record keeping.
 * A private written reprimand from a member of the committee to the individual(s) involved.
-  In this case, the committee member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
+  In this case, the committee member will deliver that reprimand to the individual(s) over email for record keeping.
 * A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; and GitHub for a GitHub violation).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
@@ -191,4 +187,4 @@ Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvz
 
 We really appreciate the work that all of the communities linked above have put into creating such a well considered process.
 
-This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA) license which means you are free to share and adapt the work so long as the attribution to Kirstie Whitaker and the Turing Way community is retained, along with the attribution to the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.
+This Code of Conduct is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0 CA) license which means you are free to share and adapt the work so long as the attribution to _The Turing Way_ community is retained, along with the attribution to the Carpentries, the Alan Turing Institute Data Study Group organising team, Citizen Lab and the other resources.

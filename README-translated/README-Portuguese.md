@@ -43,9 +43,9 @@ Este projeto é desenvolvido abertamente e todas e quaisquer perguntas, comentá
 ### A equipe
 
 Estes são alguns membros do projeto realizando planejamentos no Instituto Turing (*Turing Institute*).
-Para mais informações sobre como nos contatar, consulte o [documento com as formas de trabalho](ways_of_working.md).
+Para mais informações sobre como nos contatar, consulte o [Governance Roles document](../GOVERNANCE_ROLES.md).
 
-<!---![Foto da equipe](book/website/figures/TuringWayTeam.jpg)--->
+<!---![Foto da equipe](book/figures/TuringWayTeam.jpg)--->
 
 ### Como contribuir
 

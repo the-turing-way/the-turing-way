@@ -18,5 +18,3 @@ updates:
       # Ignore minor upgrades to reduce noise.
       - update-types: ["version-update:semver-minor"]
         dependency-name: "*" # Match all packages
-    reviewers:
-      - "the-turing-way/infrastructure-working-group"
