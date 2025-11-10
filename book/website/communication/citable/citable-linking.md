@@ -68,7 +68,7 @@ For more information see {ref}`Citing Data<cm-citable-cite-data>`.
 The strategies above describe when and how to publish research outputs, but there's another crucial aspect: **connection metadata**.
 This is structured, machine-readable information that formally links your research outputs together through their persistent identifiers.
 
-When you "add the DOI of the publication to the dataset" (as mentioned in line 33 above), you're creating connection metadata.
+When you "add the DOI of the publication to the dataset" (as mentioned above), you're creating connection metadata.
 But where exactly does this information go, and how do you create these links?
 This section provides practical guidance on using connection metadata to build a connected scholarly record.
 
@@ -77,7 +77,7 @@ For background on persistent identifiers and the infrastructure that makes these
 (cm-citable-linking-related)=
 ## Linking Research Outputs
 
-When you have multiple related research outputs (a dataset, the code that analyzes it, the paper that describes it), you can formally link them through **relatedIdentifier** fields in the PID metadata.
+When you have multiple related research outputs (a dataset, the code that analyzes it, the paper that describes it), you can formally link them in the PID metadata, for example, in DataCite metadata schema, this information is captured in the **relatedIdentifier** field.
 
 ### Why Link Through Metadata?
 
@@ -92,8 +92,8 @@ While that's helpful, formal metadata links provide additional benefits:
 
 ### Types of Relationships
 
-Connection metadata uses standardized **relationship types** to describe how resources relate to each other.
-Common examples include:
+PID metadata schema uses standardized **relationship types** to describe how resources relate to each other.
+Examples from the DataCite schema include:
 
 **Supplement relationships:**
 - **IsSupplementTo** / **IsSupplementedBy**: When one output supplements another
@@ -372,17 +372,6 @@ Complete funding metadata includes:
 - **Award Title**: The title of the funded project (optional but helpful)
 - **Award URI**: A persistent identifier for the grant itself, if available
 
-### Crossref Funder Registry
-
-The [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/) provides persistent identifiers for funding organizations worldwide.
-It includes:
-- Over 30,000 funding organizations
-- Standardized names and variants
-- Hierarchical relationships (for example, agency within a ministry)
-- DOI-based persistent identifiers
-
-You can search the registry at [https://search.crossref.org/funding](https://search.crossref.org/funding) to find your funder's identifier.
-
 ### How to Add Funding Information
 
 **During deposit:**
@@ -434,12 +423,12 @@ You can search the registry at [https://search.crossref.org/funding](https://sea
 A dataset might include:
 ```
 Funder: UK Research and Innovation
-Funder Identifier: https://doi.org/10.13039/100014013
+Funder Identifier: https://ror.org/001aqnf71
 Award Number: MR/V012345/1
 Award Title: Understanding Climate Change Impacts on Grassland Ecosystems
 
 Funder: Natural Environment Research Council
-Funder Identifier: https://doi.org/10.13039/501100000270
+Funder Identifier: https://ror.org/02b5d8509
 Award Number: NE/X067891/1
 ```
 
