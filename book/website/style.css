@@ -2,3 +2,12 @@
 h1, h2, h3, h4, h5, h6 {
     text-transform: capitalize;
 }
+
+/* Capitalise headings in sidebar navigation elements */
+.primary-scrollbar {
+    text-transform: capitalize;
+}
+
+.CollapsibleContent {
+    text-transform: capitalize;
+}
