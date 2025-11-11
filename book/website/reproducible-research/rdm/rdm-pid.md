@@ -45,7 +45,7 @@ These systems work together to create a **connected scholarly graph** where rese
 
 ### PIDs for Research Outputs
 
-**DataCite and Crossref** are the two main providers of Digital Object Identifiers (DOIs) for research:
+[DataCite](https://datacite.org/) and [Crossref](https://www.crossref.org/) are the two main providers of Digital Object Identifiers (DOIs) for research:
 
 - **DataCite** specializes in assigning DOIs to diverse research outputs including:
   - Datasets
@@ -71,7 +71,7 @@ You don't usually need to choose between DataCite and Crossref yourself - the re
 
 ### PIDs for People
 
-**ORCID** (Open Researcher and Contributor ID) provides unique identifiers for researchers.
+[ORCID (Open Researcher and Contributor ID)](https://orcid.org/) provides unique identifiers for researchers.
 An ORCID iD is a 16-digit number that distinguishes you from every other researcher, even those with identical names.
 
 For comprehensive guidance on ORCID, see our [dedicated chapter on ORCID](communication-citable-orcid).
@@ -84,7 +84,7 @@ Key benefits:
 
 ### PIDs for Organizations
 
-**ROR** (Research Organization Registry) provides identifiers for research institutions.
+[ROR (Research Organization Registry)](https://ror.org/) provides identifiers for research institutions.
 Every university, research institute, and funding organization can have a unique ROR ID.
 
 Examples:
@@ -99,7 +99,7 @@ ROR IDs appear in research output metadata to indicate:
 
 ### PIDs for Funders
 
-The **Crossref Funder Registry** provides identifiers for funding organizations.
+The Crossref Funder Registry and ROR provides identifiers for funding organizations.
 These enable researchers to formally cite the grants that supported their work, not just acknowledge them in text.
 
 This creates a traceable connection between:

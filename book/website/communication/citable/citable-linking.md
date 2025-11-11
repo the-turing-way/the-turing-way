@@ -44,6 +44,7 @@ An embargo means that you have already uploaded the data to the repository, but 
     * Add the DOI of the publication to the dataset;
     * Change the access permission rights if the embargo has not yet expired (see for example [Zenodo](https://zenodo.org/)).
 
+(cm-citable-linking-reserve-doi)=
 ### Reserve a DOI and publish later
 
 Several data repositories, such as [Zenodo](https://zenodo.org/) and [Figshare](https://figshare.com/), allow you to reserve a DOI.
@@ -68,7 +69,7 @@ For more information see {ref}`Citing Data<cm-citable-cite-data>`.
 The strategies above describe when and how to publish research outputs, but there's another crucial aspect: **connection metadata**.
 This is structured, machine-readable information that formally links your research outputs together through their persistent identifiers.
 
-When you "add the DOI of the publication to the dataset" (as mentioned above), you're creating connection metadata.
+When you "add the DOI of the publication to the dataset" (see {ref}`Reserve DOI<cm-citable-linking-reserve-doi>`), you're creating connection metadata.
 But where exactly does this information go, and how do you create these links?
 This section provides practical guidance on using connection metadata to build a connected scholarly record.
 
@@ -95,39 +96,16 @@ While that's helpful, formal metadata links provide additional benefits:
 PID metadata schema uses standardized **relationship types** to describe how resources relate to each other.
 Examples from the DataCite schema include:
 
-**Supplement relationships:**
-- **IsSupplementTo** / **IsSupplementedBy**: When one output supplements another
-  - Example: A dataset *IsSupplementTo* the paper that describes it
-  - Example: A paper *IsSupplementedBy* the dataset it's based on
-
-**Derivation relationships:**
-- **IsDerivedFrom** / **IsSourceOf**: When one output is derived from another
-  - Example: A cleaned dataset *IsDerivedFrom* the raw data
-  - Example: Raw data *IsSourceOf* the processed data
-
-**Citation relationships:**
-- **Cites** / **IsCitedBy**: Formal citation relationships
-  - Example: A paper *Cites* a methodology it uses
-  - Example: A dataset *IsCitedBy* papers that reuse it
-
-**Part relationships:**
-- **IsPartOf** / **HasPart**: When outputs are components of a larger whole
-  - Example: Individual datasets *IsPartOf* a data collection
-  - Example: A data collection *HasPart* multiple individual datasets
-
-**Reference relationships:**
-- **References** / **IsReferencedBy**: General references
-  - Example: Documentation *References* a protocol
-  - Example: A protocol *IsReferencedBy* studies that follow it
-
-**Version relationships:**
-- **IsVersionOf** / **HasVersion**: Connections between versions (see next section)
-- **IsNewVersionOf** / **IsPreviousVersionOf**: Specific version succession
-
-**Compilation relationships:**
-- **Compiles** / **IsCompiledBy**: When code or workflows produce outputs
-  - Example: An analysis script *Compiles* a figure
-  - Example: A result file *IsCompiledBy* the code that generated it
+| Relationship Types | Use Case | Example |
+|-------------------|----------|---------|
+| IsSupplementTo / IsSupplementedBy | When one output supplements another | A dataset *IsSupplementTo* the paper that describes it |
+| IsDerivedFrom / IsSourceOf | When one output is derived from another | A cleaned dataset *IsDerivedFrom* the raw data |
+| Cites / IsCitedBy | Formal citation relationships | A paper *Cites* a methodology it uses |
+| IsPartOf / HasPart | When outputs are components of a larger whole | Individual datasets *IsPartOf* a data collection |
+| References / IsReferencedBy | General references | Documentation *References* a protocol |
+| IsVersionOf / HasVersion | Connections between versions | (see next section) |
+| IsNewVersionOf / IsPreviousVersionOf | Specific version succession | Version 2 *IsNewVersionOf* version 1 |
+| Compiles / IsCompiledBy | When code or workflows produce outputs | An analysis script *Compiles* a figure |
 
 For a complete list, see [DataCite's relatedIdentifier documentation](https://support.datacite.org/docs/datacite-metadata-schema-v44-recommended-and-optional-properties#102-relatedidentifier).
 
@@ -152,31 +130,38 @@ The specific process depends on which repository you're using, but the general a
 4. The repository will update the metadata
 
 ### Repository-Specific Examples
-
-**Zenodo:**
+::::{tab-set}
+:::{tab-item} **Zenodo:**
+:sync: tab1
 - When creating or editing a record, scroll to "Related identifiers/works"
 - Click "Add related identifier"
 - Enter the identifier (DOI, arXiv ID, and so on)
 - Choose relationship type from dropdown
 - Choose resource type of the related item
 - The interface shows both sides (for example, "this dataset *is supplement to* that publication")
-
-**Figshare:**
+:::
+:::{tab-item} **Figshare:**
+:sync: tab2
 - In the item editor, find the "Links" or "Related items" section
 - Add the DOI of related resources
 - Select relationship type
 - Figshare may have limited relationship type options compared to full DataCite schema
-
-**OSF:**
+:::
+:::{tab-item} **OSF:**
+:sync: tab3
 - In a project or component, use the "Links" widget
 - Add external links including DOIs
 - Describe the relationship in the link description
 - OSF's native connections between project components are automatic
-
-**Dryad:**
+:::
+:::{tab-item} **Dryad:**
+:sync: tab4
 - During submission, there's a "Related Works" section
 - Add manuscript DOIs automatically if submitting through journal integration
 - Add additional related resources manually with relationship types
+:::
+::::
+
 
 **For institutional repositories:**
 - Check your repository's documentation or contact repository staff
@@ -227,13 +212,15 @@ Persistent identifiers provide structured ways to handle versioning while mainta
 
 Some repositories (notably Zenodo) implement a two-level DOI system:
 
-**Version DOI:**
+Version DOI
+:
 - Points to one specific version of a resource
 - Never changes - always points to exactly that version
 - Use this when you want to cite a specific version (for reproducibility)
 - Example: `10.5281/zenodo.3332807` (version 1.0)
 
-**Concept DOI:**
+Concept DOI
+:
 - Points to the resource as a whole, across all versions
 - Always resolves to the latest version
 - Use this when you want to cite the work in general
@@ -244,25 +231,16 @@ When you publish a new version, it gets a new version DOI, but the concept DOI r
 
 ### When to Create a New Version vs. New Resource
 
-**Create a new version when:**
-- Fixing errors or bugs
-- Adding new data points to an existing dataset
-- Improving documentation or metadata
-- Making minor methodological adjustments
-- The fundamental resource is the same, just improved
+You should create a new version when the fundamental resource remains the same but has been improved or corrected. This includes situations like fixing errors or bugs, adding new data points to an existing dataset, improving documentation or metadata, or making minor methodological adjustments. The key characteristic of a new version is that it represents an evolution or refinement of the original resource rather than a fundamentally different output.
 
-**Create a new resource when:**
-- Collecting fundamentally different data
-- Completely redesigning a protocol
-- Major methodological changes
-- The new output could stand alone independently
+In contrast, you should create an entirely new resource when the changes are substantial enough that the output could stand alone independently. This applies when you're collecting fundamentally different data, completely redesigning a protocol, or making major methodological changes that alter the nature of the work. These situations call for a new DOI rather than a new version because the new output represents distinct scholarly work.
 
-When in doubt, ask: "Would citing the old version still be valid and useful?"
-If yes, create a new version. If no, create a new resource.
+When in doubt, ask yourself: "Would citing the old version still be valid and useful?" If yes, create a new version. If no, create a new resource.
 
 ### How to Publish New Versions
-
-**Zenodo:**
+::::{tab-set}
+:::{tab-item} **Zenodo:**
+:sync: tab1
 1. Go to your published record
 2. Click "New version"
 3. Zenodo creates a copy with a new reserved DOI
@@ -270,23 +248,29 @@ If yes, create a new version. If no, create a new resource.
 5. Publish the new version
 6. The concept DOI automatically updates to point to the latest version
 7. Both version DOIs remain active and independently citable
-
-**Figshare:**
+:::
+:::{tab-item} **Figshare:**
+:sync: tab2
 1. Edit your existing item
 2. Upload new files
 3. Figshare versioning happens automatically
 4. Each version is preserved and accessible through the item history
-
-**OSF:**
+:::
+:::{tab-item} **OSF:**
+:sync: tab3
 1. Update files in your project or component
 2. OSF maintains version history automatically
 3. The DOI always points to the current state
 4. Previous versions are accessible through the interface
-
-**Other repositories:**
+:::
+:::{tab-item} **Other repositories:**
+:sync: tab4
 - Check specific repository documentation
 - Some may require creating a new record and linking with IsNewVersionOf relationship
 - Contact repository support for guidance
+:::
+::::
+
 
 ### Version Metadata Links
 
@@ -341,14 +325,14 @@ You might already acknowledge funding in your papers, but structured funding met
 
 There's an important distinction:
 
-**Acknowledgment (text-based):**
+#### Acknowledgment (text-based):
 - Written in the acknowledgments section of a paper
 - Example: "This work was supported by grant ABC-123 from the Example Foundation"
 - Not machine-readable
 - Not standardized
 - Often inconsistent across outputs from the same grant
 
-**Citation (structured metadata):**
+#### Citation (structured metadata):
 - Included in the PID metadata using fundingReference fields
 - Machine-readable and standardized
 - Searchable and aggregatable
