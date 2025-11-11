@@ -25,7 +25,30 @@ But this space is not necessarily limited to academic content; it can also be a 
 As a result, this website can be customised to express the individual's unique identity and values.
 This online presence can help researchers expand their visibility, engage with a wider audience, connect with potential collaborators, and even create new career opportunities.
 
-## Basic elements of Web Development: Processes and Tools
+(cm-personal-website-basics)=
+# Basic elements of Web Development: Processes and Tools
+
+Web development is the entire process of creating and maintaining websites and web applications.
+
+It involves iterative ideation and implementation. The core phases associated with web development are analysis, design, development, testing & review, deployment, and maintenance.
+
+(cm-personal-website-analysis)=
+## Analysis 
+
+(cm-personal-website-design)=
+## Design
+
+(cm-personal-website-development)=
+## Development
+
+(cm-personal-website-test-review)=
+## Testing and review
+
+(cm-personal-website-deployment)=
+## Deployment
+
+(cm-personal-website-maintenance)=
+## Maintenance
 
 (cm-personal-website-frameworks)=
 # Frameworks
@@ -86,3 +109,19 @@ website using low-code or high-code options.
 #### Dynamic website generator
 
 * [Django](https://www.djangoproject.com/)
+
+## Highly Customizable Websites
+
+For highly customizable websites (usually, high-code websites), there are two major aspects to web development: frontend and backend. These form the backbone of web development, and each plays a crucial role in creating seamless, functional web experiences.
+
+## Frontend development:
+
+### Processes:
+
+### Tools:
+
+## Backend development:
+
+### Processes:
+
+### Tools:
