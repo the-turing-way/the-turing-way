@@ -25,6 +25,8 @@ But this space is not necessarily limited to academic content; it can also be a 
 As a result, this website can be customised to express the individual's unique identity and values.
 This online presence can help researchers expand their visibility, engage with a wider audience, connect with potential collaborators, and even create new career opportunities.
 
+## Basic elements of Web Development: Processes and Tools
+
 (cm-personal-website-frameworks)=
 # Frameworks
 
