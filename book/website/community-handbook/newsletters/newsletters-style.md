@@ -7,9 +7,9 @@ In this document, we have listed some guidelines to maintain consistency across 
 
 - **File format**: Draft the newsletter in [Markdown](https://en.wikipedia.org/wiki/Markdown)
 - **Filename**: Create a filename with the "newsletter_serial_MMYYYY.md " format, where "serial" should be replaced by the (numerical) serial number of the newsletter, the month should be replaced by the short name of the month and YYYY with the year as a number.
-- **File location on _The Turing Way_ GitHub**: The newsletters are currently stored in the path `the-turing-way/communications/newsletters/`.
+- **File location on _The Turing Way_ GitHub Organisation**: The newsletters are currently stored in the `newsletter` repository `https://github.com/the-turing-way/newsletter`.
     - This location also consists of a "README.md" file that has a table for all the published newsletters that are updated after each release.
-    - This location has a folder called "images" that centrally holds all the images and links to the corresponding newsletters.
+    - This location has a folder called "images" that centrally holds images and links to the corresponding newsletters.
 - **Dates**: "DD Month YYYY" format
     - use it consistently in the entire document
     - To reflect a range, use "from DD to DD Month YYYY" format.
@@ -48,4 +48,4 @@ In this document, we have listed some guidelines to maintain consistency across 
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link the title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image.
-    See an example [here](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
+    See an example [here](https://github.com/the-turing-way/newsletter/blob/main/newsletter_54_May2024.md).

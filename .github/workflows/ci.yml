@@ -1,11 +1,10 @@
 name: CI
 
-# run on pull requests to main, but ignore pull requests from the all-contributors bot
+# run on pull requests to main
 on:
   pull_request:
     branches:
       - main
-      - "!all-contributors/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!
@@ -16,6 +15,8 @@ defaults:
 jobs:
   build-jb:
     name: Build
+    # ignore pull requests from the all-contributors bot
+    if: ${{ !contains(github.head_ref, 'all-contributors') }}
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
@@ -37,30 +38,39 @@ jobs:
         run: make deps
         working-directory: ./book
 
-      - name: Build Jupyter-Book with warnings raised to errors
-        run: make ci
+      - name: Build the book
         working-directory: ./book
+        run: make ci
+
+      - name: Upload html output as artifact
+        if: contains(matrix.os, 'ubuntu')
+        uses: actions/upload-artifact@v5
+        with:
+          name: book-html-${{ github.run_id }}
+          path: ./book/website/_build/html/
 
   offline-link-check:
     name: Link Check
     needs: build-jb
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout-repository
+      # We only need the lychee config file from the repository
+      - name: Checkout lychee config file from repository
         uses: actions/checkout@v5
-
-      - name: Setup Python
-        uses: actions/setup-python@v6
         with:
-          python-version: "3.13"
+          sparse-checkout: |
+            lychee.toml
+          sparse-checkout-cone-mode: false
 
-      - name: Install dependencies
-        run: make deps
-        working-directory: ./book
+      - name: Ensure destination folder exists
+        run: |
+          mkdir -p ./book/website/_build/html
 
-      - name: Build Jupyter-Book
-        run: make book
-        working-directory: ./book
+      - name: Download book html files from artifact
+        uses: actions/download-artifact@v6
+        with:
+          name: book-html-${{ github.run_id }}
+          path: ./book/website/_build/html/
 
       - name: Check offline links
         uses: lycheeverse/lychee-action@v2
