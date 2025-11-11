@@ -44,7 +44,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
   - For structured discussion and sustained engagement with the community members.
   - We will also provide notifications on upcoming events and share useful resources on Slack.
-- Contact the Research Community Manager and other members of _The Turing Way_ project delivery team by emailing [tuirngway@turing.ac.uk](mailto:turingway@turing.ac.uk).
+- Contact the Research Community Manager and other members of _The Turing Way_ project delivery team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 ### Receiving Updates
 
@@ -54,7 +54,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 ### Coworking and Real-Time Collaboration
 
 - [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engages anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*.
-- [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
+- [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year, for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
 ## Contributing through GitHub
 
