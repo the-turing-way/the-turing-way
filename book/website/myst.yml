@@ -1093,4 +1093,5 @@ site:
     favicon: ../figures/logo/favicon-32x32.png
     analytics_google: UA-167881009-1
     folders: true
+    style: ./style.css
   template: book-theme
