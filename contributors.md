@@ -590,6 +590,27 @@ I also hope that it can convince people who don't consider themselves capable of
 > - [Presenting at FOSS Backstage in Berlin](https://github.com/the-turing-way/the-turing-way/issues/2993#issuecomment-1629424116) with [Anne Lee Steele](https://github.com/aleesteele), on the subject of "maintenance" and ideas around transitioning from a small scrappy project to a long-term-sustainable project.
 > - In 2023 I'm focusing on the more organisation-level infrastructure ([what tools do we use and why](https://github.com/the-turing-way/the-turing-way/issues/3218)?), and as part of that, I was proud to set up [the Turing Way's mastodon account](https://fosstodon.org/@turingway/108278354199514905).
 
+### Denise Bianco
+
+* Role: Book Dash Planning Committee 2024, Book Dash particpant 2025
+* GitHub: {githubuser}`denisebianco`
+* ORCID: 0000-0002-8896-6189
+
+* Short bio:
+> I'm a Senior Research Community Manager at The Alan Turing Institute, currently working on a project called Advancing Biomedical Data Science
+Careers (ABDC). At the Institute, I'm also a co-organiser for the AI & Arts interest group, a cross-disciplinary community exploring the mutual
+influence of technological research and the arts. Alongside my roles at Turing, I'm a Ph.D. candidate and Associate Lecturer at Central Saint
+Martins, University of the Arts London. My research examines the evolving relationship between the arts and sciences as a model for
+transdisciplinary collaboration. Within the MA Innovation Management programme, I mentor students by offering creative perspectives and practical
+experience in applied innovation, guiding their research with insights in qualitative methods and cross-disciplinary collaboration processes.
+
+* Personal highlights:
+> I always enjoy taking part in the Book Dash and working collaboratively with others who share similar interests to mine — or even completely
+different ones,  which allows me to learn so much! After three Book Dashes, I’ve built relationships with a really great community of people and
+have also improved my GitHub skills, especially for collaborative work. I contributed one chapter on embedding data science across disciplines,
+which has been published, and two more are in the making, so I’m looking forward to using the Collaboration Café and future Book Dashes to finish
+them!
+
 <!---E--->
 ## E
 
@@ -729,6 +750,22 @@ Quotes:
 * Quotes:
 > Thanks to the organisers for putting together such a relaxed and welcoming event!
 
+### Gule Saman
+
+* Role: Book Dash particpant (2024) 
+* GitHub: {githubuser}`gulesaman`
+* ORCID: 0000-0001-6347-9336
+
+* Short bio: 
+> Dr Gule Saman is an Associate Professor in the School of Engineering and Physical Sciences at Heriot-Watt University, Edinburgh. She contributes
+to the design and delivery of the Data Science Graduate Apprenticeship programme, focusing on supporting diverse student cohorts through innovative
+personal tutoring and varied assessment practices. Her research interests include work-based learning, inclusivity in STEM, and active learning for
+student engagement.  
+
+* Quote:
+> Jim Rohn reminds us that we are the average of the five people we spend the most time with. The people around us shape how we think, learn, and
+grow. Change doesn’t happen when ideas are perfect but when they’re shared and refined together. In both data and learning, context gives meaning —
+and inclusive teaching ensures that every learner’s context and value have space to shine
 
 <!---H--->
 ## H
