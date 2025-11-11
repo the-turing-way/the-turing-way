@@ -57,7 +57,7 @@ In this case, a text file with discipline specific metadata can be added as part
 (rr-rdm-metadata-pid)=
 ### PID Metadata
 
-When you deposit research outputs in repositories, they generate standardized PID metadata that makes your work discoverable across disciplines and platforms. This PID metadata is distinct from domain-specific metadata standards.
+PID metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms. 
 
 PID metadata includes core properties like:
 - Creator names and affiliations
@@ -65,9 +65,7 @@ PID metadata includes core properties like:
 - Publication date and resource type
 - Relationships to other research outputs (such as citations or dataset-paper links)
 
-Repositories handle PID metadata automatically when they assign DOIs or other persistent identifiers to your work. This metadata gets registered with services like DataCite or Crossref, making your research findable through global discovery systems.
-
-Unlike domain-specific metadata (such as the Brain Imaging Data Structure for neuroimaging data), PID metadata follows standardized schemas that work across all disciplines. Both types of metadata are valuable - PID metadata enables broad discoverability while domain-specific metadata captures the detailed context needed for reuse within your field.
+Unlike domain-specific metadata (such as the Brain Imaging Data Structure for neuroimaging data), PID metadata follows standardized schemas that are discipline agnostic. Both types of metadata are valuable - PID metadata enables broad discoverability while domain-specific metadata captures the detailed context needed for reuse within your field.
 
 Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](rr-rdm-pid-metadata).
 
