@@ -7,7 +7,7 @@
 *Total Contributors:*
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-553-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-554-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Information | Links |
@@ -876,10 +876,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/tugceoruc"><img src="https://avatars0.githubusercontent.com/u/20405276?v=4?s=100" width="100px;" alt="tugceoruc"/><br /><sub><b>tugceoruc</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/vasilisstav"><img src="https://avatars0.githubusercontent.com/u/55793023?v=4?s=100" width="100px;" alt="vasilisstav"/><br /><sub><b>vasilisstav</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/vcpope"><img src="https://avatars.githubusercontent.com/u/62377353?v=4?s=100" width="100px;" alt="vcpope"/><br /><sub><b>vcpope</b></sub></a><br /><a href="https://github.com/the-turing-way/conferences" title="Talks">📢</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/veerasai06"><img src="https://avatars.githubusercontent.com/u/229084338?v=4?s=100" width="100px;" alt="veerasai06"/><br /><sub><b>veerasai06</b></sub></a><br /><a href="https://book.the-turing-way.org" title="Content">🖋</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="vhellon"/><br /><sub><b>vhellon</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Avhellon" title="Reviewed Pull Requests">👀</a> <a href="https://book.the-turing-way.org" title="Content">🖋</a> <a href="https://github.com/orgs/the-turing-way/discussions" title="Answering Questions">💬</a> <a href="https://book.the-turing-way.org" title="Examples">💡</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Avhellon" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="16.66%"><a href="https://github.com/vrajesh-daga"><img src="https://avatars.githubusercontent.com/u/201659831?v=4?s=100" width="100px;" alt="vrajesh-daga"/><br /><sub><b>vrajesh-daga</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Avrajesh-daga" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="16.66%"><a href="https://github.com/vrajesh-daga"><img src="https://avatars.githubusercontent.com/u/201659831?v=4?s=100" width="100px;" alt="vrajesh-daga"/><br /><sub><b>vrajesh-daga</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Avrajesh-daga" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4?s=100" width="100px;" alt="yaseminturkyilmaz"/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="https://github.com/the-turing-way/newsletter" title="Blogposts">📝</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue%20state%3Aopen%20label%3Aidea-for-discussion" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
