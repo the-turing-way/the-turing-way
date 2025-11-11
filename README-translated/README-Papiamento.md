@@ -2,153 +2,150 @@
 
 # _The Turing Way_
 
->_Este archivo README-Spanish.md también está disponible en alemán ([README-German.md](README-German.md)), coreano ([README-Korean](README-Korean.md)), francés ([README-French.md](README-French.md)), indonesio ([README-Indonesian](README-Indonesian.md)), inglés ([README](../README.md)), italiano ([README-Italian](README-Italian.md)), holandés ([README-Dutch](README-Dutch.md)) y portugués ([README-Portuguese](README-Portuguese.md)) (ordenados alfabéticamente)._
+>_E archivo README-Papiamento.md aki tambe ta disponibel na Aleman ([README-German.md](README-German.md)), Koreano ([README-Korean](README-Korean.md)), Frances ([README-French.md](README-French.md)), Indones ([README-Indonesian](README-Indonesian.md)), Ingles ([README](../README.md)), Italiano ([README-Italian](README-Italian.md)), Hulandes ([README-Dutch](README-Dutch.md)), Spaño ([README-Spanish](README-Spanish.md)) y Portugues ([README-Portuguese](README-Portuguese.md)) (ordena alfabeticamente)._
 
-*Colaboradores totales:*
+*Colaboradornan total:*
 
-
-| Información | Enlaces |
+| Informacion | Enlace |
 | :--- | :--- |
 | **Proyecto** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) |
-| **Noticias** | [![Twitter Follow](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
+| **Noticia** | [![Twitter Follow](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
 | **Chat** | [![Join Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
-| **Compilación** | [![Netlify build](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
-| **Cita** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
+| **Construi** | [![Netlify build](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
+| **Site** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-*Bienvenidos al repositorio de Github del proyecto The Turing Way. Aquí es donde se desarrollan, se revisan y se mantienen todos los componentes del proyecto.*
+*Bon bini na e repositorio di Github di e proyecto The Turing Way. Aki ta unda tur componente di e proyecto ta desaroya, revisa y mantene.*
 
-_The Turing Way_ es una guía práctica para la ciencia de datos reproducible, ética y colaborativa.
-Apoyamos una comunidad diversa de colaboradores para conseguir una ciencia de datos accesible, comprensible y efectiva para todos.
-Nuestro objetivo es proporcionar toda la información que los investigadores y científicos de datos en la academia, la industria y el sector público necesitan al inicio de sus proyectos para asegurar que sean fáciles de reproducir al final.
+_The Turing Way_ ta un guia practico pa data science reproducibel, etico y colaborativo.
+Nos ta support un comunidad diverso di colaboradornan pa logra un data science accesibel, comprensibel y efectivo pa tur hende.
+Nos meta ta di provee tur Informacion cu investigadornan y data scientist den academia, industria y sector publico mester na cuminsamento di nan proyectonan pa asegura cu nan ta fasil pa reproduci na final.
 
-[![El proyecto The Turing Way es un libro, una comunidad, un proyecto de código abierto y una cultura de colaboración. Esto se muestra en cuatro ilustraciones, la primera mostrando el libro de Turing Way, la segunda cómo la comunidad puede crecer, la tercera mostrando dos personas colaborando en una pull request, y la última mostrando el balance donde la reproducibilidad es valorada en mayor medida que el número de documentos publicados](../book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![E proyecto The Turing Way ta un buki, un comunidad, un proyecto open source y un cultura di colaboracion. Esaki ta mustra den cuater ilustracion, e prome ta mustra e buki di Turing Way, e di dos ta mustra con e comunidad por crese, e di tres ta mustra dos persona colaborando riba un pull request, y e ultimo ta mustra e balansa unda reproducibilidad ta balora mas cu e cantidad di papers publica](../book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
-*The Turing Way es un libro, una comunidad y una colaboración global.*
+*The Turing Way ta un buki, un comunidad y un colaboracion global.*
 
-Todas las partes interesadas, incluyendo estudiantes, investigadores/as, ingenieros/as de software, líderes de proyectos y equipos fundadores, están invitados/as a usar The Turing Way para entender sus roles y sus responsabilidades en la reproducibilidad de la ciencia de datos.
-Puede leer el libro [online](https://github.com/the-turing-way/the-turing-way), contribuir al proyecto tal como se describe en nuestras [guías para contribuir al proyecto](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) y reutilizar todos los materiales ([ver la Licencia](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
+Tur partido interesa, incluiendo studiante, investigador, ingeniero di software, lider di proyecto y ekipo fundacional, ta invita pa usa The Turing Way pa compronde nan rol y nan responsabilidad den reproducibilidad di data science.
+Bo por lesa e buki [online](https://github.com/the-turing-way/the-turing-way), contribui na e proyecto manera ta splica den nos [guia pa contribui na e proyecto](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) y re-utilisa tur material ([mira e Licencia](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-[![Captura de pantalla del libro en línea de Turing Way. También muestra una de las ilustraciónes de Turing Way al comienzo del libro. En esta ilustración, podemos ver una carretera o camino con tiendas para las diferentes habilidades de ciencia de datos. La gente puede entrar y salir con su lista de la compra y escoger lo que necesiten.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
+[![Screenshot di e buki online di Turing Way. Tambe ta mustra un di e ilustracionnan di Turing Way na cuminsamento di e buki. Den e ilustracion aki, nos por mira un caminda of highway cu tiendanan pa diferente habilidadnan di data science. Hende por drenta y sali cu nan lista di compra y scohe loke nan mester.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
-*Captura de pantalla del libro en línea de The Turing Way ([usar esta imagen en una presentación](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
+*Screenshot di e buki online di The Turing Way ([usa e imagen aki den un presentacion](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
-The Turing Way comenzó en 2019 como una pequeña guía de ciencia de datos, y desde entonces se ha expandido hasta formar manual mucho más completo formado por múltiples guías que abarcan varios temas: Investigación Reproducible, Diseño de Proyectos, Comunicación, Colaboración e Investigación Ética.
-Cada guía ofrece capítulos sobre una variedad de temas que cubren buenas prácticas y recomendaciones.
-Estos capítulos han sido co-escritos por personas que colaboran y que son estudiantes, investigadores/as, docentes, líderes comunitarios, políticos/as y profesionales de diversos orígenes, experiencias vividas y conocimiento del dominio.
+The Turing Way a cuminsa na 2019 como un guia chikito di data science, y for di esakí a expande pa forma un manual hopi mas completo forma di varios guia ku ta cubri varios tema: Investigacion Reproducibel, Diseño di Proyecto, Comunicacion, Colaboracion y Investigacion Etico.
+Cada guia ta ofrece capitulo riba un variedad di tema cu ta trata bon practica y recomendacion.
+E capitulonan aki a wordo co-scribi door di personanan cu ta colabora y cu ta studiante, investigador, docente, lider comunitario, politico y profesionalnan di diferente background, experencia biba y conosemento di dominio.
 
-***Nuestro objetivo es hacer que la reproducibilidad sea "demasiado fácil como para no hacerla".***
+***Nos meta ta di hasi reproducibilidad "demasiado fasil pa no hasie".***
 
-**Tabla de contenidos:**
+**Tabla di contenido:**
 
-- [Acerca del proyecto](#acerca-del-proyecto)
-- [El Equipo](#el-equipo)
-- [Contribuir](#contribuir)
-- [Citando _The Turing Way_](#citando-the-turing-way)
-- [Contáctanos](#contáctanos)
-- [Colaboradores](#colaboradores)
+- [Tocante e proyecto](#tocante-e-proyecto)
+- [E ekipo](#e-ekipo)
+- [Contribui](#contribui)
+- [Site _The Turing Way_](#site-the-turing-way)
+- [Tuma contacto cu nos](#tuma-contacto-cu-nos)
+- [Colaboradornan](#Colaboradornan)
 
-🎧 Si prefieres una introducción de audio al proyecto (en inglés) Rachel, una colaboradora del proyecto presentó en el [Open Science Fair 2019](https://www.opensciencefair.eu/) en Oporto y su presentación fue grabada por el [Podcast Orion](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
-la descripción general del _The Turing Way_ comienza en el minuto 5:13. 
+🎧 Si bo ta prefera un introducion audio na e proyecto (na ingles) Rachel, un colaborador di e proyecto a presenta na [Open Science Fair 2019](https://www.opensciencefair.eu/) na Porto y su presentacion a wordo graba door di [Podcast Orion](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
+E descripcion general di _The Turing Way_ ta cuminsa na minuut 5:13.
 
-### Acerca del Proyecto
+### Tocante e proyecto
 
-La investigación reproducible es necesaria para garantizar que se pueda confiar en el trabajo científico.
-Quienes financian y editan trabajos científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos utilizados y al código con el que se ha realizado el análisis.
-El objetivo es garantizar que todos los resultados puedan verificarse de forma independiente y puedan servir como base para trabajos futuros.
-Esto a veces es más fácil decirlo que hacerlo.
-Compartir estos resultados de investigación significa comprender la gestión de datos, bibliotecología, el desarrollo de software y las técnicas de integración continua: habilidades que no se enseñan ni se esperan de los investigadores académicos y científicos de datos.
-Como estas actividades no se enseñan comúnmente, reconocemos que la carga de los requisitos y la adquisición de nuevas habilidades puede ser intimidante para las personas que son nuevas en este mundo.
-*The Turing Way* es un manual para ayudar a quienes estudian, supervisan, financian y editan trabajos científicos a garantizar que la ciencia de datos reproducible sea "demasiado fácil como para no hacerla" incluso para personas que nunca antes han trabajado de esta manera.
-Incluirá material de capacitación sobre control de versiones, testeo de análisis y comunicación abierta y transparente con futuras personas usuarias, y se basará en los estudios de caso y talleres del Instituto Turing.
-Este proyecto se desarrolla de manera abierta y todas y cada una de tus preguntas, comentarios y recomendaciones son bienvenidos en nuestro repositorio de github: <https://github.com/the-turing-way/the-turing-way>.
+Investigacion reproducibel ta nesesario pa garantisa cu bo por confia den trabou cientifico.
+Esnan cu ta finansia y edit trabounan cientifico ta cuminsa exihi cu publicacionnan inclui acceso na e data usa y e codigo cu cua nan a hasi e analisis.
+E meta ta pa garantisa cu tur resultadonan por wordo verifica di forma independiente y por sirbi como base pa trabou futuro.
+Tin biaha esaki ta mas fasil pa bisa cu pa hasi.
+Comparti e resultadonan di investigacion aki ta nifica compronde maneho di data, biblioteconomi, desaroyo di software y technicanan di integracion continuo: habilidadnan cu no ta duna lesnan di dje ni ta spera di investigador academico y data scientist.
+Mirando cu e actividadnan aki no ta duna lesnan di dje, nos ta reconoce cu e carga di e exsigencianan y haya  habilidadnan nobo por ta intimidante pa personanan cu ta nobo den e mundo aki.
+*The Turing Way* ta un manual pa yuda esnan cu ta studia, supervisa, finansia y edit trabounan sientifico pa garantisa cu data science reproducibel ta "demasiado fasil pa no hasie" inclui pa personanan cu nunca prome a traha di e manera aki.
+Lo inclui material di entrenamento riba control di version, testing di analisis y comunicacion habri y transparente cu futuro usuario, y lo base riba estudionan di caso y workshop di Instituto Turing.
+E proyecto aki ta desaroya di manera habri y tur i cualkier pregunta, comentario y recomendacion ta bon bini den nos repositorio di github: <https://github.com/the-turing-way/the-turing-way>.
 
-### El equipo
+### E ekipo
 
-_The Turing Way_ es un proyecto de colaboración abierta e impulsado por la comunidad.
-Todos los que colaboran en este libro, independientemente de lo pequeñas o grande que sean sus contribuciones, están reconocidos en este proyecto como colaboradores y miembros de la comunidad. 
-Los colaboradores de larga duración se consideran parte del grupo de colaboradores principal, el cual asume roles de liderazgo en el proyecto.
+_The Turing Way_ ta un proyecto di colaboracion habri y impulsa door di comunidad.
+Tur esnan cu ta colabora den e buki aki, indiferente di con chikito of grandi cu nan contribucion ta, ta reconoce den e proyecto aki como colaborador y miembro di comunidad.
+E colaboradornan di largo duracion ta considera parti di e grupo di colaborador principal, cua ta asumi rol di lider den e proyecto.
 
-El proyecto está coordinado por la líder investigadora **Kirstie Whitaker** (fundadora) y **Malvika Sharan** (desarrolladora de la comunidad) y alojado en [The Alan Turing Institute](https://www.turing.ac.uk/).
+E proyecto ta coordina door di lider investigador **Kirstie Whitaker** (fundador) y **Malvika Sharan** (desaroyador di comunidad) y ta hospeda na [The Alan Turing Institute](https://www.turing.ac.uk/).
 
-Puedes leer cómo se realiza [el proceso de reconocimiento como parte de _The Turing Way_ ](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y el [Registro de Colaboradores](https://book.the-turing-way.org/afterword/contributors-record.html) para conocer cómo se realiza el reconocimiento del trabajo y nuestros colaboradores destacados.
-Por favor visita el [Panel de Colaboradores](#colaboradores) para ver el perfil de Github de todos nuestros colaboradores.
+Bo por lesa con ta hasi [e proceso di reconosemento como parti di _The Turing Way_](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y e [Registro di Colaboradornan](https://book.the-turing-way.org/afterword/contributors-record.html) pa conoce con ta hasi e reconocimento di trabou y nos Colaboradornan destaca.
+Por fabor bishita e [Panel di Colaboradornan](#Colaboradornan) pa mira e profil di Github di tur nos colaboradornan.
 
-### Contribuir
+### Contribui
 
-:construction: Este repositorio es un trabajo en progreso contínuo y **todas las personas** están invitadas a ayudarnos a construir algo que sea útil para los demás. :construction:
+:construction: E repositorio aki ta un trabou den progreso continuo y **tur hende** ta invita pa yuda nos construí algo cu ta util pa otro hendenan. :construction:
 
-Se espera que todas las personas que deseen unirse al proyecto sigan nuestro [código de conducta](../CODE_OF_CONDUCT.md) y que visiten nuestras [guías para contribuir al proyecto](../CONTRIBUTING.md) para más información sobre cómo empezar.
-Queremos conocer a nuestros colaboradores allá donde estén.
-Por lo tanto, proporcionamos múltiples puntos de entrada para que puedas colaborar basados en tus intereses, disponibilidad o habilidades.
+Ta spera cu tur personanan cu kier uni na e proyecto sigui nos [código di conducta](../CODE_OF_CONDUCT.md) y cu bishita nos [guia pa contribui na e proyecto](../CONTRIBUTING.md) pa mas Informacion tocante con pa cuminsa.
+Nos kier conose nos colaboradornan ken nan ta.
+Pa eset, nos ta provee varios punto di entrada pa bo por colabora basa riba bo interes, disponibilidad of habilidadnan.
 
-![Esta imagen muestra seis tipos de contribuciones que cualquiera puede hacer. Éstas son: Desarrollar y compartir, Mantener y mejorar, Compartir recursos, Revisar y actualizar, Hacerlo global mediante traducciones, y Compartir las mejores prácticas](../book/figures/README_imgs/README_contributions.png)
+![E imagen aki ta mustra seis tipo di contribucion cu cualke hende por hasi. Esakinan ta: Desaroyay komparti, Mantene y mehora, Compartí recurso, Revisa y actualisa, Hasie global pa medio di traducion, y Comparti e miho practicanan](../book/figures/README_imgs/README_contributions.png)
 
-Las contribuciones incluyen el desarrollo y difusión de nuevos capítulos; matenimiento y mejora de capítulos existentes; compartir recursos de _The Turing Way_; revisar y actualizar materiales anteriormente desarrollados; traducir los capítulos para ayudar a hacer este proyecto accesible de forma global, y compartir las mejores prácticas en la investigación.
+E contribucionnan ta inclui e desaroyo y difucion di nobo capitulonan; mantencion y mehora capitulonan exsistente; compartí recurso di _The Turing Way_; revisa y actualisa material desaroya anteriormente; traduci e capitulonan pa yuda hasi e proyecto aki acsesibel di forma global, y compartí e miho prakticanan den investigashon.
 
-Los miembros comunitarios tienen oportunidades de aprender nuevas habilidades, compartir sus ideas y colaborar entre ellos.
-También tienen oportunidades de tutoría en el proyecto a medida que hacen sus contribuciones en The Turing Way u otros proyectos de código abierto y están invitadas a asesorar a nuevos participantes en el proyecto.
+E miembronan di comunidad tin oportunidad pa siña habilidadnan nobo, comparti nan ideanan y colabora entre nan mes.
+Nan tambe tin oportunidad di mentoria den e proyecto mientras nan ta hasi nan contribucionnan den The Turing Way of otro proyectonan di codigo habri y ta invita pa guia nobo participante den e proyecto.
 
-Hemos creado un [paquete de promoción](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) para ayudarle a presentar y compartir The Turing Way en su red.
+Nos a crea un [pakete di promoshon](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) pa yuda bo presenta y compartiThe Turing Way den bo red.
 
-### Citando _The Turing Way_
+### Sita _The Turing Way_
 
-Puedes hacer referencia a _The Turing Way_ a través del archivo Zenodo del proyecto usando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
-Los DOI nos permiten archivar el repositorio y son realmente valiosos para garantizar que el trabajo se rastree en las publicaciones académicas.
+Bo por hasi referencia na _The Turing Way_ pa medio di e archivo Zenodo di e proyecto usando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+DOI ta permiti nos archiva e repositorio y ta realmente valioso pa garantisa cu e trabou ta rastrea den publicacionnan academico.
 
-La cita tendrá un aspecto similar a este (en inglés):
+E sitacion lo tin un aspecto paresido na esaki (na ingles):
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-También puedes compartir la URL legible por humanos a una página del libro, por ejemplo, <https://book.the-turing-way.org/reproducibility/03/definitions.html>, pero ten en cuenta que el proyecto está en desarrollo y, por lo tanto, estos vínculos pueden cambiar con el tiempo.
-Es posible que desees incluir un enlace de archivo web como: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> para asegurarte de no terminar con enlaces rotos en todas partes.
+Tambe bo por comparti e URL cu hende por lesa na un pagina di e buki, por ehempel, <https://book.the-turing-way.org/reproducibility/03/definitions.html>, pero conta cu e proyecto ta den desaroyo y, pues, e enlacenan aki por cambia cu tempo.
+Por ta cu bo kier inclui un enlace di archivo web manera: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> pa asegura cu bo no termina cu enlace kibra na tur banda.
 
-Realmente agradecemos cualquier referencia que hagas al proyecto _The Turing Way_ y esperamos que sea de utilidad.
-Si tienes alguna pregunta por favor [contáctanos](#get-in-touch).
+Nos ta agradece realmente cualke referencia cu bo hasi na e proyecto _The Turing Way_ y ta spera cu ta di utilidad.
+Si bo tin cualkier pregunta por fabor [tuma contakto ku nos](#tuma-contacto-cu-nos).
 
-### Citando las ilustraciones de _The Turing Way_
+### Sita e ilustracionnan di _The Turing Way_
 <p align="center">
-  <img src="../book/figures/evolution-open-research.jpg" alt="Esto es un ejemplo de una de las ilustraciones de The Turing Way. Intenta mostrar la evolución frente a la era de la ciencia abierta" width="600">
+  <img src="../book/figures/evolution-open-research.jpg" alt="Esaki ta un ehempel di un di e ilustracionnan di The Turing Way. Ta trata di mustra e evolucion dilanti di era di ciencia habri" width="600">
 </p>
 
-Las ilustraciones del _The Turing Way_ se han creado por artistas de [Scriberia](https://www.scriberia.co.uk/) como parte de [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) en Manchester el 17 de mayo de 2019, en Londres el 28 de mayo de 2019 y el 21 de febrero de 2020.
-Las mismas representan una variedad de contenidos del manual, de los esfuerzos de colaboración en la comunidad y del proyecto _The Turing Way_ en general.
-Estas ilustraciones están disponibles en Zenodo ([https://zenodo.org/record/13882307)](https://zenodo.org/record/13882307) bajo una licencia CC-BY.
+E ilustracionnan di _The Turing Way_ a wordo crea dor di artista di [Scriberia](https://www.scriberia.co.uk/) komo parti di [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) na Manchester dia 17 di mei 2019, na London dia 28 di mei 2019 y dia 21 di februari 2020.
+Nan ta representa un variedad di contenido di e manual, di e esfuersonan di colaboracion den comunidad y di e proyecto _The Turing Way_ en general.
+E ilustracionnan aki ta disponibel na Zenodo ([https://zenodo.org/record/13882307)](https://zenodo.org/record/13882307) bou un lisensia CC-BY.
 
-Cuando utilices cualquiera de las imágenes, por favor incluye la siguiente atribución:
-> Esta imagen fue creada por Scriberia para la comunidad The Turing Way y se usa bajo una licencia CC-BY.
+Ora bo usa cualkier di e imagennan, por fabor inclui e atribucion aki:
+> E imagen aki a wordo crea dor di Scriberia pa comunidad The Turing Way y ta wordo usa bou un lisensia CC-BY.
 
-La última versión de Zenodo se puede citar como:
+E ultimo verscion di Zenodo por wordu cita como:
 > The Turing Way Community, & Scriberia. (2024). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.13882307
 
-Hemos utilizado algunas de estas ilustraciones en las respuestas a las contribuciones de personas que se integran a esta comunidad en el [Bot de bienvenida](https://github.com/apps/welcome) de este repositorio de GitHub.
+Nos a usa algun di e ilustracionnan aki den e responsnan na e contribucionnan di personanan cu ta integra na e comunidad aki den e [Bot di bon bini](https://github.com/apps/welcome) di e repositorio di GitHub aki.
 
-### Contáctanos
+### Tuma contacto cu nos
 
 #### Email
 
-Puede ponerse en contacto con el equipo de *The Turing Way* enviando un correo electrónico a [theturingway@gmail.com](mailto:theturingway@gmail.com) o [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
-
-
+Bo por tuma contacto cu e ekipo di *The Turing Way* mandando un email na [theturingway@gmail.com](mailto:theturingway@gmail.com) of [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 #### Chat
 
-Conectar con otros y compartir tus ideas en Slack usando [este enlace de invitación](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
+Conecta cu otro hendenan y comparti bo ideanan na Slack usando [e enlace di invitacion aki](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
-Tenemos una sala de chat de Gitter (si prefieres una alternativa de código abierto para el chat) y nos encantaría que pasaras a saludar a <https://gitter.im/the-turing-way/the-turing-way>.
-Este foro también está sincronizado con [Matrix](https://matrix.org) en [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y puedes unirte a nosotros allí si lo prefieres.
+Nos tin un sala di chat di Gitter (si bo ta prefera un alternativa di codigo habri pa chat) y nos lo ta contento si bo pasa pa saluda na <https://gitter.im/the-turing-way/the-turing-way>.
+E foro aki tambe ta sincronisa cu [Matrix](https://matrix.org) na [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y bo por uni cu nos eynan si bo ta prefera esey.
 
-#### Recibir Actualizaciones
+#### Ricibi actualisacion
 
-También tenemos una lista de correos a la que enviamos actualizaciones mensuales del proyecto.
-Subscríbete en <https://buttondown.com/turingway>.
+Tambe nos tin un lista di mail na cua nos ta manda actualisacionnan mensual di e proyecto.
+Subscribe na <https://buttondown.com/turingway>.
 
-También puedes seguirnos en [Mastodon](https://fosstodon.org/@turingway), [Bluesky](https://bsky.app/profile/turingway.bsky.social) y [Linkedin](https://www.linkedin.com/company/the-turing-way/).
+Tambe bo por sigui nos na [Mastodon](https://fosstodon.org/@turingway), [Bluesky](https://bsky.app/profile/turingway.bsky.social) y [Linkedin](https://www.linkedin.com/company/the-turing-way/).
 
-## Colaboradores
+## Colaboradornan
 
-Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Danki na e personanan aki ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-[Lista de personas que han colaborado](https://github.com/the-turing-way/the-turing-way#contributors)
+[Lista di personanan cu a colabora](https://github.com/the-turing-way/the-turing-way#contributors)
 
-Este proyecto sigue la especificación [all-contributors](https://github.com/all-contributors/all-contributors).
-¡Contribuciones de todo tipo son bienvenidas!
+E proyecto aki ta sigui e spesificasion [all-contributors](https://github.com/all-contributors/all-contributors).
+Contribucion di tur tipo ta bon bini!
