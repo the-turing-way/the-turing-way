@@ -5320,7 +5320,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/45071?v=4",
       "profile": "https://mentat.za.net",
       "contributions": [
-        "bug"
+        "bug",
+        "review"
       ]
     },
     {
@@ -5466,8 +5467,8 @@
       "contributions": [
         "review"
       ]
-   },
-   {
+    },
+    {
       "login": "Vamsiindugu",
       "name": "Vamsi Indugu",
       "avatar_url": "https://avatars.githubusercontent.com/u/150576424?v=4",
@@ -5491,6 +5492,24 @@
       "name": "Michael Umeokoli",
       "avatar_url": "https://avatars.githubusercontent.com/u/93191705?v=4",
       "profile": "https://mikey24-7.xyz",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "veerasai06",
+      "name": "veerasai06",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229084338?v=4",
+      "profile": "https://github.com/veerasai06",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "brechtjehuiskes",
+      "name": "Brechtje",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243357208?v=4",
+      "profile": "https://github.com/brechtjehuiskes",
       "contributions": [
         "review"
       ]
