@@ -85,7 +85,7 @@ for interaction or feedback. The focus is on covering a specific curriculum effi
 this method may not always encourage deep engagement or critical thinking, as learners may not actively apply the knowledge in real-world contexts during the training.
 
 On the other hand, active learning refers to teaching methods that engage students in the learning process beyond passive listening and note-taking. Consequently, it emphasises activities that
-encourage students to understand contexts and reflect on their actions (Konkol'ová & Paralič, 2018). This approach can be incorporated into both theoretical and practical teaching sessions.
+encourage students to understand contexts and reflect on their actions. This approach can be incorporated into both theoretical and practical teaching sessions.
 
 Some active learning methods include demonstration, cooperative learning, case studies, discussion, project-based learning, or pair programming. For example, in project-based learning, 
 students work on actual data science projects, from data collection and cleaning to analysis and interpretation, to encourage deeper understanding of the concepts. Pair programming enables 
@@ -95,21 +95,21 @@ responsibility, creativity, and critical thinking.
 ```
 `````{admonition} Case Study
 :class: tip
-Students use Python tools and ChatGPT APIs to analyse structured and unstructured data (Tsai, 2024). Lesson learnt: The key lies in instructors creating unique assignments that build on
-students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not
-considered the brain by students and instructors.</div>
+Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build
+on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and
+not considered the brain by students and instructors.</div>
 `````
 
-**Key elements of active learning in Educational Big Data Analytics** (Tsai, 2024):
-* **Data Acquisition:** Relevant to the problem being solved, considering primary and secondary datsources
-* **Exploratory Data Analysis (EDA):** Encouraging students to explore and analyse real educational datasets to gain hands-on experience (Milo & Somech, 2020).
+**Key elements of active learning in Educational Big Data Analytics** [@Tsai2024empowering]:
+* **Data Acquisition:** Relevant to the problem being solved, considering primary and secondary datsources.
+* **Exploratory Data Analysis (EDA):** Encouraging students to explore and analyse real educational datasets to gain hands-on experience [@Milo2020automating].
 * **Data Cleaning:** Encouraging students to clean data based on the problem's specific requirements, create copies of the data, retain essential features, and supplement with third-party datasets if necessary.
-* **Problem-Solving:** Challenging students to identify and solve data-related problems, fostering critical thinking skills (Aslan, 2021).
-* **Data Visualisation:** Teaching students how to present data through visualisations, enhancing their communication skills effectively (Waskom, 2021).
+* **Problem-Solving:** Challenging students to identify and solve data-related problems, fostering critical thinking skills [@aslan2021problem].
+* **Data Visualisation:** Teaching students how to present data through visualisations, enhancing their communication skills effectively [@Waskom2021statistical].
 * **Machine Learning techniques:** Applying appropriate machine learning algorithms to the data considering the nature of the dataset and the problem being solved.
 * **Performance Evaluation:** The performance of the proposed solution should be evaluated and checked against benchmarks or by experts in the field.
-* **Group Activities:** Promoting collaborative learning through group projects, allowing students to learn from their peers on how a data science team works together for the completion of a project (Qureshi et al., 2023).
-* **Inquiry-Based Learning:** Encouraging students to actively ask questions and seek answers, promoting curiosity and self-directed learning (Husni, 2020).
+* **Group Activities:** Promoting collaborative learning through group projects, allowing students to learn from their peers on how a data science team works together for the completion of a project [Qureshi2021factors].
+* **Inquiry-Based Learning:** Encouraging students to actively ask questions and seek answers, promoting curiosity and self-directed learning.
 ---
 | Method   | Ideal for                                                                                                 |
 | -------- |:----------------------------------------------------------------------------------------------------------- |
@@ -162,7 +162,7 @@ lecture (like a teaser for the session)
 ```
 `````{admonition} Case Study
 :class: tip
-Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), Sakulkueakulsuk et al., (2018) outline a novel educational approach using games to teach students. The
+Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The
 program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and
 motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found
 that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education
