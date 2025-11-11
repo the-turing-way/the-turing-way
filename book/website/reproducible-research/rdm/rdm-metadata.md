@@ -49,10 +49,27 @@ The use of community-defined standards for metadata is vital for reproducible re
 Metadata standards are also discipline-specific.
 For example, for brain data, the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standard to use.
 Not every discipline may use metadata standards, however.
-You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline. 
-There are also situations when researchers make use of more general metadata standards, for example when they use a generic archive to store their data they have to adhere to the metadata standards of the archive. 
+You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline.
+There are also situations when researchers make use of more general metadata standards, for example when they use a generic archive to store their data they have to adhere to the metadata standards of the archive.
 
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
+
+(rr-rdm-metadata-pid)=
+### PID Metadata
+
+When you deposit research outputs in repositories, they generate standardized PID metadata that makes your work discoverable across disciplines and platforms. This PID metadata is distinct from domain-specific metadata standards.
+
+PID metadata includes core properties like:
+- Creator names and affiliations
+- Title and description
+- Publication date and resource type
+- Relationships to other research outputs (such as citations or dataset-paper links)
+
+Repositories handle PID metadata automatically when they assign DOIs or other persistent identifiers to your work. This metadata gets registered with services like DataCite or Crossref, making your research findable through global discovery systems.
+
+Unlike domain-specific metadata (such as the Brain Imaging Data Structure for neuroimaging data), PID metadata follows standardized schemas that work across all disciplines. Both types of metadata are valuable - PID metadata enables broad discoverability while domain-specific metadata captures the detailed context needed for reuse within your field.
+
+Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](rr-rdm-pid-metadata).
 
 Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
 

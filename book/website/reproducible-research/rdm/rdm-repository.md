@@ -31,8 +31,8 @@ This chapter includes:
 
 Selecting an appropriate repository for your research outputs has many benefits:
 - It helps make your Research Objects more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). This is achieved through:
-    - Repositories assign a Persistent Identifier to your Research Objects, which makes them findable and citable (see {ref}`Citing Research Objects<cm-citable-cite>`.
-The most commonly used persistent identifiers for research objects is the Digital Object Identifier, usually abbreviated to DOI.
+    - Repositories assign a Persistent Identifier (PID) such as a DOI to your Research Objects, which makes them findable and citable (see {ref}`Citing Research Objects<cm-citable-cite>`).
+PIDs are globally unique identifiers that resolve permanently to your research, solving the "link rot" problem where URLs break over time. See our [chapter on persistent identifiers](rr-rdm-pid) to understand how PIDs work and why they're essential for FAIR research.
     - Repositories use metadata standards in describing your Research Object, which ensures that other people can find it using search engines.
     - Repositories add a licence to the Research Objects.
 A {ref}`license <rr-licensing>` describes to potential reusers of your work what they are allowed to do with it. 
@@ -86,7 +86,7 @@ The following questions may help you with that:
 - What are the file size requirements and limitations?
 - What are the costs for data sharing?
 - What data formats are allowed? Will it take the data that you want to share?
-- Does it provide a persistent identifier, for example a Digital Object Identifier (DOI)?
+- Does it provide a persistent identifier, for example a Digital Object Identifier (DOI)? Learn about different PID providers (DataCite vs Crossref) in our [PID ecosystem guide](rr-rdm-pid-ecosystem).
 - Does it provide the right type of access control that suits the sharing conditions of the data? (restricted access/embargo's)
 - Is there support available on how to curate the data/metadata?
 
