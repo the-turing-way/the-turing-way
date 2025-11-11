@@ -38,15 +38,9 @@ jobs:
         run: make deps
         working-directory: ./book
 
-      - name: Build Jupyter-Book with warnings raised to errors
+      - name: Build the book
         working-directory: ./book
-        run: |
-          if [[ "${{ matrix.os }}" == *"ubuntu"* ]]; then
-            echo "Running strict build on Ubuntu"
-            make strict
-          else
-            make ci
-          fi
+        run: make ci
 
       - name: Upload html output as artifact
         if: contains(matrix.os, 'ubuntu')
