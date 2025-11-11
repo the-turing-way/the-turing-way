@@ -12,6 +12,10 @@ defaults:
   run:
     shell: bash
 
+permissions:
+  issues: write
+  pull-requests: write
+
 jobs:
   build-jb:
     name: Build
@@ -40,6 +44,7 @@ jobs:
         if: ${{ contains(github.head_ref, 'all-contributors') }}
         uses: peter-evans/create-or-update-comment@v5
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           issue-number: ${{ steps.pr_number.outputs.pr_num }}
           body: >-
             Hello human reviewer! I have marked the CI build for this PR as
