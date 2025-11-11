@@ -53,6 +53,7 @@ Members participating in different Working Groups and projects carried out in _T
 | Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure Working Group member, Community Management Working Group member | 2023 - Present | GSOC Co-Mentor 2023 |
 | Alejandro Coca Castro ([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science Book Co-Lead, Community Management Working Group member | 2021 - Present | _The Turing Way_ Translation and Localisation Co-Lead, 2021 - May 2023 |
 | Neha Moopen ([NehaMoopen](https://github.com/nehamoopen)) | Research Data Manager, Utrecht University | Community Management Working Group member | 2025 - Present | - |
+| Cecilia Baldoni ([cecibaldoni](https://github.com/cecibaldoni/cecibaldoni.github.io)) | Behavioural Ecologist, Max Planck Institute of Animal Behavior | Community Management Working Group member | 2025 - Present | - |
 
 ## Representation at Constitution Level Steering Committee
 
