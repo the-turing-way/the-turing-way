@@ -25,6 +25,7 @@ But if you are hesitant about opening up your dataset before the article is publ
 ### Publish the Research Objects under restricted access
 
 Publishing your data under restricted access means that the data is uploaded to the repository, but you're only providing access to individuals that request access or you can provide access through sharing a private link.
+
 * You decide with whom to share the private link and whether individuals that request access will obtain access.
     * You can share the data with reviewers.
 * Your metadata (information about the data) is publicly available.
@@ -36,6 +37,7 @@ Publishing your data under restricted access means that the data is uploaded to 
 ### Publish the Research Objects under embargo
 
 An embargo means that you have already uploaded the data to the repository, but are not providing access to the data until a certain date.
+
 * No one has access to your data until the embargo period has expired (you can define this period), or until you changed the access permissions yourself.
     * You cannot share the data with reviewers.
 * Your metadata (information about the data) is publicly available.
@@ -49,6 +51,7 @@ An embargo means that you have already uploaded the data to the repository, but 
 
 Several data repositories, such as [Zenodo](https://zenodo.org/) and [Figshare](https://figshare.com/), allow you to reserve a DOI.
 Reserving a DOI means you are not required to upload your data yet, but you will need to provide some metadata (title, author/contributors) to complete the DOI reservation. The reserved DOI will be in use after you actually uploaded the data and decide to publish the data.
+
 * No one has access to your data or the metadata yet, because the landing page of your dataset is not working yet.
     * Your data is not available to reviewers.
 * You can provide the correct DOI in the paper's **Data Availability Statement** and in the reference list (see {ref}`Citing Data<cm-citable-cite-data>`).
@@ -131,7 +134,7 @@ The specific process depends on which repository you're using, but the general a
 
 ### Repository-Specific Examples
 ::::{tab-set}
-:::{tab-item} **Zenodo:**
+:::{tab-item} Zenodo
 :sync: tab1
 - When creating or editing a record, scroll to "Related identifiers/works"
 - Click "Add related identifier"
@@ -140,21 +143,21 @@ The specific process depends on which repository you're using, but the general a
 - Choose resource type of the related item
 - The interface shows both sides (for example, "this dataset *is supplement to* that publication")
 :::
-:::{tab-item} **Figshare:**
+:::{tab-item} Figshare
 :sync: tab2
 - In the item editor, find the "Links" or "Related items" section
 - Add the DOI of related resources
 - Select relationship type
 - Figshare may have limited relationship type options compared to full DataCite schema
 :::
-:::{tab-item} **OSF:**
+:::{tab-item} OSF
 :sync: tab3
 - In a project or component, use the "Links" widget
 - Add external links including DOIs
 - Describe the relationship in the link description
 - OSF's native connections between project components are automatic
 :::
-:::{tab-item} **Dryad:**
+:::{tab-item} Dryad
 :sync: tab4
 - During submission, there's a "Related Works" section
 - Add manuscript DOIs automatically if submitting through journal integration
@@ -239,7 +242,7 @@ When in doubt, ask yourself: "Would citing the old version still be valid and us
 
 ### How to Publish New Versions
 ::::{tab-set}
-:::{tab-item} **Zenodo:**
+:::{tab-item} Zenodo
 :sync: tab1
 1. Go to your published record
 2. Click "New version"
@@ -249,21 +252,21 @@ When in doubt, ask yourself: "Would citing the old version still be valid and us
 6. The concept DOI automatically updates to point to the latest version
 7. Both version DOIs remain active and independently citable
 :::
-:::{tab-item} **Figshare:**
+:::{tab-item} Figshare
 :sync: tab2
 1. Edit your existing item
 2. Upload new files
 3. Figshare versioning happens automatically
 4. Each version is preserved and accessible through the item history
 :::
-:::{tab-item} **OSF:**
+:::{tab-item} OSF
 :sync: tab3
 1. Update files in your project or component
 2. OSF maintains version history automatically
 3. The DOI always points to the current state
 4. Previous versions are accessible through the interface
 :::
-:::{tab-item} **Other repositories:**
+:::{tab-item} Other repositories
 :sync: tab4
 - Check specific repository documentation
 - Some may require creating a new record and linking with IsNewVersionOf relationship
