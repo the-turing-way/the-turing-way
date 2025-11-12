@@ -7,6 +7,24 @@ For information about the members involved in the governance, including the Proj
 This document offers high-level information on communication, community structures, and project management processes.
 For details, please refer to the Foreword, Afterword, and Community Handbook within *The Turing Way* book: [book.the-turing-way.org/](https://book.the-turing-way.org/).
 
+## Participation in _The Turing Way_
+
+All contributors are invited to participate in the Community Level Governance.
+Please follow our [Contributing Guideline](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+We maintain a [Contributors Table](./README.md#contributors), [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) and apply [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) to recognise and credit all kinds of contributions in _The Turing Way_.
+
+### Commitments Towards Our Community
+
+All members, especially at the maintenance and constitution levels, commit to:
+- following the contribution guidelines and keeping them up to date
+- abiding by and supporting the enforcement of the Code of Conduct in all community platforms and spaces where they represent _The Turing Way_.
+- offering their time and expertise to fixing open issues either directly via GitHub or providing mentorship and support to community members and project contributors.
+- making the implicit knoledge explicit by documenting their work and helping define our processes.
+- recording any new updates, exceptions or useful knowledge in project management and core documents needed to facilitate collaboration.
+- feedback on issues in open source software used throughout _The Turing Way_ by opening an issue _The Turing Way_ GitHub repo or other open source projects where this issue can be fixed.
+- documenting and sharing any (non-sensitive/non-confidential) conversation from closed spaces (such as email, Slack, or 1:1 meeting) in a GitHub issue that could be useful for the community or community members in enabling their work in _The Turing Way_.
+
 ## Communication
 
 Below we have listed all communication channels used in _The Turing Way_.
@@ -46,7 +64,7 @@ All members are welcome to join these calls! ✨
 
 - ✅ **Collaboration Café**: These are online coworking spaces for everyone, hosted fortnightly from 15:00 to 17:00 UK time. Here you can meet others from the community, do some focused co-writing, or catch up with the Working Groups ([Collaboration Café Chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe)).
 - 📝 **Community forums**: These calls are hosted every two months by the project delivery team to share governance-related updates with the community.
-- 📝 **Onboarding calls**: These calls are hosted every two months by the community management WG to onboard new members of the community in the project ([Onboarding and Offboarding Chapter](https://book.the-turing-way.org/community-handbook/onboarding-offboarding)).
+- 📝 **Onboarding calls**: These calls are hosted by the community management Working Groups to onboard new members of the community in the project ([Onboarding and Offboarding Chapter](https://book.the-turing-way.org/community-handbook/onboarding-offboarding)).
 - 📝 **Fireside Chats**: _The Turing Way_ members collaborate with different communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research/data science communities ([Fireside Chat Chapter](https://book.the-turing-way.org/community-handbook/fireside-chat)).
 
 ### Working Groups and Meetings
@@ -57,21 +75,10 @@ All members are welcome to join these calls! ✨
 - ✅ **Book Dash Meetings**: Every month (day and time variable) between planning Book Dashes. Members of the Book Dash Working Group work together to make long term strategic decisions about our Book Dash events and they help to form and run the Book Dash planning committees [Book Dash WG repository](https://github.com/the-turing-way/bookdash).  Once the planning committee has been formed for each Book Dash, they meet more regularly (bi-weekly) in the run up to the Book Dash events in May and November each year.
 - ✅ **Community Management Meetings**: Every Tuesday, 10:00 UK time. Members of the Community Management Working Group work together to engagement and communicate with our community. Join the #community-management channel on Slack for more.
 
-### Group-Specific Events and Meetings 
+### Group-Specific Events and Meetings
 
 - **Book Dash**: These bi-yearly online or hybrid events are hosted by the Book Dash Working Group. These are less intense versions of Book Sprint, inviting members through an application-based selection process to work on specific areas of the book and/or community initiatives ([Book Dash Chapter](https://book.the-turing-way.org/community-handbook/bookdash)).
-- **Steering Committee Meetings**: These meetings will be organised on a monthly basis for the members working together at the Constitutional Level. Dates and times will be decided with the members of the Steering Committee.
-
-## Commitments
-
-All members, especially at the maintenance and constitution levels, commit to:
-- making the implicit explicit by documenting their work
-- abiding by the [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) in all community platforms and spaces where they represent _The Turing Way_.
-- following the contribution guidelines and keeping them up to date
-- recording any new updates, exceptions or useful knowledge in project management and core documents needed to facilitate collaboration
-- dedicating their time and expertise to fixing open issues either directly via GitHub or providing mentorship and support to community members and project contributors
-- feedback on issues in open source software used throughout _The Turing Way_ by opening an issue _The Turing Way_ GitHub repo or other open source projects where this issue can be fixed
-- Document and share any conversation from closed spaces (such as email, Slack, or 1:1 meeting) in a GitHub issue that could be useful for the community or community members in enabling their work in _The Turing Way_.
+- **Steering Committee Meetings**: These meetings will be organised on a monthly basis for the members working together at the Constitutional Level. Dates and times will be communicated with the members of the Steering Committee.
 
 ## GitHub management
 
