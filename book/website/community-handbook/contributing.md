@@ -16,7 +16,7 @@ We welcome all contributions to this project via {term}`GitHub` {term}`issues` a
 Please follow these guidelines to make sure your contributions can be easily integrated into the projects.
 As you start contributing to _The Turing Way_, don't forget that your ideas are more important than perfect pull requests. ❤️
 
-If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
+If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#ch-contributing-join).
 
 ## Code of Conduct
 
@@ -37,6 +37,7 @@ For example, you should:
 - Make sure that the colour palettes are accessible to colour-blind readers and contributors.
   See the blog post [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
+(ch-contributing-join)=
 ## Join the Community
 
 There are many ways to engage with the community!
