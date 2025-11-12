@@ -53,7 +53,7 @@ You can sign up to our [newsletter](https://news.the-turing-way.org) to receive 
 
 _The Turing Way_ is developed on [GitHub](https://git.the-turing-way.org).
 We use GitHub [discussion](https://github.com/orgs/the-turing-way/discussions), [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls) to organise ideas and contributions.
-[](#working-on-github) explains how to use these features.
+[](#collaborating-on-github) and [](#making-changes-with-a-pull-request) explain how to use these features.
 
 ### Coworking and Real-Time Collaboration
 
@@ -65,7 +65,7 @@ These events can be found on the [community calendar](https://calendar.the-turin
 
 You can also contact the Community Management Working Group and the Steering Committee by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
-## Making Contributing Through GitHub
+## Collaborating on GitHub
 
 [Git](https://git-scm.com) is a really useful tool for version control.
 [GitHub](https://github.com) sits on top of Git and supports collaborative and distributed working.
@@ -74,14 +74,6 @@ We are here to help if you encounter problems! ❤️
 
 In order to contribute via GitHub, you'll need to create a free account.
 Read the [GitHub documentation](https://help.github.com/articles/signing-up-for-a-new-github-account/) for instructions.
-
-## Writing in Markdown
-
-_The Turing Way_ is written almost entirely in Markdown.
-In particular, it is written in a flavour of Markdown called [MyST Markdown](https://mystmd.org/).
-
-The [Style Guide](https://book.the-turing-way.org/community-handbook/style/) section of the Community Handbook explains our conventions and recommendations for writing Markdown.
-You can also read the [Authoring section of the MyST Markdown Guide](https://mystmd.org/guide) for the complete set of features and syntax.
 
 ## Issues and Discussions
 
@@ -99,7 +91,15 @@ We mark issues suitable for first contributions with the [good first issue](http
 
 If you would like opportunities to review others' contributions, we mark good pull requests for new reviewers with the [good first PR review](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Aopen+is%3Apr+label%3A%22good+first+PR+review%22) label.
 
-## Making Change With a Pull Request
+## Writing Markdown
+
+_The Turing Way_ is written almost entirely in Markdown.
+In particular, it is written in a flavour of Markdown called [MyST Markdown](https://mystmd.org/).
+
+The [Style Guide](https://book.the-turing-way.org/community-handbook/style/) section of the Community Handbook explains our conventions and recommendations for writing Markdown.
+You can also read the [Authoring section of the MyST Markdown Guide](https://mystmd.org/guide) for the complete set of features and syntax.
+
+## Making Changes with a Pull Request
 
 Changes to the book are always made through pull requests.
 We encourage all contributors to work on their own fork of the repository.
