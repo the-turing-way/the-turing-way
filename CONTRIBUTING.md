@@ -26,12 +26,12 @@ _The Turing Way_ aims to be inclusive to people from all walks of life and to al
 These intentions must be reflected in the contributions that we make to the project.
 
 In addition to the CoC, we encourage intentional, inclusive actions from contributors to _The Turing Way_.
-Here are a few examples of such actions:
+For example, you should:
 
-- use respectful, gender-neutral and inclusive language (learn more about inclusive writing on page 22 of [University of Leicester Study Skills pdf](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills.pdf), also available as a [zipped html](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills_HTML.zip)).
-- aim to include perspectives of researchers from different research backgrounds.
-- make sure that the colour palettes are accessible to colour-blind readers and contributors.
-See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator. for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
+- Use respectful, gender-neutral and inclusive language.
+- Aim to include perspectives of researchers from different research backgrounds.
+- Make sure that the colour palettes are accessible to colour-blind readers and contributors.
+  See the blog post [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 ## Get in touch
 
