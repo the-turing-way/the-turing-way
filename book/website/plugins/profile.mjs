@@ -189,7 +189,7 @@ const profileDirective = {
 
     let nodes = [];
 
-    //Add label
+    // Add label
     nodes.push({
       type: "MystTarget",
       label: label,
@@ -200,9 +200,22 @@ const profileDirective = {
       children: []
     })
 
+    // Card children
+    let card_children = [];
+
+    // Profile name
+    card_children.push({
+      type: "cardTitle",
+      children: [
+        {
+          type: "text",
+          value: name,
+        },
+      ],
+    });
+
     // List items
     let list_items = [];
-
     for (const [prefix, role, data] of [
       ["GitHub", gitHubUserRole, github],
       ["ORCID", orcidRole, orcid],
@@ -215,36 +228,22 @@ const profileDirective = {
       }
     }
 
+    if (list_items.length !=0) {
+      card_children.push(
+        {
+          type: "list",
+          ordered: false,
+          spread: false,
+          children: list_items,
+        }
+      );
+    }
+
     // Create card
     let card = {
-        type: "card",
-        children: [
-          {
-            type: "cardTitle",
-            children: [
-              {
-                type: "text",
-                value: name,
-              },
-            ],
-          },
-          {
-            type: "list",
-            ordered: false,
-            spread: false,
-            children: list_items,
-          },
-          {
-            type: "paragraph",
-            children: [
-              {
-                type: "text",
-                value: "hello",
-              },
-            ],
-          },
-        ],
-      };
+      type: "card",
+      children: card_children
+    };
 
     nodes[1].children.push(card);
     return nodes;
