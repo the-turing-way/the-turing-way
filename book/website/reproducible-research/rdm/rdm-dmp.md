@@ -82,7 +82,7 @@ You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-d
 
 ## DMPs as Citable Research Objects
 
-Data Management Plans are not just internal planning documents - they can be valuable research outputs that benefit the broader research community. Publishing your DMP publicly demonstrates transparency, provides templates for others planning similar projects, and shows funders and institutions your commitment to rigorous data management.
+Data Management Plans are not just internal planning documents - they can be valuable research outputs that benefit the broader research community. Publishing your DMP demonstrates transparency, provides templates for others planning similar projects, and shows funders and institutions your commitment to rigorous data management.
 
 You can deposit your DMP in a repository like Zenodo or your institutional repository to receive a DOI, making it formally citable. Consider publishing your DMP at project award or start to establish your data management approach early. When preparing a public DMP, you may want to redact sensitive information such as detailed budget figures or preliminary hypotheses, while keeping the data management methodology transparent.
 

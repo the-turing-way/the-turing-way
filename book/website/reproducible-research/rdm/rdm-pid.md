@@ -446,3 +446,7 @@ Key connections you can make:
 - [Documentation and Metadata](rr-rdm-metadata) - How to describe your research effectively
 - [Research Objects](communication-research-objects) - Sharing research throughout the lifecycle
 - [Linking Research Objects](communication-citable-linking) - Creating connections between related outputs
+
+:::{note}
+Funding: This chapter was originally contributed as part of the dissemination efforts by the [Implementing FAIR Workflows project](https://doi.org/10.54224/20568), funded by [Templeton World Charity Foundation](https://www.templetonworldcharity.org/).
+:::
