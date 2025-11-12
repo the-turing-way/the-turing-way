@@ -8,8 +8,10 @@ You will also find useful background context on the philosophical underpinnings 
 :name:guiding-principles-summary
 Empowerment
 : All community members are empowered to participate in the community and play an active role in decision-making processes.
+
 Transparency
 : Decisions, actions, and the processes that led to them should all be open to inspection and review.
+
 Inclusion
 : We will not discriminate or block participation based on a person's background, and we will strive to involve a diversity of perspectives in all areas of the project.
 :::
