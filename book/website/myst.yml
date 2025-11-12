@@ -383,13 +383,7 @@ project:
               title: File Naming Convention
             - file: project-design/info-management/code-styling.md
               title: Code Styling and Linting
-              # children:
-              #   - file: project-design/info-management/code-styling/code-styling-guidelines.md
-              #     title: Guidelines for Code Styling
-              #   - file: project-design/info-management/code-styling/code-styling-readability.md
-              #     title: Writing Human Readable Code
-              #   - file: project-design/info-management/code-styling/code-styling-tools.md
-              #     title: Code Styling Tools
+              children:
         - title: Data Security and Governance
           file: project-design/data-security.md
           children:
