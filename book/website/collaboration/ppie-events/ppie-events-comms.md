@@ -220,7 +220,7 @@ However, being able to engage in an event’s content and simultaneously read no
 Many members of the public may not have multiple screens set up in their homes, and they may be attending online events on their phones. 
 
 Ensure that if you offer live notetaking at your event that your attendees are able to access both the session content and the notes, and that technology you use is one that your attendees are comfortable using and getting access to. Some examples include:
-- [HackMD](https://hackmd.io) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
+- [Framapad](https://framapad.org/abc/en/) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
 - [Google Docs](https://www.google.co.uk/docs/about/) have some accessibility features but screen reader access to editing depends on the user's operating system.
 - [Etherpad](https://etherpad.wikimedia.org/) offers full support for screen-readers, and cannot host images or hyperlinks 
 Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.

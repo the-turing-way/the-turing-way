@@ -49,7 +49,7 @@ We also provide information about {ref}`larger dataset versioning<rr-vcs-data>`,
 
 Different version control systems can be used through a program with a graphical user interface, web browser-based applications, or command-line tools.
 Tools such as Google Drive and Dropbox offer platforms to update files and share them with others in real-time, collaboratively.
-More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
+More sophisticated version control systems exist within tools like [Google docs](https://docs.google.com/) or [Framapad](https://framapad.org/abc/en/).
 These allow collaborators to update files while storing each version in its version history (we will discuss this in detail).
 Advanced version control systems (VCS) such as [Git](https://en.wikipedia.org/wiki/Git), [Mercurial](https://www.mercurial-scm.org/), and [SVN](https://subversion.apache.org/) provide much more powerful tools.
 Accessing the version history and keeping control over the main version of your files are particular feature of these advanced tools.

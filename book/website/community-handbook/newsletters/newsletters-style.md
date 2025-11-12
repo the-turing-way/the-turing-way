@@ -18,7 +18,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`.
     - Provide links wherever useful, for example, [Framapad for Collaboration Café](https://annuel2.framapad.org/p/ttw-collaboration-cafe), [GitHub issue](https://github.com/the-turing-way/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/the-turing-way/the-turing-way).
     - Create links for email addresses using this Markdown syntax - ``[real-email-address](mailto:real-email-address)``.
-    - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. try to keep them to a mimumum if you can.
+    - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. Try to keep them to a minimum if you can.
 - **Quoting others**: Use greater than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
     > This is my legendary quote.
@@ -39,7 +39,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Use of images**: Only use relevant images linked to the news item in the newsletter.
     - Make sure that the images are available under a CC-BY license or approved to be reused by the owners.
     - Avoid using memes, images with political or sexual innuendo, or anything that is not directly related to the community.
-    - When drafting the newsletter in a HackMD, drag-n-drop an image into the editor or copy-paste an image to automatically upload the image to [Imgur](https://en.wikipedia.org/wiki/Imgur).
+    - When drafting the newsletter in a Framapad, drag-n-drop an image into the editor or copy-paste an image to automatically upload the image to [Imgur](https://en.wikipedia.org/wiki/Imgur).
     - When drafting the newsletter on GitHub, upload the images in the folder `the-turing-way/communications/newsletters/`.
     - The file naming convention for images is `short-name-monthYYYY.png`, where the short-name should be replaced with the identifiable short name of the image, the month should be replaced by the short name of the month and YYYY should be replaced by the year.
     - File extension can be `.jpg`, `.png` or others with compatible image file types.

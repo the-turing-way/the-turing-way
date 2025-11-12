@@ -15,19 +15,16 @@ Illustration of a process of sketching. [Royalty free image from Many Pixels](ht
 (ch-template-bookdash)=
 ## Book Dash Events
 
-There are four MarkDown templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ Book Dash events.
+There are four MarkDown templates for shared notes, feedback and GitHub issue for organising and running _The Turing Way_ Book Dash events.
 These templates can be reused and adapted for different events within and outside _The Turing Way_ community.
 
-- {ref}`HackMD Template for the Index Page<ch-template-bookdash-index>`
-- {ref}`HackMD Template for Pre-Event Calls<ch-template-bookdash-precall>`
+- {ref}`Framapad Template for the Index Page<ch-template-bookdash-index>`
+- {ref}`Framapad Template for Pre-Event Calls<ch-template-bookdash-precall>`
 - {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-github>`
-- {ref}`HackMD Template for Shared Notes<ch-template-bookdash-notes>`
-- {ref}`HackMD Template for Post-Event Feedback<ch-template-bookdash-feedback>`
+- {ref}`Framapad Template for Shared Notes<ch-template-bookdash-notes>`
+- {ref}`Framapad Template for Post-Event Feedback<ch-template-bookdash-feedback>`
 
-(ch-template-coworking)=
-## Coworking calls
-
-There are two MarkDown templates for the shared notes (HackMD) during the coworking calls hosted for _The Turing Way_ community:
+There are two MarkDown templates for the shared notes (Framapad) during the coworking calls hosted for _The Turing Way_ community:
 
 - {ref}`Template for the Collaboration Cafes<ch-template-coworking-collabcafe>`
 - {ref}`Template for the Daily Coworking Calls<ch-template-coworking-weekly>`
