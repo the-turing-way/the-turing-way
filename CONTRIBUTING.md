@@ -159,7 +159,3 @@ Otherwise, the pull requests will tend to have merge conflicts.
 Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/the-turing-way/the-turing-way/pulls/app%2Fallcontributors) before adding another.
 
 Finally, don't forget to add yourself to the [list of contributors](./contributors.md)!
-
----
-
-_These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)_
