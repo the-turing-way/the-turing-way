@@ -91,7 +91,7 @@ Nos a crea un [pakete di promoshon](https://github.com/the-turing-way/the-turing
 
 ### Sita _The Turing Way_
 
-Bo por hasi referencia na _The Turing Way_ pa medio di e archivo Zenodo di e proyecto usando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+Bo por haci referencia na _The Turing Way_ pa medio di e archivo Zenodo di e proyecto uzando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 DOI ta permiti nos archiva e repositorio y ta realmente valioso pa garantisa cu e trabou ta rastrea den publicacionnan academico.
 
 E sitacion lo tin un aspecto paresido na esaki (na ingles):
