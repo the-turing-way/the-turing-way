@@ -35,7 +35,7 @@ The Turing Way a cuminsa na 2019 como un guia chikito di data science, y for di 
 Cada guia ta ofrece capitulo riba un variedad di tema cu ta trata bon practica y recomendacion.
 E capitulonan aki a wordo co-scribi door di personanan cu ta colabora y cu ta studiante, investigador, docente, lider comunitario, politico y profesionalnan di diferente background, experencia biba y conocemento di dominio.
 
-***Nos meta ta di hasi reproducibilidad "demasiado fasil pa no hasie".***
+***Nos meta ta di haci reproducibilidad "demasiado facil pa no haci'e".***
 
 **Tabla di contenido:**
 
