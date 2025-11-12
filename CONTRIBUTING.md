@@ -18,7 +18,7 @@ If you have any questions that aren't discussed below, please let us know throug
 _The Turing Way_ is a community-led and collaboratively developed project.
 We, therefore, require that all our members and their contributions **adhere to our [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) (CoC)**.
 Please familiarize yourself with our [CoC](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) that lists the expected behaviours.
-We have also provided details for CoC reporting and enforcement, which can be read in our [Community Handbook](https://book.the-turing-way.org/community-handbook/coc.html).
+We have also provided details for CoC reporting and enforcement, which can be read in our [Community Handbook](https://book.the-turing-way.org/community-handbook/coc).
 
 ## Inclusivity
 
