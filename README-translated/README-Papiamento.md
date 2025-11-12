@@ -131,7 +131,6 @@ Bo por tuma contacto cu e ekipo di *The Turing Way* mandando un email na [thetur
 
 Conecta cu otro hendenan y comparti bo ideanan na Slack usando [e enlace di invitacion aki](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
-Nos tin un sala di chat di Gitter (si bo ta prefera un alternativa di codigo habri pa chat) y nos lo ta contento si bo pasa pa saluda na <https://gitter.im/the-turing-way/the-turing-way>.
 E foro aki tambe ta sincronisa cu [Matrix](https://matrix.org) na [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) y bo por uni cu nos eynan si bo ta prefera esey.
 
 #### Ricibi actualisacion
