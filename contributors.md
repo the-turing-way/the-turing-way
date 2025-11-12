@@ -985,6 +985,9 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 :::{profile} Jim Madge
 :github: JimMadge
+:orcid: 0000-0001-6044-164X
+:mastodon: JimMadge@fosstodon.org
+:website: https://blog.jmadge.com
 :::
 
 * Role:

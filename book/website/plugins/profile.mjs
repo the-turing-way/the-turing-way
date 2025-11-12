@@ -165,6 +165,10 @@ const profileDirective = {
       type: String,
       doc: "The Twitter profile name, not including an @",
     },
+    website: {
+      type: String,
+      docs: "Your personal website",
+    },
   },
   run(data, vfile, ctx) {
     // Process options
@@ -177,6 +181,7 @@ const profileDirective = {
     const quote = data.options?.quote ?? null;
     const role = data.options?.role ?? null;
     const twitter = data.options?.twitter ?? null;
+    const website = data.options?.website ?? null;
 
     // Create label from name
     const name = data.arg;
@@ -195,6 +200,21 @@ const profileDirective = {
       children: []
     })
 
+    // List items
+    let list_items = [];
+
+    for (const [prefix, role, data] of [
+      ["GitHub", gitHubUserRole, github],
+      ["ORCID", orcidRole, orcid],
+      ["Mastodon", mastodonRole, mastodon],
+      ["Twitter", twitterRole, twitter],
+      ["Website", websiteRole, website],
+    ]) {
+      if (data) {
+        list_items.push(listItem(prefix, role, data))
+      }
+    }
+
     // Create card
     let card = {
         type: "card",
@@ -212,19 +232,7 @@ const profileDirective = {
             type: "list",
             ordered: false,
             spread: false,
-            children: [
-              {
-                type: "listItem",
-                spread: true,
-                children: [
-                  {
-                    type: "text",
-                    value: "GitHub: ",
-                  },
-                  gitHubUserRole.run({body: "JimMadge"})[0],
-                ],
-              },
-            ],
+            children: list_items,
           },
           {
             type: "paragraph",
@@ -241,6 +249,20 @@ const profileDirective = {
     nodes[1].children.push(card);
     return nodes;
   },
+};
+
+function listItem(prefix, role, data) {
+  return {
+    type: "listItem",
+    spread: true,
+    children: [
+      {
+        type: "text",
+        value: `${prefix}: `,
+      },
+      role.run({body: data})[0],
+    ],
+  };
 };
 
 const plugin = {
