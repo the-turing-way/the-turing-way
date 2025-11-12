@@ -986,8 +986,9 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Role:
  * Core Member, Infrastructure Co-lead (2023-present)
  * Book Dash Participant (2022-2023)
+* ORCID: {orcid}`0000-0001-6044-164X`
 * GitHub: {githubuser}`JimMadge`
-* Mastodon: [\@JimMadge@fosstodon.org](https://fosstodon.org/@JimMadge)
+* Mastodon: {mastodon}`JimMadge@fosstodon.org`
 * Website: [blog.jmadge.com](https://blog.jmadge.com)
 
 * Short bio:
