@@ -17,11 +17,11 @@ For an overview of how members of *_The Turing Way_* community collaborate acros
 | Batool Almarzouq ([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation Working Chair | 2020 - Present | Various Maintenance Level roles |
 | Jim Madge ([JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | Infrastructure Wroking Group Chair | 2022 - Present | - |
 | Emma Karoune ([EKaroune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash Working Group member | Jan 2021 - Present | Various Maintenance Level roles |
-| Malvika Sharan ([malvikasharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)) | St. Jude Children's Research Hospital | Funding and Sustainability Working Group | June 2025-Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021; Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team, Co-Lead Practitioners Hub (Jul 2021 - June 2025) |
-| Sara Villa ([SaraVilla](https://github.com/SaraVilla)) | Community and Training Lead, Open Life Science | Community Management Working Group Co-Chair; Book Dash Working Group member; Funding and Sustainability Working Group member | 2025 - Present | Contributor |
 | Léllé Demertzi ([LelleDemertzi](https://book.the-turing-way.org/afterword/contributors-record#l-ll-demertzi)) | Research Project Manager; The Alan Turing Institute | Community Management Working Group Co-Chair; Project Manager and Practitioners Hub | 2024 - Present | - |
 | Liz Hare ([LizHareDogs](https://book.the-turing-way.org/afterword/contributors-record#liz-hare)) | Qualitative Geneticist, Dog Genetics LLC | _The Turing Way_ Accessibility Working Group Chair | 2023 - Present | - |
 | Precious Onyewuchi | OSPO NOW  - Data Science Without Borders | Book Dash Planning Committee Member | 2024 - Present | - |
+| Malvika Sharan ([malvikasharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)) | St. Jude Children's Research Hospital | Funding and Sustainability Working Group | June 2025-Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021; Senior Researcher - Open Research; The Alan Turing Institute | Lead of the Project Delivery Team, Co-Lead Practitioners Hub (Jul 2021 - June 2025) |
+| Sara Villa ([SaraVilla](https://github.com/SaraVilla)) | Community and Training Lead, Open Life Science | Community Management Working Group Co-Chair; Book Dash Working Group member; Funding and Sustainability Working Group member | 2025 - Present | Contributor |
 
 ## Participation and Engagement at the Community Level
 
@@ -43,17 +43,17 @@ Members participating in different Working Groups and projects carried out in _T
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Esther Plomp ([EstherPlomp](https://book.the-turing-way.org/afterword/contributors-record/#esther-plomp)) | University of Aruba | Book Dash Working Group member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
 | Alexandra Araujo Alvarez ([alexandraaaj](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash Working Group member | February 2023 - Present | Research Project Manager, Feb 2023 - Apr 2024 |
-| Carlos Martinez-Ortiz ([c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash Working Group member| Feb 2020 - Present | - |
-| Susana Roman Garcia ([Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash Working Group member, Community Management Working Group member | 2024 - November 2024 | - |
-| Sarah Gibson ([sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, _The Turing Way_ Infrastructure Maintainers Co-lead | 2019 - Present | Previously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| Danny Garside ([da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | _The Turing Way_ Infrastructure Maintainers Co-lead | 2021 - Present | - |
-| Brigitta Sipőcz ([bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | _The Turing Way_ Infrastructure Maintainers Co-lead | 2022 - Present | - |
-| Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure Working Group member, Community Management Working Group member | 2023 - Present | GSOC Co-Mentor 2023 |
 | Alejandro Coca Castro ([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science Book Co-Lead, Community Management Working Group member | 2021 - Present | _The Turing Way_ Translation and Localisation Co-Lead, 2021 - May 2023 |
-| Neha Moopen ([NehaMoopen](https://github.com/nehamoopen)) | Research Data Manager, Utrecht University | Community Management Working Group member | 2025 - Present | - |
+| Brigitta Sipőcz ([bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | _The Turing Way_ Infrastructure Maintainers Co-lead | 2022 - Present | - |
+| Carlos Martinez-Ortiz ([c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash Working Group member| Feb 2020 - Present | - |
 | Cecilia Baldoni ([cecibaldoni](https://github.com/cecibaldoni/cecibaldoni.github.io)) | Behavioural Ecologist, Max Planck Institute of Animal Behavior | Community Management Working Group member | 2025 - Present | - |
+| Danny Garside ([da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | _The Turing Way_ Infrastructure Maintainers Co-lead | 2021 - Present | - |
+| Esther Plomp ([EstherPlomp](https://book.the-turing-way.org/afterword/contributors-record/#esther-plomp)) | University of Aruba | Book Dash Working Group member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
+| Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure Working Group member, Community Management Working Group member | 2023 - Present | GSOC Co-Mentor 2023 |
+| Neha Moopen ([NehaMoopen](https://github.com/nehamoopen)) | Research Data Manager, Utrecht University | Community Management Working Group member | 2025 - Present | - |
+| Sarah Gibson ([sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, _The Turing Way_ Infrastructure Maintainers Co-lead | 2019 - Present | Previously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
+| Susana Roman Garcia ([Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash Working Group member, Community Management Working Group member | 2024 - November 2024 | - |
 
 ## Representation at Constitution Level Steering Committee
 
