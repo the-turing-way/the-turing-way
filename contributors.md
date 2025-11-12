@@ -597,19 +597,19 @@ I also hope that it can convince people who don't consider themselves capable of
 * ORCID: 0000-0002-8896-6189
 
 * Short bio:
-> I'm a Senior Research Community Manager at The Alan Turing Institute, currently working on a project called Advancing Biomedical Data Science
-Careers (ABDC). At the Institute, I'm also a co-organiser for the AI & Arts interest group, a cross-disciplinary community exploring the mutual
-influence of technological research and the arts. Alongside my roles at Turing, I'm a Ph.D. candidate and Associate Lecturer at Central Saint
-Martins, University of the Arts London. My research examines the evolving relationship between the arts and sciences as a model for
-transdisciplinary collaboration. Within the MA Innovation Management programme, I mentor students by offering creative perspectives and practical
-experience in applied innovation, guiding their research with insights in qualitative methods and cross-disciplinary collaboration processes.
+> I'm a Senior Research Community Manager at The Alan Turing Institute, currently working on a project called Advancing Biomedical Data Science Careers (ABDC). At the Institute, I'm also a co-
+organiser for the AI & Arts interest group, a cross-disciplinary community exploring the mutual influence of technological research and the arts. Alongside my roles at Turing, I'm a Ph.D.
+candidate and Associate Lecturer at Central Saint Martins, University of the Arts London. My research examines the evolving relationship between the arts and sciences as a model for
+transdisciplinary collaboration. Within the MA Innovation Management programme, I mentor students by offering creative perspectives and practical experience in applied innovation, guiding
+their research with insights in qualitative methods and cross-disciplinary collaboration processes.
 
 * Personal highlights:
-> I always enjoy taking part in the Book Dash and working collaboratively with others who share similar interests to mine — or even completely
-different ones,  which allows me to learn so much! After three Book Dashes, I’ve built relationships with a really great community of people and
-have also improved my GitHub skills, especially for collaborative work. I contributed one chapter on embedding data science across disciplines,
-which has been published, and two more are in the making, so I’m looking forward to using the Collaboration Café and future Book Dashes to finish
-them!
+> I always enjoy taking part in the Book Dash and working collaboratively with others who share similar interests to mine — or even completely different ones,  which allows me to learn so
+much! After three Book Dashes, I’ve built relationships with a really great community of people and have also improved my GitHub skills, especially for collaborative work.
+
+> I contributed one chapter “Embedding Data Science Across Disciplines” (June 2024), co-authored with Gule Saman, which has been published. Two more chapters are in progress: “Lesson &
+Curriculum Development” (June 2024–Nov 2025), with Gule Saman and Thao Do, and a new sub-chapter on “Qualitative Pre-registered Reports” (Nov 2025) under the “Registered Reports” chapter,
+which I am developing with Emma Karoune and Giulia Tomba.
 
 <!---E--->
 ## E
@@ -760,7 +760,11 @@ Quotes:
 > Dr Gule Saman is an Associate Professor in the School of Engineering and Physical Sciences at Heriot-Watt University, Edinburgh. She contributes
 to the design and delivery of the Data Science Graduate Apprenticeship programme, focusing on supporting diverse student cohorts through innovative
 personal tutoring and varied assessment practices. Her research interests include work-based learning, inclusivity in STEM, and active learning for
-student engagement.  
+student engagement.
+
+* Personal highlights:
+> I contributed one chapter “Embedding Data Science Across Disciplines” (June 2024), co-authored with Denise Bianco, which has been published. One chapter is in progress: “Lesson &
+Curriculum Development” (June 2024), with Denise Bianco and Thao Do.
 
 * Quote:
 > Jim Rohn reminds us that we are the average of the five people we spend the most time with. The people around us shape how we think, learn, and
