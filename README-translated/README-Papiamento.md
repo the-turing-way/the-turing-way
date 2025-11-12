@@ -29,7 +29,7 @@ Bo por lesa e buki [online](https://github.com/the-turing-way/the-turing-way), c
 
 [![Screenshot di e buki online di Turing Way. Tambe ta mustra un di e ilustracionnan di Turing Way na cuminsamento di e buki. Den e ilustracion aki, nos por mira un caminda of highway cu tiendanan pa diferente habilidadnan di data science. Hende por drenta y sali cu nan lista di compra y scohe loke nan mester.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
-*Screenshot di e buki online di The Turing Way ([usa e imagen aki den un presentacion](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
+*Screenshot di e buki online di The Turing Way ([uza e imagen aki den un presentacion](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
 The Turing Way a cuminsa na 2019 como un guia chikito di data science, y for di esaki a expande pa forma un manual hopi mas completo forma di varios guia ku ta cubri varios tema: Investigacion Reproducibel, Diseño di Proyecto, Comunicacion, Colaboracion y Investigacion Etico.
 Cada guia ta ofrece capitulo riba un variedad di tema cu ta trata bon practica y recomendacion.
