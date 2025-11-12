@@ -18,7 +18,7 @@
 
 _The Turing Way_ ta un guia practico pa data science reproducibel, etico y colaborativo.
 Nos ta support un comunidad diverso di colaboradornan pa logra un data science accesibel, comprensibel y efectivo pa tur hende.
-Nos meta ta di provee tur Informacion cu investigadornan y data scientist den academia, industria y sector publico mester na cuminsamento di nan proyectonan pa asegura cu nan ta fasil pa reproduci na final.
+Nos meta ta di provee tur informacion cu investigadornan y data scientist den academia, industria y sector publico mester na cuminsamento di nan proyectonan pa asegura cu nan ta fasil pa reproduci na final.
 
 [![E proyecto The Turing Way ta un buki, un comunidad, un proyecto open source y un cultura di colaboracion. Esaki ta mustra den cuater ilustracion, e prome ta mustra e buki di Turing Way, e di dos ta mustra con e comunidad por crese, e di tres ta mustra dos persona colaborando riba un pull request, y e ultimo ta mustra e balansa unda reproducibilidad ta balora mas cu e cantidad di papers publica](../book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
