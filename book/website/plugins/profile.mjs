@@ -197,8 +197,8 @@ const profileDirective = {
 
     nodes.push({
       type: "block",
-      children: []
-    })
+      children: [],
+    });
 
     // Card children
     let card_children = [];
@@ -224,25 +224,40 @@ const profileDirective = {
       ["Website", websiteRole, website],
     ]) {
       if (data) {
-        list_items.push(listItem(prefix, role, data))
+        list_items.push(listItem(prefix, role, data));
       }
     }
 
-    if (list_items.length !=0) {
-      card_children.push(
-        {
-          type: "list",
-          ordered: false,
-          spread: false,
-          children: list_items,
-        }
-      );
+    if (list_items.length != 0) {
+      card_children.push({
+        type: "list",
+        ordered: false,
+        spread: false,
+        children: list_items,
+      });
+    }
+
+    // Quote
+    if (quote) {
+      card_children.push({
+        type: "blockquote",
+        children: [
+          {
+            type: "paragraph",
+            children: [{ type: "text", value: quote }],
+          },
+          {
+            type: "paragraph",
+            children: [{ type: "text", value: `-- ${name}` }],
+          },
+        ],
+      });
     }
 
     // Create card
     let card = {
       type: "card",
-      children: card_children
+      children: card_children,
     };
 
     nodes[1].children.push(card);
@@ -259,10 +274,10 @@ function listItem(prefix, role, data) {
         type: "text",
         value: `${prefix}: `,
       },
-      role.run({body: data})[0],
+      role.run({ body: data })[0],
     ],
   };
-};
+}
 
 const plugin = {
   name: "Profile",
