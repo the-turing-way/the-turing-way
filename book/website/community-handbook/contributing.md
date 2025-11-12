@@ -1,3 +1,7 @@
+---
+abbreviations:
+  CoC: Code of Conduct
+---
 (ch-contributing)=
 # Contributing to _The Turing Way_
 
@@ -8,7 +12,7 @@
 We want to ensure that every user and contributor feels welcome, included and supported to participate in _The Turing Way_ community.
 We hope that the information provided in this document will make it as easy as possible for you to get involved.
 
-We welcome all contributions to this project via GitHub issues and pull requests.
+We welcome all contributions to this project via {term}`GitHub` {term}`issues` and {term}`pull requests <pull request>`.
 Please follow these guidelines to make sure your contributions can be easily integrated into the projects.
 As you start contributing to _The Turing Way_, don't forget that your ideas are more important than perfect pull requests. ❤️
 
@@ -17,9 +21,8 @@ If you have any questions that aren't discussed below, please let us know throug
 ## Code of Conduct
 
 _The Turing Way_ is a community-led and collaboratively developed project.
-We, therefore, require that all our members and their contributions **adhere to our [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) (CoC)**.
-Please familiarize yourself with our [CoC](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) that lists the expected behaviours.
-We have also provided details for CoC reporting and enforcement, which can be read in our [Community Handbook](https://book.the-turing-way.org/community-handbook/coc).
+We, therefore, require that all our members and their contributions **adhere to our {term}`CoC <Code of Conduct>`**.
+Please familiarize yourself with [our CoC](#ch-coc) that lists the expected behaviours.
 
 ## Inclusivity
 
@@ -54,18 +57,19 @@ You can sign up to our [newsletter](https://news.the-turing-way.org) to receive 
 
 _The Turing Way_ is developed on [GitHub](https://git.the-turing-way.org).
 We use GitHub [discussion](https://github.com/orgs/the-turing-way/discussions), [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls) to organise ideas and contributions.
-[](#collaborating-on-github) and [](#making-changes-with-a-pull-request) explain how to use these features.
+[](#ch-contributing-github) and [](#ch-contributing-pull-request) explain how to use these features.
 
 ### Coworking and Real-Time Collaboration
 
 _The Turing Way_ hosts synchronous events using video conferencing for focused collaboration.
-These include working group meetings, regular [collaboration cafes](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-collabcafe/) and week-long [Book Dash](https://book.the-turing-way.org/community-handbook/bookdash/) sprint events.
+These include working group meetings, regular [collaboration cafes](#ch-community-calls-collabcafe) and week-long [Book Dash](#ch-bookdash) sprint events.
 These events can be found on the [community calendar](https://calendar.the-turing-way.org).
 
 ### Email
 
 You can also contact the Community Management Working Group and the Steering Committee by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
+(ch-contributing-github)=
 ## Collaborating on GitHub
 
 [Git](https://git-scm.com) is a really useful tool for version control.
@@ -97,9 +101,10 @@ If you would like opportunities to review others' contributions, we mark good pu
 _The Turing Way_ is written almost entirely in Markdown.
 In particular, it is written in a flavour of Markdown called [MyST Markdown](https://mystmd.org/).
 
-The [Style Guide](https://book.the-turing-way.org/community-handbook/style/) section of the Community Handbook explains our conventions and recommendations for writing Markdown.
-You can also read the [Authoring section of the MyST Markdown Guide](https://mystmd.org/guide) for the complete set of features and syntax.
+The [Style Guide](#ch-style) section of the Community Handbook explains our conventions and recommendations for writing Markdown.
+You can also read the [Authoring section of the MyST Markdown Guide](xref:myst-guide) for the complete set of features and {term}`syntax`.
 
+(ch-contributing-pull-request)=
 ## Making Changes with a Pull Request
 
 Changes to the book are always made through pull requests.
@@ -138,25 +143,26 @@ If you are writing a new chapter, make use of the [chapter template](https://git
 
 You can build the book locally during development.
 This is the quickest way to see how you changes affect the book.
-The steps are described in [this section](https://book.the-turing-way.org/community-handbook/local-build) of the The Turing Way.
+The steps are described in [](#ch-local-build).
 
 ## Recognising Contributions
 
 We welcome and recognise all kinds of contributions, from fixing small errors, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
-The [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement/) explains how contributions will be acknowledged and recorded in _The Turing Way_.
+The [community handbook](#ch-acknowledgement) explains how contributions will be acknowledged and recorded in _The Turing Way_.
 
-To add yourself or someone else as a contributor, comment on the relevant issue or pull request with the following:
+To add yourself or someone else as a {term}`contributor <contributors>`, comment on the relevant issue or pull request with the following:
 
-```
+```none
 @all-contributors please add <username> for <contributions>
 ```
 
 You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/the-turing-way/the-turing-way/issues/274).
-The bot will then create a Pull Request to add the contributor and reply with the pull request details.
+The bot will then create a {term}`pull request` to add the contributor and reply with the pull request details.
 
-Please only add one contributor at a time with the bot!
+:::{warning} Please only add one contributor at a time with the bot!
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
 Otherwise, the pull requests will tend to have merge conflicts.
 Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/the-turing-way/the-turing-way/pulls/app%2Fallcontributors) before adding another.
+:::
 
-Finally, don't forget to add yourself to the [list of contributors](./contributors.md)!
+Finally, don't forget to add yourself to the [list of contributors](#contributors-record)!

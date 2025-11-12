@@ -1,4 +1,4 @@
-(ch-contributing)=
+(ch-contributing-chapters)=
 # Contributing and Developing Chapters - Templates and Workflow
 
 As _The Turing Way_ project grows and evolves, we actively welcome and encourage continuous contributions from community members in the form of new chapters and case studies.
