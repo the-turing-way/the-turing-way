@@ -13,7 +13,7 @@ As you start contributing to _The Turing Way_, don't forget that your ideas are 
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
 
-## Joining the community
+## Code of Conduct
 
 _The Turing Way_ is a community-led and collaboratively developed project.
 We, therefore, require that all our members and their contributions **adhere to our [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) (CoC)**.
@@ -33,28 +33,37 @@ For example, you should:
 - Make sure that the colour palettes are accessible to colour-blind readers and contributors.
   See the blog post [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
-## Get in touch
+## Join the Community
 
-There are many ways to get in touch with _The Turing Way_ team!
+There are many ways to engage with the community!
+We maintain a set of useful resources and announcements at [the-turing-way.org](https://the-turing-way.org)
 
-- GitHub [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls)
-  - Join a discussion, collaborate on an ongoing task and exchange your thoughts with others.
-  - Can't find your idea being discussed anywhere?
-    [Open a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
-- [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
-  - For structured discussion and sustained engagement with the community members.
-  - We will also provide notifications on upcoming events and share useful resources on Slack.
-- Contact the Research Community Management working group and the Steering group by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
+### Newsletter
 
-### Receiving Updates
+You can sign up to our [newsletter](https://news.the-turing-way.org) to receive monthly project updates.
 
-- [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
-- **Useful links**: other links to our resources along with announcements are shared via this start page: [https://the-turing-way.start.page/](https://the-turing-way.start.page/)
+### GitHub
+
+_The Turing Way_ is developed on [GitHub](https://git.the-turing-way.org).
+We use GitHub [discussion](https://github.com/orgs/the-turing-way/discussions), [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls) to organise ideas and contributions.
+[](#working-on-github) explains how to use these features.
+
+### Slack
+
+We use [Slack](https://slack.the-turing-way.org) for more informal and rapid communication.
+There are channels for working groups, asking for support, and community discussion.
+There are also off-topic channels for socialising with other community members.
+Slack is also a good place to receive notifications for upcoming events.
+
+### Email
+
+You can also contact the Community Management Working Group and the Steering Committee by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 ### Coworking and Real-Time Collaboration
 
-- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engages anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*.
-- [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year, for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
+_The Turing Way_ hosts synchronous events using video conferencing for focused collaboration.
+These include working group meetings, regular [collaboration cafes](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-collabcafe/) and week-long [Book Dash](https://book.the-turing-way.org/community-handbook/bookdash/) sprint events.
+These events can be found on the [community calendar](https://calendar.the-turing-way.org).
 
 ## Contributing through GitHub
 
@@ -78,7 +87,12 @@ For example, you could write a section in **bold** by starting and ending the se
 Also when writing in Markdown, please [start each new sentence on a new line](https://book.the-turing-way.org/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! ✨
 
-## Where to start: issues
+## Working on GitHub
+
+Look through open items first; join discussions, collaborate on an ongoing tasks and exchange your thoughts with others.
+If you can't find an open item related to your idea, you can open a new one.
+Open and discussion if you have a question, or an idea to talk about with the community.
+Open an issue if you have a specific task like fixing a bug or editing part of the book.
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
