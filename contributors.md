@@ -592,7 +592,7 @@ I also hope that it can convince people who don't consider themselves capable of
 
 ### Denise Bianco
 
-* Role: Book Dash Planning Committee 2024, Book Dash particpant 2025
+* Role: Book Dash Planning Committee 2024, Book Dash participant 2025
 * GitHub: {githubuser}`denisebianco`
 * ORCID: 0000-0002-8896-6189
 
