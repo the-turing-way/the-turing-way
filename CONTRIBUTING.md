@@ -142,12 +142,9 @@ The steps are described in [this section](https://book.the-turing-way.org/commun
 ## Recognising Contributions
 
 We welcome and recognise all kinds of contributions, from fixing small errors, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
-In the [community handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html), you can read how your contributions will be acknowledged and recorded in _The Turing Way_.
-_The Turing Way_ follows the [all-contributors][all-contributors] specifications.
-The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md). 😍
+The [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement/) explains how contributions will be acknowledged and recorded in _The Turing Way_.
 
-To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
+To add yourself or someone else as a contributor, comment on the relevant issue or pull request with the following:
 
 ```
 @all-contributors please add <username> for <contributions>
@@ -156,21 +153,13 @@ To add yourself or someone else as a contributor, comment on the relevant Issue 
 You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/the-turing-way/the-turing-way/issues/274).
 The bot will then create a Pull Request to add the contributor and reply with the pull request details.
 
-**PLEASE NOTE: Only one contributor can be added with the bot at a time!**
+Please only add one contributor at a time with the bot!
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
-Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
+Otherwise, the pull requests will tend to have merge conflicts.
 Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/the-turing-way/the-turing-way/pulls/app%2Fallcontributors) before adding another.
 
-What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
-(Don't feel bad, we have all done it! 🙈)
-Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-If you are unable to do this for any reason, please let us know on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA), the [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
-
-Finally, don't forget to add yourself to the list of contributors [here](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md)!
+Finally, don't forget to add yourself to the [list of contributors](./contributors.md)!
 
 ---
 
 _These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)_
-
-[github-mergeconflicts]: https://help.github.com/articles/about-merge-conflicts
-[all-contributors]: https://github.com/kentcdodds/all-contributors#emoji-key
