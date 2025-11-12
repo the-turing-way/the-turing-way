@@ -66,7 +66,7 @@ const twitterRole = {
     };
     return [node];
   },
-}
+};
 
 const mastodonRole = {
   name: "mastodon",
@@ -92,7 +92,7 @@ const mastodonRole = {
     };
     return [node];
   },
-}
+};
 
 const websiteRole = {
   name: "website",
@@ -104,7 +104,7 @@ const websiteRole = {
   },
   run(data) {
     // Strip http or https
-    var name = data.body.replace(new RegExp('(http|https):\/\/', 'g'), '')
+    var name = data.body.replace(new RegExp("(http|https):\/\/", "g"), "");
     const node = {
       type: "link",
       url: data.body,
@@ -117,17 +117,136 @@ const websiteRole = {
     };
     return [node];
   },
-}
+};
+
+const profileDirective = {
+  name: "profile",
+  doc: "Build a user profile for our contributors record.",
+  arg: {
+    type: String,
+    doc: "Your name",
+    required: true,
+  },
+  // body: {},
+  options: {
+    bio: {
+      type: String,
+      doc: "A short biography.",
+    },
+    github: {
+      type: String,
+      doc: "Your GitHub username, not including an @",
+    },
+    highlights: {
+      type: String,
+      doc: "Your personal highlights from working in The Turing Way",
+    },
+    mastodon: {
+      type: String,
+      doc: "Your Mastodon profile and instance tag, without a leading @. For example username@mastodon.social",
+    },
+    more: {
+      type: String,
+      doc: "Any extra information you would like on your profile",
+    },
+    orcid: {
+      type: String,
+      doc: "Your ORCID",
+    },
+    quote: {
+      type: String,
+      doc: "A personal quote for your profile",
+    },
+    role: {
+      type: String,
+      doc: "Your role(s), or previous role(s), in The Turing Way",
+    },
+    twitter: {
+      type: String,
+      doc: "The Twitter profile name, not including an @",
+    },
+  },
+  run(data, vfile, ctx) {
+    // Process options
+    const bio = data.options?.bio ?? null;
+    const github = data.options?.github ?? null;
+    const highlights = data.options?.highlights ?? null;
+    const mastodon = data.options?.mastodon ?? null;
+    const more = data.options?.more ?? null;
+    const orcid = data.options?.orcid ?? null;
+    const quote = data.options?.quote ?? null;
+    const role = data.options?.role ?? null;
+    const twitter = data.options?.twitter ?? null;
+
+    // Create label from name
+    const name = data.arg;
+    const label = "profile-" + name.replace(" ", "-").toLowerCase();
+
+    let nodes = [];
+
+    //Add label
+    nodes.push({
+      type: "MystTarget",
+      label: label,
+    });
+
+    nodes.push({
+      type: "block",
+      children: []
+    })
+
+    // Create card
+    let card = {
+        type: "card",
+        children: [
+          {
+            type: "cardTitle",
+            children: [
+              {
+                type: "text",
+                value: name,
+              },
+            ],
+          },
+          {
+            type: "list",
+            ordered: false,
+            spread: false,
+            children: [
+              {
+                type: "listItem",
+                spread: true,
+                children: [
+                  {
+                    type: "text",
+                    value: "GitHub: ",
+                  },
+                  gitHubUserRole.run({body: "JimMadge"})[0],
+                ],
+              },
+            ],
+          },
+          {
+            type: "paragraph",
+            children: [
+              {
+                type: "text",
+                value: "hello",
+              },
+            ],
+          },
+        ],
+      };
+
+    nodes[1].children.push(card);
+    return nodes;
+  },
+};
 
 const plugin = {
   name: "Profile",
-  roles: [
-    gitHubUserRole,
-    orcidRole,
-    twitterRole,
-    mastodonRole,
-    websiteRole
-  ],
+  directives: [profileDirective],
+  roles: [gitHubUserRole, orcidRole, twitterRole, mastodonRole, websiteRole],
 };
 
 export default plugin;

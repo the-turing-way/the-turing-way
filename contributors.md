@@ -983,6 +983,10 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Jim Madge
 
+:::{profile} Jim Madge
+:github: JimMadge
+:::
+
 * Role:
  * Core Member, Infrastructure Co-lead (2023-present)
  * Book Dash Participant (2022-2023)
