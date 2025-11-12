@@ -46,7 +46,7 @@ E capitulonan aki a wordo co-scribi door di personanan cu ta colabora y cu ta st
 - [Tuma contacto cu nos](#tuma-contacto-cu-nos)
 - [Colaboradornan](#Colaboradornan)
 
-🎧 Si bo ta prefera un introducion audio na e proyecto (na ingles) Rachel, un colaborador di e proyecto a presenta na [Open Science Fair 2019](https://www.opensciencefair.eu/) na Porto y su presentacion a wordo graba door di [Podcast Orion](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
+🎧 Si bo ta prefera un introducion audio na e proyecto (na Ingles) Rachel, un colaborador di e proyecto a presenta na [Open Science Fair 2019](https://www.opensciencefair.eu/) na Porto y su presentacion a wordo graba door di [Podcast Orion](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 E descripcion general di _The Turing Way_ ta cuminsa na minuut 5:13.
 
 ### Tocante e proyecto
