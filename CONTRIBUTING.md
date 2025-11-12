@@ -139,18 +139,6 @@ You can build the book locally during development.
 This is the quickest way to see how you changes affect the book.
 The steps are described in [this section](https://book.the-turing-way.org/community-handbook/local-build) of the The Turing Way.
 
-
-## Representing _The Turing Way_
-
-We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways!
-We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
-You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
-
-If you would like to represent the project in your network, please open an issue and ping the project delivery team members, so that they can do their best to support you.
-
-We would appreciate if you could share a short abstract and your presentation by adding them to the
-[conferences folder](https://github.com/the-turing-way/conferences) and some info in the [conferences README.md](https://github.com/the-turing-way/conferences/blob/main/README.md).
-
 ## Recognising Contributions
 
 We welcome and recognise all kinds of contributions, from fixing small errors, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.
