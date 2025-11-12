@@ -1,4 +1,4 @@
-=(guiding-principles)
+(guiding-principles)=
 # Guiding Principles for _The Turing Way_
 
 All activity and community members in *The Turing Way* should align with and uphold our guiding principles: inclusion, transparency, and empowerment.
@@ -11,12 +11,12 @@ You will also find useful background context on the philosophical underpinnings 
 * **Inclusion**: We will not discriminate or block participation based on a person's background, and we will strive to involve a diversity of perspectives in all areas of the project.
 :::
 
-=(guiding-principles-empowerment)
+(guiding-principles-empowerment)=
 ## Empowerment
 The project is deliberately structured to encourage agency and create opportunities and pathways for people to make autonomous decisions about how and when to participate, as long as they align with our other values and [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md). 
 We aim to maximize the amount of agency that the community members hold and minimize the authority of the highest governance levels.
 
-=(guiding-principles-transparency)
+(guiding-principles-transparency)=
 ## Transparency
 We commit to the approach "As open as possible, as closed as necessary".
 We design our processes and activities to be open and transparent, and review as needed.
@@ -27,7 +27,7 @@ There are, of course, some instances where openness is not appropriate.
 In order to make people feel safe and confident, or to comply with legal obligations, it might be necessary to protect information. 
 For example, the process for dealing with a Code of Conduct violation report is open and transparent to the community, but the details of any particular report may not be.
 
-=(guiding-principles-inclusion)
+(guiding-principles-inclusion)=
 ## Inclusion
 We are intentionally inclusive. 
 We don't only reject discrimination...
