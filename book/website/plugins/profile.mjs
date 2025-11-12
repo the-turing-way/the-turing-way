@@ -94,13 +94,39 @@ const mastodonRole = {
   },
 }
 
+const websiteRole = {
+  name: "website",
+  doc: "Create a link to a personal website",
+  body: {
+    type: String,
+    doc: "The website URL",
+    required: true,
+  },
+  run(data) {
+    // Strip http or https
+    var name = data.body.replace(new RegExp('(http|https):\/\/', 'g'), '')
+    const node = {
+      type: "link",
+      url: data.body,
+      children: [
+        {
+          type: "text",
+          value: name,
+        },
+      ],
+    };
+    return [node];
+  },
+}
+
 const plugin = {
   name: "Profile",
   roles: [
     gitHubUserRole,
     orcidRole,
     twitterRole,
-    mastodonRole
+    mastodonRole,
+    websiteRole
   ],
 };
 

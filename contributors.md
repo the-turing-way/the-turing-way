@@ -989,7 +989,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * ORCID: {orcid}`0000-0001-6044-164X`
 * GitHub: {githubuser}`JimMadge`
 * Mastodon: {mastodon}`JimMadge@fosstodon.org`
-* Website: [blog.jmadge.com](https://blog.jmadge.com)
+* Website: {website}`https://blog.jmadge.com`
 
 * Short bio:
 > I'm a senior research software engineer at The Alan Turing Institute.
