@@ -104,7 +104,7 @@ Por ta cu bo kier inclui un enlace di archivo web manera: <https://web.archive.o
 Nos ta agradece realmente cualke referencia cu bo hasi na e proyecto _The Turing Way_ y ta spera cu ta di utilidad.
 Si bo tin cualkier pregunta por fabor [tuma contakto ku nos](#tuma-contacto-cu-nos).
 
-### Sita e ilustracionnan di _The Turing Way_
+### Cita e ilustracionnan di _The Turing Way_
 <p align="center">
   <img src="../book/figures/evolution-open-research.jpg" alt="Esaki ta un ehempel di un di e ilustracionnan di The Turing Way. Ta trata di mustra e evolucion dilanti di era di ciencia habri" width="600">
 </p>
