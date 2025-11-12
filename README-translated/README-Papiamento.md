@@ -146,5 +146,5 @@ Danki na e personanan aki ([emoji key](https://allcontributors.org/docs/en/emoji
 
 [Lista di personanan cu a colabora](https://github.com/the-turing-way/the-turing-way#contributors)
 
-E proyecto aki ta sigui e spesificasion [all-contributors](https://github.com/all-contributors/all-contributors).
+E proyecto aki ta sigui e spesificacion [all-contributors](https://github.com/all-contributors/all-contributors).
 Contribucion di tur tipo ta bon bini!
