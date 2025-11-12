@@ -1,5 +1,5 @@
 (rr-code-quality-readability)=
-## Writing Human Readable Code
+# Writing Human Readable Code
 
 Writing clear, well commented, readable and reusable code benefits not only you but the community (or audience) that you are developing it for.
 This may be your lab, external collaborators, stakeholders, or you might be writing open source software for global distribution!

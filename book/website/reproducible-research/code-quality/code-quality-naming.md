@@ -1,5 +1,5 @@
 (rr-code-style-naming)=
-## File and Variable Naming
+# File and Variable Naming
 
 ### File Naming
 

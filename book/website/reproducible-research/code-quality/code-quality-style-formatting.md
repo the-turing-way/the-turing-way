@@ -1,5 +1,5 @@
 (rr-code-style-and-formatting)=
-## Automatic Formatting
+# Automatic Formatting
 
 Numerous tools exists to automatically format code such that it follows a certain style. Automatic formatting enables higher code quality, especially when you are collaborating in a team and other people need to look at the code you've written.
 Many developers and organisations maintain standards of code formatting like **2-space** or **4-space indentation**. Using these is highly recommended since the probability of finding bugs (if any) increases multifold.
