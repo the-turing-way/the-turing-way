@@ -1,3 +1,4 @@
+(ch-contributing)=
 # Contributing to _The Turing Way_
 
 🎉🎈🍰 **Welcome to _The Turing Way_!** 🍰🎈🎉

@@ -17,4 +17,4 @@ alt: Illustration by Scriberia for The Turing Way, showing a contributor having 
 
 This chapter provides a brief overview of the workflow for writing chapters and case studies for _The Turing Way_.
 We encourage you to read through and follow the recommendations if you wish to make a contribution.
-Also, ensure that you read our [Contributor Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) in addition to our [style](https://book.the-turing-way.org/community-handbook/style.html) and [consistency](https://book.the-turing-way.org/community-handbook/consistency.html) recommendations as you prepare your contributions.
+Also, ensure that you read our [Contributor Guidelines](#ch-contributing) in addition to our [style](https://book.the-turing-way.org/community-handbook/style.html) and [consistency](https://book.the-turing-way.org/community-handbook/consistency.html) recommendations as you prepare your contributions.
