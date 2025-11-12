@@ -38,6 +38,13 @@ For example, you should:
 There are many ways to engage with the community!
 We maintain a set of useful resources and announcements at [the-turing-way.org](https://the-turing-way.org)
 
+### Slack
+
+We use [Slack](https://slack.the-turing-way.org) for more informal and rapid communication.
+There are channels for working groups, asking for support, and community discussion.
+There are also off-topic channels for socialising with other community members.
+Slack is also a good place to receive notifications for upcoming events.
+
 ### Newsletter
 
 You can sign up to our [newsletter](https://news.the-turing-way.org) to receive monthly project updates.
@@ -48,24 +55,17 @@ _The Turing Way_ is developed on [GitHub](https://git.the-turing-way.org).
 We use GitHub [discussion](https://github.com/orgs/the-turing-way/discussions), [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls) to organise ideas and contributions.
 [](#working-on-github) explains how to use these features.
 
-### Slack
-
-We use [Slack](https://slack.the-turing-way.org) for more informal and rapid communication.
-There are channels for working groups, asking for support, and community discussion.
-There are also off-topic channels for socialising with other community members.
-Slack is also a good place to receive notifications for upcoming events.
-
-### Email
-
-You can also contact the Community Management Working Group and the Steering Committee by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
-
 ### Coworking and Real-Time Collaboration
 
 _The Turing Way_ hosts synchronous events using video conferencing for focused collaboration.
 These include working group meetings, regular [collaboration cafes](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-collabcafe/) and week-long [Book Dash](https://book.the-turing-way.org/community-handbook/bookdash/) sprint events.
 These events can be found on the [community calendar](https://calendar.the-turing-way.org).
 
-## Contributing through GitHub
+### Email
+
+You can also contact the Community Management Working Group and the Steering Committee by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
+
+## Making Contributing Through GitHub
 
 [Git][git] is a really useful tool for version control.
 [GitHub][github] sits on top of Git and supports collaborative and distributed working.
