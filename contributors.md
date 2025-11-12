@@ -752,7 +752,7 @@ Quotes:
 
 ### Gule Saman
 
-* Role: Book Dash particpant (2024) 
+* Role: Book Dash participant (2024) 
 * GitHub: {githubuser}`gulesaman`
 * ORCID: 0000-0001-6347-9336
 
