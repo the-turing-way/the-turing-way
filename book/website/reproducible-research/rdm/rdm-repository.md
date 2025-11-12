@@ -103,6 +103,8 @@ Below follows a (non-exhaustive) list of these different types of repositories:
 - [Zenodo](https://zenodo.org/)
 - [Figshare](https://figshare.com/)
 
+For a detailed comparison of general purpose repositories including file size limits, versioning features, access control options, and other key criteria, see the [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.17315963).
+
 ### Project repositories
 
 - [Open Science Framework (OSF)](https://osf.io/)

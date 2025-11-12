@@ -35,6 +35,16 @@ A tool that can be used to avoid this is [protocols.io](https://www.protocols.io
 It provides a way to ensure that your protocols are openly available, allowing you to update them while keeping track of the changes.
 Furthermore, having your protocols online makes them easier to share, creating opportunity for contributing.
 
+(pd-overview-sharing-protocols-citable)=
+
+### Protocols as Citable Research Objects
+
+Protocols deserve formal citation because they are essential for reproducibility and represent significant intellectual contributions. Platforms like protocols.io automatically assign DOIs to protocols when you publish them, making them formally citable research outputs that can be included in your methods sections and reference lists.
+
+When publishing protocols with DOIs, you create findable and citable records that allow you to receive credit for methodological innovations. You can also link protocol DOIs to related research outputs (datasets, papers) using connection metadata - see our [chapter on linking research outputs](cm-citable-linking) for guidance on creating these connections.
+
+The benefits of making protocols FAIR and citable extend beyond credit: searchable protocols help others find proven methods, DOIs enable impact tracking, and formal citations encourage rigorous protocol documentation. For more information on how DOIs work, see our [chapter on persistent identifiers](rr-rdm-pid). Protocols.io provides [detailed guidance on protocol DOIs](https://www.protocols.io/help/dois), and Nature Protocols offers [best practices for protocol citation](https://www.nature.com/nprot/).
+
 ## Share Analysis Scripts and Research Software
 
 If you have been using a version control system with a public repository (see the {ref}`Version Control<rr-vcs>` chapter), you have already done most of the work.

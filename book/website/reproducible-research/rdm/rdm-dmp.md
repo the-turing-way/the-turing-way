@@ -76,7 +76,19 @@ If you do not select a license others will not be able to reuse your data withou
     * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
     * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
 
-You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
+You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan.
+
+(rr-rdm-dmp-citable)=
+
+## DMPs as Citable Research Objects
+
+Data Management Plans are not just internal planning documents - they can be valuable research outputs that benefit the broader research community. Publishing your DMP publicly demonstrates transparency, provides templates for others planning similar projects, and shows funders and institutions your commitment to rigorous data management.
+
+You can deposit your DMP in a repository like Zenodo or your institutional repository to receive a DOI, making it formally citable. Consider publishing your DMP at project award or start to establish your data management approach early. When preparing a public DMP, you may want to redact sensitive information such as detailed budget figures or preliminary hypotheses, while keeping the data management methodology transparent.
+
+Many funders now encourage or require DMP sharing as part of their open science policies. Publishing your DMP also allows you to create a living document - you can update it during the project and deposit new versions with new DOIs while maintaining all previous versions. This creates a traceable record of how your data management evolved throughout the research lifecycle.
+
+For more information on obtaining DOIs and making research outputs citable, see our [chapter on persistent identifiers](rr-rdm-pid) and [making research citable](cm-citable). Examples of published DMPs can be found by searching Zenodo for "data management plan" or exploring public DMPs on [DMPonline](https://dmponline.dcc.ac.uk).
 
 (rr-rdm-dmp-tools)=
 

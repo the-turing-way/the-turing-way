@@ -33,6 +33,16 @@ Preprints allow researchers to get their results out quickly and give the opport
 Some journals will not allow a paper to be submitted if it has already been posted on a preprint server as they consider it 'prior publication', however, the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them {cite}`elife2020preprints`.
 You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-info).
 
+(rr-open-access-preprints-doi)=
+
+#### Preprint DOIs
+
+Most preprint servers automatically assign DOIs (typically from DataCite) when you deposit your manuscript, making your work immediately citable even before peer review. The basic workflow is straightforward: prepare your manuscript, deposit it to a preprint server, and receive a DOI that can be shared and cited immediately.
+
+Preprint servers support versioning through version-specific DOIs, allowing you to update your preprint based on feedback while maintaining permanent records of all versions. This means each version gets its own DOI, and all remain accessible. It's important to note that a preprint DOI is separate from any future journal publication DOI - both serve as permanent, independent records of your research at different stages.
+
+For more information on how DOIs work, see our [chapter on persistent identifiers](rr-rdm-pid). ASAPbio provides [detailed guidance on citing preprints](https://asapbio.org/preprint-info/preprint-citation), and major servers like [bioRxiv](https://www.biorxiv.org/about-biorxiv) and [arXiv](https://info.arxiv.org/help/doi.html) offer documentation on their DOI assignment processes.
+
 (rr-open-access-journal-publishing)=
 ### Open Access Journal publishing
 
