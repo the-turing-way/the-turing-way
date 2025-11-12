@@ -1,4 +1,4 @@
-(cl-remote-collab-useful-resources)=
+(cl-mec-remote-collab-useful-resources)=
 # Useful resources
 
 Here are some useful guides, papers and tutorials on how to facilitate remote collaboration effectively:

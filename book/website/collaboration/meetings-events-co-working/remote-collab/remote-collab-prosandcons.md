@@ -1,4 +1,4 @@
-(cl-remote-collab-prosandcons)=
+(cl-mec-remote-collab-prosandcons)=
 # Pros and Cons
 
 It is needless to say that the same setting can not always work for everyone, which applies to remote collaboration, working, and event participation.

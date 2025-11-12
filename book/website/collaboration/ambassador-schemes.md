@@ -7,8 +7,8 @@
 | Prerequisites | Importance | Skill Level | Notes | 
 | -------- | -------- | -------- |-------- |
 | {ref}`Managing a New Community and Team <cl-new-community>`  | Helpful    | Beginner     | This chapter has lots of useful tips around managing a new community which can apply to ambassador schemes 
-| {ref}`Organising Coworking Calls or Meetings <cl-coworking>` and {ref}`Chairing Events <cl-chairing>`  | Helpful    | Beginner     | These chapters may be useful if you are planning to host events and/or co-working during an ambassador scheme
-| {ref}`Tools for Collaboration <cl-event-tools>`  | Helpful    | Beginner     | This chapter gives a useful overview of collaboration tools which can be deployed in an ambassador scheme
+| {ref}`Organising Coworking Calls or Meetings <cl-mec-coworking>` and {ref}`Chairing Events <cl-mec-chairing>`  | Helpful    | Beginner     | These chapters may be useful if you are planning to host events and/or co-working during an ambassador scheme
+| {ref}`Tools for Collaboration <cl-mec-event-tools>`  | Helpful    | Beginner     | This chapter gives a useful overview of collaboration tools which can be deployed in an ambassador scheme
 
 ```{figure} ../../figures/peer-learning.*
 ---

@@ -1,4 +1,4 @@
-(cl-organising-coding-cafe)=
+(cl-mec-organising-coding-cafe)=
 # Organising a Programming  CAFE
 
 A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
@@ -51,7 +51,7 @@ Finally, you might choose to define the focus of your programming CAFE based on 
 For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research.
 The focus on research applications will depend on the interests and needs of the community.
 
-(cl-organising-cafes-audience)=
+(cl-mec-organising-cafes-audience)=
 
 ## Choose your target audience
 

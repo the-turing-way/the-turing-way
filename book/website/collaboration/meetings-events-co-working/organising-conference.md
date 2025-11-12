@@ -1,4 +1,4 @@
-(cl-organising-conferences)=
+(cl-mec-organising-conferences)=
 # Organising a Conference
 
 *Recommendations listed in this subchapter also apply to longer collaborative events like sprints and hackathons.*
@@ -11,7 +11,7 @@ Though created for longer events, these detailed task lists can be used for plan
 
 Though we assume 'virtual first' approach for inclusive events, these recommendations have been drawn from in-person conference planning, and hence can be used for remote or in-person meetings with changes to adapt to a physical location.
 
-(cl-organising-conferences-before)=
+(cl-mec-organising-conferences-before)=
 ## Before the event
 
 The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
@@ -263,7 +263,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - If organising any location-specific social event, run that in parallel to the remote social event.
   - Book social event venue, transfer, and catering and communicate them clearly.
 
-(cl-organising-conferences-during)=
+(cl-mec-organising-conferences-during)=
 ## During the event
 
 ### Kicking off the event
@@ -292,7 +292,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Provide everyone with a way to keep track of sessions and time, for example, a shared link to [cuckoo.team](https://cuckoo.team) clock.
 - Share how participants can ask for help with troubleshooting, event information or feedback about the event.
 
-(cl-organising-conferences-after)=
+(cl-mec-organising-conferences-after)=
 ## After the event
 
 - Consider how you will ensure that everyone is able to access return transport safely if your conference is hosted in-person or hybrid.

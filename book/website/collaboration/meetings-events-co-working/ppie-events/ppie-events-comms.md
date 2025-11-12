@@ -1,10 +1,10 @@
-(cl-ppie-events-comms)=
+(cl-mec-ppie-events-comms)=
 # Planning Communications for PPIE Events
 Having a good plan on how and when to communicate around your event is always important, but it can be even more relevant when inviting people with lived experience – who might be new to research events – to your own event.
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
 It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help make your event inclusive of people with lived experience. 
-Please refer to the {ref}`Planning your Event<cl-ppie-events-planning>` section for more information about planning your event. 
+Please refer to the {ref}`Planning your Event<cl-mec-ppie-events-planning>` section for more information about planning your event. 
 You can find a checklist at the end of this page for what key pieces of information need to be included in your event's core communications.
 
 For this chapter, "Communications" refers to the information you share with potential attendees, the timings and schedule on which you communicate it, the channels you will use, and the content and information about the event. 
@@ -21,7 +21,7 @@ Depending on the scale and resources for your event, your communications plan ma
 
 By carefully planning out what you need to communicate, when, and how you ensure that the information is received and understood, your attendees will be supported in spending their effort and energy taking part in your event.
 
-(cl-ppie-events-comms-timeline)=
+(cl-mec-ppie-events-comms-timeline)=
 ## When to send Core Communications
 The timeline for planning a communications schedule for your event will vary greatly depending on the size and type of event. 
 
@@ -29,7 +29,7 @@ When planning an event attended by people with lived experience, please be mindf
 
 The more advance notice you can give to people, the more flexibility people have to organize and make arrangements, and the more likely they will be to attend your event.
 
-(cl-ppie-events-save-the-date)=
+(cl-mec-ppie-events-save-the-date)=
 ### Save the Date
 Consider how early you will be able to send out a "Save the Date" for your event and when you will be able to finalize accessibility information and a reimbursement policy. 
 
@@ -68,7 +68,7 @@ By adjusting communication to include both these requests, organizers were bette
 They were also more successful in involving underrepresented people in community events.
 ```
 
-(cl-ppie-events-dress-code)=
+(cl-mec-ppie-events-dress-code)=
 ## Communicating Dress Code and Setting Information
 For many attendees, especially those with lived experience, your event may be the first research event they have been invited to. 
 Additionally, the terms "researcher" and "scientist" may carry many stereotypes such as people wearing lab coats, tweed jackets, or formal robes. 
@@ -91,7 +91,7 @@ For example, some prominent researchers and a Nobel laureate have become known f
 By making clear expectations and supporting people with lived experience attending your event, you are also helping make your event more inclusive and welcoming to all attendees in a non-judgemental space.
 ```
 
-(cl-ppie-events-comms-website)=
+(cl-mec-ppie-events-comms-website)=
 ## Using an Event Website 
 It can be incredibly helpful to centralize information about your event in both online and offline locations.
 
@@ -112,7 +112,7 @@ You will need to work with your team to identify the best solution for your even
 ```
 
 
-(cl-ppie-events-comms-website-content)=
+(cl-mec-ppie-events-comms-website-content)=
 ### Website Content 
 Depending on your event and where you host online information, you should ensure that the digital home for your event covers this information:
 - How to attend (joining links for online content and location information for in-person events).
@@ -131,7 +131,7 @@ Consider also providing any content that is on a website in an offline format su
 This can help attendees access important event information without requiring internet access and can also help attendees who prefer to read information offline. 
 HTML and plain text is often the most accessible format, and some PDF software provides several accessibility features such as Adobe Reader which can be accessed or downloaded for free. 
 
-(cl-ppie-events-comms-speaker-information)=
+(cl-mec-ppie-events-comms-speaker-information)=
 ## Speaker Information
 All speakers need to be identified and invited with plenty of time to plan their presentations.
 
@@ -140,7 +140,7 @@ It is important to identify and surface any tacit knowledge and be clear about t
 
 Consider providing introductions and supporting speakers to ensure that they are familiar and comfortable with the presentation technology, and are prepared to communicate scientific concepts to a general audience.
 
-(cl-ppie-events-comms-speaker-diversity)=
+(cl-mec-ppie-events-comms-speaker-diversity)=
 ### Inviting Speakers with Lived Experience
 Representation is incredibly important and you may want to consider how you represent your attendees in your invited speakers and event facilitators. 
 
@@ -161,7 +161,7 @@ You may notice that both person-first and identity-first language has been used 
 How a person chooses to self-identify is entirely a personal decision, and it is the role of organizers and facilitators to support the choices of the speakers and attendees, as long as it does not contravene the event's Code of Conduct. 
 Consider instead including a statement on the inclusive and compassionate use of both person-first and identity-first language when opening your event. 
 
-(cl-ppie-events-comms-speaker-preparation)=
+(cl-mec-ppie-events-comms-speaker-preparation)=
 ### Speaker Preparation
 Depending on the type of event you are planning, you may want to consider providing guidance for speakers, moderators, and presenters on inclusive communication, and requesting that any content delivered in the session can be sent to attendees before the event. 
 
@@ -175,7 +175,7 @@ Many research talks often follow a "lecture" format where a speaker talks on a t
 Consider asking your speaker to break their talk into sections to allow for questions at different points in the session, or if your event is a lecture, consider using software to gather questions as the session progresses. 
 This can be helpful for people with lived experience of cognitive or sensory differences. 
 
-(cl-ppie-events-comms-attendees)=
+(cl-mec-ppie-events-comms-attendees)=
 ## Who will be attending
 Many people with lived experience and members of the public may experience additional anxiety due to being in an unfamiliar environment where they can often feel like their presence is tokenistic. 
 If you have planned your event well, attendees with lived experience should feel welcomed and able to engage fully in the event.
@@ -186,7 +186,7 @@ For example "researchers, clinicians, experts by experience, policymakers, and f
 Finally, consider including short introductions and background information about the speakers and session facilitators in your event information. 
 Many people with lived experience may feel more comfortable engaging in an event where they know who they are speaking with and it can be a helpful way to build rapport. 
 
-(cl-ppie-events-comms-presentation-material)=
+(cl-mec-ppie-events-comms-presentation-material)=
 ## Presentation Slides and Event Content
 Although it can be common to prepare presentation slides at the last minute, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
 
@@ -207,7 +207,7 @@ For example, if the information is sensitive and unable to be shared due to Inte
 
 Finally, if your event is a workshop that requires live input from attendees, ensure that questionnaires or any reference material that will be discussed are sent out at least two days prior to the start of the event. 
 
-(cl-ppie-events-comms-event-content)=
+(cl-mec-ppie-events-comms-event-content)=
 ### Collaborative Event Content
 If content such as presentation slides, worksheets, and other materials are able to be shared but were not sent out before the event, consider sending it as soon as possible. 
 For example, during the event which can support people without internet access, or as soon as possible at the conclusion of the event. 
@@ -223,13 +223,13 @@ Ensure that if you offer live notetaking at your event that your attendees are a
 - [HackMD](https://hackmd.io) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
 - [Google Docs](https://www.google.co.uk/docs/about/) have some accessibility features but screen reader access to editing depends on the user's operating system.
 - [Etherpad](https://etherpad.wikimedia.org/) offers full support for screen-readers, and cannot host images or hyperlinks 
-Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
+Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-mec-event-tools`.
 
 This is an example of how important it is to involve people with lived experience in your event planning. 
 By having representatives or by getting feedback from your specific community, you will be able to identify the best way to share notes and other materials with your audience. 
 It is preferable to ask more than one advisor, as the solutions used by individuals, as well as their level of experience with technology, can vary significantly. 
 
-(cl-ppie-events-comms-jargon)=
+(cl-mec-ppie-events-comms-jargon)=
 ## Avoiding Jargon
 Research fields can often rely on acronyms and jargon to communicate effectively between colleagues. 
 However, the use of jargon can make the involvement and inclusion of people with lived experience difficult. 
@@ -245,7 +245,7 @@ You may want to develop a Glossary of Terms that can be included in information 
 
 You can find online examples of Glossaries developed by research funding bodies, or review the [NHS list of jargon and acronyms](https://www.nhsconfed.org/publications/acronym-buster) for inspiration.
 
-(cl-ppie-events-comms-plain-language)=
+(cl-mec-ppie-events-comms-plain-language)=
 ### Using Plain Language
 Similar to avoiding jargon, ensure that your core communications are written using {term}`Plain Language` or are in an "easy reading" format. 
 
@@ -277,14 +277,14 @@ For example, avoid gender-specific terms and include language that recognizes di
 This can help acknowledge and respect the cultural differences of your attendees. 
 
 
-(cl-ppie-events-comms-plain-language-summaries)=
+(cl-mec-ppie-events-comms-plain-language-summaries)=
 #### Plain Language Summaries
 If your event has a large focus on research content, consider instructing presenters to write {term}`Plain Language` summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
 
 Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance, and you can view good examples of Plain Language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
 
 
-(cl-ppie-events-comms-during-event)=
+(cl-mec-ppie-events-comms-during-event)=
 ## At the Event
 Consider how you will communicate with your attendees throughout the event. 
 
@@ -306,7 +306,7 @@ For example, some attendees may need to be called on the phone to receive inform
 
 In many cases, you may need to develop a strategy for how to ensure that all attendees are able to receive event updates, and plan to use multiple different communication streams. 
 
-(cl-ppie-events-comms-after-event)=
+(cl-mec-ppie-events-comms-after-event)=
 ## After the event 
 Finally, once your event has finished, you may want to consider how you will engage with the attendees. 
 
@@ -319,11 +319,11 @@ This can be especially important if your event involves people with lived experi
 It can be demoralizing for a person with lived experience to volunteer their time and expertise in a focus group or for a grant application, and then receive no further information. 
 Instead, consider setting a date when you or the research team will send an update, regardless of whether you have completed follow-up materials or whether a proposed project receives funding. 
 
-(cl-ppie-events-comms-conclusion)=
+(cl-mec-ppie-events-comms-conclusion)=
 ## Conclusion
 By demonstrating an open channel of communication about accessibility, and by being thorough in your communications plans, you will have a successful event that incorporates the expertise and experience of people with lived experience.
 
-(cl-ppie-events-comms-key-information)=
+(cl-mec-ppie-events-comms-key-information)=
 ## Key Information Checklist
 This is not an exhaustive list of what to include in core communication, however, it can be used as a reference in addition to the information above for what to include on a website or in an information pack. 
 

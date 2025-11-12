@@ -1,4 +1,4 @@
-(cl-event-tools)=
+(cl-mec-event-tools)=
 # Tools for Collaboration
 
 Many free and commercial tools exist to improve people's experience of planning, organising, and hosting online and hybrid collaborations with teams or at events.

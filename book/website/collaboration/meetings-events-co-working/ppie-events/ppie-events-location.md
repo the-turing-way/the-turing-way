@@ -1,18 +1,18 @@
-(cl-ppie-events-location)=
+(cl-mec-ppie-events-location)=
 # Location
 This section provides guidance that is most relevant for in-person or hybrid events. 
 
 The location of your event plays a pivotal role in supporting or hindering how accessible and inclusive your event will be for people with lived experience. As with all planning, reflect on how you will get input and feedback from your attendees with lived experience in order to identify the best venue for your event.
 
 
-(cl-ppie-events-choosing-venue)=
+(cl-mec-ppie-events-choosing-venue)=
 ## Choosing a Venue
 Before deciding on a venue it is recommended to have an organizer or member of the team visit potential venues to do a walk-through and check that all rooms in the venue will work for your event’s needs. 
 This can be an essential step in ensuring that the venue will be suitable for your community and event. 
 Include people with lived experience in this process as they can have expertise in identifying barriers such as inaccessibility for wheelchair users, poor lighting, or sensory overstimulation. 
 Understanding the venue can be helpful to both check the maintenance and layout of the space, and can also help you plan your event set-up such as where to put signs directing attendees to your event.
 
-Through a {ref}`Universal Design<cl-ppie-events-planning-intro>` lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
+Through a {ref}`Universal Design<cl-mec-ppie-events-planning-intro>` lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
 
 When reviewing potential venues, consider the ventilation of airflow, lighting and acoustics, and ensure that they are appropriate for the number of attendees at your event. 
 A large hall with high ceilings may cause echoing and may not be suitable for discussion-based sessions. Similarly, a small room with limited ventilation may not be suited for long sessions with a large number of attendees. 
@@ -35,10 +35,10 @@ Please also be mindful of how your event will use the spaces provided, for examp
 If your event will be attended by people with disabilities, it is important to consider both the Universal Design suggestions made here, and also to ensure that access requirements are sufficiently met.  
 
 
-(cl-ppie-events-location-venue)=
+(cl-mec-ppie-events-location-venue)=
 ## Venue Planning
 
-(cl-ppie-events-location-signs)=
+(cl-mec-ppie-events-location-signs)=
 ### Signs and Navigation
 Consider how you will direct and guide people at the venue. If you plan to have banners that will displayed near parking and transport links that can direct attendees to the event registration, will you also have staff members who will be able to guide attendees with low vision or blindness.
 
@@ -57,14 +57,14 @@ If you are able to provide attendees with a map of the venue, make sure to ident
 Also ensure that the location of any emergency supplies such as an automated external defibrillator (AED), epi-pen, first aid kit and a member of staff who will be able to act in the event of an emergency is marked on the map. 
 Although it is not expected for staff and organizers to be medically trained, it is important to know who needs to be contacted in an emergency.
 
-(cl-ppie-events-location-setup)=
+(cl-mec-ppie-events-location-setup)=
 ## Setting up the event
 If your event is held at a venue where you are unable to alter the seating layout, avoid dedicating an entire row or completely separate seating area for these attendees. 
 Segregated seating and single areas can make attendees with lived experience feel separate from their colleagues and singled out. 
 By distributing the seating throughout a space you can create a more inclusive and welcoming environment for attendees. 
 
 
-(cl-ppie-events-location-during-event)=
+(cl-mec-ppie-events-location-during-event)=
 ## During the event
 Consider having printed maps for attendees to pick up and refer to during registration. 
 

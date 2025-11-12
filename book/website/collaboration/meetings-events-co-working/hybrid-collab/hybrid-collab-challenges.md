@@ -1,4 +1,4 @@
-(cl-hybrid-collab-challenges)=
+(cl-mec-hybrid-collab-challenges)=
 # Challenges faced during Hybrid Collaboration
 
 Collaborating in a hybrid setting presents a key challenge of establishing a consistent experience and equal level of inclusion for both online and in-person participants. 

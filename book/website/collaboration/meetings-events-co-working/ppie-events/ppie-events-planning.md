@@ -1,4 +1,4 @@
-(cl-ppie-events-planning)=
+(cl-mec-ppie-events-planning)=
 # Planning your Event
 For many projects, the involvement of individuals and communities with first-hand lived experience is critical to upholding and ensuring that the processes and outcomes developed are effective, inclusive, and equitable. 
 This can involve hosting different events that are attended by people with lived experience and other members of the public, as well as researchers, clinical staff, and other professionals. 
@@ -10,18 +10,18 @@ Their inclusion in decision-making processes is essential to achieving an access
 
 By involving your community in the event organization, it also maximizes their contribution of expertise and experience to the event's field of study.
 
-(cl-ppie-planning-prerequisites)=
+(cl-mec-ppie-planning-prerequisites)=
 **Helpful Resources within The Turing Way**
 
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| {ref}`cl-organising-conferences` | Essential | Checklists and recommendations for planning conferences |
-| {ref}`cl-organising-meetings` | Essential | Checklist and suggestions for organizing meetings |
-| {ref}`cl-event-tools` | Helpful | Suggestions for tools that are useful when planning and running events |
-| {ref}`cl-remote-collab-guidelines` | Helpful | Guidance on running remote events |
-| {ref}`cl-new-community-differences` | Helpful | Useful for thinking about how to be inclusive when collaborating with a diverse team |
+| Prerequisite                            | Importance | Notes                                                                                |
+| -------------                           | ---------- | ------                                                                               |
+| {ref}`cl-mec-organising-conferences`    | Essential  | Checklists and recommendations for planning conferences                              |
+| {ref}`cl-mec-organising-meetings`       | Essential  | Checklist and suggestions for organizing meetings                                    |
+| {ref}`cl-mec-event-tools`               | Helpful    | Suggestions for tools that are useful when planning and running events               |
+| {ref}`cl-mec-remote-collab-guidelines`  | Helpful    | Guidance on running remote events                                                    |
+| {ref}`cl-new-community-differences` | Helpful    | Useful for thinking about how to be inclusive when collaborating with a diverse team |
 
-(cl-ppie-events-planning-intro)=
+(cl-mec-ppie-events-planning-intro)=
 ## Accessibility and Inclusion: What to focus on
 When designing and organising an event, it can be easy to focus on accessibility requirements at the venue, and overlook the steps needed to make an event inclusive and enjoyable for all participants. 
 
@@ -46,14 +46,14 @@ At the relevant places, we have linked to the existing “Accessible Events” c
 If your attendees have accessibility requirements, please ensure that those are planned for and met, in addition to taking a universal design approach.
 
 
-(cl-ppie-events-planning-logistics)=
+(cl-mec-ppie-events-planning-logistics)=
 ## Planning - Logistics 
 Planning an event involves many stages that can vary in length depending on the size and resources required. 
 This section addresses some suggested areas for consideration for events that include people with lived experience as attendees. 
 
 At each stage, your planning documents should reflect an emphasis on accessible and inclusive universal design. 
 
-(cl-ppie-events-initial-planning)=
+(cl-mec-ppie-events-initial-planning)=
 ## Initial Planning 
 An event that will be attended by people with lived experience may be different to events planned for an audience consisting only of researchers and research staff. 
 
@@ -102,7 +102,7 @@ These practices should be discussed and defined by the expected attendees, inclu
 Accessibility practices to consider include those for cognitive, sensory, and physical disabilities, communication modes, scheduling breaks and allowing for participation from multiple time zones, use of plain language, as well as additional practices related to your specific event.
 
 
-(cl-ppie-events-power-dynamics)=
+(cl-mec-ppie-events-power-dynamics)=
 ### Addressing Power Dynamics
 For events where attendees are members of the public and non-researchers, acknowledging and addressing the power and privilege differences between the members of the public and researchers will be an important part of creating an inclusive environment where the attendees with lived experience can engage equitably at an event.
 
@@ -149,7 +149,7 @@ The equal representation of the attendees by the speakers and facilitators allow
 Finally, as organizers, it is important to understand the power and responsibility you have in deciding how inclusive and accessible your event will be. 
 It is important to acknowledge how your choices may impact the experience and inclusion of people with lived experience at your event.
 
-(cl-ppie-events-timeline)=
+(cl-mec-ppie-events-timeline)=
 ### Timeline and Timing of Event 
 After identifying the "why" and "who" for your event, it is important to plan "when" the event will take place, and to develop a timeline for when tasks need to be completed in order to run your event. 
 
@@ -169,7 +169,7 @@ When planning the dates for the event, it is also useful to consider the potenti
 If your event takes place in-person, try to choose a date and start time that takes into account how long your attendees will need to travel. 
 For example, having your event start at 10:30 a.m. allows for inter-city travel the morning of the event. 
 
-(cl-ppie-events-timeline-planning)=
+(cl-mec-ppie-events-timeline-planning)=
 #### Creating a Planning Timeline
 Your planning timeline will vary greatly based on the scale of your event. 
 We have highlighted areas where your timeline should take into account any considerations that would be specifically supportive of people with lived experience.
@@ -192,7 +192,7 @@ People with the lived experience of multiple long-term conditions may find trave
 By supporting the speaker to speak remotely, they were able to give an engaging and thoughtful keynote address without the burden of having to travel. 
 `````
 
-(cl-ppie-events-planning-budget)=
+(cl-mec-ppie-events-planning-budget)=
 ### Budget
 Attending and organizing events can place a large financial strain on all parties involved, and can cause the unintentional exclusion of many people with lived experience who may be engaging in projects as a volunteer. 
 
@@ -205,11 +205,11 @@ These costs can be considered on two levels: event-wide and individual.
 Event-wide costs are things like live captioning and can be accessibility practices that will be implemented regardless of who attends. 
 Examples of individual-level costs are provided in the sections below. 
 
-(cl-ppie-events-planning-tickets)=
+(cl-mec-ppie-events-planning-tickets)=
 #### Ticket Pricing
 If your event is ticketed, ticket prices should be set thoughtfully and may consider having different tiers of pricing in addition to setting aside low-cost or complimentary tickets for carers and those experiencing financial hardship.
 
-(cl-ppie-events-planning-honorarium)=
+(cl-mec-ppie-events-planning-honorarium)=
 #### Honorarium and Bursaries 
 Depending on the size of the budget and structure, creating a policy and the budget for an Accessibility Fund can help to make your event inclusive for all participants. 
 This is a fund that can be applied to cover additional costs encountered by people with lived experience attending and engaging in your event. 
@@ -251,7 +251,7 @@ These community members receive an honorarium for their participation in focus g
 While this example was specific to the needs of that community and may not be a requirement for all types of events, it highlights the additional considerations such as the budget, communication, and the data protection/privacy requirements in order for that would be needed for a member of staff to support attendees with completing the forms. 
 ```
 
-(cl-ppie-events-planning-staffing)=
+(cl-mec-ppie-events-planning-staffing)=
 ### Personnel 
 Planning for who will be facilitating and staffing the event will help to identify what inclusion and accessibility practices you can implement to support the participation of people with lived experience.
 
@@ -269,10 +269,10 @@ Large-scale conferences may also consider dedicating a member of staff for each 
 
 Although not all events will require a full team of support staff, it is useful to consider how organizers will facilitate the inclusion of people with lived experience on the day of the event. 
 
-(cl-ppie-events-planning-before-event)=
+(cl-mec-ppie-events-planning-before-event)=
 ## Before the Event (a few weeks before)
 
-(cl-ppie-events-planning-speaker-preparation)=
+(cl-mec-ppie-events-planning-speaker-preparation)=
 ### Speakers and Moderators 
 Consider how you will welcome speakers, moderators, and participants and familiarize them, if needed,  with the technology your event will use. 
 Many of the technologies used every day by some people have never been used by others, and many technologies are inaccessible to people with sensory disabilities. 
@@ -286,10 +286,10 @@ An added benefit of having a practice session is to review the material that is 
 It can be helpful to find any spelling mistakes or formatting issues, or to support speakers in changing phrasing and language that may be exclusionary. 
 ```
 
-(cl-ppie-events-planning-during-event)=
+(cl-mec-ppie-events-planning-during-event)=
 ## At the Event
 
-(cl-ppie-events-planning-during-event-speakers)=
+(cl-mec-ppie-events-planning-during-event-speakers)=
 ### Speakers and Moderators
 If your event features speakers or presentations from members of the public and people with lived experience, you should consider how you will support them before their sessions.
 For example, some speakers may benefit from having time to prepare in a "Green Room" or quiet room. 
@@ -302,7 +302,7 @@ For example, hosting a practice session or walk through of the technology and ve
 If your event overlaps with a meal time, consider whether participants' ability to eat or take a break will be impacted. 
 If your event is in-person, try to communicate with catering and ensure that there is a meal or alternative food is sourced and held aside for them. 
 
-(cl-ppie-events-planning-during-event-tech)=
+(cl-mec-ppie-events-planning-during-event-tech)=
 ### Technology 
 Depending on your event and platform, it may be helpful to organize "backup" technology on the day of the event.
 For example, provide accessible electronic copies and printouts instead of relying solely on online technology to communicate important information. 
@@ -311,7 +311,7 @@ Many people do not carry around a smartphone or laptop and may have not used str
 By recognizing that technology can create barriers for many people and preparing appropriately, you can work to ensure anyone who is interacting with this technology feels more comfortable using it on the day. 
 
 
-(cl-ppie-events-planning-during-event-staffing)=
+(cl-mec-ppie-events-planning-during-event-staffing)=
 ### Personnel 
 At the event, it is important to have clear communication and identification of staff and organizers especially if their roles are to support attendees. 
 
@@ -325,7 +325,7 @@ This may not be feasible for all events and may be more important for in-person 
 Inclusion can be planned for, but it also needs implementation and support to make it happen.
 
 
-(cl-ppie-events-planning-post-event)=
+(cl-mec-ppie-events-planning-post-event)=
 ## After the Event
 Consider if you are able to make content from the event accessible to attendees, or open to a wider audience, after the event. 
 

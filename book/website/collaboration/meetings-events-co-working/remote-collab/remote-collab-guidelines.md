@@ -1,4 +1,4 @@
-(cl-remote-collab-guidelines)=
+(cl-mec-remote-collab-guidelines)=
 # Guidelines for Remote Collaboration
 
 In this chapter, guidelines are a set of recommendations or protocols that can create a common ground for everyone to communicate and exchange information within a distributed team for effective and successful collaboration.
@@ -14,7 +14,7 @@ This should provide details regarding:
 - How participants can gain access to these resources and tool.
 - Ways to improve visibility and accessibility to these tools.
 
-For a list of collaborative tools check out {ref}`cl-event-tools`.
+For a list of collaborative tools check out {ref}`cl-mec-event-tools`.
 
 ## Different ways for informal interactions
 <!---Add details and more points point to other chapters for details--->
@@ -22,7 +22,7 @@ Informal interactions are instrumental for ensuring full engagement of your part
 - Encouraging casual team conversations between meetings by setting some pre-planned social discussions/interaction plans.
 - Helping people from different time zones to catch up and build a sense of belonging (for example, by shared notes or summary emails).
 
-Check out an example of informal coffee chats in {ref}`cl-informal-chats`.
+Check out an example of informal coffee chats in {ref}`cl-mec-informal-chats`.
 
 ## Sharing data, resources and documentation
 <!---Add details and more points point to other chapters for details--->
@@ -36,7 +36,7 @@ These recommendations should include:
 - Locations of different documents from the organisation that are easy to find.
 - Helpdesk or support for setup and troubleshooting.
 
-We have provided related recommendations in {ref}`cl-event-tools` and {ref}`cl-organising-meetings`.
+We have provided related recommendations in {ref}`cl-mec-event-tools` and {ref}`cl-mec-organising-meetings`.
 
 ## Planning meetings, scheduling, and agenda
 <!---Add details and more points point to other chapters for details--->
@@ -48,7 +48,7 @@ Establish key tasks and milestones at the beginning of the project to determine 
 - If a team is big, split into sub-project groups to create a stronger network.
 - Rotating schedule for chairs and note-takers from the team.
 
-We have provided related recommendations in {ref}`cl-event-tools` and {ref}`cl-organising-meetings`.
+We have provided related recommendations in {ref}`cl-mec-event-tools` and {ref}`cl-mec-organising-meetings`.
 
 ## Etiquette for online meetings and communications
 <!---Add details and more points point to other chapters for details--->
@@ -68,7 +68,7 @@ This includes details on how they can contribute to an ongoing discussion (raise
 - Aim to maintain flexibility and reduce formality
   - This is particularly useful for people who are working from home and will have their family members and pets around.
 
-We have provided related recommendations for organisers in {ref}`cl-organising-meetings` and participants in {ref}`cl-event-participation`.
+We have provided related recommendations for organisers in {ref}`cl-mec-organising-meetings` and participants in {ref}`cl-mec-event-participation`.
 
 ## Follow up emails and communications for creating accountability
 <!---Add details and more points point to other chapters for details--->
@@ -84,7 +84,7 @@ Following up with the participants after the meeting is a good way to both share
 - Create opportunities for skill-building and training beyond work.
 - Schedule informal meetings like virtual coffees and online games.
 
-We have provided more recommendations in {ref}`cl-remote-collab-team`.
+We have provided more recommendations in {ref}`cl-mec-remote-collab-team`.
 
 ## Further reading
 
