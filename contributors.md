@@ -614,7 +614,7 @@ highlights: |
 <!---D--->
 ## D
 
-:::{profile} Garside
+:::{profile} Danny Garside
 ---
 roles: |
     Core Member, Infrastructure Co-lead (2022-Present)
@@ -1103,7 +1103,7 @@ quote: |
 <!---K--->
 ## K
 
-:::{profile} Westerling
+:::{profile} Kalle Westerling
 ---
 roles: |
     Book Dash Participant (2023)
@@ -1122,7 +1122,11 @@ highlights: |
     My role also included a lot of cheering on from the sidelines, a supportive effort to encourage the closure of more pull requests... I love to see a closed PR!!
     Using a Miro board to restructure an entire section of The Turing Way was a big highlight too. It provided an opportunity to collaborate hands-on with colleagues I hadn't worked with closely before. It was not only productive but also brought, for me, a sense of teamwork and community.
 quote: |
-    I had an absolutely exhilarating time participating in The Turing Way Book Dash! It was a hands-on, engaging experience where I learned how to embed images into the pages, witnessing the book evolve in real-time with the content we were adding. What made the event stand out was its warm, inviting atmosphere — it transformed my usual solitary days spent in my home-office into a vibrant hub of collaboration. I felt like I was sharing my space with this amazing global community of brilliant minds. It was an unforgettable experience that not only enhanced my technical skills but also provided a sense of connection and camaraderie that I will remember especially, from this week together.
+    I had an absolutely exhilarating time participating in The Turing Way Book Dash!
+    It was a hands-on, engaging experience where I learned how to embed images into the pages, witnessing the book evolve in real-time with the content we were adding.
+    What made the event stand out was its warm, inviting atmosphere — it transformed my usual solitary days spent in my home-office into a vibrant hub of collaboration.
+    I felt like I was sharing my space with this amazing global community of brilliant minds.
+    It was an unforgettable experience that not only enhanced my technical skills but also provided a sense of connection and camaraderie that I will remember especially, from this week together.
 ---
 :::
 
@@ -1135,7 +1139,8 @@ orcid: 0000-0002-9073-6323
 bio: |
     I am a research data scientist at the Alan Turing Institute. My current work focuses on using machine learning for biodiversity monitoring, particularly in studying moth populations. Alongside my research and software engineering work, I am committed to fostering best practices in diversity and inclusive hiring within research technical professions.
 highlights: |
-    Building connections with participants from varied expertise and interests allowed me to learn from their experiences and engage in meaningful discussions on accessibility and inclusivity. Additionally, the Scriberia session provided a unique way to visualize our ideas, showing how different perspectives could bring new dimensions to our work.
+    Building connections with participants from varied expertise and interests allowed me to learn from their experiences and engage in meaningful discussions on accessibility and inclusivity.
+    Additionally, the Scriberia session provided a unique way to visualize our ideas, showing how different perspectives could bring new dimensions to our work.
 ---
 :::
 
@@ -1157,7 +1162,7 @@ highlights: |
 <!---L--->
 ## L
 
-:::{profile} Acion
+:::{profile} Laura Acion
 ---
 roles: |
     Book Dash Participant (2020)
@@ -1233,7 +1238,7 @@ highlights: |
 ---
 :::
 
-:::{profile} Bowler
+:::{profile} Louise Bowler
 ---
 roles: |
     Project Delivery Team Member (2019-2020);
@@ -1667,7 +1672,11 @@ orcid: 0000-0003-3398-4272
 bio: |
     I am a Data Wrangler based at The Alan Turing Institute. See my profile [here](https://www.turing.ac.uk/people/researchers/rachael-stickland) for more information.
 highlights: |
-    Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
+    Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_.
+    I am new to this community but felt welcomed and included.
+    Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others.
+    My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general.
+    I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
 ---
 :::
 
@@ -1887,7 +1896,21 @@ more: |
 ---
 twitter: mrtimpowell
 bio: |
-    Tim is an Astrophysicist turned Research Software Engineer, who has always had a passion for sharing science. From attending public lectures and getting involved as an attendee at outreach events based around Cambridge as a teenager to building a miniature supercomputer, Tim has a long history of outreach activities. Whilst at university Tim became a STEM Ambassador with the Physics Society, where he used the tools provided to introduce groups of children to scientific concepts. Tim also participated in 4 [British Science Weeks](https://www.britishscienceweek.org/) showcasing many different aspects of Physics and Remote Sensing. When Tim joined STFC's Hartree Centre he built a miniature supercomputer, called [HPiC](https://blog.hartree.ac.uk/wordpress/?p=361). HPiC is the Hartree Centre’s Raspberry Pi Cluster. It was created to demonstrate supercomputing techniques and show some of the expertise of the Hartree Centre. HPiC has been showcased at numerous [technical conferences](https://twitter.com/MrTimPowell/status/1062098668403245058) and [public outreach events](https://twitter.com/HartreeCentre/status/1055029464592273408) not just across the UK but also internationally. As well as presenting technical posters and talks at various conferences Tim also enjoys taking his experience of outreach and presenting what he has learnt and how that is applicable to teaching. Tim presented at the ISC 2019 HPC Education and Training for Emerging Technologies Workshop and was on [SIGHPC](https://sighpceducation.acm.org/) Best Practices for HPC Training and Education Panel at Supercomputing 2019. One of Tim's proudest projects  was collaborating with Benjamin Mummery on a LEGO version of the Hartree Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963)!
+    Tim is an Astrophysicist turned Research Software Engineer, who has always had a passion for sharing science.
+    From attending public lectures and getting involved as an attendee at outreach events based around Cambridge as a teenager to building a miniature supercomputer, Tim has a long history of outreach activities.
+
+    Whilst at university Tim became a STEM Ambassador with the Physics Society, where he used the tools provided to introduce groups of children to scientific concepts.
+    Tim also participated in 4 [British Science Weeks](https://www.britishscienceweek.org/) showcasing many different aspects of Physics and Remote Sensing.
+
+    When Tim joined STFC's Hartree Centre he built a miniature supercomputer, called [HPiC](https://blog.hartree.ac.uk/wordpress/?p=361).
+    HPiC is the Hartree Centre’s Raspberry Pi Cluster.
+    It was created to demonstrate supercomputing techniques and show some of the expertise of the Hartree Centre.
+    HPiC has been showcased at numerous [technical conferences](https://twitter.com/MrTimPowell/status/1062098668403245058) and [public outreach events](https://twitter.com/HartreeCentre/status/1055029464592273408) not just across the UK but also internationally.
+
+    As well as presenting technical posters and talks at various conferences Tim also enjoys taking his experience of outreach and presenting what he has learnt and how that is applicable to teaching.
+    Tim presented at the ISC 2019 HPC Education and Training for Emerging Technologies Workshop and was on [SIGHPC](https://sighpceducation.acm.org/) Best Practices for HPC Training and Education Panel at Supercomputing 2019.
+
+    One of Tim's proudest projects  was collaborating with Benjamin Mummery on a LEGO version of the Hartree Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963)!
 highlights: |
     I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 ---
@@ -1981,12 +2004,19 @@ roles: |
     Turing-Roche Community Scholar (October 2023-2024)
 github: Zeena-Shawa
 bio: |
-    Zeena Shawa is PhD student in the i4Health Medical Imaging CDT programme at University College London. She is part of the Progression of Neurodegenerative Diseases (POND) Group in the Centre for Medical Image Computing (CMIC), supervised by Dr. Neil Oxtoby and Dr. Rimona Weil. Her PhD project aims at understanding Parkinson’s disease progression using machine learning approaches developed within POND, with a focus on medical imaging data. The insights obtained from this can aid in understanding disease mechanisms, identifying biomarkers associated with disease progression and thus potentially providing targets for therapeutic development.
+    Zeena Shawa is PhD student in the i4Health Medical Imaging CDT programme at University College London.
+    She is part of the Progression of Neurodegenerative Diseases (POND) Group in the Centre for Medical Image Computing (CMIC), supervised by Dr. Neil Oxtoby and Dr. Rimona Weil.
+    Her PhD project aims at understanding Parkinson’s disease progression using machine learning approaches developed within POND, with a focus on medical imaging data.
+    The insights obtained from this can aid in understanding disease mechanisms, identifying biomarkers associated with disease progression and thus potentially providing targets for therapeutic development.
 
-    Zeena was an Enrichment Student at the Alan Turing Institute, where she first engaged with the Turing-Roche Partnership and started looking at imputing missing data. She was also part of the 2023/2024 Turing-Roche Partnership Community Scholar Scheme.
+    Zeena was an Enrichment Student at the Alan Turing Institute, where she first engaged with the Turing-Roche Partnership and started looking at imputing missing data.
+    She was also part of the 2023/2024 Turing-Roche Partnership Community Scholar Scheme.
 highlights: |
-    The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missing-data` Chapter in the Turing Way handbook, consolidating what I learned during the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) (and more) with current research of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).  Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets.
-    A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session. It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).
+    The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missing-data` Chapter in the Turing Way handbook, consolidating what I learned during the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) (and more) with current research of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
+    Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets.
+
+    A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session.
+    It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).
 ---
 :::
 
