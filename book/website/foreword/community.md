@@ -13,16 +13,6 @@ The book itself has 6000+ monthly users worldwide (a total of 87,000 unique user
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
 Contributors' details are available in the [Contributors Records](#contributors-record), and the [project reports](https://github.com/the-turing-way/project-management/tree/main/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
-(fw-community-delivery-team)=
-## Project Delivery Team
-
-Since 2019, the project has received funding for several roles at The Alan Turing Institute
-who provide ongoing support for the community management and delivery of the project goals.
-
-The project delivery team is constituted by these funded roles, as listed in {ref}`fw-governance-roles`.
-The project delivery team is responsible to engage and involve community members across a range of activities that contribute to the development, 
-maintenance and sustainability of _The Turing Way_.
-
 (fw-community-book-roles)=
 ## Book-Related Roles
 
@@ -36,6 +26,16 @@ Often, reviewers are also invited from beyond the community to ensure new member
 * **Mentors**: Mentors guide less experienced contributors, offering advice and support to help them clarify concepts, unpack their thoughts and ideas, and provide direction to ensure that new members can effectively participate in the development of _The Turing Way_ book.
 * **Translators**: Contributors work the the Translation and Localisation team in translating any part of a chapter in the book as described in the {ref}`ch-translation`.
 * **Ad-hoc advisors/consultants**: Individuals who are invited by our community members to ask for guidance and expertise in the context of their work in the book, community, or the overall project.
+
+(fw-community-delivery-team)=
+## Project Delivery Team (Legacy)
+
+Between 2019 and June 2025, the project had received funding for several roles at The Alan Turing Institute
+who provide ongoing support for the community management and delivery of the project goals.
+
+The project delivery team is constituted by the funded roles.
+The project delivery responsibility has since been taken on by the Steering Committee and various Working Groups to engage and involve community members across a range of activities that contribute to the development, 
+maintenance and sustainability of _The Turing Way_.
 
 ### Mentored-Contributions
 
