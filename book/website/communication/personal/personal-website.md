@@ -93,6 +93,23 @@ presentations using a combination of markdown and code. It supports multiple
 programming languages, including R, Python, and Julia, making it a versatile tool
 for researchers across various disciplines.
 
+## Why use Quarto for academic websites?
+Using Quarto for building academic websites offers several advantages:
+* **Ease of Use**: Quarto's markdown-based syntax is user-friendly, allowing researchers to create content without extensive web development knowledge.
+* **Integration with Code**: Quarto seamlessly integrates code and data, enabling researchers to include dynamic visualizations, analyses, and interactive elements directly within their websites. It allows you to mix text, code, and outputs in a single document. Similar to R Markdown, you can create documents that combine narrative text with code chunks that generate figures, tables, and other outputs.
+* **Integraton with Latex**: Quarto has robust support for LaTeX, making it easy to include mathematical equations and scientific notation in your website content.
+* **Customizability**: Quarto provides a range of themes and templates. This allows academics to customize their website. 
+* **Reproducibility**: Quarto promotes reproducible research by allowing researchers to document their workflows and analyses alongside their content.
+* **Open Source**: Quarto is open-source software, which means it is freely available and can be modified to suit individual needs.
+
+## Getting Started with Quarto
+To get started with Quarto, follow these steps:
+1. **Install Quarto**: Download and install Quarto from the official website (https://quarto.org/).
+2. Choose your preferred IDE (e.g., RStudio, VS Code) for editing Quarto files. We recommend RStudio for R users and VS Code for Python and Julia users. This tutorial will use VS Code.
+3. **Install VS Code**: Download and install Visual Studio Code from the official website (https://code.visualstudio.com/).
+4. **Install Quarto Extension**: In VS Code, go to the Extensions view (Ctrl+Shift+X), search for "Quarto", and install the Quarto extension.
+5. **Set Up Git and GitHub**: If you plan to host your website on GitHub Pages, ensure you have Git installed on your computer and create a GitHub account if you don't have one already.
+
 
 
 
