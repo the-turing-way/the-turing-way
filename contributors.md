@@ -10,6 +10,10 @@ Individual contributors are welcome to provide their details under the section "
 Organisational support and collaborations are listed in the section, "Collaborating Organisations".
 Each organisation's name and details will be listed separately followed by the contribution details of each contributor from that organisation.
 
+:::{hint}
+The community handbook [explains how to use the profile directive to add a profile](#ch-style-roles-profile).
+:::
+
 Please see the [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 (contributors-record-highlights)=
@@ -29,7 +33,7 @@ The fields are optional, so leave any out that don't apply.
 roles: >
     semi-colon seperated list;
     of your roles;
-    in _The Turing Way_
+    in the community
 github: <GitHub id without leading @>
 orcid: <orcid>
 mastodon: <Mastodon id without leading @, like person@mastodon.social>
