@@ -51,8 +51,6 @@ quote: |
 
 *The Turing Way* Project Delivery Staff are project and community members who work on the project in a paid capacity such as through employment.
 
-### Malvika Sharan
-
 :::{profile} Malvika Sharan
 ---
 roles: |
@@ -74,8 +72,6 @@ highlights: |
     I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
 ---
 :::
-
-### Arielle Bennett
 
 :::{profile} Arielle Bennett
 ---
@@ -104,8 +100,6 @@ quote: |
 ---
 :::
 
-### Anne Lee Steele
-
 :::{profile} Anne Lee Steele
 ---
 roles: |
@@ -123,8 +117,6 @@ highlights: |
     After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, and project sustainability, involving more perspectives from my fields (of anthropology and sociology!), and tying the project more closely to other open communities that work on issues of ethics, diversity, and inclusion through data-driven practices.
 ---
 :::
-
-### Léllé Demertzi
 
 :::{profile} Léllé Demertzi
 ---
@@ -147,8 +139,6 @@ quote: |
 ## Founder
 
 The project was founded in 2019 by Kirstie Whitaker at The Alan Turing Institute.
-
-### Kirstie Whitaker
 
 :::{profile} Kirstie Whitaker
 ---
@@ -179,8 +169,6 @@ more: |
 <!---A--->
 ## A
 
-### Achintya Rao
-
 :::{profile} Achintya Rao
 ---
 roles: |
@@ -199,9 +187,6 @@ quote: |
 ---
 :::
 
-
-### Aditi Dutta
-
 :::{profile} Aditi Dutta
 ---
 roles: |
@@ -219,9 +204,6 @@ highlights: |
 ---
 :::
 
-
-### Aida Mehonic
-
 :::{profile} Aida Mehonic
 ---
 roles: |
@@ -236,8 +218,6 @@ more: |
     I'm passionate about making research outputs relevant to a wide range of communities.
 ---
 :::
-
-### Alejandro Coca
 
 :::{profile} Alejandro Coca
 ---
@@ -259,8 +239,6 @@ quote: |
 ---
 :::
 
-### Alexander Morley
-
 :::{profile} Alexander Morley
 ---
 roles: |
@@ -281,8 +259,6 @@ more: |
 :::
 
 
-### Alexandra Araujo Alvarez
-
 :::{profile} Alexandra Araujo Alvarez
 ---
 roles: |
@@ -302,8 +278,6 @@ highlights: |
 ---
 :::
 
-### Aman Goel
-
 :::{profile} Aman Goel
 ---
 roles: |
@@ -316,8 +290,6 @@ highlights: |
     It was my first Book Dash and it was a wonderful experience. I especially loved the Community Share-out and the session with the Scriberia artist. I loved meeting so many new and interesting people and becoming a part of the community.
 ---
 :::
-
-### Abasi-amefon Obot Affia
 
 :::{profile} Abasi-amefon Obot Affia
 ---
@@ -335,8 +307,6 @@ more: |
 ---
 :::
 
-### Andrea Chi Zhang
-
 :::{profile} Andrea Chi Zhang
 ---
 roles: |
@@ -352,8 +322,6 @@ highlights: |
 ---
 :::
 
-### Andrea Sanchez Tapia
-
 :::{profile} Andrea Sanchez Tapia
 ---
 roles: |
@@ -367,8 +335,6 @@ highlights: |
     I joined forces with Batool and Alejandro to help rethink the workflows for deploying translated versions of _The Turing Way_ and working with them was amazing! The task is a little bit daunting, but we are on the right way. I was thinking mostly about what to do with the Spanish translation branch (Spoiler: don't rebase!) and checking the workflow and requirements when new language teams start to translate a new language in Crowdin, using Portuguese as an example. I loved the illustration session, the two thematic conversations I could join, and the abundant note-taking.
 ---
 :::
-
-### Andreea Avramescu
 
 :::{profile} Andreea Avramescu
 ---
@@ -384,8 +350,6 @@ quote: |
     The 2021 May Book Dash was an exciting and inspiring opportunity. The events throughout the week were extremely well organised and the inclusive environment was very welcoming.
 ---
 :::
-
-### Ankur Kumar
 
 :::{profile} Ankur Kumar
 ---
@@ -411,8 +375,6 @@ quote: |
 ---
 :::
 
-### Anna Krystalli
-
 :::{profile} Anna Krystalli
 ---
 roles: |
@@ -432,8 +394,6 @@ more: |
     It’s an opportunity to set standards and harness the power of convention, especially with ECRs that have an opportunity to set up good practices from the start! Indeed, I hope the Turing Way will very much become the “Sheffield Way” too!
 ---
 :::
-
-### Anne Fouilloux
 
 :::{profile} Anne Fouilloux
 ---
@@ -458,8 +418,6 @@ quote: |
 ---
 :::
 
-### Arya A.
-
 :::{profile} Arya A.
 ---
 roles: |
@@ -478,8 +436,6 @@ more: |
 
 <!---B--->
 ## B
-
-### Batool Almarzouq
 
 :::{profile} Batool Almarzouq
 ---
@@ -502,8 +458,6 @@ quote: |
 ---
 :::
 
-### Becki Green
-
 :::{profile} Becki Green
 ---
 roles: |
@@ -518,8 +472,6 @@ quote: |
     A welcoming and enriching environment. Collaborating with others was valuable and has provided me with tools to apply to my research and share with others.
 ---
 :::
-
-### Becky Arnold
 
 :::{profile} Becky Arnold
 ---
@@ -542,8 +494,6 @@ more: |
 ---
 :::
 
-### Benjamin Mummery
-
 :::{profile} Benjamin Mummery
 ---
 twitter: BenjaminMummery
@@ -553,8 +503,6 @@ highlights: |
     I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 ---
 :::
-
-### Brigitta Sipőcz
 
 :::{profile} Brigitta Sipőcz
 ---
@@ -574,8 +522,6 @@ bio: |
 
 <!---C--->
 ## C
-
-### Camila Rangel Smith
 
 :::{profile} Camila Rangel Smith
 ---
@@ -603,8 +549,6 @@ more: |
 ---
 :::
 
-### Carlos Martinez Oritz
-
 :::{profile} Carlos Martinez Oritz
 ---
 roles: |
@@ -623,8 +567,6 @@ more: |
 ---
 :::
 
-### Ceilidh Welsh
-
 :::{profile} Ceilidh Welsh
 ---
 roles: |
@@ -641,8 +583,6 @@ highlights: |
 ---
 :::
 
-### Christopher Erdmann
-
 :::{profile} Christopher Erdmann
 ---
 roles: |
@@ -655,8 +595,6 @@ highlights: |
     The Turing Way Handbook is an invaluable resource for researchers worldwide looking to learn more about reproducible, ethical and collaborative data science. I am looking forward to our collaboration with The Turing Way to learn from their community, help further the Handbook as a community resource, and leverage it in our own endeavours at the SciLifeLab (Data Centre).
 ---
 :::
-
-### Christopher Burr
 
 :::{profile} Christopher Burr
 ---
@@ -675,8 +613,6 @@ highlights: |
 
 <!---D--->
 ## D
-
-### Danny Garside
 
 :::{profile} Garside
 ---
@@ -698,8 +634,6 @@ highlights: |
     - In 2023 I'm focusing on the more organisation-level infrastructure ([what tools do we use and why](https://github.com/the-turing-way/the-turing-way/issues/3218)?), and as part of that, I was proud to set up [the Turing Way's mastodon account](https://fosstodon.org/@turingway/108278354199514905).
 ---
 :::
-
-### Denise Bianco
 
 :::{profile} Denise Bianco
 ---
@@ -725,8 +659,6 @@ highlights: |
 <!---E--->
 ## E
 
-### Elisa Rodenburg
-
 :::{profile} Elisa Rodenburg
 ---
 roles: |
@@ -743,8 +675,6 @@ quote: |
     The Turing Way is not only a guidebook but also a lovely community of creative, talented and welcoming professionals. It was great to have the chance to join the Book Dash and contribute to the project. I hope to be back the next time!
 ---
 :::
-
-### Emma Karoune
 
 :::{profile} Emma Karoune
 ---
@@ -771,8 +701,6 @@ quote: |
 ---
 :::
 
-### Eric Daub
-
 :::{profile} Eric Daub
 ---
 github: edaub
@@ -782,8 +710,6 @@ highlights: |
     I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter on scientific outreach.
 ---
 :::
-
-### Esther Plomp
 
 :::{profile} Esther Plomp
 ---
@@ -820,8 +746,6 @@ quote: |
 <!---G--->
 ## G
 
-### Gift "Gigi" Kenneth
-
 :::{profile} Gift "Gigi" Kenneth
 ---
 roles: |
@@ -836,8 +760,6 @@ quote: |
     Working on open projects like this helps put into perspective the importance of having diverse opinions and experiences represented in our tools, especially data & AI-driven ones. I really enjoyed collaborating on this and learned a lot!
 ---
 :::
-
-### Goodnews Sandy
 
 :::{profile} Goodnews Sandy
 ---
@@ -856,8 +778,6 @@ quote: |
 ---
 :::
 
-### Giulia Tomba
-
 :::{profile} Giulia Tomba
 ---
 roles: |
@@ -872,8 +792,6 @@ quote: |
     Thanks to the organisers for putting together such a relaxed and welcoming event!
 ---
 :::
-
-### Gule Saman
 
 :::{profile} Gule Saman
 ---
@@ -899,8 +817,6 @@ quote: |
 <!---H--->
 ## H
 
-### Hannah Nicholls
-
 :::{profile} Hannah Nicholls
 ---
 roles: |
@@ -916,8 +832,6 @@ quote: |
 ---
 :::
 
-
-### Heidi Seibold
 
 :::{profile} Heidi Seibold
 ---
@@ -970,8 +884,6 @@ more: |
 <!---I--->
 ## I
 
-### Iman Al Hasani
-
 :::{profile} Iman Al Hasani
 ---
 roles: |
@@ -993,8 +905,6 @@ quote: |
 ---
 :::
 
-### Irene K
-
 :::{profile} Irene K
 ---
 roles: |
@@ -1009,8 +919,6 @@ highlights: |
     I really hope that the work we've done here to consolidate all these ethical guidelines will help make practising data science with a strong ethical basis and clear moral conscience more easy and accessible.
 ---
 :::
-
-### Irma Hafidz
 
 :::{profile} Irma Hafidz
 ---
@@ -1030,8 +938,6 @@ more: |
 ---
 :::
 
-### Isabel Birds
-
 :::{profile} Isabel Birds
 ---
 github: IsabelBirds
@@ -1045,8 +951,6 @@ highlights: |
     The resource aims to make starting a computational project less overwhelming by curating links to tutorials and online textbooks. Skills such as file management or asking for help effectively are also highlighted, along with entertaining things like podcasts as a reminder that research can be fun!
 ---
 :::
-
-### Ismael Kherroubi Garcia
 
 :::{profile} Ismael Kherroubi Garcia
 ---
@@ -1073,8 +977,6 @@ more: |
 <!---J--->
 ## J
 
-### Jennifer Ding
-
 :::{profile} Jennifer Ding
 ---
 roles: |
@@ -1089,8 +991,6 @@ highlights: |
     Working collaboratively with Book Dashers and artists from different countries! Contributing to a translation update was particularly cool, as this will make the Turing Way available to even more people around the world.
 ---
 :::
-
-### Jessica Scheick
 
 :::{profile} Jessica Scheick
 ---
@@ -1107,8 +1007,6 @@ highlights: |
     I ended up working on a few different projects with multiple collaborators, but I think the highlight of the whole experience was brainstorming a visualization and then watching the Scriberia artist bring our idea to life!
 ---
 :::
-
-### Johanna Bayer
 
 :::{profile} Johanna Bayer
 ---
@@ -1129,8 +1027,6 @@ quote: |
     It was totally worth staying up late!
 ---
 :::
-
-### Jim Madge
 
 :::{profile} Jim Madge
 ---
@@ -1156,8 +1052,6 @@ highlights: >
 ---
 :::
 
-### José María Fernández
-
 :::{profile} José María Fernández
 ---
 roles: |
@@ -1171,8 +1065,6 @@ highlights: |
     I have mostly contributed to reviewing open Pull requests and networking with the community members.
 ---
 :::
-
-### Julien Colomb
 
 :::{profile} Julien Colomb
 ---
@@ -1189,8 +1081,6 @@ highlights: |
 quote: | The Turing Way is getting my number one source of information, on top of being my primary source of figures ;).
 ---
 :::
-
-### Jyoti Bhogal
 
 :::{profile} Jyoti Bhogal
 ---
@@ -1211,8 +1101,6 @@ quote: |
 
 <!---K--->
 ## K
-
-### Kalle Westerling
 
 :::{profile} Westerling
 ---
@@ -1237,8 +1125,6 @@ quote: |
 ---
 :::
 
-### Katriona Goldmann
-
 :::{profile} Katriona Goldmann
 ---
 roles: |
@@ -1251,8 +1137,6 @@ highlights: |
     Building connections with participants from varied expertise and interests allowed me to learn from their experiences and engage in meaningful discussions on accessibility and inclusivity. Additionally, the Scriberia session provided a unique way to visualize our ideas, showing how different perspectives could bring new dimensions to our work.
 ---
 :::
-
-### Kim De Ruyck
 
 :::{profile} Kim De Ruyck
 ---
@@ -1272,8 +1156,6 @@ highlights: |
 <!---L--->
 ## L
 
-### Laura Acion
-
 :::{profile} Acion
 ---
 roles: |
@@ -1288,8 +1170,6 @@ highlights: |
     I hope this is my first of several Book Dashes! It was an outstanding experience. Thank you so much, Malvika and Kirstie, for brilliantly organizing and coordinating this event! ✨ 💖
 ---
 :::
-
-### Laura Carter
 
 :::{profile} Laura Carter
 ---
@@ -1311,8 +1191,6 @@ quote: |
 ---
 :::
 
-### Lena Karvovskaya
-
 :::{profile} Lena Karvovskaya
 ---
 roles: |
@@ -1331,8 +1209,6 @@ more: |
     I will be carrying on working on the Peer Review chapter and hope to collaborate with \@vhellon \@EstherPlomp and other participants.
 ---
 :::
-
-### Liz Hare
 
 :::{profile} Liz Hare
 ---
@@ -1355,8 +1231,6 @@ highlights: |
     In 2024, I have continued being a Book Dash Organising Committee member. I organised a Fireside Chat related to accessibility for the June 2024 event, and for the November 2024 Book Dash, helped with onboarding and planning with new participants, editing the accessibility policy (issue 3145), initiated reviews of a new chapter (issue 3930), and hosted three contribution sessions.
 ---
 :::
-
-### Louise Bowler
 
 :::{profile} Bowler
 ---
@@ -1382,8 +1256,6 @@ more: |
 ---
 :::
 
-### Lucy Stephenson
-
 :::{profile} Lucy Stephenson
 ---
 roles: |
@@ -1400,8 +1272,6 @@ quote: |
     The Turing Way community keeps me coming back - I learn so much from everyone I interact with!
 ---
 :::
-
-### Luisa Cutillo
 
 :::{profile} Luisa Cutillo
 ---
@@ -1423,8 +1293,6 @@ quote: |
 <!---M--->
 ## M
 
-### Mahwish Mohammad
-
 :::{profile} Mahwish Mohammad
 ---
 roles: |
@@ -1438,8 +1306,6 @@ highlights: |
     These Book Dashes are a great way to encourage open collaboration, sharing ideas and working on helpful tools to make things such as open science and reproducibility more practical and friendlier for the wider community.
 ---
 :::
-
-### Margaret Wanjiku
 
 :::{profile} Margaret Wanjiku
 ---
@@ -1458,8 +1324,6 @@ quote: |
 ---
 :::
 
-### María Nanton
-
 :::{profile} María Nanton
 ---
 roles: |
@@ -1475,8 +1339,6 @@ quote: |
 ---
 :::
 
-### Mariana Vivas
-
 :::{profile} Mariana Vivas
 ---
 roles: |
@@ -1490,8 +1352,6 @@ quote: |
     This Book Dash was my first time doing collaborative work. I enjoyed meeting everyone - such a welcoming environment, I really appreciate it! I enjoyed collaborating with a chapter for The Turing Way, and couldn't be happier!
 ---
 :::
-
-### Marta Mangiarulo
 
 :::{profile} Marta Mangiarulo
 ---
@@ -1514,8 +1374,6 @@ quote: |
 ---
 :::
 
-
-### Martin O'Reilly
 
 :::{profile} Martin O'Reilly
 ---
@@ -1542,8 +1400,6 @@ more: |
 ---
 :::
 
-### Martina G. Vilas
-
 :::{profile} Martina G. Vilas
 ---
 roles: |
@@ -1566,8 +1422,6 @@ more: |
 ---
 :::
 
-### Mateusz Kuzak
-
 :::{profile} Mateusz Kuzak
 ---
 roles: |
@@ -1582,8 +1436,6 @@ highlights: |
 ---
 :::
 
-### Maya Anderson Gonzalez
-
 :::{profile} Maya Anderson Gonzalez
 ---
 roles: |
@@ -1596,8 +1448,6 @@ highlights: |
     I worked on the Data Feminism chapter with \@gigikenneth at the May 2023 Book Dash.
 ---
 :::
-
-### Mishka Nemes
 
 :::{profile} Mishka Nemes
 ---
@@ -1618,8 +1468,6 @@ quote: |
 <!-- N -->
 ## N
 
-### Nina Di Cara
-
 :::{profile} Nina Di Cara
 ---
 roles: |
@@ -1635,8 +1483,6 @@ quote: |
 ---
 :::
 
-### Noorhan Abbas
-
 :::{profile} Noorhan Abbas
 ---
 roles: |
@@ -1651,8 +1497,6 @@ bio: |
 
 <!--P-->
 ## P
-
-### Patricia Herterich
 
 :::{profile} Patricia Herterich
 ---
@@ -1674,8 +1518,6 @@ more: |
     I moved my share outs from crafting to taking care of plants. And talking about bread. Also, I have too many Moomin themed items.
 ---
 :::
-
-### Paul Owoicho
 
 :::{profile} Paul Owoicho
 ---
@@ -1699,8 +1541,6 @@ quote: |
 ---
 :::
 
-### Philippe Rocca-Serra
-
 :::{profile} Philippe Rocca-Serra
 ---
 roles: |
@@ -1719,8 +1559,6 @@ bio: |
 
 <!---R-->
 ## R
-
-### Richard J. Acton
 
 :::{profile} Richard J. Acton
 ---
@@ -1743,8 +1581,6 @@ more: |
 ---
 :::
 
-### Precious Onyewuchi
-
 :::{profile} Precious Onyewuchi
 ---
 roles: |
@@ -1760,8 +1596,6 @@ quote: |
 ---
 :::
 
-### Richie Moluno
-
 :::{profile} Richie Moluno
 ---
 roles: |
@@ -1776,8 +1610,6 @@ highlights: |
     I got to meet new interesting people from around the world, built a few connections, and learned about reproducible research. I also learnt more about localisation and translation with Crowdin
 ---
 :::
-
-### Rosie Higman
 
 :::{profile} Rosie Higman
 ---
@@ -1800,8 +1632,6 @@ more: |
     I hope that the Turing Way will be something we can also use at the University of Manchester and other Turing universities around the country!
 ---
 :::
-
-### Rachael Ainsworth
 
 :::{profile} Rachael Ainsworth
 ---
@@ -1827,8 +1657,6 @@ more: |
 ---
 :::
 
-### Rachael Stickland
-
 :::{profile} Rachael Stickland
 ---
 roles: |
@@ -1841,8 +1669,6 @@ highlights: |
     Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
 ---
 :::
-
-### Reshama Shaikh
 
 :::{profile} Reshama Shaikh
 ---
@@ -1862,8 +1688,6 @@ highlights: |
 <!---S--->
 ## S
 
-### Samuel Guay
-
 :::{profile} Samuel Guay
 ---
 roles: |
@@ -1877,8 +1701,6 @@ highlights: |
     The whole November 2020 Book Dash was my highlight. I got to know a welcoming community and amazing humans throughout the week. It was amazing to witness so much progress in that tiny amount of time.
 ---
 :::
-
-### Sara Villa
 
 :::{profile} Sara Villa
 ---
@@ -1898,8 +1720,6 @@ quote: |
     2024: Amazing organisation, great experience as always. It is very uplifting and always learning something new from this community. I only hope to someday give it back.
 ---
 :::
-
-### Sarah Gibson
 
 :::{profile} Sarah Gibson
 ---
@@ -1921,8 +1741,6 @@ more: |
 ---
 :::
 
-### Saranjeet Kaur Bhogal
-
 :::{profile} Saranjeet Kaur Bhogal
 ---
 roles: |
@@ -1942,8 +1760,6 @@ more: |
     I like creating zines & cartoons!
 ---
 :::
-
-### Sebastián Ayala Ruano
 
 :::{profile} Sebastián Ayala Ruano
 ---
@@ -1966,8 +1782,6 @@ quote: |
 ---
 :::
 
-### Seun Olufemi
-
 :::{profile} Seun Olufemi
 ---
 roles: |
@@ -1983,8 +1797,6 @@ highlights: |
 ---
 :::
 
-### Shern Tee
-
 :::{profile} Shern Tee
 ---
 roles: |
@@ -1998,8 +1810,6 @@ highlights: |
     Upgrading the TTW chapter on RSEs, and getting to know a whole new group of wonderful people!
 ---
 :::
-
-### Sophia Batchelor
 
 :::{profile} Sophia Batchelor
 ---
@@ -2018,8 +1828,6 @@ more: |
 ---
 :::
 
-### Sophie Aranas
-
 :::{profile} Sophie Aranas
 ---
 roles: |
@@ -2034,8 +1842,6 @@ quote: |
     The Turing Way community is has this extremely collaborative & supportive spirit, where everyone celebrates each others contributions no matter how big and small. Participating in the book dash for the first time was a wonderful example of this. It really made me experience the uniqueness of this community and the power of team work.
 ---
 :::
-
-### Susana Roman Garcia
 
 :::{profile} Susana Roman Garcia
 ---
@@ -2054,8 +1860,6 @@ highlights: |
     Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was definitely also a big highlight!
 ---
 :::
-
-### Susanna-Assunta Sansone
 
 :::{profile} Susanna-Assunta Sansone
 ---
@@ -2078,8 +1882,6 @@ more: |
 <!---T--->
 ## T
 
-### Tim Powell
-
 :::{profile} Tim Powell
 ---
 twitter: mrtimpowell
@@ -2089,8 +1891,6 @@ highlights: |
     I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 ---
 :::
-
-### Timothy Sum Hon Mun
 
 :::{profile} Timothy Sum Hon Mun
 ---
@@ -2115,8 +1915,6 @@ quote: |
 <!---V--->
 ## V
 
-### Vicky Hellon
-
 :::{profile} Vicky Hellon
 ---
 roles: |
@@ -2139,8 +1937,6 @@ quote: |
 <!---W--->
 
 ## W
-
-### Winny Nekesa
 
 :::{profile} Winny Nekesa
 ---
@@ -2176,8 +1972,6 @@ quote: |
 
 ## Z
 
-### Zeena Shawa
-
 :::{profile} Zeena Shawa
 ---
 roles: |
@@ -2194,8 +1988,6 @@ highlights: |
     A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session. It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).
 ---
 :::
-
-### Zoë Turner
 
 :::{profile} Zoë Turner
 ---
