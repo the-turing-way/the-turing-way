@@ -880,7 +880,7 @@ project:
               title: Enforcement Manual
             - file: community-handbook/coc/coc-acknowledgement.md
               title: Acknowledgements
-        - file: community-handbook/contributing-guideline.md
+        - file: community-handbook/contributing.md
           title: Contributing to The Turing Way
         - file: community-handbook/style.md
           title: Style Guide
@@ -912,12 +912,12 @@ project:
                   title: Language
         - file: community-handbook/local-build.md
           title: Build the Turing Way Book locally
-        - file: community-handbook/contributing.md
+        - file: community-handbook/contributing-chapters.md
           title: Contributing and Developing Chapters - Templates and Workflow
           children:
-            - file: community-handbook/contributing/contributing-templates.md
+            - file: community-handbook/contributing-chapters/contributing-templates.md
               title: Templates
-            - file: community-handbook/contributing/contributing-workflow.md
+            - file: community-handbook/contributing-chapters/contributing-workflow.md
               title: Workflow
         - file: community-handbook/acknowledgement.md
           title: Acknowledging Contributors

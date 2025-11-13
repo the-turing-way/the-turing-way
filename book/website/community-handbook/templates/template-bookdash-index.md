@@ -181,7 +181,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 ### Participation guidelines
 
 - Code of Conduct: https://book.the-turing-way.org/community-handbook/coc.html
-- Contribution guideline: https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
+- Contribution guideline: #ch-contributing
 
 ### Communication channels
 
@@ -207,7 +207,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles:
+**Please read and follow our project [Contributing Guidelines](#ch-contributing)!** :sparkles:
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
