@@ -110,7 +110,12 @@ To get started with Quarto, follow these steps:
 4. **Install Quarto Extension**: In VS Code, go to the Extensions view (Ctrl+Shift+X), search for "Quarto", and install the Quarto extension.
 5. **Set Up Git and GitHub**: If you plan to host your website on GitHub Pages, ensure you have Git installed on your computer and create a GitHub account if you don't have one already.
 
+## Creating a Quarto Website
+1. **Set Up a New Project**: Create a new Quarto project. You can do this by opening VS Code, and typing `Ctrl+Shift+P` to open the command palette. Then, type "Quarto: Create New Project" and select it. Choose "Website" as the project type and specify a folder for your project. In the next step, you willbe promted to give your project a name. 
 
+This step creates the basic structure of your Quarto website, including necessary files and folders. Let's have a look at them.
+
+![The file structure of a newly create Quarto project](book/figures/file_structure_quarto_project.png)
 
 
 
