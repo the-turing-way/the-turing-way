@@ -1,6 +1,6 @@
 # Infrastructure working group
 # Github files and workflows
-.github/* @the-turing-way/infrastructure-working-group
+.github/ @the-turing-way/infrastructure-working-group
 # Makefile
 book/Makefile
 # Requirements
