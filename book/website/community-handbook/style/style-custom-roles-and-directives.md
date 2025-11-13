@@ -36,7 +36,7 @@ bio: |
     A short Biography about yourself.
     You can write a new sentence of each line.
 
-    Leaving a lank line will start a new Paragraph.
+    Leaving a blank line will start a new paragraph.
     You can use MyST *Markdown* _formatting_ here.
 highlights: |
     A few highlights about your experiences in _The Turing Way_
@@ -65,7 +65,7 @@ bio: |
     A short Biography about yourself.
     You can write a new sentence of each line.
 
-    Leaving a lank line will start a new Paragraph.
+    Leaving a blank line will start a new paragraph.
     You can use MyST *Markdown* _formatting_ here.
 highlights: |
     A few highlights about your experiences in _The Turing Way_
