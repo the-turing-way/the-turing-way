@@ -84,3 +84,16 @@ website using low-code or high-code options.
 #### Dynamic website generator
 
 * [Django](https://www.djangoproject.com/)
+
+# Building an academic website with Quarto
+
+Quarto is a powerful open-source scientific and technical publishing system that
+enables researchers to create dynamic and interactive websites, documents, and
+presentations using a combination of markdown and code. It supports multiple
+programming languages, including R, Python, and Julia, making it a versatile tool
+for researchers across various disciplines.
+
+
+
+
+
