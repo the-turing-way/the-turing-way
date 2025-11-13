@@ -220,22 +220,7 @@ const profileDirective = {
     const twitter = data.options?.twitter ?? null;
     const website = data.options?.website ?? null;
 
-    // Create label from name
     const name = data.arg;
-    const label = "profile-" + name.replace(" ", "-").toLowerCase();
-
-    let nodes = [];
-
-    // Add label
-    nodes.push({
-      type: "MystTarget",
-      label: label,
-    });
-
-    nodes.push({
-      type: "block",
-      children: [],
-    });
 
     // Card children
     let card_children = [];
@@ -305,13 +290,24 @@ const profileDirective = {
       });
     }
 
+    // Create label from name
+    const label = "profile-" + name.replace(" ", "-").toLowerCase();
+
     // Create card
     let card = {
       type: "card",
+      label: label,
+      identifier: label,
+      html_id: label,
       children: card_children,
     };
 
-    nodes[1].children.push(card);
+    let nodes = [];
+    nodes.push({
+      type: "block",
+      children: [card],
+    });
+
     return nodes;
   },
 };
