@@ -41,7 +41,7 @@ For example, you should:
 ## Join the Community
 
 There are many ways to engage with the community!
-We maintain a set of useful resources and announcements at [the-turing-way.org](https://the-turing-way.org)
+We maintain a set of useful resources and announcements at [the-turing-way.org](https://the-turing-way.org).
 
 ### Slack
 
