@@ -36,7 +36,11 @@ mastodon: <Mastodon id without leading @, like person@mastodon.social>
 twitter: <Twitter id without leading @>
 website: <website url>
 bio: |
-    A short Biography about yourself
+    A short Biography about yourself.
+    You can write a new sentence of each line.
+
+    Leaving a lank line will start a new Paragraph.
+    You can use MyST *Markdown* _formatting_ here.
 highlights: |
     A few highlights about your experiences in _The Turing Way_
 more: |
