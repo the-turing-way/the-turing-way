@@ -110,7 +110,9 @@ Here, we list some commonly used frameworks. They have been
 divided into two categories depending upon whether person wants to create a
 website using low-code or high-code options.
 
+(cm-personal-website-frameworks-no-low-code)=
 ### No-Code/Low-Code frameworks
+
 * [Canva](https://www.canva.com/design-school/resources/how-to-make-website-with-canva-step-by-step-guide)
 * [Ghost](https://ghost.org/resources/building/)
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
@@ -119,6 +121,7 @@ website using low-code or high-code options.
 * [Wix](https://learnxinyminutes.com/)
 * [Wordpress](https://wordpress.com/blog/2025/01/02/personal-website/)
 
+(cm-personal-website-frameworks-high-code)=
 ### High-Code frameworks
 
 #### Static website generator
@@ -135,18 +138,19 @@ website using low-code or high-code options.
 
 * [Django](https://www.djangoproject.com/)
 
-## Highly Customizable Websites
+(cm-personal-website-high-customise)=
+## Highly Customisable Websites
 
-For highly customizable websites (usually, high-code websites), there are two major aspects to web development: frontend and backend. These form the backbone of web development, and each plays a crucial role in creating seamless, functional web experiences.
+For highly customisable websites (usually, high-code websites), there are two major aspects to web development: frontend and backend. These form the backbone of web development, and each plays a crucial role in creating seamless, functional web experiences.
 
+The techology stack needed for the web development process can be majorly divided into two categories: front-end and back-end development tech stack.
+
+(cm-personal-website-frontend)=
 ## Frontend development:
 
-### Processes:
+This is the process that includes builing the UI/UX i.e. the client or the user side of the website/web application. Some of the most popular programming languages use Hyper Text Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript (JS).
 
-### Tools:
-
+(cm-personal-website-backend)=
 ## Backend development:
 
-### Processes:
-
-### Tools:
+The back-end includes the server that processes all of the website's files, the database that stores the website's data, and the application that runs the website. Some of the most popular programming languages use JavaScript (JS), PHP, Python, Java, C#, Golang, and more. 
