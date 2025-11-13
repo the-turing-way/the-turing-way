@@ -1078,7 +1078,8 @@ bio: |
     Former neuro-geneticist (10 years of research on fruit fly memory and behaviour), I have been more recently interested in data analysis and management, as a specialisation for my interests in open science (open research). I am presently working on ways (technical and social) to implement the principles of FAIR and open data in the lab workflow and ways to foster collaboration between researchers via the SmartFigure Gallery project.
 highlights: |
     Structure of the book and its RDM part, debugging figure views, content: version control for datasets + git for the whole research project data.
-quote: | The Turing Way is getting my number one source of information, on top of being my primary source of figures ;).
+quote: |
+    The Turing Way is getting my number one source of information, on top of being my primary source of figures ;).
 ---
 :::
 
