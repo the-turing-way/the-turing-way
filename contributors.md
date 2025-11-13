@@ -722,27 +722,31 @@ highlights: |
 :::{profile} Esther Plomp
 ---
 roles: |
-    Core Member, TU-Delft Representative (2020-Present);
+    Core Member, TU-Delft Representative (2020-2024), University of Aruba Representative (2025-Present);
     Book Dash Planning Committee (2021-Present);
-    Book Dash Participant (2020)
+    Book Dash Participant (2020-Present)
 github: EstherPlomp
 orcid: 0000-0003-3625-1357
-twitter: PhDToothFAIRy
 bio: |
-    I'm a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, where I support researchers with their data management and open science practices. For my PhD research, I analysed human teeth for their isotopic/chemical composition to say something about human mobility patterns (fields of forensics, archaeology, osteology). Next to the Turing Way I'm also involved with other teams, such as the [Open Research Calendar](https://openresearchcalendar.org/) ([follow the calendar on Twitter!](https://twitter.com/OpenResearchCal)), [IsoArcH](https://isoarch.eu/) and I was an [OLS3](https://openlifesci.org/ols-3/) mentor! I'm also interested in anything related to physical samples in research, and I'm a co-chair of the [Research Data Alliance Physical Samples Interest Group](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
+    I'm a Researcher at the University of Aruba, Research Center.
+    Before this, I was a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, supporting researchers with their data management and open science practices. 
+    For my PhD research, I analysed human teeth for their isotopic/chemical composition to say something about human mobility patterns (fields of forensics, archaeology, osteology). 
+    Next to the Turing Way I'm also involved with other teams, such as the [Open Research Calendar](https://openresearchcalendar.org/), [IsoArcH](https://isoarch.eu/) and [OLS](https://we-are-ols.org/).
+    I'm also interested in anything related to physical samples in research, and I'm a co-chair of the [Research Data Alliance Physical Samples Interest Group](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
 highlights: |
-    Thanks to the Turing Way I really learned how to work collaboratively using GitHub. The book dash in February 2020 was a great kickstart to actually practice and directly apply these skills, which now allows me to contribute more confidently to other projects as well! I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section, and to the Research Infrastructure Roles. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops. I'm very grateful to be part of this great and inclusive community!
+    Thanks to the Turing Way I really learned how to work collaboratively using GitHub.
+    The Book Dash in February 2020 was a great kickstart to actually practice and directly apply these skills, which now allows me to contribute more confidently to other projects as well!
+    I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section, and to the Research Infrastructure Roles.
+    I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data.
+    I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference.
+    I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops.
+    I'm very grateful to be part of this great and inclusive community!
     As a Working Group and Planning Committee member I do not focus on content as much as I'd like during Book Dashes. It is a pleasure to work together with the other Committee/Group members and ensure that the Book Dash is an exciting and inspiring event for the participants!
 more: |
     I think scientific research should be accessible to anyone who would like to learn and contribute.
-    I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples.
-    I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
-    Please do get in touch if you work with physical samples and would like to get involved!
 
-    I'm part of the Open Research Calendar Team.
-    This is a calendar that you can use to stay up to date with open research events or add your events to increase visibility.
-    Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
-    I'm interested in anything related to Open Science and Research Data Management! Please do reach out if you have a nice idea for the Research Data Management chapter in the Turing Way, or if you'd like to collaborate on things! :) I'm also the EU regional coordinator for the [Open Knowledge Foundation](https://okfn.org/en/) - let me know if you would like to become involved in their [Network](https://okfn.org/en/network/)!
+    I'm interested in anything related to Open Science and Research Data Management!
+    Please do reach out if you have a nice idea for the Research Data Management chapter in the Turing Way, or if you'd like to collaborate on things! :)
 quote: |
     Being a part of the organising committee for the online Book Dashes was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The BookDashes themselves are absolutely amazing, especially the discussions and the 'show and tell' sessions!
 ---
