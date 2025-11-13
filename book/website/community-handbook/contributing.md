@@ -128,7 +128,7 @@ We follow the [GitHub flow](https://docs.github.com/en/get-started/using-github/
 
 Here are some tips for best practice working with git:
 
-- [keep your fork up to date](https://help.github.com/articles/syncing-a-fork) with the main repository
+- [Keep your fork up to date](https://help.github.com/articles/syncing-a-fork) with the main repository
 - Try to keep changes focused.
   If you submit many changes at once it will be much more difficult to review.
 - Make small commits often.
