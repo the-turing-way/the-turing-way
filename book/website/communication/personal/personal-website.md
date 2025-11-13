@@ -125,6 +125,8 @@ You can open these files to see their content. The `index.qmd` file is the homep
 
 ::: {.callout-note title="About qmd files"}
 .qmd files are Quarto markdown files. They are similar to .Rmd files used in R Markdown but are more versatile as they support multiple programming languages, including R, Python, and Julia. These files allow you to combine narrative text with code chunks that can generate figures, tables, and other outputs, making them ideal for creating dynamic and interactive content. 
+
+Quarto renders .qmd files into various formats, including HTML for websites, which can be displayed in a web browser. We use this feature to create our website.
 :::
 
 
