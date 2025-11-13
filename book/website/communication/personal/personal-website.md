@@ -129,5 +129,10 @@ You can open these files to see their content. The `index.qmd` file is the homep
 Quarto renders .qmd files into various formats, including HTML for websites, which can be displayed in a web browser. We use this feature to create our website.
 :::
 
+3. Preview your website.
+Quarto allows you to preview your website locally before deploying it online. Now would be a good time to do that and see how your website looks so far. In VS Code, open the terminal (Ctrl+`), navigate to your project directory using the `cd` command, and run the following command:
 
-
+```bash
+quarto preview
+```
+This command will render your website (convert the .qmd files to HTML) and start a local web server. You can then open your web browser and go to `http://localhost:4200` to see your website.
