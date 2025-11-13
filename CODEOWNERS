@@ -10,3 +10,5 @@ book/requirements.txt @the-turing-way/infrastructure-working-group
 lychee.toml @the-turing-way/infrastructure-working-group
 # Netlify configuration
 netlify.toml @the-turing-way/infrastructure-working-group
+# MyST Plugins
+book/website/plugins/ @the-turing-way/infrastructure-working-group
