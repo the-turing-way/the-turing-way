@@ -715,8 +715,7 @@ bio: |
     My research examines the evolving relationship between the arts and sciences as a model for transdisciplinary collaboration.
     Within the MA Innovation Management programme, I mentor students by offering creative perspectives and practical experience in applied innovation, guiding their research with insights in qualitative methods and cross-disciplinary collaboration processes.
 highlights: |
-    I always enjoy taking part in the Book Dash and working collaboratively with others who share similar interests to mine — or even completely different ones,  which allows me to learn so
-much! After three Book Dashes, I've built relationships with a really great community of people and have also improved my GitHub skills, especially for collaborative work.
+    I always enjoy taking part in the Book Dash and working collaboratively with others who share similar interests to mine — or even completely different ones,  which allows me to learn so much! After three Book Dashes, I've built relationships with a really great community of people and have also improved my GitHub skills, especially for collaborative work.
 
     I contributed one chapter "Embedding Data Science Across Disciplines" (June 2024), co-authored with Gule Saman, which has been published.
     Two more chapters are in progress: "Lesson & Curriculum Development" (June 2024–Nov 2025), with Gule Saman and Thao Do, and a new sub-chapter on “Qualitative Pre-registered Reports” (Nov 2025) under the “Registered Reports” chapter, which I am developing with Emma Karoune and Giulia Tomba.
@@ -803,11 +802,12 @@ highlights: |
 more: |
     I think scientific research should be accessible to anyone who would like to learn and contribute.
     I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples.
-I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
-Please do get in touch if you work with physical samples and would like to get involved!
+    I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
+    Please do get in touch if you work with physical samples and would like to get involved!
+
     I'm part of the Open Research Calendar Team.
-This is a calendar that you can use to stay up to date with open research events or add your events to increase visibility.
-Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
+    This is a calendar that you can use to stay up to date with open research events or add your events to increase visibility.
+    Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
     I'm interested in anything related to Open Science and Research Data Management! Please do reach out if you have a nice idea for the Research Data Management chapter in the Turing Way, or if you'd like to collaborate on things! :) I'm also the EU regional coordinator for the [Open Knowledge Foundation](https://okfn.org/en/) - let me know if you would like to become involved in their [Network](https://okfn.org/en/network/)!
 quote: |
     Being a part of the organising committee for the online Book Dashes was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The BookDashes themselves are absolutely amazing, especially the discussions and the 'show and tell' sessions!
@@ -1057,8 +1057,8 @@ github: Ismael-KG
 orcid: 0000-0002-6850-8375
 bio: |
     Former Ethics Research Assistant at the Alan Turing Institute.
-I have a BSc in Business Management and Administration and have studied philosophy of the social sciences at the London School of Economics & Political Science.
-I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
+    I have a BSc in Business Management and Administration and have studied philosophy of the social sciences at the London School of Economics & Political Science.
+    I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
 highlights: |
     Since my undergraduate degree, I have worked in sales in fintech, HR in arts charities, and in research.
     I think my highlight is that I've got a great background as a very adaptable generalist!
@@ -1348,9 +1348,7 @@ bio: |
     As a blind person I've become interested in R and open science, working to ensure inclusivity on many levels but particularly accessibility for scientists with disabilities.
 highlights: |
     As a first-timer in 2022, it was a great chance to get a more intensive introduction to how the Turing Way Project works.
-    Terrific, collaborative discussions on how to make the book, the process
-of making and maintaining the book, and open science in general, more inclusive. Also planning a Guide to Accessibility -- scoping out and outlining
-what it would cover.
+    Terrific, collaborative discussions on how to make the book, the process of making and maintaining the book, and open science in general, more inclusive. Also planning a Guide to Accessibility -- scoping out and outlining what it would cover.
 
     In 2023, I've been working on accessibility with the TTW leadership, both for the book itself and for the ways we work together on the book. We discussed The Turing Way's accessibility policy and a new Guide for Access, and I began a chapter on writing effective alt text.
 
