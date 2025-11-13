@@ -36,5 +36,5 @@ for preregistration in open research registries, tailored to specific discipline
 | [**Evidence in Governance and Politics (EGAP)**](https://egap.org/) | Registration for experiments and observational studies | Governance and Politics
 
 
-Table 1. _Stewart et al. (2020), Available pre-registration templates, by main purpose and target discipline/area._ Used by a CC-BY4 license. 
+Table 1. _Stewart et al. (2020), Available pre-registration templates, by main purpose and target discipline/area._ Used under CC-BY 4.0 license. 
 [https://doi.org/10.31219/osf.io/8v2n7](https://doi.org/10.31219/osf.io/8v2n7)
