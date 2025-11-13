@@ -4,10 +4,10 @@
 > 
 
 
-# Preregsistration vs registered report
+## Preregsistration vs registered report
 
 
-# Platforms
+## Platforms
 
 There are several platforms where you can submit your preregistration or Registered Report, from openly accessible registries to discipline-specific 
 journals and micropublishing platforms.
