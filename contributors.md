@@ -391,12 +391,19 @@ quote: |
 ---
 roles: |
     Book Dash Participant (2021)
-github:: leoank
-orcid:: [0000-0002-7686-7335](https://orcid.org/0000-0002-7686-7335)
+github: leoank
+orcid: 0000-0002-7686-7335
 bio: |
     Ankur is a research associate at the Department of Genetics, University of Cambridge. He is trying to create shareable and reproducible software infrastructure for building the next generation of life sciences research platforms by leveraging advances in modern cloud technology. He is always happy to talk about the challenges and opportunities that these distributed systems present. Apart from computers, he is also interested in synthetic biology. One can often find him at related events and seminars around Cambridge.
 highlights: |
-     I  want to thank the organisers for allowing me to join the book dash. I also want to congratulate them for creating such a friendly community around the Turing Way project. I worked on a chapter with the working title of "Reproducible analysis pipelines". I had wonderful conversations about the topic with fellow participants and \@KirstieJane. I also reached out to some of the leaders in the field. I'll soon be interviewing them to add their experiences as case studies. All my interactions with the Turing Way community helped me to achieve a better understanding of the topic. I also feel more confident in writing and I am now thinking of starting my blog!
+    I  want to thank the organisers for allowing me to join the book dash.
+    I also want to congratulate them for creating such a friendly community around the Turing Way project.
+    I worked on a chapter with the working title of "Reproducible analysis pipelines".
+    I had wonderful conversations about the topic with fellow participants and [Kirstie](#profile-kirstie-whitaker).
+    I also reached out to some of the leaders in the field.
+    I'll soon be interviewing them to add their experiences as case studies.
+    All my interactions with the Turing Way community helped me to achieve a better understanding of the topic.
+    I also feel more confident in writing and I am now thinking of starting my blog!
 more: |
     I'll continue to keep working on the chapter and submit a PR as soon as possible. I am also thinking of improving some technical aspects of the book. I'll hopefully get around to doing these soon as well.
 quote: |
@@ -576,7 +583,7 @@ roles: |
     Core Member, Translation and Localisation Co-Lead (Spanish) (2020-2023);
     Book Dash May 2019 Attendee
 github: crangelsmith
-orcid: id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
+orcid: 0000-0002-0227-836X
 bio: |
     I am a Research Data Scientist at The Alan Turing Institute. I hold a PhD in Particle Physics from Université Paris Diderot where I worked on the ATLAS experiment at the Large Hadron Collider at CERN.
     During my PhD I participated in the discovery of the Higgs Boson particle announced by CERN in 2012.
@@ -676,7 +683,7 @@ highlights: |
 roles: |
     Core Member, Infrastructure Co-lead (2022-Present)
 github: da5nsy
-orcid: id: [0000-0002-0227-836X](https://orcid.org/0000-0002-4579-003X)
+orcid: 0000-0002-0227-836X
 mastodon: https://social.coop/\@da5nsy
 website: https://www.dannygarside.co.uk/
 bio: |
@@ -918,7 +925,7 @@ roles: |
     Core Member (2020-2022);
     Book Dash Participant (2020)
 github: HeidiSeibold
-orcid: id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
+orcid: 0000-0002-8960-9642
 bio: |
     I develop machine learning methods to figure out which patients react well to certain treatments and implement these methods in R.
     My passion for open and reproducible research has led me to join the Turing Way community. I am involved in meta-research projects (research about research), and I support, teach and contribute to open projects such as The Turing Way.
@@ -1173,7 +1180,7 @@ roles: |
    Book Dash Local Hub Co-Host: Netherlands (2023);
    Core developer of Training Materials (2022-2023);
    Book Dash Participant (2022-2023)
-github:: colomb
+github: colomb
 orcid: | 0000-0002-3127-5520
 bio: |
     Former neuro-geneticist (10 years of research on fruit fly memory and behaviour), I have been more recently interested in data analysis and management, as a specialisation for my interests in open science (open research). I am presently working on ways (technical and social) to implement the principles of FAIR and open data in the lab workflow and ways to foster collaboration between researchers via the SmartFigure Gallery project.
@@ -1403,7 +1410,7 @@ quote: |
 roles: |
     Book Dash participant (2024)
 github: luisacutillo78
-orcid: https://orcid.org/0000-0002-2205-0338
+orcid: 0000-0002-2205-0338
 bio: |
     I am an Associate Professor in the Department of Statistics at the School of Mathematics, University of Leeds and have a very multidisciplinary background. I received my PhD in applied mathematics from the University of Naples “Federico II”. I recently joined the board of director of Women In Machine Learning. My main role at UoL is to be Programme Manager for the following Masters programmes in the School of Mathematics:
     Data Science and Analytics MSc Statistics MSc, Statistics with Applications to Finance MSc.
@@ -1880,7 +1887,7 @@ highlights: |
 roles: |
     Book Dash participant (2022 and 2024)
 github: SaraVilla
-orcid: https://orcid.org/0000-0001-9502-0888
+orcid: 0000-0001-9502-0888
 bio: |
     I am a molecular biologist with a big interest in Open Science and Reproducibility. I am a mentor for the Open Seeds  Mentoring and Training Programme (OLS) and do most of my research at King's College London.
 highlights: |
@@ -2020,7 +2027,7 @@ more: |
 roles: |
     Book Dash participant (2024)
 github: aranas
-orcid: https://orcid.org/0000-0001-9708-7058
+orcid: 0000-0001-9708-7058
 bio: |
     I am a Research Application Manager at the Turing Research and Innovation Cluster in Digital Twins (TRIC:DT). As part of the Innovation and Impact Hub, I work towards open and reproducible computational and social tools around digital twin technology across a range of sectors. My educational background is in cognitive computational neuroscience.
 highlights: |
