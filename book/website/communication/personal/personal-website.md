@@ -35,20 +35,43 @@ It involves iterative ideation and implementation. The core phases associated wi
 (cm-personal-website-analysis)=
 ## Analysis 
 
+The goal of the analysis phase is to gain a deep understanding of the problem that a website is trying to solve so that the best solution can be found. By taking the time to carefully analyse the requirements of a website, people (researcher, web developer, programmer, and more) can ensure that the final product is effective and meets its users' needs.
+
 (cm-personal-website-design)=
 ## Design
+
+In this phase, the website structure plus the visual components and content, including activity layouts, navigation panels, images, and videos, are added to provide a feature-rich audio-visual experience to the users. The design stage is crucial since it directly impacts the UI/UX of the website. It is important that the design of the website is responsive, highly intuitive, and easy to navigate.
 
 (cm-personal-website-development)=
 ## Development
 
+The development (& coding) phase of the web development process is when the actual content (in case of low-code/no-code frameworks) and/or code (in case of high-code frameworks) for the website is written. For high-code framwworks, this can be done using a variety of programming languages, depending on the functionalities required in the website. This is where the developer takes all of the designs, wireframes, and other elements from the previous phases and turns them into a working website.
+
+In some cases, the entire site may be coded from scratch, but developers usually prefer using pre-existing tools or frameworks to speed up the process. Some of the commonly used frameworks are mentioned in the [Frameworks]((cm-personal-website-frameworks)=) section below.
+
 (cm-personal-website-test-review)=
 ## Testing and review
+
+The next stage in the process involves testing the website comprehensively to remove any bugs or errors before it goes live. This is a critical stage. There are different testing methods and techniques that are utilised to ensure that the website is performing as expected at optimum levels.
+
+The testing phase can be divided into two main categories:
+
+### Functional testing: 
+Functional testing focuses on verifying that the website performs its intended tasks.
+
+### Non-functional testing: 
+
+Non-functional testing assesses the website's performance, security, and usability.
 
 (cm-personal-website-deployment)=
 ## Deployment
 
+This is the process of putting the website or application live to be viewed by public. This usually involves transferring the code from a development or staging server to a production server i.e. from a local repository to a remote repository. Once the site or application is live, it needs to be monitored and maintained to ensure that it remains accessible and performant.
+
 (cm-personal-website-maintenance)=
 ## Maintenance
+
+The maintenance phase entails regular monitoring of the website's performance and delivering regular updates for enhanced features and functionality. Website maintenance might include various tasks such as updating software, backing up data, monitoring web traffic, and checking for security vulnerabilities. 
 
 (cm-personal-website-frameworks)=
 # Frameworks
