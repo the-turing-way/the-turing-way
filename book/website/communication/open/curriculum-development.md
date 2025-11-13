@@ -9,7 +9,7 @@ study, ensuring course-specific outcomes and competencies are suitably challengi
 advanced skills, enhancing the students’ learning experience. This chapter will discuss techniques for defining learning outcomes, designing practical and theoretical teaching sessions,
 outlining learning principles, and examining the characteristics of adult learning and their implications for educators.
 
-## 1. Defining Learning Outcomes (LOs)
+## Defining Learning Outcomes (LOs)
 When developing a lesson or curriculum, you need to determine the appropriate level of study, as similar courses can be taught in both undergraduate and postgraduate programs. The complexity
 of the material and the type of degree will vary and determine the learning outcomes. For example, students specialising in data science will encounter more complex concepts earlier in their 
 studies compared to those students not specialising in data science and taking optional courses later in their programs.
@@ -19,8 +19,19 @@ specifics about the course, such as the **course learning outcomes** and the lev
 (Figure 1), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and
 knowledge. 
 
-![Screenshot (28)](https://hackmd.io/_uploads/BJWpcbYYR.png)
-*Figure 1: System for Developing Effective Learning Outcomes for Curriculum or Lessons*
+```{figure} ../../../figures/effective-learning-outcomes.*
+---
+height: 705px
+label: effective-learning-outcomes
+alt: >
+  A flowchart illustrating the process of lesson and curriculum development. The process starts with “Start lesson and curriculum development” followed by identifying the type of program
+  (undergraduate or postgraduate) and the year of study. It then connects to a section titled “Consider equitable outcomes” which includes steps: “Big Picture” “Identify learning outcomes and
+  student competencies at the end of the course” “Identify mode of assessment and feedback” “Assessment and Feedback (define assessment and feedback aligned with learning outcomes)” “Collect
+  evidence of learning” and “Teaching and Learning (type of resources and materials)” ending with “Plan learning and teaching techniques” and “End”. On the right, Bloom’s Taxonomy is presented
+  as a vertical list of six stages for designing learning outcomes.
+---
+Figure 1: _System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Saman Gule building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license*
+```
 
 The learning outcomes can be developed using the helpful list of verbs given in Figure 2. The LOs  provide a broad overview of the course. Next, identify how you will assess the students, 
 considering the frequency and mode of assessment, alongside how you intend to provide feedback and the frequency of providing feedback. At this point, you can collect evidence of previous 
@@ -30,17 +41,17 @@ used for the course. It is very crucial to ensure that the outcomes of the proce
 
 ```{figure} ../../../figures/blooms-taxonomy-verbs.*
 ---
-height: 400px
+height: 980px
 label: blooms-taxonomy-verbs
 alt: >
   A colorful bulb‑shaped graphic showing the hierarchical levels of Bloom’s Taxonomy from bottom to top: Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation, with key action
   verbs listed beside each level.
 ---
-Figure 2: Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)
-_"Bloom’s Taxonomy Verbs" by Fractus Learning is used under a CC BY 4.0 License.
+Figure 2: _Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)._
+_"Bloom’s Taxonomy Verbs"_ by Fractus Learning is used under a CC BY 4.0 License.
 ```
 
-## 2. Types of Sessions
+## Types of Sessions
 
 > Any learning, especially Science learning, can be divided into two parts: theoretical and practical. It is essential to make both types of sessions engaging for the students to enhance
 learning, it can be done by incorporating a variety of interactive and dynamic teaching methods, such as multimedia integration, interactive techniques, coding demonstration, personalisation,
@@ -108,7 +119,7 @@ not considered the brain by students and instructors.</div>
 * **Data Visualisation:** Teaching students how to present data through visualisations, enhancing their communication skills effectively [@Waskom2021statistical].
 * **Machine Learning techniques:** Applying appropriate machine learning algorithms to the data considering the nature of the dataset and the problem being solved.
 * **Performance Evaluation:** The performance of the proposed solution should be evaluated and checked against benchmarks or by experts in the field.
-* **Group Activities:** Promoting collaborative learning through group projects, allowing students to learn from their peers on how a data science team works together for the completion of a project [Qureshi2021factors].
+* **Group Activities:** Promoting collaborative learning through group projects, allowing students to learn from their peers on how a data science team works together for the completion of a project [@Qureshi2021factors].
 * **Inquiry-Based Learning:** Encouraging students to actively ask questions and seek answers, promoting curiosity and self-directed learning.
 ---
 | Method   | Ideal for                                                                                                 |
@@ -169,7 +180,7 @@ that such an integrative method significantly improves student engagement and un
 with gamification and real-world challenges.</div>
 `````
 
-## 3. Adult Learning Principles
+## Adult Learning Principles
 
 > Developing effective and meaningful learning programs for adult learners is a challenge for many higher education institutions. Adults learn differently from children and thus, require
 different teaching methods and approaches. They may also face challenges like financial limitations, preventing them from fully participating in the learning experience. These crucial
@@ -235,7 +246,7 @@ and all are teachers. Try to use discussions as much as possible because it enab
 If an educator teaches only through lectures, then students will probably only remember a fraction of what is said. So, creating participatory sessions where students are actively “saying and
 doing” will help them remember more from the session. 
 
-## 4. Inclusive Teaching & Learning Sessions
+## Inclusive Teaching & Learning Sessions
 
 > Creating an inclusive and supporting environment empowers learners. Developing inclusive teaching and learning sessions is essential to address the diversity within a student group.
 Recognising this diversity is crucial for reducing student attrition in programs. It is important to be aware of the group's demographics, including differences in race, ethnicity, gender,
@@ -269,7 +280,7 @@ Work with other academics in the field to develop and share practices that maxim
 - [ ] **Celebrate small successes** and accomplishments to boost student confidence.</div>
 `````
 
-## 5. Summary
+## Summary
 
 In conclusion, the development of an effective lesson or curriculum requires careful planning and consideration of various elements, including the level of study, program requirements, learner 
 requirements and appropriate teaching methods. By clearly defining competencies and learning outcomes, selecting suitable assessment methods, and incorporating diverse teaching techniques, 
@@ -277,7 +288,7 @@ educators can create engaging and equitable learning experiences. Whether throug
 students can grasp and apply complex concepts effectively. By embracing both conventional and participatory training approaches, educators can foster a dynamic and inclusive learning 
 environment that prepares students for real-world challenges, particularly in data science.
 
-## 6. Resources for Creating Engaging Teaching and Learning Content
+## Resources for Creating Engaging Teaching and Learning Content
 
 ### Creating Accessible Learning & Teaching Materials
 
@@ -314,3 +325,7 @@ updating:
 * [Quizalize](https://www.quizalize.com/) is a gaming platform where teachers can turn formative assessment into a fun classroom team game. It features detailed class and student-level
   analytics, helping educators identify who needs help and on what topics.
 
+
+_This chapter has been written with members of the Educators community that formed as a result of the Data Science and AI Educators Programme (DSAIEP), which ran at The Alan Turing Institute 
+between 2022 and 2023. We would like to acknowledge the contributions of the entire community and the programme organisers. Special thanks to Dr Gule Saman, Thao Do and Denise Bianco who have 
+written this chapter, and the reviewers for their valuable comments and support throughout the process._
