@@ -138,6 +138,53 @@ website using low-code or high-code options.
 
 * [Django](https://www.djangoproject.com/)
 
+(cm-personal-website-hosting)=
+# Hosting a website
+
+To make a website publicly available, it needs to be hosted on some hosting platforms. Some of the common examples to do so are Netlify, GitHub Pages, GitLab Pages, Cloudflare, and many more.
+
+Here is a list of hosting services for different requirements:
+
+(cm-personal-website-host-document-book)=
+## For documentation or book-style websites
+
+* GitHub Pages
+* Netlify
+* Vercel
+* Read the Docs
+
+(cm-personal-website-host-static)=
+## For static websites
+
+For static websites that are based on frameworks like like MyST-based books, Hugo, Jekyll, or Sphinx, here is a list of hosting servcies, which do not require much of backend developemnt:
+
+* GitHub Pages
+* Gitlab Pages
+* Netlify
+* Vercel
+* Cloudflare Pages
+
+(cm-personal-website-host-dynamic)=
+## For Django based (dynamic) websites
+
+If your website has a Python backend (not just static files):
+
+* PythonAnywhere
+* Render
+* Railway.app
+* Heroku
+
+(cm-personal-website-host-general-purpose)=
+## General-purpose web hosting (for most websites)
+
+The following services support most static and dynamic sites (Django, WordPress, and more):
+
+* Bluehost
+* HostGator
+* SiteGround
+* DreamHost
+* GoDaddy
+
 (cm-personal-website-high-customise)=
 ## Highly Customisable Websites
 
