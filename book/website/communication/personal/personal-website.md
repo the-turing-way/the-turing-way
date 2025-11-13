@@ -148,7 +148,7 @@ The techology stack needed for the web development process can be majorly divide
 (cm-personal-website-frontend)=
 ## Frontend development:
 
-This is the process that includes builing the UI/UX i.e. the client or the user side of the website/web application. Some of the most popular programming languages use Hyper Text Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript (JS).
+This is the process that includes builing the UI/UX, that is, the client or the user side of the website/web application. Some of the most popular programming languages use Hyper Text Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript (JS).
 
 (cm-personal-website-backend)=
 ## Backend development:
