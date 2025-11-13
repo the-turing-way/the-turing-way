@@ -68,7 +68,7 @@ Non-functional testing assesses the website's performance, security, and usabili
 (cm-personal-website-deployment)=
 ## Deployment
 
-This is the process of putting the website or application live to be viewed by public. This usually involves transferring the code from a development or staging server to a production server i.e. from a local repository to a remote repository. Once the site or application is live, it needs to be monitored and maintained to ensure that it remains accessible and performant.
+This is the process of putting the website or application live to be viewed by public. This usually involves transferring the code from a development or staging server to a production server, that is, from a local repository to a remote repository. Once the site or application is live, it needs to be monitored and maintained to ensure that it remains accessible and performant.
 
 (cm-personal-website-maintenance)=
 ## Maintenance
