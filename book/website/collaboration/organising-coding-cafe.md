@@ -34,9 +34,9 @@ By actively promoting diversity and inclusion, a programming community like CAFE
 
 A programming CAFE can take on many forms, ranging from the niche application of a specific language
 in a specific field of research, to a language agnostic CAFE providing content to users of all
-skill levels. Each comes with benefits and drawbacks. Too niche, and you are ..., while being too generic
-may not engage people to join, as it will be harder to create the feeling of community if there is no apparent
-focus (but perhaps the goal is to distribute knowledge rather than create a community).
+skill levels. Each comes with benefits and drawbacks. Too niche, and you are catering to a very small potential
+audience, while being too generic may not engage people to join. It will be harder to create the feeling of community
+if there is a lack of focus (but perhaps the goal is to distribute knowledge rather than create a community).
 There is no correct answer. The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-organising-cafes-audience)).
 
 ### Programming languages
