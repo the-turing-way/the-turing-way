@@ -30,7 +30,7 @@ Findings are not objective truths, but interpretations shaped by the researcherâ
 ## Preregistration for qualitative studies: why?
 
 While preregistration has become increasingly common in quantitative research, particularly experimental studies, its implementation and understanding within qualitative research have only recently started to receive attention. 
-As discussed in the chapter [Why Write a Registered Report](#cm-dif-articles-registered-reports), preregistration promotes best practices by encouraging researchers to define their research questions, methods, and analysis plans in advance, distinguishing findings that arise from prediction from those that emerge through postdiction [Nosek2018revolution]. 
+As discussed in the chapter [Why Write a Registered Report](#cm-dif-articles-registered-reports), preregistration promotes best practices by encouraging researchers to define their research questions, methods, and analysis plans in advance, distinguishing findings that arise from prediction from those that emerge through postdiction [@Nosek2018revolution]. 
 Because preregistration was originally designed to test specific hypotheses prior to analysis, some scholars criticise its application to qualitative research. 
 They argue that it may constrain the inherently exploratory and interpretive nature of qualitative inquiry, and that preregistrationâ€™s structured approach can appear too rigid to accommodate the evolving character of qualitative designs [@Weinberger2025what].
 
