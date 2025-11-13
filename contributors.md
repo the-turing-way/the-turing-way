@@ -53,23 +53,27 @@ quote: |
 
 ### Malvika Sharan
 
-* Role: Senior Researcher - Open Research, The Alan Turing Institute
-  * Project Delivery Team member, Co-lead Investigator (2021-Present)
-  * Book Dash Organiser: 2020-2023
-* GitHub: {githubuser}`malvikasharan`
-* ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
-* Short bio:
-> I am a co-lead of The Turing Way, which is part of my responsibility as a TPS Senior Researcher. I also lead a team of Research Community Managers at the Turing.
-> I was previously a community manager (2019-2021).
-> I co-founded the [OLS (previously Open Life Science)](https://openlifesci.org/) training and mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their open projects.
-> I am a fellow of the Software Sustainability Institute. I have several current and previous advisory appointments across different open science initiatives including NASA-TOPS, Code for Science and Society, The Carpentries, Society of RSE, Open Bioinformatics Foundation and MetaDocencia.
-
-* Personal highlights:
-> I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
-> Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
-> Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
-> Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://book.the-turing-way.org/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
-> I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
+:::{profile} Malvika Sharan
+---
+roles: |
+    Senior Researcher - Open Research, The Alan Turing Institute;
+    Project Delivery Team member, Co-lead Investigator (2021-Present);
+    Book Dash Organiser: 2020-2023
+github: malvikasharan
+orcid: 0000-0001-6619-7369
+bio: |
+    I am a co-lead of The Turing Way, which is part of my responsibility as a TPS Senior Researcher. I also lead a team of Research Community Managers at the Turing.
+    I was previously a community manager (2019-2021).
+    I co-founded the [OLS (previously Open Life Science)](https://openlifesci.org/) training and mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their open projects.
+    I am a fellow of the Software Sustainability Institute. I have several current and previous advisory appointments across different open science initiatives including NASA-TOPS, Code for Science and Society, The Carpentries, Society of RSE, Open Bioinformatics Foundation and MetaDocencia.
+highlights: |
+    I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
+    Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
+    Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
+    Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](#ch) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
+    I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
+---
+:::
 
 ### Arielle Bennett
 
