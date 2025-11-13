@@ -28,7 +28,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - The project name, _The Turing Way_, should be italicised.
     - Use line breaks for each line consistent with _The Turing Way_ writing format.
     - Leave at least one line space after each section and subsection.
-- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md#style-guide) for reference.
+- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](#ch-style) for reference.
     - The tone should be welcoming, friendly and preferably informal.
     This can be personal to the author's writing style.
     - Ask more than one person to review your draft to make sure that its content is easy to understand and written clearly.
