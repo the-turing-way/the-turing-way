@@ -50,9 +50,29 @@ In the latter case, once the study is concluded and results are submitted to a j
  
 The preregistration will be approved, and either made public or placed under embargo, once all admin contributors have approved the submission, or 48 hours have passed (whichever comes first). 
 If any admin contributor rejects the registration, the submission will be cancelled and returned as a draft.
-This process applies to all preregistrations on OSF, although specific details may vary depending on the chosen template. [Full guidance is available here](https://help.osf.io/article/330-welcome-to-registrations). 
+This process applies to all preregistrations on OSF, although specific details may vary depending on the chosen template. [Full guidance is available 
+here](https://help.osf.io/article/330-welcome-to-registrations). 
  
 In the qualitative preregistration form, researchers are asked to complete: 
 
+* **Metadata**, including title, description, contributors, and **license** (options range from no license, to open CC-BY, to more restrictive types).
+* **Subjects and tags**, selecting from the [bepress taxonomy](https://www.elsevier.com/products/digital-commons)
+* **Research aims**
+* **Research question(s)**
+* **Anticipated duration**
+* The study **design section**, which covers the overarching strategy, data collection and data analysis, forms the core of a preregistration. In this section, researchers should provide: 
+  * Overarching characterisation of the study design (this could be very brief, e.g., Case studies)
+  * Sampling and case selection strategy
+  * Data source(s) and data type(s)
+  * Data collection methods
+  * Data collection tools, instruments or plans
+  * Stopping criteria
+  * Data analysis approach
+  * Data analysis process
+  * Credibility strategies, such as triangulation with other data sources, or having different researchers analyse the data
+* In the final section, researchers are asked to reflect on their **positionality** and declare any potential **conflict of interest**. 
+ 
+Once your preregistration is submitted, it becomes read-only and can no longer be modified. A DOI is created, along with an associated project 
+reference for your study. 
 
 
