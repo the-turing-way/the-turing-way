@@ -195,7 +195,7 @@ highlights: |
 more: |
     I love that the TTW repo is a place not just to contribute but also to learn, so I wasn't afraid of making mistakes in commits and pull requests. It’s helpful that so many knowledgeable members of the community are there to help!
 quote: |
-    _The Turing Way_ is an ideal place to gather collective knowledge from diverse experiences in data science and open research and to learn by doing.
+    The Turing Way is an ideal place to gather collective knowledge from diverse experiences in data science and open research and to learn by doing.
 ---
 :::
 
@@ -498,7 +498,7 @@ highlights: |
     In the previous Book Dash, I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter into Arabic.
     Although November 2021 Book Dash week was hectic (homeless twice while looking for a hotel in a foreign country) looking back it was a fascinating week. I'm always grateful to be part of such a community - in the past week, I was inspired by everyone's work and very thankful for the Book Dash Planning Committee who are always patient with me. I was also so lucky to work with the wonderful Andrea Sanchez Tapia  and Alejandro Coca on a new workflow for the translation.
 quote: |
-    Being part of _The Turing Way_ community not only nourishes my skills but miraculously treats my anxiety and depression. I always feel grateful for being here. Thank you so much to everyone I met at this Book Dash event :heart:.
+    Being part of The Turing Way community not only nourishes my skills but miraculously treats my anxiety and depression. I always feel grateful for being here. Thank you so much to everyone I met at this Book Dash event :heart:.
 ---
 :::
 
