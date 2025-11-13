@@ -47,7 +47,7 @@ In this phase, the website structure plus the visual components and content, inc
 
 The development (& coding) phase of the web development process is when the actual content (in case of low-code/no-code frameworks) and/or code (in case of high-code frameworks) for the website is written. For high-code framwworks, this can be done using a variety of programming languages, depending on the functionalities required in the website. This is where the developer takes all of the designs, wireframes, and other elements from the previous phases and turns them into a working website.
 
-In some cases, the entire site may be coded from scratch, but developers usually prefer using pre-existing tools or frameworks to speed up the process. Some of the commonly used frameworks are mentioned in the [Frameworks]((cm-personal-website-frameworks)=) section below.
+In some cases, the entire site may be coded from scratch, but developers usually prefer using pre-existing tools or frameworks to speed up the process. Some of the commonly used frameworks are mentioned in the [Frameworks](cm-personal-website-frameworks)= section below.
 
 (cm-personal-website-test-review)=
 ## Testing and review
@@ -56,9 +56,11 @@ The next stage in the process involves testing the website comprehensively to re
 
 The testing phase can be divided into two main categories:
 
+(cm-personal-website-test-functional)=
 ### Functional testing: 
 Functional testing focuses on verifying that the website performs its intended tasks.
 
+(cm-personal-website-test-non-functional)=
 ### Non-functional testing: 
 
 Non-functional testing assesses the website's performance, security, and usability.
