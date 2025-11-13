@@ -984,30 +984,28 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 ### Jim Madge
 
 :::{profile} Jim Madge
-:github: JimMadge
-:orcid: 0000-0001-6044-164X
-:mastodon: JimMadge@fosstodon.org
-:website: https://blog.jmadge.com
+---
+roles: >
+ Steering Committee (2024-present);
+ Infrastructure Working Group Chair (2024-present);
+ Infrastructure Working Group (2023-present);
+ Book Dash Participant (2022-2023)
+github: JimMadge
+orcid: 0000-0001-6044-164X
+mastodon: JimMadge@fosstodon.org
+website: https://blog.jmadge.com
+bio: |
+    I'm a senior research software engineer at The Alan Turing Institute.
+    I studied chemistry at Durham University for my master's and PhD.
+    I've been passionate about Linux and FOSS since being introduced to both in computational chemistry courses.
+    On the Infrastructure Working Group, I help to manage and explain the technology that makes _The Turing Way_ work.
+
+    Outside of _The Turing Way_ I contribute to Jupyter Book, All Contributors and help organise the FOSDEM Open Research Devroom.
+highlights: >
+    Being asked to join/found/co-lead the Infrastructure Working Group.
+    It is great to know that your skills and thoughts are valued 🥹.
+---
 :::
-
-* Role:
- * Core Member, Infrastructure Co-lead (2023-present)
- * Book Dash Participant (2022-2023)
-* ORCID: {orcid}`0000-0001-6044-164X`
-* GitHub: {githubuser}`JimMadge`
-* Mastodon: {mastodon}`JimMadge@fosstodon.org`
-* Website: {website}`https://blog.jmadge.com`
-
-* Short bio:
-> I'm a senior research software engineer at The Alan Turing Institute.
-> I studied chemistry at Durham University for my master's and PhD.
-> I've been passionate about Linux and FOSS since being introduced to both in computational chemistry courses.
-> In my work (and free time) I like to think about high performance computing, infrastructure, configuration management and automation.
-> On the Infrastructure Working Group, I help to manage and explain the technology that makes _The Turing Way_ work.
-
-* Personal highlights:
-> Being asked to join/found/co-lead the Infrastructure Working Group.
-> It is great to know that your skills and thoughts are valued 🥹.
 
 ### José María Fernández
 
