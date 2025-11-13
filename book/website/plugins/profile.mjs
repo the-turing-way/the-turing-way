@@ -237,6 +237,18 @@ const profileDirective = {
       });
     }
 
+    // Card items
+    for (const [title, data] of [
+      ["Short biography", bio],
+      ["Personal higlights", highlights],
+      ["More information", more],
+    ]) {
+      if (data) {
+        // Parse data as MyST to allow Markdown formatting
+        card_children.push(cardItem(title, ctx.parseMyst(data)));
+      }
+    }
+
     // Quote
     if (quote) {
       card_children.push({
@@ -275,6 +287,19 @@ function listItem(prefix, role, data) {
         value: `${prefix}: `,
       },
       role.run({ body: data })[0],
+    ],
+  };
+}
+
+function cardItem(title, nodes) {
+  return {
+    type: "card",
+    children: [
+      {
+        type: "cardTitle",
+        children: [{ type: "text", value: title }],
+      },
+      nodes,
     ],
   };
 }
