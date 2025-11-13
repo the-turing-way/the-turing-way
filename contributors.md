@@ -20,6 +20,33 @@ You can also describe the impact _The Turing Way_ may have on you or your team m
 
 This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
 
+<!--
+Here is a template for you to use when adding your profile.
+The fields are optional, so leave any out that don't apply.
+
+:::{profile} Your Name
+---
+roles: >
+    semi-colon seperated list;
+    of your roles;
+    in _The Turing Way_
+github: <GitHub id without leading @>
+orcid: <orcid>
+mastodon: <Mastodon id without leading @, like person@mastodon.social>
+twitter: <Twitter id without leading @>
+website: <website url>
+bio: |
+    A short Biography about yourself
+highlights: |
+    A few highlights about your experiences in _The Turing Way_
+more: |
+    Some further information about yourself
+quote: |
+    A personal quote
+---
+:::
+-->
+
 ## Project Delivery Team Members
 
 *The Turing Way* Project Delivery Staff are project and community members who work on the project in a paid capacity such as through employment.
