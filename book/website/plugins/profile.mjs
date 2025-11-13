@@ -119,6 +119,43 @@ const websiteRole = {
   },
 };
 
+const communityRolesRole = {
+  name: "communityroles",
+  docs: "Create a list of your roles in the community",
+  body: {
+    type: String,
+    doc: "A semicolon-seperated (;) list of roles",
+    required: true,
+  },
+  run(data) {
+    const roles = data.body.split(";");
+    let node = {};
+    if (roles.length == 1) {
+      node = {
+        type: "text",
+        value: roles[0],
+      };
+    } else {
+      let items = [];
+      for (const role of roles) {
+        items.push({
+          type: "listItem",
+          spread: true,
+          children: [{ type: "text", value: role }],
+        });
+      }
+      node = {
+        type: "list",
+        ordered: false,
+        spread: false,
+        children: items,
+      };
+    }
+
+    return [node];
+  },
+};
+
 const profileDirective = {
   name: "profile",
   doc: "Build a user profile for our contributors record.",
@@ -157,7 +194,7 @@ const profileDirective = {
       type: String,
       doc: "A personal quote for your profile",
     },
-    role: {
+    roles: {
       type: String,
       doc: "Your role(s), or previous role(s), in The Turing Way",
     },
@@ -179,7 +216,7 @@ const profileDirective = {
     const more = data.options?.more ?? null;
     const orcid = data.options?.orcid ?? null;
     const quote = data.options?.quote ?? null;
-    const role = data.options?.role ?? null;
+    const roles = data.options?.roles ?? null;
     const twitter = data.options?.twitter ?? null;
     const website = data.options?.website ?? null;
 
@@ -216,7 +253,9 @@ const profileDirective = {
 
     // List items
     let list_items = [];
+
     for (const [prefix, role, data] of [
+      ["Role", communityRolesRole, roles],
       ["GitHub", gitHubUserRole, github],
       ["ORCID", orcidRole, orcid],
       ["Mastodon", mastodonRole, mastodon],
@@ -307,7 +346,14 @@ function cardItem(title, nodes) {
 const plugin = {
   name: "Profile",
   directives: [profileDirective],
-  roles: [gitHubUserRole, orcidRole, twitterRole, mastodonRole, websiteRole],
+  roles: [
+    gitHubUserRole,
+    orcidRole,
+    twitterRole,
+    mastodonRole,
+    websiteRole,
+    communityRolesRole,
+  ],
 };
 
 export default plugin;
