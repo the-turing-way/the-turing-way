@@ -14,7 +14,3 @@ updates:
       actions:
         patterns:
           - "*"
-    ignore:
-      # Ignore minor upgrades to reduce noise.
-      - update-types: ["version-update:semver-minor"]
-        dependency-name: "*" # Match all packages
