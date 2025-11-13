@@ -123,7 +123,7 @@ You can open these files to see their content. The `index.qmd` file is the homep
 
 2. **Customize Your Website**: Open the `_quarto.yml` file and modify the title to reflect your personal information. You can also customize the theme and layout of your website by exploring the Quarto documentation (https://quarto.org/docs/websites/).
 
-::: {.callout-note title="Aboutqmd files"}
+::: {.callout-note title="About qmd files"}
 .qmd files are Quarto markdown files. They are similar to .Rmd files used in R Markdown but are more versatile as they support multiple programming languages, including R, Python, and Julia. These files allow you to combine narrative text with code chunks that can generate figures, tables, and other outputs, making them ideal for creating dynamic and interactive content. 
 :::
 
