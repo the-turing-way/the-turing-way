@@ -325,9 +325,9 @@ roles: |
     Book Dash participant (2024)
 github: amefonaffia
 orcid: 0000-0001-7627-1198
-Short bio:
+bio: |
     I am a Security Engineer and a Lecturer in Information Security at the University of Tartu. I am currently focusing my research efforts on hackathons as collaborative learning environments. Generally, I am focusing on collaborative strategies that can bridge the gap between theory and practice in information security and human aspects of cybersecurity.
-Personal highlights:
+highlights: |
     Biggest highlight is simply attending Book Dash for the first time, having the opportunity to contribute to the Hybrid collaboration chapter and actually finalise current contributions. I had very interesting conversations, revealing impactful intersections of hybrid collaboration with other topics in TTW book, and I hope to continue to work on this Chapter and other Chapters with other collaborators.  I also met new friends at this event too -- S/O to \@sandygudie! Very appreciative of the planning and execution of the event and the welcoming and helpful community.
     I had been a bit rusty on working collaboratively on Github, so this was a great refresher.
 more: |
@@ -848,10 +848,10 @@ bio: |
     I am a fullstack developer and enjoy contributing to open source projects. I contribute to the open science community Saudi Arabia and contribute to the localization effort in the TTW. I have a couple of articles on [medium](https://medium.com/@sandygoody) on various web technologies and activities. I enjoy contributing to Open Source.
 more: |
     This is my first Bookdash event and I am excited for the contribution I made during this period. I collaborated with \@SaranjeetKaur  to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
-Personal highlights:
+highlights: |
     2023: The event was enlightening, I learned a lot about The Turing Way community.
     2024: Thanks to the bookdash, I was able to make a contribution to the localisation of the TTW Handbook. I got to learn about the challenges andnthe effort to improve the process. I contribute to writing documentation on the history and localization efforts in the TTW so far. it covers the achievements and challenges.
-Quotes:
+quote: |
     2024: So excited that I learned and met a new friend Abasi-amefon Affia.
 ---
 :::
