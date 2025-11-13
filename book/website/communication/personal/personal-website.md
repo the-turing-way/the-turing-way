@@ -105,7 +105,7 @@ Using Quarto for building academic websites offers several advantages:
 ## Getting Started with Quarto
 To get started with Quarto, follow these steps:
 1. **Install Quarto**: Download and install Quarto from the official website (https://quarto.org/).
-2. Choose your preferred IDE (e.g., RStudio, VS Code) for editing Quarto files. We recommend RStudio for R users and VS Code for Python and Julia users. This tutorial will use VS Code.
+2. Choose your preferred IDE (for example, RStudio, VS Code) for editing Quarto files. We recommend RStudio for R users and VS Code for Python and Julia users. This tutorial will use VS Code.
 3. **Install VS Code**: Download and install Visual Studio Code from the official website (https://code.visualstudio.com/).
 4. **Install Quarto Extension**: In VS Code, go to the Extensions view (Ctrl+Shift+X), search for "Quarto", and install the Quarto extension.
 5. **Set Up Git and GitHub**: If you plan to host your website on GitHub Pages, ensure you have Git installed on your computer and create a GitHub account if you don't have one already.
@@ -116,6 +116,16 @@ To get started with Quarto, follow these steps:
 This step creates the basic structure of your Quarto website, including necessary files and folders. Let's have a look at them.
 
 ![The file structure of a newly create Quarto project](book/figures/file_structure_quarto_project.png)
+
+First, we see the `_quarto.yml` file. This is the main configuration file for your Quarto website. It contains metadata about your site, such as the title (which you can change immediately, if you want), information about the location of the navbar (in this case, left) and the theme. You should also see that two pages are already created for you: `index.qmd` and `about.qmd`. From these two examples, you cans see that there are two ways to link content to the navbar: either by specifying the file name directly (as in the case of `about.qmd`) or by providing a title and a file name (as in the case of `index.qmd`). In the latter case, the title specified ("text") will be displayed in the navbar instead of the title from the file itself.
+
+You can open these files to see their content. The `index.qmd` file is the homepage of your website, while the `about.qmd` file contains information about you or your research.
+
+2. **Customize Your Website**: Open the `_quarto.yml` file and modify the title to reflect your personal information. You can also customize the theme and layout of your website by exploring the Quarto documentation (https://quarto.org/docs/websites/).
+
+::: {.callout-note title="Aboutqmd files"}
+.qmd files are Quarto markdown files. They are similar to .Rmd files used in R Markdown but are more versatile as they support multiple programming languages, including R, Python, and Julia. These files allow you to combine narrative text with code chunks that can generate figures, tables, and other outputs, making them ideal for creating dynamic and interactive content. 
+:::
 
 
 
