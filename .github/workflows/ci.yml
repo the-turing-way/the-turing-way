@@ -12,10 +12,6 @@ defaults:
   run:
     shell: bash
 
-permissions:
-  issues: write
-  pull-requests: write
-
 jobs:
   build-jb:
     name: Build
@@ -26,6 +22,9 @@ jobs:
       fail-fast: false # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
+    permissions:
+      issues: write
+      pull-requests: write
 
     steps:
       - name: Extract the PR number from the ref
