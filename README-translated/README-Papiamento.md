@@ -69,7 +69,7 @@ E colaboradornan di largo duracion ta considera parti di e grupo di colaborador 
 
 E proyecto ta coordina door di lider investigador **Kirstie Whitaker** (fundador) y **Malvika Sharan** (desaroyador di comunidad) y ta hospeda na [The Alan Turing Institute](https://www.turing.ac.uk/).
 
-Bo por lesa con ta hasi [e proceso di reconosemento como parti di _The Turing Way_](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y e [Registro di Colaboradornan](https://book.the-turing-way.org/afterword/contributors-record.html) pa conoce con ta hasi e reconocimento di trabou y nos Colaboradornan destaca.
+Bo por lesa con ta haci [e proceso di reconosemento como parti di _The Turing Way_](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y e [Registro di Colaboradornan](https://book.the-turing-way.org/afterword/contributors-record.html) pa conoce con ta haci e reconocimento di trabou y nos Colaboradornan destaca.
 Por fabor bishita e [Panel di Colaboradornan](#Colaboradornan) pa mira e profil di Github di tur nos colaboradornan.
 
 ### Contribui
