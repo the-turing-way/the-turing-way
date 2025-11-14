@@ -33,9 +33,11 @@ In brief, FAIR data should be:
 
 **Findable:** The first step in (re)using data is to find it!
 Descriptive metadata (information about the data such as keywords) is essential.
+Persistent identifiers (PIDs) are fundamental to making research findable - they provide globally unique identifiers that resolve to landing pages with rich metadata. See our [chapter on persistent identifiers](rr-rdm-pid) for details on how PIDs enable findability.
 
 **Accessible:** Once the user finds the data and software they need to know how to access it.
 Data could be openly available but it is also possible that authentication and authorisation procedures are necessary.
+PIDs resolve to landing pages that describe access conditions even for restricted resources. Learn more in our [PIDs and FAIR Principles](rr-rdm-pid-fair) section.
 
 **Interoperable:** Data needs to be integrated with other data and interoperate with applications or workflows.
 
