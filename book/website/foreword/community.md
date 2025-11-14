@@ -27,16 +27,6 @@ Often, reviewers are also invited from beyond the community to ensure new member
 * **Translators**: Contributors work the the Translation and Localisation team in translating any part of a chapter in the book as described in the {ref}`ch-translation`.
 * **Ad-hoc advisors/consultants**: Individuals who are invited by our community members to ask for guidance and expertise in the context of their work in the book, community, or the overall project.
 
-(fw-community-delivery-team)=
-## Project Delivery Team (Legacy)
-
-Between 2019 and June 2025, the project had received funding for several roles at The Alan Turing Institute
-who provide ongoing support for the community management and delivery of the project goals.
-
-The project delivery team is constituted by the funded roles.
-The project delivery responsibility has since been taken on by the Steering Committee and various Working Groups to engage and involve community members across a range of activities that contribute to the development, 
-maintenance and sustainability of _The Turing Way_.
-
 ### Mentored-Contributions
 
 Existing members of the community are connected with new contributors for support and mentoring, such as helping navigate _The Turing Way_ repository, workflow, writing process or even reviewing. 
@@ -54,8 +44,10 @@ We are committed to providing an open, accessible and inclusive space for all ou
 
 Roles beyond the book can involve, but are not limited to the following:
 
-* **Reviewers and maintainers** of the book and underlying infrastructure
+* **Working Group Members (maintenance level members)** provide leadership, stewardship and support across different parts of the project and the community (described in {ref}`fw-governance`).
+* **Steering Committee (constitution level members)** is constituted by chairs and/or representatives from across Working Groups and collaborative projects within _The Turing Way_ (described in {ref}`fw-governance`).
 * **Advocates and champions** of _The Turing Way_ resources, who help others navigate the book, repositories and communications channel
+* **Reviewers and Chapter Maintainers** of the book and underlying infrastructure
 * **Co-creators** of content and infrastructure at any level from fixing bugs to adding new content beyond the book
 * **Mentors and consultants** in specific areas of work, including responding to questions from other community members on GitHub and Slack
 * **Sustained contributors** who provide expert consultation to improve the resources over a prolonged duration
@@ -64,6 +56,7 @@ Roles beyond the book can involve, but are not limited to the following:
 * **_The Turing Way_ curious** (‘lurkers’) users of resources who read, adopt and share best practices from _The Turing Way_ in their work and participate in public events/communications channel
 * Members sharing **personal experience** (which we value a lot!) to enrich _The Turing Way_ resources with real-world contexts
 * **Speakers and presenters** of any aspect of _The Turing Way_ at different events and contexts.
+* Legacy - Project Delivery Team: Between 2019 and 2025, the project was hosted by The Alan Turing Institute and received funding for several roles to support the community management and delivery of the project goals. These roles formed the project delivery team, previously responsible for constitution level governance.
 
 New contributors to _The Turing Way_ can begin their journey at any time, and through various pathways including voluntary participation, invited contribution, training/workshop-based introduction, organisational collaboration, and personal collaboration with other community members or others.
 
