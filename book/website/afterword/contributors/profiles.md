@@ -168,7 +168,7 @@ more: |
 ---
 :::
 
-## All contributors information are listed alphabetically
+## Contributors
 
 <!---A--->
 ## A
