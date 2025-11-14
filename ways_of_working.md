@@ -67,18 +67,11 @@ All members are welcome to join these calls! ✨
 - 📝 **Onboarding calls**: These calls are hosted by the community management Working Groups to onboard new members of the community in the project ([Onboarding and Offboarding Chapter](https://book.the-turing-way.org/community-handbook/onboarding-offboarding)).
 - 📝 **Fireside Chats**: _The Turing Way_ members collaborate with different communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research/data science communities ([Fireside Chat Chapter](https://book.the-turing-way.org/community-handbook/fireside-chat)).
 
-### Working Groups and Meetings
+## Events and Meetings
 
-- ✅ **Translation and Localisation Meetings**: Every second Tuesday at 16:00 UK time, members of the Translation and Localisation Working Groups share this coworking space to carry out translation work across several languages, and support each other ([Translation Chapter](https://book.the-turing-way.org/community-handbook/translation)).
-- ✅ **Infrastructure Monthly Meetings**: Every second Tuesday of the month, at 16:00 UK time, members of the Infrastructure Working Groups work together on infrastructure-related maintenance and development efforts ([Infrastructure Chapter](https://book.the-turing-way.org/community-handbook/infrastructure)).
-- ✅ **Accessibility Monthly Meeting**s: Every second Monday of the month, at 17:00 UK time, members of the Accessibility Working Group work together on access-related chapters and guidance for the community ([Accessibility Chapter](https://book.the-turing-way.org/community-handbook/accessibility)).
-- ✅ **Book Dash Meetings**: Every month (day and time variable) between planning Book Dashes. Members of the Book Dash Working Group work together to make long term strategic decisions about our Book Dash events and they help to form and run the Book Dash planning committees [Book Dash WG repository](https://github.com/the-turing-way/bookdash).  Once the planning committee has been formed for each Book Dash, they meet more regularly (bi-weekly) in the run up to the Book Dash events in May and November each year.
-- ✅ **Community Management Meetings**: Every Tuesday, 10:00 UK time. Members of the Community Management Working Group work together to engagement and communicate with our community. Join the #community-management channel on Slack for more.
+Details of regular and special events are recorded in the community calendar.
 
-### Group-Specific Events and Meetings
-
-- **Book Dash**: These bi-yearly online or hybrid events are hosted by the Book Dash Working Group. These are less intense versions of Book Sprint, inviting members through an application-based selection process to work on specific areas of the book and/or community initiatives ([Book Dash Chapter](https://book.the-turing-way.org/community-handbook/bookdash)).
-- **Steering Committee Meetings**: These meetings will be organised on a monthly basis for the members working together at the Constitutional Level. Dates and times will be communicated with the members of the Steering Committee.
+<iframe src="https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## GitHub management
 
