@@ -130,7 +130,7 @@ Bo por tuma contacto cu e ekipo di *The Turing Way* mandando un email na [thetur
 
 #### Chat
 
-Conecta cu otro hendenan y comparti bo ideanan na Slack usando [e enlace di invitacion aki](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
+Conecta cu otro hendenan y comparti bo ideanan na Slack uzando [e enlace di invitacion aki](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 
 #### Ricibi actualisacion
