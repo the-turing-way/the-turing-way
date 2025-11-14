@@ -516,9 +516,9 @@ github: bsipocz
 orcid: 0000-0002-3713-6337
 bio: |
     I am an astronomer turned Research Software Engineer.
-    I work at Caltech/IPAC to build and improve tools, e.g. Python libraries and Science Platforms to provide ways to access data in the NASA/IPAC Infrared Science Archive.
+    I work at Caltech/IPAC to build and improve tools, like Python libraries and Science Platforms to provide ways to access data in the NASA/IPAC Infrared Science Archive.
     Prior joining IPAC I was DiRAC Fellow in the data engineering team at the Institute for Data Intensive Research in Astrophysics and Cosmology in Seattle.
-    I am a developer and maintainer of several open source astronomy libraries and their infrastructure (e.g. astroML, astroquery, astropy) and I enjoy contributing to upstream projects as well.
+    I am a developer and maintainer of several open source astronomy libraries and their infrastructure (including astroML, astroquery, astropy) and I enjoy contributing to upstream projects as well.
     I have a keen interest in finding ways to promote the open development model and make tools more sustainable.
     I am a fellow of the Software Sustainability Institute.
 ---
