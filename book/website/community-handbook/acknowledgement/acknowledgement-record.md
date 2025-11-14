@@ -4,7 +4,7 @@
 The [](#contributors-record) in the [](#aw) is where contributors to _The Turing Way_ are presented.
 The [](#contributors-record) draws from three sources,
 
-:::{table}
+:::{table} The current sources for contributor information and how they are presented in the book.
 :label: tab-contribution-records
 | Record type                        | Source                                                                                                                    | Presented in                          |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
