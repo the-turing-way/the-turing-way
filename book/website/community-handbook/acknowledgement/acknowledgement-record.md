@@ -10,7 +10,7 @@ The [](#contributors-record) draws from three sources,
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | Individual highlights and profiles | [Page source](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/afterword/contributors/profiles.md) | [](#contributors-record-individual)  |
 | All contributors                   | [All contributors file](https://github.com/the-turing-way/the-turing-way/blob/main/.all-contributorsrc)                   | [](#contributors-record-all)          |
-| Translations                       | Crowdin API                                                                                                               | [](#contributors-record-translators)) |
+| Translations                       | Crowdin API                                                                                                               | [](#contributors-record-translators) |
 :::
 
 
