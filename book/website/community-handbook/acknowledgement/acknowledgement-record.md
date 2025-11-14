@@ -43,7 +43,12 @@ alt: Table with different emojis that is used by the contributors bot
 [Emoji key table](https://allcontributors.org/docs/en/emoji-key) of the all contributors bot that _The Turing Way_ uses for acknowledging different contributions from community members.
 ```
 
+(ch-acknowledgement-record-individual)=
 ### Individual highlights and profiles
+
+To add or edit your profile on the [](#contributors-record-invidual) page, edit that page.
+We use the [`profile`](#ch-style-roles-profile) directive to create entries.
+Instructions for how to use the directive are given [here](#ch-style-roles-profile).
 
 All types of contributions made towards _The Turing Way_ can be added to [](#contributors-record-highlights).
 These highlights can be individually decided by the contributors to record what they consider to be their significant and useful contributions for their personal profile.
