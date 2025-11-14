@@ -83,7 +83,7 @@ Pa esey, nos ta provee varios punto di entrada pa bo por colabora basa riba bo i
 
 ![E imagen aki ta mustra seis tipo di contribucion cu cualke hende por hasi. Esakinan ta: Desaroyay comparti, Mantene y mehora, Comparti recurso, Revisa y actualisa, Hacie global pa medio di traducion, y Comparti e miho practicanan](../book/figures/README_imgs/README_contributions.png)
 
-E contribucionnan ta inclui e desaroyo y difucion di nobo capitulonan; mantencion y mehora capitulonan exsistente; compartí recurso di _The Turing Way_; revisa y actualisa material desaroya anteriormente; traduci e capitulonan pa yuda hasi e proyecto aki acsesibel di forma global, y compartí e miho prakticanan den investigashon.
+E contribucionnan ta inclui e desaroyo y difucion di nobo capitulonan; mantencion y mehora capitulonan exsistente; comparti recurso di _The Turing Way_; revisa y actualisa material desaroya anteriormente; traduci e capitulonan pa yuda haci e proyecto aki accesibel di forma global, y comparti e miho practicanan den investigacion.
 
 E miembronan di comunidad tin oportunidad pa siña habilidadnan nobo, comparti nan ideanan y colabora entre nan mes.
 Nan tambe tin oportunidad di mentoria den e proyecto mientras nan ta haci nan contribucionnan den The Turing Way of otro proyectonan di codigo habri y ta invita pa guia nobo participante den e proyecto.
