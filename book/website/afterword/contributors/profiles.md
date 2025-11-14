@@ -1081,7 +1081,7 @@ roles: |
    Core developer of Training Materials (2022-2023);
    Book Dash Participant (2022-2023)
 github: colomb
-orcid: | 0000-0002-3127-5520
+orcid: 0000-0002-3127-5520
 bio: |
     Former neuro-geneticist (10 years of research on fruit fly memory and behaviour), I have been more recently interested in data analysis and management, as a specialisation for my interests in open science (open research). I am presently working on ways (technical and social) to implement the principles of FAIR and open data in the lab workflow and ways to foster collaboration between researchers via the SmartFigure Gallery project.
 highlights: |
