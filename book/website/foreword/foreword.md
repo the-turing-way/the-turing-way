@@ -9,7 +9,7 @@ This is an introductory section of _The Turing Way_ as a project, a handbook, an
 Here you will find chapters providing contexts and background on the book, how you can use it, how you can contribute to different aspects of the project, and how you can participate in this community.
 
 Kirstie Whitaker, founder and the project lead until November 2024, discussed "Emergent Strategy" and how it has inspired her leadership and the foundation of _The Turing Way_.
-Malvika Sharan, a previous project lead until Jun2 2025 also shared her reflections from working with the community and how _The Turing Way_ applies approaches that underpin the "Principles of Digital Commons."
+Malvika Sharan, a previous project lead until June 2025 also shared her reflections from working with the community and how _The Turing Way_ applies approaches that underpin the "Principles of Digital Commons."
 
 Finally, we provide details on community roles, citation process and frequently asked questions to help identify the right places for you to get involved.
 
