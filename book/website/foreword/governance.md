@@ -18,8 +18,8 @@ In 2023-2024, _The Turing Way_ adopted three institutional "levels".
 Originally described in the context of Studies of the institutional design of natural resource commons {cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making {cite}`Schweik2007commons`.
 
 1. The “Community level" norms influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
-2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community-level participation easier.
-3. At the "Constitutional" level, nominated community leaders from the Maintenance level participate in the Turing Way Steering Committee. 
+2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community level participation easier.
+3. At the "Constitution" level, nominated community leaders from the Maintenance level participate in the Turing Way Steering Committee. 
 The Steering Committee covers decisions at a strategic, whole-project level, such as the establishment of Working Groups, and creating and revising project-related norms that affect the whole of the project, the community and their sustainability.
 
 ```{figure} ../../figures/turing-way-governance-2.jpeg
@@ -58,7 +58,7 @@ Members may have made contributions to the book, participated in an event or sim
 Participation in _The Turing Way_ doesn’t only involve contributions to the Book.
 ```
 
-Decisions and activities undertaken by community-level members may include the following: 
+Decisions and activities undertaken by community level members may include the following: 
 * Making individual contributions such as creating an issue, fixing a bug, committing a change on existing chapters, and reviewing Pull Requests.
 * Joining and inviting new individuals to community meetings such as Collaborations Cafe and Co-working sessions.
 * Presenting about *The Turing Way* at an event.
@@ -77,7 +77,7 @@ Decisions and activities undertaken by community-level members may include the f
 We have discussed specific roles under this level in {ref}`fw-community`.
 
 Guidelines and processes for this level are described in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`ch`.
-These processes and resources are co-developed by maintenance-level members with the involvement of members from the community and constitution levels as needed.
+These processes and resources are co-developed by maintenance level members with the involvement of members from the community and constitution levels as needed.
 
 ### Maintenance Level
 
@@ -120,12 +120,12 @@ Decisions at the maintainer level may include the following:
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
-### 3. Constitutional Level
+### 3. Constitution Level
 
 Governance at this level encompasses strategic decisions and significant project changes, including project goals, governance processes, funding, recruitment and shared leadership.
-Steering Committee members provide advice and ensure accountability for community- and maintenance-level efforts.
+Steering Committee members provide advice and ensure accountability for community- and maintenance level efforts.
 
-Decisions at the constitutional level may include the following, but are not limited to:
+Decisions at the constitution level may include the following, but are not limited to:
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, recruiting staff and allocating budget.
 - Building clarity around resources available for the maintainers and community members.
@@ -135,7 +135,7 @@ Decisions at the constitutional level may include the following, but are not lim
 - Support WGs in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
 - Meeting other project and community-wide obligations and communicating them transparently to the community.
 
-Between 2019 and 2025, the project was hosted and funded by The Alan Turing Institute and governed by the Project Delivery Team that supported the formalisation of the three-level governance - now represented by the constitution level Steering Committee.
+Between 2019 and 2025, the project was hosted and funded by The Alan Turing Institute and governed by the Project Delivery Team that supported the formalisation of the three level governance - now represented by the constitution level Steering Committee.
 This document is in its early stages and will evolve in conversation with the community.
 
 #### Membership in the Steering Committee
@@ -161,16 +161,16 @@ Find details in the {ref}`fw-governance-roles`.
 
 #### Roles and Responsibilities of the Steering Committee
 
-As part of maintenance-level Working Groups or Delivery Groups, committee members are responsible for escalating project- and community-wide decisions to the constitutional level and participating in the decision-making processes.
+As part of maintenance level Working Groups or Delivery Groups, committee members are responsible for escalating project- and community-wide decisions to the constitution level and participating in the decision-making processes.
 
-As part of the constitution-level Steering Committee, they are responsible for actively engaging community members by transparently sharing discussions and outcomes from the constitutional level.
+As part of the constitution level Steering Committee, they are responsible for actively engaging community members by transparently sharing discussions and outcomes from the constitution level.
 They solicit feedback on decisions (such as, via GitHub issues and newsletters) and approve changes that improve project and community functioning.
 
 *Documentation on governance including the roles and responsibilities of the Steering Committee will be reviewed and approved by the inaugural Steering Committee in 2025.*
 
 #### Community Forums
 
-Since 2024, the constitutional level group has been hosting open/public community events called 'Community Forums' to discuss governance-related matters with our community members and anyone who is interested in understanding the community and project management aspects of _The Turing Way_.
+Since 2024, the constitution level group has been hosting open/public community events called 'Community Forums' to discuss governance-related matters with our community members and anyone who is interested in understanding the community and project management aspects of _The Turing Way_.
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made.
 Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements.
 
