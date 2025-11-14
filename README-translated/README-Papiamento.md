@@ -81,7 +81,7 @@ Ta spera cu tur personanan cu kier uni na e proyecto sigui nos [código di condu
 Nos kier conoce nos colaboradornan ken nan ta.
 Pa esey, nos ta provee varios punto di entrada pa bo por colabora basa riba bo interes, disponibilidad of habilidadnan.
 
-![E imagen aki ta mustra seis tipo di contribucion cu cualke hende por hasi. Esakinan ta: Desaroyay komparti, Mantene y mehora, Compartí recurso, Revisa y actualisa, Hasie global pa medio di traducion, y Comparti e miho practicanan](../book/figures/README_imgs/README_contributions.png)
+![E imagen aki ta mustra seis tipo di contribucion cu cualke hende por hasi. Esakinan ta: Desaroyay comparti, Mantene y mehora, Comparti recurso, Revisa y actualisa, Hacie global pa medio di traducion, y Comparti e miho practicanan](../book/figures/README_imgs/README_contributions.png)
 
 E contribucionnan ta inclui e desaroyo y difucion di nobo capitulonan; mantencion y mehora capitulonan exsistente; compartí recurso di _The Turing Way_; revisa y actualisa material desaroya anteriormente; traduci e capitulonan pa yuda hasi e proyecto aki acsesibel di forma global, y compartí e miho prakticanan den investigashon.
 
