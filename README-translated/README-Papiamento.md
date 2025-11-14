@@ -88,7 +88,7 @@ E contribucionnan ta inclui e desaroyo y difucion di nobo capitulonan; mantencio
 E miembronan di comunidad tin oportunidad pa siña habilidadnan nobo, comparti nan ideanan y colabora entre nan mes.
 Nan tambe tin oportunidad di mentoria den e proyecto mientras nan ta haci nan contribucionnan den The Turing Way of otro proyectonan di codigo habri y ta invita pa guia nobo participante den e proyecto.
 
-Nos a crea un [pakete di promoshon](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) pa yuda bo presenta y compartiThe Turing Way den bo red.
+Nos a crea un [pakete di promocion](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) pa yuda bo presenta y comparti The Turing Way den bo red.
 
 ### Sita _The Turing Way_
 
