@@ -100,5 +100,3 @@ This process will not only help the _The Turing Way_ team members in getting you
 ## Reference:
 
 - This file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) shared at the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/).
-
-<!---Git Log History: see the full log please see the 'blame button' or use this git command `git log --follow -p -- persona-contributors.md`--->

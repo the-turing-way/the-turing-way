@@ -1,28 +1,24 @@
-# Record of Contributions
+(contributors-record-individual)=
+# Individual Contributors
 
-Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-We recognise all these contributions and acknowledge our community members fairly.
-For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors)).
-We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
-Therefore, we also offer the [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
-
-Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors".
-Organisational support and collaborations are listed in the section, "Collaborating Organisations".
-Each organisation's name and details will be listed separately followed by the contribution details of each contributor from that organisation.
-
-:::{hint}
-The community handbook [explains how to use the profile directive to add a profile](#ch-style-roles-profile).
-:::
-
-Please see the [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
+Individual contributors are welcome to provide their details for [this section](#contributors-record-highlights).
+Organisational support and collaborations are listed in [](#aw-collaborators).
 
 (contributors-record-highlights)=
-## Personal Highlights from _The Turing Way_ Contributors
+## Personal Highlights from The Turing Way Contributors
 
-Please use this section to highlight your personal experiences in _The Turing Way_ project and community.
-You can also describe the impact _The Turing Way_ may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
+Please use this section to highlight your personal experiences in The Turing Way project and community.
+You can also describe the impact The Turing Way may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
 
-This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
+This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in The Turing Way.
+
+:::{hint}
+There is more information about how to add to this record in [the acknowledgement chapter](#ch-acknowledgement-record-individual)
+:::
+
+:::{hint}
+The community handbook [explains how to use the profile directive to add a profile](#ch-style-roles-profile), and how to reference a profile.
+:::
 
 <!--
 Here is a template for you to use when adding your profile.
@@ -46,7 +42,7 @@ bio: |
     Leaving a blank line will start a new paragraph.
     You can use MyST *Markdown* _formatting_ here.
 highlights: |
-    A few highlights about your experiences in _The Turing Way_
+    A few highlights about your experiences in The Turing Way
 more: |
     Some further information about yourself
 quote: |
@@ -172,7 +168,7 @@ more: |
 ---
 :::
 
-## All contributors information are listed alphabetically
+## Contributors
 
 <!---A--->
 ## A
@@ -520,9 +516,9 @@ github: bsipocz
 orcid: 0000-0002-3713-6337
 bio: |
     I am an astronomer turned Research Software Engineer.
-    I work at Caltech/IPAC to build and improve tools, e.g. Python libraries and Science Platforms to provide ways to access data in the NASA/IPAC Infrared Science Archive.
+    I work at Caltech/IPAC to build and improve tools, like Python libraries and Science Platforms to provide ways to access data in the NASA/IPAC Infrared Science Archive.
     Prior joining IPAC I was DiRAC Fellow in the data engineering team at the Institute for Data Intensive Research in Astrophysics and Cosmology in Seattle.
-    I am a developer and maintainer of several open source astronomy libraries and their infrastructure (e.g. astroML, astroquery, astropy) and I enjoy contributing to upstream projects as well.
+    I am a developer and maintainer of several open source astronomy libraries and their infrastructure (including astroML, astroquery, astropy) and I enjoy contributing to upstream projects as well.
     I have a keen interest in finding ways to promote the open development model and make tools more sustainable.
     I am a fellow of the Software Sustainability Institute.
 ---
@@ -1085,7 +1081,7 @@ roles: |
    Core developer of Training Materials (2022-2023);
    Book Dash Participant (2022-2023)
 github: colomb
-orcid: | 0000-0002-3127-5520
+orcid: 0000-0002-3127-5520
 bio: |
     Former neuro-geneticist (10 years of research on fruit fly memory and behaviour), I have been more recently interested in data analysis and management, as a specialisation for my interests in open science (open research). I am presently working on ways (technical and social) to implement the principles of FAIR and open data in the lab workflow and ways to foster collaboration between researchers via the SmartFigure Gallery project.
 highlights: |
@@ -1410,7 +1406,7 @@ more: |
     This seems extremely wasteful and I'm convinced we can and should do better.
     In particular, I feel a lot can be done to improve the effective reuse of data produced by research projects.
     While there has been significant progress in recent years in the amount of data published alongside research articles, there is still a wide gulf between open data and reusable data.
-    In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (i.e. modelling and simulation).
+    In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (through modelling and simulation).
     I'm particularly interested in robots as a way of embodying these models in the real world.
     I believe the Turing Way can impact positively in both these areas.
     By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
