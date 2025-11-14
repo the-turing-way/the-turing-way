@@ -1,18 +1,8 @@
-# Record of Contributions
+(contributors-record-personal)=
+# Individual Contributors
 
-Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
-We recognise all these contributions and acknowledge our community members fairly.
-For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors)).
-We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
-Therefore, we also offer the [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
-
-Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors".
-Organisational support and collaborations are listed in the section, "Collaborating Organisations".
-Each organisation's name and details will be listed separately followed by the contribution details of each contributor from that organisation.
-
-:::{hint}
-The community handbook [explains how to use the profile directive to add a profile](#ch-style-roles-profile).
-:::
+Individual contributors are welcome to provide their details for [this section](#contributor-record-highlights).
+Organisational support and collaborations are listed in [](#collaborators).
 
 Please see the [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
@@ -23,6 +13,10 @@ Please use this section to highlight your personal experiences in _The Turing Wa
 You can also describe the impact _The Turing Way_ may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
 
 This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
+
+:::{hint}
+The community handbook [explains how to use the profile directive to add a profile](#ch-style-roles-profile), and how to reference a profile.
+:::
 
 <!--
 Here is a template for you to use when adding your profile.

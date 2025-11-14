@@ -1081,6 +1081,13 @@ project:
           title: Data Usage Statement
         - file: afterword/contributors-record.md
           title: Contributors Record
+          children:
+            - file: afterword/contributors/profiles.md
+              title: Individual Contributors
+            - file: afterword/contributors/all-contributors.md
+              title: All Contributors
+            - file: afterword/contributors/translators.md
+              title: Translators
         - file: afterword/collaborators.md
           title: Collaborators
         - file: afterword/subprojects.md
