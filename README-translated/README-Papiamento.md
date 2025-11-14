@@ -78,7 +78,7 @@ Por fabor bishita e [Panel di Colaboradornan](#Colaboradornan) pa mira e profil 
 :construction: E repositorio aki ta un trabou den progreso continuo y **tur hende** ta invita pa yuda nos construi algo cu ta util pa otro hendenan. :construction:
 
 Ta spera cu tur personanan cu kier uni na e proyecto sigui nos [código di conducta](../CODE_OF_CONDUCT.md) y cu bishita nos [guia pa contribui na e proyecto](../CONTRIBUTING.md) pa mas Informacion tocante con pa cuminsa.
-Nos kier conose nos colaboradornan ken nan ta.
+Nos kier conoce nos colaboradornan ken nan ta.
 Pa eset, nos ta provee varios punto di entrada pa bo por colabora basa riba bo interes, disponibilidad of habilidadnan.
 
 ![E imagen aki ta mustra seis tipo di contribucion cu cualke hende por hasi. Esakinan ta: Desaroyay komparti, Mantene y mehora, Compartí recurso, Revisa y actualisa, Hasie global pa medio di traducion, y Comparti e miho practicanan](../book/figures/README_imgs/README_contributions.png)
