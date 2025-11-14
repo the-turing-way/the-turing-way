@@ -7,7 +7,7 @@ This chapter is under review.
 
 Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
 
-The governance body of _The Turing Way_ is represented by the members of the Project Delivery Team, Working Groups and volunteer members from the community involved in defining and leading different initiatives (both funded and informally organised) within _The Turing Way_.
+The governance body of _The Turing Way_ is represented by the members of the Steering Committee, Working Groups and volunteer members from the community involved in defining and leading different initiatives (both funded and informally organised) within _The Turing Way_.
 
 Like the book itself, the governance of _The Turing Way_ is always a work in progress!
 We are very keen to discuss and improve our governance approaches with the involvement of our community members.
@@ -84,26 +84,15 @@ These processes and resources are co-developed by maintenance-level members with
 This level includes Working Groups and members from the projects within the scope of _The Turing Way_.
 You can find details about these members in {ref}`fw-governance-roles`.
 
+Members at this level share responsibilities for _The Turing Way_ community management and project maintenance as part of Working Groups and/or collaborating projects listed below, formed by members of our community who work together on specific topics, themes, or areas of interest within _The Turing Way_.
+You can read details in {ref}`fw-governance-roles`.
+
 Decision-making at the maintenance level must stay with the community and stewards of the community participating at this level.
 They are also responsible for making the process of participation at the community level transparent for other community members.
 
-Members participating in the constitution-level roles also participate at this level and escalate any decision that affects the broader project and the community functioning, for the constitution-level decision-making.
+Chairs and representatives from different Working Groups and collaborating projects join the constitution level membership (described next) and escalate any decision that affects the broader project and the community functioning, for the constitution level decision-making.
 
-#### Project Delivery Team
-
-_The Turing Way_ {ref}`Project Delivery Team<fw-governance-roles>` are joined by members in funded roles, who take on responsibilities for _The Turing Way_ community and project management.
-
-The Project Delivery Team provide support to the members across all levels of governance and ensures that the decision-making process is kept transparent and where possible, involves the rest of the community.
-
-#### _The Turing Way_ Working Groups
-
-Within *The Turing Way*, {ref}`Working Groups (or WGs)<subprojects>` are formed by small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest.
-
-At the time of writing this chapter, the following WGs have been established and are being led by community members in various roles:
-- Translation and Localisation WG
-- Infrastructure WG
-- Accessibility WG
-- Book Dash WG
+The constitution level members ensures that the decision-making process is kept transparent and where possible, involves the rest of the community.
 
 ```{seealso}
 From the onset, different kinds of work in _The Turing Way_ project have been led and executed by different groups of people.
@@ -127,18 +116,15 @@ Decisions at the maintainer level may include the following:
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
 * Proposing funding ideas/proposals or responding to a call for applications to support their work in _The Turing Way_.
 * Suggesting changes in ongoing processes or current working models through discussions.
-* Organising a {ref}`ch-fireside-chat` in conversation with the Project Delivery Team.
+* Organising a {ref}`ch-fireside-chat` in conversation with the Community Management Working Group.
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
 ### 3. Constitutional Level
 
 Governance at this level encompasses strategic decisions and significant project changes, including project goals, governance processes, funding, recruitment and shared leadership.
-
-Until November 2024, constitutional-level decision-making rested with the project leads, Kirstie Whitaker and Malvika Sharan.
-Since December 2024, the Project Delivery Team, led by Malvika, has been supporting the formalisation of constitutional-level governance by establishing a Steering Committee.
-
 Steering Committee members provide advice and ensure accountability for community- and maintenance-level efforts.
+
 Decisions at the constitutional level may include the following, but are not limited to:
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, recruiting staff and allocating budget.
@@ -149,8 +135,8 @@ Decisions at the constitutional level may include the following, but are not lim
 - Support WGs in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
 - Meeting other project and community-wide obligations and communicating them transparently to the community.
 
-This document is in its early stages and will evolve in conversation with the community. 
-Find the roadmap for _The Turing Way_ constitution-level Steering Committee in [issue #4014](https://github.com/the-turing-way/the-turing-way/issues/4014), and join the conversation.
+Between 2019 and 2025, the project was hosted and funded by The Alan Turing Institute and governed by the Project Delivery Team that supported the formalisation of the three-level governance - now represented by the constitution level Steering Committee.
+This document is in its early stages and will evolve in conversation with the community.
 
 #### Membership in the Steering Committee
 
@@ -184,7 +170,7 @@ They solicit feedback on decisions (such as, via GitHub issues and newsletters) 
 
 #### Community Forums
 
-Starting in 2024, the project delivery team host open/public community events called 'Community Forums' to discuss governance-related matters with our community members and anyone who is interested in understanding the community and project management aspects of _The Turing Way_.
+Since 2024, the constitutional level group has been hosting open/public community events called 'Community Forums' to discuss governance-related matters with our community members and anyone who is interested in understanding the community and project management aspects of _The Turing Way_.
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made.
 Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements.
 
@@ -201,7 +187,7 @@ Initially, some community members self-organised themselves into groups to work 
 In 2022-2023, the Project Delivery Team organised regular meetings with these core contributors to discuss the maintenance-related norms and decisions in _The Turing Way_, while maintaining transparency of their work through open communication via Slack, newsletters, presentations and reports for the broader community.
 These conversations were instrumental in adopting the current governance model, particularly, through the formalisation of different WGs in close collaboration with the research community manager.
 
-These meetings in 2024 transitioned into a series of community calls, called Community Forums, hosted by project leads where governance-related matters can be openly discussed.
+These meetings in 2024 transitioned into a series of community calls, called Community Forums, hosted by project delivery team, now maintained by Steering Committee to discuss governance-related matters openly.
 ```
 
 _Join us in building this community together!_
