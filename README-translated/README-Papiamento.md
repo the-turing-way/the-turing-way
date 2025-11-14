@@ -60,7 +60,7 @@ Comparti e resultadonan di investigacion aki ta nifica compronde maneho di data,
 Mirando cu e actividadnan aki no ta duna lesnan di dje, nos ta reconoce cu e carga di e exsigencianan y haya  habilidadnan nobo por ta intimidante pa personanan cu ta nobo den e mundo aki.
 *The Turing Way* ta un manual pa yuda esnan cu ta studia, supervisa, financia y edit trabounan cientifico pa garantisa cu data science reproducibel ta "demasiado facil pa no haci'e" inclui pa personanan cu nunca prome a traha di e manera aki.
 Lo inclui material di entrenamento riba control di version, testing di analisis y comunicacion habri y transparente cu futuro usuario, y lo base riba estudionan di caso y workshop di Instituto Turing.
-E proyecto aki ta desaroya di manera habri y tur i cualkier pregunta, comentario y recomendacion ta bon bini den nos repositorio di github: <https://github.com/the-turing-way/the-turing-way>.
+E proyecto aki ta desaroya di manera habri y tur y cualkier pregunta, comentario y recomendacion ta bon bini den nos repositorio di GitHub: <https://github.com/the-turing-way/the-turing-way>.
 
 ### E ekipo
 
