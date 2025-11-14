@@ -2,7 +2,7 @@
 # Governance in _The Turing Way_ 
 
 ```{warning}
-This chapter is under review.
+This document is in its early stages and will evolve in conversation with the community.
 ```
 
 Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
@@ -81,18 +81,19 @@ These processes and resources are co-developed by maintenance level members with
 
 ### Maintenance Level
 
-This level includes Working Groups and members from the projects within the scope of _The Turing Way_.
+This level includes members from different Working Groups of _The Turing Way_.
+
+_The Turing Way_ also collaborates with various projects and initiatives, whose participants form **Project Delivery Groups**.
+While these projects may have distinct goals, funding, host organisation, leadership, and timelines, they fall within _The Turing Way_'s scope.
+To ensure accountability and alignment with the overall project and community interests, Delivery Group representatives join _The Turing Way_'s Steering Committee.
+
 You can find details about these members in {ref}`fw-governance-roles`.
 
-Members at this level share responsibilities for _The Turing Way_ community management and project maintenance as part of Working Groups and/or collaborating projects listed below, formed by members of our community who work together on specific topics, themes, or areas of interest within _The Turing Way_.
-You can read details in {ref}`fw-governance-roles`.
+#### Responsibilities at the maintenance level
 
+Members at this level share responsibilities for _The Turing Way_ community management and project maintenance.
 Decision-making at the maintenance level must stay with the community and stewards of the community participating at this level.
 They are also responsible for making the process of participation at the community level transparent for other community members.
-
-Chairs and representatives from different Working Groups and collaborating projects join the constitution level membership (described next) and escalate any decision that affects the broader project and the community functioning, for the constitution level decision-making.
-
-The constitution level members ensures that the decision-making process is kept transparent and where possible, involves the rest of the community.
 
 ```{seealso}
 From the onset, different kinds of work in _The Turing Way_ project have been led and executed by different groups of people.
@@ -105,7 +106,7 @@ However, as the community has grown, WGs have been more formally established and
 **Guidelines and resources for  WGs are shared in the Community Handbook.** <-- At the time of writing, this chapter is under review ([see preview](https://deploy-preview-3499--the-turing-way.netlify.app/community-handbook/working-groups)).
 ```
 
-#### Decisions at this level
+#### Decisions at the maintenance level
 
 Decisions at the maintainer level may include the following:
 
@@ -120,53 +121,38 @@ Decisions at the maintainer level may include the following:
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
-### 3. Constitution Level
+### 3. Constitution Level - Steering Committee
 
-Governance at this level encompasses strategic decisions and significant project changes, including project goals, governance processes, funding, recruitment and shared leadership.
-Steering Committee members provide advice and ensure accountability for community- and maintenance level efforts.
-
-Decisions at the constitution level may include the following, but are not limited to:
-- Providing leadership and strategic directions in the project.
-- Applying for core funding, recruiting staff and allocating budget.
-- Building clarity around resources available for the maintainers and community members.
-- Proposing directions for the community.
-- Process whereby the chair/representatives of the WGs can represent community and WG interests at this level of decision-making.
-- Designing additional community representation roles such as through an Advisory Group.
-- Support WGs in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
-- Meeting other project and community-wide obligations and communicating them transparently to the community.
-
-Between 2019 and 2025, the project was hosted and funded by The Alan Turing Institute and governed by the Project Delivery Team that supported the formalisation of the three level governance - now represented by the constitution level Steering Committee.
-This document is in its early stages and will evolve in conversation with the community.
-
-#### Membership in the Steering Committee
-
-This committee is comprised of the 1) chairs of Working Groups, and 2) leads of Delivery Groups of projects in _The Turing Way_, both with defined goals and deliverables.
-
+The constitution level is represented by _The Turing Way_ Steering committee, which is comprised of the 1) chairs of Working Groups, and 2) leads of Delivery Groups of projects in _The Turing Way_, both with defined goals and deliverables.
 Working Group chairs or Delivery Group leads may also appoint another member from their group or team to represent their work within the committee.
 The aim is to ensure consistent representation in the Steering Committee by a stable group of individuals who can provide continuity in knowledge and leadership, contributing effectively to the committee’s shared objectives.
 
-##### _The Turing Way_ Project Delivery Groups
+Governance at this level encompasses strategic decisions and significant project changes, including project goals, governance processes, funding, recruitment and shared leadership.
 
-_The Turing Way_ collaborates with various projects and initiatives, whose participants form its **Delivery Groups**.
-While these projects may have distinct goals, funding, host organisation, leadership, and timelines, they fall within _The Turing Way_'s scope.
+#### Responsibilities of the Steering Committee
 
-To ensure accountability and alignment with the overall project and community interests, Delivery Group representatives join _The Turing Way_'s Steering Committee.
+Steering Committee members are responsible for escalating project- and community-wide decisions to the constitution level and participating in the decision-making processes.
+They actively engage community members by transparently sharing decisions and outcomes from the constitution level discussions.
 
-At the time of writing this chapter, the following Delivery Groups are working in collaboration with _The Turing Way_:
-- _The Turing Way_ Practitioners Hub
-- JupyterHub - _The Turing Way_ Project
-- Data Science Without Borders
+Their responsibility includes ensuring that the community engagement, contribution and decision-making process, which affects the broader project and the community functioning, is developed and kept transparent and where possible, involves the rest of the community.
+They solicit feedback via GitHub issues and newsletters and approve changes that improve project and community functioning.
 
-Find details in the {ref}`fw-governance-roles`.
+```{note}
+Between 2019 and 2025, the project was hosted and funded by The Alan Turing Institute and governed by the Project Delivery Team that supported the formalisation of the three level governance - now represented by the constitution level Steering Committee.
+```
 
-#### Roles and Responsibilities of the Steering Committee
+#### Decisions at the constitution level
 
-As part of maintenance level Working Groups or Delivery Groups, committee members are responsible for escalating project- and community-wide decisions to the constitution level and participating in the decision-making processes.
-
-As part of the constitution level Steering Committee, they are responsible for actively engaging community members by transparently sharing discussions and outcomes from the constitution level.
-They solicit feedback on decisions (such as, via GitHub issues and newsletters) and approve changes that improve project and community functioning.
-
-*Documentation on governance including the roles and responsibilities of the Steering Committee will be reviewed and approved by the inaugural Steering Committee in 2025.*
+Decisions at the constitution level may include the following, but are not limited to:
+- Providing leadership and strategic directions in the project.
+- Providing advice and ensure accountability for community- and maintenance level efforts.
+- Building clarity around resources available for the maintainers and community members.
+- Process whereby the chair/representatives of the WGs can represent community and WG interests at this level of decision-making.
+- Supporting the application for core funding, staff recruitment and budget allocation.
+- Ensuring that the project's directions is informed by the community.
+- Designing additional community representation roles such as through an Advisory Group.
+- Supporting other members in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
+- Supporting project-wide and community-wide concerns and communicating them transparently to the community.
 
 #### Community Forums
 
