@@ -95,7 +95,7 @@ Nos a crea un [pakete di promoshon](https://github.com/the-turing-way/the-turing
 Bo por haci referencia na _The Turing Way_ pa medio di e archivo Zenodo di e proyecto uzando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 DOI ta permiti nos archiva e repositorio y ta realmente valioso pa garantisa cu e trabou ta rastrea den publicacionnan academico.
 
-E sitacion lo tin un aspecto paresido na esaki (na ingles):
+E sitacion lo tin un aspecto paresido na esaki (na Ingles):
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
