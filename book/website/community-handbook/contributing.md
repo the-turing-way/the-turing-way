@@ -146,6 +146,7 @@ You can build the book locally during development.
 This is the quickest way to see how you changes affect the book.
 The steps are described in [](#ch-local-build).
 
+(ch-contributing-recognising)=
 ## Recognising Contributions
 
 We welcome and recognise all kinds of contributions, from fixing small errors, to developing documentation, maintaining the project infrastructure, writing chapters or reviewing existing resources.

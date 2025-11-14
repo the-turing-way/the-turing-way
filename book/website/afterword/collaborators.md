@@ -1,4 +1,4 @@
-(collaborators)=
+(aw-collaborators)=
 # Collaborating Organisations and Projects
 
 _The Turing Way_ works in collaboration and formal partnership with many communities and organisations.
@@ -7,7 +7,7 @@ These contributions may take different forms, such as sharing of practices, co-c
 Some of these contributions also include projects that build alongside or upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
 We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.
 
-(collaborators-delft)=
+(aw-collaborators-delft)=
 ## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
 
 The Faculty of Applied Sciences is the largest of the Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society.
@@ -18,7 +18,7 @@ In this effort, the contributions from the Faculty of Applied Sciences have main
 ### Representative
 - [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp), Data Steward, Delft University of Technology, Faculty of Applied Sciences, Netherlands.
 
-(collaborators-escience)=
+(aw-collaborators-escience)=
 ## [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
 The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experiences to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the National Research Council (NWO) and the National e-infrastructure Organization (SURF) of the Netherlands.
@@ -28,7 +28,7 @@ The Netherlands eScience Center maintains [its own guide](https://guide.escience
 ### Representative
 - [Carlos Martinez-Ortiz](https://book.the-turing-way.org/afterword/contributors-record#carlos-martinez-oritz), Community Manager - Software Sustainability, Netherlands eScience Center
 
-(collaborators-ols)=
+(aw-collaborators-ols)=
 ## [OLS (previously Open Life Science)](https://openlifesci.org/)
 
 Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [OLS](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
@@ -40,7 +40,7 @@ OLS community members have been collaborating with *The Turing Way* since 2020.
 ### Representative
 - [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan), Co-Director, OLS
 
-(collaborators-scilifelab)=
+(aw-collaborators-scilifelab)=
 ### [SciLifeLab Data Centre](https://www.scilifelab.se/)
 
 SciLifeLab, a national resource offering unique technologies and expertise to life scientists in fields like biomedicine, ecology, and evolution in Sweden, seamlessly integrates with our community of researchers, fostering collaborations across traditional boundaries with industry, healthcare, public research organizations, and international partners.
@@ -50,7 +50,7 @@ We are committed to ensuring that research outputs such as data and software are
 ### Representative
 - [Christopher Erdmann](https://book.the-turing-way.org/afterword/contributors-record#christopher-erdmann), Head of Open Science, SciLifeLab Data Centre
 
-(collaborators-eds)=
+(aw-collaborators-eds)=
 ## [Environmental Data Science Book](https://edsbook.org/welcome.html)
 
 Environmental Data Science book or EDS book is a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
@@ -58,7 +58,7 @@ Environmental Data Science book or EDS book is a living, open and community-driv
 ### Representative
 - [Alejandro Coca-Castro](https://book.the-turing-way.org/afterword/contributors-record#alejandro-coca), Research Fellow, Environment and Sustainability Grand Challenge Research Programme, The Alan Turing Institute
 
-(collaborators-faircookbook)=
+(aw-collaborators-faircookbook)=
 ## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 FAIR Cookbook is an online resource that helps researchers and data managers professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
@@ -72,7 +72,7 @@ You can find more details and background in the chapter [Leveraging the Turing W
 ### Representative
 - [Susanna-Assunta Sansone](https://book.the-turing-way.org/afterword/contributors-record#susanna-assunta-sansone), University of Oxford, Academic Lead for Research Practice; Professor of Data Readiness
 
-(collaborators-NHS-R)=
+(aw-collaborators-NHS-R)=
 ## [NHS-R Way](https://nhsrway.nhsrcommunity.com/)
 
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. 

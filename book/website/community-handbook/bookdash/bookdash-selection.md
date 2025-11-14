@@ -18,7 +18,7 @@ These tasks include completing one or more of the following roles and responsibi
 - **Session host**: Lead at least one of the sessions during the Book Dash week itself, based on availability (2.5 hour-long sessions)
 - **Debrief meeting**: attend a meeting after the event to discuss what went well and what we can improve going forward (time commitment: 1 hour)
 - **Shared Documents**: set up or review shared notes, application form, review rubrics or other required documents for the Book Dash (time commitment: relative to the type of document)
-- **Post-event Documents**: ensure the update of [contributors file](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md), help document the event report and update the Book Dash chapter online
+- **Post-event Documents**: ensure the update of [](#contributors-record-highlights), help document the event report and update the Book Dash chapter online
 
 The invitation to join the planning committee is sent by the core team members based on the applications sent by returning members of the Book Dash expressing their interest in mentoring.
 This is a volunteer position and there are no expectations of commitment to do multiple tasks described above.
