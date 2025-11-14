@@ -212,6 +212,6 @@ Team members, core contributors and community members with sustained engagements
 
 **Acknowledgement:** These members are acknowledged with the 📆 (`projectManagement`) emoji in the Contributors table.
 
-:::{info}
+:::{note}
 Did we miss listing a contribution type? Please create an issue on the GitHub repository to discuss that with the team members.
 :::

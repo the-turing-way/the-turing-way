@@ -10,6 +10,6 @@ Therefore, we also offer  as a dedicated location to capture personal highlights
 :::{embed} tab-contribution-record
 :::
 
-:::{info}
+:::{note}
 Please see the [community handbook](#ch-acknowledgement) for details on how you can be fairly acknowledged for your work.
 :::
