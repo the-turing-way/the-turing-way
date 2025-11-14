@@ -25,7 +25,7 @@ Nos meta ta di provee tur informacion cu investigador y data scientist den acade
 
 *The Turing Way ta un buki, un comunidad y un colaboracion global.*
 
-Tur partido interesa, incluiendo studiante, investigador, ingeniero di software, lider di proyecto y ekipo fundacional, ta invita pa uza The Turing Way pa compronde nan rol y nan responsabilidad den reproducibilidad di data science.
+Tur partido interesa, incluyendo studiante, investigador, ingeniero di software, y lider di proyecto, ta invita pa uza The Turing Way pa compronde nan rol y nan responsabilidad den reproducibilidad di data science.
 Bo por lesa e buki [online](https://github.com/the-turing-way/the-turing-way), contribui na e proyecto manera ta splica den nos [guia pa contribui na e proyecto](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) y re-utilisa tur material ([mira e Licencia](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
 [![Screenshot di e buki online di Turing Way. Tambe ta mustra un di e ilustracionnan di Turing Way na cuminsamento di e buki. Den e ilustracion aki, nos por mira un caminda of highway cu tiendanan pa diferente habilidadnan di data science. Hende por drenta y sali cu nan lista di compra y scohe loke nan mester.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
