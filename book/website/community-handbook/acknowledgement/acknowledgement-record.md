@@ -28,6 +28,8 @@ The process of developing this record is described below.
 
 The [all contributors table](#contributors-record-all) is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/)'s [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
+Instructions for using the all contributors bot are given in [the contributing guide](#ch-style-roles-profile).
+
 **No contribution is too small**, and these emojis allow us to recognise and fairly acknowledging all kinds of contributions our community members make to the project.
 Those contributions can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see [](#ch-acknowledgement-examples) for details.
