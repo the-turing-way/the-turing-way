@@ -1406,7 +1406,7 @@ more: |
     This seems extremely wasteful and I'm convinced we can and should do better.
     In particular, I feel a lot can be done to improve the effective reuse of data produced by research projects.
     While there has been significant progress in recent years in the amount of data published alongside research articles, there is still a wide gulf between open data and reusable data.
-    In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (i.e. modelling and simulation).
+    In terms of research areas, I'm fascinated by the brain and especially the approach of understanding the brain by "faking it" (through modelling and simulation).
     I'm particularly interested in robots as a way of embodying these models in the real world.
     I believe the Turing Way can impact positively in both these areas.
     By providing recommended working practices and guidance on associated tooling, we can make it easy for researchers to do the right thing.
