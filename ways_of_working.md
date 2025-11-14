@@ -69,9 +69,7 @@ All members are welcome to join these calls! ✨
 
 ## Events and Meetings
 
-Details of regular and special events are recorded in the community calendar.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Details of regular and special events are recorded in the [community calendar](https://calendar.the-turing-way.org).
 
 ## GitHub management
 
