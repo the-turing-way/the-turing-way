@@ -41,7 +41,3 @@ The table is inserted as HTML between the following sets of tags:
 You shouldn't need to make changes to the HTML directly.
 Furthermore, it will be overwritten often by the all contributors bot.
 Manual changes to the contributors list, such as adding a contributor or regenerating the table, can be made using the [all contributors CLI](https://allcontributors.org/docs/en/cli/usage).
-
-## Collaborating Organisations and Projects
-
-The description of the {ref}`Collaborating Organisation and Projects<collaborators>` should be directly written in `collaborarators.md` file in the 'Afterword' of the book.
