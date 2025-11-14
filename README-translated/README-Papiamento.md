@@ -101,7 +101,7 @@ E sitacion lo tin un aspecto paresido na esaki (na ingles):
 Tambe bo por comparti e URL cu hende por lesa na un pagina di e buki, por ehempel, <https://book.the-turing-way.org/reproducibility/03/definitions.html>, pero conta cu e proyecto ta den desaroyo y, pues, e enlacenan aki por cambia cu tempo.
 Por ta cu bo kier inclui un enlace di archivo web manera: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> pa asegura cu bo no termina cu enlace kibra na tur banda.
 
-Nos ta agradece realmente cualke referencia cu bo hasi na e proyecto _The Turing Way_ y ta spera cu ta di utilidad.
+Nos ta agradece realmente cualke referencia cu bo haci na e proyecto _The Turing Way_ y ta spera cu ta di utilidad.
 Si bo tin cualkier pregunta por fabor [tuma contacto cu nos](#tuma-contacto-cu-nos).
 
 ### Cita e ilustracionnan di _The Turing Way_
