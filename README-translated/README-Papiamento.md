@@ -110,7 +110,7 @@ Si bo tin cualkier pregunta por fabor [tuma contacto cu nos](#tuma-contacto-cu-n
   <img src="../book/figures/evolution-open-research.jpg" alt="Esaki ta un ehempel di un di e ilustracionnan di The Turing Way. Ta trata di mustra e evolucion dilanti di era di ciencia habri" width="600">
 </p>
 
-E ilustracionnan di _The Turing Way_ a wordo crea dor di artista di [Scriberia](https://www.scriberia.co.uk/) komo parti di [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) na Manchester dia 17 di mei 2019, na London dia 28 di mei 2019 y dia 21 di februari 2020.
+E ilustracionnan di _The Turing Way_ a wordo crea dor di artista di [Scriberia](https://www.scriberia.co.uk/) como parti di [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) na Manchester dia 17 di mei 2019, na London dia 28 di mei 2019 y dia 21 di februari 2020.
 Nan ta representa un variedad di contenido di e manual, di e esfuersonan di colaboracion den comunidad y di e proyecto _The Turing Way_ en general.
 E ilustracionnan aki ta disponibel na Zenodo ([https://zenodo.org/record/13882307)](https://zenodo.org/record/13882307) bou un licencia CC-BY.
 
