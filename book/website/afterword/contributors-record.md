@@ -7,7 +7,7 @@ We recognise all these contributions and acknowledge our community members fairl
 We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
 Therefore, we also offer  as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
-:::{embed} tab-contribution-record
+:::{embed} tab-contribution-records
 :::
 
 :::{note}
