@@ -168,6 +168,8 @@ project:
               title: Data Organisation in Spreadsheets
             - file: reproducible-research/rdm/rdm-metadata.md
               title: Documentation and Metadata
+            - file: reproducible-research/rdm/rdm-pid.md
+              title: Persistent Identifiers (PIDs)
             - file: reproducible-research/rdm/rdm-methods.md
               title: Methods and Protocols
             - file: reproducible-research/rdm/rdm-elns.md
