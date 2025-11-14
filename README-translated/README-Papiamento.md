@@ -114,7 +114,7 @@ E ilustracionnan di _The Turing Way_ a wordo crea dor di artista di [Scriberia](
 Nan ta representa un variedad di contenido di e manual, di e esfuersonan di colaboracion den comunidad y di e proyecto _The Turing Way_ en general.
 E ilustracionnan aki ta disponibel na Zenodo ([https://zenodo.org/record/13882307)](https://zenodo.org/record/13882307) bou un lisensia CC-BY.
 
-Ora bo usa cualkier di e imagennan, por fabor inclui e atribucion aki:
+Ora bo uza cualkier di e imagennan, por fabor inclui e atribucion aki:
 > E imagen aki a wordo crea dor di Scriberia pa comunidad The Turing Way y ta wordo usa bou un lisensia CC-BY.
 
 E ultimo version di Zenodo por wordo cita como:
