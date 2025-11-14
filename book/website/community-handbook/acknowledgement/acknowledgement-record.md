@@ -4,10 +4,6 @@
 The [](#contributors-record) in the [](#aw) is where contributors to _The Turing Way_ are presented.
 The [](#contributors-record) draws from three sources,
 
-- The [](#contributors-record-individual) file, where community members add their own contribution profiles.
-- The [all contributors file](https://github.com/the-turing-way/the-turing-way/blob/main/.all-contributorsrc), which is managed with the all contributors bot.
-- The Crowdin API.
-
 :::{table}
 :label: tab-contribution-records
 | Record type                        | Source                                                                                                                    | Presented in                          |
@@ -46,11 +42,11 @@ alt: Table with different emojis that is used by the contributors bot
 (ch-acknowledgement-record-individual)=
 ### Individual highlights and profiles
 
-To add or edit your profile on the [](#contributors-record-invidual) page, edit that page.
+To add or edit your profile on the [](#contributors-record-individual) page, edit that page.
 We use the [`profile`](#ch-style-roles-profile) directive to create entries.
 Instructions for how to use the directive are given [here](#ch-style-roles-profile).
 
-All types of contributions made towards _The Turing Way_ can be added to [](#contributors-record-highlights).
+All types of contributions made towards _The Turing Way_ can be added to [personal highlights](#contributors-record-highlights).
 These highlights can be individually decided by the contributors to record what they consider to be their significant and useful contributions for their personal profile.
 This can be supplemented with supporting materials such as links to chapters, pull requests, issues, and blog posts.
 

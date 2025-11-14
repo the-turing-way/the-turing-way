@@ -1,19 +1,19 @@
 (contributors-record-individual)=
 # Individual Contributors
 
-Individual contributors are welcome to provide their details for [this section](#contributor-record-highlights).
-Organisational support and collaborations are listed in [](#collaborators).
+Individual contributors are welcome to provide their details for [this section](#contributors-record-highlights).
+Organisational support and collaborations are listed in [](#aw-collaborators).
 
 (contributors-record-highlights)=
-## Personal Highlights from _The Turing Way_ Contributors
+## Personal Highlights from The Turing Way Contributors
 
-Please use this section to highlight your personal experiences in _The Turing Way_ project and community.
-You can also describe the impact _The Turing Way_ may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
+Please use this section to highlight your personal experiences in The Turing Way project and community.
+You can also describe the impact The Turing Way may have on you or your team members such as in promoting reproducible, ethical, collaborative and inclusive research practices.
 
-This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
+This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in The Turing Way.
 
 :::{hint}
-There is more information about how to add to this record in [the acknowledgement chapter](ch-acknowledgement-record-individual)
+There is more information about how to add to this record in [the acknowledgement chapter](#ch-acknowledgement-record-individual)
 :::
 
 :::{hint}
@@ -42,7 +42,7 @@ bio: |
     Leaving a blank line will start a new paragraph.
     You can use MyST *Markdown* _formatting_ here.
 highlights: |
-    A few highlights about your experiences in _The Turing Way_
+    A few highlights about your experiences in The Turing Way
 more: |
     Some further information about yourself
 quote: |
