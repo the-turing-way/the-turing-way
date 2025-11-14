@@ -19,37 +19,37 @@ We acknowledge each of these contributing members individually and list their pr
 - [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
 
 (collaborators-jupyterhub)=
-## [JupyterHub - The Turing Way DEI Project](https://chanzuckerberg.com/eoss/proposals/jupyterhub-community-strategic-lead/)
+### [JupyterHub - The Turing Way DEI Project](https://chanzuckerberg.com/eoss/proposals/jupyterhub-community-strategic-lead/)
 
 To broaden participation in the JupyterHub community, JupyterHub has collaborated with _The Turing Way_ to create for pathways and programs that provide onboarding and mentorship opportunities for their community members.
 
-### Representative
+#### Representative
 - [Kirstie Whitaker](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)
 - [Arielle Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)
 
 (collaborators-dswb)=
-## [Data Science Without Borders](https://dswb.africa/open-science/)
+### [Data Science Without Borders](https://dswb.africa/open-science/)
 
 The Wellcome Trust-funded Data Science Without Borders (DSWB) is committed to supporting the adoption and use of open science practices and approaches in their work.
 The Turing Way is used as a primary reference for curating and sharing practices, as well as identifying gaps where resources can be developed by the DSWB members in collaboration with other interested practitioners.
 See, {ref}`Data Science Without Border Pathway<pw-data-science-without-borders>` page for chapters curated for the community.
 
-### Representative
+#### Representative
 - [Precious Onyewuchi](https://osponow.com/team/precious-onyewuchi)
 - [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)
 
 ## Community Partners
 
 (collaborators-eds)=
-## [Environmental Data Science Book](https://edsbook.org/welcome.html)
+### [Environmental Data Science Book](https://edsbook.org/welcome.html)
 
 Environmental Data Science book or EDS book is a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
 
-### Representative
+#### Representative
 - [Alejandro Coca-Castro](https://book.the-turing-way.org/afterword/contributors-record#alejandro-coca), Research Fellow, Environment and Sustainability Grand Challenge Research Programme, The Alan Turing Institute
 
 (collaborators-NHS-R)=
-## [NHS-R Way](https://nhsrway.nhsrcommunity.com/)
+### [NHS-R Way](https://nhsrway.nhsrcommunity.com/)
 
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. 
 It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. 
@@ -58,11 +58,11 @@ Whilst R is a core language for support by the community, there is always suppor
 The NHS-R builds on _The Turing Way_ guide model for the NHS-R community to promote the use of R in healthcare. 
 Contributors come from Local Authorities, Civil Service, the Public Sector, Academia, the Voluntary Sector, Charities and individuals with no organisational connection.
 
-### Representative
+#### Representative
 - [Zoë Turner](https://book.the-turing-way.org/afterword/contributors-record#zoe-turner), Senior Data Scientist, Strategy Unit
 
 (collaborators-ols)=
-## [OLS (Open Life Science)](https://openlifesci.org/)
+### [OLS (Open Life Science)](https://openlifesci.org/)
 
 Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [OLS](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
 This collaboration offers training and mentoring to interested members from Turing and The Turing Way communities to join the OLS programme individually or in teams.
@@ -70,7 +70,7 @@ They develop Open Science aspects in the projects that they either already have 
 
 OLS community members have been collaborating with *The Turing Way* since 2020.
 
-### Representative
+#### Representative
 - [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
 
 (collaborators-delft)=
@@ -123,8 +123,6 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Professionalising Data Science Roles - Turing's Skills Policy Award
 
-#### Project Information
-
 [GitHub repo](https://github.com/alan-turing-institute/professionalising-data-science-roles)
 
 #### People
@@ -134,8 +132,6 @@ You can find more details and background in the chapter [Leveraging the Turing W
 - [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
 
 ### Pathways Python Package for Curated Access to Book Chapters
-
-#### Project Information
 
 - [GitHub repo in The Turing Way](https://github.com/the-turing-way/pathways)
 - [prototype repo in the Turing organisation](https://github.com/alan-turing-institute/bio-Turing-Way/)
