@@ -14,7 +14,8 @@
 | **Construi** | [![Netlify build](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
 | **Site** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-*Bon bini na e repositorio di Github di e proyecto The Turing Way. Aki ta unda tur componente di e proyecto ta desaroya, revisa y mantene.*
+*Bonbini na e repositorio di GitHub di e proyecto The Turing Way. 
+Aki ta tur componente di e proyecto ta wordo desaroya, revisa y mantene.*
 
 _The Turing Way_ ta un guia practico pa data science reproducibel, etico y colaborativo.
 Nos ta support un comunidad diverso di colaboradornan pa logra un data science accesibel, comprensibel y efectivo pa tur hende.
