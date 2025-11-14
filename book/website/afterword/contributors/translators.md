@@ -1,5 +1,5 @@
-(contributors-record-crowdin)=
-# Crowdin Translators
+(contributors-record-translators)=
+# Translators
 
 _The Turing Way_ uses Crowdin as a platform for contributing [translations](#ch-translation).
 This page lists the contributors on Crowdin.
