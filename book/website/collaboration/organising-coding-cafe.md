@@ -32,18 +32,17 @@ By actively promoting diversity and inclusion, a programming community like CAFE
 
 ## What is a programming CAFE?
 
-A programming CAFE can take on many forms, ranging from the niche application of a specific language
-in a specific field of research, to a language agnostic CAFE providing content to users of all
-skill levels. Each comes with benefits and drawbacks. Too niche, and you are catering to a very small potential
-audience, while being too generic may not engage people to join. It will be harder to create the feeling of community
-if there is a lack of focus (but perhaps the goal is to distribute knowledge rather than create a community).
-There is no correct answer. The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-organising-cafes-audience)).
+A programming CAFE can take on many forms, ranging from the niche application of a specific language in a specific field of research, to a language agnostic CAFE providing content to users of all skill levels.
+Each comes with benefits and drawbacks.
+Too niche, and you are catering to a very small potential audience, while being too generic may not engage people to join.
+It will be harder to create the feeling of community if there is a lack of focus (but perhaps the goal is to distribute knowledge rather than create a community).
+There is no correct answer.
+The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-organising-cafes-audience)).
 
 ### Programming languages
 
 A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language agnostic.
-For example, you might start a CAFE that focuses exclusively on Python, or you might create a broader CAFE that covers
-several programming languages such as Python, R, and MATLAB.
+For example, you might start a CAFE that focuses exclusively on Python, or you might create a broader CAFE that covers several programming languages such as Python, R, and MATLAB.
 
 ### Research applications
 
@@ -56,40 +55,31 @@ A more general example is a CAFE focusing on reproducibility of research.
 
 ## Who is the target audience?
 
-Knowing your (intended) audience is key to providing content that will engage them and get them to actually turn up
-to events.
+Knowing your (intended) audience is key to providing content that will engage them and get them to actually turn up to events.
 
 ### Skill levels and motivation
 
-You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced
-programmers.
-Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on
-collaboration and knowledge-sharing. The motivation of participants may be very different, even within skill levels.
-The beginner programmer might just be interested in solving a problem in their research, or they have caught the
-programming bug (pun intended) and want to know more about the inner workings of programming.
+You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers.
+Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+The motivation of participants may be very different, even within skill levels.
+The beginner programmer might just be interested in solving a problem in their research, or they have caught the programming bug (pun intended) and want to know more about the inner workings of programming.
 
 #### The beginner programmer
 
-The beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming
-languages and tools.
-They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in
-learning how to use programming to solve problems in their research.
-They might have followed a generic introductory course, but get stuck as soon as they start working with their own data
-and therefore feel discouraged.
-A CAFE community can provide the beginner programmer with a supportive environment where they can connect with others
-who are also learning to code, ask questions, and get help when they need it.
+The beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools.
+They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research.
+They might have followed a generic introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged.
+A CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
 
 #### The advanced programmer
 
 The advanced programmer has already developed a strong skill set in one or more programming languages.
-They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about
-new tools, techniques or best practices related to Open Science and FAIR data and software.
-A CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other
-skilled programmers, and stay up-to-date with the latest trends in the field.
+They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software.
+A CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
 
 #### The interdisciplinary researcher
 
-The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. 
+The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions.
 They might have a basic understanding of programming concepts but lack the technical skills to implement them.
 A CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
 
