@@ -5,7 +5,6 @@
 
 This plugin is explained in [it's own chapter](#ch-infrastructure-pathways).
 
-## GitHub
+## Profile
 
-This [plugin](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/plugins/github.mjs) adds features related to GitHub.
-It currently has one role, [](#ch-style-roles-github-user).
+This [plugin](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/plugins/profile.mjs) adds roles and directives for creating contributor profiles for [](#contributors-record).
