@@ -5,8 +5,8 @@
 ## Prerequisites
 
 | Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Helpful |  |
+| -------------|------------|-------|
+| {ref}`Experience with the command line <rr-overview-resources-commandline>` | Helpful |  |
 
 **Recommended Skill Level**: _Beginner-Intermediate_
 
@@ -23,9 +23,7 @@ As we will see in this chapter, version control offers many other advantages, wh
 **Version control is an approach to record changes made in a file** or set of files over time so that you and your collaborators can track their history, review any changes, and revert or go back to earlier versions.
 For example, when writing a paper with multiple collaborators, version control can help track what changed, who made the changes, and what updates were made.
 
-
-
-```{figure}  ../../figures/project-history.*
+```{figure} ../../figures/project-history.*
 ---
 name: project-history
 alt: >
@@ -36,32 +34,30 @@ alt: >
   On top of the dial the six corresponding files are represented as ordered documents.
   A hand moves the dial to V3, which highlights the third document on top in blue. 
 ---
-  Version control, in contrast to ambiguously named files, enables easy picking between successive document versions. 
-  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-```
+  Version control, in contrast to ambiguously named files, enables easy picking between successive document versions.
+  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+````
 
-
-In this chapter, we introduce versioning best practices regardless of tools {ref}`in the workflow chapter<rr-vcs-workflow>`, before describing in more detail the use of version control and {ref}`git for research projects<rr-vcs-git4research>` that comprise  documentation, datasets and code.
-Most instructions given in this chapter will be indeed geared towards Git, which is most commonly used by researchers, and a web-based Git repository hosting service, [GitHub](https://github.com/), which facilitates online collaborations. 
-We also provide information about {ref}`larger dataset versioning<rr-vcs-data>`, and introduce tools that allow the use of Git workflows for this purpose, although Git is not suitable for versioning binary files.
+In this chapter, we introduce versioning best practices regardless of tools {ref}`in the workflow chapter <rr-vcs-workflow>`, before describing in more detail the use of version control and {ref}`git for research projects <rr-vcs-git-for-research>` that comprise documentation, datasets and code.
+Most instructions given in this chapter will be indeed geared towards Git, which is most commonly used by researchers, and a web-based Git repository hosting service, GitHub, which facilitates online collaborations.
+We also provide information about {ref}`larger dataset versioning <rr-vcs-versioning-data>`, and introduce tools that allow the use of Git workflows for this purpose, although Git is not suitable for versioning binary files.
 
 ### Version control systems
 
 Different version control systems can be used through a program with a graphical user interface, web browser-based applications, or command-line tools.
 Tools such as Google Drive and Dropbox offer platforms to update files and share them with others in real-time, collaboratively.
-More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
-These allow collaborators to update files while storing each version in its version history (we will discuss this in detail).
-Advanced version control systems (VCS) such as [Git](https://en.wikipedia.org/wiki/Git), [Mercurial](https://www.mercurial-scm.org/), and [SVN](https://subversion.apache.org/) provide much more powerful tools.
-Accessing the version history and keeping control over the main version of your files are particular feature of these advanced tools.
+More sophisticated version control systems exist within tools like Google Docs or HackMD.
+These allow collaborators to update files while storing each version in its version history.
+Advanced version control systems (VCS) such as Git, Mercurial, and SVN provide much more powerful tools.
+Accessing the version history and keeping control over the main version of your files are particular features of these advanced tools.
 
 Versioning practices mainly come from managing changes in the code repositories.
 However, in reality, you can use version control for nearly any type of file on a computer.
 Later in this chapter, we will discuss version control for data and other research project files, which can be applied to keep track of revisions of large amounts of data.
 It is useful to know that data can be volatile and versioning them can improve the reproducibility of your scientific analyses.
 
-
-
 (rr-vcs-useful)=
+
 ### Motivation
 
 In terms of reproducibility, version control is required in order to follow **provenance information**.
@@ -70,15 +66,14 @@ This provenance information is enabled and facilitated when both the data, the c
 
 In addition, version control creates **version history** to help us understand what changes were made, or why a specific analysis was run, even weeks or months later.
 With the help of comments and commit messages in Git, for instance, each version can explain what changes it contains compared to the previous versions.
-This is helpful when we share our analysis (not only data), and make it auditable and **reproducible** - which is good scientific practice.
+This is helpful when we share our analysis (not only data), and make it auditable and reproducible - which is good scientific practice.
 
-A version control system **neatly hides older versions** of the data. 
+A version control system **neatly hides older versions** of the data.
 So your working directory is not cluttered by the debris of previous versions, while they remain accessible, in case you need them.
 Similarly, with version control, there is no need to leave unused chunks of code should you ever need to come back to an old version again.
 
-
 Finally, version control is invaluable for collaborative projects where different people work on the same data or code simultaneously and build on each other's work.
-Using a version control system, **changes made by different people can be tracked and often automatically combined**, saving a great deal of painstaking manual efforts.
+Using a version control system, **changes made by different people can be tracked and often automatically combined**, saving a great deal of painstaking manual effort.
 Using version control makes your research more transparent.
 Since all your actions are recorded, your studies become easier to reproduce and build upon.
-Moreover, version control hosting services such as {ref}`GitHub<cl-github-novice-motivation>`, GitLab and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
+Moreover, version control hosting services such as {ref}`GitHub <cl-github-motivation>`, GitLab and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
