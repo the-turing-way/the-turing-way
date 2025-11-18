@@ -104,3 +104,16 @@ Detailed instructions for this process can be found in the [gitlab2zenodo](https
 
 :::
 ::::
+
+(cm-citable-cite-DMP)=
+
+## Citing Data Management Plans
+
+You can deposit your DMP in a repository like Zenodo or your institutional repository to receive a DOI, or use a DMP platform that assigns DOI, making it formally citable.
+Consider publishing your DMP at project award or start to establish your data management approach early.
+
+When preparing a public DMP, you may want to redact sensitive information such as detailed budget figures or preliminary hypotheses, while keeping the data management methodology transparent.
+Publishing your DMP demonstrates transparency, provides templates for others planning similar projects, and shows funders and institutions your commitment to rigorous data management.
+
+For more information on obtaining DOIs and making research outputs citable, see our [chapter on persistent identifiers](rr-rdm-pid) and [making research citable](cm-citable).
+Examples of published DMPs can be found by searching Zenodo for "data management plan" or exploring public DMPs on [DMPtool](https://dmptool.org).
