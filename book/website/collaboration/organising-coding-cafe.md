@@ -30,58 +30,64 @@ A programming community like CAFE can also provide access to resources and oppor
 By actively promoting diversity and inclusion, a programming community like CAFE can help create a more welcoming and supportive environment for all researchers, regardless of their background or level of experience.
 
 
-## Types of working CAFEs that work for you
+## What is a programming CAFE?
 
-A programming CAFE will vary depending on the needs and interests of the community. Here are some things to consider when defining the focus of your programming CAFE:
+A programming CAFE can take on many forms, ranging from the niche application of a specific language in a specific field of research, to a language agnostic CAFE providing content to users of all skill levels.
+Each comes with benefits and drawbacks.
+Too niche, and you are catering to a very small potential audience, while being too generic may not engage people to join.
+It will be harder to create the feeling of community if there is a lack of focus (but perhaps the goal is to distribute knowledge rather than create a community).
+There is no correct answer.
+The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-organising-cafes-audience)).
 
 ### Programming languages
 
-A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language-independent. 
-For example, you might start a CAFE that focuses exclusively on Python, or you might create a more broader CAFE that covers several programming languages such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.
-
-### Skill level
-
-Another factor to consider when defining the focus of your programming CAFE is the skill level of potential participants. 
-You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers. 
-Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language agnostic.
+For example, you might start a CAFE that focuses exclusively on Python, or you might create a broader CAFE that covers several programming languages such as Python, R, and MATLAB.
 
 ### Research applications
 
 Finally, you might choose to define the focus of your programming CAFE based on specific research applications.
-For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research.
-The focus on research applications will depend on the interests and needs of the community.
+For example, you might start a CAFE focused on R for genomics, or one that is dedicated analysing survey data.
+A more general example is a CAFE focusing on reproducibility of research.
+
 
 (cl-organising-cafes-audience)=
 
-## Choose your target audience
+## Who is the target audience?
 
-The CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience.
-Here are some examples of personas who might benefit from participating in the community:
+Knowing your (intended) audience is key to providing content that will engage them and get them to actually turn up to events.
 
-### The beginner programmer
+### Skill levels and motivation
+
+You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers.
+Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+The motivation of participants may be very different, even within skill levels.
+The beginner programmer might just be interested in solving a problem in their research, or they have caught the programming bug (pun intended) and want to know more about the inner workings of programming.
+
+#### The beginner programmer
 
 The beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools.
 They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research.
-They might have followed a Introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged.
-The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
+They might have followed a generic introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged.
+A CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
 
-### The advanced programmer
+#### The advanced programmer
 
-The advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages.
+The advanced programmer has already developed a strong skill set in one or more programming languages.
 They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software.
-The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
+A CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
 
-### The interdisciplinary researcher
+#### The interdisciplinary researcher
 
-The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. 
+The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions.
 They might have a basic understanding of programming concepts but lack the technical skills to implement them.
-The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
+A CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
 
-### The data specialist
+#### The data specialist
 
 The data specialist is a researcher or support staff who specializes in working with datasets.
 They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others.
-The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.
+A CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.
 
 ## What to consider before launching a CAFE?
 

@@ -1,12 +1,15 @@
 # Infrastructure working group
 # Github files and workflows
-.github/* @the-turing-way/infrastructure-working-group
+.github/ @the-turing-way/infrastructure-working-group
+tests/ @the-turing-way/infrastructure-working-group
 # Makefile
-book/Makefile
+book/Makefile @the-turing-way/infrastructure-working-group
 # Requirements
-book/requirements.in
-book/requirements.txt
+book/requirements.in @the-turing-way/infrastructure-working-group
+book/requirements.txt @the-turing-way/infrastructure-working-group
 # Lychee configuration
-lychee.toml
+lychee.toml @the-turing-way/infrastructure-working-group
 # Netlify configuration
-netlify.toml
+netlify.toml @the-turing-way/infrastructure-working-group
+# MyST Plugins
+book/website/plugins/ @the-turing-way/infrastructure-working-group
