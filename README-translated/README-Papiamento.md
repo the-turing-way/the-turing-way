@@ -100,7 +100,7 @@ E citacion lo tin un aspecto parecido na esaki (na Ingles):
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
 Tambe bo por comparti e URL cu hende por lesa na un pagina di e buki, por ehempel, <https://book.the-turing-way.org/reproducibility/03/definitions.html>, pero conta cu e proyecto ta den desaroyo y, pues e enlacenan aki por cambia cu tempo.
-Por ta cu bo kier inclui un enlace di archivo web manera: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> pa asegura cu bo no termina cu enlace kibra na tur banda.
+Por ta cu bo kier inclui un enlace di archivo web manera: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> pa asegura cu bo no ta haya bo cu enlace kibra.
 
 Nos ta agradece realmente cualke referencia cu bo haci na e proyecto _The Turing Way_ y ta spera cu ta di utilidad.
 Si bo tin cualkier pregunta por fabor [tuma contacto cu nos](#tuma-contacto-cu-nos).
