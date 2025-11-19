@@ -66,7 +66,7 @@ E proyecto aki ta desaroya di manera habri y tur y cualkier pregunta, comentario
 
 _The Turing Way_ ta un proyecto di colaboracion habri y impulsa pa comunidad.
 Tur esnan cu ta colabora den e buki aki, indiferente di con chikito of grandi cu nan contribucion ta, ta reconoce den e proyecto aki como colaborador y miembro di comunidad.
-E colaboradornan di largo duracion ta considera parti di e grupo di colaborador principal, cua ta asumi rol di lider den e proyecto.
+E colaboradornan cu tin mas tempo trahando ta wordo considera parti di e grupo di colaborador principal, cu ta asumi rol di lider den e proyecto.
 
 E proyecto ta coordina door di lider investigador **Kirstie Whitaker** (fundador) y **Malvika Sharan** (desaroyador di comunidad) y ta hospeda na [The Alan Turing Institute](https://www.turing.ac.uk/).
 
