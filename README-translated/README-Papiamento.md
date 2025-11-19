@@ -120,7 +120,7 @@ Ora bo uza cualkier di e imagennan, por fabor inclui e atribucion aki:
 E ultimo version di Zenodo por wordo cita como:
 > The Turing Way Community, & Scriberia. (2024). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.13882307
 
-Nos a uza algun di e ilustracionnan aki den e responsnan na e contribucionnan di personanan cu ta integra na e comunidad aki den e [Bot di bon bini](https://github.com/apps/welcome) di e repositorio di GitHub aki.
+Nos a uza algun di e ilustracionnan aki den e responsnan di e contribucionnan di personanan cu ta integra den e comunidad aki den e [Bot di bon bini](https://github.com/apps/welcome) di e repositorio di GitHub aki.
 
 ### Tuma contacto cu nos
 
