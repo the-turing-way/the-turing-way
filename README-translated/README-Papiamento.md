@@ -115,7 +115,7 @@ Nan ta representa un variedad di contenido di e manual, di e esfuersonan di cola
 E ilustracionnan aki ta disponibel na Zenodo ([https://zenodo.org/record/13882307)](https://zenodo.org/record/13882307) bou un licencia CC-BY.
 
 Ora bo uza cualkier di e imagennan, por fabor inclui e atribucion aki:
-> E imagen aki a wordo crea dor di Scriberia pa comunidad The Turing Way y ta wordo uza bou un licencia CC-BY.
+> E imagen aki a wordo crea pa Scriberia pa comunidad The Turing Way y ta wordo uza bou un licencia CC-BY.
 
 E ultimo version di Zenodo por wordo cita como:
 > The Turing Way Community, & Scriberia. (2024). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.13882307
