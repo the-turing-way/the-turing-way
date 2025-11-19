@@ -75,7 +75,7 @@ Por fabor bishita e [Panel di Colaboradornan](#Colaboradornan) pa mira e profil 
 
 ### Contribui
 
-:construction: E repositorio aki ta un trabou den progreso continuo y **tur hende** ta invita pa yuda nos construi algo cu ta util pa otro hendenan. :construction:
+:construction: E repositorio aki ta un trabou den progreso continuo y **tur hende** ta invita pa yuda nos construi algo cu ta util pa otro hende. :construction:
 
 Ta spera cu tur personanan cu kier uni na e proyecto sigui nos [código di conducta](../CODE_OF_CONDUCT.md) y cu bishita nos [guia pa contribui na e proyecto](../CONTRIBUTING.md) pa mas informacion tocante con pa cuminsa.
 Nos kier conoce nos colaboradornan ken nan ta.
