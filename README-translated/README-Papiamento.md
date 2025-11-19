@@ -56,7 +56,7 @@ Investigacion reproducibel ta necesario pa garantisa cu bo por confia den trabou
 Esnan cu ta financia y edit trabounan cientifico ta cuminsa exigi cu publicacionnan tin cu inclui acceso na e data uza y e codigo cu cua nan a haci e analisis.
 E meta ta pa garantisa cu tur resultadonan por wordo verifica di forma independiente y por sirbi como base pa trabou futuro.
 Tin biaha esaki ta mas facil pa bisa cu pa haci.
-Comparti e resultadonan di investigacion aki ta nifica compronde maneho di data, biblioteconomi, desaroyo di software y technicanan di integracion continuo: habilidadnan cu no ta duna lesnan di dje ni ta spera di investigador academico y data scientist.
+Comparti e resultadonan di investigacion aki ta nifica compronde maneho di data, biblioteconomi, desaroyo di software y tecnicanan di integracion continuo: habilidad cu no sa duna les den dje ni cu por spera di investigador academico y data scientist.
 Mirando cu e actividadnan aki no ta duna lesnan di dje, nos ta reconoce cu e carga di e exsigencianan y haya  habilidadnan nobo por ta intimidante pa personanan cu ta nobo den e mundo aki.
 *The Turing Way* ta un manual pa yuda esnan cu ta studia, supervisa, financia y edit trabounan cientifico pa garantisa cu data science reproducibel ta "demasiado facil pa no haci'e" inclui pa personanan cu nunca prome a traha di e manera aki.
 Lo inclui material di entrenamento riba control di version, testing di analisis y comunicacion habri y transparente cu futuro usuario, y lo base riba estudionan di caso y workshop di Instituto Turing.
