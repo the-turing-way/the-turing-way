@@ -64,7 +64,7 @@ E proyecto aki ta desaroya di manera habri y tur y cualkier pregunta, comentario
 
 ### E ekipo
 
-_The Turing Way_ ta un proyecto di colaboracion habri y impulsa door di comunidad.
+_The Turing Way_ ta un proyecto di colaboracion habri y impulsa pa comunidad.
 Tur esnan cu ta colabora den e buki aki, indiferente di con chikito of grandi cu nan contribucion ta, ta reconoce den e proyecto aki como colaborador y miembro di comunidad.
 E colaboradornan di largo duracion ta considera parti di e grupo di colaborador principal, cua ta asumi rol di lider den e proyecto.
 
