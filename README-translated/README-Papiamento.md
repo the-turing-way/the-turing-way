@@ -34,7 +34,7 @@ Bo por lesa e buki [online](https://github.com/the-turing-way/the-turing-way), c
 
 The Turing Way a cuminsa na 2019 como un guia chikito di data science, y for di esaki a expande bira a un manual hopi mas completo forma di varios guia cu ta cubri varios tema: Investigacion Reproducibel, Diseño di Proyecto, Comunicacion, Colaboracion y Investigacion Etico.
 Cada guia ta ofrece capitulo riba un variedad di tema cu ta trata bon practica y recomendacion.
-E capitulonan aki a wordo co-skirbi pa personanan pa colaborador, studiante, investigador, docente, lider comunitario, politico y profesional di diferente background, experencia biba y conocemento di dominio.
+E capitulonan aki a wordo co-skirbi pa personanan pa colaborador, studiante, investigador, docente, lider comunitario, politico y profesional di diferente background, experencia biba y conocemento di materia.
 
 ***Nos meta ta pa haci reproducibilidad "demasiado facil pa no hacie".***
 
