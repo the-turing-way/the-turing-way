@@ -1,4 +1,4 @@
-(pd-code-styling-readability)=
+(rr-code-quality-readability)=
 # Writing Human Readable Code
 
 Writing clear, well commented, readable and reusable code benefits not only you but the community (or audience) that you are developing it for.
@@ -7,7 +7,7 @@ Whatever scale you work at, readability counts!
 
 Here are a few aspects to consider when making your code easy to read by others.
 
-## Line Length
+### Line Length
 
 There is some agreement on the length of the coding lines.
 PEP8 suggests a maximum of 79 characters per line and 80 by the R style guide.
@@ -21,7 +21,7 @@ recode() %>%
 melt() #We now have a recoded, melted dataframe called recoded_melt_dat
 ```
 
-## Commenting
+### Commenting
 
 Comments have been described as "Love letters to your future self" by Jon Peirce, creator of PsychoPy.
 Comments can be blocked or inline.  
@@ -84,7 +84,7 @@ Or commenting out individual lines:
 ```
 Your IDE will probably have a keyboard shortcut for commenting out blocks.
 
-## Indentation
+### Indentation
 
 The R style guide suggests that lines should be separated:
 ```r
@@ -112,13 +112,13 @@ These are of course just guidelines, and you should choose elements that suit yo
 However, and again, it is important to ensure that you are consistent when collaborating, and can agree on a common style.
 It could be useful to create a readme file describing your coding style so collaborators or contributors can follow your lead.
 
-### ...end. ...end.  ...or end.\\n
+#### ...end. ...end.  ...or end.\\n
 
 If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
 When using Markdown, it can be clearer to include a new line after every sentence.
 This chapter (and most, if not all, of this book) has a new line after every sentence that makes the raw text easier to read, review and solve the spacing issue.
 
-```{figure} ../../../../figures/xkcd1285.png
+```{figure} ../../../figures/xkcd1285.png
 ---
 height: 500px
 name: xkcd1285
