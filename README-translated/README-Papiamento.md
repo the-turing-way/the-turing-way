@@ -52,7 +52,7 @@ E descripcion general di _The Turing Way_ ta cuminsa na minuut 5:13.
 
 ### Tocante e proyecto
 
-Investigacion reproducibel ta nesesario pa garantisa cu bo por confia den trabou cientifico.
+Investigacion reproducibel ta necesario pa garantisa cu bo por confia den trabou cientifico.
 Esnan cu ta finansia y edit trabounan cientifico ta cuminsa exihi cu publicacionnan inclui acceso na e data uza y e codigo cu cua nan a haci e analisis.
 E meta ta pa garantisa cu tur resultadonan por wordo verifica di forma independiente y por sirbi como base pa trabou futuro.
 Tin biaha esaki ta mas facil pa bisa cu pa haci.
