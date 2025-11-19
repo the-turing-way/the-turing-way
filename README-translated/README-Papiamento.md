@@ -58,7 +58,7 @@ E meta ta pa garantisa cu tur resultado por wordo verifica di forma independient
 Tin biaha esaki ta mas facil pa bisa cu pa haci.
 Comparti e resultadonan di investigacion aki ta nifica compronde maneho di data, biblioteconomi, desaroyo di software y tecnicanan di integracion continuo: habilidad cu no sa duna les den dje ni cu por spera di investigador academico y data scientist.
 Mirando cu no sa duna les den e actividadnan aki, nos ta reconoce cu e carga di e exigencianan y haya  habilidad nobo por ta intimidante pa personanan cu ta nobo den e mundo aki.
-*The Turing Way* ta un manual pa yuda esnan cu ta studia, supervisa, financia y edit trabounan cientifico pa garantisa cu data science reproducibel ta "demasiado facil pa no haci'e" inclui pa personanan cu nunca prome a traha di e manera aki.
+*The Turing Way* ta un manual pa yuda esnan cu ta studia, supervisa, financia y edit trabounan cientifico pa garantisa cu data science reproducibel ta "demasiado facil pa no hacie" inclui pa personanan cu nunca prome a traha di e manera aki.
 Lo inclui material di entrenamento riba control di version, testing di analisis y comunicacion habri y transparente cu futuro usuario, y lo base riba estudionan di caso y workshop di Instituto Turing.
 E proyecto aki ta desaroya di manera habri y tur y cualkier pregunta, comentario y recomendacion ta bon bini den nos repositorio di GitHub: <https://github.com/the-turing-way/the-turing-way>.
 
