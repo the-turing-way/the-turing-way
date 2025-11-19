@@ -54,7 +54,7 @@ E descripcion general di _The Turing Way_ ta cuminsa na minuut 5:13.
 
 Investigacion reproducibel ta necesario pa garantisa cu bo por confia den trabou cientifico.
 Esnan cu ta financia y edit trabounan cientifico ta cuminsa exigi cu publicacionnan tin cu inclui acceso na e data uza y e codigo cu cua nan a haci e analisis.
-E meta ta pa garantisa cu tur resultadonan por wordo verifica di forma independiente y por sirbi como base pa trabou futuro.
+E meta ta pa garantisa cu tur resultado por wordo verifica di forma independiente y por sirbi como base pa trabou futuro.
 Tin biaha esaki ta mas facil pa bisa cu pa haci.
 Comparti e resultadonan di investigacion aki ta nifica compronde maneho di data, biblioteconomi, desaroyo di software y tecnicanan di integracion continuo: habilidad cu no sa duna les den dje ni cu por spera di investigador academico y data scientist.
 Mirando cu e actividadnan aki no ta duna lesnan di dje, nos ta reconoce cu e carga di e exsigencianan y haya  habilidadnan nobo por ta intimidante pa personanan cu ta nobo den e mundo aki.
