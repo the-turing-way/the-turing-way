@@ -365,7 +365,7 @@ Makefile
 : A text file that contains the configuration for the build.
 
 Markdown
-: A lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. There are various flavors of Markdown; some examples include [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [GitLab](https://docs.gitlab.com/user/markdown), [pandoc](https://pandoc.org/MANUAL.html#pandocs-markdown), [RMarkdown](https://rmarkdown.rstudio.com).  
+: A lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. There are various flavors of Markdown which extend the original Markdown with additional features or syntax changes. Some popular flavors are [Myst Markdown](https://mystmd.org/), [CommonMark](https://commonmark.org/), [GitHub flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [GitLab flavored Markdown](https://docs.gitlab.com/user/markdown)m and [pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).  
 
 Merge
 : The process of combining branches. Changes made on one or more branches are applied to another.
