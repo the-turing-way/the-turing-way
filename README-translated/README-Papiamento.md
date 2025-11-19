@@ -90,7 +90,7 @@ Nan tambe tin oportunidad di mentoria den e proyecto mientras nan ta haci nan co
 
 Nos a crea un [pakete di promocion](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) pa yuda bo presenta y comparti The Turing Way den bo red.
 
-### Sita _The Turing Way_
+### Cita _The Turing Way_
 
 Bo por haci referencia na _The Turing Way_ pa medio di e archivo Zenodo di e proyecto uzando DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 DOI ta permiti nos archiva e repositorio y ta realmente valioso pa garantisa cu e trabou ta rastrea den publicacionnan academico.
