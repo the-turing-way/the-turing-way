@@ -43,7 +43,7 @@ E capitulonan aki a wordo co-skirbi pa personanan pa colaborador, studiante, inv
 - [Tocante e proyecto](#tocante-e-proyecto)
 - [E ekipo](#e-ekipo)
 - [Contribui](#contribui)
-- [Site _The Turing Way_](#site-the-turing-way)
+- [Cita _The Turing Way_](#cita-the-turing-way)
 - [Tuma contacto cu nos](#tuma-contacto-cu-nos)
 - [Colaboradornan](#Colaboradornan)
 
