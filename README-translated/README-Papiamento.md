@@ -135,7 +135,7 @@ Conecta cu otro hende y comparti bo ideanan riba Slack uzando [e enlace di invit
 
 #### Ricibi actualisacion
 
-Tambe nos tin un lista di mail na cua nos ta manda actualisacionnan mensual di e proyecto.
+Tambe nos tin un lista di mail na cua nos ta manda actualisacion mensual di e proyecto.
 Subscribe riba <https://buttondown.com/turingway>.
 
 Tambe bo por sigui nos na [Mastodon](https://fosstodon.org/@turingway), [Bluesky](https://bsky.app/profile/turingway.bsky.social) y [Linkedin](https://www.linkedin.com/company/the-turing-way/).
