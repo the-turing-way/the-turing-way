@@ -1,7 +1,7 @@
 (ch-style-roles-and-directives)=
 # Custom Roles and Directives
 
-MyST [roles](xref:myst-spec/overview#roles) and [directives](xref:myst-spec/overview#directives) extend the behaviour of Markdown.
+MyST [roles](xref:myst-spec/overview#roles) and [directives](xref:myst-spec/overview#directives) extend the behaviour of {term}`Markdown`.
 They can be used to add features that are not part of [CommonMark](xref:myst-spec/commonmark), or to automate common or complex structures with reusable commands.
 The MyST guide has documentation for the built in [roles](xref:myst-guide/roles) and [directives](xref:myst-guide/directives)
 
