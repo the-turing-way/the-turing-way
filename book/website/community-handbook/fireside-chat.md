@@ -69,9 +69,8 @@ The schedule is decided based on the availability of individuals invited as spea
 - **Eventbrite pages**: Registrations are handled via [*The Turing Way* Eventbrite page](https://www.eventbrite.co.uk/o/the-turing-way-18600928389). The event is free to attend and recordings are shared with all registered participants after the event.
 - **Zoom**: We host Fireside events online using [Zoom](https://zoom.us/) (with live transcription), however, the platform for the participants can change based on the preference of the majority of speakers.
 - **Online promotion**: Announcements are shared on *The Turing Way* [X (formerly Twitter)](https://twitter.com/turingway), [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) and [monthly newsletters](https://buttondown.com/turingway), which are then cross-posted by other communities in their network.
-- **Shared Documents**: We currently use Etherpad by Software Freedom Conservancy to enable shared note-taking during the event. Refer to this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022. 
-    - **Template** is provided as a subchapter: {ref}`ch-template-fireside-chat`.
-    - **Overview of all Fireside Chats** are currently shared via HackMD: https://hackmd.io/\@turingway/fireside-chats.
+- **Shared Documents**: We currently use Framapad to enable shared note-taking during the event. Refer to this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022. 
+- **Template** is provided as a subchapter: {ref}`ch-template-fireside-chat`.
 - **Video Recording**: Video recordings with closed captioning are shared on *The Turing Way* YouTube channel in the [Fireside Chat video playlist](https://www.youtube.com/watch?v=nuNA3Qa8A-k&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl).
 
 ### Participants

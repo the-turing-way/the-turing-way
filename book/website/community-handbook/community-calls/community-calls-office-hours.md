@@ -14,7 +14,7 @@ This space was created as an informal space to ask questions about the project, 
 
 In 2022 and 2023, these calls were hosted by _The Turing Way_ Community Manager, Anne Lee Steele.  
 
-Similar to other community calls in 2023, the information for this call was hosted on [HackMD](https://hackmd.io/@turingway/office-hours).
+Similar to other community calls in 2023, the information for this call was hosted on [Framapad](https://hackmd.io/@turingway/office-hours).
 
 ## About "office" or "drop-in" hours
 

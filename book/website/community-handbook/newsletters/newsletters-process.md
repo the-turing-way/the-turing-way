@@ -25,7 +25,7 @@ There are several ways to start a draft for a _The Turing Way_ newsletter:
 You can work on this GitHub branch locally or online through a pull request (PR).
 If working online, please keep the draft mode on for your PR or add "[WIP]" (work in progress) in the title.
 
-2. Create the first draft on a shared HackMD when working with others to collaboratively write your draft before you transfer them to a GitHub branch.
+2. Create the first draft on a shared Framapad when working with others to collaboratively write your draft before you transfer them to a GitHub branch.
 
 ### Collect items for the newsletter as bullet points
 
@@ -88,7 +88,7 @@ More details about using images have been discussed in the next subchapter, {ref
 
 If you are working on a PR on GitHub, upload all the images and check if they are linked properly.
 
-If you have created your newsletter draft in a HackMD, then copy-paste the content to create/update your GitHub PR and upload all the linked images.
+If you have created your newsletter draft in a Framapad, then copy-paste the content to create/update your GitHub PR and upload all the linked images.
 
 When ready, mark your PR as "Ready for Review" and tag a few contributing members, preferably those who have been mentioned in the draft so that they can review and approve your text.
 

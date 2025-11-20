@@ -17,6 +17,23 @@ These calls also provide opportunities to clarify doubts about the project, get 
 The schedule for these coworking calls is updated weekly in the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
 We announce these in our [monthly newsletters](https://buttondown.email/turingway/) and send a reminder every Monday on the [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
+Community members have also commended these coworking calls, with positive messages shared in the Book Dash Slack channel.
+
+The Book Dash Slack channel is created per event and may change each time. The current channel and any temporary links are announced in the community calendar event, the weekly Slack reminder (sent each Monday), and in the shared Etherpad/Framapad notes. If you can't find the channel after joining the Slack workspace via the invite link above, ask in the community Slack or DM one of the organisers and they'll point you to the right channel.
+
+### If you're attending (or want to help run) — quick checklist
+
+- Attending only:
+  - Check the calendar and Monday Slack reminder for the Zoom link and the current Book Dash channel.
+  - Open the Etherpad/Framapad, add your name, set a short goal, and join the Zoom at the scheduled time.
+  - Add brief notes or progress updates to the shared pad during the call.
+
+- Helping to chair or co-host:
+  - Update the Etherpad/Framapad with dates for the upcoming calls and move previous notes to the archive region.
+  - Share the Code of Conduct and the shared timer link in the call chat.
+  - Create breakout rooms when needed and manage them between Pomodoros.
+  - Post the archived notes and announce the next dates in the Book Dash Slack channel and on X after the call.
+
 Though scheduled for 1 hour, you are welcome to join for shorter periods as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
 If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you.
 
@@ -24,16 +41,11 @@ If you are interested in coworking with one of the team members on a day that is
 
 The resource requirement for these calls is also very similar to the Collaboration Cafe.
 
-1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/\@turingway/coworking-call](https://hackmd.io/\@turingway/coworking-call) –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call](https://annuel2.framapad.org/p/ttw-coworking-call)
-2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
-3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
+1. Shared notes by [Framapad](https://annuel2.framapad.org):  [https://annuel2.framapad.org/p/ttw-coworking-call]
 
-We don't record these calls.
-We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unless there are multiple people working on the same thing.
+2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the Framapad.
 
-### Format of the call
-
-We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared HackMD](https://hackmd.io/\@malvikasharan/TW-coworking) for each week.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared Framapad](https://annuel2.framapad.org/p/ttw-collaboration-cafe) for each week.
 
 We'll run the following schedule during each call:
 
@@ -53,7 +65,7 @@ However, since these calls are attended by fewer participants, it provides more 
 
 Please update the document each month using the following steps:
 
-- [Update the Etherpad](https://annuel2.framapad.org/p/ttw-coworking-call) each month by adding dates for the weekly calls
+- [Update the Framapad](https://annuel2.framapad.org/p/ttw-coworking-call) each month by adding dates for the weekly calls
 - Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
 - Share the notes on Slack and X (formerly Twitter) announcing the dates
 - Use the notes during the call to share information as you chair the call
