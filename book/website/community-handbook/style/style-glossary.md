@@ -29,6 +29,6 @@ Authors
 
 ```
 
-To reference terms in your glossary, use the syntax ```[{term}`def<Term>`]```.
-
-For example, to link the term 'Authors' to its definition in the glossary file, please use the syntax ```[{term}`def<Authors>`]``` next to where this term appears, which should render online like this: "*Authors [{term}`def<Authors>`] has been referenced here.*"
+To reference terms in your glossary, use the syntax ```{term}`Term```.
+For example, to link the term 'Authors' to its definition in the glossary file, please use the syntax ```{term}`Authors``` which should render online like this: "*{term}`Authors` has been referenced here.*"
+If you want to use custom text for the link, use the syntax ```{term}`custom text <Term>```. For example, ```{term}`author list <Authors>```` would render as "author list".
