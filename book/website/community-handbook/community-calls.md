@@ -18,12 +18,7 @@ However, those calls overlap with many of the principles and practices shared in
 
 {ref}`Weekly Coworking<ch-community-calls-coworking>` and {ref}`Collaboration Cafe<ch-community-calls-collabcafe>` are coworking calls, open for members working across Community Level and Maintenance Level initiatives within _The Turing Way_.
 
-The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
-This allows people, who otherwise may feel isolated while working alone at home, to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
-
-We bring the practice of coworking to _The Turing Way_ using online coworking calls, through which we intend to develop a sense of energy and inspiration similar to in-person interactions but without the time and travel commitments.
-
-Our coworking calls provide opportunities for community members to allocate time to their desired tasks in _The Turing Way_ and get them done, partially or fully, with the support of others in the call who can help discuss their plans, share ideas or hold accountability.
+Our coworking calls are online sessions where community members dedicate focused time to work on their chosen _The Turing Way_ tasks together. These provide opportunities for accountability, discussion, and support from others in the community.
 
 ## 2. Governance-Related Calls
 
@@ -44,9 +39,6 @@ Community dynamics, especially for folks who know each other and work well toget
 Onboarding and welcoming calls are, therefore, organised for beginnings and newcomers to the project in mind.
 These calls include a general introduction to _The Turing Way_, the use of GitHub and different resources that can provide good starting points for those starting off with their journey with us.
 
-We had on a few occasions started and paused {ref}`Office Hours (now retired)<ch-community-calls-office-hours>`, which aimed to provide consistent time each week for anyone to join an open call and speak with our Research Community Manager.
-These calls are not as popular as our Collaboration Cafés and onboarding calls, hence, discontinued after a few attempts to engage with new members.
-
 ## 4. Community Share-Out and Celebration calls
 
 {ref}`Community Share-Outs<ch-community-calls-shareouts>` and Celebration calls are designed for openly sharing and celebrating the contributions of members, such as through Book Dash events.
@@ -54,14 +46,14 @@ This is particularly organised at the end of Book Dash, where community members 
 
 In the Collaboration Cafes, there is generally time reserved at the end of the call to share discussions from the two-hour coworking session.
 
-The Community Forums also hold space for celebrating the ongoing work or progress of Working Groups and sharing their work out to other achievements of our community members with the wider public and community.
+The Community Forums also celebrate ongoing work and share the achievements of our Working Groups with the wider community.
 
 ## Resources
 
 We want to make collaborative events like these as useful as possible for as many people as possible.
 Please [let the team members know](https://github.com/the-turing-way/the-turing-way#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.
 
-More templates related to Community Calls are provided in the {ref}`community template collection<ch-templates>`.
+Templates for organising community calls are available in the {ref}`community template collection<ch-templates>`.
 
 ### Joining Community Calls in Low-Bandwidth Environments
 
@@ -75,7 +67,7 @@ Here are some tips and alternatives for joining our calls:
 
 - **Reducing Video Quality:** If video is not essential for your participation, consider disabling your video feed during the call to conserve bandwidth. You can still actively engage in discussions via audio and text chat.
 
-For more information on how to join Zoom calls see [the zoom support documentation](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732).
+For more information on how to join Zoom calls, see [the zoom support documentation](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732).
 
 We are committed to ensuring that our community calls are accessible to all members. If you have any specific accessibility needs or suggestions, please reach out to us so we can accommodate them.
 
