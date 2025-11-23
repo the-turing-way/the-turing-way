@@ -118,6 +118,15 @@ for more on multi-line strings in yaml see: [Demystifying YAML Multiline Strings
 After a figure is added in a chapter, it can be referenced using its label.
 For example, we can reference the figure above like `[](#first-pull-request)`, which renders as [](#first-pull-request).
 
+## Embedding a Figure from Another Chapter
+
+You can embed a figure that already exists elsewhere in the book using the `{embed}` directive.
+This allows you to reuse an existing figure without copying or duplicating image metadata.
+
+```{embed} ../../../figures/first-pull-request.*
+:height: 400px
+```
+
 (ch-style-figures-advanced)=
 ## Advanced features and "gotchas"
 
