@@ -2,7 +2,7 @@
   "_comment": "This JSON file controls the behaviour of the all contributors bot. A description of the keys can be found here: https://allcontributors.org/docs/en/bot/configuration",
   "files": [
     "README.md",
-    "book/website/afterword/contributors-record.md"
+    "book/website/afterword/contributors/all-contributors.md"
   ],
   "imageSize": 100,
   "contributorsPerLine": 6,
@@ -5512,6 +5512,15 @@
       "profile": "https://github.com/brechtjehuiskes",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "rendell",
+      "name": "Rendell de Kort",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10668732?v=4",
+      "profile": "http://www.c-economics.com",
+      "contributions": [
+        "translation"
       ]
     }
   ]
