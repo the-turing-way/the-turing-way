@@ -1,45 +1,82 @@
-(cl-infrastructure-rse)=
-# Research Software Engineer: Overview
+(ch-collaboration-rse)=
+# Research Software Engineer (RSE): Overview
 
-Research Software Engineers (RSEs) are programmers with scientific backgrounds who play increasingly critical roles in the conduct of research and production of research software tools. 
-They are highly skilled team members who can also conduct their own research as part of their role. 
+Research Software Engineers (RSEs) are professionals who combine expertise in software development with an understanding of research processes.  
+They play a critical role in creating and maintaining sustainable, reliable, and reproducible research software that underpins modern science and engineering.
 
+## Who are RSEs?
 
-(cl-infrastructure-rse-role)=
-## What do Research Software Engineers do? 
-RSEs work on research projects. 
-They may be assigned to projects based on skills or background from a pool of other RSEs, or be specifically hired to work on a project. 
+RSEs are individuals who bridge the gap between research and software engineering.  
+They may come from academic, scientific, or technical backgrounds and often work closely with researchers, data scientists, and infrastructure teams.
 
-Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
+RSEs can be:
+- Developers who create and maintain scientific or analytical software.  
+- Researchers who focus on computational reproducibility and software quality.  
+- Infrastructure specialists who support research computing systems and workflows.
 
-## Who are Research Software Engineers?
-RSEs typically have a scientific or research background, often developing programming skills during masters or doctoral studies. 
-You can find out more about the backgrounds of RSEs through the [Software Sustinability Institute's 2018 Survey](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys). 
+Their roles often overlap with data stewards, system engineers, and open-source maintainers.  
+Many start as researchers who realize that software engineering practices improve research efficiency, collaboration, and sustainability.
 
-## What qualifications or skills do you need to be a Research Software Engineer? 
-There are not specific formal qualifications needed to become an RSE, but the majority will have at least one advanced degree (masters or doctoral level). 
-However, all RSEs are able to program, with the majority coding in Python, SQL, R, C/C++ or JavaScript.
-RSEs are also likely to understand concepts such as agile development, integration and testing, software architecture, and version control. 
+## What do RSEs do?
 
-## Challenges for Research Software Engineers
-* Lack of formal pathways for development
-* Production of software and tools not always recognised as a research output 
-* RSEs not viewed as researchers in their own right
-* Adjusting to working on different projects, possibly far from their original background 
+RSEs develop, maintain, and improve the software and systems used in research.  
+Their work ensures that research software is **reliable, sustainable, and reusable**.  
 
-## Benefits of having Research Software Engineers
-* Highly technical skills that support researchers who cannot program
-* Sharing of best practices in research software engineering across projects 
-* Apply cross-disciplinary knowledge to different projects 
-* Software will be more reliable and robust, supporting reuse and reproducibility 
+Typical activities include:
+- Writing and maintaining research software used in data collection, simulation, and analysis.  
+- Implementing automated testing, Continuous Integration (CI), and release workflows.  
+- Managing version control systems (Git, GitHub, GitLab).  
+- Packaging, licensing, and documenting software for public use.  
+- Promoting FAIR and open-source principles in research software.  
+- Supporting collaboration between teams across different scientific domains.  
+- Improving performance, portability, and maintainability of scientific codebases.  
 
-(cl-infrastructure-rse-support)=
-## Organisations that support Research Software Engineers
-* [Society for Research Engineering](https://society-rse.org/)
-* [Software Sustainability Institute](https://www.software.ac.uk/)
+## Qualifications or Skills
 
-(cl-infrastructure-rse-summary)=
-## Summary
-Research Software Engineers are highly skilled, valuable members of any research group that is conducting computational research.
-They bring technical programming skills as well as best practices from software architecture and open source development to academic research. 
-Some also conduct their own independent research projects. 
+RSEs combine technical, research, and communication skills.  
+Common competencies include:
+- Programming (Python, R, C/C++, Julia, MATLAB, Fortran).  
+- Testing, CI/CD, and software quality assurance.  
+- Environment management (Conda, Docker, Singularity).  
+- Documentation and knowledge sharing.  
+- Licensing and open-source governance.  
+- Version control and collaborative workflows.  
+- Software architecture and design patterns.  
+- Data management and FAIR principles.  
+- Communication and cross-domain collaboration skills.  
+
+> 💡 RSEs are not defined by a single job title or programming language — their shared goal is improving the quality and sustainability of research software.
+
+## Challenges
+
+RSEs face several systemic challenges:
+- **Recognition and Citation** — RSE work is often invisible and not formally credited.  
+- **Career Pathways** — Many institutions lack clear career frameworks for RSEs.  
+- **Funding Continuity** — Short-term grants limit long-term software maintenance.  
+- **Time for Maintenance** — Development is prioritized over documentation and upkeep.  
+- **Cross-Domain Onboarding** — RSEs must adapt quickly to new scientific contexts.  
+- **Sustainability** — Balancing innovation with long-term support remains difficult.  
+
+Community initiatives such as the [UK RSE Association](https://society-rse.org/), [Research Software Alliance (ReSA)](https://www.researchsoft.org/), and [INRIA RSE Network](https://www.inria.fr/en/research-software-engineers) are helping address these issues globally.
+
+## Benefits
+
+Strong RSE engagement improves:
+- **Reliability** — Software performs consistently and is tested.  
+- **Reproducibility** — Research outcomes can be verified and reused.  
+- **Efficiency** — Automated workflows save time and reduce human error.  
+- **Reusability** — Well-structured code can serve multiple projects.  
+- **Reduced Technical Debt** — Maintained codebases are easier to extend and sustain.  
+
+Institutions that support RSEs gain long-term efficiency, transparency, and competitiveness in research.
+
+## Learn More
+
+- [The Turing Way: Project Design Guide](../../project-design)  
+- [Society of Research Software Engineering](https://society-rse.org/)  
+- [Software Sustainability Institute](https://www.software.ac.uk/)  
+- [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
+
+---
+
+> _RSEs are essential to the modern research ecosystem — ensuring that science is not only innovative but also reproducible, sustainable, and open._
