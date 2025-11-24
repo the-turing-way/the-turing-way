@@ -1,22 +1,22 @@
 (ch-community-collaboration-partnership)=
 # Collaboration and Partnership with _The Turing Way_
 
-_The Turing Way_ is a community-led, open source guide for reproducible, ethical, and collaborative research.  
-It thrives through collaborations and partnerships across institutions, projects, and communities that share these values.
+_The Turing Way_ is a community-led, open-source guide to reproducible, ethical, and collaborative research.  
+It thrives through collaborations and partnerships with institutions, research organisations, and communities that share the same open science principles.
 
-This chapter outlines how organisations and individuals can collaborate with and contribute to _The Turing Way_ — whether through teaching, infrastructure, events, or shared projects.
+This chapter explains how individuals and organisations can engage, collaborate, and partner with _The Turing Way_ — supporting mutual growth and sustainability.
 
 ---
 
 ## Why Partner with _The Turing Way_?
 
-Partnerships strengthen _The Turing Way_ by:
-- Enabling knowledge sharing across domains and disciplines.  
-- Supporting the sustainability and long-term maintenance of open resources.  
-- Providing real-world examples of open and reproducible research practices.  
-- Building global networks of contributors and learners.
+Partnerships help build the long-term sustainability of _The Turing Way_ by:
+- Sharing expertise across institutions and research domains.  
+- Co-developing open and reproducible research materials.  
+- Supporting community-led training and outreach events.  
+- Strengthening recognition and funding for open science initiatives.
 
-Collaboration helps _The Turing Way_ grow as a living resource — co-created by diverse contributors.
+Collaborating with _The Turing Way_ not only enhances institutional visibility but also supports the global movement toward reproducible and ethical research.
 
 ---
 
@@ -24,10 +24,10 @@ Collaboration helps _The Turing Way_ grow as a living resource — co-created by
 
 ### 🌍 Institutional Collaboration
 Universities, research organisations, and public institutions can:
-- Adopt _The Turing Way_ as a framework for reproducible research training.  
-- Integrate chapters or workshops into their teaching programs.  
-- Host book dashes or collaboration cafés.  
-- Contribute case studies or co-develop materials.  
+- Adopt _The Turing Way_ materials as part of training or curricula.  
+- Host Book Dashes, Collaboration Cafés, or Fireside Chats.  
+- Share local examples of open research practices.  
+- Co-author chapters or handbooks.  
 
 **Examples of partner organisations:**
 - TU Delft  
@@ -37,33 +37,35 @@ Universities, research organisations, and public institutions can:
 - NHS-R Way  
 - Environmental Data Science Book  
 
-These collaborations demonstrate how shared practices in open research strengthen both local and global communities.
+These partnerships demonstrate how community collaboration enriches both local and global research ecosystems.
 
 ---
 
 ### 🤝 Project and Community Partnerships
-Projects aligned with open research, data science, and reproducibility can:
-- Reuse or adapt _The Turing Way_ materials under the [CC-BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).  
-- Contribute chapters or sections relevant to their expertise.  
-- Co-host events or cross-community writing sprints.  
-- Acknowledge _The Turing Way_ in their documentation and reports.
+Projects that share open science and reproducibility goals can:
+- Reuse and adapt _The Turing Way_ content under its [CC-BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).  
+- Co-develop new chapters or guides relevant to their domains.  
+- Participate in collaborative writing sprints or events.  
+- Acknowledge _The Turing Way_ in outputs, reports, or funding proposals.
 
-Collaborative relationships ensure shared goals, reduce duplication, and create stronger, reusable open research guidance.
+Collaborations between research communities help prevent duplication, align shared missions, and amplify collective impact.
 
 ---
 
 ## Testimonials and Impact
 
-Testimonials from partner institutions help demonstrate the impact and importance of _The Turing Way_.  
-They are used to:
-- Showcase the project’s value to the open research community.  
-- Support funding and sustainability proposals.  
-- Inspire new collaborators and contributors.
+To support _The Turing Way_'s long-term sustainability, the community collects **testimonials and impact stories** from collaborators and contributors.  
+These testimonials illustrate the value of _The Turing Way_ in advancing research practices and sustaining community-driven infrastructure.
 
-You can share testimonials through:
-- The [Collaborators and Acknowledgements](../community-handbook/acknowledgement.md) page.  
-- Quarterly community reports.  
-- The _afterword_ section of the book, where project partners are highlighted.
+You can contribute your testimonial by commenting on  
+[Issue #4032: Help build a strong case for funding The Turing Way’s maintenance and sustainability](https://github.com/the-turing-way/the-turing-way/issues/4032).
+
+**Example Impacts:**
+- Materials like _Fireside Chat_ templates, collaboration guides, and Book Dash frameworks have supported other open science projects such as **BridgeAI** and **OpenMake**.  
+- Researchers describe _The Turing Way_ as a “flagship open science project” — often cited in conferences, training events, and grant applications ([OpenMake Grant Reference](https://zenodo.org/records/8220973)).  
+- The project’s technical and social infrastructure has enabled participants to develop new open-source research chapters, improve data stewardship, and transform academic practices.  
+
+These testimonials are essential for demonstrating real-world benefits and securing future funding to sustain _The Turing Way_ community.
 
 ---
 
@@ -71,23 +73,22 @@ You can share testimonials through:
 
 To initiate collaboration:
 1. **Reach out** via [GitHub Discussions](https://github.com/the-turing-way/the-turing-way/discussions) or [Gitter](https://gitter.im/the-turing-way/community).  
-2. **Describe your interests** — what your project or institution does, and how it aligns with _The Turing Way_.  
-3. **Identify shared goals** — for example, co-developing a training module or co-hosting an event.  
-4. **Collaborate openly** — share drafts, chapters, or examples via GitHub issues or PRs.  
-5. **Acknowledge your partnership** — by adding your institution or project to the collaborators’ list.
+2. **Describe your interest** — outline your goals or projects that align with _The Turing Way_.  
+3. **Identify shared goals** — training, documentation, events, or outreach.  
+4. **Collaborate openly** — contribute through GitHub issues, PRs, or HackMD drafts.  
+5. **Acknowledge partnership** — add your institution or project to the collaborators’ section or afterword.
 
 ---
 
 ## Sustainability and Acknowledgements
 
-Partnerships help maintain the long-term sustainability of _The Turing Way_.  
-Collaborating organisations are encouraged to:
-- Recognise _The Turing Way_ in outputs, publications, and funding applications.  
-- Contribute examples and case studies to future releases.  
-- Engage in cross-community learning and shared development.
+Sustainable collaborations ensure the continued development of _The Turing Way_ by:
+- Recognising it in institutional outputs, reports, and proposals.  
+- Contributing to quarterly community reports and afterword acknowledgements.  
+- Sharing case studies and impact stories from funded or community-driven initiatives.
 
-These relationships ensure that the project remains active, inclusive, and valuable to researchers worldwide.
+Every partnership strengthens the collective foundation of open, reproducible, and ethical research.
 
 ---
 
-> 💡 _Every collaboration makes_ The Turing Way _stronger — connecting people, projects, and institutions that believe in open, reproducible, and ethical research._
+> 💡 _The Turing Way_ grows stronger with each collaboration — building a lasting, inclusive, and globally connected open research community.
