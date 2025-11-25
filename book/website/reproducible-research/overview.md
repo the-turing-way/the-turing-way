@@ -15,7 +15,14 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 
 (rr-overview-summary)=
-## Summary
+### Single-button reproducibility and workflow automation
+
+The concept of *single-button reproducibility* was introduced by Claerbout and Karrenbach in the early 1990s. The idea is that a complete analysis—from raw data to final figures, tables, and results—should be reproducible by running a single command or script. This allows another researcher (or even your future self) to regenerate the results without needing to manually follow many steps or guess missing details.
+
+A workflow may still be considered reproducible even if it includes many instructions, but manual processes are difficult to repeat reliably. They are rarely tested end-to-end during the research process, and it is easy to forget small steps or apply them inconsistently. Even well-written documentation cannot prevent human error.
+
+Automating workflows reduces these risks. When processing steps are scripted or handled by tools such as Make, Snakemake, Nextflow, or R Markdown, each run is identical, repeatable, and testable. Automation also improves efficiency: once a workflow is defined, updating and regenerating results becomes faster and less error-prone. This makes reproducibility a natural part of the research process, rather than a separate task performed only at the end of a project.
+
 
 Scientific results and evidence are strengthened if those results can be replicated and confirmed by several independent researchers (see {ref}`definitions <rr-overview-definitions>`).
 
