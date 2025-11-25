@@ -56,4 +56,8 @@ Data transformation is the practice of examining large datasets to generate new 
 You can reanalyze the research data and make relationships that may not have been previously discovered. 
 
 ## Additional resources on data curation
-* [10 Things for Curating Reproducible and FAIR Research](https://doi.org/10.15497/RDA00074)
+- **10 Things for Curating Reproducible and FAIR Research:**  
+  Arguillas, F., Christian, T.-M., Gooch, M., Honeyman, T., Peer, L., & CURE-FAIR WG. (2022).  
+  *10 Things for Curating Reproducible and FAIR Research (1.1).* Zenodo.  
+  https://doi.org/10.15497/RDA00074
+
