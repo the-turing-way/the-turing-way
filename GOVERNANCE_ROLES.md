@@ -1,10 +1,8 @@
 # Governance Roles in _The Turing Way_
 
-Governance in *_The Turing Way_* occurs across three Constitutional Levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
+Governance in *_The Turing Way_* occurs across three constitutional Levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
 
 This document provides details about the governance roles and members collaborating across all levels of governance in _The Turing Way_.
-
-This document also lists the members of the project delivery team, who support community management, maintenance of _The Turing Way_ resources and delivery of the project goals.
 
 For an overview of how members of *_The Turing Way_* community collaborate across these three levels of governance, please refer to the [Ways of Working](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md) documentation.
 
@@ -12,7 +10,7 @@ For an overview of how members of *_The Turing Way_* community collaborate acros
 
 | Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker ([KirstieJane](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her role as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
+| Kirstie Whitaker ([KirstieJane](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)) | Executive Director, Berkeley Institute for Data Science (BIDS) | Delivery Team: Voices of JupyterHub Project; Founder | Nov 2024 - present | Project Lead of _The Turing Way_ (Oct 2018 - Oct 2024), Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, May 2020 - Nov 2024 |
 | Arielle Bennett ([Arielle-Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)) | Senior Researcher - Open Source Practices; The Alan Turing Institute | Co-Lead Practitioners Hub, Book Dash Working Group Chair | Nov 2024 - Present | Previously: Project Manager and various Maintenance Level roles, 2021 - Nov 2024 |
 | Batool Almarzouq ([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation Working Chair | 2020 - Present | Various Maintenance Level roles |
 | Jim Madge ([JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | Infrastructure Wroking Group Chair | 2022 - Present | - |
@@ -74,7 +72,7 @@ Chairs or a designated representative of the following **Working Groups** join t
 Leads or designated representatives of the **Delivery Groups** for the following projects within _The Turing Way_ also serve on the Steering Committee for accountability:
 
 - **_The Turing Way_ Practitioners Hub**, a Turing Way project under the Innovate UK BridgeAI initiative that engages with industries in sharing and adopting best practices for data science and AI.
-- **JupyterHub -_The Turing Way_ Project**: A CZI-funded project in collaboration with Organizational Mycology to reinvigorate community practices within JupyterHub and share generalisable findings with the wide community via _The Turing Way_.
+- **Voices of JupyterHub Project**: A CZI-funded project in collaboration with Organizational Mycology to reinvigorate community practices within JupyterHub and share generalisable findings with the wide community via _The Turing Way_.
 - **Data Science Without Borders** (DSWB), a Wellcome Trust-funded project that leverages _The Turing Way_ for adopting and sharing best practices with the DSWB community.
 
 ## Previous Contributors to the Maintenance Level
