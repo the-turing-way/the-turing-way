@@ -3,7 +3,8 @@
 
 A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers and those interested in starting programming - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
 
-For both participants and organizers, a programming CAFE offers a fun and welcoming way to explore coding. At the same time, organising recurring events can be challenging, espacially if the  organisers do not have the event management background - most of us don't. That is why a group of CAFE organisers from different Dutch institutions came together to create a [CAFE Playbook](https://code-cafes-nl.github.io/cafe_playbook/): an online guide, where you can find detailed information on how to organise a CAFE, as well as resources that help you with the organisation.
+For both participants and organizers, a programming CAFE offers a fun and welcoming way to explore coding. At the same time, organising recurring events can be challenging, especially if the organisers do not have the event management background - most of us don't.
+That is why a group of CAFE organisers from different Dutch institutions came together to create a [CAFE Playbook](https://code-cafes-nl.github.io/cafe_playbook/): an online guide, where you can find detailed information on how to organise a CAFE, as well as resources that help you with the organisation.
 This chapter is a summary of the playbook with the most essential information. 
 
 
