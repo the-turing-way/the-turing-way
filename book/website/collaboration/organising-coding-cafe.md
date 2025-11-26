@@ -39,7 +39,8 @@ A well-strcutured programming CAFE can help demystify coding and turn it into pr
 
 - **Have fun, together**
 
-Coding doesn’t have to be solitary or stressful. When done together, programming, and making and errors, debugging, failing and trying again can be rewardinf, or even fun experience, rather than a daunting and demotivating task.
+Coding doesn’t have to be solitary or stressful.
+When done together, programming, and making and errors, debugging, failing and trying again can be rewarding, or even fun experience, rather than a daunting and demotivating task.
 
 
 ## What is a programming CAFE?
