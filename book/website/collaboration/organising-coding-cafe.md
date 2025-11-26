@@ -32,7 +32,9 @@ A programming community like CAFE can also provide access to resources and oppor
 
 - **Give a head start for those who need it**
 
-Researchers have different disciplinary backgrounds and programming experience. For some starting to code feels intimidating. It's not surprising, the programming world is often portrayed as highly competitive, male-dominated and full of tech jargon. 
+Researchers have different disciplinary backgrounds and programming experience.
+For some starting to code feels intimidating.
+It's not surprising, the programming world is often portrayed as highly competitive, male-dominated and full of tech jargon. 
 A well-strcutured programming CAFE can help demystify coding and turn it into practical, approachable research tool.
 
 - **Have fun, together**
