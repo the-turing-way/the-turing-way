@@ -12,7 +12,8 @@ This chapter is a summary of the playbook with the most essential information.
 
 Programming has become an essential skill for many fields of research. 
 However, learning to code can feel challenging and at times isolating - especially for beginners. 
-That’s where a programming CAFE community can make a significant difference. Here's why you might want to consider starting a programming community in your institution:
+That’s where a programming CAFE community can make a significant difference.
+Here's why you might want to consider starting a programming community in your institution:
 
 - **Share the burden of learning**
 
