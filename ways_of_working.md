@@ -12,7 +12,7 @@ For details, please refer to the Foreword, Afterword, and Community Handbook wit
 All contributors are invited to participate in the Community Level Governance.
 Please follow our [Contributing Guideline](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-We maintain a [Contributors Table](./README.md#contributors), [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) and apply [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) to recognise and credit all kinds of contributions in _The Turing Way_.
+We maintain a [Contributors Table](./README.md#contributors), [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html), and apply [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) to recognise and credit all kinds of contributions in _The Turing Way_.
 
 ### Commitments Towards Our Community
 
@@ -20,7 +20,7 @@ All members, especially at the maintenance and constitution levels, commit to:
 - following the contribution guidelines and keeping them up to date
 - abiding by and supporting the enforcement of the Code of Conduct in all community platforms and spaces where they represent _The Turing Way_.
 - offering their time and expertise to fixing open issues either directly via GitHub or providing mentorship and support to community members and project contributors.
-- making the implicit knoledge explicit by documenting their work and helping define our processes.
+- making the implicit knowledge explicit by documenting their work and helping define our processes.
 - recording any new updates, exceptions or useful knowledge in project management and core documents needed to facilitate collaboration.
 - feedback on issues in open source software used throughout _The Turing Way_ by opening an issue _The Turing Way_ GitHub repo or other open source projects where this issue can be fixed.
 - documenting and sharing any (non-sensitive/non-confidential) conversation from closed spaces (such as email, Slack, or 1:1 meeting) in a GitHub issue that could be useful for the community or community members in enabling their work in _The Turing Way_.
@@ -74,18 +74,18 @@ Details of regular and special events are recorded in the [community calendar](h
 ## GitHub management
 
 All members help triage open issues, review Pull Requests or address any questions raised on GitHub asynchronously.
-As most members do not work full time on _The Turing Way_, it might take some time until your query or contribution is addressed - especially if expert knowledge is needed. Don't be afraid to nudge if they've not replied after a few days! :sparkling_heart:
+As none of the members work full-time on _The Turing Way_, it will always take some time until your query or contribution is addressed - especially if expert knowledge is needed. Don't be afraid to nudge if they've not replied after a few days! :sparkling_heart:
 
 ### Issues & Pull Requests
 
 All members, especially at the maintenance and constitution levels, will:
 - monitor open issues and Pull Requests on the project's GitHub repository to identify if feedback, comments or connections can help address any concern or build on any suggested ideas/features.
-- whenever possible, post about the issues and Pull Requests in public forums (newsletter, Slack, Twitter) to facilitate participation from new members in the community.
-- review or assign a reviewer to open Pull Requests for review. This should be taken as an opportunity to connect contributors with specific interests, availability or technical skills that could be useful for the ongoing work.
+- Whenever possible, post about the issues and Pull Requests in public forums (newsletter, Slack, Twitter) to facilitate participation from new members in the community.
+- Review or assign a reviewer to open Pull Requests for review. This should be taken as an opportunity to connect contributors with specific interests, availability or technical skills that could be useful for the ongoing work.
 - connect issues and Pull Requests where possible (for example, by mentioning 'Fixes #[issue number]' in the Pull Request description). By adding "closes #issue" or [something similar](https://help.github.com/articles/closing-issues-using-keywords/) in a comment on a pull request, merging the pull request will close the issue automatically.
-- once completed, approve Pull Requests (for the contributors to merge them) and/or close issues immediately (if not linked to specific Pull Request) with a comment describing how it was addressed.
-- when reviewing a pull request or commenting on issues, be specific, describe your ideas clearly, comment to request changes or make a pull request to the file that should be merged (please do not use the "request changes" option when reviewing Pull Requests).
-- use your interactions on GitHub or other community spaces to provide support, mentorship and acknowledgement to our community of contributors.
+- once completed, approve Pull Requests (for the contributors to merge them) and/or close issues immediately (if not linked to a specific Pull Request) with a comment describing how it was addressed.
+- When reviewing a pull request or commenting on issues, be specific, describe your ideas clearly, share a comment to request changes or make a pull request to the file that should be merged (please do not use the "request changes" option when reviewing Pull Requests).
+- Use your interactions on GitHub or other community spaces to provide support, mentorship and acknowledgement to our community of contributors.
 
 ## Authorship and Contributorship in _The Turing Way_
 
@@ -98,9 +98,9 @@ This section offers an overview and highlights the main points to ensure you hav
 **The first author is always `The Turing Way Community`.**
 
 You don't have to have written a chapter to be listed as an author.
-Substantial contributions to the running of the project, for example, adding in (or improving) documentation on *how* someone can contribute to *The Turing Way*, hosted an event, given a talk or onboarded new members to *The Turing Way*, all count as core contributions warranting authorship.
+Substantial contributions to the running of the project, for example, creating or improving documentation, supporting a group to contribute to *The Turing Way*, hosting an event, giving a talk or onboarding new members to *The Turing Way*, all count as core contributions warranting authorship.
 
-Contributing small amounts over a long time, and thinking about the strategy for the project also count for authorship.
+Contributing small amounts over a long time, and improving the project strategy also counts for authorship.
 
 *The Turing Way* repository is archived on [Zenodo](https://zenodo.org/) at doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 
