@@ -50,7 +50,7 @@ By lowering the entry barrier and facilitating easy engagement, Pathways helps i
 For readers, Pathways can be found in a [dedicated section](#pw) immediately after the welcome page.
 
 For contributors, the `curation` directives can be edited.
-These are written in the Markdown files in the Pathways section.
+These are written in the {term}`Markdown` files in the Pathways section.
 For example, [the Data Stewards pathway](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/pathways/pathways-data-stewards.md)
 The [myst-curation demo site](https://the-turing-way.github.io/myst-curation/) also has examples of how to use the directive.
 

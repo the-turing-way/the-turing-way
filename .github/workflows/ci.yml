@@ -89,6 +89,7 @@ jobs:
   offline-link-check:
     name: Link Check
     needs: build-jb
+    if: ${{ !contains(github.head_ref, 'all-contributors') }}
     runs-on: ubuntu-latest
     steps:
       # We only need the lychee config file from the repository
