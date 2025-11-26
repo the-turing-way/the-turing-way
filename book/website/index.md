@@ -15,11 +15,11 @@ Browse the different guides that make up the book, or use the search box to sear
 ```
 
 All stakeholders from any level of experience or domain expertise are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science and research.
-You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
+You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](#ch-contributing) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
 In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to get involved.
 
-```{figure} figures/theturingway-pathway.*
+```{figure} ../figures/theturingway-pathway.*
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
@@ -62,7 +62,7 @@ Accordingly, everyone who participates in _The Turing Way_ project is expected t
 
 Learn more about our community members and community-level approaches in the {ref}`aw` of this book. 
 
-```{figure} _static/videos/contributors.mp4
+```{figure} ../_static/videos/contributors.mp4
 ---
 name: contributors-table-video
 alt: Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.
@@ -71,9 +71,8 @@ alt: Video showing screen capture of contributors table, smiling faces and emoji
 
 To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
 
-To join this community, please read our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) with ways to [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
+To join this community, please read our [contribution guidelines](#ch-contributing) with ways to [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
 All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 More information about the community, participation process and project management is available in the {ref}`ch`.
 
 We look forward to expanding and building _The Turing Way_ together.
-

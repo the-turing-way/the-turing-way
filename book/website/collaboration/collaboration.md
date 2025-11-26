@@ -6,7 +6,7 @@
 Data science is defined by its interdisciplinarity.
 Our work can only reach its highest potential if there are diverse teams of people involved in designing and delivering the research or product.
 
-```{figure} ../figures/collaboration.*
+```{figure} ../../figures/collaboration.*
 ---
 name: collaboration
 width: 500px
@@ -27,4 +27,4 @@ In this guide, we welcome contributions in developing guidance on the following 
 * Defining explicit expectations
 * Participatory co-creation
 
-Check out our [contributing guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.
+Check out our [contributing guidelines](#ch-contributing) to get involved.

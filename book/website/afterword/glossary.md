@@ -1,4 +1,4 @@
-(glossary)=
+(aw-glossary)=
 
 # Glossary
 
@@ -119,12 +119,12 @@ Corresponding author
 : The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
 
 Creative Commons
-: Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
+: Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can reuse it.
   This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
   You can read more about copyright and licensing in {ref}`the chapter on licensing<rr-licensing>`.
   The 'CC0' is a public domain dedication waiving the copyright and anyone to use the work as they see fit.
   There are a number of variants on the creative license which use the copyright on the work to stipulate terms on which it can be re-used.
-  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
+  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial reuse (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
   The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
 
 CRediT Taxonomy
@@ -147,7 +147,7 @@ DMP
 
 DNS
 : Domain Name System.
-  The system which translates domain names, for example book.the-turing-way.org, to the IP addressess used by computer networks.
+  The system which translates domain names, for example book.the-turing-way.org, to the IP addresses used by computer networks.
 
 Docker Container
 : An active computational environment executed from a Docker image.
@@ -184,11 +184,11 @@ Equitable, Diverse and Inclusive Practices
 : Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
 Ethical Source Software
-: These licenses were created as 'traditional' {term}`open source <Open Source Software>` licenses make no restictions on the uses to which the software can be put including unethical uses.
+: These licenses were created as 'traditional' {term}`open source <Open Source Software>` licenses make no restrictions on the uses to which the software can be put including unethical uses.
   These licenses require that software is used in ways that respect fundamental human rights.
-  This can be thought of as relaxing the hardline 'freedom to run software for any purpose' stipulation required for software to qualify as free / libre or open source by the conventional definitions.  
+  This can be thought of as relaxing the hardline 'freedom to run software for any purpose' stipulation required for software to qualify as free / libre or open source by the conventional definitions.
   Whilst these licenses sought to be considered {term}`open source <Open Source Software>`, their terms place restrictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
-  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term}`source available<Source Available>` license.
+  Use restrictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term}`source available<Source Available>` license.
   See: {ref}`Ethical Source<rr-licensing-ethical>` for more.
 ```
 
@@ -275,7 +275,7 @@ Honorary authorship
 Hosting
 : A service which makes data, such as a website, available on the internet.
   It is possible to self-host, using your own infrastructure.
-  However, it is common to use a third-party, often commerical, hosting provider.
+  However, it is common to use a third-party, often commercial, hosting provider.
 
 Human Readable
 : A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
@@ -287,7 +287,7 @@ Human Readable
 
 ```{glossary}
 Identifier
-: An identifier is a key or name used as label or the identity of a unique class of objects, represnting an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
+: An identifier is a key or name used as label or the identity of a unique class of objects, representing an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
 
 Image
 : Files used for generating containers.
@@ -349,7 +349,7 @@ Last author
 ```{glossary}
 Machine Learning (ML)
 : Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
-  A broad sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  A broad sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial intelligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
   Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
@@ -363,6 +363,9 @@ Maintainers
 
 Makefile
 : A text file that contains the configuration for the build.
+
+Markdown
+: A lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. There are various flavors of Markdown which extend the original Markdown with additional features or syntax changes. Some popular flavors are [Myst Markdown](https://mystmd.org/), [CommonMark](https://commonmark.org/), [GitHub flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [GitLab flavored Markdown](https://docs.gitlab.com/user/markdown) and [pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).  
 
 Merge
 : The process of combining branches. Changes made on one or more branches are applied to another.
@@ -387,25 +390,43 @@ Mock Test
 ## O
 
 ```{glossary}
-Open Access
+Open access
 : Making all published outputs freely accessible for maximum use and impact.
 
-Open Access publishing (gratis)
+Open access publishing (gratis)
 : The practice of making research publications available to anyone to read without charge.
 
-Open Access Publishing (libre)
+Open access publishing (libre)
 : Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
-Open Core
-: A model for the monetisation of software where the 'core' compenents are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
+Open core
+: A model for the monetisation of software where the 'core' components are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
 
 Open data
-: Documenting and sharing research data openly for re-use.
+: Documenting and sharing research data openly for reuse.
 
-Open Educational Resources
+Open educational resources
 : Making educational resources publicly available to be re-used and modified.
 
-Open Source
+Open license
+: A license is a document that specifies what can and cannot be done with a work.
+  It grants permissions and states restrictions.
+  Broadly speaking, an open license is one that grants permission to access, reuse and redistribute a work with few or no restrictions.
+  (See {ref}`licensing<rr-licensing>` for more details)
+
+Open notebooks
+: An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
+
+Open project
+: *Same as Open Science or Open Research Projects*.
+  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
+  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
+
+Open scholarship
+: This is a concept that extends open research further.
+  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
+
+Open source
 : [opensource.com](https://web.archive.org/web/20240618150233/https://opensource.com/resources/what-open-source) describes open source as:
   "Something people can modify and share because its design is publicly accessible".
   The concept of 'open source' is now often extended beyond the context of its original coinage, {term}`software<Open Source Software>`,
@@ -413,39 +434,21 @@ Open Source
   Referring to something as 'open source' generally means that it is available under an {term}`open license<Open License>`.
   The term can also extend to an {term}`open project<Open Project>` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
   The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output.
-  For example an image created with a simple bitmap editor might be reffered to as 'open source' despite lacking something that can be considered a 'source'.
-  In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
+  For example an image created with a simple bitmap editor might be referred to as 'open source' despite lacking something that can be considered a 'source'.
+  In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products,
   though they may include source materials.
   There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' and '{term}`Fair Code<Fair Code>`'.
 
-Open Source Hardware
-: Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
+Open source hardware
+: Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design.
 
-Open Source Software
+Open source software
 : Broadly, users of the software must able to inspect, modify and redistribute the source code of the software as they see fit, and not restrict the uses to which the code can be put or by whom it can be used.
   The [Open Source Initiative (OSI)](https://opensource.org/) offers a widely used definition of Open Source Software: The [Open Source Definition (OSD)](https://web.archive.org/web/20240619054907/https://opensource.org/osd) which is comprised of 10 criteria with which the terms of distribution of software must comply to meet their definition.
   The OSI maintains a list of licenses which have gone through their review process and been approved.
   Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
   Almost all open source software is also {term}`Free / Libre Software<Free or Libre Software>`.
   For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
-
-Open Scholarship
-: This is a concept that extends open research further.
-  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
-
-Open License
-: A license is a document that specifies what can and cannot be done with a work.
-  It grants permissions and states restrictions.
-  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
-  (See {ref}`licensing<rr-licensing>` for more details)
-
-Open Notebooks
-: An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
-
-Open Project
-: *Same as Open Science or Open Research Projects*.
-  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
-  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
 ORCID
 : Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher.
@@ -606,6 +609,12 @@ Source Available
 
 Staged
 : Staging the changes that will be included in the next git commit.
+
+Stale
+: {term}`Issues` and {term}`pull requests <Pull Request>` become stale when they have been open for an extended period of time with no progress or engagement.
+  This becomes a problem as the chance of these issues being completed reduces, as knowledge and enthusiasm are lost.
+  It is also possible that bug reports become so out of date they are no longer relevant, or pull requests are so far out of sync that merging is difficult.
+  There is no canonical definition of stale, however, some progress may use automation to close items after a set period of inactivity.
 
 Stochastic Code
 : Code which, while correct, does not always output the same result. For example a program that outputs ten random numbers will generate a different result each time, despite being correct.

@@ -4,7 +4,7 @@ _The Turing Way_ hosts a variety of events throughout the year: virtual Collabor
 
 All of _The Turing Way_ community calls are hosted on either a remote-first and/or hybrid-basis. 
 
-In order to enable the widest participation possible, and overcome any possible barriers that may prevent paricipation or negatively affect their experience, we aim to provide the following support for each call.
+In order to enable the widest participation possible, and overcome any possible barriers that may prevent participation or negatively affect their experience, we aim to provide the following support for each call.
 
 All our community calls adhere to the project's [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
@@ -23,7 +23,7 @@ Many of our community materials and presentations are uploaded to our [Zenodo co
 Due to IT limitations from our hosting organisation, we do not currently use any additional transcription support (such as Otter.ai), but hope to do so in the future.
 
 5. **Recordings**: Community calls like the coworking call and collaboration cafes are not recorded by default, though the notes from each session are uploaded in our repository.
-Workshops and trainings may be recorded at the discresion of the organisers, and/or if participants request.
+Workshops and trainings may be recorded at the discretion of the organisers, and/or if participants request.
 
 6. **Alternative forms of engagement**: At our community calls, we tend to encourage (but absolutely do not enforce!) a video-on culture at our community calls.
 However, we recognise that this may be both bandwidth-intensive as well as exclusory to those who would not like to engage in this way.

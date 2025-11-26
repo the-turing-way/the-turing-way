@@ -16,7 +16,7 @@ Here are some to consider:
 ## Building an academic-industry collaboration community
 The Turing-Roche partnership hired a full time Community Manager for this purpose; helping to navigate any differences in ways of working, facilitating initial and longer term connections and creating a sense of ownership and engagement around the partnership.
 
-Approaches to community building can vary (see {ref}`Guide to Planning a Community Chapter <cl-new-community-guide>`) but initial steps that might be useful in an academic-industry collaboration are:
+Approaches to community building can vary (see [Guide to Planning a Community Chapter](#cl-new-community-guide) but initial steps that might be useful in an academic-industry collaboration are:
 
 (cl-academic-industry-community-event)=
 ## Initial 'Kick Off' Event
@@ -32,7 +32,7 @@ A useful activity before jumping in to create new engagement opportunities is to
 For example there may be a seminar series, journal club or working group at one of the organisations that colleagues from the other are welcome to join.
 
 For the Turing-Roche Partnership, Roche colleagues were encouraged to get involved with the [Turing Institute Interest Groups](https://www.turing.ac.uk/research/interest-groups) which are open for anyone to join and a good way to get a sense of what research is being explored at the Turing. 
-On the Roche side, the team explored areas of the business and prepared case studies of where potential partnership research could be applied- gaining buy-in from colleagues.  
+On the Roche side, the team explored areas of the business and prepared case studies of where potential partnership research could be applied- gaining buy-in from colleagues.
 
 (cl-academic-industry-community-champions)=
 
@@ -48,16 +48,16 @@ You can bring on board individuals who can help advise on scientific strategy an
 ## Creating Shared Spaces to Connect
 To start facilitating interactions and connections between your organisations and allow your community to come together, it is worthwhile to set up a shared space where people can interact. 
 This could be something like a Slack Workspace or GitHub Repository which are both fairly low barrier to engage with. 
-More info on GitHub can be found in {ref}`the Getting Started with GitHub chapter <cl-github-novice>`. 
+More info on GitHub can be found in [the Getting Started with GitHub chapter](#cl-github-novice). 
 You might need to check any tool you're considering with your IT department and take into consideration any restrictions/access issues each organisation might have.
 
 As your collaboration grows and progresses you may also consider joint events, such as a seminar series, journal club or joint conference/symposium. 
 Collaboration Cafes and/or co-working sessions can also help bring a sense of community to your collaboration. 
 They can be spaces where you onboard new members, brainstorm or work on research together. 
-More in this {ref}`this Turing Way chapter <ch-coworking>`.
+More in this [this Turing Way chapter](#ch-community-calls-coworking).
 
 Establishing communication tools, such as a newsletter, is a useful way of sharing collaboration news, advertising your events and opportunities and spreading awareness. 
-There is more info on how to create a newsletter in {ref}`this Turing Way chapter <ch-newsletters>`and you can also find previous Turing-Roche newsletters [here](https://github.com/alan-turing-institute/turing-roche-partnership/tree/main/communications/newsletters).
+There is more info on how to create a newsletter in [this Turing Way chapter](#ch-newsletters) and you can also find previous Turing-Roche newsletters [here](https://github.com/alan-turing-institute/turing-roche-partnership/tree/main/communications/newsletters).
 
 (cl-academic-industry-community-strategy)=
 ## Considering Community Strategy 

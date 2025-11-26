@@ -16,7 +16,7 @@
  When you are happy with the new changes, you can introduce them to the main project.
  The merge feature in Git allows the independent lines of development in a local branch to get integrated into the main branch.
 
- ```{figure} ../../figures/one-branch.*
+ ```{figure} ../../../figures/one-branch.*
  ---
  name: one-branch
  alt: >
@@ -33,7 +33,7 @@
  You can have more than one branch off of your main copy.
  If one of your branches ends up not working, you can either abandon it or delete it without impacting the main branch of your project.
 
- ```{figure} ../../figures/two-branches.*
+ ```{figure} ../../../figures/two-branches.*
  ---
  name: two-branches
  alt: >
@@ -47,7 +47,7 @@
 
  If you want, you can create branches from branches (and branches off of those branches and so on).
 
- ```{figure} ../../figures/sub-branch.*
+ ```{figure} ../../../figures/sub-branch.*
  ---
  name: sub-branch1
  alt: >

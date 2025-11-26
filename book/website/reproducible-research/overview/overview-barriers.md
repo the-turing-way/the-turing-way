@@ -5,7 +5,7 @@ So far we have explained {ref}`what we mean<rr-overview-definitions>` by reprodu
 
 In this section we cover some of the (real and perceived) barriers you may face in making your work reproducible.
 
-```{figure} ../../figures/barriers-reproducibility.*
+```{figure} ../../../figures/barriers-reproducibility.*
 ---
 width: 500px
 name: reproducibility-barriers
@@ -35,7 +35,7 @@ We know that no one wants to incriminate themselves, and also that no one is inf
 Putting your code and data online can be very revealing and intimidating, and it is part of the human condition to be nervous of being judged by others.
 Although there is no _law_ governing the communication of reproducible research - unless you commit explicit fraud in your work - sharing errors that you find in your work is heavily disincentivised.
 
-```{figure} ../../figures/make-ok-to-be-human.*
+```{figure} ../../../figures/make-ok-to-be-human.*
 ---
 height: 500px
 name: make-ok-to-be-human
@@ -116,7 +116,7 @@ The [Apache Hadoop](https://hadoop.apache.org/) framework, for instance, is extr
 
 Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 _The Turing Way_ contains chapters to help data scientists learn skills in {ref}`reproducible computational environments<rr-renv>` including {ref}`containers<rr-renv-containers>` such as docker and ways to {ref}`version control your software libraries<rr-renv-package>`.
-We are always [open to more contributions](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
+We are always [open to more contributions](#ch-contributing) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
 
 (rr-overview-barriers-notright)=
 ## Being reproducible does not mean the answer is right
@@ -140,7 +140,7 @@ Throughout the project, time may be required to maintain the reproducible pipeli
 Time may also be spent communicating with collaborators to agree on which parts of the project may be open source and when and how these outputs are shared.
 Researchers may find that they need to "upskill" their colleagues to allow the team to benefit from reproducibility tools such as git and GitHub, containers, Jupyter notebooks, or databases.
 
-```{figure} ../../figures/help-you-of-the-future.*
+```{figure} ../../../figures/help-you-of-the-future.*
 ---
 width: 500px
 name: help-you-of-the-future
@@ -168,7 +168,7 @@ These questions may cover software incompatibility across operating systems and 
 They may also include questions about how to adjust the code for a different purpose.
 
 This barrier is based in part on conflating "reproducible" with "open" research.
-The _Turing Way_ {ref}`definition of "reproducible"<rr-overview-definitions>` doesn't require authors to support the expansion and re-use of the data and code beyond running the exact analyses that generate the published results in the accompanying manuscript.
+The _Turing Way_ {ref}`definition of "reproducible"<rr-overview-definitions>` doesn't require authors to support the expansion and reuse of the data and code beyond running the exact analyses that generate the published results in the accompanying manuscript.
 
 In almost all cases, making code and data open source requires better documentation than a researcher would write for themselves.
 This can feel like an additional barrier, although - as discussed in the previous section on reproducible research {ref}`taking extra time<rr-overview-barriers-time>` it is likely that the primary beneficiaries of well commented and tested code with detailed documentation are the research team - particularly the principal investigator of the project - themselves.
@@ -189,5 +189,5 @@ We hope that by working towards helping you learn some of these valuable skills 
 ## Further reading and additional resources
 
 You can watch Kirstie Whitaker describe some of these barriers in [her talk about _The Turing Way_](https://youtu.be/wZeoZaIV0VE?t=312) at [csv,conf,v4](https://csvconf.com/2019) in May 2019.
-You can use and re-use her slides under a CC-BY licence via Zenodo (doi: [10.5281/zenodo.2669547](https://doi.org/10.5281/zenodo.2669547)).
+You can use and reuse her slides under a CC-BY licence via Zenodo (doi: [10.5281/zenodo.2669547](https://doi.org/10.5281/zenodo.2669547)).
 The section describing the slide below starts around 5 minutes into the video.

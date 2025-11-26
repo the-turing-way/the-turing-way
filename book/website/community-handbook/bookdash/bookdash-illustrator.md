@@ -15,7 +15,7 @@ The Book Dash was a success and the experience of working with an artist added t
 They loved seeing their ideas translated into images - an (almost) immediate output they could collaborate on and feel proud to have contributed to.
 This experience was brought back in subsequent Book Dash events in person and online and has always remained a highlight.
 
-```{figure} ../../figures/book_dash_mcr_art.*
+```{figure} ../../../figures/book_dash_mcr_art.*
 ---
 height: 400px
 name: book_dash_mcr_art
@@ -25,7 +25,7 @@ Picture taken by Jez Cope at the Book Dash 2019 in Manchester. Hand sketched ill
 ```
 
 All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 licence on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
-All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
+All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/figures).
 
 When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
 > _This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_
@@ -35,7 +35,7 @@ Alt Text is an important criteria to ensure accessible web design used for descr
 For guidance, please read [Write good Alt Text to describe images](https://accessibility.huit.harvard.edu/describe-content-images) by the Digital Accessibility service of Harvard University.
 
 We encourage using these illustrations not just within *The Turing Way*, but wherever appropriate in the context of science communications or to enhance public engagement with data science and research.
-We already see reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 12,000 downloads at the time of writing this chapter (July 2022).
+We already see reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 34,000 downloads at the time of writing this chapter (April 2025).
 
 Here are some examples:
 - **Scoping Report: EU Policy**: [Reproducibility of scientific results in the EU: scoping report. Publications Office of the European Union](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1),  Directorate-General for Research and Innovation (European Commission), author(s): Baker, L., Cristea, I. A., Errington, T. M., Jaśko, K., Lusoli, W., MacCallum, C. J., Parry, V.,  Pérignon, C.,  Šimko, T.,  Winchester, C. (2020)
@@ -49,7 +49,7 @@ Here are some examples:
 ## Benefits of illustrations and why hire a professional scribe
 
 *The Turing Way* chapters often include research or scientific concepts described by professionals. 
-As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts. 
+As experts, many of us do not always effectively communicate our ideas in simple terms for people who are new to those research concepts. 
 This is where illustrations are quite powerful at communicating complex ideas simply.
 
 Simple images, tables and flow charts are something that many of us can create. 
@@ -102,6 +102,48 @@ Contact the company's account manager or the freelance artist directly to set a 
 Based on your request, they will share their quotes for each service.
 When confirmed, block the dates/times and share details about your event (agenda, logistics, and anything else they should know). 
 When agreed, you will receive a contract for the service, terms and conditions and an invoice to be paid after the service is delivered.
+
+### Sample schedule
+
+```
+Turing Way Book Dash - Proposed Schedule for Scriberia Artist
+
+Timings	Length of session	Activity
+09:00:00	20	Group 1
+09:20:00	10	Artist colour Group 1
+09:30:00	20	Group 2
+09:50:00	10	Artist colour Group 2
+10:00:00	20	Group 3
+10:20:00	10	Artist colour Group 3
+10:30:00	20	Artist break
+10:50:00	20	Group 4
+11:10:00	10	Artist colour Group 4
+11:20:00	20	Group 5
+11:40:00	10	Artist colour Group 5
+11:50:00	10	Artist break
+12:00:00	20	Group 6
+12:20:00	10	Artist colour Group 6
+12:30:00	20	Group 7
+12:50:00	10	Artist colour Group 7
+13:00:00	45	Artist lunch
+13:45:00	20	Group 8
+14:05:00	10	Artist colour Group 8
+14:15:00	20	Group 9
+14:35:00	10	Artist colour Group 9
+14:45:00	20	Group 10
+15:05:00	10	Artist colour Group 10
+15:15:00	10	Artist break
+15:25:00	20	Group 11
+15:45:00	10	Artist colour Group 11
+15:55:00	20	Group 12
+16:15:00	10	Artist colour Group 12
+16:25:00	20	Group 13
+16:45:00	10	Artist colour Group 13
+16:55:00	20	Group 14
+17:15:00	10	Artist colour Group 14
+17:25:00	35	Finalise artwork/upload files to GDrive folder provided by client
+18:00:00		Finish
+```
 
 ## Pro tips
 
