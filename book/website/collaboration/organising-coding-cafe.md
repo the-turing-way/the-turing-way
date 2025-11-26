@@ -1,33 +1,46 @@
 (cl-organising-coding-cafe)=
 # Organising a Programming  CAFE
 
-A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
+A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers and those interested in starting programming - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
+
+For both participants and organizers, a programming CAFE offers a fun and welcoming way to explore coding. At the same time, organising recurring events can be challenging, especially if the organisers do not have the event management background - most of us don't.
+That is why a group of CAFE organisers from different Dutch institutions came together to create a [CAFE Playbook](https://code-cafes-nl.github.io/cafe_playbook/): an online guide, where you can find detailed information on how to organise a CAFE, as well as resources that help you with the organisation.
+This chapter is a summary of the playbook with the most essential information. 
 
 
-## Why a programming CAFE?
+## Why start a programming CAFE?
 
-Programming has become an essential skill for many fields, including research. 
-However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. 
-That’s where a programming CAFE or community can make a significant difference. 
-Here are some reasons why you might want to consider starting a programming community in your university:
+Programming has become an essential skill for many fields of research. 
+However, learning to code can feel challenging and at times isolating - especially for beginners. 
+That’s where a programming CAFE community can make a significant difference.
+Here's why you might want to consider starting a programming community in your institution:
 
-### Build a supportive community
-
-Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference.
-A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.
-
-### Foster collaboration and knowledge-sharing
+- **Share the burden of learning**
 
 Programming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing.
 By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.
 
-### Provide access to resources and opportunities
+- **Discover what you don't know**
+
+You don't know what you don't know - but others might.
+Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference.
+A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.
+
+- **Access resources and opportunities faster**
 
 A programming community like CAFE can also provide access to resources and opportunities that might otherwise be difficult to find. For example, members of the community might share job or internship opportunities, recommend useful tools and libraries, or organize coding workshops and hackathons.
 
-### Promote diversity and inclusion
+- **Give a head start for those who need it**
 
-By actively promoting diversity and inclusion, a programming community like CAFE can help create a more welcoming and supportive environment for all researchers, regardless of their background or level of experience.
+Researchers have different disciplinary backgrounds and programming experience.
+For some starting to code feels intimidating.
+It's not surprising, the programming world is often portrayed as highly competitive, male-dominated and full of tech jargon. 
+A well-strcutured programming CAFE can help demystify coding and turn it into practical, approachable research tool.
+
+- **Have fun, together**
+
+Coding doesn’t have to be solitary or stressful.
+When done together, programming, and making and errors, debugging, failing and trying again can be rewarding, or even fun experience, rather than a daunting and demotivating task.
 
 
 ## What is a programming CAFE?
