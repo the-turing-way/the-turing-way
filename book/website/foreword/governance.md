@@ -76,8 +76,8 @@ Decisions and activities undertaken by community level members may include the f
 
 We have discussed specific roles under this level in {ref}`fw-community`.
 
-Guidelines and processes for this level are described in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`ch`.
-These processes and resources are co-developed by maintenance level members with the involvement of members from the community and constitution levels as needed.
+Guidelines and processes for this level are described in the [contribution guidelines](#ch-contributing) and [](#ch).
+These processes and resources are co-developed by maintenance-level members with the involvement of members from the community and constitution levels as needed.
 
 ### Maintenance Level
 
@@ -117,7 +117,7 @@ Decisions at the maintainer level may include the following:
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
 * Proposing funding ideas/proposals or responding to a call for applications to support their work in _The Turing Way_.
 * Suggesting changes in ongoing processes or current working models through discussions.
-* Organising a {ref}`ch-fireside-chat` in conversation with the Community Management Working Group.
+* Organising a [](#ch-fireside-chat) in conversation with the Community Management Working Group.
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 

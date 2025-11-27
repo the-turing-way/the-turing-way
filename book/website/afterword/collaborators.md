@@ -1,4 +1,4 @@
-(collaborators)=
+(aw-collaborators)=
 # Partners and Collaborators
 
 _The Turing Way_ works in collaboration and partnership with many communities and organisations.
@@ -9,6 +9,7 @@ We acknowledge each of these contributing members individually and list their pr
 
 ## Collaborating Projects - Ongoing
 
+(aw-collaborators-practitioners-hub)=
 ### *The Turing Way* Practitioners Hub - BridgeAI-funded Project
 
 [Official Webpage](https://www.turing.ac.uk/turing-way-practitioners-hub)
@@ -18,16 +19,17 @@ We acknowledge each of these contributing members individually and list their pr
 - [Arielle Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)
 - [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
 
-(collaborators-jupyterhub)=
+(aw-collaborators-jupyterhub)=
 ### [JupyterHub - The Turing Way DEI Project](https://chanzuckerberg.com/eoss/proposals/jupyterhub-community-strategic-lead/)
 
 To broaden participation in the JupyterHub community, JupyterHub has collaborated with _The Turing Way_ to create for pathways and programs that provide onboarding and mentorship opportunities for their community members.
 
 #### Representative
+
 - [Kirstie Whitaker](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)
 - [Arielle Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)
 
-(collaborators-dswb)=
+(aw-collaborators-dswb)=
 ### [Data Science Without Borders](https://dswb.africa/open-science/)
 
 The Wellcome Trust-funded Data Science Without Borders (DSWB) is committed to supporting the adoption and use of open science practices and approaches in their work.
@@ -35,20 +37,22 @@ The Turing Way is used as a primary reference for curating and sharing practices
 See, {ref}`Data Science Without Border Pathway<pw-data-science-without-borders>` page for chapters curated for the community.
 
 #### Representative
+
 - [Precious Onyewuchi](https://osponow.com/team/precious-onyewuchi)
 - [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)
 
 ## Community Partners
 
-(collaborators-eds)=
+(aw-collaborators-eds)=
 ### [Environmental Data Science Book](https://edsbook.org/welcome.html)
 
 Environmental Data Science book or EDS book is a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
 
 #### Representative
+
 - [Alejandro Coca-Castro](https://book.the-turing-way.org/afterword/contributors-record#alejandro-coca), Research Fellow, Environment and Sustainability Grand Challenge Research Programme, The Alan Turing Institute
 
-(collaborators-NHS-R)=
+(aw-collaborators-NHS-R)=
 ### [NHS-R Way](https://nhsrway.nhsrcommunity.com/)
 
 The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. 
@@ -59,6 +63,7 @@ The NHS-R builds on _The Turing Way_ guide model for the NHS-R community to prom
 Contributors come from Local Authorities, Civil Service, the Public Sector, Academia, the Voluntary Sector, Charities and individuals with no organisational connection.
 
 #### Representative
+
 - [Zoë Turner](https://book.the-turing-way.org/afterword/contributors-record#zoe-turner), Senior Data Scientist, Strategy Unit
 
 (collaborators-ols)=
@@ -71,6 +76,7 @@ They develop Open Science aspects in the projects that they either already have 
 OLS community members have been collaborating with *The Turing Way* since 2020.
 
 #### Representative
+
 - [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
 
 (collaborators-delft)=
@@ -82,6 +88,7 @@ In ensuring that this knowledge can be shared effectively with the wider society
 In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
 
 #### Representative
+
 - Current - Lena Karvovskaya
 - Previously - [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp)
 
@@ -93,6 +100,7 @@ The Netherlands eScience Center is the Dutch national hub for the development an
 The Netherlands eScience Center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience Centre guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience centre contributes to _The Turing Way_ in the areas which are relevant to the eScience guide. The eScience guide points to _The Turing Way_ in which information would otherwise be duplicated.
 
 #### Representative
+
 - [Carlos Martinez-Ortiz](https://book.the-turing-way.org/afterword/contributors-record#carlos-martinez-oritz), Community Manager - Software Sustainability, Netherlands eScience Center
 
 (collaborators-scilifelab)=
@@ -103,6 +111,7 @@ The SciLifeLab Data Centre serves as a core division within SciLifeLab, tasked w
 We are committed to ensuring that research outputs such as data and software are Findable, Accessible, Interoperable, and Reusable (FAIR), adhering to open science principles and best practices, and optimizing the value of these outputs for the scientific community.
 
 #### Representative
+
 - [Christopher Erdmann](https://book.the-turing-way.org/afterword/contributors-record#christopher-erdmann), Head of Open Science, SciLifeLab Data Centre
 
 (collaborators-faircookbook)=
@@ -117,6 +126,7 @@ Similarly, _The Turing Way_ features the project and provides an impact story ti
 You can find more details and background in the chapter [Leveraging the Turing Way Book](https://fairplus.github.io/the-fair-cookbook/content/recipes/introduction/the-turing-way.html?highlight=turing).
 
 #### Representative
+
 - [Susanna-Assunta Sansone](https://book.the-turing-way.org/afterword/contributors-record#susanna-assunta-sansone), University of Oxford, Academic Lead for Research Practice; Professor of Data Readiness
 
 ## Collaborating Projects - Concluded
