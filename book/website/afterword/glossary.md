@@ -127,8 +127,8 @@ creative commons
   The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial reuse (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
   The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
 
-CRediT taxonomy
-: The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
+CRediT
+: CRediT is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 ```
 
 ---
