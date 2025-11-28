@@ -163,7 +163,6 @@ Features that mark a contribution as low engagement include:
 - Not responding to reviewers.
 - Ignoring reviewers and instead making unrelated changes.
 
-
 ### Chapter Templates
 
 If you are writing a new chapter, make use of the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template).
