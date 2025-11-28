@@ -132,6 +132,32 @@ Here are some tips for best practice working with git:
 - Do not re-write history!
 - Open draft {term}`pull requests <pull request>` soon, to get early feedback.
 
+(ch-contributing-low-effort)=
+### Low Effort or Engagement
+
+An important part of our community is putting in effort to mentoring contributors, particularly those new to open source.
+However, we also need to protect our maintainers' time so they do not get burned out reviewing poor quality contributions or trying to mentor unengaged contributors.
+And so, pull requests may be closed if we feel they are unlikely to result in a tangible improvement to the book, or the maintainer investment required would not match the value of the contribution.
+
+:::{important}
+There is no size threshold contributions to be accepted.
+For example, single typo fixes are great contributions.
+:::
+
+Features that mark a contribution as low effort include:
+
+- Mostly or entirely superficial changes, such as whitespace changes or replacing words with synonyms
+- Ignoring book structure and the [style guide](#ch-style), such as not updating the table of contents, or ignoring directory structure
+- Apparently machine-generated contributions with little or no human effort to review and edit
+    - In comments, for example irrelevant, unclear text, or disconnection between {term}`pull request` comments and changes
+    - In code, for example verbose and vague text, or hallucinatory text.
+
+Features that mark a contribution as low engagement include:
+
+- Not responding to reviewers
+- Ignoring reviewers and instead making unrelated changes
+
+
 ### Chapter Templates
 
 If you are writing a new chapter, make use of the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template).
