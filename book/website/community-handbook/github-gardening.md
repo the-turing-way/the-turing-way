@@ -165,6 +165,7 @@ This step keeps the repository clean, closing inactive or completed work while l
 #### Pruning
 
 - [ ] Merge if it is ready, passes tests and has accepted reviews
+- [ ] Close if the pull request is an example of [low quality or low engagement](#ch-contributing-low-effort)
 - [ ] Close if there is no realistic chance of a merge.
   For example if the authors are not engaged or the branch is very far behind main
 
