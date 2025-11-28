@@ -27,7 +27,6 @@ Unit testing gives researchers that certainty, and allows them to be confident w
 Here's a little example.
 Say a researcher has a small function that does one simple thing (here only a single line for brevity).
 In this example this will be raising a number to the 5th power:
-
 ```
 def take_fifth_power(x):
   result = x * x * x * x * x

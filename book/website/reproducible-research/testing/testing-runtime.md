@@ -35,4 +35,5 @@ Advantages of runtime testing:
 Disadvantages of runtime testing:
 
 - Tests can slow down the program.
-- What is the right thing to do if an error is detected? How should this error be reported? Exceptions are a recommended route to go with this.
+- What is the right thing to do if an error is detected? How should this error be reported? Using {ref}`exceptions <rr-glossary-exceptions>` is a recommended route.
+
