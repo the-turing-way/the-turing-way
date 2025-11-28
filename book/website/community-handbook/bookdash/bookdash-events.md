@@ -34,7 +34,7 @@ One week before the Book Dash, 2-3 members from the planning committee will host
 
 At this call, participants will learn how to:
 - create a new repository
-- create a (README) file: introduction to Markdown
+- create a (README) file: introduction to {term}`Markdown`
 - submit changes (to _The Turing Way_) via a Pull Request (PR)
 - see how to review PRs or create issues
 

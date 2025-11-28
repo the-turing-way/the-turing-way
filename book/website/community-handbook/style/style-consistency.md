@@ -46,7 +46,7 @@ Pathway to maintaining consistency. _The Turing Way_ project illustration by Scr
 
 REQUIREMENT | CHECK | EXAMPLE
 ----------- | ----- | -------
-Hard | Use Markdown for creating your content (see this [WordPress cheatsheet](https://wordpress.com/support/markdown-quick-reference/)).
+Hard | Use {term}`Markdown` for creating your content (see this [WordPress cheatsheet](https://wordpress.com/support/markdown-quick-reference/)).
 Hard | Use the headers in sequential order. For example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on. |
 Hard | Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>` |
 Hard | Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>` | Use public domain images that are less than 1MB in size and cite appropriately.
