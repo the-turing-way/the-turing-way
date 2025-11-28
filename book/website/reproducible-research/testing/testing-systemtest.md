@@ -1,7 +1,7 @@
 (rr-testing-systemtest)=
 # System Testing
 
-Once integration tests are performed, another level of testing called system testing can begin.
+Once integration tests are performed, another level of testing called {ref}`system testing <rr-glossary-system-testing>` can begin.
 System testing is a level of software testing where a complete and integrated software is tested.
 The tester supplies the program with input and verifies if the program's output is correct.
 If it is not then there is a problem somewhere in the system.
@@ -42,3 +42,4 @@ Though ideally it's better to just fix those problems, but cases exist where thi
 
 Because system tests can be time consuming it may be impractical to run them very regularly (such as multiple times a day after small changes in the code).
 Therefore it can be a good idea to run them each night (and to automate this process) so that if errors are introduced that only system testing can detect the programmer will be made aware of them relatively quickly.
+

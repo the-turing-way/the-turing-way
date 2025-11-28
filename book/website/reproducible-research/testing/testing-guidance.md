@@ -23,10 +23,10 @@ Also, if it has been weeks or months since tests have been run and they fail, it
 
 It is best to automate your testing as far as possible.
 If each test needs to be run individually then that boring painstaking process is likely to get neglected.
-This can be done by making use of a testing framework ([discussed later](#rr-testing-use-a-testing-framework)).
+This can be done by making use of a {term}`testing framework <testing framework>` ([discussed later](#rr-testing-use-a-testing-framework)).
 [Jenkins](https://jenkins.io) is another good tool for this. Ideally set your tests up to run at regular intervals, possibly every night.
 
-Consider setting up continuous integration (discussed in the continuous integration chapter) on your project. This will automatically run your tests each time you make a change to your code and, depending on the continuous integration software you use, will notify you if any of the tests fail.
+Consider setting up {term}`continuous integration <continuous integration>` (discussed in the continuous integration chapter) on your project. This will automatically run your tests each time you make a change to your code and, depending on the continuous integration software you use, will notify you if any of the tests fail.
 
 ## Consider how long it takes your tests to run
 
@@ -43,7 +43,7 @@ This documentation should also cover subjects such as
 
 - Any resources, such as test dataset files that are required
 - Any configuration/settings adjustments needed to run the tests
-- What software (such as [testing frameworks](#rr-testing-use-a-testing-framework)) need to be installed
+- What software (such as {term}`testing frameworks <testing framework>`) need to be installed
 
 Ideally, you would provide scripts to set up and configure any resources that are needed.
 
@@ -56,7 +56,7 @@ If your actual data is messy with a lot of null values, so should your test data
 (rr-testing-use-a-testing-framework)=
 ## Use a Testing Framework
 
-There are tools available to make writing and running tests easier, these are known as testing frameworks.
+There are tools available to make writing and running tests easier, these are known as {term}`testing frameworks <testing framework>`.
 Find one you like, learn about the features it offers, and make use of them. Common testing frameworks (and the languages they apply to) include:
 
 - Language agnostic

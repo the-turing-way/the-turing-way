@@ -4,7 +4,7 @@
 (rr-testing-challenges-stochastic-code)=
 ## Testing stochastic code
 
-Sometimes code contains an element of randomness, a common example being code that makes use of [Monte Carlo methods](https://en.wikipedia.org/wiki/Monte_Carlo_method).
+Sometimes code contains an element of randomness, a common example being code that makes use of {term}`Monte Carlo methods <monte carlo methods>`.
 Testing this kind of code can be very difficult because if it is run multiple times it will generate different answers, all of which may be "right", even is it contains no bugs. There are two main ways to tackle testing stochastic code:
 
 ### Use random number seeds

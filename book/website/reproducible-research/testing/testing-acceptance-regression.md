@@ -4,7 +4,7 @@
 (rr-testing-acceptance)=
 ## Acceptance testing
 
-Acceptance tests are one of the last tests types that are performed on software prior to delivery.
+{term}`Acceptance tests <acceptance testing>` are one of the last test types that are performed on software prior to delivery.
 Acceptance testing is used to determine whether a piece of software satisfies all of the requirements from the business or user's perspective.
 Does this piece of software do what it needs to do?
 These tests are sometimes built against the original specification.
@@ -14,7 +14,7 @@ Because research software is typically written by the researcher that will use i
 (rr-testing-regression)=
 ## Regression testing
 
-Regression testing is a style of testing that focuses on retesting after changes are made.
+{term}`Regression testing <regression testing>` is a style of testing that focuses on retesting after changes are made.
 The results of tests after the changes are compared to the results before, and errors are raised if these are different.
 Regression testing is intended to ensure that changes (enhancements or defect fixes) to the software have not adversely affected it.
 The likelihood of any code change impacting functionalities that are not directly associated with the code is always there and it is essential that regression testing is conducted to make sure that fixing one thing has not broken another.
@@ -22,7 +22,7 @@ Regression testing can be performed during any level of testing (unit, integrati
 Any test can be reused, and so any test can become a regression test.
 
 Regression testing is obviously especially important in team working, but it is surprisingly easy to break your own code without noticing it, even if you are working on your own.
-And because regression testing is next to impossible to do satisfactorily by hand (it's simply too tedious), it's an obvious case for automation.
+And because regression testing is next to impossible to do satisfactorily by hand (it's simply too tedious), it's an obvious case for {term}`automated testing <automated testing>`.
 
 Regression tests are written by first running the (or part of the) code for given inputs and recording the outputs.
 This could be done by writing input files and saving the corresponding output files.
@@ -46,3 +46,4 @@ This is like port testing except that the underlying code hasn't been changed--o
 Regression tests are not guaranteed to test all parts of the code.
 Most importantly, regression tests do not test if the result outputted by a piece of code is *correct*, only that it has not changed.
 This the remit of other kinds of tests, though regression tests can serve as the starting point for introducing tests for correctness, by both the use of analytical solutions, and through test functions which read output files and check the data for correctness, as defined by a researcher.
+
