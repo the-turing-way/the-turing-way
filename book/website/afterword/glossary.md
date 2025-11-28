@@ -31,11 +31,11 @@ authors
 ## B
 
 ```{glossary}
-binder
+Binder
 : A web-based service which allows users to upload and share fully-functioning versions of their projects in an environment they define.
 
-binderhub
-: A service which generates Binders. The most widely-used is mybinder.org, which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
+BinderHub
+: A service which generates binders. The most widely-used is mybinder.org, which is maintained by the Binder team. It is possible to create other BinderHubs which can support more specialised configurations. One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
 
 binderize
 : To make a Binder of a project.
