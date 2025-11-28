@@ -146,16 +146,22 @@ For example, single typo fixes are great contributions.
 
 Features that mark a contribution as low effort include:
 
-- Mostly or entirely superficial changes, such as whitespace changes or replacing words with synonyms
-- Ignoring book structure and the [style guide](#ch-style), such as not updating the table of contents, or ignoring directory structure
-- Apparently machine-generated contributions with little or no human effort to review and edit
-    - In comments, for example irrelevant, unclear text, or disconnection between {term}`pull request` comments and changes
-    - In code, for example verbose and vague text, or hallucinatory text.
+- Mostly or entirely superficial changes, such as whitespace changes or replacing words with synonyms.
+- Ignoring book structure and the [style guide](#ch-style), such as not updating the table of contents, or ignoring directory structure.
+- Apparently machine-generated contributions with little or no human effort to review and edit.
+  This may be apparent in comments as:
+    - Irrelevant, unclear text.
+    - Disconnection between {term}`pull request` comments and changes.
+    - Hallucinated references.
+  And in code/contributions as:
+    - Verbose and vague text.
+    - Long sections of plain text lacking, for example, cross-references, citations, figures, admonitions.
+    - Hallucinated references.
 
 Features that mark a contribution as low engagement include:
 
-- Not responding to reviewers
-- Ignoring reviewers and instead making unrelated changes
+- Not responding to reviewers.
+- Ignoring reviewers and instead making unrelated changes.
 
 
 ### Chapter Templates
