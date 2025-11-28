@@ -643,7 +643,7 @@ test suite
 testing framework
 : Tools that make writing and running tests less labour intensive.
 
-travis
+Travis
 : A commonly used continuous integration platform.
 ```
 
