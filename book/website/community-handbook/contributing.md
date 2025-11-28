@@ -95,10 +95,10 @@ If you would like opportunities to {term}`review` others' contributions, we mark
 
 ## Writing Markdown
 
-_The Turing Way_ is written almost entirely in Markdown.
-In particular, it is written in a flavour of Markdown called [MyST Markdown](https://mystmd.org/).
+_The Turing Way_ is written almost entirely in {term}`Markdown`.
+In particular, it is written in a flavour of {term}`Markdown` called [MyST Markdown](https://mystmd.org/).
 
-The [Style Guide](#ch-style) section of the Community Handbook explains our conventions and recommendations for writing Markdown.
+The [Style Guide](#ch-style) section of the Community Handbook explains our conventions and recommendations for writing {term}`Markdown`.
 You can also read the [Authoring section of the MyST Markdown Guide](xref:myst-guide) for the complete set of features and {term}`syntax`.
 
 (ch-contributing-pull-request)=

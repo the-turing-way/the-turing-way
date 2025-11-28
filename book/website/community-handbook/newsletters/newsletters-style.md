@@ -5,7 +5,7 @@ In the previous subchapter, we described the process of drafting, reviewing and 
 
 In this document, we have listed some guidelines to maintain consistency across all the newsletters.
 
-- **File format**: Draft the newsletter in [Markdown](https://en.wikipedia.org/wiki/Markdown)
+- **File format**: Draft the newsletter in {term}`Markdown`.
 - **Filename**: Create a filename with the "newsletter_serial_MMYYYY.md " format, where "serial" should be replaced by the (numerical) serial number of the newsletter, the month should be replaced by the short name of the month and YYYY with the year as a number.
 - **File location on _The Turing Way_ GitHub Organisation**: The newsletters are currently stored in the `newsletter` repository `https://github.com/the-turing-way/newsletter`.
     - This location also consists of a "README.md" file that has a table for all the published newsletters that are updated after each release.
@@ -17,7 +17,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Time**: Use time in [Greenwich Mean Time](https://greenwichmeantime.com/what-is-gmt/) (GMT) or [British Summer Time](https://greenwichmeantime.com/uk/time/british-summer-time/) (BST), followed by a link from [arewemeetingyet.com](https://arewemeetingyet.com/#form) to check the time in relative time zones.
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`.
     - Provide links wherever useful, for example, [Framapad for Collaboration Café](https://annuel2.framapad.org/p/ttw-collaboration-cafe), [GitHub issue](https://github.com/the-turing-way/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/the-turing-way/the-turing-way).
-    - Create links for email addresses using this Markdown syntax - ``[real-email-address](mailto:real-email-address)``.
+    - Create links for email addresses using this {term}`Markdown` syntax - ``[real-email-address](mailto:real-email-address)``.
     - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. try to keep them to a mimumum if you can.
 - **Quoting others**: Use greater than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
@@ -43,7 +43,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - When drafting the newsletter on GitHub, upload the images in the folder `the-turing-way/communications/newsletters/`.
     - The file naming convention for images is `short-name-monthYYYY.png`, where the short-name should be replaced with the identifiable short name of the image, the month should be replaced by the short name of the month and YYYY should be replaced by the year.
     - File extension can be `.jpg`, `.png` or others with compatible image file types.
-    - Use Markdown syntax to link the images in the newsletter: `![](image/path)`.
+    - Use {term}`Markdown` syntax to link the images in the newsletter: `![](image/path)`.
     - As suggested in [_The Turing Way_ style guide](https://book.the-turing-way.org/community-handbook/style/style-figures.html), create an alt text for the image: `![Alt: Description of the image - this is not the title but actual explanation of the image](image/path)`
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link the title to the source such as a tweet or related event.
