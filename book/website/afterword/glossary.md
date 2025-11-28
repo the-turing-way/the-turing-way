@@ -20,7 +20,7 @@ adversarial learning
 artificial intelligence
 : The ability of synthetic computational systems to perform tasks and activities usually associated with biological, especially human, mental and intellectual capabilities.
   Also the field of study associated with imbuing synthetic systems with these capabilities.
-  See also {term}`Machine Learning (ML)<Machine Learning (ML)>`
+  See also {term}`machine learning`
 
 authors
 : Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
@@ -432,7 +432,7 @@ Open source
   The term can also extend to an {term}`open project` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
   The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output.
   For example an image created with a simple bitmap editor might be referred to as 'open source' despite lacking something that can be considered a 'source'.
-  In such cases the notion of a '{term}`creative commons`' or '{term}`free cultural work`' may better apply as these do not as obviously emphasise the availability source materials but rather end products,
+  In such cases the notion of a '{term}`creative commons`' or '{term}`free cultural works`' may better apply as these do not as obviously emphasise the availability source materials but rather end products,
   though they may include source materials.
   There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<ethical source software>`' and '{term}`FAIR Code`'.
 
