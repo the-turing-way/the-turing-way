@@ -57,7 +57,7 @@ jobs:
       - name: Checkout-repository
         # ignore pull requests from the all-contributors bot
         if: ${{ !contains(github.head_ref, 'all-contributors') }}
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Setup Python ${{ matrix.python_version }}
         # ignore pull requests from the all-contributors bot
@@ -94,7 +94,7 @@ jobs:
     steps:
       # We only need the lychee config file from the repository
       - name: Checkout lychee config file from repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
         with:
           sparse-checkout: |
             lychee.toml
