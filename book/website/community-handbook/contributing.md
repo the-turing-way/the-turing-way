@@ -112,13 +112,14 @@ Pull request should be marked as drafts until there are ready for {term}`review`
 
 We follow the [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) workflow:
 
-1. Create a feature branch on your fork
-2. Commit changes
-3. Open a pull request to _The Turing Way_'s repository
-  - Open a draft pull request if the work is still in progress
-  - Open a pull request if you feel the work is ready for {term}`review`
-4. Iterate on changes in response to {term}`continuous integration` and reviewer comments
-5. Merge when all {term}`issues` are addressed and changes are approved
+1. Create a feature branch on your fork.
+2. Commit changes.
+3. Open a {term}`pull request` to _The Turing Way_'s repository.
+  - Open a draft {term}`pull request` if the work is still in progress.
+  - Open a {term}`pull request` if you feel the work is ready for {term}`review`.
+  - Complete the {term}`pull request` template to provide information useful for reviewers.
+4. Iterate on changes in response to {term}`continuous integration` and reviewer comments.
+5. Merge when all {term}`issues` are addressed and changes are approved.
 
 ### Best Practice
 
