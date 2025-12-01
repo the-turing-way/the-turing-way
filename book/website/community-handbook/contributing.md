@@ -117,7 +117,7 @@ We follow the [GitHub flow](https://docs.github.com/en/get-started/using-github/
 3. Open a pull request to _The Turing Way_'s repository
   - Open a draft pull request if the work is still in progress
   - Open a pull request if you feel the work is ready for {term}`review`
-4. Iterate on changes in response to CI and reviewer comments
+4. Iterate on changes in response to {term}`continuous integration` and reviewer comments
 5. Merge when all {term}`issues` are addressed and changes are approved
 
 ### Best Practice

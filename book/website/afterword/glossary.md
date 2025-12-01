@@ -107,7 +107,9 @@ Continuous Deployment
 : It automatically deploys each time a code change is made.
 
 Continuous Integration
-: It is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). Also called CI.
+: A development practice where changes are automatically, and rapidly, integrated into the development branch.
+  This approach helps ensure the development code works and helps avoid large conflicts between feature branches.
+  The term is strongly associated with tools which support this way or working, such as automated building and testing, which are often called continuous integration tools.
 
 Contributing Guidelines
 : Guidelines outlining how a person should go about contributing to an open source project.
