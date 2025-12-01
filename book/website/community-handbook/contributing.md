@@ -140,7 +140,7 @@ However, we also need to protect our maintainers' time so they do not get burned
 And so, pull requests may be closed if we feel they are unlikely to result in a _tangible improvement_ to the book, or the maintainer investment required would not match the value of the contribution.
 
 :::{important}
-There is no size threshold contributions to be accepted.
+There is no size threshold for contributions to be accepted.
 For example, single typo fixes are great contributions.
 :::
 
