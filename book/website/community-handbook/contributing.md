@@ -14,11 +14,11 @@ As you start contributing to _The Turing Way_, don't forget that your ideas are 
 
 If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#ch-contributing-join).
 
-## Code of Conduct
+## Guiding Principles and Code of Conduct
 
 _The Turing Way_ is a community-led and collaboratively developed project.
-We, therefore, require that all our members and their contributions **adhere to our {term}`CoC <Code of Conduct>`**.
-Please familiarize yourself with [our {term}`CoC <Code of Conduct>`](#ch-coc) that lists the expected behaviours.
+We, therefore, require that all our members and their contributions **adhere to our [guiding principles](#guiding-principles) and {term}`CoC <Code of Conduct>`**.
+Please familiarize yourself with [our guiding principles](#guiding-principles), which underpin all our activities, and [our {term}`CoC <Code of Conduct>`](#ch-coc), which lists the expected behaviours and explains reporting and enforcement.
 
 ## Inclusivity
 
