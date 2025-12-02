@@ -165,7 +165,7 @@ Features that mark a contribution as low engagement include:
 - Not responding to reviewers.
 - Ignoring reviewers and instead making unrelated changes.
 - Not providing sufficient information in {term}`issues` or {term}`pull requests <pull request>`.
-  Our {term}`issue <issues>` and {term}`pull request` templates help guide you to important information.
+  Our {term}`issue <issues>` and {term}`pull request` templates help guide you to the information maintainers and reviewers need.
 
 ### Chapter Templates
 
