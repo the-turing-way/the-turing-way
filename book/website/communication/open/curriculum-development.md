@@ -68,7 +68,7 @@ These concepts can be demonstrated through a dataset that is provided at the sta
 These datasets can be opensource data or mock data that is generated specifically for this purpose.
 
 3. **Signposting Advanced Resources**: Students can have different levels of learning and interests on a topic.
-Signposting them towards relevant resources e.g. academic papers, books, online resources or expert talks is useful.
+Signposting them towards relevant resources, for example, academic papers, books, online resources or expert talks is useful.
 It is essential to point the students towards reputable resources or provide a curated list for the whole course while dividing it into themes/topics that align with the course contents.
 
 ### Practical Sessions
