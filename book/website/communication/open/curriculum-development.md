@@ -159,7 +159,7 @@ not considered the brain by students and instructors.</div>
 ||Less important questions can be addressed asynchronous via email or course announcement or by sharing relevant resources
 |**Storytelling**|Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous 
 lecture (like a teaser for the session) 
-||Visualising the story by the help of images, infographics,  plots (e.g. graphs) in illustrating key points
+||Visualising the story by the help of images, infographics,  plots, such as graphs, in illustrating key points
 ||Encouraging active participation
 ||Providing opportunity for in-depth reflection
 |**Peer Learning**| Senior students presenting their work from the same course they completed when they were at the current students' stage, either as a show-and-tell or for feedback
