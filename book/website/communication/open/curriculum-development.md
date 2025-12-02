@@ -53,7 +53,7 @@ _"Bloom’s Taxonomy Verbs"_ by Fractus Learning is used under a CC BY 4.0 Licen
 
 ## Types of Sessions
 
-> Any learning, especially Science learning, can be divided into two parts: theoretical and practical. It is essential to make both types of sessions engaging for the students to enhance
+Any learning, especially Science learning, can be divided into two parts: theoretical and practical. It is essential to make both types of sessions engaging for the students to enhance
 learning, it can be done by incorporating a variety of interactive and dynamic teaching methods, such as multimedia integration, interactive techniques, coding demonstration, personalisation,
 group work and signposting the lecture contents.
 ### 
