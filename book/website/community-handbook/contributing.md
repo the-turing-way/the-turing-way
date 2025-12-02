@@ -138,7 +138,7 @@ Here are some tips for best practice working with git:
 
 An important part of our community is putting in effort to mentoring contributors, particularly those new to open source.
 However, we also need to protect our maintainers' time so they do not get burned out reviewing poor quality contributions or trying to mentor unengaged contributors.
-And so, pull requests may be closed if we feel they are unlikely to result in a _tangible improvement_ to the book, or the maintainer investment required would not match the value of the contribution.
+And so, pull requests may be closed if we feel they are unlikely to result in a _tangible improvement_ to the book, or the maintainer investment required would not match the amount of improvement the contribution provides.
 
 :::{important}
 There is no size threshold for contributions to be accepted.
