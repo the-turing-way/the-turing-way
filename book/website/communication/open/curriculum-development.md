@@ -132,7 +132,7 @@ not considered the brain by students and instructors.</div>
 | Method   | Ideal for                                                                                                 |
 | -------- |:----------------------------------------------------------------------------------------------------------- |
 | **Lectures** | Conveying theoretical information in a short period of time |
-||Briefly introducing a topic through various methods e.g. story telling, solving a puzzle
+||Briefly introducing a topic through various methods, for example, story telling, solving a puzzle
 ||Imparting knowledge
 |**Brainstorming**|Bringing up new ideas on a specific topic
 | |Imparting and sharing participants’ knowledge
