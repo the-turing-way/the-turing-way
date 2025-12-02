@@ -158,6 +158,7 @@ Features that mark a contribution as low effort include:
     - Verbose and vague text.
     - Long sections of plain text lacking, for example, cross-references, citations, figures, admonitions.
     - Hallucinated references.
+    - Fixes for non-existent bugs or adding pointless tests.
 
 Features that mark a contribution as low engagement include:
 
