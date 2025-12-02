@@ -468,7 +468,8 @@
       "profile": "http://chrisholdgraf.com",
       "contributions": [
         "question",
-        "ideas"
+        "ideas",
+        "talk"
       ]
     },
     {
@@ -2519,7 +2520,8 @@
         "review",
         "content",
         "bug",
-        "a11y"
+        "a11y",
+        "talk"
       ]
     },
     {
@@ -5173,7 +5175,8 @@
       "profile": "https://oieltd.com",
       "contributions": [
         "content",
-        "bug"
+        "bug",
+        "talk"
       ]
     },
     {
@@ -5184,7 +5187,8 @@
       "contributions": [
         "bug",
         "infra",
-        "platform"
+        "platform",
+        "talk"
       ]
     },
     {
@@ -5384,7 +5388,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/55780866?v=4",
       "profile": "https://github.com/FreekPols",
       "contributions": [
-        "bug"
+        "bug",
+        "talk"
       ]
     },
     {
@@ -5512,6 +5517,33 @@
       "profile": "https://github.com/brechtjehuiskes",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "fwkoch",
+      "name": "Franklin Koch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9453731?v=4",
+      "profile": "https://github.com/fwkoch",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "rlanzafame",
+      "name": "Robert Lanzafame",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22560680?v=4",
+      "profile": "https://github.com/rlanzafame",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "luukfroling",
+      "name": "Luuk Fröling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31106485?v=4",
+      "profile": "https://github.com/luukfroling",
+      "contributions": [
+        "talk"
       ]
     },
     {
