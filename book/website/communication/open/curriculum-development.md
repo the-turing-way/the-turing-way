@@ -89,8 +89,8 @@ The in-class time should be dedicated to discussion, problem-solving, Q&A and ha
 - [ ] Revisit outcomes to help students track their progress
 - [ ] Understand the practical application of the learning
 - [ ] Identify the learning styles to be used: 1. Visual, 2. Auditory and 3. Kin-aesthetic (Table 2)
-- [ ] Identify the mode of student engagement: 1.lecture, 2. brainstorming, 3.case studies, 4.role plays, 5.discussions, 6.reflection, 7.parking lot, 8.storytelling, 9.Recordings, 10.guest
-lecture, 11. peer learning  and 12. gamification (Table 1)</div>
+- [ ] Identify the mode of student engagement: 1. lecture, 2. brainstorming, 3. case studies, 4. role plays, 5. discussions, 6. reflection, 7. parking lot, 8. storytelling, 9. recordings, 10. guest
+lecture, 11. peer learning  and 12. gamification (see Table 1)</div>
 ```
 
 ### Passive Learning vs Active Learning 
