@@ -1,18 +1,18 @@
 # Lesson & Curriculum Development 
 
 ## Overview
-> Curriculum development is an ongoing process aimed at finding new and effective ways to provide students with intellectually challenging and personally inspiring learning experiences.
-Determining the appropriate level for students and defining learning outcomes are essential when designing a lesson or curriculum. This process varies based on the program of study, such as
-undergraduate, postgraduate, or flexible learning programs. Data science students, for example, learn complex concepts early in their programs, whereas students taking optional data science
-courses later in their degree do so at a different pace. By understanding the learners and  program requirements and learning outcomes, educators can tailor the curriculum to match the year of
-study, ensuring course-specific outcomes and competencies are suitably challenging. Frameworks like Bloom's Taxonomy can help educators structure courses to progress from fundamental to
-advanced skills, enhancing the students’ learning experience. This chapter will discuss techniques for defining learning outcomes, designing practical and theoretical teaching sessions,
-outlining learning principles, and examining the characteristics of adult learning and their implications for educators.
+Curriculum development is an ongoing process aimed at finding new and effective ways to provide students with intellectually challenging and personally inspiring learning experiences.
+Determining the appropriate level for students and defining learning outcomes are essential when designing a lesson or curriculum.
+This process varies based on the program of study, such as undergraduate, postgraduate, or flexible learning programs. Data science students, for example, learn complex concepts early in their programs, whereas students taking optional data science
+courses later in their degree do so at a different pace. 
+By understanding the learners and  program requirements and learning outcomes, educators can tailor the curriculum to match the year of study, ensuring course-specific outcomes and competencies are suitably challenging. 
+Frameworks like Bloom's Taxonomy can help educators structure courses to progress from fundamental to advanced skills, enhancing the students’ learning experience. 
+This chapter will discuss techniques for defining learning outcomes, designing practical and theoretical teaching sessions, outlining learning principles, and examining the characteristics of adult learning and their implications for educators.
 
 ## Defining Learning Outcomes (LOs)
 When developing a lesson or curriculum, you need to determine the appropriate level of study, as similar courses can be taught in both undergraduate and postgraduate programs. The complexity
-of the material and the type of degree will vary and determine the learning outcomes. For example, students specialising in data science will encounter more complex concepts earlier in their 
-studies compared to those students not specialising in data science and taking optional courses later in their programs.
+of the material and the type of degree will vary and determine the learning outcomes. 
+For example, students specialising in data science will encounter more complex concepts earlier in their studies compared to those students not specialising in data science and taking optional courses later in their programs.
 
 Once the program and its requirements (program learning outcomes) are known, the year of study provides an indication of the level of study. With this context set, you can move on to
 specifics about the course, such as the **course learning outcomes** and the level of competency expected by the end of the course. These outcomes can be developed using **Bloom's Taxonomy**
@@ -72,9 +72,10 @@ align with the course contents.
 To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, 
 capabilities and background of the students is essential. Practical sessions should be integrated into the curriculum and lesson design. 
 
-There are different teaching methdos that can be used to deliver practical sessions (Table 1). For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advancehe.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. Choosing flipped learning would depend on the demographics and preference 
-of a cohort.Depending on the feasibility and preferences various forms of study material can be provided e.g. pre-recorded short lecture, reading material, provision of skeleton code that will 
-be discussed or modified during the session etc. The in-class time should be dedicated to discussion, problem-solving, Q&A and hands-on activities to make it more engaging.
+There are different teaching methdos that can be used to deliver practical sessions (Table 1). For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advancehe.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. Choosing flipped learning would depend on the demographics and preference of a cohort.
+Depending on the feasibility and preferences various forms of study material can be provided, for example, pre-recorded short lecture, reading material, provision of skeleton code that will 
+be discussed or modified during the session. 
+The in-class time should be dedicated to discussion, problem-solving, Q&A and hands-on activities to make it more engaging.
 
 ```{hint} Checklist for planning different types of session
 :class: dropdown
