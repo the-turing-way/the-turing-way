@@ -21,7 +21,7 @@ recode() %>%
 melt() #We now have a recoded, melted dataframe called recoded_melt_dat
 ```
 
-### Commenting
+## Commenting
 
 Comments have been described as "Love letters to your future self" by Jon Peirce, creator of PsychoPy.
 Comments can be blocked or inline.  
