@@ -7,7 +7,7 @@ Whatever scale you work at, readability counts!
 
 Here are a few aspects to consider when making your code easy to read by others.
 
-### Line Length
+## Line Length
 
 There is some agreement on the length of the coding lines.
 PEP8 suggests a maximum of 79 characters per line and 80 by the R style guide.
