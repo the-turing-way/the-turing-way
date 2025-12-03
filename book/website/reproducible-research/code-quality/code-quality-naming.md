@@ -4,7 +4,7 @@
 ### File Naming
 
 The [Centre for Open Science](https://help.osf.io/article/146-file-naming) has some useful suggestions for the naming of files, particularly ensuring that they are readable for both humans and machines.
-This includes avoiding the use of wildcard characters (@£$%) and using underscores ("\_") to delimit information, and dashes ("\-") to conjunct information or spaces.
+This includes avoiding the use of wildcard characters (`@£$%`) and using underscores (`_`) to delimit information, and dashes (`-`) to conjunct information or spaces.
 They also suggest dating or numbering files and avoiding words like FINAL (or FINAL-FINAL).
 The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.
 This results in automatic, chronological order. For example:
