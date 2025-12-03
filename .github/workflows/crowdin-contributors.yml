@@ -16,7 +16,7 @@ jobs:
     environment: crowdin
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Generate Crowdin Contributors table
         uses: andrii-bodnar/action-crowdin-contributors@v2.0.0
@@ -31,7 +31,7 @@ jobs:
           crowdin_project_link: https://turingway.crowdin.com/turing-way
           files: |
             README.md
-            book/website/afterword/contributors-record.md
+            book/website/afterword/contributors/translators.md
         env:
           CROWDIN_PROJECT_ID: 1
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}

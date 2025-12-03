@@ -12,7 +12,7 @@ project:
     content: CC-BY-4.0
   plugins:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
-    - plugins/github.mjs
+    - plugins/profile.mjs
   error_rules:
     - rule: link-resolves
       severity: ignore
@@ -31,6 +31,8 @@ project:
           title: Background
         - file: foreword/navigate.md
           title: Navigating the Handbook
+        - file: foreword/guiding-principles.md
+          title: Guiding Principles
         - file: foreword/emergent-strategy.md
           title: Emergence as The Turing Way Strategy
         - file: foreword/embracing-digital-commons.md
@@ -876,7 +878,7 @@ project:
               title: Enforcement Manual
             - file: community-handbook/coc/coc-acknowledgement.md
               title: Acknowledgements
-        - file: community-handbook/contributing-guideline.md
+        - file: community-handbook/contributing.md
           title: Contributing to The Turing Way
         - file: community-handbook/style.md
           title: Style Guide
@@ -908,12 +910,12 @@ project:
                   title: Language
         - file: community-handbook/local-build.md
           title: Build the Turing Way Book locally
-        - file: community-handbook/contributing.md
+        - file: community-handbook/contributing-chapters.md
           title: Contributing and Developing Chapters - Templates and Workflow
           children:
-            - file: community-handbook/contributing/contributing-templates.md
+            - file: community-handbook/contributing-chapters/contributing-templates.md
               title: Templates
-            - file: community-handbook/contributing/contributing-workflow.md
+            - file: community-handbook/contributing-chapters/contributing-workflow.md
               title: Workflow
         - file: community-handbook/acknowledgement.md
           title: Acknowledging Contributors
@@ -1077,6 +1079,13 @@ project:
           title: Data Usage Statement
         - file: afterword/contributors-record.md
           title: Contributors Record
+          children:
+            - file: afterword/contributors/profiles.md
+              title: Individual Contributors
+            - file: afterword/contributors/all-contributors.md
+              title: All Contributors
+            - file: afterword/contributors/translators.md
+              title: Translators
         - file: afterword/collaborators.md
           title: Collaborators
         - file: afterword/subprojects.md

@@ -115,7 +115,7 @@ It could be useful to create a readme file describing your coding style so colla
 ## ...end. ...end.  ...or end.\\n
 
 If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
-When using Markdown, it can be clearer to include a new line after every sentence.
+When using {term}`Markdown`, it can be clearer to include a new line after every sentence.
 This chapter (and most, if not all, of this book) has a new line after every sentence that makes the raw text easier to read, review and solve the spacing issue.
 
 ```{figure} ../../../figures/xkcd1285.png

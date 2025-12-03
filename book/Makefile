@@ -35,6 +35,11 @@ ci:
 	# Temporary hack to remove unused thebe JS
 	rm website/_build/html/*thebe*.js
 
+# Build AST only
+ast:
+	cd website && jupyter-book build
+
+
 # Clean any build outputs and artifacts
 clean:
 	jupyter-book clean --all --yes ./website/_build
