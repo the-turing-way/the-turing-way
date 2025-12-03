@@ -36,7 +36,7 @@ These recommendations should include:
 - Locations of different documents from the organisation that are easy to find.
 - Helpdesk or support for setup and troubleshooting.
 
-We have provided related recommendations in {ref}`cl-mec-event-tools` and {ref}`cl-mec-organising-meetings`.
+We have provided related recommendations in {ref}`cl-mec-event-tools` and {ref}`cl-mec-remote-organising-meetings`.
 
 ## Planning meetings, scheduling, and agenda
 <!---Add details and more points point to other chapters for details--->
@@ -48,7 +48,7 @@ Establish key tasks and milestones at the beginning of the project to determine 
 - If a team is big, split into sub-project groups to create a stronger network.
 - Rotating schedule for chairs and note-takers from the team.
 
-We have provided related recommendations in {ref}`cl-mec-event-tools` and {ref}`cl-mec-organising-meetings`.
+We have provided related recommendations in {ref}`cl-mec-event-tools` and {ref}`cl-mec-remote-organising-meetings`.
 
 ## Etiquette for online meetings and communications
 <!---Add details and more points point to other chapters for details--->
@@ -68,7 +68,7 @@ This includes details on how they can contribute to an ongoing discussion (raise
 - Aim to maintain flexibility and reduce formality
   - This is particularly useful for people who are working from home and will have their family members and pets around.
 
-We have provided related recommendations for organisers in {ref}`cl-mec-organising-meetings` and participants in {ref}`cl-mec-event-participation`.
+We have provided related recommendations for organisers in {ref}`cl-mec-remote-organising-meetings` and participants in {ref}`cl-mec-event-participation`.
 
 ## Follow up emails and communications for creating accountability
 <!---Add details and more points point to other chapters for details--->

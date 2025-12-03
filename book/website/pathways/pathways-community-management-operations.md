@@ -20,7 +20,7 @@ label: pathway-community-management-how-to
     - item: ../collaboration/new-community/new-community-guide.md
     - item: ../collaboration/team-manual/team-manual-on-off-boarding.md
     - item: ../collaboration/meetings-events-co-working/event-tools.md
-    - item: ../collaboration/meetings-events-co-working/organising-meetings.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
     - item: ../collaboration/meetings-events-co-working/chairing.md
     - item: ../collaboration/meetings-events-co-working/coworking.md
     - item: ../collaboration/meetings-events-co-working/ppie-events.md

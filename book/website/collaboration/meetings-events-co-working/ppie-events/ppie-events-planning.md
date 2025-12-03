@@ -16,7 +16,7 @@ By involving your community in the event organization, it also maximizes their c
 | Prerequisite                            | Importance | Notes                                                                                |
 | -------------                           | ---------- | ------                                                                               |
 | {ref}`cl-mec-organising-conferences`    | Essential  | Checklists and recommendations for planning conferences                              |
-| {ref}`cl-mec-organising-meetings`       | Essential  | Checklist and suggestions for organizing meetings                                    |
+| {ref}`cl-mec-remote-organising-meetings`       | Essential  | Checklist and suggestions for organizing meetings                                    |
 | {ref}`cl-mec-event-tools`               | Helpful    | Suggestions for tools that are useful when planning and running events               |
 | {ref}`cl-mec-remote-collab-guidelines`  | Helpful    | Guidance on running remote events                                                    |
 | {ref}`cl-new-community-differences` | Helpful    | Useful for thinking about how to be inclusive when collaborating with a diverse team |

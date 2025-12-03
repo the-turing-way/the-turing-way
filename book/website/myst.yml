@@ -609,8 +609,6 @@ project:
         - file: collaboration/meetings-events-co-working.md
           title: Meetings, Events, & Co-working
           children:
-            - file: collaboration/meetings-events-co-working/organising-meetings.md
-              title: Organising Meetings
             - file: collaboration/meetings-events-co-working/coworking.md
               title: Organising Online Coworking Calls
             - file: collaboration/meetings-events-co-working/informal-chats.md
@@ -635,6 +633,8 @@ project:
             - file: collaboration/meetings-events-co-working/remote-collab.md
               title: Remote Collaboration
               children:
+                - file: collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
+                  title: Organising Remote Meetings
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-prosandcons.md
                   title: Pros and Cons
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-guidelines.md
