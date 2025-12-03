@@ -48,7 +48,7 @@ They should remember to be welcoming; a project can only survive with contributo
 
 To help keep items findable, we use GitHub features for different purposes.
 
-(gh-gardening-items-issues)=
+(ch-gardening-items-issues)=
 ### Issues
 
 An issue is a task, for example a bug to fix or a feature to add.
@@ -63,7 +63,7 @@ Examples of bad issues could be,
 - Too much work for one person or a single pull request
 - No clear work to be done, a question or a discussion
 
-(gh-gardening-items-pull-requests)=
+(ch-gardening-items-pull-requests)=
 ### Pull requests
 
 Pull requests are proposals to merge one branch into another.
@@ -73,7 +73,7 @@ This helps make their work visible and get early feedback.
 Pull requests should be marked as drafts while they are work in progress.
 They should be marked as ready for review when the author feels it is ready to be merged.
 
-(gh-gardening-items-discussions)=
+(ch-gardening-items-discussions)=
 ### Discussions
 
 Discussions are used for conversations which are not necessarily tied to a specific task.
@@ -115,8 +115,8 @@ This step keeps the repository clean, closing inactive or completed work while l
 
 - [ ] Ensure it is in the correct repository
     - If not, move to a more appropriate repository
-- [ ] Ensure it is [an issue](#gh-gardening-items-issues)
-    - Move to [a discussion](#gh-gardening-items-discussions) if appropriate
+- [ ] Ensure it is [an issue](#ch-gardening-items-issues)
+    - Move to [a discussion](#ch-gardening-items-discussions) if appropriate
 - [ ] Ensure there is a definition of done
     - Ask the author to find one if this isn't clear
     - Move to a discussion if there needs to be a discussion to find one
@@ -145,7 +145,7 @@ This step keeps the repository clean, closing inactive or completed work while l
 
 #### Sowing
 
-- [ ] Ensure it has the [correct status](#gh-gardening-items-pull-requests)
+- [ ] Ensure it has the [correct status](#ch-gardening-items-pull-requests)
     - Convert to "Draft" if it is still work in progress
     - Convert to "Ready for review" if it is ready for final reviews
 - [ ] Assign appropriate labels
@@ -178,7 +178,7 @@ Closing a PR will not delete a branch on a fork.
 
 #### Sowing
 
-- [ ] Ensure it is [a discussion](#gh-gardening-items-discussions)
+- [ ] Ensure it is [a discussion](#ch-gardening-items-discussions)
 - [ ] Ensure there is a clear focus
     - If it is a question, make sure it is well defined
     - If it is a discussion, suggestion, poll or similar, make sure the topic is clear
