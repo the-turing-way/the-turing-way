@@ -8,13 +8,5 @@ Consistent code styling makes your research code easier to read, maintain, and s
 Well-formatted code reduces errors and makes it easier for others (including your future self) to understand your work.
 This is an important aspect of information management in collaborative research projects.
 
-For comprehensive guidance on code styling, including:
-- Why coding style matters for code quality and reproducibility
-- File and variable naming conventions
-- Writing readable code (comments, indentation, line length)
-- Style guides for various programming languages (PEP8, Google Style Guide, and others)
-- Automatic formatting and linting tools (Black, autopep8, lintr, and more)
-- Static code analysis tools
-- Online code quality services
 
 See the {ref}`Code Quality<rr-code-quality>` chapter in the Reproducible Research guide.
