@@ -84,7 +84,7 @@ Or commenting out individual lines:
 ```
 Your IDE will probably have a keyboard shortcut for commenting out blocks.
 
-### Indentation
+## Indentation
 
 The R style guide suggests that lines should be separated:
 ```r
