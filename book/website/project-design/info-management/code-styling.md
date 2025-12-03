@@ -9,4 +9,4 @@ Well-formatted code reduces errors and makes it easier for others (including you
 This is an important aspect of information management in collaborative research projects.
 
 
-See the {ref}`Code Quality<rr-code-quality>` chapter in the Reproducible Research guide.
+Conventions and tools to improve code quality are discussed in detail in [](#rr-code-quality) in [](#rr).
