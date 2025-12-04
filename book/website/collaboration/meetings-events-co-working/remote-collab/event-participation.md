@@ -1,4 +1,4 @@
-(cl-mec-event-participation)=
+(cl-mec-remote-event-participation)=
 # Participating in Remote Events
 
 ## Motivation

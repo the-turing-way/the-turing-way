@@ -22,7 +22,7 @@ Informal interactions are instrumental for ensuring full engagement of your part
 - Encouraging casual team conversations between meetings by setting some pre-planned social discussions/interaction plans.
 - Helping people from different time zones to catch up and build a sense of belonging (for example, by shared notes or summary emails).
 
-Check out an example of informal coffee chats in {ref}`cl-mec-informal-chats`.
+Check out an example of informal coffee chats in {ref}`cl-mec-remote-informal-chats`.
 
 ## Sharing data, resources and documentation
 <!---Add details and more points point to other chapters for details--->
@@ -68,7 +68,7 @@ This includes details on how they can contribute to an ongoing discussion (raise
 - Aim to maintain flexibility and reduce formality
   - This is particularly useful for people who are working from home and will have their family members and pets around.
 
-We have provided related recommendations for organisers in {ref}`cl-mec-remote-organising-meetings` and participants in {ref}`cl-mec-event-participation`.
+We have provided related recommendations for organisers in {ref}`cl-mec-remote-organising-meetings` and participants in {ref}`cl-mec-remote-event-participation`.
 
 ## Follow up emails and communications for creating accountability
 <!---Add details and more points point to other chapters for details--->

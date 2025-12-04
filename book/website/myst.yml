@@ -609,16 +609,10 @@ project:
         - file: collaboration/meetings-events-co-working.md
           title: Meetings, Events, & Co-working
           children:
-            - file: collaboration/meetings-events-co-working/coworking.md
-              title: Organising Online Coworking Calls
-            - file: collaboration/meetings-events-co-working/informal-chats.md
-              title: Informal Coffee Chats
             - file: collaboration/meetings-events-co-working/organising-coding-cafe.md
               title: Organising Coding Cafes
             - file: collaboration/meetings-events-co-working/chairing.md
               title: Chairing Events
-            - file: collaboration/meetings-events-co-working/event-participation.md
-              title: Participating in Events
             - file: collaboration/meetings-events-co-working/event-tools.md
               title: Tools for Facilitating Collaboration
             - file: collaboration/meetings-events-co-working/hybrid-collab.md
@@ -635,8 +629,14 @@ project:
               children:
                 - file: collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
                   title: Organising Remote Meetings
+                - file: collaboration/meetings-events-co-working/remote-collab/event-participation.md
+                  title: Participating in Remote Events
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-prosandcons.md
                   title: Pros and Cons
+                - file: collaboration/meetings-events-co-working/remote-collab/coworking.md
+                  title: Organising Online Coworking Calls
+                - file: collaboration/meetings-events-co-working/remote-collab/informal-chats.md
+                  title: Informal Coffee Chats
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-guidelines.md
                   title: Guidelines for Remote Collaboration
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-team.md

@@ -88,7 +88,7 @@ label: pathway-data-science-without-borders
     - item: ../collaboration/github-novice.md
     - item: ../collaboration/maintain-review.md
     - item: ../collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
-    - item: ../collaboration/meetings-events-co-working/coworking.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/coworking.md
     - item: ../collaboration/meetings-events-co-working/organising-conference.md
     - item: ../collaboration/meetings-events-co-working/chairing.md
     - item: ../collaboration/meetings-events-co-working/event-tools.md

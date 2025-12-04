@@ -22,7 +22,7 @@ label: pathway-community-management-how-to
     - item: ../collaboration/meetings-events-co-working/event-tools.md
     - item: ../collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
     - item: ../collaboration/meetings-events-co-working/chairing.md
-    - item: ../collaboration/meetings-events-co-working/coworking.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/coworking.md
     - item: ../collaboration/meetings-events-co-working/ppie-events.md
     - item: ../collaboration/meetings-events-co-working/remote-collab.md
     - item: ../collaboration/meetings-events-co-working/hybrid-collab.md
