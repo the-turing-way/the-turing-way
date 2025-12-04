@@ -627,18 +627,18 @@ project:
             - file: collaboration/meetings-events-co-working/remote-collab.md
               title: Remote Collaboration
               children:
+                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-guidelines.md
+                  title: Guidelines for Remote Collaboration
+                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-prosandcons.md
+                  title: Pros and Cons
                 - file: collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
                   title: Organising Remote Meetings
                 - file: collaboration/meetings-events-co-working/remote-collab/event-participation.md
                   title: Participating in Remote Events
-                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-prosandcons.md
-                  title: Pros and Cons
                 - file: collaboration/meetings-events-co-working/remote-collab/coworking.md
                   title: Organising Online Coworking Calls
                 - file: collaboration/meetings-events-co-working/remote-collab/informal-chats.md
                   title: Informal Coffee Chats
-                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-guidelines.md
-                  title: Guidelines for Remote Collaboration
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-team.md
                   title: Managing Distributed Teams
                 - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-useful-resources.md
