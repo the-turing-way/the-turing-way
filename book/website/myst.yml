@@ -919,6 +919,8 @@ project:
               title: Templates
             - file: community-handbook/contributing-chapters/contributing-workflow.md
               title: Workflow
+        - file: community-handbook/github-gardening.md
+          title: GitHub Gardening
         - file: community-handbook/acknowledgement.md
           title: Acknowledging Contributors
           children:
@@ -962,8 +964,6 @@ project:
               title: Pathways
             - file: community-handbook/infrastructure/infrastructure-plugins.md
               title: MyST Plugins
-        - file: community-handbook/github-gardening.md
-          title: GitHub Gardening
         - file: community-handbook/accessibility.md
           title: Accessibility
           children:
