@@ -1,6 +1,6 @@
 # Governance Roles in _The Turing Way_
 
-Governance in *_The Turing Way_* occurs across three constitutional Levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
+Governance in *_The Turing Way_* occurs across three levels as discussed in the [governance chapter](https://book.the-turing-way.org/foreword/governance).
 
 This document provides details about the governance roles and members collaborating across all levels of governance in _The Turing Way_.
 
