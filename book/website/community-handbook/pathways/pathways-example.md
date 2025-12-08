@@ -7,7 +7,7 @@ These examples emphasise the importance of community engagement and the strategi
 (ch-pathways-example-dswb)=
 ## Example 1: Data Science Without Borders (DSWB) - Community-Driven Curation
 
-The [DSWB pathway](https://book.the-turing-way.org/pathways/pathways-data-science-without-borders), developed for an international network in Africa, prioritised inclusivity and direct relevance to diverse project requirements.
+The [DSWB pathway](#pw-data-science-without-borders), developed for an international network in Africa, prioritised inclusivity and direct relevance to diverse project requirements.
 
 ### Methodology:
 
