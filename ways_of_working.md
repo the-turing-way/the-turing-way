@@ -66,8 +66,9 @@ All members are welcome to join these calls! ✨
 - 📝 **Community forums**: These calls are hosted every two months by the project delivery team to share governance-related updates with the community.
 - 📝 **Onboarding calls**: These calls are hosted by the community management Working Groups to onboard new members of the community in the project ([Onboarding and Offboarding Chapter](https://book.the-turing-way.org/community-handbook/onboarding-offboarding)).
 - 📝 **Fireside Chats**: _The Turing Way_ members collaborate with different communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research/data science communities ([Fireside Chat Chapter](https://book.the-turing-way.org/community-handbook/fireside-chat)).
+- **Working Group Meetings**: Working Groups are independently organised around specific topics and interests by different community members. You can find details about their meetings in the [Community Handbook](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-working-groups/).
 
-## Events and Meetings
+### Community Event Calendar
 
 Details of regular and special events are recorded in the [community calendar](https://calendar.the-turing-way.org).
 
