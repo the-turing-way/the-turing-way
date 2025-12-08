@@ -34,7 +34,7 @@ The DSWB pathway curation process yielded several key insights:
 (ch-pathways-example-citation)=
 ## Example 2: Software Citation - Thematic Workshop for Focused Content Development
 
-Curation of the [Software Citation pathway](https://book.the-turing-way.org/pathways/pathways-software-citation) employed a workshop-based methodology to address a specific thematic challenge.
+Curation of the [Software Citation pathway](#pw-software-citation) employed a workshop-based methodology to address a specific thematic challenge.
 
 ### Methodology:
 
