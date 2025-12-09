@@ -30,7 +30,7 @@ alt: >
   evidence of learning” and “Teaching and Learning (type of resources and materials)” ending with “Plan learning and teaching techniques” and “End”. On the right, Bloom’s Taxonomy is presented
   as a vertical list of six stages for designing learning outcomes.
 ---
-Figure 1: _System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Saman Gule building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
+_System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Saman Gule building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
 ```
 
 The learning outcomes can be developed using the helpful list of verbs given in Figure 2. 
