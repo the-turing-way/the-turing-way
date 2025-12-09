@@ -21,7 +21,7 @@ knowledge.
 
 ```{figure} ../../../figures/effective-learning-outcomes.*
 ---
-height: 705px
+height: 500px
 label: effective-learning-outcomes
 alt: >
   A flowchart illustrating the process of lesson and curriculum development. The process starts with “Start lesson and curriculum development” followed by identifying the type of program
