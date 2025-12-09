@@ -1900,6 +1900,23 @@ more: |
 <!---T--->
 ## T
 
+:::{profile} Thao Do
+---
+roles:
+    Book Dash participant  (June 2024) 
+github: ThaoDo02
+orcid: https://orcid.org/0000-0002-0015-892X
+bio: |
+    Thao is a PhD researcher at the University of Bath, working at the intersection of technology, society, and human rights. Her research focuses on the societal, ethical, and governance implications of AI systems in high-risk social domains, particularly human trafficking, exploitation, and children’s interactions with generative AI. She draws on interdisciplinary approaches spanning sociology, AI ethics, development studies, and digital governance to examine how AI technologies are shaped by their social contexts and how more just, accountable, and human rights-based models of AI can be realised in practice. Thao was part of the 2022 PhD Enrichment cohort at the Alan Turing Institute.
+highlights: |
+    I contributed one chapter “Lesson & Curriculum Development” together with Gule Saman and Denise Bianco (June 2024)
+quote: |
+    "Putting the last first" (Robert Chamber). I am committed to understanding how AI systems intersect with lived realities, structural inequalities, and human vulnerability, and to promoting approaches that centre dignity, agency, and justice. I believe research is most meaningful when it supports communities, challenges harmful assumptions, and contributes to building technologies that respect and empower the people they affect.
+
+---
+:::
+
+
 :::{profile} Tim Powell
 ---
 twitter: mrtimpowell
