@@ -157,8 +157,7 @@ not considered the brain by students and instructors.</div>
 ||Engaging students
 |**Parking Lot**|Deferring irrelevant questions or those the educator doesn’t have time to address immediately 
 ||Less important questions can be addressed asynchronous via email or course announcement or by sharing relevant resources
-|**Storytelling**|Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous 
-lecture (like a teaser for the session) 
+|**Storytelling**|Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous lecture (like a teaser for the session) 
 ||Visualising the story by the help of images, infographics,  plots, such as graphs, in illustrating key points
 ||Encouraging active participation
 ||Providing opportunity for in-depth reflection
