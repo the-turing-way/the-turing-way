@@ -41,7 +41,7 @@ Once the learning outcomes and assessments have been defined, draft a plan for t
 
 ```{figure} ../../../figures/blooms-taxonomy-verbs.*
 ---
-height: 980px
+height: 500px
 label: blooms-taxonomy-verbs
 alt: >
   A colorful bulb‑shaped graphic showing the hierarchical levels of Bloom’s Taxonomy from bottom to top: Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation, with key action
