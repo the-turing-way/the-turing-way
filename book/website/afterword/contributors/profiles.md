@@ -1905,7 +1905,7 @@ more: |
 roles:
     Book Dash participant  (June 2024) 
 github: ThaoDo02
-orcid: https://orcid.org/0000-0002-0015-892X
+orcid: 0000-0002-0015-892X
 bio: |
     Thao is a PhD researcher at the University of Bath, working at the intersection of technology, society, and human rights. Her research focuses on the societal, ethical, and governance implications of AI systems in high-risk social domains, particularly human trafficking, exploitation, and children’s interactions with generative AI. She draws on interdisciplinary approaches spanning sociology, AI ethics, development studies, and digital governance to examine how AI technologies are shaped by their social contexts and how more just, accountable, and human rights-based models of AI can be realised in practice. Thao was part of the 2022 PhD Enrichment cohort at the Alan Turing Institute.
 highlights: |
