@@ -37,7 +37,7 @@ It also benefits researchers by offering human resources that would not be acces
 Citizen science projects vary in structure and complexity. They typically fall into one of three categories: 
 - **Contributory**: Participants collect or submit data (examples are reporting wildlife sightings, monitoring weather patterns, mapping out new roads).
 - **Collaborative**: Participants also analyze or interpret data alongside scientists.
-Co-created: Participants help define the research questions, methods, and outcomes.
+- **Co-created**: Participants help define the research questions, methods, and outcomes.
 Examples of this include finding ways of folding molecules and [classifying](https://www.zooniverse.org/) different types of galaxies. The scale of citizen science is vast. As of 2025, [iNaturalist](https://mexico.inaturalist.org/ )  boasts over 3 million users and 170 million observations, while [eBird](https://ebird.org/home)  receives over 100 million bird sightings annually. These datasets are now central to environmental policy, biodiversity research, and conservation planning. 
 
 While citizen science offers transformative potential, it also poses challenges. Ensuring data accuracy, managing biases, and protecting participant privacy are critical. Successful projects implement rigorous protocols, training, and validation mechanisms to uphold scientific integrity. While citizen science offers transformative potential, it also poses challenges. Ensuring data accuracy, managing biases, and protecting participant privacy are critical. Successful projects implement rigorous protocols, training, and validation mechanisms to uphold scientific integrity
