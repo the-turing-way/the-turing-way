@@ -110,8 +110,7 @@ For example, in project-based learning, students work on actual data science pro
 Pair programming enables students to collaborate on coding tasks and problem-solving, fostering both technical skills and teamwork. 
 In active learning methods, emphasis is placed on autonomy, cooperation, responsibility, creativity, and critical thinking.
 
-:::{tip} Case study
-:class: tip
+:::{seealso} Case study
 👋 Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not considered the brain by students and instructors.
 :::
 
