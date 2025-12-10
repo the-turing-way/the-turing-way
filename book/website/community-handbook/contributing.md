@@ -53,7 +53,7 @@ You can sign up to our [newsletter](https://news.the-turing-way.org) to receive 
 ### GitHub
 
 _The Turing Way_ is developed on [GitHub](https://git.the-turing-way.org).
-We use {term}`GitHub` [discussion](https://github.com/orgs/the-turing-way/discussions), [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls) to organise ideas and contributions.
+We use {term}`GitHub` [discussions](https://github.com/orgs/the-turing-way/discussions), [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls) to organise ideas and contributions.
 [](#ch-contributing-github) and [](#ch-contributing-pull-request) explain how to use these features.
 
 ### Coworking and Real-Time Collaboration
@@ -81,7 +81,7 @@ Read the [GitHub documentation](https://help.github.com/articles/signing-up-for-
 
 Look through open items first; join discussions, collaborate on an ongoing tasks and exchange your thoughts with others.
 If you can't find an open item related to your idea, you can open a new one.
-Open and discussion if you have a question, or an idea to talk about with the community.
+Open a discussion if you have a question, or an idea to talk about with the community.
 Open an {term}`issue <issues>` if you have a specific task like fixing a bug or editing part of the book.
 Our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose) guide you to add the important information.
 
@@ -152,7 +152,7 @@ Features that mark a contribution as low effort include:
 - Apparently machine-generated contributions with little or no human effort to review and edit.
   This may be apparent in comments as:
     - Irrelevant, unclear text.
-    - Disconnection between {term}`pull request` comments describing changes and actual changes made to the  files.
+    - Disconnection between {term}`pull request` comments describing changes and actual changes made to the files.
     - Hallucinated references.
   And in code/contributions as:
     - Verbose and vague text.

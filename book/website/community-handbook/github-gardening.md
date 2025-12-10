@@ -167,7 +167,8 @@ This step keeps the repository clean, closing inactive or completed work while l
 - [ ] Close if the pull request is an example of [low quality or low engagement](#ch-contributing-low-effort)
 - [ ] Close if there is no realistic chance of a merge.
   For example if the authors are not engaged or the branch is very far behind main
-
+- [ ] If the PR was closed and it was from a branch on the main repo, make sure the branch is deleted, too.
+  It is easier to deal with stale branches at the time the last action was made on them rather than in a future triage session.
 :::{warning}
 Closing a PR from a branch on _The Turing Way_'s repository will delete that branch and could result in loss of the commits.
 Closing a PR will not delete a branch on a fork.

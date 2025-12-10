@@ -110,6 +110,7 @@ continuous integration
 : A development practice where changes are automatically, and rapidly, integrated into the development branch.
   This approach helps ensure the development code works and helps avoid large conflicts between feature branches.
   The term is strongly associated with tools which support this way or working, such as automated building and testing, which are often called continuous integration tools.
+Commonly abbreviated to CI.
 
 contributing guidelines
 : Guidelines outlining how a person should go about contributing to an open source project.
