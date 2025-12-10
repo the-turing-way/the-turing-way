@@ -41,7 +41,9 @@ binderize
 : To make a Binder of a project.
 
 branch
-: A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the ‘live’ repository or with other branches when appropriate.
+: In a version control system like {term}`Git` a branch is a history of changes which diverge from the main code.
+  Multiple branches can be used to track different contributions or pieces of in-progress work.
+  In {term}`Git` a branch is simply a pointer to a {term}`commit` and the main code is just another branch.
 
 bug
 : This is an error, flaw or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
