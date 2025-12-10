@@ -9,6 +9,7 @@ It can often seem that this work goes unappreciated, but it is critically import
 In _The Turing Way_ we call this work gardening, because that is an analogy for how this kind of activity is about tending to the community, keeping it healthy and helping it grow.
 This page has [instructions](#ch-gardening-checklists) and guidelines for our gardeners to help them work.
 
+(ch-gardening-principles)=
 ## Guiding principles
 
 ### Maintain quality
@@ -34,15 +35,13 @@ There is a lot of institutional knowledge that is difficult to learn and share.
 Gardeners should use their experience to help contributors.
 For example, recommending people who would be interested in a pull request or pointing to style conventions in the [](#ch).
 
+(ch-gardening-principles-human)=
 ### Be a human
-
-In their work, gardeners may have to take actions that might be difficult for others to accept or understand.
-For example, closing an issue as "will not fix" or requesting large changes to a pull request.
-Gardeners may also find taking this kind of action difficult themselves.
 
 Gardeners must remember to be kind to others.
 If gardeners need to say anything that may be difficult, they should take some time to explain.
 They should remember to be welcoming; a project can only survive with contributors, and everyone starts as a new contributors.
+Gardeners may also find taking this kind of action difficult, and so, we have collected some [example responses fragments](#ch-gardening-example-responses) to help build clear, firm and polite comments.
 
 ## GitHub item usage
 
@@ -198,3 +197,40 @@ Closing a PR will not delete a branch on a fork.
 - [ ] Close discussions when they have concluded
     - If the discussion is a Q&A, mark an accepted answer
 - [ ] Close as outdated if it is {term}`stale <Stale>`
+
+(ch-gardening-example-responses)=
+## Writing good comments as a gardener
+
+In their work, gardeners may have to take actions that might be difficult for others to accept or understand.
+For example, closing an issue as "will not fix" or requesting large changes to a pull request.
+It is therefore important to be [clear and kind when giving feedback](#ch-gardening-principles-human) to contributors.
+
+Here, we have a basic outline to a comment, with optional, modular fragments that you can include or exclude as appropriate.
+You _do not_ have to use this template, but we encourage you to use it if it is helpful.
+We also recommend that you remix the suggestions here in your own voice as it helps to show our personalities and prevent gardeners appearing robotic.
+
+When first engaging with someone, it is good to start with a salutation,
+
+- Hi, thanks for opening this PR/issue.
+- Hello, we are exciting you are contributing to The Turing Way!
+
+Explain any issues clearly, and without blame or accusation,
+
+- Your changes do not match the PR or issue description
+- Your changes deviate strongly from our [Style Guide](#ch-style).
+- Your changes are only making superficial additions or changes.
+  Our contribution guidelines mention that all contributions should improve the contents of the book.
+- It looks like a significant portion of your changes are written using generative AI without taking care to review its output.
+- You have added/changed a significant amount of content in the book without any discussion or consultation of community members.
+  Our book is collaboratively written and we encourage you to reach out to the community with such significant changes before adding it to the book.
+
+Describe any action you are taking,
+
+- I will close this issue as a duplicate.
+- I will close this PR as I think it is unlikely it will be ready to merge in the foreseeable future.
+- I will close this PR as what you are proposing won't improve the book.
+
+And, in cases where we can reach a good outcome, leave some guidance and encouragement,
+
+- Please request a review from me again once you have made changes.
+- It would be great if you could join a [collaboration café](#ch-community-calls-collabcafe) to talk about this idea.
