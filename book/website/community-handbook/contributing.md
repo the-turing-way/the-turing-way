@@ -112,7 +112,7 @@ Pull request should be marked as drafts until there are ready for {term}`review`
 
 We follow the [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow) workflow:
 
-1. Create a feature branch on your fork.
+1. Create a {term}`feature branch` on your fork.
 2. Commit changes.
 3. Open a {term}`pull request` to _The Turing Way_'s repository.
   - Open a draft {term}`pull request` if the work is still in progress.

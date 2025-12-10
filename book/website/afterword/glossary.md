@@ -209,6 +209,9 @@ FAIR code
   A number of attempts have been made to make licenses with a similar intent, this space is somewhat controversial in free and open source software spaces, where restrictions on the ways in which software can be used disfavoured.
   Fair-code can be considered a subset of {term}`source available<Source Available>` code.
 
+feature branch
+: A {term}`branch` where you are working on a particular change or "feature" that you will aim to merge with the main branch.
+
 federated learning
 : A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity.
   Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
