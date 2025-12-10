@@ -57,7 +57,7 @@ PPI *is*:
 - _Involvement_: patients and members of the public contribute at *all* stages of the research cycle.
 
 When incorporating PPI into research, researchers work *with* volunteers, rather than doing work *about* them.
-PPI volunteers are usually patients or members of the public with a particular interest in some area of research, which means that the topic is often very personal, and being involved in the research cycle can be an empowering experience.
+PPI volunteers are usually patients or members of the public with a particular interest in some area of research, which means that the topic is often very personal, and being involved in the research cycle can be an empowering experience if done well.
 For the researcher, PPI often generates unique and invaluable insights from the volunteers' expertise, which the researcher cannot always predict.
 
 It is a good idea to consider PPI very early in a project, ideally before any grant applications or submissions for ethical approval have been written.
