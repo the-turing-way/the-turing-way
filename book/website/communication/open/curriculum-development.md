@@ -174,8 +174,8 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 
 *Table 1. Training methods and their applications.* Adapted from *Center for Applied Linguistics. (2010). Methods in Training.*
 
-:::{tip} Case study
-:class: tip
+:::{seealso} Case study
+
 👋 Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education with gamification and real-world challenges.
 :::
 
