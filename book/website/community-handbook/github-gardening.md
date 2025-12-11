@@ -233,5 +233,5 @@ Describe any action you are taking,
 
 And, in cases where we can reach a good outcome, leave some guidance and encouragement,
 
-- Please request a review from me again once you have made changes.
+- Please re-request a review from me, or tag me in a comment, once you have made changes.
 - It would be great if you could join a [collaboration café](#ch-community-calls-collabcafe) to talk about this idea.
