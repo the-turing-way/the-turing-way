@@ -1,43 +1,23 @@
-(pd-code-styling-guidelines)=
-# Guidelines for Code Styling
+(rr-code-style-naming)=
+# File and Variable Naming
 
-Style guidelines differ between organisations, languages, and over time. 
-Even, the Python style guide Python Enhancement Proposal 8 (PEP 8) has had numerous revisions since it was released in 2001.
-You must choose a framework that is best for your purposes: be they for your benefit or the benefit of others.
-It is also important to remain consistent (and not consistently inconsistent)!
-
-Style guidelines include advice for file naming, variable naming, use of comments, and whitespace and bracketing.
-
-The following are links to existing style guides that may be of use when deciding how to format your code:
-
-* [PEP8](https://www.python.org/dev/peps/pep-0008/) for Python.
-* [Hadley Wickham's](http://adv-r.had.co.nz/Style.html) style guide for R.
-* [Google's](https://google.github.io/styleguide/Rguide.xml) style guide for R.
-* [Microsoft's](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) style guide for C#.
-* [PEP7](https://www.python.org/dev/peps/pep-0007/) for C.
-* [Harvard Strategic Data Project](https://hwpi.harvard.edu/files/sdp/files/sdp-toolkit-coding-style-guide.pdf) coding style guide for Stata.
-* [The Style Guide chapter](https://datamgmtinedresearch.com/style) in Data Management 
-in Large-Scale Education Research provides examples for file naming, variable naming, and general code styling.
-
-However, to get started quickly, the following sections present some advice for code style.
-
-## File Naming
+### File Naming
 
 The [Centre for Open Science](https://help.osf.io/article/146-file-naming) has some useful suggestions for the naming of files, particularly ensuring that they are readable for both humans and machines.
-This includes avoiding the use of wildcard characters (@£$%) and using underscores ("\_") to delimit information, and dashes ("\-") to conjunct information or spaces.
+This includes avoiding the use of wildcard characters (`@£$%`) and using underscores (`_`) to delimit information, and dashes (`-`) to conjunct information or spaces.
 They also suggest dating or numbering files and avoiding words like FINAL (or FINAL-FINAL).
 The dating suggestion is the long format `YYYY-MM-DD`, followed by the name of the file, and the version number.
 This results in automatic, chronological order. For example:
 
 ```r
 data <- read.csv("2019-05-17_Turing-Way_Book-Dash.csv")
-
 ```
+
 The R style guide suggests keeping file names basic.
-This might be appropriate for small compact projects, however over larger projects with lots of similar files, or if you are not using version control (see chapter /?) it may be more appropriate to use the COS guidelines.
+This might be appropriate for small compact projects, however over larger projects with lots of similar files, or if you are not using version control (see chapter on {ref}`Version Control<rr-vcs>`) it may be more appropriate to use the COS guidelines.
 For more details please see the chapter on {ref}`File Naming<pd-filenaming>`.
 
-### Versioning
+#### Versioning
 
 An extra consideration to file-naming is versioning your software.
 Using versioning guidelines will help avoid using words like `_FINAL.R`.
@@ -48,16 +28,16 @@ my-package_1_0_0.py
 ```
 This indicates that the software is in the unrevised/patched alpha stage (0) of the first major release.
 
-## Variable Naming
+### Variable Naming
 
-In maths projects at school,  variables are often unimaginatively named "x", "y", and "z".
+In maths projects at school, variables are often unimaginatively named "x", "y", and "z".
 This brevity is probably because teachers (understandably) do not want to repeatedly write long variable names on the board.
 In coding, however, you have the freedom to name your variables anything you like.
 This can be useful for representing the flow of your script.
 
 Be creative!
 
-### Naming conventions
+#### Naming conventions
 
 For clarity and readability, choosing a set of naming conventions for your variables is useful.
 There is a large variety, and some people can be quite vocal about which one is 'correct' (pick one that is right for you!).
