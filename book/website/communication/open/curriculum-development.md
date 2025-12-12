@@ -30,7 +30,7 @@ alt: >
   evidence of learning” and “Teaching and Learning (type of resources and materials)” ending with “Plan learning and teaching techniques” and “End”. On the right, Bloom’s Taxonomy is presented
   as a vertical list of six stages for designing learning outcomes.
 ---
-_System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Saman Gule building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
+_System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Gule Saman building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
 ```
 
 The learning outcomes can be developed using the helpful list of verbs given in Figure 2. 
@@ -110,13 +110,10 @@ For example, in project-based learning, students work on actual data science pro
 Pair programming enables students to collaborate on coding tasks and problem-solving, fostering both technical skills and teamwork. 
 In active learning methods, emphasis is placed on autonomy, cooperation, responsibility, creativity, and critical thinking.
 
-```
-`````{admonition} Case Study
-:class: tip
-Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build
-on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and
-not considered the brain by students and instructors.</div>
-`````
+:::{seealso} Case study
+👋 Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not considered the brain by students and instructors.
+:::
+
 
 **Key elements of active learning in Educational Big Data Analytics** [@Tsai2024empowering]:
 * **Data Acquisition:** Relevant to the problem being solved, considering primary and secondary datsources.
@@ -176,15 +173,10 @@ not considered the brain by students and instructors.</div>
 
 *Table 1. Training methods and their applications.* Adapted from *Center for Applied Linguistics. (2010). Methods in Training.*
 
-```
-`````{admonition} Case Study
-:class: tip
-Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The
-program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and
-motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found
-that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education
-with gamification and real-world challenges.</div>
-`````
+:::{seealso} Case study
+
+👋 Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education with gamification and real-world challenges.
+:::
 
 ## Adult Learning Principles
 
@@ -300,10 +292,10 @@ By embracing both conventional and participatory training approaches, educators 
 ### Creating Accessible Learning & Teaching Materials
 
 * [The National Center on Accessible Educational Materials](https://aem.cast.org/) offers support, resources, and guidance for developing accessible learning and teaching materials.
-* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](colorsafe.co), which provides text and background contrast ratios (a score above 3 is considered
+* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](http://colorsafe.co/), which provides text and background contrast ratios (a score above 3 is considered
 acceptable, with higher scores being better).
-* To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](funkify.org).
-* For identifying areas on a webpage that require improvement, [siteimprove.com](siteimprove.com) is a useful tool.
+* To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](https://www.funkify.org/).
+* For identifying areas on a webpage that require improvement, [siteimprove.com](https://www.siteimprove.com/) is a useful tool.
 * [ColorBrewer 2.0](https://colorbrewer2.org/) offers optimised, contrast-checked, and colorblind-friendly colour schemes for creating clear and accessible teaching materials.
 
 ### Increasing Student Engagement
