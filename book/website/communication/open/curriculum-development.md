@@ -292,10 +292,10 @@ By embracing both conventional and participatory training approaches, educators 
 ### Creating Accessible Learning & Teaching Materials
 
 * [The National Center on Accessible Educational Materials](https://aem.cast.org/) offers support, resources, and guidance for developing accessible learning and teaching materials.
-* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](colorsafe.co), which provides text and background contrast ratios (a score above 3 is considered
+* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](http://colorsafe.co/), which provides text and background contrast ratios (a score above 3 is considered
 acceptable, with higher scores being better).
-* To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](funkify.org).
-* For identifying areas on a webpage that require improvement, [siteimprove.com](siteimprove.com) is a useful tool.
+* To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](https://www.funkify.org/).
+* For identifying areas on a webpage that require improvement, [siteimprove.com](https://www.siteimprove.com/) is a useful tool.
 * [ColorBrewer 2.0](https://colorbrewer2.org/) offers optimised, contrast-checked, and colorblind-friendly colour schemes for creating clear and accessible teaching materials.
 
 ### Increasing Student Engagement
