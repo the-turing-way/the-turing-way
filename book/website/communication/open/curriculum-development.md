@@ -171,7 +171,7 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 ||Allowing real-life application of skills
 ||Higher engagement 
 
-*Table 1. Training methods and their applications.* Adapted from *Center for Applied Linguistics. (2010). Methods in Training.*
+*Table 1. Training methods and their applications. Adapted from Abrams, D.M. and Mahar-Piersma, C. (2010) Methods in Training in Training for the Non-Trainer: Tips and Tools. Center for Applied Linguistics. [Accessed on 15/12/2025 at this link](https://ncdacredentialing.org/aws/NCDA/asset_manager/get_file/152143?ver=1189*).
 
 :::{seealso} Case study
 
