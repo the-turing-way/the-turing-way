@@ -47,8 +47,8 @@ alt: >
   A colorful bulb‑shaped graphic showing the hierarchical levels of Bloom’s Taxonomy from bottom to top: Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation, with key action
   verbs listed beside each level.
 ---
-Figure 2: _Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)._
-_"Bloom’s Taxonomy Verbs"_ by Fractus Learning is used under a CC BY 4.0 License.
+_Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)._
+_["Bloom’s Taxonomy Verbs"](https://www.fractuslearning.com/blooms-taxonomy-verbs-free-chart/)_ by Fractus Learning is used under a CC BY 4.0 License.
 ```
 
 ## Types of Sessions
