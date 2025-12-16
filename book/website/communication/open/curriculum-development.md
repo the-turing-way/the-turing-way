@@ -75,7 +75,7 @@ It is essential to point the students towards reputable resources or provide a c
 To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, capabilities and background of the students is essential. 
 Practical sessions should be integrated into the curriculum and lesson design. 
 
-There are different teaching methdos that can be used to deliver practical sessions (Table 1). 
+There are different teaching methdos that can be used to deliver practical sessions [Table 1](#table). 
 For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advancehe.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. 
 Choosing flipped learning would depend on the demographics and preference of a cohort.
 Depending on the feasibility and preferences various forms of study material can be provided, for example, pre-recorded short lecture, reading material, provision of skeleton code that will be discussed or modified during the session. 
