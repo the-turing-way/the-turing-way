@@ -125,7 +125,11 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 * **Performance Evaluation:** The performance of the proposed solution should be evaluated and checked against benchmarks or by experts in the field.
 * **Group Activities:** Promoting collaborative learning through group projects, allowing students to learn from their peers on how a data science team works together for the completion of a project [@Qureshi2021factors].
 * **Inquiry-Based Learning:** Encouraging students to actively ask questions and seek answers, promoting curiosity and self-directed learning.
----
+
+:::{table} Training methods and their applications. Adapted from Abrams, D.M. and Mahar-Piersma, C. (2010) Methods in Training in Training for the Non-Trainer: Tips and Tools. Center for Applied Linguistics. [Accessed on 15/12/2025 at this link](https://ncdacredentialing.org/aws/NCDA/asset_manager/get_file/152143?ver=1189*).
+:label: table
+:align: center
+
 | Method   | Ideal for                                                                                                 |
 | -------- |:----------------------------------------------------------------------------------------------------------- |
 | **Lectures** | Conveying theoretical information in a short period of time |
@@ -171,7 +175,7 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 ||Allowing real-life application of skills
 ||Higher engagement 
 
-*Table 1. Training methods and their applications. Adapted from Abrams, D.M. and Mahar-Piersma, C. (2010) Methods in Training in Training for the Non-Trainer: Tips and Tools. Center for Applied Linguistics. [Accessed on 15/12/2025 at this link](https://ncdacredentialing.org/aws/NCDA/asset_manager/get_file/152143?ver=1189*).
+:::
 
 :::{seealso} Case study
 
