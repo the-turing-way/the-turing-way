@@ -384,7 +384,7 @@ project:
             - file: project-design/info-management/filenaming.md
               title: File Naming Convention
             - file: project-design/info-management/code-styling.md
-              title: Code Styling and Linting
+              title: Code Styling
               children:
         - title: Data Security and Governance
           file: project-design/data-security.md
