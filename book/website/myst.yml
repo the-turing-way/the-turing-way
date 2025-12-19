@@ -233,6 +233,8 @@ project:
           children:
             - file: reproducible-research/code-quality/code-quality-style.md
               title: Code Style and Formatting
+            - file: reproducible-research/code-quality/code-quality-robust.md
+              title: Writing Robust Code
             - file: reproducible-research/code-quality/code-quality-naming.md
               title: File and Variable Naming
             - file: reproducible-research/code-quality/code-quality-readability.md
