@@ -16,7 +16,7 @@ For example, students specialising in data science will encounter more complex c
 
 Once the program and its requirements (program learning outcomes) are known, the year of study provides an indication of the level of study. 
 With this context set, you can move on to specifics about the course, such as the **course learning outcomes** and the level of competency expected by the end of the course. 
-These outcomes can be developed using **Bloom's Taxonomy** (Figure 1), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and
+These outcomes can be developed using **Bloom's Taxonomy** [Figure 1](#effective-learning-outcomes), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and
 knowledge. 
 
 ```{figure} ../../../figures/effective-learning-outcomes.*
@@ -30,10 +30,10 @@ alt: >
   evidence of learning” and “Teaching and Learning (type of resources and materials)” ending with “Plan learning and teaching techniques” and “End”. On the right, Bloom’s Taxonomy is presented
   as a vertical list of six stages for designing learning outcomes.
 ---
-_System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Saman Gule building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
+_System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Gule Saman building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
 ```
 
-The learning outcomes can be developed using the helpful list of verbs given in Figure 2. 
+The learning outcomes can be developed using the helpful list of verbs given in [Figure 2](#blooms-taxonomy-verbs). 
 The LOs provide a broad overview of the course. Next, identify how you will assess the students, considering the frequency and mode of assessment, alongside how you intend to provide feedback and the frequency of providing feedback. 
 At this point, you can collect evidence of previous learning to improve course delivery for future iterations. 
 Once the learning outcomes and assessments have been defined, draft a plan for the **teaching** and **learning techniques** to be used for the course. It is very crucial to ensure that the outcomes of the processes and course are equitable, equity should be considered from the start and not introduced as an afterthought.
@@ -47,8 +47,8 @@ alt: >
   A colorful bulb‑shaped graphic showing the hierarchical levels of Bloom’s Taxonomy from bottom to top: Knowledge, Comprehension, Application, Analysis, Synthesis, Evaluation, with key action
   verbs listed beside each level.
 ---
-Figure 2: _Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)._
-_"Bloom’s Taxonomy Verbs"_ by Fractus Learning is used under a CC BY 4.0 License.
+_Bloom’s Taxonomy List of Verbs for creating Learning outcomes (Curriculum/Lesson)._
+_["Bloom’s Taxonomy Verbs"](https://www.fractuslearning.com/blooms-taxonomy-verbs-free-chart/)_ by Fractus Learning is used under a CC BY 4.0 License.
 ```
 
 ## Types of Sessions
@@ -75,7 +75,7 @@ It is essential to point the students towards reputable resources or provide a c
 To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, capabilities and background of the students is essential. 
 Practical sessions should be integrated into the curriculum and lesson design. 
 
-There are different teaching methdos that can be used to deliver practical sessions (Table 1). 
+There are different teaching methdos that can be used to deliver practical sessions [Table 1](#table). 
 For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advancehe.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. 
 Choosing flipped learning would depend on the demographics and preference of a cohort.
 Depending on the feasibility and preferences various forms of study material can be provided, for example, pre-recorded short lecture, reading material, provision of skeleton code that will be discussed or modified during the session. 
@@ -88,9 +88,9 @@ The in-class time should be dedicated to discussion, problem-solving, Q&A and ha
 - [ ] Learning outcomes of the course/session
 - [ ] Revisit outcomes to help students track their progress
 - [ ] Understand the practical application of the learning
-- [ ] Identify the learning styles to be used: 1. Visual, 2. Auditory and 3. Kin-aesthetic (Table 2)
+- [ ] Identify the learning styles to be used: 1. Visual, 2. Auditory and 3. Kin-aesthetic [Table 2](#table2)
 - [ ] Identify the mode of student engagement: 1. lecture, 2. brainstorming, 3. case studies, 4. role plays, 5. discussions, 6. reflection, 7. parking lot, 8. storytelling, 9. recordings, 10. guest
-lecture, 11. peer learning  and 12. gamification (see Table 1)</div>
+lecture, 11. peer learning  and 12. gamification [Table 1](#table)</div>
 ```
 
 ### Passive Learning vs Active Learning 
@@ -110,13 +110,10 @@ For example, in project-based learning, students work on actual data science pro
 Pair programming enables students to collaborate on coding tasks and problem-solving, fostering both technical skills and teamwork. 
 In active learning methods, emphasis is placed on autonomy, cooperation, responsibility, creativity, and critical thinking.
 
-```
-`````{admonition} Case Study
-:class: tip
-Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build
-on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and
-not considered the brain by students and instructors.</div>
-`````
+:::{seealso} Case study
+👋 Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not considered the brain by students and instructors.
+:::
+
 
 **Key elements of active learning in Educational Big Data Analytics** [@Tsai2024empowering]:
 * **Data Acquisition:** Relevant to the problem being solved, considering primary and secondary datsources.
@@ -128,7 +125,11 @@ not considered the brain by students and instructors.</div>
 * **Performance Evaluation:** The performance of the proposed solution should be evaluated and checked against benchmarks or by experts in the field.
 * **Group Activities:** Promoting collaborative learning through group projects, allowing students to learn from their peers on how a data science team works together for the completion of a project [@Qureshi2021factors].
 * **Inquiry-Based Learning:** Encouraging students to actively ask questions and seek answers, promoting curiosity and self-directed learning.
----
+
+:::{table} Training methods and their applications. Adapted from Abrams, D.M. and Mahar-Piersma, C. (2010) Methods in Training in Training for the Non-Trainer: Tips and Tools. Center for Applied Linguistics. [Accessed on 15/12/2025 at this link](https://ncdacredentialing.org/aws/NCDA/asset_manager/get_file/152143?ver=1189*).
+:label: table
+:align: center
+
 | Method   | Ideal for                                                                                                 |
 | -------- |:----------------------------------------------------------------------------------------------------------- |
 | **Lectures** | Conveying theoretical information in a short period of time |
@@ -174,17 +175,12 @@ not considered the brain by students and instructors.</div>
 ||Allowing real-life application of skills
 ||Higher engagement 
 
-*Table 1. Training methods and their applications.* Adapted from *Center for Applied Linguistics. (2010). Methods in Training.*
+:::
 
-```
-`````{admonition} Case Study
-:class: tip
-Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The
-program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and
-motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found
-that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education
-with gamification and real-world challenges.</div>
-`````
+:::{seealso} Case study
+
+👋 Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education with gamification and real-world challenges.
+:::
 
 ## Adult Learning Principles
 
@@ -203,6 +199,10 @@ As a common starting point, an adult person receives information through three m
 * Visual: learning through watching, observing, and reading;
 * Auditory: learning through hearing;
 * Kinesthetic (movement): learning through moving, doing, touching, and practicing.
+
+:::{table} *Facilitation methods for different Learning Styles.*
+:label: table2
+:align: center
 
 | Learning style | Facilitation methods |
 | -------- | -------- | 
@@ -225,11 +225,11 @@ As a common starting point, an adult person receives information through three m
 ||Gamification
 ||Field trips to labs and companies to observe theory in practice
 
-*Table 2*. *Facilitation methods for different Learning Styles.*
+:::
 
-Each of these sensory channels corresponds to specific teaching methods and techniques (Table 2). 
+Each of these sensory channels corresponds to specific teaching methods and techniques [Table 2](#table2). 
 Therefore, the aim should be to incorporate a blend of methods rather than focusing on just one style of teaching. For instance, use a variety of instructional methods such as lectures, discussions, role-plays (which can be particularly effective for teaching data ethics concepts),  and practical exercises (for example, quizzes, brainstorming sessions). 
-Additionally, provide diverse training materials, including slides, manuals or handouts, and videos, to accommodate different learning preferences (Table 1).
+Additionally, provide diverse training materials, including slides, manuals or handouts, and videos, to accommodate different learning preferences [Table 1](#table).
  
 ### Characteristics of Adult Learning & Implications for Educators	
 
@@ -300,10 +300,10 @@ By embracing both conventional and participatory training approaches, educators 
 ### Creating Accessible Learning & Teaching Materials
 
 * [The National Center on Accessible Educational Materials](https://aem.cast.org/) offers support, resources, and guidance for developing accessible learning and teaching materials.
-* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](colorsafe.co), which provides text and background contrast ratios (a score above 3 is considered
+* To select suitable colour palettes based on WCAG Guidelines, you can use [colorsafe.co](http://colorsafe.co/), which provides text and background contrast ratios (a score above 3 is considered
 acceptable, with higher scores being better).
-* To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](funkify.org).
-* For identifying areas on a webpage that require improvement, [siteimprove.com](siteimprove.com) is a useful tool.
+* To verify webpage accessibility for individuals with various abilities and disabilities, you can use a disability simulator like [funkify.org](https://www.funkify.org/).
+* For identifying areas on a webpage that require improvement, [siteimprove.com](https://www.siteimprove.com/) is a useful tool.
 * [ColorBrewer 2.0](https://colorbrewer2.org/) offers optimised, contrast-checked, and colorblind-friendly colour schemes for creating clear and accessible teaching materials.
 
 ### Increasing Student Engagement
