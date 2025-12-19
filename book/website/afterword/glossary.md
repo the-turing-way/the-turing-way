@@ -41,7 +41,9 @@ binderize
 : To make a Binder of a project.
 
 branch
-: A parallel version of a repository. Although it is contained within the same repository it allows you to develop it separately and then merge changes back into the ‘live’ repository or with other branches when appropriate.
+: In a version control system like {term}`Git` a branch is a history of changes which diverge from the main code.
+  Multiple branches can be used to track different contributions or pieces of in-progress work.
+  In {term}`Git` a branch is simply a pointer to a {term}`commit` and the main code is just another branch.
 
 bug
 : This is an error, flaw or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
@@ -107,7 +109,10 @@ continuous deployment
 : It automatically deploys each time a code change is made.
 
 continuous integration
-: It is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). Also called CI.
+: A development practice where changes are automatically, and rapidly, integrated into the development branch.
+  This approach helps ensure the development code works and helps avoid large conflicts between feature branches.
+  The term is strongly associated with tools which support this way of working, such as automated building and testing, which are often called continuous integration tools.
+Commonly abbreviated to CI.
 
 contributing guidelines
 : Guidelines outlining how a person should go about contributing to an open source project.
@@ -205,6 +210,9 @@ FAIR code
   The model is described at [faircode.io](https://web.archive.org/web/20240621082333/https://faircode.io/), examples include the [Business Source License](https://web.archive.org/web/20240608005051/https://mariadb.com/bsl11/) and the [Elastic License 2.0](https://web.archive.org/web/20240625130857/https://www.elastic.co/licensing/elastic-license).
   A number of attempts have been made to make licenses with a similar intent, this space is somewhat controversial in free and open source software spaces, where restrictions on the ways in which software can be used disfavoured.
   Fair-code can be considered a subset of {term}`source available<Source Available>` code.
+
+feature branch
+: A {term}`branch` where you are working on a particular change or "feature" that you will aim to merge with the main branch.
 
 federated learning
 : A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity.
