@@ -116,6 +116,8 @@ It could be useful to create a readme file describing your coding style so colla
 
 If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
 When using {term}`Markdown`, it can be clearer to include a new line after every sentence.
+This makes the {term}`Markdown` source easier to read, but doesn't change the appearance of the output document.
+This practice is part of a system of requirements and recommendations called [semantic line breaks](https://sembr.org/), which aim to make {term}`markup` source easier to read without affecting the rendered output.
 This chapter (and most, if not all, of this book) has a new line after every sentence that makes the raw text easier to read, review and solve the spacing issue.
 
 ```{figure} https://imgs.xkcd.com/comics/third_way.png
