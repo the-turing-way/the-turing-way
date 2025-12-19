@@ -373,11 +373,17 @@ Makefile
 : A text file that contains the configuration for the build.
 
 Markdown
-: A lightweight markup language with plain-text-formatting syntax.
+: A lightweight {term}`markup` language with plain-text-formatting syntax.
   Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
   Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
   There are various flavors of Markdown which extend the original Markdown with additional features or syntax changes.
-  Some popular flavors are [Myst Markdown](https://mystmd.org/), [CommonMark](https://commonmark.org/), [GitHub flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [GitLab flavored Markdown](https://docs.gitlab.com/user/markdown) and [pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).  
+  Some popular flavors are [Myst Markdown](https://mystmd.org/), [CommonMark](https://commonmark.org/), [GitHub flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), [GitLab flavored Markdown](https://docs.gitlab.com/user/markdown) and [pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown).
+
+markup
+: A markup language is a plain-text language for authoring documents.
+  They feature syntax to describe how the document should be presetend when published.
+  Markup has advantages over rich-text documents such as compatibility with version control and letting writers focus on content and structure rather than appearance.
+  Examples of markup languages include {term}`Markdown`, ReStructed Text, HTML and TeX.
 
 merge
 : The process of combining branches. Changes made on one or more branches are applied to another.
@@ -697,7 +703,7 @@ virtual machine
 
 ```{glossary}
 YAML
-: A human readable/writable markup language which used by many projects for configuration files.
+: A human readable/writable data serialisation language which used by many projects for configuration files.
 ```
 
 ---

@@ -235,6 +235,12 @@ project:
               title: Code Style and Formatting
             - file: reproducible-research/code-quality/code-quality-robust.md
               title: Writing Robust Code
+            - file: reproducible-research/code-quality/code-quality-naming.md
+              title: File and Variable Naming
+            - file: reproducible-research/code-quality/code-quality-readability.md
+              title: Code Readability
+            - file: reproducible-research/code-quality/code-quality-style-formatting.md
+              title: Style and Formatting Tools
             - file: reproducible-research/code-quality/code-quality-resources.md
               title: Checklist and Resources
         - file: reproducible-research/testing.md
@@ -380,14 +386,8 @@ project:
             - file: project-design/info-management/filenaming.md
               title: File Naming Convention
             - file: project-design/info-management/code-styling.md
-              title: Code Styling and Linting
+              title: Code Styling
               children:
-                - file: project-design/info-management/code-styling/code-styling-guidelines.md
-                  title: Guidelines for Code Styling
-                - file: project-design/info-management/code-styling/code-styling-readability.md
-                  title: Writing Human Readable Code
-                - file: project-design/info-management/code-styling/code-styling-tools.md
-                  title: Code Styling Tools
         - title: Data Security and Governance
           file: project-design/data-security.md
           children:
