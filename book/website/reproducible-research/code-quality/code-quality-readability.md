@@ -124,5 +124,5 @@ height: 500px
 name: xkcd1285
 alt: Two groups holding different flags and fighting, one says "two spaces after a period" and other says "one space after a period". While a person stands with their flag that says "Line break after every sentence"
 ---
-*Line break after each sentence makes it easy to review and comment - [XKCD Link](https://www.explainxkcd.com/wiki/index.php/1285:_Third_Way)*
+Line break after each sentence makes it easy to review and comment. [Reproduced from xkcd 1285](https://xkcd.com/1285), used under CC BY-NC 2.5.
 ```
