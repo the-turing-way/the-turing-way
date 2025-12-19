@@ -112,7 +112,7 @@ These are of course just guidelines, and you should choose elements that suit yo
 However, and again, it is important to ensure that you are consistent when collaborating, and can agree on a common style.
 It could be useful to create a readme file describing your coding style so collaborators or contributors can follow your lead.
 
-## ...end. ...end.  ...or end.\\n
+## Whitespace after sentences
 
 If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
 When using {term}`Markdown`, it can be clearer to include a new line after every sentence.
