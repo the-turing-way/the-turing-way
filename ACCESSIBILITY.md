@@ -65,7 +65,9 @@ These may take place at our [Collaboration Cafe](https://book.the-turing-way.org
 4. **Attend the Accessibility Working Group meeting**: The
    Accessibility Working Group meetings may be a place where you can
    deliver feedback in a small group environment. Monthly meetings are
-   held concurrently with the first [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) of each month.Please [subscribe to the community calendar](https://calendar.google.com/calendar/u/1/r?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) or [download the calendar](https://calendar.google.com/calendar/ical/theturingway%40gmail.com/public/basic.ics) to stay up to date with meeting times. Please join the #Accessibility channel on slack for more information.
+   held concurrently with the first [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) of each month. 
+   Please [subscribe to the community calendar](https://calendar.the-turing-way.org) or [download the calendar](https://ics.the-turing-way.org) to stay up to date with meeting times.
+   Please join the #Accessibility channel on slack for more information.
 
 We recognise that oftentimes feedback and evaluation forms operate as 'blackboxes' that receive information without taking actionable steps to address them. 
 Knowing this, we are actively working to develop processes that enable us to implement feedback and to report transparently.
