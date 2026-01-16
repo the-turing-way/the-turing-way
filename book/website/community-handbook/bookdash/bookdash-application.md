@@ -51,7 +51,7 @@ Finally, we provide details regarding the event schedule and ask our applicants 
 (ch-bookdash-application-processing)=
 ## Processing Applications
 
-As of May 2025, processing Book Dash applications is currently a manual process usually conducted by the Research Community Manager or Research Project Manager.
+Processing Book Dash applications is currently a manual process usually conducted by a member of the Book Dash Planning Committee. 
 All of the applications from the Book Dash undergoe the following steps:
 1. Convert applications from form into a table for easy review
 2. Pseudo-anonymise applications as needed for review by Book Dash Planning Committee
@@ -60,7 +60,7 @@ All of the applications from the Book Dash undergoe the following steps:
 (ch-bookdash-application-anonymisation)=
 ### Pseudo-anonymising 
 
-Pseudo-anonymising applications is an important step in enabling the Book Dash Plannnig Committee to review the 
+Pseudo-anonymising applications is an important step in enabling the Book Dash Planning Committee to review each application on its individual merits against a pre-determined rubric for a transparent and fair approach to assessment. 
 
 ## Review process
 
@@ -88,7 +88,7 @@ Based on their evaluation of the applications they will provide scores for diffe
 2. Applicants who score **mostly 2s** are enthusiastic if not wholly suitable for the project/event, for example, they may come with some ideas for a contribution that is currently not in the scope of the project/event.
 3. Applicants who score **mostly 3s** are clearly ready, goal-oriented, interested in contributing to the project, and excited to learn from others at the event.
 
-All applications that have been flagged as a "wild card" and/or "request to discuss will be collated separately, so that .
+All applications that have been flagged as a "wild card" and/or "request to discuss will be collated separately, so that the Planning Committee can review these as a group in the final application meeting.
 
 **Table summarising our scoring rubric and criteria for each score:**
 
