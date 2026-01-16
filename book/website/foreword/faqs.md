@@ -49,13 +49,13 @@ You can get started by exploring different opportunities [listed on our start pa
 
 | Types of calls/meetings | How |
 |:----------------------- |:---------------------------------|
-| What is a {ref}`ch-coworking-collabcafe`? | These are open coworking calls for anyone interested in collaborating with _The Turing Way_ members. These take place every first and third Wednesday of each month, 15:00 - 17:00 UK time. |
+| What is a {ref}`ch-community-calls-collabcafe`? | These are open coworking calls for anyone interested in collaborating with _The Turing Way_ members. These take place every first and third Wednesday of each month, 15:00 - 17:00 UK time. |
 | {ref}`ch-bookdash` | These are a week-long events organised twice a year. Participants are selected through open calls for applications. |
 | What is a {ref}`Fireside Chat<ch-fireside-chat>`? | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
 | What is a Community Forum? | These online calls bring together any member of the community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
 | What are onboarding calls? | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
 | Are there Working Group Meetings? | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. Anyone interested in their work can contact the chair to join these calls. |
-| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team abd community on Slack workspace. |
+| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team and community on Slack workspace. |
 
 ## 5. Participating Asynchronously
 
@@ -77,7 +77,7 @@ You can get started by exploring different opportunities [listed on our start pa
 |:----------------------- |:---------------------------------|
 | I just contributed to _The Turing Way_, am I a contributor now? | Yes, you will be added as a contributor to _The Turing Way_ using [all-contributors](https://allcontributors.org/) bot. Your name will appear on our [Contributors table](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors). |
 | My contribution to _The Turing Way_ was not on GitHub, will I still be acknowledged? | Absolutely! The all-contributors bot allows us to give attribution to people even when they don't work on GitHub. You might however need a [GitHub account](https://github.com). |
-| Can I describe my contributions in detail? | Yes! We have a dedicated page [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md) where you are encouraged to create an entry with your name, bio and description of your contribution. This is published in the afterword of the book as [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). |
+| Can I describe my contributions in detail? | Yes! We have a dedicated [page in the afterword](#contributors-record-individual) where you are encouraged to create an entry with your name, bio and description of your contribution. |
 | My research project collaborated with _The Turing Way_. Can I mention it somewhere? | We have a [contributing project](https://github.com/the-turing-way/the-turing-way/blob/main/collaborating_projects.md) document where our collaborating projects, organisations and sponsors are listed. You can describe your project in this document. |
 | My organisation supports by participation in _The Turing Way_. Can I mention it somewhere? | We have a [contributing project](https://github.com/the-turing-way/the-turing-way/blob/main/collaborating_projects.md) document where our collaborating projects, organisations and sponsors are listed. You can describe your organisation with your profile in this document. |
 

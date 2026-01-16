@@ -4,7 +4,7 @@
 ## Prerequisites / recommended skill level
 | Prerequisite |  Importance  | Notes        |
 | ---------------- |------------------ |--------------|
-| {ref}`rr-rdm` | Helpful | RDM lifecyle |
+| {ref}`rr-rdm` | Helpful | RDM lifecycle |
 
 ## Summary
 Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental workflows, standards) that can be potentially useful for conducting research.
@@ -15,9 +15,9 @@ The primary goal of the RO approach is to provide a mechanism to associate or li
 
 In this chapter, we will introduce ROs, their typologies and which platform and technologies exist to create and publish them.
 
-```{figure} ../figures/research-object.*
+```{figure} ../../figures/research-object.*
 ---
-name: ro-lifecyle
+name: ro-lifecycle
 alt: This image shows how research objects evolve and grow in content during the collaboration process and how new research objects can be derived from existing ones.
 ---
 Research Objects allow working open by design and share during the research process and not only the research outputs at the end. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).

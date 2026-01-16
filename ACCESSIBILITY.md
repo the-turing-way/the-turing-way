@@ -61,8 +61,13 @@ Gathering access-related feedback is integral for ensuring that we can remain ac
 All of the information in this form is processed anonymously, with the option of submitting contact information by choice. 
 2. **Drop-in sessions**: Throughout the calendar year, we would like to facilitate drop-in session to receive feedback about access related different parts of project.
 These may take place at our [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) or may be hosted separately. 
-3. **Email the Research Community Manager or project team directly directly**: You can always email the Research Community Manager directly at asteele@turing.ac.uk with direct feedback. Alternatively, you can also reach out to her on Slack, or to any of the [project delivery team members](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
-4. **Attend the Accessibility Working Group meeting**: The Accessibility Working Group meetings may be a place where you can deliver feedback in a small group environment. As of December 2024, these meetings are held on Zoom on the second Monday of each month at 17:00 UK time. Please [subscribe to the community calendar](https://calendar.google.com/calendar/u/1/r?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) or [download the calendar](https://calendar.google.com/calendar/ical/theturingway%40gmail.com/public/basic.ics) to stay up to date with meeting times. Please join the #Accessibility channel on slack for more information.
+3. **Email us**: You can reach out to the Project Delivery Team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). You can also reach out to [specific members of the team](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
+4. **Attend the Accessibility Working Group meeting**: The
+   Accessibility Working Group meetings may be a place where you can
+   deliver feedback in a small group environment. Monthly meetings are
+   held concurrently with the first [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) of each month. 
+   Please [subscribe to the community calendar](https://calendar.the-turing-way.org) or [download the calendar](https://ics.the-turing-way.org) to stay up to date with meeting times.
+   Please join the #Accessibility channel on slack for more information.
 
 We recognise that oftentimes feedback and evaluation forms operate as 'blackboxes' that receive information without taking actionable steps to address them. 
 Knowing this, we are actively working to develop processes that enable us to implement feedback and to report transparently.

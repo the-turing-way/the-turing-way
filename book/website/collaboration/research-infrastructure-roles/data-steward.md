@@ -4,7 +4,7 @@
 Data Stewards are a growing role within scientific communities.
 'Data Steward' is an umbrella term for numerous support roles that involve the creation, management and usage of research data (see also the {ref}`rr-rdm` chapter).
 
-```{figure} ../../figures/data-stewards.*
+```{figure} ../../../figures/data-stewards.*
 ---
 height: 400px
 name: data-stewards

@@ -75,7 +75,7 @@ According to John P Kotter ({cite:ps}`Kotter2012change`) there are eight steps i
 
 The first four steps in the transformation process help to convince people or an organisation that they need to change. 
 Phases five to seven introduce new practices. 
-The last stage focusses on making these new practices stick. 
+The last stage focuses on making these new practices stick. 
 
 (er-cultural-change-pyramid)=
 ## Strategy for Culture Change - Brian Nosek
@@ -90,7 +90,7 @@ This model, represented as a pyramid similar to Maslov's Hierarchy of Needs, sug
 4. Fourth tier - Incentives - Make it rewarding
 5. Fifth tier - Policies - Make it required 
 
-```{figure} ../../figures/strategy-culture-change-nosek.*
+```{figure} ../../../figures/strategy-culture-change-nosek.*
 ---
 height: 400px
 name: Nosek et al Strategy for Culture Change Diagram
@@ -107,7 +107,7 @@ Nosek argues that focusing on individual motivations and abilities ignores the w
 These wider structures can mean that even if individuals want to change, they may feel powerless to do so on their own. 
 The Strategy for Culture Change focuses on building targeted interventions and infrastructure to enable change, then lobbying to effect adoption and incentives to further drive wide behaviour and cultural change.
 
-However, the blog post, particulary the pyramid diagram, has drawn criticism for presenting a perspective that focuses too much on technology as a solution.
+However, the blog post, particularly the pyramid diagram, has drawn criticism for presenting a perspective that focuses too much on technology as a solution.
 This is compounded by the use of communities in the second tier of the strategy, after infrastructure has been built, as a mechanism to solely adopt changes built or agreed elsewhere.
 Some parties have a different opinion, and believe that communities themselves should be identifying and driving the infrastructure changes, rather than the other way around.  
 Regardless, this is an alternative model of cultural change which seeks to address the impact of wider forces affecting attempts to shift norms. 

@@ -71,7 +71,7 @@ If you plan on writing a package for others to use, there are numerous considera
 You will want to ensure your code will work reliably, and do so on systems other than your own.
 Some recommendations would be:
 
-- {ref}`Unit Testing <rr-testing-unittest>` and {ref}`Intergration Testing <rr-testing-types-integrationtest>` to ensure code within the package is robust and provides useful feedback to the end user while using it (warnings, errors).
+- {ref}`Unit Testing <rr-testing-unittest>` and {ref}`Integration Testing <rr-testing-types-integrationtest>` to ensure code within the package is robust and provides useful feedback to the end user while using it (warnings, errors).
 - {ref}`Version Control <rr-vcs>` of the codebase to track development and fix bugs.
 - {ref}`Documentation <rr-rdm-metadata>`. This might be in the form of a website or a wiki. There are even language specific packages that aim to provide project templates that will render the template into a website or other form of documentation (see [packagedown](https://pkgdown.r-lib.org/) for R, [Sphinx](https://www.sphinx-doc.org/) for Python or [Doxygen](https://www.doxygen.nl/) for C++).
 - Host your versioned codebase somewhere accessible. There are a whole range of places to host code depending on your use case. Public GitHub/GitLab repositories are extremely common especially in open source, whereas private repositories can be used for proprietary packages (think Matlab). Even just a local git repository might be enough for your use-case. 
@@ -113,7 +113,7 @@ usethis::create_package("/RDemoPackage")
 ```
 
 Create a `.R` file in the R/ subdirectory and write a function to convert from degrees Celsius to Kelvin.
-Notice that we have some code comments in the preamble that will get used to render a markdown file for the documentation (we use `roxygen2` for this).
+Notice that we have some code comments in the preamble that will get used to render a {term}`Markdown` file for the documentation (we use `roxygen2` for this).
 
 ```bash
 
@@ -150,7 +150,7 @@ celsius_to_kelvin <- function(temp_C) {
 }
 ```
 
-We also used the `assert_that()` function from the `assertthat` package that allows us to unit test within functions in R. In this case we don't allow the user to input a temperature of below -89.2 degrees C. We then use the document() function from the `roxygen2` package to automatically render documentation in the form of a markdown file based on the comments at the top of the function file.
+We also used the `assert_that()` function from the `assertthat` package that allows us to unit test within functions in R. In this case we don't allow the user to input a temperature of below -89.2 degrees C. We then use the document() function from the `roxygen2` package to automatically render documentation in the form of a {term}`Markdown` file based on the comments at the top of the function file.
 
 ```r
 document()

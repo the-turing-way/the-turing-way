@@ -22,7 +22,7 @@ Everyone interested in learning from or developing this project can join us for 
 
 Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/\@KirstieJane/CollabCafe.
 Anyone who would like to host these calls at other times, please get in touch with the team members.
-See more details in the {ref}`Coworking Calls<ch-coworking-weekly>` chapter.
+See more details in the {ref}`Coworking Calls<ch-community-calls-coworking>` chapter.
 
 ## Reviewing open pull requests
 

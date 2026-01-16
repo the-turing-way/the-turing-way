@@ -8,14 +8,9 @@ They exist to facilitate interdisciplinary discussions and self-reflection about
 Ultimately, the project aims to help data practitioners to identify and mitigate these risks.
 You can watch a short animation explaining the project below:
 
-<div style="text-align: center">
-<iframe width="560" 
-  height="315" 
-  src="https://www.youtube-nocookie.com/embed/26fNnar4JvY?controls=0" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+::: {iframe} https://www.youtube-nocookie.com/embed/26fNnar4JvY?controls=0
+:width: 100%
+:::
 
 (er-datahazardsintro-datahazardslabels)=
 ## Data Hazards labels
@@ -31,7 +26,7 @@ Each label has, as described in the main website:
 - **Safety Precautions** things that we would want to see done before the research is deployed.
 
 ### Example label: high environmental cost
-```{figure} ../../figures/data-hazard-environmental-cost.*
+```{figure} ../../../figures/data-hazard-environmental-cost.*
 ---
 height: 250px
 name: data-hazard-environmental-cost

@@ -5,12 +5,12 @@
 
 It is useful to preview changes you have been working on as you go on your local machine.
 You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
-You can replicate the build process using [Make](#rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+You can replicate the build process using [Make](#rr-make) and [Jupyter Book](https://next.jupyterbook.org).
 
 ## Prerequisites
 
 We will be using the command line throughout this guide.
-You will need to use a terminal emulator to follow.
+You will need to use a terminal to follow.
 
 You will also need to install Python3.
 You can check which specific version of Python3 the build uses in [netlify.toml](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml).
@@ -27,12 +27,12 @@ Other command line tools you will need are,
 ### Clone The Repository
 
 ```console
-git clone https://github.com/the-turing-way/the-turing-way
+git clone https://github.com/the-turing-way/the-turing-way.git
 ```
 
 ````{note}
 The repository is quite large and cloning may take a long time on slower internet connections.
-You can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#).
+You can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone).
 Specifically, focusing on blobless clones, involves utilizing the `--filter=blob:none` option in the git clone command.
 
 By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout.
@@ -50,14 +50,25 @@ Navigate into the repository using the command `cd the-turing-way`; the `cd` com
 Create a virtual environment using Python,
 
 ```console
-$ python3 -m venv ./venv
+python3 -m venv ./venv
 ```
 
 Next, active the virtual environment,
-
+::::{tab-set}
+:::{tab-item} Unix
+:sync: Unix
 ```console
-$ source ./venv/bin/activate
+source ./venv/bin/activate
 ```
+:::
+:::{tab-item} Windows
+:sync: Windows
+```console
+venv\Scripts\activate
+```
+:::
+::::
+
 
 Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
 Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
@@ -65,49 +76,37 @@ That will be explained in more depth in [a later section](#recommend).
 
 ### Install the Dependencies
 
-The next steps use {term}`Makefile`.
+The next steps use a {term}`Makefile`.
 The Makefile contains instructions to build a set of "targets".
 That way we can easily run the same commands repeatedly, and in different environments, without needing to remember all the parameters.
 It is easiest to change into the directory containing the Makefile,
 
-```
-$ cd book
+```console
+cd book
 ```
 
 Install the build dependencies into your virtual environment,
 
 ```console
-$ make deps
+make deps
 ```
 
-### Build the Book
+### Serve the book locally
 
-You are now ready to build the book.
-You can build the book with,
+When you serve the book, it will be deployed on a local webserver which updates automatically as you make changes.
+To serve the book locally run,
 
 ```console
-$ make book
+make serve
 ```
 
-The output of the build process will provide output such as below that demonstrate how you can view the book locally,
+Once the build has succeeded, you can open <http://localhost:3000/> in your browser.
 
-```text
-===============================================================================
-
-Finished generating HTML for book.
-Your book's HTML pages are here:
-    _build/html/
-You can look at your book by opening this file in a browser:
-    _build/html/index.html
-Or paste this line directly into your browser bar:
-    file:///<path to repository>/book/website/_build/html/index.html
-
-===============================================================================
+```{tip}
+The build process takes time so you may have to wait for changes to become visible in your browser.
 ```
 
-Open `index.html` in your web browser to look at your local build.
-
-## Building Previews for Different Branches
+### Building Previews for Different Branches
 
 The build process will use the source files from whatever branch you have checked out.
 If you have just cloned the repository, that will be the `main` branch.
@@ -115,9 +114,25 @@ If you have just cloned the repository, that will be the `main` branch.
 To build another branch, for example a feature branch you are working on you first switch to that branch,
 
 ```console
-$ git switch mybranch
-$ make book
+git switch mybranch
 ```
+
+If you are already running `make serve`, you should see the book updating automatically. Otherwise you can run `make serve` again.
+
+(other-targets)=
+## Other Targets
+
+### Export the Book to HTML
+
+You can build the book, writing the outputs as HTML,
+
+```console
+make book
+```
+
+The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
+This is the same command used to prepare the book for deployment to the website.
+
 
 ## Clean Up After a Build
 
@@ -127,12 +142,11 @@ Clearing these files to force a build from scratch may reveal errors and warning
 To remove the outputs of builds use the `clean` target,
 
 ```console
-$ make clean
+make clean
 ```
 
-### Other Targets
-
-#### Strict Build
+(other-targets:strict)=
+### Strict Build
 
 The `strict` target is useful for debugging.
 It will make any warnings raise an error, but also continue the build.
@@ -140,23 +154,8 @@ That way, all warnings should be presented to you as errors.
 Run the strict build with,
 
 ```console
-$ make strict
+make strict
 ```
-
-#### Pathways Build
-
-_The Turing Way_ has curated user pathways, collecting a series of recommended chapters for different reader types.
-The [pathways program](https://github.com/the-turing-way/pathways) generates extra Markdown files to add the pathways to the book.
-The `build` target does not generate these files, so a clean build (`make clean && make build`) will not have pathways.
-To build the book with pathways, use the `pathways` target,
-
-```console
-$ make pathways
-```
-
-This will generate the pathways files then build the book.
-This is the build of the book which is deployed to the website.
-
 (recommend)=
 ## Why We Recommend Using a Virtual Environment
 

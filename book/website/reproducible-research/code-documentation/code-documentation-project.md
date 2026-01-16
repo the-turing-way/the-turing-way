@@ -43,7 +43,7 @@ The section on {ref}`rr-licensing` provides excellent detail on open-source lice
 ## Code of Conduct
 
 When collaboration is an important aspect of a software project,
-defining a *code of conduct* is necessary to create and maintain a collaboration environment that promotes participation and fosters the exchage of ideas, 
+defining a *code of conduct* is necessary to create and maintain a collaboration environment that promotes participation and fosters the exchange of ideas, 
 while fostering respect among developers. 
 
 The [contributor's covernant](https://www.contributor-covenant.org/) describes a code of conduct for open source software, 

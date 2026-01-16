@@ -20,7 +20,7 @@ information on DAGs can be found on
 First, check if you have GNU Make installed already. In a terminal type:
 
 ```bash
-$ make
+make
 ```
 
 If you get ``make: command not found`` (or similar), you don't have Make. If
@@ -31,7 +31,7 @@ We'll be using **GNU Make** in this tutorial. Verify that this is what you
 have by typing:
 
 ```bash
-$ make --version
+make --version
 ```
 
 If you don't have GNU Make but have the BSD version, some things might not
@@ -76,9 +76,9 @@ recipe](https://www.gnu.org/software/make/manual/make.html#Canned-Recipes).
 To follow along, switch to the ``canned`` branch:
 
 ```bash
-$ make clean
-$ git stash --all        # note the '--all' flag so we also stash the Makefile
-$ git checkout canned
+make clean
+git stash --all        # note the '--all' flag so we also stash the Makefile
+git checkout canned
 ```
 
 On this branch you'll notice that there is a new script in the **scripts**
@@ -196,5 +196,5 @@ variable.
 To build all of this, run
 
 ```bash
-$ make -j 4
+make -j 4
 ```

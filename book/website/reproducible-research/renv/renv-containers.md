@@ -80,7 +80,7 @@ However, this leaves a user vulnerable to similar security issues as described i
 The best advice for using images built by others is, as usual, only download and run something on your machine if it comes from a trusted source.
 Docker Hub has "official image" badges for commonly used, verified images as shown here:
 
-```{figure} ../../figures/docker-official-image.*
+```{figure} ../../../figures/docker-official-image.*
 ---
 name: docker-official-image
 alt: A screenshot of official image badges
@@ -212,7 +212,7 @@ It is good practice to use `COPY`, except where `ADD` is specifically required, 
 
 Here is what happens if a container is opened from an image called `book_example`, built from the example above:
 
-```{figure} ../../figures/container-example.*
+```{figure} ../../../figures/container-example.*
 ---
 name: container-example
 alt: A screenshot of what happens when a container is opened from an image
@@ -246,7 +246,7 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-```{figure} ../../figures/workdir-example.*
+```{figure} ../../../figures/workdir-example.*
 ---
 name: workdir-example
 alt: Screenshot of container generated using WORKDIR command
@@ -262,7 +262,7 @@ After each `RUN` statement in a Dockerfile, the image is saved, and any followin
 As an example, here is what happens in the above example if the `WORKDIR A` line is swapped
 for `RUN cd A`.
 
-```{figure} ../../figures/cd-example.*
+```{figure} ../../../figures/cd-example.*
 ---
 name: cd-example
 alt: A screenshot of what happens when the WORKDIR command is swapped with RUN cd
@@ -428,7 +428,7 @@ dockerd-rootless-setuptool.sh install
 docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
 ```
 
-The following prequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
+The following prerequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
 
 (rr-renv-containers-podman)=
 ## Podman
@@ -455,7 +455,7 @@ Adding a user to the docker group is essentially giving them a high-level of acc
 For example:
 
 ```console
-$ docker run --mount=type=bind,source=/,destination=/host -it busybox
+docker run --mount=type=bind,source=/,destination=/host -it busybox
 ```
 
 The user now has access to the filesystem of the host with the permissions of `root`.
@@ -506,13 +506,13 @@ If you are running a distribution with SELinux (for example Fedora or CentOS) yo
 
 This can be demonstrated with a simple example. Create a directory and put file with some text in it:
 ```console
-$ mkdir tmp
-$ echo "Hello" > tmp/a.txt
+mkdir tmp
+echo "Hello" > tmp/a.txt
 ```
 
 Now mount this directory into an interactive [busybox](https://www.busybox.net/) container:
 ```console
-$ podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
+podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
 ```
 
 In the container's shell, confirm that the session belongs to the root user:
@@ -548,7 +548,7 @@ It is also impossible to read or modify files that the user running the containe
 For example, the `/etc/shadow` file which contains users' hashed passwords:
 
 ```console
-$ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
+podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
 / # cat /shadow
 cat: can't open '/shadow': Permission denied
 ```
@@ -564,7 +564,7 @@ Windows or MacOS.
 
 Singularity provides [Vagrant](https://www.vagrantup.com/) boxes which let users
 on Windows or MacOS quickly deploy a virtual machine with Singularity installed.
-Instuctions can be found [in the Singularity
+Instructions can be found [in the Singularity
 documentation](https://sylabs.io/guides/latest/admin-guide/installation.html#installation-on-windows-or-mac)
 ```
 
@@ -618,20 +618,20 @@ The `%runscript` defines the command to be executed when the container is run.
 A container image can then be built:
 
 ```console
-$ sudo singularity build lolcow.sif lolcow.def
+sudo singularity build lolcow.sif lolcow.def
 ```
 
 This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a Singularity image file (`lolcow.sif`).
 The container can be run with:
 
 ```console
-$ singularity run lolcow.sif
+singularity run lolcow.sif
 ```
 
 or, simply:
 
 ```console
-$ ./lolcow.sif
+./lolcow.sif
 ```
 
 ````{note}
@@ -639,7 +639,7 @@ The way that Singularity packages container images as a single file in your work
 You may simply copy your container image to a cluster using `scp` or `rsync`:
 
 ```console
-$ rsync -avz lolcow.sif <user>@<hpc_system>:~/
+rsync -avz lolcow.sif <user>@<hpc_system>:~/
 ```
 ````
 
@@ -669,16 +669,16 @@ To use Nvidia GPUs in a container pass the `--nv` flag to the `run`, `exec` or `
 For example:
 
 ```console
-$ singularity pull docker://tensorflow/tensorflow:latest-gpu
-$ singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
+singularity pull docker://tensorflow/tensorflow:latest-gpu
+singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
 ```
 
 Using AMD GPUs is similar but the `--rocm` flag is used.
 For example:
 
 ```console
-$ singularity pull docker://rocm/tensorflow:latest
-$ singularity run --rocm tensorflow_latest.sif
+singularity pull docker://rocm/tensorflow:latest
+singularity run --rocm tensorflow_latest.sif
 ```
 
 When using the `--nv` and `--rocm` graphics drivers and libraries from the host are passed to the container.

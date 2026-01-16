@@ -3,7 +3,7 @@
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
 
-```{figure} ../../figures/open-umbrella.*
+```{figure} ../../../figures/open-umbrella.*
 ---
 height: 500px
 name: open-umbrella
@@ -32,7 +32,7 @@ Citizen science offers the power of science to everyone and the power of everyon
 
 By allowing members of the public to contribute to scientific research, citizen science helps engage and invest the broader world in science.
 It also benefits researchers by offering human resources that would not be accessible otherwise.
-Examples of this include [finding](https://citizensciencegames.com/games/eterna/) ways of folding molecules and [classifying](https://www.zooniverse.org/) different types of galaxies.
+Examples of this include finding ways of folding molecules and [classifying](https://www.zooniverse.org/) different types of galaxies.
 
 (rr-open-scholarship-involvement)=
 ## Patient and Public Involvement

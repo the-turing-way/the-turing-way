@@ -3,7 +3,7 @@
 
 ***This page serves as an index for all the template resources provided within The Turing Way Community Handbook***
 
-```{figure} ../figures/templates.*
+```{figure} ../../figures/templates.*
 ---
 height: 200px
 name: templates
@@ -15,7 +15,7 @@ Illustration of a process of sketching. [Royalty free image from Many Pixels](ht
 (ch-template-bookdash)=
 ## Book Dash Events
 
-There are four MarkDown templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ Book Dash events.
+There are four {term}`Markdown` templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ Book Dash events.
 These templates can be reused and adapted for different events within and outside _The Turing Way_ community.
 
 - {ref}`HackMD Template for the Index Page<ch-template-bookdash-index>`
@@ -27,7 +27,7 @@ These templates can be reused and adapted for different events within and outsid
 (ch-template-coworking)=
 ## Coworking calls
 
-There are two MarkDown templates for the shared notes (HackMD) during the coworking calls hosted for _The Turing Way_ community:
+There are two {term}`Markdown` templates for the shared notes (HackMD) during the coworking calls hosted for _The Turing Way_ community:
 
 - {ref}`Template for the Collaboration Cafes<ch-template-coworking-collabcafe>`
 - {ref}`Template for the Daily Coworking Calls<ch-template-coworking-weekly>`
