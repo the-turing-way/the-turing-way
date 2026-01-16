@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Generate Crowdin Contributors table
-        uses: andrii-bodnar/action-crowdin-contributors@v2.0.0
+        uses: andrii-bodnar/action-crowdin-contributors@v3.2.0
         with:
           contributors_per_line: 5
           max_contributors: 10000
@@ -38,7 +38,7 @@ jobs:
           CROWDIN_ORGANIZATION: turingway
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.CROWDIN_ACTION_TOKEN }}
           title: Update Crowdin Contributors table

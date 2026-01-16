@@ -1,4 +1,4 @@
-(pd-code-styling-readability)=
+(rr-code-quality-readability)=
 # Writing Human Readable Code
 
 Writing clear, well commented, readable and reusable code benefits not only you but the community (or audience) that you are developing it for.
@@ -112,17 +112,18 @@ These are of course just guidelines, and you should choose elements that suit yo
 However, and again, it is important to ensure that you are consistent when collaborating, and can agree on a common style.
 It could be useful to create a readme file describing your coding style so collaborators or contributors can follow your lead.
 
-### ...end. ...end.  ...or end.\\n
+## Whitespace after sentences
 
 If you are sharing text files or working collaboratively on manuals or documents, then there is a lot of controversy surrounding whether to use one or two spaces after a period.
 When using {term}`Markdown`, it can be clearer to include a new line after every sentence.
+This makes the {term}`Markdown` source easier to read, but doesn't change the appearance of the output document.
+This practice is part of a system of requirements and recommendations called [semantic line breaks](https://sembr.org/), which aim to make {term}`markup` source easier to read without affecting the rendered output.
 This chapter (and most, if not all, of this book) has a new line after every sentence that makes the raw text easier to read, review and solve the spacing issue.
 
-```{figure} ../../../../figures/xkcd1285.png
+```{figure} https://imgs.xkcd.com/comics/third_way.png
 ---
-height: 500px
 name: xkcd1285
 alt: Two groups holding different flags and fighting, one says "two spaces after a period" and other says "one space after a period". While a person stands with their flag that says "Line break after every sentence"
 ---
-*Line break after each sentence makes it easy to review and comment - [XKCD Link](https://www.explainxkcd.com/wiki/index.php/1285:_Third_Way)*
+Line break after each sentence makes it easy to review and comment. [Reproduced from xkcd 1285](https://xkcd.com/1285), used under CC BY-NC 2.5.
 ```
