@@ -66,6 +66,8 @@ A README file is generally shared together with an open dataset, or can be the l
 README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). 
 See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
 
+README files can also be used as [landing pages for project or software repositories](#pd-project-repo-readme)!
+
 ### README tips and examples 
     
 * Create one README file for each dataset
