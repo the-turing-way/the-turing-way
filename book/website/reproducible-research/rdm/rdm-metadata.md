@@ -64,7 +64,7 @@ A README file provides information about data/software and is intended to help e
 A README file is generally shared together with an open dataset, or can be the landing page of your software repository.
 
 README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). 
-See [Make a README]([url](https://www.makeareadme.com/)) for more information on why README files are important and how you can set up your own README files.
+See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
 
 ### README tips and examples 
     
