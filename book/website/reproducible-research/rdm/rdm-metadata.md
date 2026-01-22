@@ -58,15 +58,13 @@ Want to learn more about Metadata and Metadata Standards? Watch an [introduction
 
 
 (rr-rdm-readme)=
-## README
+## README for datasets
 
-A README file provides information about data/software and is intended to help ensure that the data/software can be correctly interpreted and used, by yourself or others. 
-A README file is generally shared together with an open dataset, or can be the landing page of your software repository.
+A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others. 
+A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
 
 README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). 
 See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
-
-README files can also be used as [landing pages for project or software repositories](#pd-project-repo-readme)!
 
 ### README tips and examples 
     
