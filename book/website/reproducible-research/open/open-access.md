@@ -44,13 +44,12 @@ The number of these journals is still increasing rapidly, with 17,000 listed in 
 
 Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and where do we go from here?", where she provides an overview of how different models of scientific publication look like, and how we can take an informed approach to Open Access.
 
-::: {iframe} https://www.youtube.com/embed/Mycp7SzBWB0
+:::{youtube} Mycp7SzBWB0
 :align: center
-:width: 100%
+:::
 
 History of Scientific Publishing - Where do we go from here?
 Slides: https://doi.org/10.5281/zenodo.6516871
-:::
 
 
 (rr-open-access-gold-publishing)=

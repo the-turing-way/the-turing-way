@@ -52,8 +52,7 @@ Please note that if `HTML` is the only option for you to format your text the wa
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
 
 #### Demo
-::: {iframe} https://www.youtube.com/embed/tv0HlVgxDdI
-:width: 100%
+:::{youtube} tv0HlVgxDdI
 :::
 
 #### Writing Checklists
@@ -93,8 +92,7 @@ A list of such files can be found in [this issue](https://github.com/the-turing-
 
 #### Demo
 
-::: {iframe} https://www.youtube.com/embed/qq9QCrykdbw
-:width: 100%
+:::{youtube} qq9QCrykdbw
 :::
 
 (ch-consistency-formatting-hr-labels)=
@@ -108,8 +106,7 @@ This helps make _The Turing Way_ more navigable and accessible.
 
 #### Demo
 
-::: {iframe} https://www.youtube.com/embed/ikcjxjklLVg
-:width: 100%
+:::{youtube} ikcjxjklLVg
 :::
 
 (ch-consistency-formatting-hr-images)=
@@ -138,8 +135,7 @@ You should always check how your image looks in the Netlify preview of the book 
 
 #### Demo
 
-::: {iframe} https://www.youtube.com/embed/upBiKLR_A5E
-:width: 100%
+:::{youtube} upBiKLR_A5E
 :::
 
 (ch-consistency-formatting-sr)=
@@ -202,6 +198,5 @@ For example, because some of the headers in this chapter make up a checklist - t
 
 #### Demo
 
-::: {iframe} https://www.youtube.com/embed/ET_LI5dwP9M
-:width: 100%
+:::{youtube} ET_LI5dwP9M
 :::

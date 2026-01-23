@@ -8,8 +8,7 @@ They exist to facilitate interdisciplinary discussions and self-reflection about
 Ultimately, the project aims to help data practitioners to identify and mitigate these risks.
 You can watch a short animation explaining the project below:
 
-::: {iframe} https://www.youtube-nocookie.com/embed/26fNnar4JvY?controls=0
-:width: 100%
+:::{youtube} 26fNnar4JvY
 :::
 
 (er-datahazardsintro-datahazardslabels)=

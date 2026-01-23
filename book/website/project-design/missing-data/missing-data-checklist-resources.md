@@ -78,17 +78,14 @@ Alternatively, if you want to make your research project and data analysis pipel
    - [missforest](https://cran.r-project.org/web/packages/missForest/index.html)
 - The Turing-Roche partnership has some resources on structured missingness:
    - See *#ExplainToMe: The Problem of Structured Missing Data* for a great animated overview
-    ::: {iframe} https://www.youtube.com/embed/nlevyS1GLlQ?si=4exk2HIvU1-5y004
-    :width: 100%
+    :::{youtube} nlevyS1GLlQ
     :::
    - Papers on structured missingness (that were cited previously): {cite:ps}`Mitra2023structuredmissingness` and {cite:ps}`Jackson2023structuredmissingness`
    - For more in-depth recordings from the Turing-Roche Knowledge Series see: 
      - *Modern Topics on Missing Data*, which also provides a brief overview of missing data:
-        ::: {iframe} https://www.youtube.com/embed/Cbj3X5wBeEg?si=ILs6NMeNX1FPkqnW
-        :width: 100%
+        :::{youtube} Cbj3X5wBeEg
         :::
      - *Structured Missingness Challenges in Data Integration*: 
-        ::: {iframe} https://www.youtube.com/embed/lnLd7LLkmDY?si=OjFgZZhgqCBoNLA1
-        :width: 100%
+        :::{youtube} lnLd7LLkmDY
         :::
 
