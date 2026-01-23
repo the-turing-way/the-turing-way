@@ -77,8 +77,7 @@ The manually written table of contents is unnecessary as Jupyter Book auto-gener
 
 #### Demo
 
-::: {iframe} https://www.youtube.com/embed/Prv23kGekVY
-:width: 100%
+:::{youtube} Prv23kGekVY
 :::
 
 
