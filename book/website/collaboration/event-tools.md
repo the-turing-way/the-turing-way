@@ -48,6 +48,7 @@ It is important to create shared notes, but also to save them to share with othe
 - [DropBox](https://www.dropbox.com/): Dropbox is a widely used file hosting service.
 - [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to Dropbox.
 - [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
+- [Proton Drive](https://proton.me/drive): Proton Drive is an ultra-secure cloud storage platform for sharing notes and other important documents. 
 
 ## Managing participant confirmations
 
