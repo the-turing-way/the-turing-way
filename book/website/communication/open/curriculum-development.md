@@ -193,22 +193,22 @@ Additionally, provide diverse training materials, including slides, manuals or h
 ### Characteristics of Adult Learning & Implications for Educators	
 
 * **Adults learn from experiences**
-All new learning for adults is based on what they already know.
-Encourage students to use examples from their previous experience as much as possible: conduct a skills assessment first and then add to it by bringing in other sources of information; never assume that the students do not know anything about the subject matter.
+  All new learning for adults is based on what they already know.
+  Encourage students to use examples from their previous experience as much as possible: conduct a skills assessment first and then add to it by bringing in other sources of information; never assume that the students do not know anything about the subject matter.
 * **Adults learn best from peers**
-Adults learn best from those of similar age and background. Encourage them to share with one another.
+  Adults learn best from those of similar age and background. Encourage them to share with one another.
 * **Adults learn best what is relevant to their lives**
-Adults learn what they want/have time to learn, what they are interested in and what they think will be useful to them in their lives. Use training materials that are relevant to the students and real-world scenarios.
+  Adults learn what they want/have time to learn, what they are interested in and what they think will be useful to them in their lives. Use training materials that are relevant to the students and real-world scenarios.
 * **Adults have solid existing knowledge**
-Adults are likely to have a wealth of experience, skills and ideas. Encourage them to participate fully in the learning process as equals and share what they know.
-Encourage them to take responsibility for their own learning and actions. 
+  Adults are likely to have a wealth of experience, skills and ideas. Encourage them to participate fully in the learning process as equals and share what they know.
+  Encourage them to take responsibility for their own learning and actions. 
 * **Adults learn best through discussions**
-As learners grow older, their powers of observation and reasoning often grow stronger.
-This ability to observe, think and analyse means that in adult or flexible education, all are learners and all are teachers. Try to use discussions as much as possible because it enables adults to be both learners and teachers.
-Lectures and note-taking are less effective.
+  As learners grow older, their powers of observation and reasoning often grow stronger.
+  This ability to observe, think and analyse means that in adult or flexible education, all are learners and all are teachers. Try to use discussions as much as possible because it enables adults to be both learners and teachers.
+  Lectures and note-taking are less effective.
 * **Adults learn best through discovery**
-If an educator teaches only through lectures, then students will probably only remember a fraction of what is said.
-So, creating participatory sessions where students are actively “saying and doing” will help them remember more from the session. 
+  If an educator teaches only through lectures, then students will probably only remember a fraction of what is said.
+  So, creating participatory sessions where students are actively “saying and doing” will help them remember more from the session. 
 
 ## Inclusive Teaching & Learning Sessions
 
