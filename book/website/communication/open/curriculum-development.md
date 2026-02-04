@@ -161,7 +161,7 @@ The study found that such an integrative method significantly improves student e
 Developing effective and meaningful learning programs for adult learners is a challenge for many higher education institutions. 
 Adults learn differently from children and thus, require different teaching methods and approaches. 
 They may also face challenges like financial limitations, preventing them from fully participating in the learning experience. 
-These crucial differences are explored in Adult Learning Theory. Understanding adult learning priciples is fundamental when develping learning outcomes and teaching material for postgradute or flexible learning programs.
+These crucial differences are explored in Adult Learning Theory. Understanding adult learning principles is fundamental when developing learning outcomes and teaching material for postgraduate or flexible learning programs.
 
 According to the U.S. Department of Education (2018), adult learners are aged 25 and older. 
 This definition also applies to the UK and the majority of European countries.
