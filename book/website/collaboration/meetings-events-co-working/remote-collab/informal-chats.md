@@ -1,4 +1,4 @@
-(cl-informal-chats)=
+(cl-mec-remote-informal-chats)=
 # Informal Coffee Chats
 
 When a team is working remotely, they can get together at specific times for "coffee chats".
@@ -6,7 +6,7 @@ These are scheduled in advance so that everyone can plan their work and other me
 The purpose is to share a social break together.
 Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
-```{figure} ../../figures/remote-book-dash.*
+```{figure} ../../../../figures/remote-book-dash.*
 ---
 name: remote-book-dash
 width: 500px
@@ -48,6 +48,6 @@ The purpose of individual coffee chats is to make each other feel supported and 
 
 Once you know what you want the purpose of the coffee chat to be, you can schedule it.
 
-- **Identify the medium**: For online calls, use tools that allow you to have online face to face conversations with others, such as Zoom, Google meet and Facetime. Find recommendation in {ref}`cl-event-tools`.
+- **Identify the medium**: For online calls, use tools that allow you to have online face to face conversations with others, such as Zoom, Google meet and Facetime. Find recommendation in {ref}`cl-mec-event-tools`.
 - **Maintain consistency**: Try to ensure that the times are predictable if not always identical across different days.
 - **Invite people**: Send a calendar invitation to the invited participants so they are reminded to take the break at that time.

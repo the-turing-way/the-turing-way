@@ -610,6 +610,67 @@ project:
     # ===== Guide for Collaboration ========================================
     - file: collaboration/collaboration.md
       children:
+        - file: collaboration/meetings-events-co-working.md
+          title: Meetings, Events, & Co-working
+          children:
+            - file: collaboration/meetings-events-co-working/organising-coding-cafe.md
+              title: Organising Coding Cafes
+            - file: collaboration/meetings-events-co-working/chairing.md
+              title: Chairing Events
+            - file: collaboration/meetings-events-co-working/event-tools.md
+              title: Tools for Facilitating Collaboration
+            - file: collaboration/meetings-events-co-working/hybrid-collab.md
+              title: Hybrid Collaboration
+              children:
+                - file: collaboration/meetings-events-co-working/hybrid-collab/hybrid-collab-challenges.md
+                  title: Challenges faced during Hybrid Collaboration
+                - file: collaboration/meetings-events-co-working/hybrid-collab/hybrid-collab-guidelines.md
+                  title: Guidelines for Hybrid Collaboration
+                - file: collaboration/meetings-events-co-working/hybrid-collab/hybrid-collab-resources.md
+                  title: Resources
+            - file: collaboration/meetings-events-co-working/remote-collab.md
+              title: Remote Collaboration
+              children:
+                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-guidelines.md
+                  title: Guidelines for Remote Collaboration
+                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-prosandcons.md
+                  title: Pros and Cons
+                - file: collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
+                  title: Organising Remote Meetings
+                - file: collaboration/meetings-events-co-working/remote-collab/event-participation.md
+                  title: Participating in Remote Events
+                - file: collaboration/meetings-events-co-working/remote-collab/coworking.md
+                  title: Organising Online Coworking Calls
+                - file: collaboration/meetings-events-co-working/remote-collab/informal-chats.md
+                  title: Informal Coffee Chats
+                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-team.md
+                  title: Managing Distributed Teams
+                - file: collaboration/meetings-events-co-working/remote-collab/remote-collab-useful-resources.md
+                  title: Useful Resources
+            - file: collaboration/meetings-events-co-working/organising-conference.md
+              title: Organising Conferences
+              children:
+                - file: collaboration/meetings-events-co-working/organising-conference/reg-forms.md
+                  title: Registration Forms
+                - file: collaboration/meetings-events-co-working/organising-conference/reg-form-template.md
+                  title: Template for Registration Form
+            - file: collaboration/meetings-events-co-working/ppie-events.md
+              title: Hosting Events with Public Contributors
+              children:
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-planning.md
+                  title: Planning your PPIE Event
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-location.md
+                  title: Location and Venue Planning
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-schedules.md
+                  title: Scheduling and Agenda Considerations
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-comms.md
+                  title: Communication Strategy and Planning
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-socials.md
+                  title: Inclusive Social and Networking
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-tech.md
+                  title: Technology Considerations
+                - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-resources.md
+                  title: Additional Resources
         - file: collaboration/github-novice.md
           title: Getting Started With GitHub
           children:
@@ -634,44 +695,6 @@ project:
               title: Merging Contributions
             - file: collaboration/maintain-review/maintain-review-resources.md
               title: Resources
-        - file: collaboration/organising-meetings.md
-          title: Organising Meetings
-        - file: collaboration/coworking.md
-          title: Organising Online Coworking Calls
-        - file: collaboration/organising-coding-cafe.md
-          title: Organising Coding Cafes
-        - file: collaboration/organising-conference.md
-          title: Organising Conferences
-          children:
-            - file: collaboration/organising-conference/reg-forms.md
-              title: Registration Forms
-            - file: collaboration/organising-conference/reg-form-template.md
-              title: Template for Registration Form
-        - file: collaboration/chairing.md
-          title: Chairing Events
-        - file: collaboration/event-participation.md
-          title: Participating in Events
-        - file: collaboration/ppie-events.md
-          title: Hosting Events with Public Contributors
-          children:
-            - file: collaboration/ppie-events/ppie-events-planning.md
-              title: Planning your PPIE Event
-            - file: collaboration/ppie-events/ppie-events-location.md
-              title: Location and Venue Planning
-            - file: collaboration/ppie-events/ppie-events-schedules.md
-              title: Scheduling and Agenda Considerations
-            - file: collaboration/ppie-events/ppie-events-comms.md
-              title: Communication Strategy and Planning
-            - file: collaboration/ppie-events/ppie-events-socials.md
-              title: Inclusive Social and Networking
-            - file: collaboration/ppie-events/ppie-events-tech.md
-              title: Technology Considerations
-            - file: collaboration/ppie-events/ppie-events-resources.md
-              title: Additional Resources
-        - file: collaboration/informal-chats.md
-          title: Informal Coffee Chats
-        - file: collaboration/event-tools.md
-          title: Tools for Facilitating Collaboration
         - file: collaboration/stakeholder-engagement.md
           title: Facilitating Stakeholder Engagement
         - title: Managing a New Community and Team
@@ -763,26 +786,6 @@ project:
             - file: >-
                 collaboration/research-infrastructure-roles/research-infrastructure-developer.md
               title: Research Infrastructure Developer Overview
-        - file: collaboration/remote-collab.md
-          title: Remote Collaboration
-          children:
-            - file: collaboration/remote-collab/remote-collab-prosandcons.md
-              title: Pros and Cons
-            - file: collaboration/remote-collab/remote-collab-guidelines.md
-              title: Guidelines for Remote Collaboration
-            - file: collaboration/remote-collab/remote-collab-team.md
-              title: Managing Distributed Teams
-            - file: collaboration/remote-collab/remote-collab-useful-resources.md
-              title: Useful Resources
-        - file: collaboration/hybrid-collab.md
-          title: Hybrid Collaboration
-          children:
-            - file: collaboration/hybrid-collab/hybrid-collab-challenges.md
-              title: Challenges faced during Hybrid Collaboration
-            - file: collaboration/hybrid-collab/hybrid-collab-guidelines.md
-              title: Guidelines for Hybrid Collaboration
-            - file: collaboration/hybrid-collab/hybrid-collab-resources.md
-              title: Resources
         - file: collaboration/shared-ownership.md
           title: Shared Ownership in Open Source Projects
           children:
