@@ -244,8 +244,8 @@ Here are some strategies that can be adopted/adapted to create inclusive session
 - [ ] Use **multimodal teaching methods** to cater to learners with diverse backgrounds and capabilities.
 - [ ] **Foster a growth mindset** by encouraging students not to compare themselves with peers and reassuring them they will learn over time.
 - [ ] **Validate challenges faced by students**, acknowledging that data science can be difficult.
-- [ ] **Celebrate small successes** and accomplishments to boost student confidence.</div>
-`````
+- [ ] **Celebrate small successes** and accomplishments to boost student confidence.
+```
 
 ## Summary
 
