@@ -295,7 +295,8 @@ However it is worth noting that this field is constantly evolving, with new reso
 * [Quizalize](https://www.quizalize.com/) is a gaming platform where teachers can turn formative assessment into a fun classroom team game.
   It features detailed class and student-level analytics, helping educators identify who needs help and on what topics.
 
+##  Afterword
 
-_This chapter has been written with members of the Educators community that formed as a result of the Data Science and AI Educators Programme (DSAIEP), which ran at The Alan Turing Institute 
+This chapter has been written with members of the Educators community that formed as a result of the Data Science and AI Educators Programme (DSAIEP), which ran at The Alan Turing Institute 
 between 2022 and 2023. We would like to acknowledge the contributions of the entire community and the programme organisers. Special thanks to Dr Gule Saman, Thao Do and Denise Bianco who have 
-written this chapter, and the reviewers for their valuable comments and support throughout the process._
+written this chapter, and the reviewers for their valuable comments and support throughout the process.
