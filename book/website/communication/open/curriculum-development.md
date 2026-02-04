@@ -1,6 +1,7 @@
 # Lesson & Curriculum Development 
 
 ## Overview
+
 Curriculum development is an ongoing process aimed at finding new and effective ways to provide students with intellectually challenging and personally inspiring learning experiences.
 Determining the appropriate level for students and defining learning outcomes are essential when designing a lesson or curriculum.
 This process varies based on the program of study, such as undergraduate, postgraduate, or flexible learning programs. 
@@ -10,6 +11,7 @@ Frameworks like Bloom's Taxonomy can help educators structure courses to progres
 This chapter will discuss techniques for defining learning outcomes, designing practical and theoretical teaching sessions, outlining learning principles, and examining the characteristics of adult learning and their implications for educators.
 
 ## Defining Learning Outcomes (LOs)
+
 When developing a lesson or curriculum, you need to determine the appropriate level of study, as similar courses can be taught in both undergraduate and postgraduate programs. 
 The complexity of the material and the type of degree will vary and determine the learning outcomes. 
 For example, students specialising in data science will encounter more complex concepts earlier in their studies compared to those students not specialising in data science and taking optional courses later in their programs.
@@ -57,6 +59,7 @@ Any learning, especially Science learning, can be divided into two parts: theore
 It is essential to make both types of sessions engaging for the students to enhance learning, it can be done by incorporating a variety of interactive and dynamic teaching methods, such as multimedia integration, interactive techniques, coding demonstration, personalisation, group work and signposting the lecture contents.
 
 ### Theoretical Sessions
+
 Creating a good theoretical knowledge base for any topic is essential for effective learning and their implementation. 
 
 This process has the following key components:
@@ -72,6 +75,7 @@ Signposting them towards relevant resources, for example, academic papers, books
 It is essential to point the students towards reputable resources or provide a curated list for the whole course while dividing it into themes/topics that align with the course contents.
 
 ### Practical Sessions
+
 To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, capabilities and background of the students is essential. 
 Practical sessions should be integrated into the curriculum and lesson design. 
 
@@ -113,7 +117,6 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 :::{seealso} Case study
 👋 Students use Python tools and ChatGPT APIs to analyse structured and unstructured data [@Tsai2024empowering]. Lesson learnt: The key lies in instructors creating unique assignments that build on students' personal experiences and practical skills to connect with practical experiences, enhancing the effectiveness of each teaching session. Generative AI should be used as a tool and not considered the brain by students and instructors.
 :::
-
 
 **Key elements of active learning in Educational Big Data Analytics** [@Tsai2024empowering]:
 * **Data Acquisition:** Relevant to the problem being solved, considering primary and secondary datsources.
@@ -196,6 +199,7 @@ Based on [Adult Learning Theory](https://research.com/education/adult-learning-t
 Learning styles differ between individuals, and therefore teaching methods should reflect these differences.
 
 As a common starting point, an adult person receives information through three main sensory receivers (all or a combination of them):
+
 * Visual: learning through watching, observing, and reading;
 * Auditory: learning through hearing;
 * Kinesthetic (movement): learning through moving, doing, touching, and practicing.
@@ -307,6 +311,7 @@ acceptable, with higher scores being better).
 * [ColorBrewer 2.0](https://colorbrewer2.org/) offers optimised, contrast-checked, and colorblind-friendly colour schemes for creating clear and accessible teaching materials.
 
 ### Increasing Student Engagement
+
 Educational technology (EdTech) tools are designed specifically to enhance the teaching and learning experience, improve outcomes and increase accessibility, collaboration and engagement 
 amongst students and educators. 
 Following is a list of useful resources. 
