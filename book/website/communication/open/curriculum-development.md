@@ -132,56 +132,28 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 :label: table-training-methods
 :align: center
 
-| Method   | Ideal for                                                                                                 |
-| -------- |:----------------------------------------------------------------------------------------------------------- |
-| **Lectures** | Conveying theoretical information in a short period of time |
-||Briefly introducing a topic through various methods, for example, story telling, solving a puzzle
-||Imparting knowledge
-|**Brainstorming**|Bringing up new ideas on a specific topic
-| |Imparting and sharing participants’ knowledge
-||Exploring opinions on a topic
-||Exploring the application of theoretical concepts (developed in lectures) to real world problems
-||Involving students
-|**Case Studies**|Considering problems based on real-life situations 
-||Critically analysing how real-world problems were solved and providing alternatives	
-||Identifying possible solutions
-||Involving students
-||Engaging students to demonstrate their skill of addressing a problem
-|**Role Plays**|Dramatising a problem or situation
-||Identifying possible solutions
-||Engaging students prior to a discussion
-||Teaching skills
-|**Discussions/Debate**|Imparting and sharing knowledge
-||Exploring opinions on a topic
-||Involving students
-|**Reflection**|Debriefing sessions, whether simple or challenging
-||Checking for understanding (could be used for self-evaluation and evaluation of a group about their understanding of a topic)
-||Ensuring all questions and concerns are covered
-||Engaging students
-|**Parking Lot**|Deferring irrelevant questions or those the educator doesn’t have time to address immediately 
-||Less important questions can be addressed asynchronous via email or course announcement or by sharing relevant resources
-|**Storytelling**|Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous lecture (like a teaser for the session) 
-||Visualising the story by the help of images, infographics,  plots, such as graphs, in illustrating key points
-||Encouraging active participation
-||Providing opportunity for in-depth reflection
-|**Peer Learning**| Senior students presenting their work from the same course they completed when they were at the current students' stage, either as a show-and-tell or for feedback
-||Critical reflection 
-||Promoting a culture of mentorship and continuous learning (learning objectives must be clear and peer engagements structured)
-|**Recordings**| Helping students to revise and review content in detail
-||Fostering inclusivity by providing students who may miss a session or have different learning abilities with the opportunity to catch up
-||In-person student attendance can still be accomplished by refraining from recording class activities
-|**Guest Lectures**| Provide insight into the application of theoretical principles on real-world problems
-||Bridging the academic-industry gap
-||Inspiring students and providing insights into possible career paths
-|**Games** (EdTech)|Practising skills while having fun
-||Allowing real-life application of skills
-||Higher engagement 
-
+| Method                 | Ideal for                                                                                                    |
+| --------               | :----------------------------------------------------------------------------------------------------------- |
+| **Lectures**           | Conveying theoretical information in a short period of time<br/>Briefly introducing a topic through various methods, for example, story telling, solving a puzzle<br/>Imparting knowledge |
+| **Brainstorming**      | Bringing up new ideas on a specific topic<br/>Imparting and sharing participants’ knowledge<br/>Exploring opinions on a topic<br/>Exploring the application of theoretical concepts (developed in lectures) to real world problems<br/>Involving students
+| **Case Studies**       | Considering problems based on real-life situations<br/>Critically analysing how real-world problems were solved and providing alternatives<br/>Identifying possible solutions<br/>Involving students<br/>Engaging students to demonstrate their skill of addressing a problem |
+| **Role Plays**         | Dramatising a problem or situation<br/>Identifying possible solutions<br/>Engaging students prior to a discussion<br/>Teaching skills |
+| **Discussions/Debate** | Imparting and sharing knowledge<br/>Exploring opinions on a topic<br/>Involving students |
+| **Reflection**         | Debriefing sessions, whether simple or challenging<br/>Checking for understanding (could be used for self-evaluation and evaluation of a group about their understanding of a topic)<br/>Ensuring all questions and concerns are covered<br/>Engaging students |
+| **Parking Lot**        | Deferring irrelevant questions or those the educator doesn’t have time to address immediately<br/>Less important questions can be addressed asynchronous via email or course announcement or by sharing relevant resources |
+| **Storytelling**       | Increasing student engagement by starting with a problem narrated as a compelling story. The problem and technique for solving it can be signposted at the end of a previous lecture (like a teaser for the session)<br/>Visualising the story by the help of images, infographics,  plots, such as graphs, in illustrating key points<br/>Encouraging active participation<br/>Providing opportunity for in-depth reflection |
+| **Peer Learning**      | Senior students presenting their work from the same course they completed when they were at the current students' stage, either as a show-and-tell or for feedback<br/>Critical reflection<br/>Promoting a culture of mentorship and continuous learning (learning objectives must be clear and peer engagements structured) |
+| **Recordings**         | Helping students to revise and review content in detail<br/>Fostering inclusivity by providing students who may miss a session or have different learning abilities with the opportunity to catch up<br/>In-person student attendance can still be accomplished by refraining from recording class activities |
+| **Guest Lectures**     | Provide insight into the application of theoretical principles on real-world problems<br/>Bridging the academic-industry gap<br/>Inspiring students and providing insights into possible career paths |
+| **Games** (EdTech)     | Practising skills while having fun<br/>Allowing real-life application of skills<br/>Higher engagement |
 :::
 
 :::{seealso} Case study
 
-👋 Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students. The program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and motivation. This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking. The study found that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education with gamification and real-world challenges.
+👋 Based on four P’s of Creative Learning framework (Projects, Passion, Peers, Play), @Sakulkueakulsuk2018kids outline a novel educational approach using games to teach students.
+The program encourages students to engage in hands-on projects using the RapidMiner software to predict the characteristics of mangoes, utilising gamified elements to enhance learning and motivation.
+This approach not only helps students grasp complex AI concepts through practical application but also promotes creativity, collaboration, and critical thinking.
+The study found that such an integrative method significantly improves student engagement and understanding of interdisciplinary concepts, demonstrating the effectiveness of combining technology education with gamification and real-world challenges.
 :::
 
 ## Adult Learning Principles
@@ -207,27 +179,11 @@ As a common starting point, an adult person receives information through three m
 :label: table-learning-facilitation
 :align: center
 
-| Learning style | Facilitation methods |
-| -------- | -------- | 
-| Learning by sight (**visual**)| Handouts
-||Data visualisation tools such as graph, charts and illustrations for demonstrating techniques;
-||Supplement heavy-text information with illustrations;
-||Use interactive dashboards
-||Use whiteboards
-|Learning by hearing (**auditory**)|Lectures
-||Podcasts and audio resources
-||Verbal explanation of tasks
-||Include aural activities, such as brainstorming and [buzz groups](https://www.linkedin.com/pulse/boosting-collaborative-learning-buzz-groups-sheikh-ammar/)
-||Invite guest speakers from industry 
-||Group discussios and debates
-|Learning by movement (**kinaesthetic**)|Plan activities that get the participants up and moving 
-|| Use coloured markers to emphasise key points on flip charts or whiteboards
-||Have the participants transfer information from the text to another medium, such as flipcharts
-||Live coding/debudding demonstration (from scratch or modifying a small component)
-||Role playing 
-||Gamification
-||Field trips to labs and companies to observe theory in practice
-
+| Learning style                          | Facilitation methods |
+| --------                                | --------             |
+| Learning by sight (**visual**)          | Handouts<br/>Data visualisation tools such as graph, charts and illustrations for demonstrating techniques;<br/>Supplement heavy-text information with illustrations;<br/>Use interactive dashboards<br/>Use whiteboards |
+| Learning by hearing (**auditory**)      | Lectures<br/>Podcasts and audio resources<br/>Verbal explanation of tasks<br/>Include aural activities, such as brainstorming and [buzz groups](https://www.linkedin.com/pulse/boosting-collaborative-learning-buzz-groups-sheikh-ammar/)<br/>Invite guest speakers from industry<br/>Group discussions and debates |
+| Learning by movement (**kinaesthetic**) | Plan activities that get the participants up and moving<br/>Use coloured markers to emphasise key points on flip charts or whiteboards<br/>Have the participants transfer information from the text to another medium, such as flipcharts<br/>Live coding/debudding demonstration (from scratch or modifying a small component)<br/>Role playing<br/>Gamification<br/>Field trips to labs and companies to observe theory in practice |
 :::
 
 Each of these sensory channels corresponds to specific teaching methods and techniques (see [](#table-learning-facilitation)). 
