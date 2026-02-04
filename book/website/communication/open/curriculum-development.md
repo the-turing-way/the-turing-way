@@ -69,8 +69,7 @@ theories related to the topic, ensuring that the learners grasp the essential pr
 The explanation should be clear and concise, supported by relevant examples preferably real world to which the students can relate to.
 These concepts can be demonstrated through a dataset that is provided at the start of the course and examined when each component is being studied.
 These datasets can be opensource data or mock data that is generated specifically for this purpose.
-
-3. **Signposting Advanced Resources**: Students can have different levels of learning and interests on a topic.
+1. **Signposting Advanced Resources**: Students can have different levels of learning and interests on a topic.
 Signposting them towards relevant resources, for example, academic papers, books, online resources or expert talks is useful.
 It is essential to point the students towards reputable resources or provide a curated list for the whole course while dividing it into themes/topics that align with the course contents.
 
@@ -265,20 +264,20 @@ It is important to be aware of the group's demographics, including differences i
 Here are some strategies that can be adopted/adapted to create inclusive sessions:
 
 1. **Develop Self-Awareness and Empathy** 
-Educators should reflect on their own backgrounds and experiences, understanding how these impact their assumptions and interactions with students.
-Building empathy by engaging with students, showing them that they matter, and demonstrating a genuine desire to understand their unique perspectives is crucial for the course.
-3. **Create a Welcoming Learning Environment**
-Establish a space where students feel welcomed, respected, and valued.
-This can be achieved by creating an environment of mutual respect, encouraging collaboration and positive peer interactions, implementing a code of conduct, and working to inhibit stereotyping.
-5. **Select Appropriate Teaching Methods**
-Choose teaching methods suited to the diverse group being taught.
-Design activities that consider the factors identified in 1 (develop self-awareness and empathy), ensuring students feel a sense of belonging, see improvement in their competencies, and develop an interest in the course.
-For example: lectures can be recorded for students who are unable to attend a session or need more time to understand a specific topic at their pace.
-However, to prevent a decline in attendance due to the availability of recorded content, interactive activities should not be recorded.
-This encourages students to attend lectures and emphasises the value of participating in these activities for a more comprehensive learning experience.
-7. **Collaborate with Academic Colleagues**
-Work with other academics in the field to develop and share practices that maximize inclusion.
-Inclusivity is a community-wide effort.
+  Educators should reflect on their own backgrounds and experiences, understanding how these impact their assumptions and interactions with students.
+  Building empathy by engaging with students, showing them that they matter, and demonstrating a genuine desire to understand their unique perspectives is crucial for the course.
+1. **Create a Welcoming Learning Environment**
+  Establish a space where students feel welcomed, respected, and valued.
+  This can be achieved by creating an environment of mutual respect, encouraging collaboration and positive peer interactions, implementing a code of conduct, and working to inhibit stereotyping.
+1. **Select Appropriate Teaching Methods**
+  Choose teaching methods suited to the diverse group being taught.
+  Design activities that consider the factors identified in 1 (develop self-awareness and empathy), ensuring students feel a sense of belonging, see improvement in their competencies, and develop an interest in the course.
+  For example: lectures can be recorded for students who are unable to attend a session or need more time to understand a specific topic at their pace.
+  However, to prevent a decline in attendance due to the availability of recorded content, interactive activities should not be recorded.
+  This encourages students to attend lectures and emphasises the value of participating in these activities for a more comprehensive learning experience.
+1. **Collaborate with Academic Colleagues**
+  Work with other academics in the field to develop and share practices that maximize inclusion.
+  Inclusivity is a community-wide effort.
 
 ```{hint} Checklist for creating an inclusive environment
 :class: dropdown
