@@ -17,8 +17,12 @@ You can use the random name generator website [behindthename.com](https://www.be
 
 ```{figure} ../../../../figures/persona-creation.png
 ---
-name: persona-creation
-alt: Persona Canvas by DESIGNBETTERBUSINESS.COM - A simple cartoon-like human figure is outlined at the center with a heart symbol on the chest. Around the figure are nine numbered circles, each linked to a labelled area. Bottom center is space for the persona’s name and role (1), information (2) and core needs (3). The left side of the canvas is for "Negative Trends" (7), illustrated by a cloud, and includes: (8) “Headaches” for professional/work-related issues, and “Fears” at the bottom (9). The right side is for “Positive Trends” (4), illustrated by a sun icon, and includes “Opportunities” for professional and work-related positive outcomes (5), and “Hopes” (6) for personal goals and hopes. 
+name: fig-persona-creation
+alt: >
+  Persona Canvas by DESIGNBETTERBUSINESS.COM - A simple cartoon-like human figure is outlined at the center with a heart symbol on the chest.
+  Around the figure are nine numbered circles, each linked to a labelled area.
+  Bottom center is space for the persona’s name and role (1), information (2) and core needs (3). The left side of the canvas is for "Negative Trends" (7), illustrated by a cloud, and includes: (8) “Headaches” for professional/work-related issues, and “Fears” at the bottom (9).
+  The right side is for “Positive Trends” (4), illustrated by a sun icon, and includes “Opportunities” for professional and work-related positive outcomes (5), and “Hopes” (6) for personal goals and hopes. 
 ---
 Hand-drawn style image titled "Persona Canvas" by [DESIGNBETTERBUSINESS.COM](https://www.designabetterbusiness.tools/tools/persona-canvas). This image is available under the CC-BY-SA 4.0 license
 ```
@@ -131,7 +135,7 @@ This section will reflect on fears and personal issues that your persona may fac
 
 The persona canvas can be used to assemble all your responses in one place, share this tangible information of your mental model (abstract concepts from our thoughts) with your colleagues and create a common language to communicate about your community members, users, and contributors.
 
-The [https://www.designabetterbusiness.tools](https://www.designabetterbusiness.tools) have created multiple persona canvases (one is shown in the figure above) which are available for reuse under CC-BY ShareAlike 4.0 License, which can be downloaded [here](https://www.designabetterbusiness.tools/tools/persona-canvas).
+The [https://www.designabetterbusiness.tools](https://www.designabetterbusiness.tools) have created multiple persona canvases (one is shown in [](#fig-persona-creation)) which are available for reuse under CC-BY ShareAlike 4.0 License, which can be downloaded [here](https://www.designabetterbusiness.tools/tools/persona-canvas).
 
 ## Examples of personas in _The Turing Way_ community
 
