@@ -50,7 +50,7 @@ Each comes with benefits and drawbacks.
 Too niche, and you are catering to a very small potential audience, while being too generic may not engage people to join.
 It will be harder to create the feeling of community if there is a lack of focus (but perhaps the goal is to distribute knowledge rather than create a community).
 There is no correct answer.
-The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-organising-cafes-audience)).
+The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-mec-organising-cafes-audience)).
 
 ### Programming languages
 
