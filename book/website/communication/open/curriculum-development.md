@@ -16,7 +16,7 @@ For example, students specialising in data science will encounter more complex c
 
 Once the program and its requirements (program learning outcomes) are known, the year of study provides an indication of the level of study. 
 With this context set, you can move on to specifics about the course, such as the **course learning outcomes** and the level of competency expected by the end of the course. 
-These outcomes can be developed using **Bloom's Taxonomy** [Figure 1](#effective-learning-outcomes), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and
+These outcomes can be developed using [Bloom's Taxonomy](#effective-learning-outcomes), where earlier courses on a program focus more on remembering and understanding information, while later courses move towards evaluating, analysing and creating new methods and
 knowledge. 
 
 ```{figure} ../../../figures/effective-learning-outcomes.*
@@ -33,7 +33,7 @@ alt: >
 _System for Developing Effective Learning Outcomes for Curriculum or Lessons._ Image created by Gule Saman building on John Biggs and Benjamin Bloom's work. Used under a CC-BY 4.0 license.
 ```
 
-The learning outcomes can be developed using the helpful list of verbs given in [Figure 2](#blooms-taxonomy-verbs). 
+The learning outcomes can be developed using the helpful list of verbs given in [](#blooms-taxonomy-verbs). 
 The LOs provide a broad overview of the course. Next, identify how you will assess the students, considering the frequency and mode of assessment, alongside how you intend to provide feedback and the frequency of providing feedback. 
 At this point, you can collect evidence of previous learning to improve course delivery for future iterations. 
 Once the learning outcomes and assessments have been defined, draft a plan for the **teaching** and **learning techniques** to be used for the course. It is very crucial to ensure that the outcomes of the processes and course are equitable, equity should be considered from the start and not introduced as an afterthought.
@@ -75,7 +75,7 @@ It is essential to point the students towards reputable resources or provide a c
 To make learning more effective and interactive demonstrating the application of the theoretical concepts is useful, designing the practical sessions according to the demographics, capabilities and background of the students is essential. 
 Practical sessions should be integrated into the curriculum and lesson design. 
 
-There are different teaching methdos that can be used to deliver practical sessions [Table 1](#table). 
+There are different teaching methods that can be used to deliver practical sessions, some of which are summarised in [](#table-training-methods). 
 For example, for shorter sessions (1-hour) you can use **[flipped learning](https://www.advancehe.ac.uk/knowledge-hub/flipped-learning-0)** to maximise the efficiency of the learning process. 
 Choosing flipped learning would depend on the demographics and preference of a cohort.
 Depending on the feasibility and preferences various forms of study material can be provided, for example, pre-recorded short lecture, reading material, provision of skeleton code that will be discussed or modified during the session. 
@@ -88,9 +88,9 @@ The in-class time should be dedicated to discussion, problem-solving, Q&A and ha
 - [ ] Learning outcomes of the course/session
 - [ ] Revisit outcomes to help students track their progress
 - [ ] Understand the practical application of the learning
-- [ ] Identify the learning styles to be used: 1. Visual, 2. Auditory and 3. Kin-aesthetic [Table 2](#table2)
+- [ ] Identify the learning styles to be used: 1. Visual, 2. Auditory and 3. Kin-aesthetic (see [](#table-learning-facilitation))
 - [ ] Identify the mode of student engagement: 1. lecture, 2. brainstorming, 3. case studies, 4. role plays, 5. discussions, 6. reflection, 7. parking lot, 8. storytelling, 9. recordings, 10. guest
-lecture, 11. peer learning  and 12. gamification [Table 1](#table)</div>
+lecture, 11. peer learning  and 12. gamification (see [](#table-training-methods))
 ```
 
 ### Passive Learning vs Active Learning 
@@ -127,7 +127,7 @@ In active learning methods, emphasis is placed on autonomy, cooperation, respons
 * **Inquiry-Based Learning:** Encouraging students to actively ask questions and seek answers, promoting curiosity and self-directed learning.
 
 :::{table} Training methods and their applications. Adapted from Abrams, D.M. and Mahar-Piersma, C. (2010) Methods in Training in Training for the Non-Trainer: Tips and Tools. Center for Applied Linguistics. [Accessed on 15/12/2025 at this link](https://ncdacredentialing.org/aws/NCDA/asset_manager/get_file/152143?ver=1189*).
-:label: table
+:label: table-training-methods
 :align: center
 
 | Method   | Ideal for                                                                                                 |
@@ -201,7 +201,7 @@ As a common starting point, an adult person receives information through three m
 * Kinesthetic (movement): learning through moving, doing, touching, and practicing.
 
 :::{table} *Facilitation methods for different Learning Styles.*
-:label: table2
+:label: table-learning-facilitation
 :align: center
 
 | Learning style | Facilitation methods |
@@ -227,9 +227,9 @@ As a common starting point, an adult person receives information through three m
 
 :::
 
-Each of these sensory channels corresponds to specific teaching methods and techniques [Table 2](#table2). 
+Each of these sensory channels corresponds to specific teaching methods and techniques (see [](#table-learning-facilitation)). 
 Therefore, the aim should be to incorporate a blend of methods rather than focusing on just one style of teaching. For instance, use a variety of instructional methods such as lectures, discussions, role-plays (which can be particularly effective for teaching data ethics concepts),  and practical exercises (for example, quizzes, brainstorming sessions). 
-Additionally, provide diverse training materials, including slides, manuals or handouts, and videos, to accommodate different learning preferences [Table 1](#table).
+Additionally, provide diverse training materials, including slides, manuals or handouts, and videos, to accommodate different learning preferences (see [](#table-training-methods)).
  
 ### Characteristics of Adult Learning & Implications for Educators	
 
