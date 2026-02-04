@@ -113,7 +113,7 @@ usethis::create_package("/RDemoPackage")
 ```
 
 Create a `.R` file in the R/ subdirectory and write a function to convert from degrees Celsius to Kelvin.
-Notice that we have some code comments in the preamble that will get used to render a markdown file for the documentation (we use `roxygen2` for this).
+Notice that we have some code comments in the preamble that will get used to render a {term}`Markdown` file for the documentation (we use `roxygen2` for this).
 
 ```bash
 
@@ -150,7 +150,7 @@ celsius_to_kelvin <- function(temp_C) {
 }
 ```
 
-We also used the `assert_that()` function from the `assertthat` package that allows us to unit test within functions in R. In this case we don't allow the user to input a temperature of below -89.2 degrees C. We then use the document() function from the `roxygen2` package to automatically render documentation in the form of a markdown file based on the comments at the top of the function file.
+We also used the `assert_that()` function from the `assertthat` package that allows us to unit test within functions in R. In this case we don't allow the user to input a temperature of below -89.2 degrees C. We then use the document() function from the `roxygen2` package to automatically render documentation in the form of a {term}`Markdown` file based on the comments at the top of the function file.
 
 ```r
 document()

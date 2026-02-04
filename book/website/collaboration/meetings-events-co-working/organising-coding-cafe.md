@@ -1,87 +1,106 @@
 (cl-mec-organising-coding-cafe)=
 # Organising a Programming  CAFE
 
-A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
+A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers and those interested in starting programming - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
+
+For both participants and organizers, a programming CAFE offers a fun and welcoming way to explore coding. At the same time, organising recurring events can be challenging, especially if the organisers do not have the event management background - most of us don't.
+That is why a group of CAFE organisers from different Dutch institutions came together to create a [CAFE Playbook](https://code-cafes-nl.github.io/cafe_playbook/): an online guide, where you can find detailed information on how to organise a CAFE, as well as resources that help you with the organisation.
+This chapter is a summary of the playbook with the most essential information. 
 
 
-## Why a programming CAFE?
+## Why start a programming CAFE?
 
-Programming has become an essential skill for many fields, including research. 
-However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. 
-That’s where a programming CAFE or community can make a significant difference. 
-Here are some reasons why you might want to consider starting a programming community in your university:
+Programming has become an essential skill for many fields of research. 
+However, learning to code can feel challenging and at times isolating - especially for beginners. 
+That’s where a programming CAFE community can make a significant difference.
+Here's why you might want to consider starting a programming community in your institution:
 
-### Build a supportive community
-
-Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference.
-A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.
-
-### Foster collaboration and knowledge-sharing
+- **Share the burden of learning**
 
 Programming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing.
 By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.
 
-### Provide access to resources and opportunities
+- **Discover what you don't know**
+
+You don't know what you don't know - but others might.
+Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference.
+A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.
+
+- **Access resources and opportunities faster**
 
 A programming community like CAFE can also provide access to resources and opportunities that might otherwise be difficult to find. For example, members of the community might share job or internship opportunities, recommend useful tools and libraries, or organize coding workshops and hackathons.
 
-### Promote diversity and inclusion
+- **Give a head start for those who need it**
 
-By actively promoting diversity and inclusion, a programming community like CAFE can help create a more welcoming and supportive environment for all researchers, regardless of their background or level of experience.
+Researchers have different disciplinary backgrounds and programming experience.
+For some starting to code feels intimidating.
+It's not surprising, the programming world is often portrayed as highly competitive, male-dominated and full of tech jargon. 
+A well-strcutured programming CAFE can help demystify coding and turn it into practical, approachable research tool.
+
+- **Have fun, together**
+
+Coding doesn’t have to be solitary or stressful.
+When done together, programming, and making and errors, debugging, failing and trying again can be rewarding, or even fun experience, rather than a daunting and demotivating task.
 
 
-## Types of working CAFEs that work for you
+## What is a programming CAFE?
 
-A programming CAFE will vary depending on the needs and interests of the community. Here are some things to consider when defining the focus of your programming CAFE:
+A programming CAFE can take on many forms, ranging from the niche application of a specific language in a specific field of research, to a language agnostic CAFE providing content to users of all skill levels.
+Each comes with benefits and drawbacks.
+Too niche, and you are catering to a very small potential audience, while being too generic may not engage people to join.
+It will be harder to create the feeling of community if there is a lack of focus (but perhaps the goal is to distribute knowledge rather than create a community).
+There is no correct answer.
+The key is to explore the wants and needs of the community (see [Who is the target audience?](#cl-organising-cafes-audience)).
 
 ### Programming languages
 
-A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language-independent. 
-For example, you might start a CAFE that focuses exclusively on Python, or you might create a more broader CAFE that covers several programming languages such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.
-
-### Skill level
-
-Another factor to consider when defining the focus of your programming CAFE is the skill level of potential participants. 
-You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers. 
-Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+A programming CAFE can be focused on a single programming language, cater to multiple languages, or be language agnostic.
+For example, you might start a CAFE that focuses exclusively on Python, or you might create a broader CAFE that covers several programming languages such as Python, R, and MATLAB.
 
 ### Research applications
 
 Finally, you might choose to define the focus of your programming CAFE based on specific research applications.
-For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research.
-The focus on research applications will depend on the interests and needs of the community.
+For example, you might start a CAFE focused on R for genomics, or one that is dedicated analysing survey data.
+A more general example is a CAFE focusing on reproducibility of research.
+
 
 (cl-mec-organising-cafes-audience)=
 
-## Choose your target audience
+## Who is the target audience?
 
-The CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience.
-Here are some examples of personas who might benefit from participating in the community:
+Knowing your (intended) audience is key to providing content that will engage them and get them to actually turn up to events.
 
-### The beginner programmer
+### Skill levels and motivation
+
+You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers.
+Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+The motivation of participants may be very different, even within skill levels.
+The beginner programmer might just be interested in solving a problem in their research, or they have caught the programming bug (pun intended) and want to know more about the inner workings of programming.
+
+#### The beginner programmer
 
 The beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools.
 They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research.
-They might have followed a Introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged.
-The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
+They might have followed a generic introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged.
+A CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.
 
-### The advanced programmer
+#### The advanced programmer
 
-The advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages.
+The advanced programmer has already developed a strong skill set in one or more programming languages.
 They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software.
-The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
+A CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.
 
-### The interdisciplinary researcher
+#### The interdisciplinary researcher
 
-The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. 
+The interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions.
 They might have a basic understanding of programming concepts but lack the technical skills to implement them.
-The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
+A CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.
 
-### The data specialist
+#### The data specialist
 
 The data specialist is a researcher or support staff who specializes in working with datasets.
 They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others.
-The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.
+A CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.
 
 ## What to consider before launching a CAFE?
 

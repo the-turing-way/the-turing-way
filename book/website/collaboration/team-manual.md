@@ -184,6 +184,7 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 * Non-scientific approaches to internal collaboration: [Oxide's Request-for-discussion process template](https://oxide.computer/blog/rfd-1-requests-for-discussion), modelled after the original spirit of the [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) process
 * [Open Science Team Agreements](https://zenodo.org/doi/10.5281/zenodo.7154100)
 * [Team Manual Template](https://docs.google.com/document/d/1LqGdtHg0dMbj9lsCnC1QOoWzIsnSNRTSek6i3Kls2Ik/edit)
+* [Lab manuals for efficient and high quality science in a happy and safe work environment](https://osf.io/gtn63) {cite:ps}`Kovacs2024labmanual`
 
 ## Credit
 This summary is based on an [X (formerly Twitter) Thread by \@samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 

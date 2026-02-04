@@ -4,7 +4,7 @@
 This subchapter provides information on the events that are organised for the book dash attendees.
 These events include a pre-event webinar for information, onboarding calls, GitHub introduction, contribution sessions during the Book Dash and Community Share-Outs, which are explained below.
 
-_The Turing Way_ participation guidelines, [Code of Conduct](https://book.the-turing-way.org/community-handbook/coc.html) and [Contribution guideline](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
+_The Turing Way_ participation guidelines, [Code of Conduct](https://book.the-turing-way.org/community-handbook/coc.html) and [Contribution guideline](#ch-contributing) apply to all these events:
 
 ## Pre-event calls
 
@@ -34,7 +34,7 @@ One week before the Book Dash, 2-3 members from the planning committee will host
 
 At this call, participants will learn how to:
 - create a new repository
-- create a (README) file: introduction to Markdown
+- create a (README) file: introduction to {term}`Markdown`
 - submit changes (to _The Turing Way_) via a Pull Request (PR)
 - see how to review PRs or create issues
 
@@ -73,7 +73,7 @@ If hosting an in-person event, the core team members will plan a dinner or socia
 ### Reporting and documentation
 
 At the end of each day, participants can gather all their contributions on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes.
-Specifically, during the last contribution session, they will be asked to add their details to the [contributors](https://github.com/the-turing-way/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
+Specifically, during the last contribution session, they will be asked to add their details to the [individual contributors record](#contributors-record-individual) and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
 This will help the planning committee to collect notes for their final report and improve future events.
 
 ### Community Share-outs & Contributor Celebration

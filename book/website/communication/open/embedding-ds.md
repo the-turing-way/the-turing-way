@@ -180,7 +180,7 @@ Examples include:
 * **Data challenges**: Mini group competitions where students predict outcomes based on given datasets, which are then discussed in class to learn from various approaches. When teaching in
   multidisciplinary settings, the challenges should be situated in the disciplinary domain that is most familiar to students.
 
-### Differentiated Instruction*
+### Differentiated Instruction
 
 Differentiated Instruction is a method that considers students’ individual learning styles and levels of readiness before designing a lesson plan @tomlinson2017differentiate.
    Differentiated instruction sits between “single-size” instruction and individualised instruction, involving proactive planning of various ways for students to express their learning.
@@ -207,3 +207,9 @@ be. It is important not to take students’ existing knowledge and specific expe
 formative assessment and differentiated instruction, combined with a blend of methods to cater to different learning styles, can support the design of teaching content and the adjustment of
 material according to students’ needs. Collaborative learning is also an effective way to engage students, leverage their existing knowledge, and foster a supportive environment for rich
 exchanges and co-development.
+
+## 
+_This chapter has been developed with members of the Educators community that formed as a result of the Data Science and AI Educators Programme 
+(DSAIEP), which ran twice at The Alan Turing Institute between 2022 and 2023. We would like to acknowledge the contributions of the entire community 
+and the programme organisers. Special thanks to Denise Bianco and Dr Gule Saman who have written this chapter, and the reviewers for their valuable 
+comments and support throughout the process._

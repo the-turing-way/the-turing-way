@@ -104,7 +104,7 @@ which renders as,
 
 and can be references with `[](#example-table)` [](#example-table).
 
-You can read about other ways to write tables in the [MyST Markdown documentation](https://mystmd.org/guide/tables).
+You can read about other ways to write tables in the [MyST Markdown documentation](xref:myst-guide/tables).
 
 (ch-style-blocks-code)=
 ## Code and literal text
@@ -124,7 +124,7 @@ renders as,
 hello
 ```
 
-You can ensure that any code (or Markdown) chunks you have in the guide have the code syntax highlighted by mentioning the language in question.
+You can ensure that any code (or {term}`Markdown`) chunks you have in the guide have the code syntax highlighted by mentioning the language in question.
 As an example, if you want to have some R code, when you open the chunk with three backticks you can add the language name immediately after it,
 
 ````

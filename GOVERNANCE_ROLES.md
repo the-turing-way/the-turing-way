@@ -99,39 +99,3 @@ You can request contact information through the project members above, or tag th
 | Alex Morley ([alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | Volunteer Member |  Nov 2018 - June 2019  |
 | Anna Krystalli ([annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer, Project Delivery Member | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly ([martintoreilly](https://github.com/martintoreilly)) | Advisor | Volunteer Member | Nov 2018 - Mar 2019 |
-
-### Recognising All Contributors
-
-Our barrier for entry to participate in _The Turing Way_ is very low.
-
-*_The Turing Way_* uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
-
-| Emoji | Represents                                                                  |
-|:------|:----------------------------------------------------------------------------|
-| 💬    | Answering Questions (on gitter, GitHub, or in person) |
-| 🐛    | Bug reports                                                                 |
-| 📝    | Blogposts                                                                   |
-| 💻    | Code                                                                        |
-| 📖    | Documentation and specification                                             |
-| 🎨    | Design                                                                      |
-| 💡    | Examples                                                                    |
-| 📋    | Event Organizers                                                            |
-| 💵    | Financial Support                                                           |
-| 🔍    | Funding/Grant Finders                                                       |
-| 🤔    | Ideas & Planning                                                            |
-| 🚇    | Infrastructure (Hosting, Build-Tools, etc)                                  |
-| 🔌    | Plugin/utility libraries                                                    |
-| 👀    | Reviewed Pull Requests                                                      |
-| 🔧    | Tools                                                                       |
-| 🌍    | Translation                                                                 |
-| ⚠️     | Tests                                                                       |
-| ✅    | Tutorials                                                                   |
-| 📢    | Talks                                                                       |
-| 📹    | Videos                                                                      |
-
-If you have contributed in any of the ways above then please ask one of the collaborators in *_The Turing Way_* to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
-
-For details on how we acknowledge different contributions made in _The Turing Way_, please read the chapter on [Acknowledging Contributors](https://book.the-turing-way.org/community-handbook/acknowledgement) in the Community Handbook.
-
-***Thank you for contributing substantially to _The Turing Way_!*** We value your thoughtful participation and contributions to _The Turing Way_! :hibiscus::sunflower::rocket::star2:
-
