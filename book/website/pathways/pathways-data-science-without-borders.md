@@ -84,14 +84,14 @@ label: pathway-data-science-without-borders
         - item: ../community-handbook/translation/translation-localisation.md
 - item: ../collaboration/collaboration.md
   children:
-    - item: ../collaboration/remote-collab.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab.md
     - item: ../collaboration/github-novice.md
     - item: ../collaboration/maintain-review.md
-    - item: ../collaboration/organising-meetings.md
-    - item: ../collaboration/coworking.md
-    - item: ../collaboration/organising-conference.md
-    - item: ../collaboration/chairing.md
-    - item: ../collaboration/event-tools.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/coworking.md
+    - item: ../collaboration/meetings-events-co-working/organising-conference.md
+    - item: ../collaboration/meetings-events-co-working/chairing.md
+    - item: ../collaboration/meetings-events-co-working/event-tools.md
     - item: ../collaboration/collaboration.md
     - item: ../collaboration/shared-ownership.md
     - item: ../collaboration/team-manual.md
