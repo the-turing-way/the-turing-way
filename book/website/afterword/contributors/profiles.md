@@ -725,8 +725,8 @@ github: EstherPlomp
 orcid: 0000-0003-3625-1357
 bio: |
     I'm a Researcher at the University of Aruba, Research Center.
-    Before this, I was a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, supporting researchers with their data management and open science practices. 
-    For my PhD research, I analysed human teeth for their isotopic/chemical composition to say something about human mobility patterns (fields of forensics, archaeology, osteology). 
+    Before this, I was a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, supporting researchers with their data management and open science practices.
+    For my PhD research, I analysed human teeth for their isotopic/chemical composition to say something about human mobility patterns (fields of forensics, archaeology, osteology).
     Next to the Turing Way I'm also involved with other teams, such as the [Open Research Calendar](https://openresearchcalendar.org/), [IsoArcH](https://isoarch.eu/) and [OLS](https://we-are-ols.org/).
     I'm also interested in anything related to physical samples in research, and I'm a co-chair of the [Research Data Alliance Physical Samples Interest Group](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
 highlights: |
@@ -1903,7 +1903,7 @@ more: |
 :::{profile} Thao Do
 ---
 roles:
-    Book Dash participant  (June 2024) 
+    Book Dash participant (June 2024)
 github: ThaoDo02
 orcid: 0000-0002-0015-892X
 bio: |
@@ -1915,7 +1915,6 @@ quote: |
 
 ---
 :::
-
 
 :::{profile} Tim Powell
 ---
