@@ -12,25 +12,8 @@ As a result, accessibility to your data is affected by the data license you choo
 (rr-licensing-data-cc)=
 ## Creative Commons Licenses
 
-Creative Commons or CC provides a number of licenses that can be used with a wide variety of creations that might otherwise fall under copyright restrictions, including music, art, books and photographs.
-Although not tailored for data, CC licenses can be used as data licenses because they are easy to understand.
-Its website includes a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with simple visual symbols.
-
-(rr-licensing-data-cc-permissions)=
-### Permission Levels
-
-The permission level provided by a Creative Commons data license can be understood from its name, which is a combination of two-letter "permission marks".
-The only exception to this naming scheme is CC0, which will be introduced in the next section.
-
-|**Permission Mark**|**What can I do with the data?**
-|---|---|
-BY | Creator must be credited
-SA | Derivatives or redistributions must have identical license
-NC | Only non-commercial uses are allowed
-ND | No derivatives are allowed
-
-
-For example, the CC BY-ND license specifies that users must credit the creator of the data and cannot create any derivatives.
+CC licenses, although not tailored for data, can be used as data licenses in some cases, such as CC0 for public domain data.
+The Creative Commons website provides a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with visual symbols as discussed in {ref}`rr-licensing-documentation`.
 
 (rr-licensing-data-cc-cc0)=
 ### Dedicating Your Work to the Public with CC0
