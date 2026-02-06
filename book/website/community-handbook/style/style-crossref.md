@@ -2,7 +2,7 @@
 
 # Cross-Referencing Sections and Chapters
 
-We recommend using targets as described in the [MyST Markdown documentation](https://mystmd.org/guide/cross-references#targets-and-labels-for-referencing).
+We recommend using targets as described in the [MyST Markdown documentation](xref:myst-guide/cross-references#targets-and-labels-for-referencing).
 These look like `(my-label)=`, where `my-label` is the label of the target.
 It is a flexible system which allows you to label many elements of a document including files, headings, lists, figures and even paragraphs.
 
@@ -23,7 +23,7 @@ To add a label for a section or a chapter/subchapter, use a syntax of the follow
 ```
 
 There are a number of ways to reference a label.
-These are described in the [Myst Markdown documentation](https://mystmd.org/guide/cross-references#reference-syntax).
+These are described in the [Myst Markdown documentation](xref:myst-guide#link-references).
 We prefer the short syntax, which will automatically generate the link text.
 These cross references look like `[](#ch-style-crossref)`, which renders as [](#ch-style-crossref).
 You can change the link text by writing in the first set of square brackets.
@@ -31,7 +31,7 @@ For example, `[My custom cross-reference](#ch-style-crossref)` renders as [My cu
 Other styles can be used if you want to customise the link text or use another style.
 
 You will also see references using the older roles like ``{ref}`my-label` `` in the book.
-Cross-references using this style will still work but are not prefered.
+Cross-references using this style will still work but are not preferred.
 
 ## _The Turing Way_ naming convention for labels
 

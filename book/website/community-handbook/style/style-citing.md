@@ -1,7 +1,7 @@
 (ch-style-citing)=
 # Citing and Referencing
 
-In MyST Markdown you can make citations in two ways, using DOIs or the bibliography.
+In [MyST Markdown](xref:myst-guide) you can make citations in two ways, using DOIs or the bibliography.
 If you want to cite an article with a DOI, you can use a [DOI link](https://mystmd.org/guide/citations#doi-links).
 We maintain a centralised [BibTeX](http://www.bibtex.org/) bibliography file containing references.
 The bibliography file is located in the book repository, [`./book/website/references.bib`][turingbib].
@@ -15,8 +15,9 @@ Note that this _only_ works for the `doi.org` url and not, for example, a `zenod
 You can also let MyST create a citation string using the DOI string and the prefix `doi:`.
 For example, `[](doi:10.5281/zenodo.15213042)` renders as [](doi:10.5281/zenodo.15213042).
 
-You can read more about DOI links in the [MyST Markdown documentation](https://mystmd.org/guide/citations#doi-links).
+You can read more about DOI links in the [MyST Markdown documentation](xref:myst-guide#doi-links).
 
+(ch-style-citing-bibliography)
 ## Bibliography
 
 ### BibTeX file basics
@@ -76,11 +77,11 @@ For example, `@baker2016reproducibility` renders as @baker2016reproducibility.
 You can cite multiple items at once by separating them with semi-colons and enclosing them in square brackets.
 For example, `[@baker2016reproducibility; @Markowetz2015]` renders as [@baker2016reproducibility; @Markowetz2015].
 
-You can read more about the markdown citation syntax in the [MyST Markdown documentation](https://mystmd.org/guide/citations#markdown-citations).
+You can read more about the markdown citation syntax in the [MyST Markdown documentation](xref:myst-guide/citations#markdown-citations).
 
 ### Sphinx-style Citation Roles
 
-MyST also support the older style of [citation role](https://mystmd.org/guide/citations#citation-roles) used in Jupyter Book v1.
+MyST also support the older style of [citation role](xref:myst-guide/citations#citation-roles) used in Jupyter Book v1.
 These are not preferred for new citations, but you may see existing citation in this style in the book.
 
 [turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/references.bib

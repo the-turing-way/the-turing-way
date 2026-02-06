@@ -79,7 +79,7 @@ They are confident that their research has taught them some particular considera
 3. **Participation** - Later, Noor returns to _The Turing Way_ and makes some suggestions and edits to that chapter.
 4. **Sustained Participation** - They return to the repo periodically to read feedback on their commits and make additional comments, restricted to the one chapter they feel they know about.
 5. **Networked Participation** - Noor tweets a link to _The Turing Way_ during a conversation about reproducible research and retweets a response from another expert which leads to a longer conversation.
-6. **Leadership** - After submitting their PhD, and unsure what they want to do next, Noor volunteers to co-ordinate further research into the chapter by reaching out to experts in the space.
+6. **Leadership** - After submitting their PhD, and unsure what they want to do next, Noor volunteers to coordinate further research into the chapter by reaching out to experts in the space.
 
 ### 5. Robin, a Data Scientist in industry
 
@@ -95,10 +95,8 @@ They attend online webinars and watch videos on Youtube in their spare time to l
 6. **Leadership** - Robin gives a lightning talk at a London tech event about GitHub Actions and her contributions to _The Turing Way_. She praises the inclusiveness of the project and invites more industry experts to check out the resource and open issues on topics that they can contribute to or would like to learn more about.
 
 If the personas described here do not reflect your experience, and if getting involved with The Turing Way or using its resource are challenging in any way for you, please open an issue or get in contact on our [Slack channel](https://theturingway.slack.com/) letting us know what your persona or pathway might look like!
-This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/the-turing-way/the-turing-way/blob/main/README.md) and [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) to make it more relatable and usable for the wider community.
+This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/the-turing-way/the-turing-way/blob/main/README.md) and [Contributing Guidelines](#ch-contributing) to make it more relatable and usable for the wider community.
 
 ## Reference:
 
 - This file has remixed and reused material from the [Open Leadership Framework GitHub repository](https://github.com/mozilla/open-leadership-framework/blob/master/personas.md) shared at the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/), License: [CC-BY-SA](https://creativecommons.org/licenses/by/4.0/).
-
-<!---Git Log History: see the full log please see the 'blame button' or use this git command `git log --follow -p -- persona-contributors.md`--->

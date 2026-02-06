@@ -15,7 +15,7 @@ We are very keen to discuss and improve our governance approaches with the invol
 ## Three Levels of Decision Making
 
 In 2023-2024, _The Turing Way_ adopted three institutional "levels".
-Originally described in the context of Studies of the institutional design of natural resource commons{cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making{cite}`Schweik2007commons`.
+Originally described in the context of Studies of the institutional design of natural resource commons {cite}`Ostrom2005commons` and later adopted in the [free and open source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) communities to describe three broad levels of formal and informal norms that affect decision-making {cite}`Schweik2007commons`.
 
 1. The “Community level" norms influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
 2. The "Maintenance" level describes different groups of people coming together to work on and promote specific areas and initiatives in the project as well as defining or changing processes to make community-level participation easier.
@@ -76,7 +76,7 @@ Decisions and activities undertaken by community-level members may include the f
 
 We have discussed specific roles under this level in {ref}`fw-community`.
 
-Guidelines and processes for this level are described in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`ch`.
+Guidelines and processes for this level are described in the [contribution guidelines](#ch-contributing) and {ref}`ch`.
 These processes and resources are co-developed by maintenance-level members with the involvement of members from the community and constitution levels as needed.
 
 ### Maintenance Level
@@ -194,7 +194,7 @@ Please join Community Forums to stay up to date with the development.
 - You can find out about our next Community Forums in the [monthly newsletters](https://buttondown.email/turingway/archive/).
 
 ```{note}
-Since 2019, {ref}`Collaboration Cafés<ch-coworking-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
+Since 2019, {ref}`Collaboration Cafés<ch-community-calls-collabcafe>` and {ref}`Book Dash<ch-bookdash>` have become dedicated spaces for coworking for community members for all levels of governance (even when these levels were not formally described for _The Turing Way_).
 These spaces have allowed different groups to form around shared ideas and work of interests, several becoming [Communities of Practice](https://en.wikipedia.org/wiki/Community_of_practice) within _The Turing Way_.
 
 Initially, some community members self-organised themselves into groups to work together, collaborated with the Project Delivery Teams, supported/mentored members from the broader community and represented the project in different contexts.

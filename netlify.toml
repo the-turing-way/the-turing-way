@@ -1,6 +1,6 @@
 [build]
 base = "book/"
-command = "make deps && make ci"
+command = "make ci"
 environment = { PYTHON_VERSION = "3.13" }
 publish = "website/_build/html"
 
@@ -64,6 +64,18 @@ fi
 [[redirects]]
   from = "https://slack.the-turing-way.org/*"
   to = "https://join.slack.com/t/theturingway/shared_invite/zt-25ng40psm-rcaEBwhrEzsV4hhR6dz5uA"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://calendar.the-turing-way.org/*"
+  to = "https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://ics.the-turing-way.org/*"
+  to = "https://calendar.google.com/calendar/ical/theturingway%40gmail.com/public/basic.ics"
   status = 302
   force = true
 

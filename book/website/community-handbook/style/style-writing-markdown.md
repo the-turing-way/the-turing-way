@@ -3,7 +3,7 @@
 
 ## Write each sentence in a new line (line breaks)
 
-Please write all sentences in the markdown file on separate lines.
+Please write all sentences on separate lines.
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
 Consider the example below.
 
@@ -60,6 +60,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 > I do not like green eggs and ham i do not like them sam i am
 ```
 
+(ch-style-writing-markdown-latin)=
 ## Avoid latin abbreviation
 
 Please do not use Latin abbreviations.
@@ -86,8 +87,6 @@ Instead of third abbreviation in the table for *id est* that is often used to cl
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
 Any chapter containing a Latin abbreviation will fail the continuous integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/the-turing-way/the-turing-way/blob/main/tests/no-bad-latin.py).
-
-*To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
 
 ## Tips
 

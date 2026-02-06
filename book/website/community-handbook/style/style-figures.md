@@ -2,7 +2,7 @@
 # Using figures in _The Turing Way_
 
 We encourage you to use images in _The Turing Way_ book chapters to help readers understand the concepts discussed in the chapter better.
-This section of the style guide will explain how to use MyST Markdown to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`.
+This section of the style guide will explain how to use [MyST Markdown](xref:myst-guide) to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`.
 This is sometimes tricky, refer to the {ref}`ch-style-figures-advanced` section for troubleshooting.
 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
@@ -30,7 +30,7 @@ In general, make sure to always cite the image properly as directed by the image
 (ch-style-figures-image)=
 ## Image location, type, size and file name
 
-Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
+Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/figures).
 If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub, or adding locally and pushing the change online when using git.
 
 Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
@@ -102,7 +102,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 
 Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.
-Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
+Also ensure that you have created a link to the source using {term}`Markdown` link formatting: `[text](url)`.
 
 Figure information with the block delimited by `---` makes use of [yaml](https://yaml.org/spec/1.2.2/) syntax.
 Some characters (such as ':') have special meaning in YAML and using they may create unexpected results.
@@ -111,6 +111,7 @@ Using the syntax demonstrated above, `alt: >`, means you can have multi-line out
 escape `|` and `>` to get those literal characters in the final output.
 You escape a character by prepending it with a backslash for example, `\|` and `\>`.
 for more on multi-line strings in yaml see: [Demystifying YAML Multiline Strings: An In-Depth Guide](https://thelinuxcode.com/yaml-multiline-strings/).
+
 (ch-style-figures-cross-referencing)=
 ## Cross-Referencing Figures in Other Chapters
 
@@ -120,7 +121,7 @@ For example, we can reference the figure above like `[](#first-pull-request)`, w
 (ch-style-figures-advanced)=
 ## Advanced features and "gotchas"
 
-For more advanced parameters, please visit the [MyST Markdown documentation](https://mystmd.org/guide/figures).
+For more advanced parameters, please visit the [MyST Markdown documentation](xref:myst-guide/figures).
 That page includes information on how to scale and align the figures.
 
 We've noticed a couple of "gotchas" from contributors to _The Turing Way_ and we'll try to keep this section of the guide up to date for anyone else learning the MyST syntax for figures.

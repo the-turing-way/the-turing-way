@@ -181,7 +181,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 ### Participation guidelines
 
 - Code of Conduct: https://book.the-turing-way.org/community-handbook/coc.html
-- Contribution guideline: https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
+- Contribution guideline: #ch-contributing
 
 ### Communication channels
 
@@ -207,7 +207,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles:
+**Please read and follow our project [Contributing Guidelines](#ch-contributing)!** :sparkles:
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
@@ -274,5 +274,5 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 -   Expenses will be reimbursed after the Book Dash  
 -   Participants will need to provide receipts for all expenses when they submit for reimbursement
 -   All participants will need to sign and return the policy form and the expense claim form shared via an email
--   Participants should complete the form in the original currency of the expenses (no need to covert to GBP)  
+-   Participants should complete the form in the original currency of the expenses (no need to convert to GBP)  
 -   Forms and receipts **must be submitted by Friday 4 June to [tps@turing.ac.uk](mailto:tps@turing.ac.uk), copying in [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**

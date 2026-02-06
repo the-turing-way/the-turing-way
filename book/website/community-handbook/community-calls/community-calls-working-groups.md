@@ -1,7 +1,7 @@
 (ch-community-calls-working-groups)=
 # Working Group and Team Meetings
 
-Working Groups self-organise meetings on regular basis and at their own discretion. The cadence (whether monthly or bi-weekly) is up to the descretion of the group. Many of the working groups also utilise the Collaboration Cafe as a space to organise and cowork on dfferent tasks.
+Working Groups self-organise meetings on regular basis and at their own discretion. The cadence (whether monthly or bi-weekly) is up to the descretion of the group. Many of the working groups also utilise the Collaboration Cafe as a space to organise and cowork on different tasks.
 
 ## Active Working Groups
 
@@ -33,7 +33,7 @@ Find more information on their [Github repository](https://github.com/the-turing
 
 These calls are for co-working on infrastructure support, and for learning more about the work of the team. 
 
-Find more information in the [#infrastructure]() channel on Slack, or on their [Github repository]().
+Find more information in the [#infrastructure](https://theturingway.slack.com/archives/C01EUGMQSNP) channel on Slack, or on their [Github repository](https://github.com/the-turing-way/infrastructure-working-group/).
 
 ### Translation and Localisation
 

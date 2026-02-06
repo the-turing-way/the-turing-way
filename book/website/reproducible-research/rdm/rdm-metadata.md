@@ -18,7 +18,7 @@ Documentation allows data users have sufficient information to understand the so
 ```{figure} ../../../figures/documentation.*
 ---
 name: documentation
-alt: The figure goes through a dark wood setting lights along the way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someone got lost in the woods where no documentation was available.
+alt: The figure goes through a dark wood setting lights along the way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for colleagues to find their way. In the darkness one sees another figure - someone got lost in the woods where no documentation was available.
 ---
 Illustration about peer review.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
@@ -55,6 +55,27 @@ There are also situations when researchers make use of more general metadata sta
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
 
 Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
+
+
+(rr-rdm-readme)=
+## README for datasets
+
+A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others. 
+A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
+
+README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). 
+See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
+
+### README tips and examples 
+    
+* Create one README file for each dataset
+* Name the file README
+* Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.
+
+Example templates:
+
+* [Cornell Template](https://cornell.app.box.com/v/ReadmeTemplate)
+* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
 
 
 (rr-rdm-metadata-tagging)=

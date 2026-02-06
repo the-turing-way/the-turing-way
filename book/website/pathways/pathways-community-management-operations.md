@@ -14,18 +14,18 @@ label: pathway-community-management-how-to
     - item: ../reproducible-research/open/open-checklist.md
 - item: ../project-design/project-design.md
   children:
-    - item: ../project-design/pd-design-overview/pd-checklist.md
+    - item: '#pd-checklist'
 - item: ../collaboration/collaboration.md
   children:
     - item: ../collaboration/new-community/new-community-guide.md
     - item: ../collaboration/team-manual/team-manual-on-off-boarding.md
-    - item: ../collaboration/event-tools.md
-    - item: ../collaboration/organising-meetings.md
-    - item: ../collaboration/chairing.md
-    - item: ../collaboration/coworking.md
-    - item: ../collaboration/ppie-events.md
-    - item: ../collaboration/remote-collab.md
-    - item: ../collaboration/hybrid-collab.md
+    - item: ../collaboration/meetings-events-co-working/event-tools.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
+    - item: ../collaboration/meetings-events-co-working/chairing.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/coworking.md
+    - item: ../collaboration/meetings-events-co-working/ppie-events.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab.md
+    - item: ../collaboration/meetings-events-co-working/hybrid-collab.md
 - item: ../community-handbook/community-handbook.md
   children:
     - item: ../community-handbook/communication-channels.md

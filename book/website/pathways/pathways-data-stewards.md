@@ -66,7 +66,7 @@ label: pathway-data-stewards
     - item: ../project-design/project-design.md
       children:
         - item: ../project-design/pd-overview.md
-        - item: ../project-design/pd-design-overview/project-repo.md
+        - item: '#pd-project-repo'
         - item: ../project-design/info-management/filenaming.md
         - item: ../project-design/data-security/sdp.md
         - item: ../project-design/data-security/sdpm.md

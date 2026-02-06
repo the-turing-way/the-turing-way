@@ -12,7 +12,7 @@ To identify what could be the best format for your coworking calls, you need to 
 
 **Purpose of your coworking calls**
 
-In _The Turing Way_, as described in the {ref}`motivation <ch-coworking-motivation>` subchapter, we host these calls for building connections, supporting our contributors, onboarding new members and celebrating their work.
+In _The Turing Way_, as described in the {ref}`motivation <ch-community-calls-motivation>` subchapter, we host these calls for building connections, supporting our contributors, onboarding new members and celebrating their work.
 
 Your purpose for hosting coworking calls could be completely different and identifying that is important for you to plan the remaining logistics.
 A few other scenarios could be:
@@ -131,4 +131,4 @@ This is likely a combination of a co-mentoring call and a co-working Pomodoro ca
 
 You can read an adapted version of their blog post along with other ideas for virtual events in the document by Center for Scientific Collaboration and Community Engagement {cite:ps}`CSCCE2020virtual`.
 
-If you organise or host a coworking call in your community, you are welcome to highlight them in this chapter by creating a [pull request](https://github.com/the-turing-way/the-turing-way/pulls) on the GitHub repository (see [contributing guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) for details).
+If you organise or host a coworking call in your community, you are welcome to highlight them in this chapter by creating a [pull request](https://github.com/the-turing-way/the-turing-way/pulls) on the GitHub repository (see [contributing guidelines](#ch-contributing) for details).

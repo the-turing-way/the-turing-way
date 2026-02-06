@@ -21,7 +21,7 @@ who provide ongoing support for the community management and delivery of the pro
 
 The project delivery team is constituted by these funded roles, as listed in {ref}`fw-governance-roles`.
 The project delivery team is responsible to engage and involve community members across a range of activities that contribute to the development, 
-maintainance and sustainability of _The Turing Way_.
+maintenance and sustainability of _The Turing Way_.
 
 (fw-community-book-roles)=
 ## Book-Related Roles
@@ -43,7 +43,7 @@ Existing members of the community are connected with new contributors for suppor
 Contributions also include providing advisory support, such as by sharing examples, resources or other relevant resources that could be helpful for the authors.
 
 By enabling our community of users and contributors to engage with each other, we ensure that the project, community and resources can be used, shared and improved by diverse perspectives.
-We describe the contribution process in the {ref}`ch-contributing-guideline`.
+We describe the contribution process in the {ref}`ch-contributing`.
 
 (fw-community-beyond-book)=
 ## Beyond the Book

@@ -13,7 +13,7 @@ IPs form the basis of a licensing agreement, where a licensor owns the IP and gr
 ```
 
 > This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
-> With British English, however, **licence** is a noun (as in, _to issue a licence_), while **license** is a verb (as in, _they licensed the event_).
+> With British English, however, **licence** is a noun (as in, _the software is released under a permissive open source license_), while **license** is a verb (as in, _they licensed the event_).
 
 (rr-licensing-prerequisites)=
 ## Prerequisites

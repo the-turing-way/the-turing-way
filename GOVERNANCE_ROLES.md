@@ -40,17 +40,19 @@ Members participating in different Working Groups and projects carried out in _T
 | Kirstie Whitaker ([KirstieJane](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)) | Executive Director, Berkeley Institute for Data Science (BIDS) | JupyterHub -_The Turing Way_ Project co-lead (in her role as the Director of BIDS), Founder | Nov 2024 - present | Project Lead of _The Turing Way_, Programme Director of Tools, Practices and Systems (TPS); The Alan Turing Institute, Oct 2018 - Nov 2024 |
 | Batool Almarzouq ([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation Working Group member | 2020 - Present | Various Maintenance Level roles |
 | Emma Karoune ([EKaroune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)) | Principle Researcher - Community Management Team; The Alan Turing Institute | Book Dash Working Group member | Jan 2021 - Present | Various Maintenance Level roles |
-| Esther Plomp ([EstherPlomp]()) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash Working Group member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
+| Esther Plomp ([EstherPlomp](https://book.the-turing-way.org/afterword/contributors-record/#esther-plomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash Working Group member and various community roles | Feb 2020 - Present | Various Maintenance Level roles |
 | Alexandra Araujo Alvarez ([alexandraaaj](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Book Dash Working Group member | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 |
 | Carlos Martinez-Ortiz ([c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash Working Group member| Feb 2020 - Present | - |
-| Susana Roman Garcia ([Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash Working Group member | 2024 - Present | - |
+| Susana Roman Garcia ([Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash Working Group member, Community Management Working Group member | 2024 - Present | - |
 | Liz Hare ([LizHareDogs](https://book.the-turing-way.org/afterword/contributors-record#liz-hare)) | Qualitative Geneticist, Dog Genetics LLC | _The Turing Way_ Accessibility Working Group member | 2023 - Present | - |
 | Sarah Gibson ([sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, _The Turing Way_ Infrastructure Maintainers Co-lead | 2019 - Present | Previously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
 | Danny Garside ([da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | _The Turing Way_ Infrastructure Maintainers Co-lead | 2021 - Present | - |
 | Jim Madge ([JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | _The Turing Way_ Infrastructure Maintainers Co-lead | 2022 - Present | - |
 | Brigitta Sipőcz ([bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | _The Turing Way_ Infrastructure Maintainers Co-lead | 2022 - Present | - |
-| Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure Working Group member | 2023 - Present | GSOC Co-Mentor 2023 |
-| Alejandro Coca Castro ([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science Book Co-Lead | 2021 - Present | _The Turing Way_ Translation and Localisation Co-Lead, 2021 - May 2023 |
+| Johanna Bayer ([likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure Working Group member, Community Management Working Group member | 2023 - Present | GSOC Co-Mentor 2023 |
+| Alejandro Coca Castro ([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science Book Co-Lead, Community Management Working Group member | 2021 - Present | _The Turing Way_ Translation and Localisation Co-Lead, 2021 - May 2023 |
+| Sara Villa ([SaraVilla](https://github.com/SaraVilla)) | Senior Research Fellow, Open Life Science | Community Management Working Group member | 2025 - Present | - |
+| Neha Moopen ([NehaMoopen](https://github.com/nehamoopen)) | Research Data Manager, Utrecht University | Community Management Working Group member | 2025 - Present | - |
 
 ## Representation at Constitution Level Steering Committee
 
@@ -97,39 +99,3 @@ You can request contact information through the project members above, or tag th
 | Alex Morley ([alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | Volunteer Member |  Nov 2018 - June 2019  |
 | Anna Krystalli ([annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer, Project Delivery Member | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly ([martintoreilly](https://github.com/martintoreilly)) | Advisor | Volunteer Member | Nov 2018 - Mar 2019 |
-
-### Recognising All Contributors
-
-Our barrier for entry to participate in _The Turing Way_ is very low.
-
-*_The Turing Way_* uses the [emoji-key](https://allcontributors.org/docs/en/emoji-key) to recognise everyone who contributes to the project.
-
-| Emoji | Represents                                                                  |
-|:------|:----------------------------------------------------------------------------|
-| 💬    | Answering Questions (on gitter, GitHub, or in person) |
-| 🐛    | Bug reports                                                                 |
-| 📝    | Blogposts                                                                   |
-| 💻    | Code                                                                        |
-| 📖    | Documentation and specification                                             |
-| 🎨    | Design                                                                      |
-| 💡    | Examples                                                                    |
-| 📋    | Event Organizers                                                            |
-| 💵    | Financial Support                                                           |
-| 🔍    | Funding/Grant Finders                                                       |
-| 🤔    | Ideas & Planning                                                            |
-| 🚇    | Infrastructure (Hosting, Build-Tools, etc)                                  |
-| 🔌    | Plugin/utility libraries                                                    |
-| 👀    | Reviewed Pull Requests                                                      |
-| 🔧    | Tools                                                                       |
-| 🌍    | Translation                                                                 |
-| ⚠️     | Tests                                                                       |
-| ✅    | Tutorials                                                                   |
-| 📢    | Talks                                                                       |
-| 📹    | Videos                                                                      |
-
-If you have contributed in any of the ways above then please ask one of the collaborators in *_The Turing Way_* to use the [all contributors bot :robot:](https://allcontributors.org/docs/en/bot/overview) to add you to the list.
-
-For details on how we acknowledge different contributions made in _The Turing Way_, please read the chapter on [Acknowledging Contributors](https://book.the-turing-way.org/community-handbook/acknowledgement) in the Community Handbook.
-
-***Thank you for contributing substantially to _The Turing Way_!*** We value your thoughtful participation and contributions to _The Turing Way_! :hibiscus::sunflower::rocket::star2:
-

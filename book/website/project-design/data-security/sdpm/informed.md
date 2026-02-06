@@ -25,8 +25,8 @@ The information should be clear and easy to understand and should cover the foll
 * Assurances about data security and participant confidentiality.
    * Mention who has access to the data.
 * How the data will be used in the study (for published articles, reports and presentations).
-* Proposed plans for archiving data at the end of the study and potential future secondary re-use of data.
-    * Tiered consent may be a solution here, by allowing the participants to choose what type of information will be shared for re-use.
+* Proposed plans for archiving data at the end of the study and potential future secondary reuse of data.
+    * Tiered consent may be a solution here, by allowing the participants to choose what type of information will be shared for reuse.
 * If you work under the General Data Protection Regulation (GDPR), describe participants' rights and how they can exercise those rights, such as the right to data erasure and the right to contact the institution's Data Protection Officer (if present).
 * Details of the organisation overseeing the research.
 * Whom to contact for more information about the study.

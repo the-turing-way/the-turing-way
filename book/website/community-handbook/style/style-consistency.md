@@ -34,7 +34,8 @@ If you identify more consistency issues that need to be addressed, join the conv
 ---
 height: 400px
 name: theturingway-consistency
-alt: This illustration shows a staircase indicating pathway to maintain consistency that has three pillars - formatting, structure and language. One person is guiding two new contributors up the staires.
+alt: >
+  Illustration by Scriberia for The Turing Way, showing a staircase with the bottom step at the bottom left-hand corner of the illustration and the top of the staircase at the top right-hand corner of the illustration. Holding up the staircase are three pillars: formatting, structure and language. These are the 3 key ideas of the pathway to maintaining consistency for The Turing Way. Furthermore, there are 3 people on the staircase; one person is standing between two new contributors and guiding them up the stairs. Finally, in the top left-hand corner there is a phrase reading "GUIDING TOWARDS TURING WAY CONSISTENCY".
 ---
 Pathway to maintaining consistency. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -46,7 +47,7 @@ Pathway to maintaining consistency. _The Turing Way_ project illustration by Scr
 
 REQUIREMENT | CHECK | EXAMPLE
 ----------- | ----- | -------
-Hard | Use Markdown for creating your content (see this [WordPress cheatsheet](https://wordpress.com/support/markdown-quick-reference/)).
+Hard | Use {term}`Markdown` for creating your content (see this [WordPress cheatsheet](https://wordpress.com/support/markdown-quick-reference/)).
 Hard | Use the headers in sequential order. For example, starting the top level with h1 tag `#`, second-level header with h2 tag `##` and so on. |
 Hard | Add labels to chapters, subchapters and images to enable cross-referencing as described in the {ref}`style guide<ch-style-crossref>` |
 Hard | Use `MyST` for image formatting as described in the {ref}`style guide<ch-style-figures>` | Use public domain images that are less than 1MB in size and cite appropriately.

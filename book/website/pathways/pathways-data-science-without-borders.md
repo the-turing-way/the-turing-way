@@ -51,10 +51,10 @@ label: pathway-data-science-without-borders
         - item: ../reproducible-research/code-reuse/code-reuse-details.md
 - item: ../project-design/project-design.md
   children:
-    - item: ../project-design/pd-design-overview.md
+    - item: '#pd-overview'
       children:
-        - item: ../project-design/pd-design-overview/pd-checklist.md
-        - item: ../project-design/pd-design-overview/project-repo.md
+        - item: '#pd-checklist'
+        - item: '#pd-project-repo'
     - item: ../project-design/info-management.md
       children:
         - item: ../project-design/info-management/filenaming.md
@@ -84,14 +84,14 @@ label: pathway-data-science-without-borders
         - item: ../community-handbook/translation/translation-localisation.md
 - item: ../collaboration/collaboration.md
   children:
-    - item: ../collaboration/remote-collab.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab.md
     - item: ../collaboration/github-novice.md
     - item: ../collaboration/maintain-review.md
-    - item: ../collaboration/organising-meetings.md
-    - item: ../collaboration/coworking.md
-    - item: ../collaboration/organising-conference.md
-    - item: ../collaboration/chairing.md
-    - item: ../collaboration/event-tools.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/organising-remote-meetings.md
+    - item: ../collaboration/meetings-events-co-working/remote-collab/coworking.md
+    - item: ../collaboration/meetings-events-co-working/organising-conference.md
+    - item: ../collaboration/meetings-events-co-working/chairing.md
+    - item: ../collaboration/meetings-events-co-working/event-tools.md
     - item: ../collaboration/collaboration.md
     - item: ../collaboration/shared-ownership.md
     - item: ../collaboration/team-manual.md
