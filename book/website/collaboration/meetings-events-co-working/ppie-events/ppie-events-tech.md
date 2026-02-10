@@ -1,19 +1,19 @@
-(cl-ppie-events-technology)=
+(cl-mec-ppie-events-technology)=
 # Technology Considerations for Inclusive Events
 When planning an event that will be attended by people with lived experience, event organizers should carefully consider various technology aspects to ensure inclusivity, accessibility, and a seamless experience for all participants. 
 
 This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at in-person, hybrid, or online events. 
 
-(cl-ppie-tech-prerequisites)=
+(cl-mec-ppie-tech-prerequisites)=
 **Helpful Resources within The Turing Way**
 
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| {ref}`cl-remote-collab-guidelines` | Helpful | Guidance on running remote events |
-| {ref}`cl-hybrid-collab-challenges` | Helpful | Identifies common barriers faced by hybrid events |
+| Prerequisite                           | Importance | Notes                                             |
+| -------------                          | ---------- | ------                                            |
+| {ref}`cl-mec-remote-collab-guidelines` | Helpful    | Guidance on running remote events                 |
+| {ref}`cl-mec-hybrid-collab-challenges` | Helpful    | Identifies common barriers faced by hybrid events |
 
 
-(cl-ppie-events-hybrid)=
+(cl-mec-ppie-events-hybrid)=
 ## Hybrid Events as an Accessibility and Inclusion Strategy
 Hybrid events, by default, prioritize accessibility and the inclusivity of attendees with lived experience, making them the ideal choice to engage an audience of individuals with diverse lived experiences. 
 Online sessions can be better suited to individuals who take part in research as a volunteer and find it difficult to attend in-person events. 
@@ -28,9 +28,9 @@ This flexibility also accommodates the diverse schedules and responsibilities of
 Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility practices and the inclusion of attendees with lived experience.
 This empowers a wide range of participants to contribute and benefit from your event's content and community.
 
-If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter on Hybrid Collaboration<cl-hybrid-collab>` and specifically the {ref}`Subchapter on Guidelines for Hybrid Collaboration<cl-hybrid-collab-guidelines>`.
+If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter on Hybrid Collaboration<cl-mec-hybrid-collab>` and specifically the {ref}`Subchapter on Guidelines for Hybrid Collaboration<cl-mec-hybrid-collab-guidelines>`.
 
-(cl-ppie-events-calendar-invites)=
+(cl-mec-ppie-events-calendar-invites)=
 ## Using Email Reminders and Calendar Invitations
 Many of your attendees will maintain a very busy schedule and often take part in multiple different activities. 
 This will be true for both your research, clinical, and lived experience attendees - and everyone may benefit from the support of reminders and calendar invitations for your event. 
@@ -65,7 +65,7 @@ If you are able to send out information and keep in regular contact with the com
 If this is the case for your event, it will be very important to source solutions from, and work alongside the community with that specific lived experience when planning your event. 
 
 
-(cl-ppie-events-technology-guides)=
+(cl-mec-ppie-events-technology-guides)=
 ## Technology Guides
 Even if the technology used during your event may be considered common or ubiquitous, it is important to recognize that all attendees will have had a different level of experience and exposure to technology. 
 
@@ -90,7 +90,7 @@ You may want to consider how you will ensure that all participants are able to a
 For example, by including an icebreaker or introductory activity that is completed by attendees. 
 ```
 
-(cl-ppie-events-technology-final-checks)=
+(cl-mec-ppie-events-technology-final-checks)=
 ## What to check the day of the event
 As part of hosting, is it important to make time before the event starts to ensure that the technology supports you planned for are working and able to be implemented. 
 

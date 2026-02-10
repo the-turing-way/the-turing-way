@@ -1,4 +1,4 @@
-(cl-ppie-events-social-and-networking-guide)=
+(cl-mec-ppie-events-social-and-networking-guide)=
 # Inclusive Social and Networking Events
 Social events, dinners, and even standing in lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
 
@@ -8,7 +8,7 @@ Depending on the size and format of your event, this may look like structured ne
 
 Please consider some of the suggestions below, and ensure that you take the time to consider and address any barriers that your specific attendees may face in joining social settings.
 
-(cl-ppie-events-social-events-timing)=
+(cl-mec-ppie-events-social-events-timing)=
 ## Choosing a Time for Networking  
 Ideally, at least one networking or social event will take place during the main event's program. 
 
@@ -25,7 +25,7 @@ Additionally, for events taking place in person, consider hosting in-person netw
 Hosting a social session before sit-down meals can help these attendees connect with other people and identify who to sit with during the meal. 
 
 
-(cl-ppie-events-name-tags)=
+(cl-mec-ppie-events-name-tags)=
 ## Identification and Name Tags
 If your event includes name tags or badges, ensure that you ask attendees for their preferred name, and display the name they provide. 
 
@@ -43,7 +43,7 @@ At in-person events, consider using lanyards to display name tags or badges.
 Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets, however, many blouses, dresses, and shirts designed for women do not provide these pockets and therefore will not be able to easily display a clip-on name badge. 
 Clip-on badges can also be difficult for people with fine motor disabilities or a disability that would otherwise restrict their ability to pin the clip onto their shirts. 
 
-(cl-ppie-events-conversation-guides)=
+(cl-mec-ppie-events-conversation-guides)=
 ## Providing Guidance and Sparking Conversation 
 Depending on the audience for your event, you may want to consider creating and sharing guidelines or suggestions on how to make the most of networking sessions. 
 This can be especially helpful for autistic attendees, or attendees with social anxiety. 
@@ -58,7 +58,7 @@ Providing a guide acknowledges the diverse needs of all attendees and promotes i
 
 We have curated a few topics or themes you may want to consider including in any guidance you provide below: 
 
-(cl-ppie-events-networking-formats)=
+(cl-mec-ppie-events-networking-formats)=
 ### Information about the format
 It can be helpful for many people to have a structured format for social events, especially those who will be attending your event as volunteers and may not have met any of the other attendees before the session. 
 
@@ -67,7 +67,7 @@ This can provide a shared understanding among attendees of what is expected duri
 
 Although most social events are traditionally unstructured to allow for emergent discussion and knowledge sharing, it can be beneficial to provide guidance or prompts to start any social sessions and then allow for unstructured conversation time later in the session.
 
-(cl-ppie-events-networking-expectations)=
+(cl-mec-ppie-events-networking-expectations)=
 ### Setting Expectations
 In addition to information about the format that your social or networking event will have, consider including clear and explicit instructions about what engagement would be suitable and appropriate for your social activities.
 
@@ -81,7 +81,7 @@ Instead, poster sessions may be useful to make introductions with other attendee
 Depending on the audience, your guide may need to be more or less detailed.
 By providing guidance on the type of sessions, and what is expected in each setting, you can help facilitate more constructive and collaborative interactions between attendees, and reduce the likelihood of misunderstandings.
 
-(cl-ppie-events-conversation-prompts)=
+(cl-mec-ppie-events-conversation-prompts)=
 ### Sparking conversation between attendees 
 Social skills are fundamental in building relationships, sharing ideas, and collaborating on research endeavours.
 

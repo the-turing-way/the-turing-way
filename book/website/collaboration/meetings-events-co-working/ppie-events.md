@@ -1,8 +1,8 @@
-(cl-ppie-events)=
+(cl-mec-ppie-events)=
 # Hosting Events with Members of the Public
 A guide for involving members of the public at research events.
 
-```{figure} ../../figures/public-and-patient-involvement-and-engagement.*
+```{figure} ../../../figures/public-and-patient-involvement-and-engagement.*
 ---
 height: 500px
 name: Public and Patient Involvement in Research
@@ -11,20 +11,20 @@ alt: Members of the public and people with lived experience of medical condition
 Collaborating with Members of the Public: Actively involving members of the public and experts with lived experience in the design, development, and delivery of projects can greatly improve the quality and relevance of the research. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The AI for Multiple Long Term Conditions Research Support Facility community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI [10.5281/zenodo.8082554](https://doi.org/10.5281/zenodo.8082554).
 ```
 
-(cl-ppie-events-summary)=
+(cl-mec-ppie-events-summary)=
 ## Summary
 This Chapter discusses planning and hosting events that are inclusive and accessible for people with lived experience and acts as a guide for how to design an inclusive event for all attendees. 
 
 It covers: 
-- {ref}`initial planning and scoping guidance<cl-ppie-events-planning>`
-- {ref}`guidance on how to evaluate and layout your venue<cl-ppie-events-location>`
-- {ref}`considerations and requirement for developing a communications strategy and how to support your speakers<cl-ppie-events-comms>`
-- {ref}`suggestions for how to create an inclusive agenda<cl-ppie-events-schedule-planning>`
-- {ref}`considerations for how to make technology work for your events<cl-ppie-events-technology>`
-- {ref}`suggestions for how to plan social or networking sessions<cl-ppie-events-social-and-networking-guide>`
-- {ref}`and provides a page of additional resources for running inclusive and accessible events.<cl-ppie-events-resources>` 
+- {ref}`initial planning and scoping guidance<cl-mec-ppie-events-planning>`
+- {ref}`guidance on how to evaluate and layout your venue<cl-mec-ppie-events-location>`
+- {ref}`considerations and requirement for developing a communications strategy and how to support your speakers<cl-mec-ppie-events-comms>`
+- {ref}`suggestions for how to create an inclusive agenda<cl-mec-ppie-events-schedule-planning>`
+- {ref}`considerations for how to make technology work for your events<cl-mec-ppie-events-technology>`
+- {ref}`suggestions for how to plan social or networking sessions<cl-mec-ppie-events-social-and-networking-guide>`
+- {ref}`and provides a page of additional resources for running inclusive and accessible events.<cl-mec-ppie-events-resources>` 
 
-(cl-ppie-events-background)=
+(cl-mec-ppie-events-background)=
 ## Motivation and Background
   * This chapter is meant to serve as a resource to support and guide researchers, organisers, and community members with the tools to identify the opportunities and mitigate barriers in the organisation of events that involve and include members of the public, and in particular people with lived experience.
 

@@ -19,7 +19,7 @@ There are many different skills required to work well in groups with a wide rang
 In this guide, we welcome contributions in developing guidance on the following (but not limited to) topics:
 
 * Designing a project that welcomes contributions
-* Distributed collaboration on GitHub
+* Distributed collaboration with git
 * Reviewing team member's contributions
 * Remote working
 * Running an inclusive event
