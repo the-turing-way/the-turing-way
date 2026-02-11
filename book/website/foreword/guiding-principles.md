@@ -18,7 +18,8 @@ Inclusion
 
 (guiding-principles-empowerment)=
 ## Empowerment
-The project is deliberately structured to encourage agency and create opportunities and pathways for people to make autonomous decisions about how and when to participate, as long as they align with our other values, [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) and [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md). 
+
+The project is deliberately structured to encourage agency and create opportunities and pathways for people to make autonomous decisions about how and when to participate, as long as they align with our other values, [Code of Conduct](#ch-coc) and [Contributing Guidelines](#ch-contributing).
 We aim to maximize the amount of agency that the community members hold and minimize the authority of the highest governance levels.
 
 (guiding-principles-transparency)=
