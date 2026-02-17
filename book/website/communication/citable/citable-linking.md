@@ -67,9 +67,9 @@ The DOI for your dataset should be correctly listed in the **Data Availability S
 For more information see {ref}`Citing Data<cm-citable-cite-data>`.
 
 (cm-citable-linking-metadata)=
-# Connection Metadata: Creating Rich Linkages
+## Connection Metadata: Creating Rich Linkages
 
-The strategies above describe when and how to publish research outputs, but there's another crucial aspect: **connection metadata**.
+The strategies above describe when and how to publish research outputs, but there's another crucial aspect: connection metadata.
 This is structured, machine-readable information that formally links your research outputs together through their persistent identifiers.
 
 When you "add the DOI of the publication to the dataset" (see {ref}`Reserve DOI<cm-citable-linking-reserve-doi>`), you're creating connection metadata.
@@ -106,7 +106,7 @@ Examples from the DataCite schema include:
 | Cites / IsCitedBy | Formal citation relationships | A paper *Cites* a methodology it uses |
 | IsPartOf / HasPart | When outputs are components of a larger whole | Individual datasets *IsPartOf* a data collection |
 | References / IsReferencedBy | General references | Documentation *References* a protocol |
-| IsVersionOf / HasVersion | Connections between versions | (see next section) |
+| IsVersionOf / HasVersion | Connections between versions | A is a version of B |
 | IsNewVersionOf / IsPreviousVersionOf | Specific version succession | Version 2 *IsNewVersionOf* version 1 |
 | Compiles / IsCompiledBy | When code or workflows produce outputs | An analysis script *Compiles* a figure |
 
@@ -116,7 +116,7 @@ For a complete list, see [DataCite's relatedIdentifier documentation](https://su
 
 The specific process depends on which repository you're using, but the general approach is similar:
 
-**During initial deposit:**
+#### During initial deposit:
 1. When uploading your research output, look for fields like:
    - "Related identifiers"
    - "Related works"
@@ -126,13 +126,14 @@ The specific process depends on which repository you're using, but the general a
 3. Select the appropriate relationship type from a dropdown menu
 4. Specify the direction if needed
 
-**After initial deposit:**
+#### After initial deposit:
 1. Contact the repository's support team or use the metadata update form
 2. Provide the DOI of your resource and the related DOI
 3. Specify the relationship type
 4. The repository will update the metadata
 
 ### Repository-Specific Examples
+
 ::::{tab-set}
 :::{tab-item} Zenodo
 :sync: tab1
@@ -180,30 +181,8 @@ The specific process depends on which repository you're using, but the general a
 
 ### Example: Connecting a Complete Research Project
 
-Imagine a research project with multiple outputs:
-- Raw dataset (DOI: 10.1234/raw-data)
-- Cleaned dataset (DOI: 10.1234/clean-data)
-- Analysis code (DOI: 10.5281/zenodo.123456)
-- Preprint (DOI: 10.1101/2024.01.001)
-- Published paper (DOI: 10.1016/journal.2024.001)
+The Implementing FAIR Workflows project is registered with a project ID (https://doi.org/10.60581/zaev-6p15), which links to the ORCIDs of the project team members, the ROR ID of partner organizations, and the outputs of the project - registeration, datasets, software, reports, etc. - are openly shared with DOI. DataCite Commons, the DOI metadata discovery portal aggregates the metadata of all project related resources and present a full overview: https://commons.datacite.org/doi.org/10.60581/zaev-6p15
 
-Connection metadata might look like:
-
-**Clean dataset metadata** includes:
-- IsDerivedFrom: 10.1234/raw-data
-- IsSupplementTo: 10.1016/journal.2024.001
-- IsCompiledBy: 10.5281/zenodo.123456
-- IsVersionOf: 10.1101/2024.01.001 (if the preprint also describes this data)
-
-**Analysis code metadata** includes:
-- Compiles: 10.1234/clean-data
-- IsSupplementTo: 10.1016/journal.2024.001
-
-**Published paper metadata** includes:
-- IsSupplementedBy: 10.1234/clean-data
-- IsSupplementedBy: 10.5281/zenodo.123456
-
-This creates a rich, queryable network where finding any one output leads to discovering all related materials.
 
 (cm-citable-linking-versions)=
 ## Managing Versions Through PIDs
@@ -213,21 +192,13 @@ Persistent identifiers provide structured ways to handle versioning while mainta
 
 ### Version DOIs vs. Concept DOIs
 
-Some repositories (notably Zenodo) implement a two-level DOI system:
+Some repositories (notably [Zenodo](https://support.zenodo.org/help/en-gb/1-upload-deposit/97-what-is-doi-versioning)) implement a two-level DOI system:
 
 Version DOI
-:
-- Points to one specific version of a resource
-- Never changes - always points to exactly that version
-- Use this when you want to cite a specific version (for reproducibility)
-- Example: `10.5281/zenodo.3332807` (version 1.0)
+: A version DOI points to one specific version of a resource and never changes. Use this when you want to cite a specific version for reproducibility. For example: `10.5281/zenodo.3332807` (version 1.0).
 
 Concept DOI
-:
-- Points to the resource as a whole, across all versions
-- Always resolves to the latest version
-- Use this when you want to cite the work in general
-- Example: `10.5281/zenodo.3332806` (concept, always latest)
+: A concept DOI points to the resource as a whole, across all versions, and always resolves to the latest version. Use this when you want to cite the work in general. For example: `10.5281/zenodo.3332806` (concept, always latest).
 
 The concept DOI creates an umbrella that links all versions together.
 When you publish a new version, it gets a new version DOI, but the concept DOI remains the same.
@@ -241,6 +212,7 @@ In contrast, you should create an entirely new resource when the changes are sub
 When in doubt, ask yourself: "Would citing the old version still be valid and useful?" If yes, create a new version. If no, create a new resource.
 
 ### How to Publish New Versions
+
 ::::{tab-set}
 :::{tab-item} Zenodo
 :sync: tab1
@@ -268,36 +240,17 @@ When in doubt, ask yourself: "Would citing the old version still be valid and us
 :::
 :::{tab-item} Other repositories
 :sync: tab4
-- Check specific repository documentation
-- Some may require creating a new record and linking with IsNewVersionOf relationship
-- Contact repository support for guidance
+1. Check specific repository documentation
+2. Some may require creating a new record and linking with IsNewVersionOf relationship
+3. Contact repository support for guidance
 :::
 ::::
 
 
 ### Version Metadata Links
 
-Whether or not your repository has automatic version handling, you can explicitly link versions through connection metadata:
+Whether or not your repository has automatic version handling, you can explicitly link versions through connection metadata.
 
-- **IsVersionOf**: This resource is a version of another resource (generic)
-- **IsNewVersionOf**: This is a newer version than another specific version
-- **IsPreviousVersionOf**: This is an older version than another specific version
-- **HasVersion**: This resource has versions (usually used by the concept DOI)
-
-Example version linking:
-```
-Version 1.0 (doi:10.1234/data.v1)
-  IsNewVersionOf: [nothing - it's the first]
-  IsPreviousVersionOf: 10.1234/data.v2
-
-Version 2.0 (doi:10.1234/data.v2)
-  IsNewVersionOf: 10.1234/data.v1
-  IsPreviousVersionOf: 10.1234/data.v3
-
-Version 3.0 (doi:10.1234/data.v3)
-  IsNewVersionOf: 10.1234/data.v2
-  IsPreviousVersionOf: [nothing - it's the latest]
-```
 
 ### Best Practices for Versioning
 
@@ -377,24 +330,31 @@ Complete funding metadata includes:
 
 **Repository-specific guidance:**
 
-**Zenodo:**
+::::{tab-set}
+:::{tab-item} Zenodo
+:sync: tab1
 - "Funding" section during upload
 - Type-ahead search of Funder Registry
 - Add multiple funders
 - Fields for grant number and details
-
-**Figshare:**
+:::
+:::{tab-item} Figshare
+:sync: tab2
 - "Funding" field in metadata editor
 - Free text, but try to match official grant information
-
-**Dryad:**
+:::
+:::{tab-item} Dryad
+:sync: tab3
 - "Funding information" during submission
 - Connected to journal submission data when available
-
-**OSF:**
+:::
+:::{tab-item} OSF
+:sync: tab4
 - Not currently supported in core OSF metadata
 - Can include in project description/wiki
 - Supported in some OSF-integrated services
+:::
+::::
 
 ### Best Practices for Funding Citation
 
@@ -419,7 +379,9 @@ Funder Identifier: https://ror.org/02b5d8509
 Award Number: NE/X067891/1
 ```
 
-Note: A project might list both the parent organization (UKRI) and the specific council (NERC) if both provided funding or if the specific council should be credited.
+:::{note}
+A project might list both the parent organization (UKRI) and the specific council (NERC) if both provided funding or if the specific council should be credited.
+:::
 
 (cm-citable-linking-people)=
 ## People and Organizations in Metadata
@@ -429,22 +391,22 @@ Including these identifiers in your research output metadata creates a rich netw
 
 ### ORCID: Persistent Identifiers for Researchers
 
-ORCID (Open Researcher and Contributor ID) provides unique identifiers for researchers that distinguish them from everyone else, even people with identical names.
+{abbr}`ORCID (Open Researcher and Contributor ID)` provides unique identifiers for researchers that distinguish them from everyone else, even people with identical names.
 
 For comprehensive guidance on ORCID, see our {ref}`dedicated ORCID chapter<cm-citable-orcid>`.
 
 **Key points for connection metadata:**
-- Include your ORCID iD when depositing research outputs
-- Add ORCID iDs for all co-authors when possible
-- The ORCID iD connects all your outputs across different repositories and publications
-- Your ORCID profile can automatically collect works that cite your ORCID iD
+- Include your ORCID when depositing research outputs
+- Add ORCIDs for all co-authors when possible
+- The ORCID connects all your outputs across different repositories and publications
+- Your ORCID profile can automatically collect works that cite your ORCID
 
 **Format:** ORCIDs are 16-digit numbers formatted as `0000-0001-2345-6789`
 As URLs: `https://orcid.org/0000-0001-2345-6789`
 
 ### ROR: Persistent Identifiers for Organizations
 
-ROR (Research Organization Registry) provides unique identifiers for research institutions.
+{abbr}`ROR (Research Organization Registry)` provides unique identifiers for research institutions.
 
 **Uses in metadata:**
 - Author/creator affiliations

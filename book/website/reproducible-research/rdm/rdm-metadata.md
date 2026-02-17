@@ -54,10 +54,13 @@ There are also situations when researchers make use of more general metadata sta
 
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
 
+Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
+
+
 (rr-rdm-metadata-pid)=
 ### PID Metadata
 
-PID metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms. 
+{abbr}`PID (Persistent Identifier)` metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms. 
 
 PID metadata includes core properties like:
 - Creator names and affiliations
@@ -70,7 +73,6 @@ Both types of metadata are valuable - PID metadata enables broad discoverability
 
 Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](rr-rdm-pid-metadata).
 
-Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
 
 
 (rr-rdm-metadata-tagging)=

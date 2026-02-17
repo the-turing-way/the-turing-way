@@ -47,21 +47,23 @@ These systems work together to create a **connected scholarly graph** where rese
 
 [DataCite](https://datacite.org/) and [Crossref](https://www.crossref.org/) are the two main providers of Digital Object Identifiers (DOIs) for research:
 
-- **DataCite** specializes in assigning DOIs to diverse research outputs including:
-  - Datasets
-  - Software and code
-  - Preprints and working papers
-  - Protocols and methods
-  - Presentations and posters
-  - Data Management Plans
-  - Physical samples
-  - Workflows and computational notebooks
+DataCite specialises in assigning DOIs to diverse research outputs including:
 
-- **Crossref** primarily handles:
-  - Journal articles and book chapters
-  - Published conference proceedings
-  - Dissertations and theses
-  - Reports and standards documents
+- Datasets
+- Software and code
+- Preprints and working papers
+- Protocols and methods
+- Presentations and posters
+- Data Management Plans
+- Physical samples
+- Workflows and computational notebooks
+
+Crossref primarily handles:
+
+- Journal articles and book chapters
+- Published conference proceedings
+- Dissertations and theses
+- Reports and standards documents
 
 Both systems use the same DOI infrastructure (the Handle System), so all DOIs work the same way regardless of which organization issued them.
 The main difference is in their communities and the types of metadata they specialize in collecting.
