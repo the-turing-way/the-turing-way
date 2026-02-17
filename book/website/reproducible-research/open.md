@@ -33,6 +33,7 @@ Schematically, the research process has the following form: data are collected a
 - _Open Hardware_: Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
 - _Open Access_: Making all published outputs freely accessible for maximum use and impact.
 - _Open Notebooks_: An emerging practice, documenting and sharing the experimental process of trial and error.
+- _Open Infrastructure_ : Producing research infrastructure tools and platforms through open, adoptable and adaptable means.
 
 See the [Open Definition](https://opendefinition.org/) for a set of principles that define “openness” in relation to data and content. The above elements are expanded upon in this chapter.
 
