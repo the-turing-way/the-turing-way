@@ -38,7 +38,8 @@ For example, an academic community based at a single institution might require a
 Regardless, the rest of this section contains questions and prompts to help you document the answers to various aspects of producing this type of report which you might need to cover as part of such a submission and which should be communicated to the community. 
 
 ### How will you tell people?
-Communicating with the wider community about the process of producing a Community Insight Report is critical. The exercise in and of itself can be a great community engagement strategy and you will need people to know it is happening if you want them to participate in the interviews.  
+Communicating with the wider community about the process of producing a Community Insight Report is critical.
+The exercise in and of itself can be a great community engagement strategy and you will need people to know it is happening if you want them to participate in the interviews.  
 
 At a minimum, notice should be shared on standard community channels (newsletters, Slack, or GitHub, for example) to let people know that this work is going ahead, with sufficient notice to allow people to raise concerns or questions they have about the process. 
 Ideally, people involved in the production of the Community Insight Report will provide regular updates across channels as the project progresses, including clear ways to get in touch with the project team and how to volunteer to be interviewed if that is part of the process. 
