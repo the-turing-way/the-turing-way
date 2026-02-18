@@ -1,4 +1,4 @@
-(cl-hybrid-collab-guidelines)=
+(cl-mec-hybrid-collab-guidelines)=
 # Guidelines for Hybrid Collaboration
 
 ## Chairing Hybrid Events

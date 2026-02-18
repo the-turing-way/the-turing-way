@@ -1,4 +1,4 @@
-(cl-organising-meetings)=
+(cl-mec-remote-organising-meetings)=
 # Organising Remote Meetings
 
 A successful meeting in the context of research or team-based science is organised by first defining the purpose - why this meeting is being organised and what input from participants will be expected.

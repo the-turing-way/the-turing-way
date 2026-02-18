@@ -1,4 +1,4 @@
-(cl-hybrid-collab-resources)=
+(cl-mec-hybrid-collab-resources)=
 
 # Useful resources
 
