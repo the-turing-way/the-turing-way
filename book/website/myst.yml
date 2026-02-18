@@ -808,6 +808,15 @@ project:
           children:
             - file: collaboration/oss-sustainability/oss-sustainability-examples.md
               title: Examples of Open Source Business Models
+         - file: collaboration/understanding-community.md
+           title: Understanding Your Community
+           children:
+            - file: collaboration/understanding-community/community-insights-summary.md
+              title: Summary of Different Community Assessment Processes
+            - file: collaboration/understanding-community/community-insight-report.md
+              title: Running a Community Insight Report
+            - file: collaboration/understanding-community/community-insight-report-example.md
+              title: Example Community Insight Report: Voices of JupyterHub
     # ===== Guide for Ethical Research ========================================
     - file: ethical-research/ethical-research.md
       children:
