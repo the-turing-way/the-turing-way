@@ -24,7 +24,7 @@ Here is an example profile,
 :::{profile} Your Name
 ---
 roles: >
-    semi-colon seperated list;
+    semi-colon separated list;
     of your roles;
     in the community
 github: JimMadge # <GitHub id without leading @>
@@ -53,7 +53,7 @@ Which renders like,
 :::{profile} Your Name
 ---
 roles: >
-    semi-colon seperated list;
+    semi-colon separated list;
     of your roles;
     in the community
 github: JimMadge # <GitHub id without leading @>
