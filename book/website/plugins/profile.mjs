@@ -4,7 +4,7 @@ const gitHubUserRole = {
   doc: "Create a link to a GitHub profile",
   body: {
     type: String,
-    doc: "The GitHub username, not inclusing an @",
+    doc: "The GitHub username, not including an @",
     required: true,
   },
   run(data) {
