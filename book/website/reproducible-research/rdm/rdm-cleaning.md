@@ -10,12 +10,13 @@ Sometimes, it may even be quicker to restart data collection in order to avoid a
 During data cleaning there are several steps to take into account:
 
 **1. Backup Your Raw Data**
+
 Always save an untouched copy of your dataset before you begin! 
 If you make mistakes during the data cleaning process you can still go back to the original information. 
 All changes to data need to happen in one data file; if you use multiple versions it will be a mess to identify the correct/latest version to work in.  
 
-**2. Understand/Validate the Data
-**
+**2. Understand/Validate the Data**
+
 Data validation is a process used to determine if data are inaccurate, incomplete, or unreasonable (@Chapman2005data).
 
 To validate the data you can check if data are:
@@ -34,7 +35,7 @@ Reasonable
 
 Creating tables, plots, or calculating summaries and statistics are a helpful way to search for errors.
 
-**3. Remove unnecessary data, duplicates and consider outliers **
+**3. Remove unnecessary data, duplicates and consider outliers**
 
 Each unnecessary entry can complicate your analyses distort your findings. 
 Delete draft or test entries and duplicates, after carefully reviewing if they are indeed test entries or duplicates. 
@@ -43,16 +44,18 @@ These could be data entry errors, but they may also be the most interesting find
 Sum-to-total, range and validity checks can help you to find errors. 
 
 **4. Standardize entries**
+
 Align all variables, by for example writing all dates out in a similar manner, and keeping capitalisation consistent. 
 For example, "Yes,” “yes,” and “Y” are treated by computers as separate responses. 
 Ensure that all variables are labeled and used in a consistent manner across different data formats. 
 Use clear [naming conventions](#rr-rdm-storage-conventions] for your files and folders.
-**
-5. One variable is one data entry**
+
+**5. One variable is one data entry**
 Each variable should only collect one piece of information (@Wickham2014tidydata) (see [Data Organisation in Spreadsheets for more tips](#rr-rdm-spreadsheets-format).
 Consider how to split variables into multiple variables if more than one thing is measured. 
 
 **6. Handle Missing Data Thoughtfully**
+
 Decide how to manage missing values. 
 Missing data can mean a variety of things: perhaps a participant did not know the answer, or they refused to answer, the question was accidentally skipped, the handwriting was illegible, or there was an error made in data entry, or the value should be blank on purpose. 
 Should missing data be removed, imputed, or marked as “Unknown” or "Not Applicable"? 
@@ -60,6 +63,7 @@ Make sure that this decision is transparently documented somewhere.
 Deleting missing data entirely may not always make sense as missing data can provide insights on the data collection process.
 
 **7. Document Cleaning Steps**
+
 If your data is under [version control](#vcs), changes to the data will be automatically tracked. 
 You can also keep a text file with the changes, such as a "Data Cleaning Log.” 
 Record what you changed, when, and most importantly: why. 
@@ -67,6 +71,7 @@ This documentation increases transparency and by adding clear and detailed notes
 Versioning files and updating documentation takes time and consideration - and is worthwhile in the long run to save future you and others time trying to retrace your steps.
 
 **8. Update the data collection process to prevent future mistakes**
+
 It is easier to not have to clean data - you can prevent data errors during data collection. 
 Define range limits on your data where possible (for example, the score must be a value between 0 and 10 for household members; a birthday must be between certain dates). 
 Prevent blank values by requiring data entry, or ensure that where blank values should be present they are intentional. 
