@@ -23,7 +23,7 @@ Unlike a web address (URL) that can break when a website is reorganized or shut 
 ### The Link Rot Problem
 
 Research outputs shared online face a significant challenge: **link rot**.
-Studies have shown that up to 50% of URLs in scientific papers become inaccessible within just a few years.
+Studies have shown [one in five reference article become inaccessible](https://doi.org/10.1371/journal.pone.0115253) within just a few years.
 When a dataset moves from one repository to another, or when a university reorganizes its web infrastructure, ordinary web links break.
 This makes it impossible for other researchers to find and verify the original work.
 
@@ -92,7 +92,7 @@ Every university, research institute, and funding organization can have a unique
 Examples:
 - The Alan Turing Institute: `https://ror.org/03f0awy98`
 - Max Planck Society: `https://ror.org/01hhn8329`
-- Stanford University: `https://ror.org/00f54p054`
+- Himalayan Biodiversity Network: `https://ror.org/03b57r242`
 
 ROR IDs appear in research output metadata to indicate:
 - Where researchers are affiliated
@@ -128,8 +128,8 @@ Funders, institutions, and researchers can trace the full story of research from
 (rr-rdm-pid-fair)=
 ## PIDs and FAIR Principles
 
-Persistent identifiers are not just convenient - they're fundamental to making research FAIR (Findable, Accessible, Interoperable, and Reusable).
-See our [chapter on FAIR principles](rr-rdm-fair) for a comprehensive overview.
+Persistent identifiers are not just convenient - they're fundamental to making research [FAIR (Findable, Accessible, Interoperable, and Reusable)](rr-rdm-fair).
+
 
 ### Findable
 
@@ -174,7 +174,7 @@ This means tools and services can be built on top of PID infrastructure, creatin
 - Clear attribution enables ethical reuse
 - Versioning through PIDs allows citing specific versions while maintaining connections to the conceptual work
 
-When combined with open licenses (see our [licensing chapter](rr-licensing)), PIDs make it clear what can be reused and by whom.
+When combined with open [licenses](rr-licensing), PIDs make it clear what can be reused and by whom.
 
 (rr-rdm-pid-metadata)=
 ## PID Metadata
@@ -236,7 +236,7 @@ It's important to understand that PID metadata and domain-specific metadata serv
 **Both are needed:**
 Think of PID metadata as the catalog card that helps someone find a book in a library, while domain-specific metadata is the detailed table of contents and index inside the book.
 
-Our [metadata chapter](rr-rdm-metadata) discusses community standards like [FAIRsharing](https://fairsharing.org/) that help you find the right domain-specific standards for your field.
+Our [metadata chapter](rr-rdm-metadata) discusses resources like [FAIRsharing](https://fairsharing.org/) that help you find the right domain-specific standards for your field.
 When you deposit in a repository, you'll typically provide both:
 1. Core PID metadata through the repository's submission form
 2. Domain-specific metadata as part of your documentation and data files
@@ -352,7 +352,7 @@ There are two main ways to obtain PIDs:
   - Includes storage and preservation
   - Repository maintains the PID even if you move institutions
   - Established community trust
-- **Examples**: Zenodo, Figshare, Dryad, OSF, institutional repositories
+- **Examples**: [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Dryad](https://datadryad.org/), [OSF](https://osf.io/), institutional repositories
 
 See our [chapter on selecting repositories](rr-rdm-repository) for guidance on choosing the right one.
 

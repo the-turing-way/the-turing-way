@@ -36,7 +36,7 @@ ROs facilitate reproducibility of the scientific methods and results through acc
 
 There are three guiding principles for RO:
 - Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID iDs for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcid>`).
-These persistent identifiers are part of an interconnected open scholarly infrastructure - see our [chapter on persistent identifiers](rr-rdm-pid) to learn how PIDs from DataCite, Crossref, ORCID, and ROR work together to create a connected scholarly graph.
+These persistent identifiers are part of an interconnected open scholarly infrastructure - see our [chapter on persistent identifiers](rr-rdm-pid).
 - Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 - Annotation - Use rich machine-readable metadata (discussed in {ref}`Chapter on Documentation and Metadata<rr-rdm-metadata>`) that help ensure findability and accessibility of all scientific work.
 RO helps understand the entire research lifecycle through research outcomes including publication shared progressively, allowing to track the versioning and development of the entire project.
@@ -50,9 +50,11 @@ As a result, ROs support evidence and support validation of findings claimed in 
 
 Research objects span the entire research lifecycle, not just final peer-reviewed publications. Interim research outputs - including preprints, protocols, data management plans, and preliminary datasets - can all be published with persistent identifiers and formally cited, enabling transparency and incremental credit for research work.
 
-Each type of interim output serves a distinct purpose in the research process. Preprints enable rapid sharing of findings before peer review, protocols document methodologies for reproducibility, DMPs demonstrate rigorous planning, and preliminary data allow validation and feedback from the community. Publishing these outputs with DOIs creates a traceable record of your research evolution and allows others to build on your work at every stage.
-
-Making interim outputs citable benefits both individual researchers and the broader community. Researchers receive credit for methodological innovations and early-stage work, while the community gains access to protocols, receives earlier feedback opportunities, and can identify complementary research efforts sooner. The infrastructure for making these outputs citable is straightforward - most platforms automatically assign DOIs when you publish.
+Each type of interim output serves a distinct purpose in the research process. Preprints enable rapid sharing of findings before peer review, protocols document methodologies for reproducibility, Data Management Plans demonstrate rigorous planning, and preliminary data allow validation and feedback from the community.
+Publishing these outputs with DOIs creates a traceable record of your research evolution and allows others to build on your work at every stage.
+Making interim outputs citable benefits both individual researchers and the broader community.
+Researchers receive credit for methodological innovations and early-stage work, while the community gains access to protocols, receives earlier feedback opportunities, and can identify complementary research efforts sooner.
+The infrastructure for making these outputs citable is straightforward - most platforms automatically assign DOIs when you publish.
 
 For specific guidance on publishing different types of interim research outputs:
 - **Preprints:** See our guidance on [preprint DOI workflows](rr-open-access-preprints-doi)

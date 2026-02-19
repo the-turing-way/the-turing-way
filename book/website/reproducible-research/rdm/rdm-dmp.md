@@ -84,7 +84,10 @@ You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-d
 
 ## DMPs as Citable Research Objects
 
-Many funders now encourage or require DMP as part of their open science policies. Publishing your DMP also allows you to create a living document - you can update it during the project and deposit new versions with new DOIs while maintaining all previous versions. This creates a traceable record of how your data management evolved throughout the research lifecycle. See {ref}`Citable Research Objects chapter<cm-citable-research-objects>` for more information on how to make your DMP citable.
+Many funders now encourage or require DMP as part of their open science policies.
+Publishing your DMP also allows you to create a living document - you can update it during the project and deposit new versions with new DOIs while maintaining all previous versions.
+This creates a traceable record of how your data management evolved throughout the research lifecycle.
+See {ref}`Citable Research Objects chapter<cm-citable-research-objects>` for more information on how to make your DMP citable.
 
 
 
