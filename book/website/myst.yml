@@ -544,8 +544,12 @@ project:
               title: Create a CITATION.cff using CFFinit
             - file: communication/citable/citable-linking.md
               title: Linking Research Objects
+            - file: communication/citable/citable-metadata.md
+              title: Connection Metadata
             - file: communication/citable/citable-orcid.md
               title: ORCID to Collect your Research Objects
+            - file: communication/citable/citable-versioning.md
+              title: Managing Versions Through PIDs
             - file: communication/citable/citable-resources.md
               title: Checklists and Resources
         - file: communication/dif-articles.md
