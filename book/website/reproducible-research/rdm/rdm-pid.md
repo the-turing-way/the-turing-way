@@ -431,6 +431,8 @@ Key connections you can make:
 - [DataCite Support](https://support.datacite.org/) - Technical documentation and help
 - [Crossref Resource Center](https://www.crossref.org/documentation/) - Documentation for Crossref services
 - [ORCID Support](https://support.orcid.org/) - Help with ORCID iDs
+- [PIDs 101 Webcast](https://www.youtube.com/watch?v=gnomtSUbi9Y) - Webinar introducing PIDs
+
 
 ### PID Services and Tools
 
