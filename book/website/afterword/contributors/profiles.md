@@ -779,16 +779,6 @@ github: sandygudie
 orcid: 0009-0002-3435-837X
 bio: |
     I am a software developer and i enjoy contributing to open source projects for skill development and creating impact. I am currently working with the African Union Commission, Addis Ababa, Ethiopia, were i support digtial transformation implementation project nd data policy framework particularly in monitoring, evaluation and learning activities.
-    I join the Open Science community Saudi Arabia through the outreachy internship where i developed a bilingual [Open Innovation](https://moocs-client.netlify.app/) project that earned a grant from the Open Infrastructure Fund. I join the TTW to contribute to localization of the Handbook and participate in the bookdash. I also present at conferences to advocate for documentation and multilingualism in open science. My presentations highlight the importance of accessible knowledge across diverse linguistic communities. The conference presentations are available on Zenodo: [https://zenodo.org/records/7844839](https://zenodo.org/records/7844839) and [https://zenodo.org/records/15004528](https://zenodo.org/records/15004528).
-    2023:This is my first Bookdash event and I am excited for the contribution I made during this period. I collaborated with \@SaranjeetKaur  to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
-highlights: |
-    highlights: |
-    2023: The event was enlightening, I learned a lot about The Turing Way community.
-    2024: Thanks to the bookdash, I was able to make contributions to the localisation of the TTW Handbook. I got to learn about the challenges and the effort to improve the translation process. I contribute to writing documentation on the history of localization activities in the TTW. I wrote on the approaches, achievements and challenges.
-     2024: So excited for the lessons and connections, I met a new friend Abasi-amefon Affia.
-     NOv 2024:I joined the planning committee to co-organise the November 2024 Book Dash. It was a great experience being part of the careful planning, clear communication, and shared responsibility that made the event successful. I especially appreciated the strong sense of shared ownership in our meetings including working together on timelines, roles, and deliverables in a way that reflected trust and collaboration.
-quote: |
-Open-source communities have become hubs for innovation, offering inclusive environments where developers, designers, researchers, and practitioners can learn, collaborate, and contribute to real-world projects. These communities provide professional development opportunities that go far beyond traditional learning environments.
 ---
 :::
 
