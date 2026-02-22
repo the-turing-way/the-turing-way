@@ -805,7 +805,8 @@ highlights: |
     I especially appreciated the strong sense of shared ownership in our meetings including working together on timelines, roles, and deliverables in a way that reflected trust and collaboration.
     
 quote: |
-     Open-source communities have become hubs for innovation, offering inclusive environments where developers, designers, researchers, and practitioners can learn, collaborate, and contribute to real-world projects. These communities provide professional development opportunities that go far beyond traditional learning environments.
+     Open-source communities have become hubs for innovation, offering inclusive environments where developers, designers, researchers, and practitioners can learn, collaborate, and contribute to real-world projects.
+     These communities provide professional development opportunities that go far beyond traditional learning environments.
 ---
 :::
 
