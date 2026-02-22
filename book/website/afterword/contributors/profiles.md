@@ -788,15 +788,21 @@ bio: |
 
     I also contribute to related community, the Open Science Community Saudi Arabia to develop a bilingual [Open Innovation](https://moocs-client.netlify.app/) project that earned a grant from the Open Infrastructure Fund. 
 highlights: |
-    2023: This is my first Bookdash event and I am excited for the contribution I made during this period. I collaborated with \@SaranjeetKaur to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
+    2023: This is my first Bookdash event and I am excited for the contribution I made during this period.
+    I collaborated with [Saranjeet Kaur Bhogal](#profile-saranjeet-kaur-bhogal) to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
     
-     2023: The event was enlightening, I learned a lot about The Turing Way community.
+    2023: The event was enlightening, I learned a lot about The Turing Way community.
      
-     2024: Thanks to the bookdash, I was able to make contributions to the localisation of the TTW Handbook. I got to learn about the challenges and the effort to improve the translation process. I contribute to writing documentation on the history of localization activities in the TTW. I wrote on the approaches, achievements and challenges.
+    2024: Thanks to the Bookdash, I was able to make contributions to the localisation of the _The Turing Way_.
+    I got to learn about the challenges and the effort to improve the translation process.
+    I contributed to writing documentation on the history of localization activities in the _The Turing Way_.
+    I wrote on the approaches, achievements and challenges.
      
-     2024: So excited for the lessons and connections, I met a new friend Abasi-amefon Affia.
+    2024: So excited for the lessons and connections, I met a new friend Abasi-amefon Affia.
      
-     Nov 2024: I joined the planning committee to co-organise the November 2024 Book Dash. It was a great experience being part of the careful planning, clear communication, and shared responsibility that made the event successful. I especially appreciated the strong sense of shared ownership in our meetings including working together on timelines, roles, and deliverables in a way that reflected trust and collaboration.
+    Nov 2024: I joined the planning committee to co-organise the November 2024 Book Dash.
+    It was a great experience being part of the careful planning, clear communication, and shared responsibility that made the event successful.
+    I especially appreciated the strong sense of shared ownership in our meetings including working together on timelines, roles, and deliverables in a way that reflected trust and collaboration.
     
 quote: |
      Open-source communities have become hubs for innovation, offering inclusive environments where developers, designers, researchers, and practitioners can learn, collaborate, and contribute to real-world projects. These communities provide professional development opportunities that go far beyond traditional learning environments.
