@@ -778,7 +778,9 @@ roles: |
 github: sandygudie
 orcid: 0009-0002-3435-837X
 bio: |
-    I am a software developer and i enjoy contributing to open source projects for skill development and creating impact. I am currently working with the African Union Commission, Addis Ababa, Ethiopia, were i support digtial transformation implementation project nd data policy framework particularly in monitoring, evaluation and learning activities.
+    I am a software developer and I enjoy contributing to open source projects for skill development and creating impact.
+    I am currently working with the African Union Commission, Addis Ababa, Ethiopia, were I support digital transformation implementation project and data policy framework particularly in monitoring, evaluation and learning activities.
+
     I join the TTW to contribute to localization of the Handbook and participate in the bookdash. I also present at conferences to advocate for documentation and multilingualism in open science. My presentations highlight the importance of accessible knowledge across diverse linguistic communities. The conference presentations are available on Zenodo: [https://zenodo.org/records/7844839](https://zenodo.org/records/7844839) and [https://zenodo.org/records/15004528](https://zenodo.org/records/15004528).
     I also contribute to related community, the Open Science Community Saudi Arabia to develop a bilingual [Open Innovation](https://moocs-client.netlify.app/) project that earned a grant from the Open Infrastructure Fund. 
 highlights: |
