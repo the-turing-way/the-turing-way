@@ -140,7 +140,7 @@ A small minority of people simply will not participate if doing so requires that
 
 - The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open source licenses
 - [Free Software Foundation](https://www.fsf.org/) maintains a [list of GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses)
-   - [GNU/FSF recomendations](https://www.gnu.org/licenses/license-recommendations.html)
+   - [GNU/FSF recommendations](https://www.gnu.org/licenses/license-recommendations.html)
 - [choosealicense.com](https://choosealicense.com/) provides a tool to guide you through the license choice project.
 - [Organisation for ethical source](https://ethicalsource.dev/) maintains a list of [ethical source licenses](https://ethicalsource.dev/licenses/)
 - License guidance for Machine Learning Models have been provided in the {ref}`rr-licensing-ml`
