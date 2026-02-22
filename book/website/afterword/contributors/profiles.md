@@ -772,17 +772,41 @@ quote: |
 :::{profile} Goodnews Sandy
 ---
 roles: |
-    Book Dash participant (2023-2024)
+    The Turning Way Translation team;
+    Book Dash participant (2023-2024);
+    Book Dash Planning Committee (Nov 2024)
 github: sandygudie
+orcid: 0009-0002-3435-837X
 bio: |
-    I am a fullstack developer and enjoy contributing to open source projects. I contribute to the open science community Saudi Arabia and contribute to the localization effort in the TTW. I have a couple of articles on [medium](https://medium.com/@sandygoody) on various web technologies and activities. I enjoy contributing to Open Source.
-more: |
-    This is my first Bookdash event and I am excited for the contribution I made during this period. I collaborated with \@SaranjeetKaur  to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
+    I am a software developer and I enjoy contributing to open source projects for skill development and creating impact.
+    I am currently working with the African Union Commission, Addis Ababa, Ethiopia, were I support digital transformation implementation project and data policy framework particularly in monitoring, evaluation and learning activities.
+
+    I joined _The Turing Way_ to contribute to localization and participate in the Bookdash.
+    I also present at conferences to advocate for documentation and multilingualism in open science.
+    My presentations highlight the importance of accessible knowledge across diverse linguistic communities.
+    The conference presentations are available on Zenodo: [](doi:10.5281/zenodo.7844839) and [](doi:10.5281/zenodo.15004528).
+
+    I also contribute to related community, the Open Science Community Saudi Arabia to develop a bilingual [Open Innovation](https://moocs-client.netlify.app/) project that earned a grant from the Open Infrastructure Fund. 
 highlights: |
+    2023: This is my first Bookdash event and I am excited for the contribution I made during this period.
+    I collaborated with [Saranjeet Kaur Bhogal](#profile-saranjeet-kaur-bhogal) to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
+    
     2023: The event was enlightening, I learned a lot about The Turing Way community.
-    2024: Thanks to the bookdash, I was able to make a contribution to the localisation of the TTW Handbook. I got to learn about the challenges andnthe effort to improve the process. I contribute to writing documentation on the history and localization efforts in the TTW so far. it covers the achievements and challenges.
+     
+    2024: Thanks to the Bookdash, I was able to make contributions to the localisation of the _The Turing Way_.
+    I got to learn about the challenges and the effort to improve the translation process.
+    I contributed to writing documentation on the history of localization activities in the _The Turing Way_.
+    I wrote on the approaches, achievements and challenges.
+     
+    2024: So excited for the lessons and connections, I met a new friend [Abasi-amefon Affia](#profile-abasi-amefon-obot-affia) from my home town.
+     
+    Nov 2024: I joined the planning committee to co-organise the November 2024 Book Dash.
+    It was a great experience being part of the careful planning, clear communication, and shared responsibility that made the event successful.
+    I especially appreciated the strong sense of shared ownership in our meetings including working together on timelines, roles, and deliverables in a way that reflected trust and collaboration.
+    
 quote: |
-    2024: So excited that I learned and met a new friend Abasi-amefon Affia.
+     Open-source communities have become hubs for innovation, offering inclusive environments where developers, designers, researchers, and practitioners can learn, collaborate, and contribute to real-world projects.
+     These communities provide professional development opportunities that go far beyond traditional learning environments.
 ---
 :::
 
