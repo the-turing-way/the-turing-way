@@ -138,7 +138,7 @@ A small minority of people simply will not participate if doing so requires that
 (rr-licensing-choosing)=
 ### Where to Find Open Licenses for Code and Software?
 
-- The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open source licenses
+- The [Open Source Initiative (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open source licenses
 - [Free Software Foundation](https://www.fsf.org/) maintains a [list of GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses)
    - [GNU/FSF recommendations](https://www.gnu.org/licenses/license-recommendations.html)
 - [choosealicense.com](https://choosealicense.com/) provides a tool to guide you through the license choice project.
