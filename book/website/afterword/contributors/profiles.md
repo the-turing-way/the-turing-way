@@ -781,7 +781,11 @@ bio: |
     I am a software developer and I enjoy contributing to open source projects for skill development and creating impact.
     I am currently working with the African Union Commission, Addis Ababa, Ethiopia, were I support digital transformation implementation project and data policy framework particularly in monitoring, evaluation and learning activities.
 
-    I join the TTW to contribute to localization of the Handbook and participate in the bookdash. I also present at conferences to advocate for documentation and multilingualism in open science. My presentations highlight the importance of accessible knowledge across diverse linguistic communities. The conference presentations are available on Zenodo: [https://zenodo.org/records/7844839](https://zenodo.org/records/7844839) and [https://zenodo.org/records/15004528](https://zenodo.org/records/15004528).
+    I joined _The Turing Way_ to contribute to localization and participate in the Bookdash.
+    I also present at conferences to advocate for documentation and multilingualism in open science.
+    My presentations highlight the importance of accessible knowledge across diverse linguistic communities.
+    The conference presentations are available on Zenodo: [](doi:10.5281/zenodo.7844839) and [](doi:10.5281/zenodo.15004528).
+
     I also contribute to related community, the Open Science Community Saudi Arabia to develop a bilingual [Open Innovation](https://moocs-client.netlify.app/) project that earned a grant from the Open Infrastructure Fund. 
 highlights: |
     2023: This is my first Bookdash event and I am excited for the contribution I made during this period. I collaborated with \@SaranjeetKaur to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
