@@ -291,7 +291,7 @@ const profileDirective = {
     }
 
     // Create label from name
-    const label = "profile-" + name.replace(" ", "-").toLowerCase();
+    const label = "profile-" + name.replaceAll(" ", "-").toLowerCase();
 
     // Create card
     let card = {
