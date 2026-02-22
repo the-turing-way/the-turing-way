@@ -798,7 +798,7 @@ highlights: |
     I contributed to writing documentation on the history of localization activities in the _The Turing Way_.
     I wrote on the approaches, achievements and challenges.
      
-    2024: So excited for the lessons and connections, I met a new friend Abasi-amefon Affia.
+    2024: So excited for the lessons and connections, I met a new friend [Abasi-amefon Affia](#profile-abasi-amefon-obot-affia) from my home town.
      
     Nov 2024: I joined the planning committee to co-organise the November 2024 Book Dash.
     It was a great experience being part of the careful planning, clear communication, and shared responsibility that made the event successful.
