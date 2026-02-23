@@ -27,7 +27,7 @@ The fields are optional, so leave any out that don't apply.
 :::{profile} Your Name
 ---
 roles: >
-    semi-colon seperated list;
+    semi-colon separated list;
     of your roles;
     in the community
 github: <GitHub id without leading @>

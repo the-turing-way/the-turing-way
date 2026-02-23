@@ -124,7 +124,7 @@ const communityRolesRole = {
   docs: "Create a list of your roles in the community",
   body: {
     type: String,
-    doc: "A semicolon-seperated (;) list of roles",
+    doc: "A semicolon-separated (;) list of roles",
     required: true,
   },
   run(data) {
