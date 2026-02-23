@@ -22,7 +22,7 @@ alt: A garden full of folks working on different parts of the garden. Someone is
 
 ## Wondering where to start?
 
-Please follow {ref}`ch-contributing-guideline` and {ref}`ch-coc` to participate in and contribute to _The Turing Way_.
+Please follow [](#ch-contributing) and [](#ch-coc) to participate in and contribute to _The Turing Way_.
 
 Read the {ref}`fw-community` for details about community and community roles.
 

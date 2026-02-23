@@ -1,6 +1,8 @@
 (rr-open-resources)=
 # Resources
 
+To learn more about recommended Open Research practices across disciplines, check out: [Open Research: Examples of good practice, and resources across disciplines](https://doi.org/10.31219/osf.io/3r8hb) {cite:ps}`Farran2025openpractices`.
+
 (rr-open-resources-learn)=
 ## What to Learn Next
 

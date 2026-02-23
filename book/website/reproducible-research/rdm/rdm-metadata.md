@@ -59,7 +59,7 @@ Want to learn more about Metadata and Metadata Standards? Watch an [introduction
 (rr-rdm-metadata-pid)=
 ### PID Metadata
 
-{abbr}`PID (Persistent Identifier)` metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms. 
+{abbr}`PID (Persistent Identifier)` metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms.
 
 PID metadata includes core properties like:
 - Creator names and affiliations
@@ -72,6 +72,25 @@ Both types of metadata are valuable - PID metadata enables broad discoverability
 
 Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](rr-rdm-pid-metadata).
 
+(rr-rdm-readme)=
+## README for datasets
+
+A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others.
+A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
+
+README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used).
+See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
+
+### README tips and examples
+
+* Create one README file for each dataset
+* Name the file README
+* Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.
+
+Example templates:
+
+* [Cornell Template](https://cornell.app.box.com/v/ReadmeTemplate)
+* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
 
 
 (rr-rdm-metadata-tagging)=

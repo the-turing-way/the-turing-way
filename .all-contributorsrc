@@ -2,7 +2,7 @@
   "_comment": "This JSON file controls the behaviour of the all contributors bot. A description of the keys can be found here: https://allcontributors.org/docs/en/bot/configuration",
   "files": [
     "README.md",
-    "book/website/afterword/contributors-record.md"
+    "book/website/afterword/contributors/all-contributors.md"
   ],
   "imageSize": 100,
   "contributorsPerLine": 6,
@@ -468,7 +468,8 @@
       "profile": "http://chrisholdgraf.com",
       "contributions": [
         "question",
-        "ideas"
+        "ideas",
+        "talk"
       ]
     },
     {
@@ -2519,7 +2520,8 @@
         "review",
         "content",
         "bug",
-        "a11y"
+        "a11y",
+        "talk"
       ]
     },
     {
@@ -5173,7 +5175,8 @@
       "profile": "https://oieltd.com",
       "contributions": [
         "content",
-        "bug"
+        "bug",
+        "talk"
       ]
     },
     {
@@ -5184,7 +5187,8 @@
       "contributions": [
         "bug",
         "infra",
-        "platform"
+        "platform",
+        "talk"
       ]
     },
     {
@@ -5320,7 +5324,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/45071?v=4",
       "profile": "https://mentat.za.net",
       "contributions": [
-        "bug"
+        "bug",
+        "review"
       ]
     },
     {
@@ -5383,7 +5388,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/55780866?v=4",
       "profile": "https://github.com/FreekPols",
       "contributions": [
-        "bug"
+        "bug",
+        "talk"
       ]
     },
     {
@@ -5459,6 +5465,15 @@
       ]
     },
     {
+      "login": "nikhil26vaddadi",
+      "name": "Sai Nikhil Vaddadi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29629242?v=4",
+      "profile": "https://github.com/nikhil26vaddadi",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
       "login": "Vamsiindugu",
       "name": "Vamsi Indugu",
       "avatar_url": "https://avatars.githubusercontent.com/u/150576424?v=4",
@@ -5483,7 +5498,89 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/93191705?v=4",
       "profile": "https://mikey24-7.xyz",
       "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "veerasai06",
+      "name": "veerasai06",
+      "avatar_url": "https://avatars.githubusercontent.com/u/229084338?v=4",
+      "profile": "https://github.com/veerasai06",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "brechtjehuiskes",
+      "name": "Brechtje",
+      "avatar_url": "https://avatars.githubusercontent.com/u/243357208?v=4",
+      "profile": "https://github.com/brechtjehuiskes",
+      "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "fwkoch",
+      "name": "Franklin Koch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9453731?v=4",
+      "profile": "https://github.com/fwkoch",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "rlanzafame",
+      "name": "Robert Lanzafame",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22560680?v=4",
+      "profile": "https://github.com/rlanzafame",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "luukfroling",
+      "name": "Luuk Fröling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31106485?v=4",
+      "profile": "https://github.com/luukfroling",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "rendell",
+      "name": "Rendell de Kort",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10668732?v=4",
+      "profile": "http://www.c-economics.com",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "alwil",
+      "name": "Aleksandra Ewa Wilczynska",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7210572?v=4",
+      "profile": "https://github.com/alwil",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "campioru",
+      "name": "Ruaidhrí Campion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79585079?v=4",
+      "profile": "https://www.maths.tcd.ie/~rcampion/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "yaochengchen",
+      "name": "yaochengchen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51320658?v=4",
+      "profile": "https://github.com/yaochengchen",
+      "contributions": [
+        "content"
       ]
     }
   ]

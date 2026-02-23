@@ -3,7 +3,7 @@
 
 ## Write each sentence in a new line (line breaks)
 
-Please write all sentences in the markdown file on separate lines.
+Please write all sentences on separate lines.
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
 Consider the example below.
 

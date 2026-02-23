@@ -19,7 +19,7 @@ There are many different skills required to work well in groups with a wide rang
 In this guide, we welcome contributions in developing guidance on the following (but not limited to) topics:
 
 * Designing a project that welcomes contributions
-* Distributed collaboration on GitHub
+* Distributed collaboration with git
 * Reviewing team member's contributions
 * Remote working
 * Running an inclusive event
@@ -27,4 +27,4 @@ In this guide, we welcome contributions in developing guidance on the following 
 * Defining explicit expectations
 * Participatory co-creation
 
-Check out our [contributing guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.
+Check out our [contributing guidelines](#ch-contributing) to get involved.
