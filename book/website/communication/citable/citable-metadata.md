@@ -113,7 +113,8 @@ The specific process depends on which repository you're using, but the general a
 
 ### Example: Connecting a Complete Research Project
 
-The Implementing FAIR Workflows project is registered with a project ID (https://doi.org/10.60581/zaev-6p15), which links to the ORCIDs of the project team members, the ROR ID of partner organizations, and the outputs of the project - registeration, datasets, software, reports, etc. - are openly shared with DOI. DataCite Commons, the DOI metadata discovery portal aggregates the metadata of all project related resources and present a full overview: https://commons.datacite.org/doi.org/10.60581/zaev-6p15
+The Implementing FAIR Workflows project is registered with a project ID (https://doi.org/10.60581/zaev-6p15), which links to the ORCIDs of the project team members, the ROR ID of partner organizations, and the outputs of the project - such as registeration, datasets, software, reports - are openly shared with DOI.
+DataCite Commons, the DOI metadata discovery portal aggregates the metadata of all project related resources and present a full overview: https://commons.datacite.org/doi.org/10.60581/zaev-6p15
 
 
 
