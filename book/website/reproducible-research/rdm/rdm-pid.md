@@ -5,14 +5,7 @@ Persistent identifiers (PIDs) are long-lasting references to digital resources t
 They are fundamental to making research findable, accessible, and citable in the long term.
 Throughout this book, you'll see recommendations to "assign a DOI" or use persistent identifiers - this chapter explains what PIDs are, how they work, and how they enable FAIR and open research practices.
 
-```{figure} ../../../../figures/placeholder.*
----
-name: persistent-identifiers
-alt: Illustration showing how persistent identifiers connect research outputs, researchers, organizations, and funding sources in an open scholarly infrastructure ecosystem.
----
-Persistent identifiers create connections across the research ecosystem.
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
-```
+<!-- TODO: Add illustration for persistent identifiers when available -->
 
 (rr-rdm-pid-what)=
 ## What are Persistent Identifiers?
@@ -76,7 +69,7 @@ You don't usually need to choose between DataCite and Crossref yourself - the re
 [ORCID (Open Researcher and Contributor ID)](https://orcid.org/) provides unique identifiers for researchers.
 An ORCID iD is a 16-digit number that distinguishes you from every other researcher, even those with identical names.
 
-For comprehensive guidance on ORCID, see our [dedicated chapter on ORCID](communication-citable-orcid).
+For comprehensive guidance on ORCID, see our [dedicated chapter on ORCID](cm-citable-orcid).
 
 Key benefits:
 - Collect all your research outputs in one place, regardless of where they're published
@@ -109,7 +102,7 @@ This creates a traceable connection between:
 - The researchers who received funding
 - The research outputs that resulted
 
-For more on citing funding, see the section on [connection metadata in linking research outputs](rr-rdm-pid-connecting-funding).
+For more on citing funding, see the section on [connection metadata in linking research outputs](cm-citable-linking-funding).
 
 ### How These Systems Work Together
 
@@ -161,7 +154,7 @@ See our chapters on [open data](rr-open-data) and [sharing data](rr-rdm-sharing)
 - All DOIs use the same resolution infrastructure, regardless of who issued them
 - Standardized PID metadata formats enable automatic data exchange between systems
 - PIDs can be embedded in other metadata formats, citations, and databases
-- Relationship types (see [linking research outputs](communication-citable-linking)) allow expressing connections in machine-readable ways
+- Relationship types (see [linking research outputs](cm-citable-linking)) allow expressing connections in machine-readable ways
 
 This means tools and services can be built on top of PID infrastructure, creating value beyond what any single repository could provide.
 
@@ -414,7 +407,7 @@ This is much better than a link that simply returns "404 Not Found" - it provide
 ## Connecting Research Through PIDs
 
 PIDs are most powerful when they're used to connect related research outputs together.
-For detailed guidance on how to link your research outputs, versions, and funding through PID metadata, see our [chapter on linking research objects](communication-citable-linking).
+For detailed guidance on how to link your research outputs, versions, and funding through PID metadata, see our [chapter on linking research objects](cm-citable-linking).
 
 Key connections you can make:
 - Link datasets to the papers that describe them
@@ -449,7 +442,7 @@ Key connections you can make:
 - [Data Repositories](rr-rdm-repository) - Choosing where to deposit research outputs
 - [Documentation and Metadata](rr-rdm-metadata) - How to describe your research effectively
 - [Research Objects](communication-research-objects) - Sharing research throughout the lifecycle
-- [Linking Research Objects](communication-citable-linking) - Creating connections between related outputs
+- [Linking Research Objects](cm-citable-linking) - Creating connections between related outputs
 
 :::{note}
 Funding: This chapter was originally contributed as part of the dissemination efforts by the [Implementing FAIR Workflows project](https://doi.org/10.54224/20568), funded by [Templeton World Charity Foundation](https://www.templetonworldcharity.org/).

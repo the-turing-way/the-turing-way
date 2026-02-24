@@ -58,7 +58,7 @@ The infrastructure for making these outputs citable is straightforward - most pl
 
 For specific guidance on publishing different types of interim research outputs:
 - **Preprints:** See our guidance on [preprint DOI workflows](rr-open-access-preprints-doi)
-- **Protocols:** Learn about [protocols as citable objects](pd-overview-sharing-protocols-citable)
+- **Protocols:** Learn about [protocols as citable objects](pd-overview-sharing-protocols)
 - **Data Management Plans:** Discover [DMPs as research objects](rr-rdm-dmp-citable)
 - **Understanding DOIs:** Read our [chapter on persistent identifiers](rr-rdm-pid) for infrastructure details
 - **Linking outputs:** See [connecting research through metadata](cm-citable-linking) for creating relationships between interim and final outputs
