@@ -117,7 +117,7 @@ Decisions at the maintainer level may include the following:
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
 * Proposing funding ideas/proposals or responding to a call for applications to support their work in _The Turing Way_.
 * Suggesting changes in ongoing processes or current working models through discussions.
-* Organising a [](#ch-fireside-chat) in conversation with the Community Management Working Group.
+* Organising a [Fireside Chat event](#ch-fireside-chat) in conversation with the Community Management Working Group.
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
