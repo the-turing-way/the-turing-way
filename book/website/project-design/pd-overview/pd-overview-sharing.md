@@ -34,6 +34,11 @@ If the details of the protocols are not shared, researchers can spend months opt
 A tool that can be used to avoid this is [protocols.io](https://www.protocols.io/).
 It provides a way to ensure that your protocols are openly available, allowing you to update them while keeping track of the changes.
 Furthermore, having your protocols online makes them easier to share, creating opportunity for contributing.
+You can also link protocol DOIs to related research outputs (datasets, papers) using connection metadata - see our [chapter on linking research outputs](cm-citable-linking) for guidance on creating these connections.
+
+The benefits of making protocols FAIR and citable extend beyond credit: searchable protocols help others find proven methods, DOIs enable impact tracking, and formal citations encourage rigorous protocol documentation.
+Protocols.io provides [detailed guidance on protocol DOIs](https://www.protocols.io/help/dois), and Nature Protocols offers [best practices for protocol citation](https://www.nature.com/nprot/).
+For more information on how DOIs work, see our [chapter on persistent identifiers](rr-rdm-pid).
 
 ## Share Analysis Scripts and Research Software
 

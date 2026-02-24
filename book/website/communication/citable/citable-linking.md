@@ -25,6 +25,7 @@ But if you are hesitant about opening up your dataset before the article is publ
 ### Publish the Research Objects under restricted access
 
 Publishing your data under restricted access means that the data is uploaded to the repository, but you're only providing access to individuals that request access or you can provide access through sharing a private link.
+
 * You decide with whom to share the private link and whether individuals that request access will obtain access.
     * You can share the data with reviewers.
 * Your metadata (information about the data) is publicly available.
@@ -36,6 +37,7 @@ Publishing your data under restricted access means that the data is uploaded to 
 ### Publish the Research Objects under embargo
 
 An embargo means that you have already uploaded the data to the repository, but are not providing access to the data until a certain date.
+
 * No one has access to your data until the embargo period has expired (you can define this period), or until you changed the access permissions yourself.
     * You cannot share the data with reviewers.
 * Your metadata (information about the data) is publicly available.
@@ -44,10 +46,12 @@ An embargo means that you have already uploaded the data to the repository, but 
     * Add the DOI of the publication to the dataset;
     * Change the access permission rights if the embargo has not yet expired (see for example [Zenodo](https://zenodo.org/)).
 
+(cm-citable-linking-reserve-doi)=
 ### Reserve a DOI and publish later
 
 Several data repositories, such as [Zenodo](https://zenodo.org/) and [Figshare](https://figshare.com/), allow you to reserve a DOI.
 Reserving a DOI means you are not required to upload your data yet, but you will need to provide some metadata (title, author/contributors) to complete the DOI reservation. The reserved DOI will be in use after you actually uploaded the data and decide to publish the data.
+
 * No one has access to your data or the metadata yet, because the landing page of your dataset is not working yet.
     * Your data is not available to reviewers.
 * You can provide the correct DOI in the paper's **Data Availability Statement** and in the reference list (see {ref}`Citing Data<cm-citable-cite-data>`).
@@ -61,6 +65,7 @@ Reserving a DOI means you are not required to upload your data yet, but you will
 Whichever route you decide to take, it is important to double-check the proof of your article.
 The DOI for your dataset should be correctly listed in the **Data Availability Statement** and in the reference list.
 For more information see {ref}`Citing Data<cm-citable-cite-data>`.
+
 
 
 ## More resources:
