@@ -76,7 +76,7 @@ Decisions and activities undertaken by community level members may include the f
 
 We have discussed specific roles under this level in {ref}`fw-community`.
 
-Guidelines and processes for this level are described in the [contribution guidelines](#ch-contributing) and [](#ch).
+Guidelines and processes for this level are described in the [contribution guidelines](#ch-contributing) and [Community Handbook](#ch).
 These processes and resources are co-developed by maintenance-level members with the involvement of members from the community and constitution levels as needed.
 
 ### Maintenance Level
