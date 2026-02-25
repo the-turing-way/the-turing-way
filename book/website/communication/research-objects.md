@@ -1,3 +1,7 @@
+---
+abbreviations:
+  RO: research object
+---
 (cm-ro)=
 # Research Object to capture the Research Life Cycle
 
@@ -26,7 +30,7 @@ Research Objects allow working open by design and share during the research proc
 (cm-ro-motivation)=
 ## Background & Motivation
 
-Research objects (ROs) are living resources helping to organise and describe the inputs, materials, and methods used in a scientific experiment and obtained as a result and not only at the end when publishing the research outcomes. 
+ROs are living resources helping to organise and describe the inputs, materials, and methods used in a scientific experiment and obtained as a result and not only at the end when publishing the research outcomes. 
 ROs encompass research outputs created, revised and shared throughout the research lifecycle that help validate findings claimed in scholarly publications.
 In short, ROs can be seen as a "single information unit" where any research material can be shared with other scientists at discrete milestones of the investigation within and outside the project.
 
