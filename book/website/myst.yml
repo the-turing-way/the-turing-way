@@ -1034,8 +1034,6 @@ project:
               title: Community Forums
             - file: community-handbook/community-calls/community-calls-onboarding.md
               title: Onboarding Calls
-            - file: community-handbook/community-calls/community-calls-coworking-organisation.md
-              title: Organising Coworking Calls
             - file: community-handbook/community-calls/community-calls-collabcafe.md
               title: Collaboration Cafes
             - file: community-handbook/community-calls/community-calls-shareouts.md
