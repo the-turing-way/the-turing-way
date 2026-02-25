@@ -10,4 +10,5 @@ Many of the working groups also utilise the Collaboration Cafe as a space to org
 You can see future working group meetings, and joining details, in the [community calendar](https://calendar.the-turing-way.org).
 You can download the calendar as an [ics file](https://ics.the-turing-way.org) to subscript in your calendar app.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+:::{embed} #calendar-embed
+:::

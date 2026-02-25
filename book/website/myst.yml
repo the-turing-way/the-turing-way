@@ -1028,6 +1028,8 @@ project:
         - title: Community Calls
           file: community-handbook/community-calls.md
           children:
+            - file: community-handbook/community-calls/calendar.md
+              title: Community Calendar
             - file: community-handbook/community-calls/community-calls-motivation.md
               title: Background, Motivations, and Techniques
             - file: community-handbook/community-calls/community-calls-forums.md
