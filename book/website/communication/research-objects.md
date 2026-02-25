@@ -40,7 +40,7 @@ ROs facilitate reproducibility of the scientific methods and results through acc
 
 There are three guiding principles for RO:
 - Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID iDs for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcid>`).
-These persistent identifiers are part of an interconnected open scholarly infrastructure - see our [chapter on persistent identifiers](rr-rdm-pid).
+These persistent identifiers are part of an interconnected open scholarly infrastructure - see our [chapter on persistent identifiers](#rr-rdm-pid).
 - Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 - Annotation - Use rich machine-readable metadata (discussed in {ref}`Chapter on Documentation and Metadata<rr-rdm-metadata>`) that help ensure findability and accessibility of all scientific work.
 RO helps understand the entire research lifecycle through research outcomes including publication shared progressively, allowing to track the versioning and development of the entire project.
@@ -61,11 +61,11 @@ Researchers receive credit for methodological innovations and early-stage work, 
 The infrastructure for making these outputs citable is straightforward - most platforms automatically assign DOIs when you publish.
 
 For specific guidance on publishing different types of interim research outputs:
-- **Preprints:** See our guidance on [preprint DOI workflows](rr-open-access-preprints-doi)
-- **Protocols:** Learn about [protocols as citable objects](pd-overview-sharing-protocols)
-- **Data Management Plans:** Discover [DMPs as research objects](rr-rdm-dmp-citable)
-- **Understanding DOIs:** Read our [chapter on persistent identifiers](rr-rdm-pid) for infrastructure details
-- **Linking outputs:** See [connecting research through metadata](cm-citable-linking) for creating relationships between interim and final outputs
+- **Preprints:** See our guidance on [preprint DOI workflows](#rr-open-access-preprints-doi)
+- **Protocols:** Learn about [protocols as citable objects](#pd-overview-sharing-protocols)
+- **Data Management Plans:** Discover [DMPs as research objects](#rr-rdm-dmp-citable)
+- **Understanding DOIs:** Read our [chapter on persistent identifiers](#rr-rdm-pid) for infrastructure details
+- **Linking outputs:** See [connecting research through metadata](#cm-citable-linking) for creating relationships between interim and final outputs
 
 (cm-ro-contribute)=
 ## Contribute to this Chapter

@@ -61,7 +61,7 @@ Crossref primarily handles:
 Both systems use the same DOI infrastructure (the Handle System), so all DOIs work the same way regardless of which organization issued them.
 The main difference is in their communities and the types of metadata they specialize in collecting.
 
-When you use a **trusted repository** (see our [chapter on data repositories](rr-rdm-repository)), it will typically assign a DOI through one of these providers automatically.
+When you use a **trusted repository** (see our [chapter on data repositories](#rr-rdm-repository)), it will typically assign a DOI through one of these providers automatically.
 You don't usually need to choose between DataCite and Crossref yourself - the repository or publisher handles this for you.
 
 ### PIDs for People
@@ -69,7 +69,7 @@ You don't usually need to choose between DataCite and Crossref yourself - the re
 [ORCID (Open Researcher and Contributor ID)](https://orcid.org/) provides unique identifiers for researchers.
 An ORCID iD is a 16-digit number that distinguishes you from every other researcher, even those with identical names.
 
-For comprehensive guidance on ORCID, see our [dedicated chapter on ORCID](cm-citable-orcid).
+For comprehensive guidance on ORCID, see our [dedicated chapter on ORCID](#cm-citable-orcid).
 
 Key benefits:
 - Collect all your research outputs in one place, regardless of where they're published
@@ -102,7 +102,7 @@ This creates a traceable connection between:
 - The researchers who received funding
 - The research outputs that resulted
 
-For more on citing funding, see the section on [connection metadata in linking research outputs](cm-citable-linking-funding).
+For more on citing funding, see the section on [connection metadata in linking research outputs](#cm-citable-linking-funding).
 
 ### How These Systems Work Together
 
@@ -121,7 +121,7 @@ Funders, institutions, and researchers can trace the full story of research from
 (rr-rdm-pid-fair)=
 ## PIDs and FAIR Principles
 
-Persistent identifiers are not just convenient - they're fundamental to making research [FAIR (Findable, Accessible, Interoperable, and Reusable)](rr-rdm-fair).
+Persistent identifiers are not just convenient - they're fundamental to making research [FAIR (Findable, Accessible, Interoperable, and Reusable)](#rr-rdm-fair).
 
 
 ### Findable
@@ -145,7 +145,7 @@ When you assign a PID to a dataset, it becomes discoverable not just on the repo
 - The PID remains valid even if access conditions change over time
 
 This aligns with the principle that data should be "as open as possible, as closed as necessary."
-See our chapters on [open data](rr-open-data) and [sharing data](rr-rdm-sharing) for guidance on when and how to share research outputs.
+See our chapters on [open data](#rr-open-data) and [sharing data](#rr-rdm-sharing) for guidance on when and how to share research outputs.
 
 ### Interoperable
 
@@ -154,7 +154,7 @@ See our chapters on [open data](rr-open-data) and [sharing data](rr-rdm-sharing)
 - All DOIs use the same resolution infrastructure, regardless of who issued them
 - Standardized PID metadata formats enable automatic data exchange between systems
 - PIDs can be embedded in other metadata formats, citations, and databases
-- Relationship types (see [linking research outputs](cm-citable-linking)) allow expressing connections in machine-readable ways
+- Relationship types (see [linking research outputs](#cm-citable-linking)) allow expressing connections in machine-readable ways
 
 This means tools and services can be built on top of PID infrastructure, creating value beyond what any single repository could provide.
 
@@ -167,7 +167,7 @@ This means tools and services can be built on top of PID infrastructure, creatin
 - Clear attribution enables ethical reuse
 - Versioning through PIDs allows citing specific versions while maintaining connections to the conceptual work
 
-When combined with open [licenses](rr-licensing), PIDs make it clear what can be reused and by whom.
+When combined with open [licenses](#rr-licensing), PIDs make it clear what can be reused and by whom.
 
 (rr-rdm-pid-metadata)=
 ## PID Metadata
@@ -208,7 +208,7 @@ While different PID providers have their own schemas, core properties typically 
 - **Contributors**: Others who contributed (with ORCID iDs)
 - **Affiliation**: Institutional affiliations (with ROR IDs)
 
-For comprehensive guidance on metadata, see our [chapter on documentation and metadata](rr-rdm-metadata).
+For comprehensive guidance on metadata, see our [chapter on documentation and metadata](#rr-rdm-metadata).
 
 ### Relationship to Domain-Specific Metadata
 
@@ -229,7 +229,7 @@ It's important to understand that PID metadata and domain-specific metadata serv
 **Both are needed:**
 Think of PID metadata as the catalog card that helps someone find a book in a library, while domain-specific metadata is the detailed table of contents and index inside the book.
 
-Our [metadata chapter](rr-rdm-metadata) discusses resources like [FAIRsharing](https://fairsharing.org/) that help you find the right domain-specific standards for your field.
+Our [metadata chapter](#rr-rdm-metadata) discusses resources like [FAIRsharing](https://fairsharing.org/) that help you find the right domain-specific standards for your field.
 When you deposit in a repository, you'll typically provide both:
 1. Core PID metadata through the repository's submission form
 2. Domain-specific metadata as part of your documentation and data files
@@ -288,7 +288,7 @@ The rich metadata tells a much more complete story and enables many more discove
 
 ### How Repositories Generate PID Metadata
 
-When you deposit research outputs in a **trusted repository** (see [our chapter on repositories](rr-rdm-repository)), the repository handles PID creation and much of the metadata collection automatically:
+When you deposit research outputs in a **trusted repository** (see [our chapter on repositories](#rr-rdm-repository)), the repository handles PID creation and much of the metadata collection automatically:
 
 1. **You provide information** through the repository's upload form (title, description, creators, and so on)
 2. **The repository generates** a PID (usually a DOI) through its relationship with DataCite or Crossref
@@ -311,7 +311,7 @@ Consider creating PIDs when:
 
 **During research planning:**
 - Data Management Plans that you want to cite in reports
-- Registered protocols or preregistrations (see [registered reports](communication-reg))
+- Registered protocols or preregistrations (see [registered reports](#communication-reg))
 - Experimental or computational protocols
 
 **During research execution:**
@@ -332,7 +332,7 @@ Consider creating PIDs when:
 - Educational materials derived from your research
 - Null results or negative findings
 
-PIDs are not just for "final" outputs - see our [chapter on research objects](communication-research-objects) for more on sharing throughout the research lifecycle.
+PIDs are not just for "final" outputs - see our [chapter on research objects](#communication-research-objects) for more on sharing throughout the research lifecycle.
 
 ### Repository-Based vs. Direct PID Minting
 
@@ -347,7 +347,7 @@ There are two main ways to obtain PIDs:
   - Established community trust
 - **Examples**: [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Dryad](https://datadryad.org/), [OSF](https://osf.io/), institutional repositories
 
-See our [chapter on selecting repositories](rr-rdm-repository) for guidance on choosing the right one.
+See our [chapter on selecting repositories](#rr-rdm-repository) for guidance on choosing the right one.
 
 **Direct minting (for specialized cases):**
 - **How it works**: Your institution or organization registers PIDs directly with a PID provider
@@ -407,7 +407,7 @@ This is much better than a link that simply returns "404 Not Found" - it provide
 ## Connecting Research Through PIDs
 
 PIDs are most powerful when they're used to connect related research outputs together.
-For detailed guidance on how to link your research outputs, versions, and funding through PID metadata, see our [chapter on linking research objects](cm-citable-linking).
+For detailed guidance on how to link your research outputs, versions, and funding through PID metadata, see our [chapter on linking research objects](#cm-citable-linking).
 
 Key connections you can make:
 - Link datasets to the papers that describe them
@@ -437,12 +437,12 @@ Key connections you can make:
 
 ### Related Chapters in The Turing Way
 
-- [Making Research Objects Citable](communication-citable) - How to cite and get credit for all your research outputs
-- [FAIR Principles](rr-rdm-fair) - Making research Findable, Accessible, Interoperable, and Reusable
-- [Data Repositories](rr-rdm-repository) - Choosing where to deposit research outputs
-- [Documentation and Metadata](rr-rdm-metadata) - How to describe your research effectively
-- [Research Objects](communication-research-objects) - Sharing research throughout the lifecycle
-- [Linking Research Objects](cm-citable-linking) - Creating connections between related outputs
+- [Making Research Objects Citable](#communication-citable) - How to cite and get credit for all your research outputs
+- [FAIR Principles](#rr-rdm-fair) - Making research Findable, Accessible, Interoperable, and Reusable
+- [Data Repositories](#rr-rdm-repository) - Choosing where to deposit research outputs
+- [Documentation and Metadata](#rr-rdm-metadata) - How to describe your research effectively
+- [Research Objects](#communication-research-objects) - Sharing research throughout the lifecycle
+- [Linking Research Objects](#cm-citable-linking) - Creating connections between related outputs
 
 :::{note}
 Funding: This chapter was originally contributed as part of the dissemination efforts by the [Implementing FAIR Workflows project](https://doi.org/10.54224/20568), funded by [Templeton World Charity Foundation](https://www.templetonworldcharity.org/).
