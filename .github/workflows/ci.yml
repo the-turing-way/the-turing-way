@@ -111,7 +111,7 @@ jobs:
           path: ./book/website/_build/html/
 
       - name: Check offline links
-        uses: lycheeverse/lychee-action@v2
+        uses: lycheeverse/lychee-action@v2.8
         with:
           args: --config './lychee.toml' --no-progress --offline --root-dir "$GITHUB_WORKSPACE/book/website/_build/html/" 'book/website/_build/html/**/*.html'
           fail: true
