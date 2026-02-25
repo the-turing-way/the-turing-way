@@ -1036,8 +1036,6 @@ project:
               title: Onboarding Calls
             - file: community-handbook/community-calls/community-calls-collabcafe.md
               title: Collaboration Cafes
-            - file: community-handbook/community-calls/community-calls-shareouts.md
-              title: Community Share-outs
             - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
         - file: community-handbook/onboarding-offboarding.md
