@@ -1042,8 +1042,6 @@ project:
               title: Community Share-outs
             - file: community-handbook/community-calls/community-calls-coworking.md
               title: Coworking Calls
-            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
-              title: Coworking Drop-ins
             - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
         - file: community-handbook/onboarding-offboarding.md
