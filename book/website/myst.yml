@@ -176,6 +176,8 @@ project:
               title: Data Organisation in Spreadsheets
             - file: reproducible-research/rdm/rdm-metadata.md
               title: Documentation and Metadata
+            - file: reproducible-research/rdm/rdm-pid.md
+              title: Persistent Identifiers (PIDs)
             - file: reproducible-research/rdm/rdm-methods.md
               title: Methods and Protocols
             - file: reproducible-research/rdm/rdm-elns.md
@@ -552,8 +554,12 @@ project:
               title: Create a CITATION.cff using CFFinit
             - file: communication/citable/citable-linking.md
               title: Linking Research Objects
+            - file: communication/citable/citable-metadata.md
+              title: Connection Metadata
             - file: communication/citable/citable-orcid.md
               title: ORCID to Collect your Research Objects
+            - file: communication/citable/citable-versioning.md
+              title: Managing Versions Through PIDs
             - file: communication/citable/citable-resources.md
               title: Checklists and Resources
         - file: communication/dif-articles.md

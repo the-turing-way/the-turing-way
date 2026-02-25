@@ -5,6 +5,7 @@ You can use ORCID to access or sign up to services that utilise ORCID, for examp
 
 ORCID is an acronym for ‘Open Researcher and Contributor ID'.
 ORCID is a long-lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
+ORCIDs are 16-digit numbers formatted as `0000-0001-2345-6789`. they can also be presented as URLs: `https://orcid.org/0000-0001-2345-6789`
 
 Watch this short video for more information:
 
@@ -43,3 +44,4 @@ You can sign up very quickly here: [https://orcid.org/login](https://orcid.org/l
 Once you have signed up and verified your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
 
 You can use your ORCID ID whenever you’re prompted to do so, give your [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) (funders, publishers, institutions) permission to automatically update your ORCID record.
+

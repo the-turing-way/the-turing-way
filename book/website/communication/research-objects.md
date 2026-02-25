@@ -35,13 +35,33 @@ The entire research lifecycle can be captured, allowing the release and publicat
 ROs facilitate reproducibility of the scientific methods and results through access to resources, context and metadata, and reuse with the possibility of forking existing ROs. 
 
 There are three guiding principles for RO:
-- Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcid>`.
+- Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID iDs for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcid>`).
+These persistent identifiers are part of an interconnected open scholarly infrastructure - see our [chapter on persistent identifiers](rr-rdm-pid).
 - Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 - Annotation - Use rich machine-readable metadata (discussed in {ref}`Chapter on Documentation and Metadata<rr-rdm-metadata>`) that help ensure findability and accessibility of all scientific work.
 RO helps understand the entire research lifecycle through research outcomes including publication shared progressively, allowing to track the versioning and development of the entire project.
 
-All the research work, including potential failures, dead ends or any other information such as experimental protocols, software code, standards as well as all the individuals who contributed to the research can also be recorded in the RO. 
+All the research work, including potential failures, dead ends or any other information such as experimental protocols, software code, standards as well as all the individuals who contributed to the research can also be recorded in the RO.
 As a result, ROs support evidence and support validation of findings claimed in scholarly articles.
+
+(cm-ro-interim)=
+
+## Interim Research Outputs
+
+Research objects span the entire research lifecycle, not just final peer-reviewed publications. Interim research outputs - including preprints, protocols, data management plans, and preliminary datasets - can all be published with persistent identifiers and formally cited, enabling transparency and incremental credit for research work.
+
+Each type of interim output serves a distinct purpose in the research process. Preprints enable rapid sharing of findings before peer review, protocols document methodologies for reproducibility, Data Management Plans demonstrate rigorous planning, and preliminary data allow validation and feedback from the community.
+Publishing these outputs with DOIs creates a traceable record of your research evolution and allows others to build on your work at every stage.
+Making interim outputs citable benefits both individual researchers and the broader community.
+Researchers receive credit for methodological innovations and early-stage work, while the community gains access to protocols, receives earlier feedback opportunities, and can identify complementary research efforts sooner.
+The infrastructure for making these outputs citable is straightforward - most platforms automatically assign DOIs when you publish.
+
+For specific guidance on publishing different types of interim research outputs:
+- **Preprints:** See our guidance on [preprint DOI workflows](rr-open-access-preprints-doi)
+- **Protocols:** Learn about [protocols as citable objects](pd-overview-sharing-protocols)
+- **Data Management Plans:** Discover [DMPs as research objects](rr-rdm-dmp-citable)
+- **Understanding DOIs:** Read our [chapter on persistent identifiers](rr-rdm-pid) for infrastructure details
+- **Linking outputs:** See [connecting research through metadata](cm-citable-linking) for creating relationships between interim and final outputs
 
 (cm-ro-contribute)=
 ## Contribute to this Chapter
