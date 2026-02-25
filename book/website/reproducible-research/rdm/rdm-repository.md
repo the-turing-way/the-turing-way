@@ -12,7 +12,7 @@ height: 500px
 name: data-repo
 alt: A tree representing a general data repository, with squirrels symbolizing researchers gathering FAIR data, which can be open or restricted. Next to the tree are examples showing how different academic disciplines and institutions have unique types of data repositories, and how FAIR data may differ when obtained from general or domain-specific repositories.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.13882307](https://doi.org/10.5281/zenodo.13882307).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence.  [](10.5281/zenodo.13882307).
 ```
 
 Long-term archiving repositories are designed for secure and permanent storage of data, ensuring data preservation over extended periods.
