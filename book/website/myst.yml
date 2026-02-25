@@ -1048,8 +1048,6 @@ project:
               title: Working Group Meetings
             - file: community-handbook/community-calls/community-calls-core-team.md
               title: Core Team Meetings
-            - file: community-handbook/community-calls/community-calls-office-hours.md
-              title: Office Hours
         - file: community-handbook/onboarding-offboarding.md
           title: Onboarding and Offboarding
           children:
