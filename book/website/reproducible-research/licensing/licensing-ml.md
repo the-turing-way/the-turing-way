@@ -72,7 +72,7 @@ The OpenRAIL flow chart aids the selection and naming of a license for an ML pro
 (rr-licensing-ethics-copyright-responsible-rail)=
 ### OpenRAIL License types
 
-These same principles developed in {ref}`'ethical source'<rr-licensing-ethical>` apply to the 'Open' variants of the licences from RAIL (Responsible AI Licences).
+These same principles developed in [](#rr-licensing-ethical-source) apply to the 'Open' variants of the licences from RAIL (Responsible AI Licences).
 In that, they are attempting to place restrictions on the uses to which licensees can put the thing being licenced.
 Traditional software has many of the same concerns which affect machine learning models, and indeed also often contain assets such as images which may be licenced differently from software with which they are bundled.
 The primary differences being governance of data used in training the models (see: {ref}`Data Governance for the Machine Learning Pipeline<pd-dg-ml>`) and the lack of interpretability of the decisions of many ML systems, though this latter point can also be an issue for conventional systems if they are closed.
