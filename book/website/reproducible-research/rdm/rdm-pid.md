@@ -311,7 +311,7 @@ Consider creating PIDs when:
 
 **During research planning:**
 - Data Management Plans that you want to cite in reports
-- Registered protocols or preregistrations (see [registered reports](communication-reg))
+- Registered protocols or preregistrations (see [registered reports](#cm-dif-articles-registered-reports))
 - Experimental or computational protocols
 
 **During research execution:**
@@ -332,7 +332,7 @@ Consider creating PIDs when:
 - Educational materials derived from your research
 - Null results or negative findings
 
-PIDs are not just for "final" outputs - see our [chapter on research objects](communication-research-objects) for more on sharing throughout the research lifecycle.
+PIDs are not just for "final" outputs - see our [chapter on research objects](#cm-ro) for more on sharing throughout the research lifecycle.
 
 ### Repository-Based vs. Direct PID Minting
 
@@ -437,11 +437,11 @@ Key connections you can make:
 
 ### Related Chapters in The Turing Way
 
-- [Making Research Objects Citable](communication-citable) - How to cite and get credit for all your research outputs
+- [Making Research Objects Citable](#cm-citable) - How to cite and get credit for all your research outputs
 - [FAIR Principles](rr-rdm-fair) - Making research Findable, Accessible, Interoperable, and Reusable
 - [Data Repositories](rr-rdm-repository) - Choosing where to deposit research outputs
 - [Documentation and Metadata](rr-rdm-metadata) - How to describe your research effectively
-- [Research Objects](communication-research-objects) - Sharing research throughout the lifecycle
+- [Research Objects](#cm-ro) - Sharing research throughout the lifecycle
 - [Linking Research Objects](cm-citable-linking) - Creating connections between related outputs
 
 :::{note}
