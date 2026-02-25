@@ -79,7 +79,7 @@ Key benefits:
 
 ### PIDs for Organizations
 
-[ROR (Research Organization Registry)](https://ror.org/) provides identifiers for research institutions.
+[ROR (Research Organization Registry)](https://ror.org) provides identifiers for research institutions.
 Every university, research institute, and funding organization can have a unique ROR ID.
 
 Examples:
@@ -433,7 +433,7 @@ Key connections you can make:
 - [DataCite Metadata Search](https://search.datacite.org/) - Search across millions of research outputs with DataCite DOIs
 - [Crossref Metadata Search](https://search.crossref.org/) - Search publications with Crossref DOIs
 - [ORCID Registry](https://orcid.org/) - Look up researchers and their works
-- [ROR Registry](https://ror.org/) - Search for research organizations
+- [ROR Registry](https://ror.org) - Search for research organizations
 
 ### Related Chapters in The Turing Way
 

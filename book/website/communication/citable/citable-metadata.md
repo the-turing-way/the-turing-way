@@ -276,7 +276,7 @@ As URLs: `https://orcid.org/0000-0001-2345-6789`
 **How to add:**
 - Some repositories support ROR ID fields for affiliations
 - When creating or editing records, look for organization/affiliation fields
-- Search the [ROR Registry](https://ror.org/) to find your institution's ID
+- Search the [ROR Registry](https://ror.org) to find your institution's ID
 
 ### Benefits of Including People and Organization Identifiers
 
