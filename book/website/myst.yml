@@ -1040,8 +1040,6 @@ project:
               title: Collaboration Cafes
             - file: community-handbook/community-calls/community-calls-shareouts.md
               title: Community Share-outs
-            - file: community-handbook/community-calls/community-calls-coworking.md
-              title: Coworking Calls
             - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
         - file: community-handbook/onboarding-offboarding.md
@@ -1077,8 +1075,6 @@ project:
               title: Book Dash Template for Feedback
             - file: community-handbook/templates/template-coworking-collabcafe.md
               title: Online Collaboration Cafe Templates
-            - file: community-handbook/templates/template-coworking-weekly.md
-              title: Weekly Coworking Call Template
             - file: community-handbook/templates/template-newsletter-draft.md
               title: Template for Drafting Newsletters
             - file: community-handbook/templates/template-fireside-chat.md
