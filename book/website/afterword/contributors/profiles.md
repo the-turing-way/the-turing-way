@@ -51,95 +51,6 @@ quote: |
 :::
 -->
 
-## Project Delivery Team Members
-
-*The Turing Way* Project Delivery Staff are project and community members who work on the project in a paid capacity such as through employment.
-
-:::{profile} Malvika Sharan
----
-roles: |
-    Senior Researcher - Open Research, The Alan Turing Institute;
-    Project Delivery Team member, Co-lead Investigator (2021-Present);
-    Book Dash Organiser: 2020-2023
-github: malvikasharan
-orcid: 0000-0001-6619-7369
-bio: |
-    I am a co-lead of The Turing Way, which is part of my responsibility as a TPS Senior Researcher. I also lead a team of Research Community Managers at the Turing.
-    I was previously a community manager (2019-2021).
-    I co-founded the [OLS (previously Open Life Science)](https://openlifesci.org/) training and mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their open projects.
-    I am a fellow of the Software Sustainability Institute. I have several current and previous advisory appointments across different open science initiatives including NASA-TOPS, Code for Science and Society, The Carpentries, Society of RSE, Open Bioinformatics Foundation and MetaDocencia.
-highlights: |
-    I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
-    Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
-    Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
-    Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](#ch) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
-    I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
----
-:::
-
-:::{profile} Arielle Bennett
----
-roles: |
-    Senior Researcher - Open Source Practices, The Alan Turing Institute;
-    Project Delivery Team member (2024-Present);
-    Book Dash Planning Committee (2021-Present)
-github: Arielle-Bennett
-orcid: 0000-0002-0154-2982
-bio: |
-    Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
-highlights: |
-    Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
-    Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
-    I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
-    The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
-    In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
-    In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
-    In **2023 Book Dashes** I've enjoyed exploring my creative side with writing, and seeing everyone's first contributions. I've also helped to revise parts of the Guide for Project Design.
-    In **2024 Book Dashes** I've hosted discussions on culture change models, reviewed a lot of PRs and broadened our timezone coverage with late night sessions for folks in the Americas.
-more: |
-    The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
-quote: |
-    It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
-    The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
----
-:::
-
-:::{profile} Anne Lee Steele
----
-roles: |
-    Project Delivery Team member, Research Community Manager (2022-Present);
-    Book Dash Organiser: 2023
-github: aleesteele
-orcid: 0000-0002-9262-8641
-bio: |
-    Anne is the Community Manager for The Turing Way project, where she facilitates a collaborative resource for reproducible data science and supports an open source community in developing practices for researchers and practitioners around the world.
-
-    She has worked on a variety of projects in the open ecosystem, including at the Internet Society, Wikimedia Deutschland, and Open Knowledge Foundation, and is passionate about the capacity for open source practices to make research more accessible, collaborative, and inclusive. Previously, she worked in the data journalism and education fields.
-
-    She holds a BA from Columbia University, and an MA from The Graduate Institute of International and Development Studies in Geneva, both in anthropology and sociology.
-highlights: |
-    After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, and project sustainability, involving more perspectives from my fields (of anthropology and sociology!), and tying the project more closely to other open communities that work on issues of ethics, diversity, and inclusion through data-driven practices.
----
-:::
-
-:::{profile} Léllé Demertzi
----
-roles: |
-    Research Project Manager, The Turing Way;
-    Core Member, Book Dash Participant (2024);
-    TPS Staff (2024-Present), Project Delivery Team member
-github: LelleDi
-orcid: 0009-0009-2782-0408
-bio: |
-    Léllé is the Research Project Manager for The Turing Way, since September 2024. An architect by training, she has previously worked in cultural management in art institutions around the world. She is Organiser for the AI&Arts Interest Group at The Alan Turing Institute, where she can bridge her art practice with computational methods, as well as promote scholarship and engagement activities in the cross-disciplinary field.
-highlights: |
-    So looking forward to the upcoming **November 2024 Book Dash**, it will be my first one! I'm really excited to support people from around the world to contribute to the Turing Way
-    I am also supporting the 2024 Cohort of The Turing Way Practitioners Hub, with 20 participating companies and 50 Experts in Residence.
-quote: |
-    As a new member, I am eager to get to know the community and explore new spaces of collaboration within the creative sector.
----
-:::
-
 ## Founder
 
 The project was founded in 2019 by Kirstie Whitaker at The Alan Turing Institute.
@@ -147,7 +58,7 @@ The project was founded in 2019 by Kirstie Whitaker at The Alan Turing Institute
 :::{profile} Kirstie Whitaker
 ---
 roles: |
-    Tools, Practices and Systems (TPS) Director, The Alan Turing Institute;
+    Steering Committee Member (Chair);
     Project Delivery Team member, Project Lead Investigator (2019-Present);
     Book Dash Organiser: 2019-2020
 github: kirstiejane
@@ -422,6 +333,52 @@ quote: |
 ---
 :::
 
+:::{profile} Anne Lee Steele
+---
+roles: |
+    Project Delivery Team member, Research Community Manager (2022-2025);
+    Book Dash Organiser: 2023-2024
+github: aleesteele
+orcid: 0000-0002-9262-8641
+bio: |
+    Anne is the Community Manager for The Turing Way project, where she facilitates a collaborative resource for reproducible data science and supports an open source community in developing practices for researchers and practitioners around the world.
+
+    She has worked on a variety of projects in the open ecosystem, including at the Internet Society, Wikimedia Deutschland, and Open Knowledge Foundation, and is passionate about the capacity for open source practices to make research more accessible, collaborative, and inclusive. Previously, she worked in the data journalism and education fields.
+
+    She holds a BA from Columbia University, and an MA from The Graduate Institute of International and Development Studies in Geneva, both in anthropology and sociology.
+highlights: |
+    After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, and project sustainability, involving more perspectives from my fields (of anthropology and sociology!), and tying the project more closely to other open communities that work on issues of ethics, diversity, and inclusion through data-driven practices.
+---
+:::
+
+:::{profile} Arielle Bennett
+---
+roles: |
+    Steering Committe Member (Secretary);
+    Book Dash Working Group Chair;
+    Book Dash Planning Committee (2021-Present);
+    Project Delivery Team member (2024-2025)
+github: Arielle-Bennett
+orcid: 0000-0002-0154-2982
+bio: |
+    Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
+highlights: |
+    Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
+    Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
+    I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
+    The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
+    In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
+    In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
+    In **2023 Book Dashes** I've enjoyed exploring my creative side with writing, and seeing everyone's first contributions. I've also helped to revise parts of the Guide for Project Design.
+    In **2024 Book Dashes** I've hosted discussions on culture change models, reviewed a lot of PRs and broadened our timezone coverage with late night sessions for folks in the Americas.
+more: |
+    The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
+quote: |
+    It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
+    The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
+---
+:::
+
 :::{profile} Arya A.
 ---
 roles: |
@@ -444,7 +401,8 @@ more: |
 :::{profile} Batool Almarzouq
 ---
 roles: |
-    Core Member, Translation and Localisation Co-Lead (2021-Present);
+    Steering Committee Member (Chair-Elect);
+    Translation and Localisation Working Group Chair (2021-Present);
     TPS Staff (2023-Present);
     Infrastructure Maintainer (2021-2022);
     Book Dash Planning Committee 2021;
@@ -452,7 +410,7 @@ roles: |
 orcid: 0000-0002-3905-2751
 twitter: batool664
 bio: |
-    Batool is a computational biologist affiliated with KAIMRC in Saudi Arabia and an honorary research fellow at the University of Liverpool. I'm also an RWeekly member and part of the R-Ladies Global committee. As an advocate for Open Science and its role in improving scientific and economic outputs in the Middle East, I recently established an Open Science Community in Saudi Arabia (OSCSA). OSCSA aims to create significant value towards Saudi Arabia's Vision 2030, which focuses on enhancing knowledge and improving equal access to education in the Kingdom.
+    Batool is an honorary research fellow at the University of Liverpool, and a previous Project Manbage for AIM-RSF at the Turing Institute. She is also an RWeekly member and part of the R-Ladies Global committee. As an advocate for Open Science and its role in improving scientific and economic outputs in the Middle East, she established an Open Science Community in Saudi Arabia (OSCSA). OSCSA aims to create significant value towards Saudi Arabia's Vision 2030, which focuses on enhancing knowledge and improving equal access to education in the Kingdom.
 highlights: |
     In May 2021 Book Dash, I co-developed a chapter on "CI services".
     In the previous Book Dash, I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter into Arabic.
@@ -621,7 +579,7 @@ highlights: |
 :::{profile} Danny Garside
 ---
 roles: |
-    Core Member, Infrastructure Co-lead (2022-Present)
+    Infrastructure Working Group Member (2022-Present)
 github: da5nsy
 orcid: 0000-0002-0227-836X
 mastodon: https://social.coop/\@da5nsy
@@ -683,10 +641,12 @@ quote: |
 :::{profile} Emma Karoune
 ---
 roles: |
-      Core Member, Book Dash Planning Committee (2021-Present);
-      TPS Staff (2023-Present);
-      Book Dash Participant (2020-2022);
-      Trainers and Mentors Working Group (2022)
+    Steering Committee Member;
+    Book Dash Working Group;
+    Book Dash Planning Committee (2021-Present);
+    TPS Staff (2023-Present);
+    Book Dash Participant (2020-2022);
+    Trainers and Mentors Working Group (2022)
 github: EKaroune
 orcid: 0000-0002-6576-6053
 bio: |
@@ -718,8 +678,9 @@ highlights: |
 :::{profile} Esther Plomp
 ---
 roles: |
-    Core Member, TU-Delft Representative (2020-2024), University of Aruba Representative (2025-Present);
+    University of Aruba Representative (2025-Present);
     Book Dash Planning Committee (2021-Present);
+    TU-Delft Representative (2020-2025);
     Book Dash Participant (2020-Present)
 github: EstherPlomp
 orcid: 0000-0003-3625-1357
@@ -1062,11 +1023,11 @@ quote: |
 
 :::{profile} Jim Madge
 ---
-roles: >
- Steering Committee (2024-present);
- Infrastructure Working Group Chair (2024-present);
- Infrastructure Working Group (2023-present);
- Book Dash Participant (2022-2023)
+roles: |
+    Steering Committee Member (Secretary-Elect);
+    Infrastructure Working Group Member (2023-present);
+    Infrastructure Working Group Chair (2025);
+    Book Dash Participant (2022-2023);
 github: JimMadge
 orcid: 0000-0001-6044-164X
 mastodon: JimMadge@fosstodon.org
@@ -1229,6 +1190,25 @@ quote: |
 ---
 :::
 
+:::{profile} Léllé Demertzi
+---
+roles: |
+    Research Project Manager, The Turing Way Practitioners Hub;
+    Community Management Working Group Co-Chair (2025);
+    Book Dash Participant (2024);
+    TPS Staff (2024-Present), Project Delivery Team member
+github: LelleDi
+orcid: 0009-0009-2782-0408
+bio: |
+    Léllé is the Research Project Manager for The Turing Way, since September 2024. An architect by training, she has previously worked in cultural management in art institutions around the world. She is Organiser for the AI&Arts Interest Group at The Alan Turing Institute, where she can bridge her art practice with computational methods, as well as promote scholarship and engagement activities in the cross-disciplinary field.
+highlights: |
+    So looking forward to the upcoming **November 2024 Book Dash**, it will be my first one! I'm really excited to support people from around the world to contribute to the Turing Way
+    I am also supporting the 2024 Cohort of The Turing Way Practitioners Hub, with 20 participating companies and 50 Experts in Residence.
+quote: |
+    As a new member, I am eager to get to know the community and explore new spaces of collaboration within the creative sector.
+---
+:::
+
 :::{profile} Lena Karvovskaya
 ---
 roles: |
@@ -1342,6 +1322,29 @@ highlights: |
     It's been a wonderful experience contributing to The Turing Way while meeting inspiring people from diverse backgrounds along the way.
     I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter.
     These Book Dashes are a great way to encourage open collaboration, sharing ideas and working on helpful tools to make things such as open science and reproducibility more practical and friendlier for the wider community.
+---
+:::
+
+:::{profile} Malvika Sharan
+---
+roles: |
+    Steering Committee Member;
+    Data Science Without Border Representative (2024-2025);
+    Co-lead Investigator, Project Delivery Team member (2021-2025);
+    Book Dash Organiser: 2020-2023
+github: malvikasharan
+orcid: 0000-0001-6619-7369
+bio: |
+    I am a co-lead of The Turing Way, which is part of my responsibility as a TPS Senior Researcher. I also lead a team of Research Community Managers at the Turing.
+    I was previously a community manager (2019-2021).
+    I co-founded the [OLS (previously Open Life Science)](https://openlifesci.org/) training and mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their open projects.
+    I am a fellow of the Software Sustainability Institute. I have several current and previous advisory appointments across different open science initiatives including NASA-TOPS, Code for Science and Society, The Carpentries, Society of RSE, Open Bioinformatics Foundation and MetaDocencia.
+highlights: |
+    I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
+    Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
+    Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
+    Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](#ch) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
+    I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
 ---
 :::
 
@@ -1747,6 +1750,8 @@ highlights: |
 :::{profile} Sara Villa
 ---
 roles: |
+    Steering Committee Member;
+    Community Management Working Group Co-Chair;
     Book Dash participant (2022 and 2024)
 github: SaraVilla
 orcid: 0000-0001-9502-0888
@@ -1766,13 +1771,14 @@ quote: |
 :::{profile} Sarah Gibson
 ---
 roles: |
-    Core Member, Infrastructure Co-Lead (2021-Present);
+    Infrastructure Working Group Member (2021-Present);
     Project Delivery Team Member (2010-2021);
     Book Dash Participant/Mentor (2020)
 github: sgibson91
 orcid: 0000-0003-0356-2765
 bio: |
-    Sarah Gibson is an Open Source Infrastructure Engineer at 2i2c, an open source contributor and advocate.
+    Sarah Gibson is an open source contributor and advocate.
+    She was a Research Software Engineer at the Turing and an Open Source Infrastructure Engineer previously at 2i2c.
     She holds more than two years of experience as a Research Engineer at a national institute for data science and artificial intelligence, as well as holding a core contributor role in the open source projects Binder, JupyterHub, and the Turing Way.
     She is a member of the mybinder.org operating team and maintains infrastructure supporting a global community in sharing reproducible computational environments.
 highlights: |

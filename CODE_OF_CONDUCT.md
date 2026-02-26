@@ -25,7 +25,7 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 
 ### Contact for Reporting
 
-_The Turing Way_ project delivery team, listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), are responsible for enforcing the Code of Conduct.
+_The Turing Way_ constitution level members, listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), are responsible for enforcing the Code of Conduct.
 
 Please email [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
@@ -86,13 +86,13 @@ If a participant engages in behaviour that violates this Code of Conduct, any me
 ## 2.4 Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
-Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* Project Delivery Team at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or by making a pull request to this document on GitHub.
+Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* constitution level members individually, reaching out to the maintenance level members by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) or by making a pull request to this document on GitHub.
 
 # 3 Incident Reporting Guidelines
 
 ## 3.1 Contact points
 
-If you feel able to, please contact _The Turing Way_ project delivery team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) who is responsible for enforcing the Code of Conduct.
+If you feel able to, please contact _The Turing Way_ constitution level members directly or reach out to the maintenance level members by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) who are responsible for enforcing the Code of Conduct.
 You can directly contact the senior members of the team listed in the [Governance Roles documentation](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
 
 ## 3.2 Alternate contact points
