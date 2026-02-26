@@ -7,12 +7,12 @@ It uses the traditional journal article structure, but focuses on the data-colle
 (rr-rdm-article-motivations)=
 ##  Motivations For Sharing Data through a Data Article
 
-Data articles are in line with the {ref}`FAIR principles<rr-rdm-fair>`, especially since most publishers will encourage you to share the data through a data repository.
-The benefit of a Data Article is that your output will be {ref}`peer reviewed<cm-peer-review>`, something which is generally not the case for datasets that are archived on {ref}`data repositories<rr-rdm-sharing>`.
+Data articles are in line with the [][#rr-rdm-fair], especially since most publishers will encourage you to share the data through a data repository.
+The benefit of a Data Article is that your output will be [peer reviewed][cm-peer-review], something which is generally not the case for datasets that are archived on [data repositories][#rr-rdm-sharing].
 It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output.
 Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer.
 
-You can find out more in our {ref}`subchapter on publishing a data article<cm-dif-articles-data>` or you can read a blogpost on '[What a data paper could do for you](https://ekaroune.github.io/The-Open-Archaeobotanist/2021-01-30-what_a_data_paper_could_do_for_you/)'.
+You can find out more in our [subchapter on publishing a data article][#cm-dif-articles-data] or you can read a blogpost on '[What a data paper could do for you](https://ekaroune.github.io/The-Open-Archaeobotanist/2021-01-30-what_a_data_paper_could_do_for_you/)'.
 
 (rr-rdm-article-options)=
 ## Options to publish a Data Article
@@ -76,6 +76,7 @@ If you are planning to publish an analysis of your published data, it may be wor
 | Health | [Open Health Data](https://openhealthdata.metajnl.com/about/submissions/) | [£100](https://openhealthdata.metajnl.com/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=100&From=GBP&To=USD)) | 
 | Humanities | [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/about/submissions/)  | [£485](https://openhumanitiesdata.metajnl.com/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=450&From=GBP&To=USD))  |
 | Humanities | [Research Data Journal for the Humanities and Social Sciences](https://brill.com/view/journals/rdj/rdj-overview.xml)  | ?  |
+| Humanities / Social Sciences / Computer Sciences | [Journal of Cultural Analytics]([https://brill.com/view/journals/rdj/rdj-overview.xml](https://culturalanalytics.org/site/submission-types/))  | 0  |
 | Physics | [Nuclear Data Sheets](https://www.sciencedirect.com/journal/nuclear-data-sheets)  | [USD 3900](https://www.elsevier.com/journals/nuclear-data-sheets/0090-3752/open-access-options)  |
 | Psychology | [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/about/submissions/) | [£485](https://openpsychologydata.metajnl.com/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=450&From=GBP&To=USD))  | 
 | Psychology | [Journal of Cognition](https://www.journalofcognition.org/about/submissions/) | [€1150](https://www.journalofcognition.org/about/submissions/)  ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1150&From=EUR&To=USD)) |
