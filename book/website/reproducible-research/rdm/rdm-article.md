@@ -72,8 +72,7 @@ If you are planning to publish an analysis of your published data, it may be wor
 | Earth Sciences| [Big Earth Data](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20) | [USD 815](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20&#apc) |
 | Ecology | [BMC Ecology and Evolution](https://bmcecolevol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | [USD 2990](https://preview-bmcecolevol.biomedcentral.com/submission-guidelines/fees-and-funding) | 
 | Humanities | [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/about/submissions/)  | [£915](https://openhumanitiesdata.metajnl.com/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=915&From=GBP&To=USD))  |
-| Humanities | [Research Data Journal for the Humanities and Social Sciences](https://brill.com/view/journals/rdj/rdj-overview.xml)  | 0  |
-| Humanities / Social Sciences / Computer Sciences | [Journal of Cultural Analytics]([https://brill.com/view/journals/rdj/rdj-overview.xml])  | 0  |
+| Humanities | [Research Data Journal for the Humanities and Social Sciences](https://researchdatajournal.org/)  | 0  |
 | Physics | [Nuclear Data Sheets](https://www.sciencedirect.com/journal/nuclear-data-sheets)  | [USD 3080](https://www.elsevier.com/journals/nuclear-data-sheets/0090-3752/open-access-options)  |
 | Psychology | [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/about/submissions/) | [£520](https://openpsychologydata.metajnl.com/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=450&From=GBP&To=USD))  | 
 | Psychology | [Journal of Cognition](https://www.journalofcognition.org/about/submissions/) | [€1150](https://www.journalofcognition.org/about/submissions/)  ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1150&From=EUR&To=USD)) |
