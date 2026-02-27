@@ -10,4 +10,4 @@ Community calls are added to our [calendar](https://calendar.the-turing-way.org)
 :::
 
 You can view the calendar online at [`calendar.the-turing-way.org`](https://calendar.the-turing-way.org).
-You can also download the calendar as an [ics file](https://ics.the-turing-way.org) to subscript in your calendar app.
+You can also download the calendar as an [ics file](https://ics.the-turing-way.org) to subscribe in your calendar app.
