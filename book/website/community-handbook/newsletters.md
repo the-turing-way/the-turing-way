@@ -4,7 +4,7 @@
 _The Turing Way_ team releases newsletters every month to share the latest updates with the community and beyond.
 These newsletters include event announcements, updates from the project, highlights from the community, useful resources for new and existing contributors, promotion of any ongoing efforts, impact stories of long-standing members and shoutouts to relevant online activities.
 
-While we send our newsletters by email to our subscribed members, we simultaneously publish and archive them [online on Buttondown](https://buttondown.email/turingway/archive/) so that anyone outside the community can also learn about the project.
+While we send our newsletters by email to our subscribed members, we simultaneously publish and archive them [online](https://news.the-turing-way.org) so that anyone outside the community can also learn about the project.
 
 The main purpose and motivations for publishing these newsletters are the following:
 1. Reflect on the team's and community's project goals and any important milestones achieved in the last month

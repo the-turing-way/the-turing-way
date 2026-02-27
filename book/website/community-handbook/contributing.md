@@ -46,6 +46,11 @@ There are channels for working groups, asking for support, and community discuss
 There are also off-topic channels for socialising with other community members.
 Slack is also a good place to receive notifications for upcoming events.
 
+### Calendar
+
+We keep a record of past and upcoming events on our [calendar](#ch-community-calls-calendar).
+You can subscribe to the calendar to get notifications.
+
 ### Newsletter
 
 You can sign up to our [newsletter](https://news.the-turing-way.org) to receive monthly project updates.
@@ -60,7 +65,7 @@ We use {term}`GitHub` [discussions](https://github.com/orgs/the-turing-way/discu
 
 _The Turing Way_ hosts synchronous events using video conferencing for focused collaboration.
 These include working group meetings, regular [collaboration cafes](#ch-community-calls-collabcafe) and week-long [Book Dash](#ch-bookdash) sprint events.
-These events can be found on the [community calendar](https://calendar.the-turing-way.org).
+These events can be found on the [community calendar](#ch-community-calls-calendar).
 
 ### Email
 

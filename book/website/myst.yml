@@ -1028,28 +1028,18 @@ project:
         - title: Community Calls
           file: community-handbook/community-calls.md
           children:
+            - file: community-handbook/community-calls/calendar.md
+              title: Community Calendar
             - file: community-handbook/community-calls/community-calls-motivation.md
               title: Background, Motivations, and Techniques
             - file: community-handbook/community-calls/community-calls-forums.md
               title: Community Forums
             - file: community-handbook/community-calls/community-calls-onboarding.md
               title: Onboarding Calls
-            - file: community-handbook/community-calls/community-calls-coworking-organisation.md
-              title: Organising Coworking Calls
             - file: community-handbook/community-calls/community-calls-collabcafe.md
               title: Collaboration Cafes
-            - file: community-handbook/community-calls/community-calls-shareouts.md
-              title: Community Share-outs
-            - file: community-handbook/community-calls/community-calls-coworking.md
-              title: Coworking Calls
-            - file: community-handbook/community-calls/community-calls-coworking-dropins.md
-              title: Coworking Drop-ins
             - file: community-handbook/community-calls/community-calls-working-groups.md
               title: Working Group Meetings
-            - file: community-handbook/community-calls/community-calls-core-team.md
-              title: Core Team Meetings
-            - file: community-handbook/community-calls/community-calls-office-hours.md
-              title: Office Hours
         - file: community-handbook/onboarding-offboarding.md
           title: Onboarding and Offboarding
           children:
@@ -1083,8 +1073,6 @@ project:
               title: Book Dash Template for Feedback
             - file: community-handbook/templates/template-coworking-collabcafe.md
               title: Online Collaboration Cafe Templates
-            - file: community-handbook/templates/template-coworking-weekly.md
-              title: Weekly Coworking Call Template
             - file: community-handbook/templates/template-newsletter-draft.md
               title: Template for Drafting Newsletters
             - file: community-handbook/templates/template-fireside-chat.md
