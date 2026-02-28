@@ -182,6 +182,8 @@ project:
               title: Methods and Protocols
             - file: reproducible-research/rdm/rdm-elns.md
               title: Electronic Lab Notebooks (ELNs)
+            - file: reproducible-research/rdm/rdm-cleaning.md
+              title: Data Cleaning
             - file: reproducible-research/rdm/rdm-data-curation.md
               title: Data Curation
             - file: reproducible-research/rdm/rdm-visualisation.md
