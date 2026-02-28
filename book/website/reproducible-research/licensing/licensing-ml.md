@@ -1,9 +1,9 @@
 (rr-licensing-ml)=
-# Licensing Machine Learning models
+# Licensing Machine Learning Models
 
 ## Legal Status of AI/ML model weights
 
-It is an open question wether {term}`AI<Artificial Intelligence (AI)>`/{term}`ML<Machine Learning (ML)>` models weights are even copyrightable.
+It is an open question whether {term}`AI<Artificial Intelligence>`/{term}`ML<Machine Learning>` models weights are even copyrightable.
 US copyright law specifically excludes the following from works eligible for copyright protection: "any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
 In addition the US Copyright Office has stated that this exclusion extends to "scientific or technical methods or discoveries;" "mathematical principles;" and "formulas or algorithms."
 
@@ -61,7 +61,7 @@ For further information on the implementation of a Responsible AI License, check
 
 ### Choosing an OpenRAIL
 
-```{figure} ../../figures/rail-diagram.*
+```{figure} ../../../figures/rail-diagram.*
 ---
 name: rail-diagram
 alt: An illustration depicting a flow chart diagram for a decision making process on which OpenRAIL is the best choice for an ML project.
@@ -72,7 +72,7 @@ The OpenRAIL flow chart aids the selection and naming of a license for an ML pro
 (rr-licensing-ethics-copyright-responsible-rail)=
 ### OpenRAIL License types
 
-These same principles developed in {ref}`'ethical source'<rr-licensing-ethical>` apply to the 'Open' variants of the licences from RAIL (Responsible AI Licences).
+These same principles developed in [](#rr-licensing-ethical-source) apply to the 'Open' variants of the licences from RAIL (Responsible AI Licences).
 In that, they are attempting to place restrictions on the uses to which licensees can put the thing being licenced.
 Traditional software has many of the same concerns which affect machine learning models, and indeed also often contain assets such as images which may be licenced differently from software with which they are bundled.
 The primary differences being governance of data used in training the models (see: {ref}`Data Governance for the Machine Learning Pipeline<pd-dg-ml>`) and the lack of interpretability of the decisions of many ML systems, though this latter point can also be an issue for conventional systems if they are closed.

@@ -19,7 +19,7 @@ However, technical skills are just one aspect of making data science research "o
 Hence, in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 Through community contributions, the project has grown into multiple guides, a global community and numerous resources built and shared by the members of our community.
 
-```{figure} ../figures/evolution-openscience.*
+```{figure} ../../figures/evolution-openscience.*
 ---
 name: evolution-openscience
 alt: This image shows the evolving interest of a new researcher in sharing their work using open science practices.
@@ -49,6 +49,6 @@ Our team and community members are committed to adopting and promoting openness,
 The project has been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/the-turing-way/the-turing-way.
 We really appreciate you using these resources and any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
 
-```{Note}
+```{note}
 A history section will be added soon in this chapter.
 ```

@@ -1,16 +1,10 @@
 name: CI
 
-# run on pushes and pull requests to main
+# run on pull requests to main
 on:
-  push:
-    branches:
-      - main
   pull_request:
     branches:
       - main
-    paths:
-      - "book/**"
-      - ".github/workflows/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!
@@ -21,78 +15,105 @@ defaults:
 jobs:
   build-jb:
     name: Build
-    if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        python_version: ["3.8"]
+        python_version: ["3.13"]
       fail-fast: false # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
+    permissions:
+      issues: write
+      pull-requests: write
 
     steps:
+      - name: Extract the PR number from the ref
+        # only for pull requests from the all-contributors bot
+        if: ${{ contains(github.head_ref, 'all-contributors') }}
+        id: pr_number
+        run: |
+          if [[ ${{ github.ref }} =~ [0-9]+ ]]; then
+            echo "pr_num=${BASH_REMATCH[0]}" >> "$GITHUB_OUTPUT"
+          else
+            exit 1
+          fi
+
+      - name: Post a comment about skipping this workflow
+        # only for pull requests from the all-contributors bot
+        if: ${{ contains(github.head_ref, 'all-contributors') }}
+        uses: peter-evans/create-or-update-comment@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ steps.pr_number.outputs.pr_num }}
+          body: >-
+            Hello human reviewer! I have marked the CI build for this PR as
+            passed because it has come from an `all-contributors` branch - which
+            we do not want to build - but allows branch protection rules to pass.
+
+            Please check that this PR is indeed related to the `all-contributors`
+            bot. If not, the branch may need renaming so that the tests trigger
+            correctly.
+
       - name: Checkout-repository
-        uses: actions/checkout@v4
+        # ignore pull requests from the all-contributors bot
+        if: ${{ !contains(github.head_ref, 'all-contributors') }}
+        uses: actions/checkout@v6
 
       - name: Setup Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v5
+        # ignore pull requests from the all-contributors bot
+        if: ${{ !contains(github.head_ref, 'all-contributors') }}
+        uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python_version }}
 
       - name: Install dependencies
+        # ignore pull requests from the all-contributors bot
+        if: ${{ !contains(github.head_ref, 'all-contributors') }}
         run: make deps
         working-directory: ./book
 
-      - name: Build Jupyter-Book with warnings raised to errors
-        run: make strict
+      - name: Build the book
+        # ignore pull requests from the all-contributors bot
+        if: ${{ !contains(github.head_ref, 'all-contributors') }}
         working-directory: ./book
+        run: make ci
 
-  build-pathways:
-    name: Build Pathways
-    needs: build-jb
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout-repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Upload html output as artifact
+        # ignore pull requests from the all-contributors bot
+        if: contains(matrix.os, 'ubuntu') && !contains(github.head_ref, 'all-contributors')
+        uses: actions/upload-artifact@v6
         with:
-          python-version: "3.8"
-
-      - name: Install dependencies
-        run: make deps
-        working-directory: ./book
-
-      - name: Run pathways script
-        run: make pathways
-        working-directory: ./book
+          name: book-html-${{ github.run_id }}
+          path: ./book/website/_build/html/
 
   offline-link-check:
     name: Link Check
     needs: build-jb
+    if: ${{ !contains(github.head_ref, 'all-contributors') }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout-repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      # We only need the lychee config file from the repository
+      - name: Checkout lychee config file from repository
+        uses: actions/checkout@v6
         with:
-          python-version: "3.8"
+          sparse-checkout: |
+            lychee.toml
+          sparse-checkout-cone-mode: false
 
-      - name: Install dependencies
-        run: make deps
-        working-directory: ./book
+      - name: Ensure destination folder exists
+        run: |
+          mkdir -p ./book/website/_build/html
 
-      - name: Build Jupyter-Book
-        run: make book
-        working-directory: ./book
+      - name: Download book html files from artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: book-html-${{ github.run_id }}
+          path: ./book/website/_build/html/
 
       - name: Check offline links
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2.8.0
         with:
-          args: --config './lychee.toml' --no-progress --offline 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
+          args: --config './lychee.toml' --no-progress --offline --root-dir "$GITHUB_WORKSPACE/book/website/_build/html/" 'book/website/_build/html/**/*.html'
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting

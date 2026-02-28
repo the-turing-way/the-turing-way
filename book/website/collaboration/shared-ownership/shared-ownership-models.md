@@ -5,7 +5,7 @@ At the time of writing this chapter, We have identified the following models of 
 
 ## Roles Based on Level of Access
 
-For the GitHub users contributing to an open source project, folloing roles are defined by the access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
+For the GitHub users contributing to an open source project, following roles are defined by the access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
 The different access levels define the increasing order of rights and responsibilities a contributor has in a project (see [GitHub documentation](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) for details).
 
 For GitHub organisations, there are options to [organise members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) with different roles and access levels.
@@ -28,13 +28,13 @@ In addition to the roles, governance also includes the decision-making processes
 
 ## Defining Roles and Pathways for Contributors
 
-As discussed, a clearly defined set of roles and responsibilities allow individuals or groups to build a sense of common purpose and set a clear expectation around shared ownership in the project.
+As discussed, a clearly defined set of roles and responsibilities allows individuals or groups to build a sense of common purpose and set a clear expectation around shared ownership in the project.
 These roles can be developed based on the tasks, responsibilities and skill requirements in the project.
 
-```{figure} ../../figures/mountain-of-engagement-graphic.*
+```{figure} ../../../figures/mountain-of-engagement-graphic.*
 ---
 name: mountain-of-engagement
-alt: Five steps for developing a “Mountain of Engagement” for Open Source project contributors described in the figure title.
+alt: Infographic outlining a five-step process to assess and improve engagement with your work, known as 'Mountain of Engagement'. 1. A clipboard icon representing making a list of people’s interactions with your work; 2. A pyramid diagram defining 3–5 bands or levels of engagement; 3. Interactions are grouped into bands and labelled, with a larger pyramid showing example slots for each band; 4. Icons of a red X and a green check mark under a magnifying glass represent identifying what works and what doesn’t. 5. A lightbulb and chart icon symbolising how to use this information to prioritise your work and create more engagement opportunities.
 ---
 A “Mountain of Engagement” for Open Source project starts with (1) A list of people's interaction with your work, and (2) 3-5 deepening bands/levels of engagement. (3) Then you can brainstorm and group your interactions into bands of engagement, and give each band a name. (4) With your work you can then identify what works and what doesn't work. (5) This gives the insight to prioritise your work to create more opportunities for your contributors.
 ```

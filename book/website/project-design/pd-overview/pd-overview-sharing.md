@@ -17,7 +17,7 @@ You can learn more about this in a chapter on {ref}`making data FAIR<rr-rdm-fair
 (pd-overview-sharing-archive)=
 ## Share your data
 
-When legally possilbe, your data should be archived in an open place, where people can access them.
+When legally possible, your data should be archived in an open place, where people can access them.
 If you have sensitive data, you will not be able to share the raw data, but there may be some data you can share.
 A repository is a good place to store your data.
 
@@ -34,6 +34,11 @@ If the details of the protocols are not shared, researchers can spend months opt
 A tool that can be used to avoid this is [protocols.io](https://www.protocols.io/).
 It provides a way to ensure that your protocols are openly available, allowing you to update them while keeping track of the changes.
 Furthermore, having your protocols online makes them easier to share, creating opportunity for contributing.
+You can also link protocol DOIs to related research outputs (datasets, papers) using connection metadata - see our [chapter on linking research outputs](#cm-citable-linking) for guidance on creating these connections.
+
+The benefits of making protocols FAIR and citable extend beyond credit: searchable protocols help others find proven methods, DOIs enable impact tracking, and formal citations encourage rigorous protocol documentation.
+Protocols.io provides [detailed guidance on protocol DOIs](https://www.protocols.io/help/dois), and Nature Protocols offers [best practices for protocol citation](https://www.nature.com/nprot/).
+For more information on how DOIs work, see our [chapter on persistent identifiers](#rr-rdm-pid).
 
 ## Share Analysis Scripts and Research Software
 
@@ -51,7 +56,7 @@ You can read about DOIs in the chapter on {ref}`Making Research Components Citab
 
 ## Share Research Hardware
 
-In absence of better solution, you may deal with your hardware documentation with the smae strategy as with your software: using version control  repositories during its development, and zenodo integration for archiving.
+In absence of better solution, you may deal with your hardware documentation with the same strategy as with your software: using version control  repositories during its development, and zenodo integration for archiving.
 If your documentation is in the form of a website, try to provide a independent html build that can run without a server.
 
 ## Share reagents

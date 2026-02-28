@@ -13,10 +13,15 @@ variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding
 
 This chapter provides an abstract and broad view of what the FAIR principles are. How to put the FAIR principles into practise is discussed in other sub chapters ( {ref}`Data Organisation in Spreadsheets<rr-rdm-fair>`, {ref}`Documentation and Metadata<rr-rdm-metadata>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>`). You can also use the [Wellcome Getting Started Guide](https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf) or the [How To FAIR](https://howtofair.dk/) website to find out more about the FAIR principles and how to get started.
 
-```{figure} ../../figures/fair-principles.*
+```{figure} ../../../figures/fair-principles.*
 ---
 name: fair-principles
-alt: Illustration of the FAIR principles to show the definition of being Findable, Accessible, Interoperable and Reusable.
+alt: >
+  Image in green and grey scale showing a winding, climbing pathway made of jigsaw pieces representing the FAIR principles, with stick figures continuing to build the pathway at the top.
+  In the top left hand corner, a highlight bubble shows a signposted pathway with a location marker labelled persistent as a visual representation of findable.
+  In the top right hand corner a highlight bubble shows a key unlocking a padlock with the text meaningful interaction as a visual representation of accessible.
+  In the bottom left hand corner a highlight bubble shows sharing between two computers as a visual representation of interoperable.
+  In the bottom right hand corner a highlight bubble shows a completed puzzle with the text full disclosure as a visual representation of reusable.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -28,9 +33,13 @@ In brief, FAIR data should be:
 
 **Findable:** The first step in (re)using data is to find it!
 Descriptive metadata (information about the data such as keywords) is essential.
+Persistent identifiers (PIDs) are fundamental to making research findable - they provide globally unique identifiers that resolve to landing pages with rich metadata. 
+See our [chapter on persistent identifiers](#rr-rdm-pid) for details on how PIDs enable findability.
 
 **Accessible:** Once the user finds the data and software they need to know how to access it.
 Data could be openly available but it is also possible that authentication and authorisation procedures are necessary.
+PIDs resolve to landing pages that describe access conditions even for restricted resources.
+Learn more in our [PIDs and FAIR Principles](#rr-rdm-pid-fair) section.
 
 **Interoperable:** Data needs to be integrated with other data and interoperate with applications or workflows.
 

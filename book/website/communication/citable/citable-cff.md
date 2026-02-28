@@ -3,11 +3,17 @@
 
 The [Citation File Format](https://citation-file-format.github.io) lets you provide citation metadata, for software or datasets, in plaintext files that are easy to read by both humans and machines.
 
-```{figure} ../../figures/recognition.*
+```{figure} ../../../figures/recognition.*
 ---
 name: recognition
 width: 500px
-alt: Research software developers get recognition by making software citable.
+alt: >
+  Illustration by Scriberia for The Turing Way, highlighting the role of software citation in increasing recognition for developers.
+  Two groups stand on separate pillars: researchers on a taller grey pillar and developers on a shorter green pillar labelled "CODE".
+  Large black arrows labelled "software citation" point upward, lifting the developers.
+  Above both groups is the word "RECOGNITION" in bold, with a glowing badge and green stars.
+  A green arc connects the two pillars, suggesting a bridge of acknowledgement.
+  Below, three figures sit at desks, representing the broader community.
 ---
 Research software developers get recognition by making software citable. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
@@ -25,16 +31,22 @@ When you host your software source code on GitHub and have a `CITATION.cff` in y
 Zenodo will use the information from `CITATION.cff` and show it together with the publication.
 You don't have to edit this information manually on Zenodo anymore.
 
-```{figure} ../../figures/software-credit.*
+```{figure} ../../../figures/software-credit.*
 ---
 name: software-credit
 width: 500px
-alt: More credits for the software creators.
+alt: >
+  Illustration by Scriberia for The Turing Way, highlighting the importance of giving software creators credit through the use of `CITATION.cff` files.
+  On the right, a developer sits at a desk, writing code represented by binary and angled brackets.
+  A pink path of code flows toward two people on the left.
+  One person holds a large wallet labelled "Credits", while the other kneels and holds a magnifying glass that zooms in on the word "CFF" along the code path.
+  A speech bubble above them reads, "More credits for the software creators!"
 ---
 More credits for the software creators. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
 It's easier for the users of your software:
+
 1. They can directly use the citation information from `CITATION.cff` to cite your software.
 2. If your source code is on GitHub, they will show the citation information in the sidebar as a formatted citation, and also in the BibTeX format.
 Users can copy either, paste it into their manuscripts, and/or cite your software correctly.
@@ -98,7 +110,7 @@ To make your software citable, you need to follow the two steps below.
 There are two ways of creating a `CITATION.cff` file.
 
 1. Use [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/), a web application which guides you through the process of creating your citation file.
-The `cffinit` has a few advantages compared to manual editing such as
+  The `cffinit` has a few advantages compared to manual editing such as
 
     - no need for installing extra tools;
     - no need for manual validation;
@@ -107,11 +119,11 @@ The `cffinit` has a few advantages compared to manual editing such as
 
     We suggest using `cffinit` as it simplifies the creation and validation.
     For more details on using `cffinit` see {ref}`cm-citable-cffinit`.
-
 2. Edit the file manually in your favorite code editor.
-The disadvantages of this method are installing the required tools on your system and doing the validation yourself. Also, the error messages of the validation can be relatively long and difficult to understand.
-Once you have a `CITATION.cff` file, it needs to be validated to make sure there are no issues.
-You can validate your `CITATION.cff` file on the command line with the [`cffconvert` Python package](https://pypi.org/project/cffconvert/).
+  The disadvantages of this method are installing the required tools on your system and doing the validation yourself.
+  Also, the error messages of the validation can be relatively long and difficult to understand.
+  Once you have a `CITATION.cff` file, it needs to be validated to make sure there are no issues.
+  You can validate your `CITATION.cff` file on the command line with the [`cffconvert` Python package](https://pypi.org/project/cffconvert/).
 
     ```shell
     cd path/to/CITATION.cff
@@ -146,21 +158,25 @@ When you need to update your `CITATION.cff` file, for example to add an author o
 If you have found software or datasets that contain a `CITATION.cff`, there are a few ways to obtain the reference information to cite them in your publication.
 
 - You can use one of the tools, such as `cffconvert` command line program, to convert your `CITATION.cff` file to one of the [supported formats](https://github.com/citation-file-format/cff-converter-python#supported-output-formats), such as APA, BibTeX or EndNote.
-
 - Alternatively, if the software or datasets you want to cite are available on GitHub, you can use GitHub's interface to copy the reference in either APA or BibTeX formats by clicking the "Cite this repository" button (see the green area in the image below).
 For more details on software citation on GitHub please see [GitHub's guide on software citation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files).
 
-  ```{figure} ../../figures/github-cff-integration.*
-  ---
-  name: github-cff-integration
-  alt: Button on GitHub that provides automatically conversion of the `CITATION.cff` file to APA's and BibTex's format.
-  ---
-  "Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format.
-  ```
+```{figure} ../../../figures/github-cff-integration.*
+---
+name: github-cff-integration
+alt: >
+  Screenshot of a GitHub repository showing the automatic citation box generated from a `CITATION.cff` file.
+  On the right, a dropdown labeled "Cite this repository" is expanded, displaying citation formats in APA and BibTeX.
+  The APA citation is visible with author names listed, and a button below labeled "View citation file".
+  This box appears in the repository sidebar beneath metadata such as license type and tags.
+  The screenshot demonstrates how GitHub displays citation information when a `CITATION.cff` file is included.
+---
+"Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format. The screen capture is from the [Citation File Format repository](https://github.com/citation-file-format/citation-file-format).
+```
 
-  ```{note}
-  "Cite this repository" button only appears when there is a `CITATION.cff` file in the repository.
-  ```
+```{note}
+"Cite this repository" button only appears when there is a `CITATION.cff` file in the repository.
+```
 
 (cm-citable-cff-available-tools)=
 ## Available Tools

@@ -17,7 +17,7 @@ This can cause the findings and interpretation of research to be misleading or i
 Many risks can be mitigated, though this requires researchers to be aware both of the risks and the mitigation techniques. 
 This chapter introduces methods for the {ref}`assessment of risks of bias <pd-risks-of-bias-identifying-risks-of-bias>`, {ref}`identification of confounders <pd-risks-of-bias-confounding-variables>`, and some {ref}`methods to improve validation <pd-risks-of-bias-validation-generalisability>`. 
 
-In this chapter, the word *bias* predominantely refers to statistical distortion rather than to {ref}`the unfair treatment of societal groups (discrimination) <pd-risks-of-bias-discrimination-bias>`, which is an important topic in its own right.
+In this chapter, the word *bias* predominantly refers to statistical distortion rather than to {ref}`the unfair treatment of societal groups (discrimination) <pd-risks-of-bias-discrimination-bias>`, which is an important topic in its own right.
 
 
 

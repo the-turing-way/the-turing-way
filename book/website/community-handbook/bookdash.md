@@ -4,7 +4,7 @@
 _The Turing Way_ [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
 
-```{figure} ../figures/book-dash-collaboration.*
+```{figure} ../../figures/book-dash-collaboration.*
 ---
 height: 500px
 name: book-dash-collaboration
@@ -19,7 +19,7 @@ These virtual Book Dashes are five days long, designed for flexible participatio
 Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hour short collaborative co-working calls, called "contribution sessions" each day based on their availability.
 In the future, we will co-design hybrid events with an "online-first" approach for the Book Dash attendees who will have the opportunity to organise small local meet-ups for collaboration and social events.
 
-```{figure} ../figures/first-pull-request.*
+```{figure} ../../figures/first-pull-request.*
 ---
 height: 400px
 name: book-dash
@@ -67,12 +67,12 @@ Some familiarity with the project and how we work in the community will help our
 If you have previously contributed to a collaborative project or have a specific proposal for contribution in mind, you are highly encouraged to apply.
 Do get in touch with one of the core contributors who can help you shape your idea by identifying where and how they fit in the bigger vision of the project.
 
-If you have not interacted with our community before, but want to take part in a Book Dash, please join one of our community events such as {ref}`Co-working calls<ch-coworking-weekly>` call or {ref}`Collaboration Cafés<ch-coworking-collabcafe>`. 
+If you have not interacted with our community before, but want to take part in a Book Dash, please join one of our community events such as {ref}`Co-working calls<ch-community-calls-coworking>` call or {ref}`Collaboration Cafés<ch-community-calls-collabcafe>`. 
 This way, you will get to know about our project and understand more about how you could contribute during a Book Dash.
 
 ## Support in-person, hybrid and remote participation
 
-Previous Book Dashes have been organised for in-person participation in venues located in the UK (the home country of the project), as hybrid events, or entirely online.
+Previous Book Dashes have been organised for in-person participation in venues located in the UK (the home country of the project) and the Netherlands, as hybrid events, or entirely online.
 
 **For participants attending a Book Dash in person:** 
 * All the participants who need to travel to the event's venue are offered financial support to cover their travel, accommodation, and related expenses such as childcare or special accessibility requirements.
@@ -86,6 +86,31 @@ In the future, we aim to experiment with a multi-hub format allowing multiple sm
 It includes (but is not limited to) temporary access to high-speed internet, childcare grants and live transcription during the event.
 These bursaries are also available for the rent or purchase of small hardware items such as headphones or webcams to enhance participants' overall experience.
 * There is also financial support for subsistence costs such as buying meals or treats for the online social events during the Book Dash.
+
+## Organising a Local Hub
+
+As part of the wider online Book Dash event it is possible to organise local hubs that take place in person over 1–2 days in the same week as the online Book Dash. 
+In the past, these hubs have been organised at London and Bristol in the UK, as well as Amsterdam and Delft in the Netherlands.
+
+To organise a hub, you will need to consider which days are most suitable to organise the in-person event. 
+This may depend on your availability, the availability of rooms, or events that take place during the Book Dash event. 
+For the TU Delft Hub we always organised the in-person hub on the Tuesday and the Wednesday, so that we avoid the first online day which is focused on introductions, as well as the 'scriberia' day that usually takes place on Thursday. 
+You will need to arrange or consider the following: 
+
+- Book an event location based on the amount of registrations you will expect (maximum 20 persons, realistically speaking it will probably be more towards 10 people joining)
+- Make sure there are some snacks and drinks available
+- Consider if you want to host a dinner on one of the days - this may require budget or communication to participants that they need to cover the dinner themselves
+- Consider if there is funding available from your local institute, or any funders or other stakeholders, which could be used to cover travel/accessibility/childcare/food costs
+- Let participants sign up via the general Book Dash application form, or let them sign up separately for the local hub only
+- Ask participants about any dietary and accessibility requirements, and which (parts of the) days they would like to join
+- Inform your participants at least a week in advance about a preliminary schedule, location information and other information needed to participate in the event
+- On the day itself:
+  - Open the room up early, make sure that there are name tags available and ideally stickers to hand out
+  - Use the introduction presentation to remind people about the Code of Conduct, the schedule and anything else that first-time attendees need to know
+  - Check-in with the online Book Dash by either joining a session online, or at least adding information about what people are working on at the local hub to the etherpad
+  - Focus on facilitating the participation of the participants, not on your own contributions - hosting an event takes effort!
+  - Remind people to join the Share-out sessions on Friday
+- At the end or afterwards: Thank participants and give them the opportunity to provide feedback via a short form or via the etherpads used by the wider Book Dash event
 
 ## More Resources on Book Dash
 

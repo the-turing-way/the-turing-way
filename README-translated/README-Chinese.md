@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="book/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -13,8 +13,8 @@
 | 资料 | 链接 |
 | :--- | :--- |
 | **项目** | [![读这本书](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) |
-| **新闻** | [![Twitter 关注](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
-| **聊天** | [![加如 Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
+| **新闻** | [![Twitter 关注](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
+| **聊天** | [![加如 Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
 | **构建** | [![Netlify 构建](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
 | **引用** |  [![引用 使用这个DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
@@ -22,14 +22,14 @@
 
 _The Turing Way_ 是一本关于可重复的、合乎道德的和协作的数据科学的手册。我们参与并支持由不同贡献者组成的社区，使数据科学对每个人都是可访问的、可理解的和有效的。 我们的目标是提供学术界、工业界和公共部门的研究人员和数据科学家在项目开始时所需的所有信息，以确保项目结束后易于复制。
 
-[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](../book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 *The Turing Way是一本书、一个社区和一个全球合作。*
 
 我们鼓励所有的利益相关者，包括学生、研究人员、软件工程师、项目负责人和融资团队，使用The Turing Way来了解他们在数据科学中的角色和可重复性责任。
 您可以线上阅读这本书 [在线版本](https://book.the-turing-way.org), 按照我们的贡献指南所述为项目做出贡献 [贡献指南](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and 并重新使用所有材料 ([（见许可证）](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](../book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
+[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](../book/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *The Turing Way 线上书籍的截图 ([use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -73,7 +73,7 @@ _The Turing Way_ 是一个开放式协作和社区主导的项目。
 我们希望能够满足我们的贡献者的需求。
 因此，我们根据你的兴趣、有效性或技能要求，为你的贡献提供多个切入点。
 
-![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/figures/README_imgs/README_contributions.png)
 
 *贡献包括开发和分享新的章节；维护和改进现有的章节；分享 _The Turing Way_ 资源；审查和更新以前开发的材料；翻译其章节，以帮助该项目在全球范围内使用，并分享研究的最佳实践。*
 
@@ -100,7 +100,7 @@ DOI允许我们对资源库进行归档，它们对于确保学术出版物对�
 
 ### 引用 _The Turing Way_ 插图
 
-![This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era](../book/website/figures/evolution-open-research.jpg)
+![This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era](../book/figures/evolution-open-research.jpg)
 
 _The Turing Way_ 插图由[Scriberia](https://www.scriberia.co.uk/)的艺术家进行创作，作为[_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)书冲入市场的一部分，分别于 2019 年 5 月 17 日在曼彻斯特、2019 年 5 月 28 日和 2020 年 2 月 21 日在伦敦以及 2020 年 11 月 27 日和 2021 年 5 月 28 日在网上发布。它们描绘了各种 手册中的内容、社区中的协同努力以及 _The Turing Way_ 项目的总体情况。 在 CC-BY 许可下，可在 Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807)上获得这些插图。
 
@@ -124,7 +124,7 @@ Zenodo的最新版本可以引用如下：
 
 #### 聊天
 
-使用这个[邀请链接](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)与他人练习并在Slack上讨论你的想法。
+使用这个[邀请链接](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)与他人练习并在Slack上讨论你的想法。
 
 我们也有一个Gitter聊天室（如果你更喜欢开放源替代的聊天方案）。
 我们很乐意你在<https://gitter.im/the-turing-way/the-turing-way>上打个招呼方式。
@@ -135,7 +135,7 @@ Zenodo的最新版本可以引用如下：
 
 我们有一个*tinyletter*列表，每月会发送项目更新。
 
-订阅地址：<https://tinyletter.com/TuringWay>.
+订阅地址：<https://buttondown.com/turingway>.
 
 你也可以在Twitter上关注我们([@turingway](https://twitter.com/turingway)).
 

@@ -15,10 +15,10 @@ Data documentation can be done on different levels.
 All documentation accompanying data should be written in clear, plain language. 
 Documentation allows data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it. 
 
-```{figure} ../../figures/documentation.*
+```{figure} ../../../figures/documentation.*
 ---
 name: documentation
-alt: The figure goes through a dark wood setting lights alongthe way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someon got lost in the woods where no documentation was available.
+alt: The figure goes through a dark wood setting lights along the way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for colleagues to find their way. In the darkness one sees another figure - someone got lost in the woods where no documentation was available.
 ---
 Illustration about peer review.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
@@ -49,12 +49,48 @@ The use of community-defined standards for metadata is vital for reproducible re
 Metadata standards are also discipline-specific.
 For example, for brain data, the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standard to use.
 Not every discipline may use metadata standards, however.
-You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline. 
-There are also situations when researchers make use of more general metadata standards, for example when they use a generic archive to store their data they have to adhere to the metadata standards of the archive. 
+You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline.
 
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
 
 Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
+
+
+(rr-rdm-metadata-pid)=
+### PID Metadata
+
+{abbr}`PID (Persistent Identifier)` metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms.
+
+PID metadata includes core properties like:
+- Creator names and affiliations
+- Title and description
+- Publication date and resource type
+- Relationships to other research outputs (such as citations or dataset-paper links)
+
+Unlike domain-specific metadata (such as the Brain Imaging Data Structure for neuroimaging data), PID metadata follows standardized schemas that are discipline agnostic.
+Both types of metadata are valuable - PID metadata enables broad discoverability while domain-specific metadata captures the detailed context needed for reuse within your field.
+
+Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](#rr-rdm-pid-metadata).
+
+(rr-rdm-readme)=
+## README for datasets
+
+A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others.
+A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
+
+README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used).
+See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
+
+### README tips and examples
+
+* Create one README file for each dataset
+* Name the file README
+* Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.
+
+Example templates:
+
+* [Cornell Template](https://cornell.app.box.com/v/ReadmeTemplate)
+* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
 
 
 (rr-rdm-metadata-tagging)=

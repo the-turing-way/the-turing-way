@@ -8,7 +8,7 @@ A Data Management Plan is a roadmap for you to manage your data efficiently and 
 This can prevent data loss or breaches. 
 Planning ahead on how to manage your data consistently can save you time later on! It can also make it easier to {ref}`share<rr-rdm-sharing>` your data with others and therefore make the data more {ref}`FAIR<rr-rdm-fair>`
 
-```{figure} ../../figures/data-management-plan.*
+```{figure} ../../../figures/data-management-plan.*
 ---
 name: data-management-plan
 alt: There are two women in the illustration. The left one is looking distressed and says 'Oh no, my computer crashed! I lost all the data!' The right woman is holding a map which says DMP (Data Management Plan) and is looking happy. She is saying 'Good thing I had a plan! The data is all backed up! 
@@ -54,15 +54,16 @@ Personal data or research outputs needed to apply for patents cannot be publicly
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
 * You can outsource long term preservation of your data to a data repository. 
 You can find more information on how to select an appropriate repository in {ref}`sharing and archiving data<rr-rdm-sharing>` section
-    * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
+    * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output.
 
-A repository should have a preservation policy that specifies how long your outputs will be curated. 
+A repository should have a preservation policy that specifies how long your outputs will be curated.
 When in doubt, contact your library Research Data Support Team for more information about data repositories.
 
-* For digital preservation, ensure that the research data can be discovered, accessed, used and understood now and in future. 
+* For digital preservation, ensure that the research data can be discovered, accessed, used and understood now and in future.
 This requires that you address the technological changes, changing user behavior and new requirements on the computer-aided processing of research data as well as evolving organisational.
 
 ### 5. Reuse of your research outputs by others
+
 * Select a license when you make your output available on a repository (see the Licensing subchapters on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-floss>` for more information).
 By selecting a license you tell others how they can reuse your data. 
 If you do not select a license others will not be able to reuse your data without asking you for permission. 
@@ -73,10 +74,22 @@ If you do not select a license others will not be able to reuse your data withou
 * Check if there are any costs associated with your project
     * Preferred storage solution (during and after the project, see #3-4)
     * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
-    * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
-    * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
+    * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`)
+    * Or [indirect costs](https://labrigger.com/blog/2025/02/12/indirect-costs-are-research-costs/) that need to be covered.
+    * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance, or the [Framework for Costing Research Data Management](https://doi.org/10.5281/zenodo.15465412).
 
-You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
+You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan.
+
+(rr-rdm-dmp-citable)=
+
+## DMPs as Citable Research Objects
+
+Many funders now encourage or require DMP as part of their open science policies.
+Publishing your DMP also allows you to create a living document - you can update it during the project and deposit new versions with new DOIs while maintaining all previous versions.
+This creates a traceable record of how your data management evolved throughout the research lifecycle.
+See [](#cm-citable-steps-object) for more information on how to make your DMP citable.
+
+
 
 (rr-rdm-dmp-tools)=
 

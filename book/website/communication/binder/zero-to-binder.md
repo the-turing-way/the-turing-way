@@ -305,14 +305,14 @@ Pushing changes back to the GitHub repo through the container is not possible wi
 Binder is all about sharing your work easily and there are two ways to do it:
 
 - Share the **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** URL directly
-- Visit **<https://mybinder.org>**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
+- Visit **<https://mybinder.org>**, type in the URL of your repo and copy the {term}`Markdown` or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
 🚦🚦🚦
 
-1) Add the **Markdown** snippet from **<https://mybinder.org>** to the `README.md` file in your repo
+1) Add the {term}`Markdown` snippet from **<https://mybinder.org>** to the `README.md` file in your repo
    - The grey bar displaying a binder badge will unfold to reveal the snippets.
-     Click the clipboard icon next to the box marked with "m" to automatically copy the Markdown snippet.
+     Click the clipboard icon next to the box marked with "m" to automatically copy the {term}`Markdown` snippet.
 2) Click the badge to make sure it works!
 
 (z2b-step-7)=
@@ -553,7 +553,7 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
 
 **Advanced usage patterns:**
 
-- Separating content from envorinment with `nbgitpuller` to reduced rebuilds:
+- Separating content from environment with `nbgitpuller` to reduced rebuilds:
   - **<https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922>**
 - Tips for reducing the start-up time of your repository:
   - **<https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956>**

@@ -1,6 +1,8 @@
 (rr-open-resources)=
 # Resources
 
+To learn more about recommended Open Research practices across disciplines, check out: [Open Research: Examples of good practice, and resources across disciplines](https://doi.org/10.31219/osf.io/3r8hb) {cite:ps}`Farran2025openpractices`.
+
 (rr-open-resources-learn)=
 ## What to Learn Next
 
@@ -8,7 +10,7 @@ If you have not had a chance already, take a look at the chapter on {ref}`rr-vcs
 
 [This](http://book.openingscience.org.s3-website-eu-west-1.amazonaws.com/) book on open science has a great deal of interesting information.
 For information specific to open source software, [this](https://opensource.guide/) is a good place to look.
-For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
+For more information on DOIs and citing resources look [here](http://doi.org).
 
 If you want to take a look at an active open source project, this textbook *is* one.
 The source can be found on GitHub [here](https://github.com/the-turing-way/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).

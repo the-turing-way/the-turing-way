@@ -8,7 +8,8 @@
 - Ensure your data is in a simple, standard format or formats which is machine and human-readable.
 - Check, reformat or create metadata to clearly describe what the data is, how it was collected, and any associated strengths/weaknesses to someone that finds it.
 - Identify a relevant, easily discoverable repository or repositories to host your data, and upload it there.
-- Assign your data a persistent identifier such as a DOI.
+- Assign your data a persistent identifier such as a DOI by depositing it in a trusted repository.
+Learn how PIDs work and how repositories assign them in our [practical guidance on PIDs](#rr-rdm-pid-practical).
 
 (rr-open-checklist-software)=
 ## Open Source Software

@@ -13,13 +13,13 @@ Large amounts of research funds and careers of researchers can be wasted by only
 
 You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`.
 
-```{figure} ../../figures/birds-of-open-data.*
+```{figure} ../../../figures/birds-of-open-data.*
 ---
 height: 400px
 name: birds-of-open-data.*
 alt: Two birds in a fountain of open data. One asks "You mind if I reuse this data?" The other answers "Go ahead! We can even work together on it!"
 ---
-Birds of Open Data. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+Birds of Open Data. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. [](doi:10.5281/zenodo.3332807).
 ```
 
 (rr-rdm-sharing-steps)=
@@ -34,7 +34,8 @@ As such, you first need to decide which data you need to share for others to be 
 
 Data should be shared in a formal, open, and indexed data repository [{term}`def<Repository>`] where possible so that it will be accessible in the long run.
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
-If possible use a repository that assigns a DOI, a digital object identifier, to make it easier for others to cite your data. Have a look in the {ref}`cm-citable` to see how to share and cite your data and other research objects. The {ref}`cm-citable-linking` section explains several options for linking your data and other research objects.
+Pay attention to whether a repository assigns DOI. 
+See our [chapter on persistent identifiers](#rr-rdm-pid) to learn more about how you can link your data to other research objects.
 
 A few public data repositories are [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Harvard Dataverse](https://dataverse.harvard.edu/), [4TU.ResearchData](https://data.4tu.nl/info/en), and [Dryad](https://datadryad.org/). 
 See the [NIH list of Generalist Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/generalist-repositories) for more data repositories.

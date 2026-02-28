@@ -8,7 +8,7 @@ In addition the project delivery team makes use of various communication platfor
 
 Given the diverse range of formal and informal projects managed by both the project delivery team and community members, the communication within _The Turing Way_ community can be broadly categorised as synchronous and asynchronous.
 
-## GitHub for Synchronous and Asynchonous Communications
+## GitHub for Synchronous and Asynchronous Communications
 
 [GitHub Issue](https://github.com/the-turing-way/the-turing-way/issues) and [Github discussions](https://github.com/the-turing-way/the-turing-way/discussions) 
 serve as a dynamic space where updates, queries, and discussions happen. 
@@ -28,7 +28,7 @@ To indicate the specific nature of the issue/discussion, we also use words such 
 
 ## Synchronous Communications
 
-We use the Slack and social media platforms to engage with our collaborators and community members synchrnously.
+We use the Slack and social media platforms to engage with our collaborators and community members synchronously.
 
 ### Slack Workspace
 
@@ -43,8 +43,8 @@ You can join the workspace using the [joining invitation](https://theturingway.s
 
 In expanding our reach beyond project-specific communication channels, _The Turing Way_ project delivery team uses social media platforms to connect with a wider audience and share project updates broadly.
 
-- **Twitter (@turingway):** Used since 2020, our Twitter presence has played an important role in getting the community engaged in real-time with updates and announcements from the project. Follow [@turingway](https://twitter.com/turingway).
-- **Fosstodon (@turingway):** Since 2023, we have been using [Fosstodon](https://fosstodon.org/@turingway), a platform for open science practitioners in our community.
+- **Twitter (\@turingway):** Used since 2020, our Twitter presence has played an important role in getting the community engaged in real-time with updates and announcements from the project. Follow [\@turingway](https://twitter.com/turingway).
+- **Fosstodon (\@turingway):** Since 2023, we have been using [Fosstodon](https://fosstodon.org/\@turingway), a platform for open science practitioners in our community.
 - **LinkedIn Page:** Since late 2023, we have been testing and expanding our presence on [LinkedIn](https://www.linkedin.com/company/the-turing-way) among professional networks.
 
 These social media platforms complement our primary communication channels, providing additional avenues (often requiring manual cross-posting) for community engagement and outreach.

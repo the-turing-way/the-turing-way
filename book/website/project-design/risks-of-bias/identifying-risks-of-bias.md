@@ -20,7 +20,7 @@ Individuals may be physical objects, such as people with a specific disease, or 
 It is rarely possible to thoroughly analyse an entire population, so researchers will typically focus on a *sample*, which is a subset of the population. 
 The hope is that lessons learned about the sample will apply to the whole population, but this is not always the case. 
 
-Samples are typically intended to be uniform and random, meaning that every inidividual in the population has equal chance of being selected. 
+Samples are typically intended to be uniform and random, meaning that every individual in the population has equal chance of being selected. 
 *Sampling bias* occurs when systematic issues cause some individuals to be more likely to be included than others. 
 This may be caused by *convenience sampling*, where potential participants are selected because they are easy to access. 
 
@@ -70,7 +70,7 @@ Failure to report negative results can be a significant form of scientific misco
 
 To avoid biases in reporting research, it is helpful to define what the primary results are before conducting research, then these can be reported regardless of whether the finding was positive or negative. 
 As such, it is highly beneficial to [develop and register a study protocol](https://www.nature.com/articles/s42256-023-00705-6) at the start of a research project.
-This gives an opportunity to ensure research is properly thought-through, as well as improving the transparancy and trustworthiness of research. 
+This gives an opportunity to ensure research is properly thought-through, as well as improving the transparency and trustworthiness of research. 
 
 
 (pd-risks-of-bias-identifying-risks-of-bias-blinding)=

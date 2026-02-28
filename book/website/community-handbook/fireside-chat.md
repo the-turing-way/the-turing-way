@@ -6,10 +6,10 @@
 *The Turing Way* team collaborates with different international communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research communities. 
 Speakers are invited from diverse backgrounds and perspectives present their views, contextualise the topics in their areas of work and catalyse cross-community collaborations through knowledge sharing.
 
-```{figure} ../figures/fireside-chat.*
+```{figure} ../../figures/fireside-chat.*
 ---
 name: fireside-chat
-alt: People sitting around the campfire and informally talking to each other.
+alt:  Illustration by Scriberia for The Turing Way, showing a group of contributors having a chat ssitting around a log fire. The logs, which are fueling the fire, are in the cenre of the illustration. Emanating upwards from the logs is the fire and surrounding the flames of the fire are speech bubbles, network graphs, line charts and pie charts. At the top of the flame is a banner reading "THE", then the flames spell out "FIRESIDE" and finally on the logs is the word "CHAT". Moreover, there are 4 contributors sitting around the fire on the bottom of the illustration; they each have speech bubbles attached to the end of a stick, which they are roasting in the fire. The contributor sitting on the left-hand side is sitting in a wheelchair, there are 2 in the middle sitting on a log and a final one on the right-hand side is standing up and walking towards the rest of the group.
 ---
 Fireside Chat in The Turing Way.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -68,10 +68,10 @@ The schedule is decided based on the availability of individuals invited as spea
 - **GitHub checklist for organisers and speakers**: we have a checklist for planning the Fireside Chat as an [issue template](https://github.com/the-turing-way/the-turing-way/issues/new/choose). For each iteration, event hosts will create a new issue to allow other participants to follow along with the planning process.
 - **Eventbrite pages**: Registrations are handled via [*The Turing Way* Eventbrite page](https://www.eventbrite.co.uk/o/the-turing-way-18600928389). The event is free to attend and recordings are shared with all registered participants after the event.
 - **Zoom**: We host Fireside events online using [Zoom](https://zoom.us/) (with live transcription), however, the platform for the participants can change based on the preference of the majority of speakers.
-- **Online promotion**: Announcements are shared on *The Turing Way* [X (formerly Twitter)](https://twitter.com/turingway), [Slack workspace](https://tinyurl.com/jointuringwayslack) and [monthly newsletters](https://tinyletter.com/TuringWay), which are then cross-posted by other communities in their network.
+- **Online promotion**: Announcements are shared on *The Turing Way* [X (formerly Twitter)](https://twitter.com/turingway), [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) and [monthly newsletters](https://buttondown.com/turingway), which are then cross-posted by other communities in their network.
 - **Shared Documents**: We currently use Etherpad by Software Freedom Conservancy to enable shared note-taking during the event. Refer to this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022. 
     - **Template** is provided as a subchapter: {ref}`ch-template-fireside-chat`.
-    - **Overview of all Fireside Chats** are currently shared via HackMD: https://hackmd.io/@turingway/fireside-chats.
+    - **Overview of all Fireside Chats** are currently shared via HackMD: https://hackmd.io/\@turingway/fireside-chats.
 - **Video Recording**: Video recordings with closed captioning are shared on *The Turing Way* YouTube channel in the [Fireside Chat video playlist](https://www.youtube.com/watch?v=nuNA3Qa8A-k&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl).
 
 ### Participants

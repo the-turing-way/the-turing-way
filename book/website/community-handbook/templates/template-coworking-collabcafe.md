@@ -1,7 +1,7 @@
 (ch-template-coworking-collabcafe)=
 # Collaboration Cafe Call Template
 
-*A permanent document exists in the HackMD: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe) that is regularly updated with the empty template for the next event.*
+*A permanent document exists in the HackMD: [https://hackmd.io/\@KirstieJane/CollabCafe](https://hackmd.io/\@KirstieJane/CollabCafe) that is regularly updated with the empty template for the next event.*
 
 ## _The Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
 
@@ -25,14 +25,14 @@ This collaboration cafe aims to engage with researchers interested in learning a
 
 ### Useful links
 
-* Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
+* Shared notes: https://hackmd.io/\@KirstieJane/CollabCafe
 * The Turing Way GitHub repository: https://github.com/the-turing-way/the-turing-way
 * All about [online Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
 * Turing Way calendar: https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ
-* Contribution guidelines: https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
+* Contribution guidelines: #ch-contributing
 * Chat on Gitter: https://gitter.im/the-turing-way/the-turing-way
 * Join the mailing list: https://buttondown.email/turingway/
-* Can't join the collaboration cafe but want to work with us? Check out the co-working calls during the week: https://hackmd.io/@malvikasharan/TW-coworking
+* Can't join the collaboration cafe but want to work with us? Check out the co-working calls during the week: https://hackmd.io/\@malvikasharan/TW-coworking
 
 ### Code of conduct
 
@@ -43,7 +43,7 @@ https://cuckoo.team/collabcafe
 
 ### Sign up below
 
-*Name <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
+*Name [A fun Icebreaker] + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
 
 *(Remember that this is a public document. You can use a pseudonym if you'd prefer.)*
 

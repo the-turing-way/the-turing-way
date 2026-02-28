@@ -19,9 +19,9 @@ Data feminism is an approach to understanding and practising data science that's
 Here are some key aspects discussed within the chapter:
 - **Examine Power Structures:** Data Feminism urges a critical examination of power dynamics in data practices. It questions who is represented in data, who benefits from data practices and whose interests are served.
 - **Challenge the Status Quo:** This challenges existing norms in data science, such as the male/female binary and questions other hierarchical classification systems. Thus dismantling stereotypes to promote a more inclusive approach to data.
-- **Inclusivity and Representation:** Data Feminism emphasises the need for diverse representation in data and in data teams. When data science is dominated by a homogenous group, especially those from privileged backgrounds, it risks perpetuating biases and inequalities.
+- **Inclusivity and Representation:** Data Feminism emphasises the need for diverse representation in data and in data teams. When data science is dominated by a homogeneous group, especially those from privileged backgrounds, it risks perpetuating biases and inequalities.
 - **Ethical Considerations and Consent:** Ethical concerns such as consent and privacy are at the core of data feminism. This includes concerns about how data is collected and used and the potential for harm especially to marginalized communities. 
-- **Visibility of Labor:** This seeks to recognize and make the often unseen labour in data science visible; especially the contributions of women and people from marginalized groups. 
+- **Visibility of Labour:** This seeks to recognize and make the often unseen labour in data science visible; especially the contributions of women and people from marginalized groups. 
 - **Interdisciplinary Approaches:** Data feminism advocated for interdisciplinary work, drawing insights and methods from various fields outside of traditional data science to enrich understanding and foster more impactful outcomes. 
 - **Action and Advocacy:** Beyond analysis, data feminism promotes the need to advocate for change, challenge oppressive structures and promote social justice.
 - **Continual Learning and Adaptation:** Data feminism acknowledges that anti-oppression work is never finished. Continuous learning is essential, and we must recognise society and technology's dynamic nature.

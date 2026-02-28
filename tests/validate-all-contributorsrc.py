@@ -10,7 +10,7 @@ from jsonschema.validators import Draft202012Validator
 
 def get_schema() -> dict[Any, Any]:
     # Get all-contributorsrc schema from Schema Store
-    schema = requests.get("https://json.schemastore.org/all-contributors.json").json()
+    schema = requests.get("https://www.schemastore.org/all-contributors.json").json()
 
     # Add _comment item to the schema, as we have added a comment explaining the file
     schema["properties"]["_comment"] = {

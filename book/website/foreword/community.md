@@ -3,22 +3,25 @@
 
 _Everyone has a skill that is useful for someone, and therefore anyone can contribute to The Turing Way._
 
-_The Turing Way_ book has been co-authored by more than 450 diverse contributors and utilised by different groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
+_The Turing Way_ book has been co-authored by more than 500 diverse contributors and utilised by different groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
 
 Our community members and general audience includes, but are not limited to, researchers, students, data scientists, software engineers, project leaders, team coordinators, community managers, data stewards, librarians, data science educators, open science practitioners and more.
 
-As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
-The book itself has 6000+ monthly users worldwide.
+As of January 2025, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
+The book itself has 6000+ monthly users worldwide (a total of 87,000 unique users in 2024 alone).
 
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
-Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
+Contributors' details are available in the [Contributors Records](#contributors-record), and the [project reports](https://github.com/the-turing-way/project-management/tree/main/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
 (fw-community-delivery-team)=
 ## Project Delivery Team
 
-The project is supported by The Alan Turing Institute under the Tools, Practices, and Systems (TPS) Programme, with several positions funded to work on _The Turing Way_.
+Since 2019, the project has received funding for several roles at The Alan Turing Institute
+who provide ongoing support for the community management and delivery of the project goals.
 
-The project is managed and its activities/goals are delivered by the project delivery team, which currently includes project leads Kirstie Whitaker (TPS Programme Director) and Malvika Sharan (TPS Senior Researcher), research community manager: Anne Lee Steele and a research project manager: Arielle Bennett (TPS Programme Manager).
+The project delivery team is constituted by these funded roles, as listed in {ref}`fw-governance-roles`.
+The project delivery team is responsible to engage and involve community members across a range of activities that contribute to the development, 
+maintenance and sustainability of _The Turing Way_.
 
 (fw-community-book-roles)=
 ## Book-Related Roles
@@ -40,7 +43,7 @@ Existing members of the community are connected with new contributors for suppor
 Contributions also include providing advisory support, such as by sharing examples, resources or other relevant resources that could be helpful for the authors.
 
 By enabling our community of users and contributors to engage with each other, we ensure that the project, community and resources can be used, shared and improved by diverse perspectives.
-We describe the contribution process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md).
+We describe the contribution process in the {ref}`ch-contributing`.
 
 (fw-community-beyond-book)=
 ## Beyond the Book
@@ -104,4 +107,4 @@ We have a chapter on {ref}`ch-presenting` to help you present and share about _T
 
 _The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.
 
-_For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html)._
+_For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](#ch-acknowledgement-examples)._

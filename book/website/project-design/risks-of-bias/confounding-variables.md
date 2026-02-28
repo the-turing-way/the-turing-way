@@ -5,14 +5,14 @@ Correlation does not imply causation - if we want to know whether a relationship
 Confounders are external factors which cause both the exposure and outcome.
 For example, there might be a strong correlation between ice cream sales and shark attacks at the beach, but there is no causal relationship here - both of these are more common in warm weather, so the weather is the confounder. 
 To measure the strength of any causal relationship between exposure and outcome, the strength of the relationship between the confounder and the outcome must also be measured by including the confounder as a model input. 
-In a simple model the strength of these effects ($x_1, x_2$) could be esimated as:
+In a simple model the strength of these effects ($x_1, x_2$) could be estimated as:
 $Outcome = x_1 \times  Exposure  + x_2 \times Confounder$
 
 
 In the study of causal inference it is common to use directed acyclic graphs (DAGs) to map the causal relationships between variables, which can help to identify confounders. 
 This can be helpful as it is not always clear whether a potential confounder is in fact a confounder, or a *mediator*, a *proxy confounder*, or a *competing exposure*. 
 
-```{figure} ../../figures/DirectedAcyclicGraph.png
+```{figure} ../../../figures/DirectedAcyclicGraph.png
 ---
 height: 500px
 name: directed-acyclic-graph

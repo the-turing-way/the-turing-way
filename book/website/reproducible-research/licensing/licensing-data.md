@@ -12,25 +12,8 @@ As a result, accessibility to your data is affected by the data license you choo
 (rr-licensing-data-cc)=
 ## Creative Commons Licenses
 
-Creative Commons or CC provides a number of licenses that can be used with a wide variety of creations that might otherwise fall under copyright restrictions, including music, art, books and photographs.
-Although not tailored for data, CC licenses can be used as data licenses because they are easy to understand.
-Its website includes a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with simple visual symbols.
-
-(rr-licensing-data-cc-permissions)=
-### Permission Levels
-
-The permission level provided by a Creative Commons data license can be understood from its name, which is a combination of two-letter "permission marks".
-The only exception to this naming scheme is CC0, which will be introduced in the next section.
-
-|**Permission Mark**|**What can I do with the data?**
-|---|---|
-BY | Creator must be credited
-SA | Derivatives or redistributions must have identical license
-NC | Only non-commercial uses are allowed
-ND | No derivatives are allowed
-
-
-For example, the CC BY-ND license specifies that users must credit the creator of the data and cannot create any derivatives.
+CC licenses, although not tailored for data, can be used as data licenses in some cases, such as CC0 for public domain data.
+The Creative Commons website provides a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with visual symbols as discussed in {ref}`rr-licensing-documentation`.
 
 (rr-licensing-data-cc-cc0)=
 ### Dedicating Your Work to the Public with CC0
@@ -80,7 +63,7 @@ CC licenses also cover copyrights and other neighbouring rights.
 
 Another difference is the availability of a standardised Community Norms document with the PDDL.
 The lack of such a document with CC0 means that you have to rely on community norms, which may often be unspoken or unwritten and can vary from community to community, to ensure fair attribution.
-A comparison between the PDDL and CC0 is provided [here](https://opendatacommons.org/faq.1.html).
+A comparison between the PDDL and CC0 is provided [here](https://opendatacommons.org/faq/).
 
 (rr-licensing-data-options)=
 ## Other Licensing Options
@@ -92,6 +75,6 @@ Another example is the [Open Government Licence](http://www.nationalarchives.gov
 
 The [Data Curation Center (DCC) guide](https://www.dcc.ac.uk/guidance/how-guides/license-research-data) {cite:ps}`ball2011license` on how to license research data expatiates on the licenses discussed in this chapter, and gives more information about [Prepared Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-6000), [Bespoke Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-7000), [Multiple Licensing](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000) and [Mechanisms for Licensing Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-14000).
 
-If you would like to read more about the challenges and finer points of licensing, [this article](https://research.okfn.org/avoiding-data-use-silos/) is a great resource to get you started.
+If you would like to read more about the challenges and finer points of licensing, [this article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3320472) is a great resource to get you started.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

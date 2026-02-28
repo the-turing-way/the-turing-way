@@ -54,7 +54,7 @@ This glossary should be a living and breathing document, that can be updated, an
 ## Organising stakeholder workshops
 ### Key question: What work before, during, and after a workshop should be done to run an effective stakeholder workshop?
 
-Workshops are best suited for engagement activites where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task, as opposed to gatherings which are purely driven by conversation. 
+Workshops are best suited for engagement activities where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task, as opposed to gatherings which are purely driven by conversation. 
 This ensures participants are taking active steps towards achieving a shared goal.
 
 Organising an effective workshop is a multi stage process which can be segmented into three stages; pre-workshop, workshop, and post-workshop.
@@ -85,8 +85,8 @@ It is important to take these conversations in order, so that strategy alignment
 
 ### Example resources
 - [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/team_strategy/index.md) on facilitating Why/How/What conversations
-- {ref}`Chairing Events <cl-chairing>`
-- {ref}`Tools for Collaboration <cl-event-tools>`
+- {ref}`Chairing Events <cl-mec-chairing>`
+- {ref}`Tools for Collaboration <cl-mec-event-tools>`
 
 ### RAM insights
 - Using the basic "Why/How/What" format as a starting point for the conversation helps provide focus and clarity and can lead to a better outcome. 

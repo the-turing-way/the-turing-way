@@ -1,39 +1,23 @@
 (cm-citable-cite)=
-# Citing Research Objects
+# Citing your own Research Objects
 
-You should cite research objects directly in the paper in places where it is relevant.
-This is a commonly practised way of citing publications and is valid for citing other research components like data and software.
-A citation includes the following information:
-- Author
-- Title
-- Year of publication
-- Publisher (for data, this is often the data repository where it is housed)
-- Version (if indicated)
-- Access information (a URL or DOI)
-
-A citation style is a specific arrangement, order and formatting of information necessary for a citation.
-For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences).
-- MLA citation style uses the following format:
-`Author. "Title of the Source." Title of the Container, Other contributors, Version, Number, Publisher, Publication date, Location.`
-- APA citation style uses the following format:
-`Author. (Year). Title of data set (Version number). [Retrieved from] ***OR*** [DOI]`
-
-See [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/).
-See also [FORCE11 resource](https://www.force11.org/node/4771).
+When citing your own research objects, it is important to consider the type of research object you are referring to. 
+Here, we provide explanations for citing data, physical samples, and software.
 
 (cm-citable-cite-data)=
 ## Citing Data
 When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
 It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
-Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers. 
-It also provides recognition and visibility for the repositories that share data.
+Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers, and might be required when data is shared under a license that requires citation (for example, CC-BY). For more information check the chapter about {ref}`rr-licensing`.
+
+Data citation also provides recognition and visibility for the repositories that share data.
 
 You can find examples of these statements in the publishers' (research data) author policies.
 
 ### Data availability statement examples:
 
 **Using the Digital Object Identifier (DOI):**
-“The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].”
+- “The data that support the findings of this study are openly available in [repository name] at `http://doi.org/[doi]`.”
 
 **If no DOI is issued:**
 - “The data that support the findings of this study are openly available in [repository name] at [URL], reference number [reference number].”
@@ -48,25 +32,25 @@ You can find examples of these statements in the publishers' (research data) aut
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
 **When code is shared:**
-- Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*). 
+- "Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*)." 
 
 **More Data Availability Statement examples:**
 
-You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
+You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/services/research/research-data-management/sharing/data-access-statements/), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
 
 (cm-citable-cite-samples)=
 ## Citing Physical Samples
 
-When sharing results related to physical samples, ideally a persistent identifier is assigned to track the samples and their associated data. 
-As with [data citation](cm-citable-cite-data), you include a citation in the references and a more detailed explanation in the data availability statement. 
+When sharing results related to physical samples (such as archaeological material, genomics samples), ideally a persistent identifier is assigned to track the samples and their associated data. 
+As with [data citation](#cm-citable-cite-data), you include a citation in the references and a more detailed explanation in the data availability statement. 
 To learn more about how to cite physical samples and to check out examples, see the [Scientific Author Guide for Publishing Open Research Using Physical Samples](https://doi.org/10.6084/m9.figshare.24669057.v1) by {cite:ps}`Damerow2024physical`.
 
 (cm-citable-cite-software)=
 ## Citing Software
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
-When using others software, it is vital to cite and attribute it properly.
-See also [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/) for more information.
+Depending on the journal, you may also include a Software/Code Availability Statement. In such section, you can describe where the code developed during the research presented in the paper can be found, similar to how you would provide information about data availability.
+For an example you can look at the [Data and Code Availability Statements - Sample text](https://social-science-data-editors.github.io/guidance/Requested_information_dcas.html) or [Availability Statement Templates](https://www.agu.org/publish-with-agu/publish/author-resources/data-and-software-for-authors).
 
 ::::{tab-set}
 :::{tab-item} GitHub
@@ -120,3 +104,16 @@ Detailed instructions for this process can be found in the [gitlab2zenodo](https
 
 :::
 ::::
+
+(cm-citable-cite-DMP)=
+
+## Citing Data Management Plans
+
+You can deposit your DMP in a repository like Zenodo or your institutional repository to receive a DOI, or use a DMP platform that assigns DOI, making it formally citable.
+Consider publishing your DMP at project award or start to establish your data management approach early.
+
+When preparing a public DMP, you may want to redact sensitive information such as detailed budget figures or preliminary hypotheses, while keeping the data management methodology transparent.
+Publishing your DMP demonstrates transparency, provides templates for others planning similar projects, and shows funders and institutions your commitment to rigorous data management.
+
+For more information on obtaining DOIs and making research outputs citable, see our [chapter on persistent identifiers](#rr-rdm-pid) and [making research citable](#cm-citable).
+Examples of published DMPs can be found by searching Zenodo for "data management plan" or exploring public DMPs on [DMPtool](https://dmptool.org).

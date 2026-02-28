@@ -1,8 +1,10 @@
 (cm-social-media-twitter-tips)=
 # Tips for Starting with X
 
-On X (formerly Twitter) you are limited to 280 characters unless you pay for X Premium. The style tends to be more informal and chatty than other platforms like Linkedin.
-You can use links, photos and videos (max 2 minutes 20 secs) in similar ways to the other social media platforms.
+X (formerly Twitter) has 450 million monthly active users {cite:ps}`boa2023twitter`.
+You are limited to 280 characters unless you pay for X Premium. 
+The style tends to be more informal and chatty than other platforms like LinkedIn.
+You can use links, photos (1200 x 628 pixels) and videos (max 2 minutes 20 secs) in similar ways to the other social media platforms.
 
 Below are general tips for starting to use X for personal academic purposes. Some of the tips have been adapted from 'Practical tips for scientists using twitter' {cite:ps}`Chabrol2021twitter`.
 
@@ -83,7 +85,7 @@ By default, regular messages on X are visible to the whole world, including (via
 * List — A list of X users that can be public (followed by anyone) or private.
 * Lists can be used to follow accounts that tweet about specific topics, but which you don’t want to follow yourself.
 * Live-tweeting — Tweeting short summaries of an event, for example of a conference talk, as it is happening.
-* Mentioning (@) — If you mention someone with their account handle (“This paper by @CaAl is great”), your tweet will show up in their notifications.
+* Mentioning (@) — If you mention someone with their account handle (“This paper by \@CaAl is great”), your tweet will show up in their notifications.
 * Notifications — Tweets that mention you and replies, retweets and likes for your tweets.
 * Quote-tweet — Sharing a tweet by someone else in a quote, while adding your comments.
 * Retweet (RT) — Sharing a tweet that was originally made by someone else.

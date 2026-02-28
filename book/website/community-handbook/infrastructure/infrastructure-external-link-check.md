@@ -27,7 +27,7 @@ An example configuration file with explanations can be found in [the Lychee docu
 The configuration file can be used to improve the usefulness of the broken links issue.
 In particular, it is possible to exclude domains which are known to produce false negatives using the [`--exclude` argument](https://lychee.cli.rs/#/recipes/filtering-links) on the command line or the equivalent `exclude` key in the [configuration file](https://lychee.cli.rs/#/usage/config).
 
-Lychee produces a report of broken links and saves this to a Markdown file.
+Lychee produces a report of broken links and saves this to a {term}`Markdown` file.
 The workflow then concatenates this report with an [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) and updates the broken links issue.
 
 ## Issue
@@ -36,3 +36,12 @@ The broken links issue is [#3171](https://github.com/the-turing-way/the-turing-w
 The information in the [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) aims to explain the output and provide some guidance for fixing broken links.
 That information is not duplicated here.
 Improvements to the explanation or guidance should be made to the [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) as any changes made to the issue will be overwritten when it is next updated.
+
+## Running the Checks Locally
+
+You can run the external link checking process locally using Lychee _after_ [building the book](#ch-local-build).
+From the repository root,
+
+```console
+lychee --config ./lychee.toml book/website/_build/html/**/*.html
+```

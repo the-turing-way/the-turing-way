@@ -8,7 +8,7 @@
 
 ###### tags: `bookdash YYYY` `month` `event`
 
-==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
+==If you are new to HackMD, please see this short guide: [https://hackmd.io/\@turingway/hackmd-guide](https://hackmd.io/\@turingway/hackmd-guide)==
 
 :::info
 - **Date:** DD Month <--- Update this

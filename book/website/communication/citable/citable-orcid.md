@@ -5,12 +5,14 @@ You can use ORCID to access or sign up to services that utilise ORCID, for examp
 
 ORCID is an acronym for ‘Open Researcher and Contributor ID'.
 ORCID is a long-lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.
+ORCIDs are 16-digit numbers formatted as `0000-0001-2345-6789`. they can also be presented as URLs: `https://orcid.org/0000-0001-2345-6789`
 
 Watch this short video for more information:
-<div class="video-container">
-  <iframe src="https://player.vimeo.com/video/97150912" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  <p><a href="https://vimeo.com/97150912">What is ORCID?</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+
+::: {iframe} https://player.vimeo.com/video/97150912
+:width: 100%
+:::
+
 
 (cm-citable-orcid-why)=
 ## Why You Should Get an ORCID
@@ -26,7 +28,7 @@ You can use ORCID to access or sign up to services that utilise ORCID, for examp
 You can use your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
 
-```{figure} ../../figures/orcid-ids.*
+```{figure} ../../../figures/orcid-ids.*
 ---
 name: orcid-ids2
 alt: A researcher surrounded by a ring formed of all her different outputs, linked by an ORCID. Text reads "ORCID IDs" and "One Ring to Rule All Outputs."
@@ -42,3 +44,4 @@ You can sign up very quickly here: [https://orcid.org/login](https://orcid.org/l
 Once you have signed up and verified your email address you can start adding in your outputs by importing them through [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) and [search and link wizards](https://support.orcid.org/hc/en-us/articles/360006973653-Add-works-by-direct-import-from-other-systems)
 
 You can use your ORCID ID whenever you’re prompted to do so, give your [trusted organisations](https://support.orcid.org/hc/en-us/articles/360006973893) (funders, publishers, institutions) permission to automatically update your ORCID record.
+
