@@ -5,15 +5,15 @@ Below follow two checklists, one for individual researchers and one for research
 # Individual Researcher Checklist
 
 - Do not touch the raw data. 
-Back it up somewhere reasonable and keep a read-only copy (see [](Data Storage and Organisation<rr-rdm-storage)).
+Back it up somewhere reasonable and keep a read-only copy (see [Data Storage and Organisation](#rr-rdm-storage)).
 
-- Set up a [](rr-rdm-dmp) to decide how the data is managed. 
-This is especially relevant if you collect [sensitive data](pd-sdp) and need to plan for consent for sharing!
+- Set up a [](#rr-rdm-dmp) to decide how the data is managed. 
+This is especially relevant if you collect [sensitive data](#pd-sdp) and need to plan for consent for sharing!
 
-- Document everything and keep the documentation with the data (see [](rr-rdm-metadata)) to ensure your data is reusable. 
+- Document everything and keep the documentation with the data (see [](#rr-rdm-metadata)) to ensure your data is reusable. 
 
 - Try not to re-invent the wheel. 
-Before you start creating a new schema, storage format or naming protocol, try to find an existing tool: have a (quick) internet search or ask your colleagues (see {[](rr-rdm-metadata)).  
+Before you start creating a new schema, storage format or naming protocol, try to find an existing tool: have a (quick) internet search or ask your colleagues (see {[](#rr-rdm-metadata)).  
 
 Something that is already being used is likely to be better in the long run.
 
@@ -32,10 +32,10 @@ Discuss the checklist with your team!
     - The documentation describes the data management practices of the project and includes roles and responsibilities of individual team members      
 - We have established on/off boarding procedures.
 - Another researcher from outside the research group but in the same field would be able to find and use the project's research materials.
-- We have a standardised set of data management practices, including file naming conventions and folder structures (see [](rr-rdm-storage)).
+- We have a standardised set of data management practices, including file naming conventions and folder structures (see [](#rr-rdm-storage)).
 - The data is stored and backed up on recommended data storage systems.
 - We reviewed all applicable policies (institution, funder, potential publisher).
 - We have read through and understand other relevant agreements, licenses, or other requirements.
 - We have sought out community standards and best practices related to our data.
-- We have set up a [](<rr-rdm-dmp) to help us decide what research objects will be made publicly available.   
+- We have set up a [](#rr-rdm-dmp) to help us decide what research objects will be made publicly available.   
 
