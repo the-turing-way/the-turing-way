@@ -30,23 +30,24 @@ This chapter includes:
 ## Repositories and FAIR
 
 Selecting an appropriate repository for your research outputs has many benefits:
-- It helps make your Research Objects more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). This is achieved through:
-    - Repositories assign a Persistent Identifier (PID) such as a DOI to your Research Objects, which makes them findable and citable (see {ref}`Citing Research Objects<cm-citable-cite>`).
+- It helps make your Research Objects more [FAIR](#rr-rdm-fair). This is achieved through:
+    - Repositories assign a Persistent Identifier (PID) such as a DOI to your Research Objects, which makes them findable and citable (see [](#cm-citable-cite)).
     See our [chapter on persistent identifiers](#rr-rdm-pid) to understand how PIDs work and why they're essential for FAIR research.
     - Repositories use metadata standards in describing your Research Object, which ensures that other people can find it using search engines.
     - Repositories add a licence to the Research Objects.
-A {ref}`license <rr-licensing>` describes to potential reusers of your work what they are allowed to do with it. 
+A [license](#rr-licensing) describes to potential reusers of your work what they are allowed to do with it. 
     - Repositories provide documentation for Research Objects.
-This can be in the form of READMEs and/or wikis that provide a description of your project and why it might be relevant to people.
+This can be in the form of [READMEs](#rr-rdm-readme) and/or wikis that provide a description of your project and why it might be relevant to people.
     - Encouraging widely-used file formats.
 Many repositories have restrictions on the file formats used to ensure the sustainability of Research Objects.
 Some file formats (especially proprietary ones with a limited user base) can become deprecated.
 - It allows to determine the levels of access to Research Objects.
-As covered in {ref}`Barriers to Data Sharing<rr-open-data-barriers>`, there are good reasons to not to make all Research Objects completely open.
+As covered in [](#rr-open-data-barriers), there are good reasons to not to make all Research Objects completely open.
 However, it's still worthwhile to at least open the metadata and provide an option for people to obtain access to the actual Research Objects if they have certain credentials or if they have been given explicit access.
 That way, your work will still be FAIR (because the metadata are findable and there is an access procedure in place), as well as and secure (because you can control who has access).
-    - Restricting access and storing data on European servers can help to manage sensitive data {ref}`manage sensitive data<pd-sdpm>`
+    - Restricting access and storing data on European servers can help to [manage sensitive data](#pd-sdpm)
 
+(rr-rdm-repository-supplemental)=
 ## Why not the supplemental materials?
 
 Supplemental materials are not following the FAIR principles - as there is no separate DOI assigned to the supplemental materials which makes it difficult to retrieve these materials. 
@@ -64,8 +65,9 @@ Next to supplemental materials not being aligned with the FAIR principles, there
 This chapter outlines some of the crucial functionalities that you should look out for when picking where to share your data, code, methods, hardware, slides, or any other Research Object.
 
 Data should be submitted to domain or discipline specific, community recognised, repository where possible. 
-A {ref}`general purpose repository<rr-rdm-repository-types-general>` can be used when there are no suitable discipline specific repositories. 
-Discipline specific data repositories are likely to have more functionalities for the type of data that you would like to share, as well as community standards that you can adhere to make the data more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). Why sharing data is a good idea is covered in {ref}`Motivations for sharing and archiving data<rr-rdm-sharing-motivations>` and {ref}`Open Data<rr-open-data>`.
+A [general purpose repository](#rr-rdm-repository-types-general) can be used when there are no suitable discipline specific repositories. 
+Discipline specific data repositories are likely to have more functionalities for the type of data that you would like to share, as well as community standards that you can adhere to make the data more [FAIR](#rr-rdm-fair).
+Why sharing data is a good idea is covered in [](#rr-rdm-sharing-motivations) and [](#rr-open-data).
 
 The choice of repository can depend on multiple factors:
 
@@ -79,16 +81,17 @@ You can search for relevant repositories on [re3data](https://www.re3data.org/) 
 However, a search will likely result in a long list of repositories, which you will need to narrow down. 
 The following questions may help you with that:
 
-- Is the data repository discipline-specific and community-recognised? Does it use the recognised standards in my discipline?
+- Is the data repository discipline-specific and community-recognised? 
+Does it use the recognised standards in my discipline?
 - Is the data repository known by the research community?
 - Are others using the data repository to share their data?
 - Has a data repository been specified by my funder/publisher/institution?
 - What are the file size requirements and limitations?
 - What are the costs for data sharing?
-- What data formats are allowed? Will it take the data that you want to share?
-- Does it provide a persistent identifier, for example a Digital Object Identifier (DOI)?
-Learn about different PID providers (DataCite vs Crossref) in our [PID ecosystem guide](#rr-rdm-pid-ecosystem).
-- Does it provide the right type of access control that suits the sharing conditions of the data? (restricted access/embargo's)
+- What data formats are allowed? 
+Will it take the data that you want to share?
+- Does it provide a [persistent identifier](#rr-rdm-pid-ecosystem), for example a Digital Object Identifier (DOI)?
+- Does it provide the right type of access control (restricted access/embargo's) that suits the sharing conditions of the data? 
 - Is there support available on how to curate the data/metadata?
 
 See the [ARDC's Guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository) or the [DCC checklist for evaluating data repositories](https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data) for more information. 
@@ -102,10 +105,10 @@ Below follows a (non-exhaustive) list of these different types of repositories:
 (rr-rdm-repository-types-general)=
 ### General purpose repositories
 
-- [Zenodo](https://zenodo.org/)
+- [Zenodo](https://zenodo.org/) (see this [Data Umbrella webinar](https://www.youtube.com/watch?v=eChOfh8t04k) for practical guidance on Zenodo)
 - [Figshare](https://figshare.com/)
 
-For a detailed comparison of general purpose repositories including file size limits, versioning features, access control options, and other key criteria, see the [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.17315963).
+For a detailed comparison of general purpose repositories including file size limits, versioning features, access control options, and other key criteria, see the [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.11105429).
 
 ### Project repositories
 
@@ -140,17 +143,17 @@ Several lists of Recommended Repositories by publishers exist:
 The OSF is a free open-source software project that facilitates open collaboration in science research. 
 OSF is way more than a data repository or an archive; it is a collaboration tool which can be used by research teams to work on projects privately or openly, similar to GitHub. 
 This case study highlights OSF as one of the  repositories *for everything* that you can choose to store your research output long term and make it citable through getting a persistent identifier.
-An example of what you could share on the OSF is a {ref}`research compendium<rr-compendia>`.
+An example of what you could share on the OSF is a [](#rr-compendia).
 [Get started with the OSF](https://help.osf.io/article/342-getting-started-on-the-osf) by using the introduction on their website. 
 
 ### OSF access management
 OSF helps to control levels of access you want to give to different people. 
 This can be achieved through OSF folder structure that allows to assign different privacy settings to different folders within one project. 
 In OSF terminology, these folders with custom privacy settings are called *components*.
-OSF has servers in Europe which allows compliance with the {ref}`GDPR<pd-sdp-personal-policies>`.
+OSF has servers in Europe which allows compliance with the [GDPR](#pd-sdp-personal-policies).
 
 ### OSF and FAIR principles
-The following functionality of OSF helps to make such a folder FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`):
+The following functionality of OSF helps to make such a folder [FAIR](rr-rdm-fair):
 
 - In addition to its own unique, persistent URLs, OSF offers DOIs for public folders.
 - OSF allows to add metadata to your folder.
