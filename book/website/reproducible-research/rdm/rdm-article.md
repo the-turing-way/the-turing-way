@@ -7,12 +7,12 @@ It uses the traditional journal article structure, but focuses on the data-colle
 (rr-rdm-article-motivations)=
 ##  Motivations For Sharing Data through a Data Article
 
-Data articles are in line with the [][#rr-rdm-fair], especially since most publishers will encourage you to share the data through a data repository.
-The benefit of a Data Article is that your output will be [peer reviewed][cm-peer-review], something which is generally not the case for datasets that are archived on [data repositories][#rr-rdm-sharing].
+Data articles are in line with the [](#rr-rdm-fair), especially since most publishers will encourage you to share the data through a data repository.
+The benefit of a Data Article is that your output will be [peer reviewed](cm-peer-review), something which is generally not the case for datasets that are archived on [data repositories](#rr-rdm-sharing).
 It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output.
 Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer.
 
-You can find out more in our [subchapter on publishing a data article][#cm-dif-articles-data] or you can read a blogpost on '[What a data paper could do for you](https://ekaroune.github.io/The-Open-Archaeobotanist/2021-01-30-what_a_data_paper_could_do_for_you/)'.
+You can find out more in our [subchapter on publishing a data article](#cm-dif-articles-data) or you can read a blogpost on '[What a data paper could do for you](https://ekaroune.github.io/The-Open-Archaeobotanist/2021-01-30-what_a_data_paper_could_do_for_you/)'.
 
 (rr-rdm-article-options)=
 ## Options to publish a Data Article
