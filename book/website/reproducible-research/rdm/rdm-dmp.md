@@ -7,7 +7,7 @@ A DMP is a living document, which can be updated throughout the research project
 A Data Management Plan is a roadmap for you to manage your data efficiently and securely. 
 This can prevent data loss or breaches. 
 Planning ahead on how to manage your data consistently can save you time later on! 
-It can also make it easier to [share](rr-rdm-sharing) your data with others and therefore make the data more [FAIR](rr-rdm-fair).
+It can also make it easier to [share](#rr-rdm-sharing) your data with others and therefore make the data more [FAIR](#rr-rdm-fair).
 
 ```{figure} ../../../figures/data-management-plan.*
 ---
@@ -36,25 +36,25 @@ To ensure this, you should adapt your files or start working in these formats ea
 * A distinction can be made between different types of data that can be described in the plan separately: 
     * Raw/primary data: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
     * Processed data: a version of the data that has been modified for analysis or visualisation
-    * Finalised data: data that is ready to be shared in a publication or data repository (see [Sharing and archiving data section](rr-rdm-sharing) for more information). 
+    * Finalised data: data that is ready to be shared in a publication or data repository (see [Sharing and archiving data section](#rr-rdm-sharing) for more information). 
 Some data repositories, such as [Zenodo](https://zenodo.org/), allow versioning of datasets so that you can update your finalised dataset if you want to release another version.
-* All of these types of data will have to be described to be placed into context by using metadata (see the [Documentation and metadata section](rr-rdm-metadata)) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
+* All of these types of data will have to be described to be placed into context by using metadata (see the [Documentation and metadata section](#rr-rdm-metadata)) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
 * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages because this will affect the storage solutions available for you (discussed in the next point). 
 
 ### 3. Type of data storage used and back up procedures that are in place
 * Check the [data storage and organisation section](rr-rdm-storage for storage and back-up solutions and ways to organise your files 
 * Keeping track of who made specific changes in your data/code will be important, particularly for code.
-See the [](rr-vcs) for more information.
+See the [](#rr-vcs) for more information.
 * Determine who has access to the data and who grants access. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
 If you're managing personal/commercially sensitive data, access should only be given to individuals that have to work with the data. 
 
 ### 4. Preservation of the research outputs after the project
 * Consider whether your research outputs can be made publicly available. 
-Personal data or research outputs needed to apply for patents cannot be publicly shared, see [](rr-open-data).
+Personal data or research outputs needed to apply for patents cannot be publicly shared, see [](#rr-open-data).
 If data cannot be made publicly available you will still have to preserve it for several years, depending on the policies of your country, institute and funder.
 * You can outsource long term preservation of your data to a data repository. 
-You can find more information on how to select an appropriate repository in [sharing and archiving data](rr-rdm-sharing) section
+You can find more information on how to select an appropriate repository in [sharing and archiving data](#rr-rdm-sharing) section
     * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/), [re3data](https://www.re3data.org/), or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output.
 
 A repository should have a preservation policy that specifies how long your outputs will be curated.
@@ -65,17 +65,17 @@ Consider future technological changes, changing user behavior and new requiremen
 
 ### 5. Reuse of your research outputs by others
 
-* Select a license when you make your output available on a repository (see the Licensing subchapters on [data](rr-licensing-data) and [software](rr-licensing-floss) for more information).
+* Select a license when you make your output available on a repository (see the Licensing subchapters on [data](#rr-licensing-data) and [software](#rr-licensing-floss) for more information).
 By selecting a license you tell others how they can reuse your data. 
 If you do not select a license others will not be able to reuse your data without asking you for permission. 
 * You can put your research outputs into context using and introduction text, such as a README.txt file
-    * See the [documentation and metadata section](rr-rdm-metadata)
+    * See the [documentation and metadata section](#rr-rdm-metadata)
 
 ### 6. Costs
 * Check if there are any costs associated with your project
     * Preferred storage solution (during and after the project, see #3-4)
     * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
-    * Software licenses (such as Electronic Lab Notebooks, see [](rr-open-notebooks))
+    * Software licenses (such as Electronic Lab Notebooks, see [](#rr-open-notebooks))
     * Or [indirect costs](https://labrigger.com/blog/2025/02/12/indirect-costs-are-research-costs/) that need to be covered.
     * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance, or the [Framework for Costing Research Data Management](https://doi.org/10.5281/zenodo.15465412).
 
