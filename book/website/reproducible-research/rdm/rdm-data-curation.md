@@ -44,6 +44,9 @@ So it is important that you describe the research data so that it is discoverabl
 There are also  metadata standards that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
+To ensure data preservation it is helpful to store your data in interoperable or frequently used formats. 
+This way, you increase the chances that files can still be opened after several years have passed. 
+See the [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/) or the [Preferred file formats by DANS](https://dans.knaw.nl/en/file-formats/) for examples.
 See [](#rr-rdm-repository) and [](#rr-rdm-sharing) for more information.
 
 ### 6. Data access 
