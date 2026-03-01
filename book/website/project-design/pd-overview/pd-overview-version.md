@@ -8,9 +8,10 @@ This will save you a lot of time and can help others understand and reuse your r
 ## Experimental Work
 
 It is necessary to write down all the details about your experimental work.
-This allows future readers, a colleague and your future self to understand and reproduce all the experimental work related to your project.
+This allows future readers, a colleague and your future self to understand and reproduce all the experimental work related to your project. 
+For more information, see [](#rr-rdm-metadata).
 
-A useful tool to do this is {ref}`Electronic Lab Notebooks<rr-open-notebooks>` (ELNs).
+A useful tool to do this is [Electronic Lab Notebooks](#rr-open-notebooks) (ELNs).
 ELNs are digital versions of paper notebooks, with the added advantage of searchability, secure storage and remote access.
 They also are easy to share among team members and collaborators.
 
@@ -19,7 +20,7 @@ It is important to document and share the methodology, analysis and procedures u
 (pd-overview-version-comp)=
 ## Computational Work
 
-In the active phase of a project it is important to keep consistency in your code (read this chapter on {ref}`code quality<rr-code-quality>`), as well as documenting and creating tests for it.
+In the active phase of a project it is important to keep consistency in your code (read this chapter on [](#rr-code-quality), as well as documenting and creating tests for it.
 
 Documenting your code will help others understand your work.
 Some tools that can be used to document your code more easily are:
@@ -30,7 +31,7 @@ Some tools that can be used to document your code more easily are:
 Creating tests helps to save time and money.
 By providing a way to know if your code works, mistakes can be easily addressed by you and others.
 
-To read more about code testing go to the {ref}`Code Testing chapter<rr-testing>`.
+To read more about code testing go to [](#rr-testing).
 
 (pd-overview-version-vcs)=
 ## Version Control
@@ -47,4 +48,4 @@ Some systems for controlling versions are:
 - Mercurial
 - Subversion
 
-There is an extensive chapter about {ref}`Version Control System<rr-vcs>` in the Guide for Reproducible Research that can be helpful at this stage.
+There is an extensive chapter about [](#rr-vcs) in the Guide for Reproducible Research that can be helpful at this stage.
