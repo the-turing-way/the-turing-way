@@ -35,7 +35,7 @@ As such, you first need to decide which data you need to share for others to be 
 Data should be shared in a formal, open, and indexed data repository [{term}`def<Repository>`] where possible so that it will be accessible in the long run.
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
 
-See [](#(rr-rdm-repository-select) for more information.
+See [](#rr-rdm-repository-select) for more information.
 
 ### Step 3: Choose a licence and link to your paper and code
 
