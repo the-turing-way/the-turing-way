@@ -12,8 +12,8 @@ As a result, accessibility to your data is affected by the data license you choo
 (rr-licensing-data-cc)=
 ## Creative Commons Licenses
 
-CC licenses, although not tailored for data, can be used as data licenses in some cases, such as CC0 for public domain data.
-The Creative Commons website provides a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with visual symbols as discussed in {ref}`rr-licensing-documentation`.
+CC licenses, although not tailored for data, can be used as data licenses in some cases, such as CC0 for public domain data or the commonly used [CC-BY license](https://www.youtube.com/watch?v=_IBTfklg8q0).
+The Creative Commons website provides a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with visual symbols as discussed in [](#rr-licensing-documentation).
 
 (rr-licensing-data-cc-cc0)=
 ### Dedicating Your Work to the Public with CC0
@@ -22,8 +22,7 @@ CC0 serves as a public dedication mechanism, where you relinquish all copyrights
 This means that anyone can modify, redistribute or build on your work.
 Further, by using CC0, you forfeit the right to attribution.
 Instead, you have to rely on norms such as good citation practices in academic communities to be recognized as the creator.
-Several organizations, such as museums, governmental bodies and scientific publishers, have chosen CC0 for access to at least part of their data.
-In many instances, data repositories maintained by universities recommend CC0 as the default option, such as the [4TU.Centre for Research Data](https://researchdata.4tu.nl/en/use-4turesearchdata/archive-research-data/upload-your-data-in-our-data-archive/licencing/).
+Several organizations, such as universities, museums, governmental bodies and scientific publishers, have chosen CC0 for access to at least part of their data.
 
 (rr-licensing-data-odc)=
 ## Open Data Commons
