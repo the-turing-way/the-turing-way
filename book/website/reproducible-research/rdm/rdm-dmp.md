@@ -32,7 +32,7 @@ You can check if your funder or institute has a DMP using [DMPonline](https://dm
 ### 2. Type and size of data collected and documentation/metadata generated
 * Here, you can list the file formats you will use to collect, process and present your data. 
 If you want to share your research outputs later, standard file formats that can be openly used without a particular license for a software programme are preferred.
-To ensure this, you should adapt your files or start working in these formats early on (see the [UK Data Services](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/) and [DANS](dans.knaw.nl/en/file-formats/) file format recommendations). 
+To ensure this, you should adapt your files or start working in these formats early on (see the [UK Data Services](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/) and [DANS](https://dans.knaw.nl/en/file-formats/) file format recommendations). 
 * A distinction can be made between different types of data that can be described in the plan separately: 
     * **Raw/primary data**: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
     * **Processed data**: a version of the data that has been modified for analysis or visualisation
