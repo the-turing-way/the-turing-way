@@ -141,6 +141,9 @@ CRediT
 ## D
 
 ```{glossary}
+data 
+: Facts, measurements, recordings, records, or observations about the world, collected by researchers, that are yet to be processed/interpreted/analysed. Data may be in any format or medium taking the form of writings, notes, numbers, symbols, text, images, films, video, sound recordings, pictorial reproductions, drawings, designs or other graphical representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing algorithms, or statistical records. Source: [CODATA](https://terms.codata.org/rdmt/data)
+
 data repository
 : A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
@@ -567,7 +570,7 @@ research compendia
 : This is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, metadata). The collection is created in such a way that reproducing all results is straight forward.
 
 research data management
-: *Acronym: RDM*. Refers to the organisation, storage and preservation of data created during a research project. It covers initial planning, day-to-day processes and long-term archiving and sharing. Shortened to RDM.
+: *Acronym: RDM*. Storage, access and preservation of data created or collected in the course of research. Research data management practices cover the entire lifecycle of the data, from planning the investigation to conducting it, and from backing up data as it is created and used to long term preservation of data deliverables after the research investigation has concluded. Source: [CODATA](https://terms.codata.org/rdmt/research-data-management).
 
 research ethics
 : Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
