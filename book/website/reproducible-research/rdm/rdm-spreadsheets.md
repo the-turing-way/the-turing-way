@@ -44,7 +44,7 @@ In addition to the visual feedback, you can now also use this information to fil
 (rr-rdm-spreadsheets-format)=
 ## 2. Tidy Format For Spreadsheets
 
-If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-this/), then it may be difficult for collaborators to easily {ref}`read-in and reuse <rr-rdm-fair>` your data for further analysis.
+If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-this/), then it may be difficult for collaborators to easily read-in and [reuse](#rr-rdm-fair) your data for further analysis.
 
 Indeed, a large part of the work of data scientists is to transform the data into a form that the computer can read. 
 However, this is incredibly time-consuming when the information is split between several spreadsheets and when there are no concrete data transformation plans before the data is acquired.
@@ -54,9 +54,9 @@ The tidy data format allows for filtering and sorting data easily in spreadsheet
 
 In short:
 
-- One column = one variable (no more, no less, this implies that two header names can not be identical)
-- One row = one sample
-- One cell = one information
+- One column = one variable (no more, no less, this implies that two header names can not be identical, see [Column Names as Contracts](https://emilyriederer.netlify.app/post/column-name-contracts/))
+- One row = one sample or observation
+- One cell = one information point or value
 - **The first row is the header** 
 - Header names must not include a special character (including space) or start with a number
 
@@ -72,18 +72,12 @@ alt: >
 An illustration of tidy data.
 ```
 
-Three rules make a dataset tidy:
-1. Each variable must have its own column.
-2. Each observation must have its own row.
-3. Each value must have its own cell.
-
 There are data validation tools available, like [Frictionless Data](https://frictionlessdata.io/)'s [Python package](https://framework.frictionlessdata.io/) or [GitHub Action](https://repository.frictionlessdata.io/), that allow you to automatically check whether your spreadsheets are tidy.
 
 (rr-rdm-spreadsheets-consistent)=
 ## 3. Consistent Values
 
 When you work with several spreadsheets or with a team during data collection, it is crucial to make sure the same information will be entered with the same term, and that the same term always conveys the same information. 
-In the example of iris data, if some people use different terms to record information for a specific column - such as naming the column `species` instead of `Species` or using `iris setosa`, `set.` or `i.setosa` instead of `setosa` - the creation of a reproducible workflow will be more difficult, and errors may even be overlooked.  
 Discrepancies often lead to errors, especially when the same terms could mean different things depending on who is entering the data. 
 For example, indicating date as `02-03` will mean February the 3<sup>rd</sup> in the USA, but March the 2<sup>nd</sup> in Europe.
 
@@ -128,7 +122,7 @@ Automatic manipulation will also help with data validation, as software may retu
 - Check manually whether your data is consistent, complete and correct:
  - If a column should contain only numeric values or characters, check that there are no non-numeric values or non-character
  - Check for consistency in names, unit of measurements, data type and so on
- - Check if there are any empty cells and replace them with your chosen null value (see {ref}`above <rr-rdm-spreadsheets-missing>`)
+ - Check if there are any empty cells and replace them with your chosen null value (see [above](#rr-rdm-spreadsheets-missing))
  - Remove redundant data (while keeping in mind what could be reused in the future!)
 
 (rr-rdm-spreadsheets-accessibility)=
@@ -148,7 +142,8 @@ For more information:
 ### Dealing With Time Information
 
 While dates should be written as `yyyy-mm-dd`, Excel and other software tend to transform this data into their own date formats (even during data import from a CSV file). 
-The only 100% secure way to deal with this is to make different columns for years, months, and days and recreate the data in the software used for analysis. Time entered with `hh:mm:ss` normally works.
+The only 100% secure way to deal with this is to make different columns for years, months, and days and recreate the data in the software used for analysis. 
+Time entered with `hh:mm:ss` normally works.
 
 (rr-rdm-spreadsheets-tips-several)=
 ### Working With Several Sheets
@@ -178,13 +173,6 @@ As an example, let us suppose you are interested in depicting if the percentage 
 You may be inclined to record a true or false column `is-sepal-longer-than-6cm`, but this will restrict the analysis you can perform.
 A better solution is to record the length of the sepal (in mm) and automatically create the categorization later.
 
-If you are using R, you would then plot what you wanted with:
-```
-iris %>% ## the iris dataset is included in R base
-  dplyr::mutate ("is-sepal-longer-than-6cm" = ifelse(Sepal.Length >6, TRUE, FALSE)) %>% ## this create the new column
-  ggplot2::ggplot (aes (x=`is-sepal-longer-than-6cm` , fill= Species)) + ggplot2::geom_bar() ## this plots the data
-```
-
 Headers names should be chosen with care, and when it is not clear what is meant and what unit is used, you may want to add some explanation in an external document. 
 You may also share a sample spreadsheet to a colleague to receive feedback on how understandable your sheet is.
 
@@ -194,7 +182,7 @@ This information can also help in analysing that data, making sure that the scri
 However, a good file with tidy columns and rows should not need extra explanation.
 
 As for header names, the size of the headers is not an issue for computers. 
-However, for human readability, it is better to keep it short (up to 32 characters).
+However, for human readability, it is better to keep it short (up to 32 characters, see [](rr-rdm-storage-conventions).
 
 You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. 
 You can, therefore, completely optimise that parameter for the data collection step.
@@ -231,9 +219,9 @@ Use a README [{term}`def<README>`] file and and other structure choices to expla
 It will make it clear to others what the file and header names mean, and what criteria to consider when designing an analysis workflow. 
 If you work in a team, you should take particular care of the conventions and make sure everyone follows them. 
 
-To learn more about data organisation in spreadsheets, you may have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
-
-To read about recommended practices, see {cite:ps}`Broman2018data`
-
-See also a blogpost with [resources for using spreadsheets in research and moving onto other tools](https://www.software.ac.uk/blog/2021-11-05-resources-using-spreadsheets-research-and-moving-other-tools).
-
+(rr-rdm-spreadsheets-resources)=
+## Additional Resources
+- To learn more about data organisation in spreadsheets, you may have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+- To read about recommended practices, see {cite:ps}`Broman2018data`
+- See also a blogpost with [resources for using spreadsheets in research and moving onto other tools](https://www.software.ac.uk/blog/2021-11-05-resources-using-spreadsheets-research-and-moving-other-tools).
+- [Workshop on Tidy Spreadsheets in Medical Research by Peter Higgins](https://www.youtube.com/watch?v=9f-hpJbjKZo)
