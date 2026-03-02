@@ -57,8 +57,6 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - The Grammar of Graphics by {cite:ps}`Wilkinson1999dataviz`
 - The Visual Display of Quantitative Information by {cite:ps}`Tufte2001dataviz`
 - [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007/s11948-010-9201-y)
-- [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization), particularly Chapter 4 by Liz Hare @hare2022accessibility
-
 
 ### Other text resources and examples
 
