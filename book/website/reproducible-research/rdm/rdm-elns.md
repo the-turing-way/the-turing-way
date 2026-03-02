@@ -5,7 +5,7 @@ An Electronic Laboratory Notebook (commonly known as an ELN or a digital lab not
 ELNs enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device.
 They can be a digital analogue to the paper notebook most researchers keep.
 ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including; searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
-ELNs make the practice of {ref}`open notebooks <rr-open-notebooks>` [{term}`def<Open Notebooks>`] practical in a way that it is not for paper lab books.
+ELNs make the practice of [](#rr-open-notebooks) [{term}`def<Open Notebooks>`] practical in a way that it is not for paper lab books.
 However, it is important when choosing an ELN solution to avoid giving up the advantages offered by a paper lab notebook.
 
 (rr-rdm-elns-procon)=
@@ -13,14 +13,14 @@ However, it is important when choosing an ELN solution to avoid giving up the ad
 
 Electronic Lab Notebooks may provide, among other things, the following **functionalities**:
 
-* A text editor with similar functions as a paper notebook
-* A search function
-* Secure storage and back up (with distinct failure modes from paper notebooks)
-* Tools for working with tabular data (calculations and formatting of tables and graphs)
-* Templates for documenting standard procedures
-* Built-in Laboratory Inventory Management Systems (LIMS) functionality for managing and documenting samples, reagents, and apparatus, or integration with separate dedicated LIMS.
-* Collaboration tools for sharing experimental information
-* Some ELNs will allow you to comply with standards and regulations because of their certification processes
+* A **text editor** with similar functions as a paper notebook
+* A **search function**
+* **Secure storage** and back up (with distinct failure modes from paper notebooks)
+* Tools for working with **tabular data** (calculations and formatting of tables and graphs)
+* **Template**s for documenting standard procedures
+* **Built-in Laboratory Inventory Management Systems** (LIMS) functionality for managing and documenting samples, reagents, and apparatus, or integration with separate dedicated LIMS.
+*** Collaboration tools** for sharing experimental information
+* Some ELNs will allow you to **comply with standards and regulations** because of their certification processes
 
 ELNs also have their **limitations**: 
 
@@ -29,7 +29,7 @@ Your lab may also not have access to tablets or pens that would make the use of 
 Check if your institution is offering a solution that you can use without additional costs.
 * **File format**: Always check if files can be exported in your preferred file formats to avoid format lock-in.
 Some ELNs also have API's that allow integration with other software and workflows. 
-* **{ref}`Vendor-lock-in<rr-rdm-elns-choosing-lockin>`**: Once you're using a certain solution you may become dependent on it.
+* **[Vendor-lock-in](#rr-rdm-elns-choosing-lockin)**: Once you're using a certain solution you may become dependent on it.
 Always have an exit strategy in case the solution is no longer offered or if you're moving institutions and you no longer have access.
 * **Sustainability**: Choose a solution that has a larger chance of being around for a long time.
 * **Drawing**: Not all solutions have the tools or capabilities to include drawings or integration with drawing software.
@@ -63,23 +63,24 @@ They are creative, stubborn, resourceful, and impatiently focused on answering t
 Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
 -   Shadow IT/notebooks
-    -   People using their own unsanctioned solutions which may be a compliance issue and introduce risks that you have not accounted for
+    -   People using their own unsanctioned solutions which may be a compliance issue and introduce risks that you have not accounted for.
 -   Infrequent updates
-    -   People dump a copy of their work into the ELN only as often as necessary for compliance
+    -   People dump a copy of their work into the ELN only as often as necessary for compliance.
 -   Consistency issues
     -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 - Sprawl
     -   Partial adoptions can lead to different pieces of information being stored in different systems which might not be connected making it harder to record and find information which was previously in one place.
-        This can make information recording and retrieval processes more complex, expensive and brittle 
+        This can make information recording and retrieval processes more complex, expensive and brittle. 
 -   Practical use and interface issues
     -   Laptops or tablets can introduce interface barriers 
-        -   Lab gloves may hamper the use of touchscreens and track pads
-        -   Free-hand drawing is not always well supported which can be necessary when using notation that is not easily represented in simple text such as mathematical and chemical notation
-        -   Client issues, such as native mobile applications with incomplete featuresets, slow web-apps that may require an always-on connection and not be able to cache local changes
-        -   No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page
-        -   Extra expense, maintenance and procurement issues with hardware suitable for use in your research environment
+        -   Lab gloves may hamper the use of touchscreens and track pads.
+        -   Free-hand drawing is not always well supported which can be necessary when using notation that is not easily represented in simple text such as mathematical and chemical notation.
+        -   Client issues, such as native mobile applications with incomplete featuresets, slow web-apps that may require an always-on connection and not be able to cache local changes.
+        -   No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page.
+        -   Extra expense, maintenance and procurement issues with hardware suitable for use in your research environment.
+-   Lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features.
 
--   Lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features
+See [The Bare Necessities: How to implement Electronic Lab Notebooks properly!](https://doi.org/10.5281/zenodo.14014957) for more examples.
 
 (rr-rdm-elns-choosing-compare-to-paper)=
 ### Always compare to paper notebooks
@@ -98,7 +99,8 @@ Consider also which properties of a paper copy is it important to you that you a
 -   You are not dependent on the functioning of any complex systems like computer networks in order to be able to use your paper lab notebook.
 -   You do not need any specialist tools in order to access its contents.
 -   There is no reason why you might have to pay a third party a fee in order to continue using it.
--   You do not have to agree to a 'terms of service' or 'end-user license agreement' with a third party to use and retain access to your lab book. These terms may be subject to unilateral alteration by that third party.
+-   You do not have to agree to a 'terms of service' or 'end-user license agreement' with a third party to use and retain access to your lab book. 
+These terms may be subject to unilateral alteration by that third party.
 
 If your provider of paper lab books goes out of business it has almost no bearing on your ability to continue doing your work.
 One paper notebook is much like another, finding a new provider is pretty easy.
@@ -229,7 +231,7 @@ The following ELN options are each quite different but have many of the same cor
     
 * [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
-    See {ref}`OSF<rr-rdm-repository-osf>` for more information.
+    See [OSF](#rr-rdm-repository-osf) for more information.
     *   It is free to use OSF at the main instance at [osf.io](https://osf.io/).
         For larger data you must provide your own additional [storage add-ons, available from a number of cloud storage providers](https://help.osf.io/article/395-storage-add-ons).
     *   Whilst you could deploy your own self-hosted OSF this is not how it is intended to be used (except for development).
@@ -259,4 +261,6 @@ For example, open source applications like [logseq](https://logseq.com/) or [zet
 * [Electronic Lab Notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
 * [RSpace](https://www.researchspace.com/)
+* [Exploring ‘The Chemotion Files’: A Gamified Dive into Electronic Lab Notebooks](https://thefairelephant.com/news_digest_archive/exploring-the-chemotion-files-a-gamified-dive-into-electronic-lab-notebooks/)
+  
 
