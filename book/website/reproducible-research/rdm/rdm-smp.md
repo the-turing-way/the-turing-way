@@ -22,6 +22,7 @@ See [](#rr-rdm-smp-what-software) for more details.
 
 Here is [a good introduction to SMPs](https://tu-delft-dcc.github.io/docs/software/fair_software/software_management_plan.html).
 
+(rr-rdm-smp-what)=
 ### What is it?
 An SMP is a document which describes how a specific software project will be developed and maintained, and over what period of time.
 It describes, for example, how the software will manage [version control](#rr-vcs), how it will be [licensed](#rr-licensing-floss), how it will manage [license compatibility](#rr-licensing-compatibility), and so on.
@@ -74,6 +75,7 @@ For example, when you release major versions of your software.
 
 - [SMP decision tree](https://smp.research.software/)
 
+(rr-rdm-smp-resources)=
 ## Additional Resources
 
 - [Self-study materials on SMPs](https://esciencecenter-digital-skills.github.io/research-software-support/modules/softwaremanagementplans/slides-smp)
