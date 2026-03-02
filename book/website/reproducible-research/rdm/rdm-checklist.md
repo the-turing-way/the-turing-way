@@ -39,3 +39,5 @@ Discuss the checklist with your team!
 - We have sought out community standards and best practices related to our data.
 - We have set up a [](#rr-rdm-dmp) to help us decide what research objects will be made publicly available.   
 
+# Other Checklist resources
+- [Research Data Management Lifecycle Checklist](https://osf.io/pw7ed/files/d2pum)
