@@ -32,19 +32,19 @@ You can check if your funder or institute has a DMP using [DMPonline](https://dm
 ### 2. Type and size of data collected and documentation/metadata generated
 * Here, you can list the file formats you will use to collect, process and present your data. 
 If you want to share your research outputs later, standard file formats that can be openly used without a particular license for a software programme are preferred.
-To ensure this, you should adapt your files or start working in these formats early on. 
+To ensure this, you should adapt your files or start working in these formats early on (see the [UK Data Services](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/) and [DANS](dans.knaw.nl/en/file-formats/) file format recommendations). 
 * A distinction can be made between different types of data that can be described in the plan separately: 
-    * Raw/primary data: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
-    * Processed data: a version of the data that has been modified for analysis or visualisation
-    * Finalised data: data that is ready to be shared in a publication or data repository (see [Sharing and archiving data section](#rr-rdm-sharing) for more information). 
+    * **Raw/primary data**: data collected from the source (always keep a read-only version of raw data so you can come back to it later!)
+    * **Processed data**: a version of the data that has been modified for analysis or visualisation
+    * **Finalised data**: data that is ready to be shared in a publication or data repository (see [Sharing and archiving data section](#rr-rdm-sharing) for more information). 
 Some data repositories, such as [Zenodo](https://zenodo.org/), allow versioning of datasets so that you can update your finalised dataset if you want to release another version.
 * All of these types of data will have to be described to be placed into context by using metadata (see the [Documentation and metadata section](#rr-rdm-metadata)) and adequate documentation which will allow future you, and anyone in your team, to interpret the data. 
 * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages because this will affect the storage solutions available for you (discussed in the next point). 
 
 ### 3. Type of data storage used and back up procedures that are in place
-* Check the [data storage and organisation section](rr-rdm-storage for storage and back-up solutions and ways to organise your files 
+* Check the [data storage and organisation section](rr-rdm-storage) for storage and back-up solutions and ways to organise your files 
 * Keeping track of who made specific changes in your data/code will be important, particularly for code.
-See the [](#rr-vcs) for more information.
+See [](#rr-vcs) for more information.
 * Determine who has access to the data and who grants access. 
 At least one other person should have access to your data, such as your supervisor/PI/head of the department. 
 If you're managing personal/commercially sensitive data, access should only be given to individuals that have to work with the data. 
@@ -68,7 +68,7 @@ Consider future technological changes, changing user behavior and new requiremen
 * Select a license when you make your output available on a repository (see the Licensing subchapters on [data](#rr-licensing-data) and [software](#rr-licensing-floss) for more information).
 By selecting a license you tell others how they can reuse your data. 
 If you do not select a license others will not be able to reuse your data without asking you for permission. 
-* You can put your research outputs into context using and introduction text, such as a README.txt file
+* You can put your research outputs into context using and introduction text, such as a [README.txt file](#rr-rdm-readme)
     * See the [documentation and metadata section](#rr-rdm-metadata)
 
 ### 6. Costs
