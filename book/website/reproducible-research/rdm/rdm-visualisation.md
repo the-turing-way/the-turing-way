@@ -37,6 +37,8 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - [Writing Meaningful Alt-Texts for Data Visualisations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
 - [Writing Alt Text to communicate the meaning in data visualizations] by {cite:ps}`Hare2022dataviz`
 - [Alt-texts](https://axesslab.com/alt-texts/)
+- [Writing Alt Text](https://dataabinitio.com/?p=1161) for a Scientific Figure by Kristin Briney
+- [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) (To get started, use Amy Cesal's quick formula: [alt text = Chart type of type of data where reason for including chart. Link to data.])
 
 (rr-rdm-visualisation-colours)=
 ## Colours
@@ -54,6 +56,8 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - A Field Guide to Digital Color by {cite:ps}`Stone2003dataviz`
 - The Grammar of Graphics by {cite:ps}`Wilkinson1999dataviz`
 - The Visual Display of Quantitative Information by {cite:ps}`Tufte2001dataviz`
+- [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007/s11948-010-9201-y)
+- [Do No Harm Guide: Centering Accessibility in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-centering-accessibility-data-visualization), particularly Chapter 4 by Liz Hare @hare2022accessibility
 
 
 ### Other text resources and examples
@@ -63,6 +67,9 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
 - [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
 - [Friends Don't let Friends Write Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) by {cite:ps}`li2023dataviz`
+- [Data by Design](https://dataxdesign.io/)
+- [Parallel Coordinates Plots (PCP)](https://visualizationcheatsheets.github.io/pcp.html)
+- [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 
 ### Videos
 
@@ -77,6 +84,8 @@ alt: A group of people collaboratively developing a data visualisation by using 
 -   Practical high level intros to Tufte's principles
     -   [What should we do to improve our graphics and figures?](https://www.youtube.com/watch?v=00Fha1lkRxk)
     -   [Graphical Excellence](https://www.youtube.com/watch?v=VkyzSAPkQ50)
+- Workshop: [Missing Data Exploration, Imputation, and Evaluation](https://www.youtube.com/watch?v=MTHgZNB5Wxw) by Hanne Oberman
+- [violin plots should not exist](https://www.youtube.com/watch?v=_0QMKFzW9fw) by Angela Collier 
 
 ### Podcasts
 
