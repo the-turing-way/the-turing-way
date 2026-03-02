@@ -18,6 +18,7 @@ If you have not read the chapters on [](#rr-open) and [](#cm-citable) yet, you m
 - [Research data management and services](https://doi.org/10.5860/crln.78.5.274) by {cite:ps}`Barbrow2017librarians`
 - [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
 - [Eight Principles of Good Data Management](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
+- [Bare Necessities of Data Management](https://cghlewis.com/blog/project_beginning/) by Crystal Lewis
 
 (rr-rdm-resources-resources)=
 ## Resources
