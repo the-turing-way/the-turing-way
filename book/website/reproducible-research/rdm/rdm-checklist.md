@@ -41,3 +41,4 @@ Discuss the checklist with your team!
 
 # Other Checklist resources
 - [Research Data Management Lifecycle Checklist](https://osf.io/pw7ed/files/d2pum)
+- [How FAIR are your data?](https://doi.org/10.5281/zenodo.5111307)
