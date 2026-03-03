@@ -60,6 +60,26 @@ Next to supplemental materials not being aligned with the FAIR principles, there
 - Publisher requirements: Some publishers recommend using a data repository instead.
 - Size limits: There may be size limits in place of how large or how many supplementary materials can be shared.
 
+## Why not "data available upon request"? 
+
+Several studies indicate that data available upon request, is not actually available upon request:
+- _"Only "38% of the researchers sent their data immediately or after reminders"_ [Vanpaemel et al. 2015](http://dx.doi.org/10.1525/collabra.13)
+- _"We received only one of ten raw data sets requested."_ [Savage and Vickers 2009](https://doi.org/10.1371/journal.pone.0007078)
+- _"..less than one-third of the contacted authors sent us the requested data."_ [Dutra dos Reis et al. 2021](https://doi.org/10.1080/08989621.2021.1910029)
+- _"73% of the authors did not share their data._" [Wicherts et al. 2006](https://doi.org/10.1037/0003-066X.61.7.726)
+- _"..the odds of a data set being extant fell by 17% per year. 
+In addition, the odds that we could find a working e-mail address for the first, last, or corresponding author fell by 7% per year."_ [Vines et al. 2014](http://dx.doi.org/10.1016/j.cub.2013.11.014)
+- _"We received no response to 41.3% of our data requests."_ - [Tedersoo et al. 2021](https://doi.org/10.1038/s41597-021-00981-0)
+- _"..only 7/157 research articles shared their data sets, 4.5%."_ [Rowhani-Farid and Barnett 2016](http://dx.doi.org/10.1136/bmjopen-2016-011784)
+- _“Data were recoverable online or through direct data requests for 30% of this sample.
+Data recovery declines exponentially with time since publication, halving every 6 years,…."_ [Minocher et al. 2021](https://doi.org/10.1098/rsos.210450)
+- _"Among articles stating that data was available upon request, only 17% shared data upon request."_ [Hussey 2023](https://doi.org/10.31234/osf.io/jbu9r)
+- _"..only 123 (6.8%) provided the requested data."_ - [Gabelica et al. 2022](https://doi.org/10.1016/j.jclinepi.2022.05.019)
+- _"..we found raw data/code for 133 (47%) of those 283 preprints (15% of all analyzed preprint articles)._ [Strcic et al. 2022](https://doi.org/10.1007/s11192-022-04346-1)
+- only one (0.8%) out of 130 analyzed articles contained a direct link to the analyzed data [Gorman 2020](https://doi.org/10.1007/s11948-020-00203-7)
+
+Unfortunately, journals often [do not mandata data sharing](https://metaresearch.nl/blog/2026/2/3/promised-data-unavailable-im-sorry-maam-theres-nothing-we-can-do) or do not enforce data sharing where these policies are in place. 
+
 (rr-rdm-repository-select)=
 ## Selecting an appropriate repository
 This chapter outlines some of the crucial functionalities that you should look out for when picking where to share your data, code, methods, hardware, slides, or any other Research Object.
