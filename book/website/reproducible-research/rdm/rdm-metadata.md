@@ -23,8 +23,9 @@ alt: The figure goes through a dark wood setting lights along the way. The light
 Illustration about peer review.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
+
 (rr-rdm-readme)=
-## README for datasets
+### README for datasets
 
 A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others.
 A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
@@ -32,7 +33,7 @@ A README file is generally shared together with an open dataset, or can be the [
 README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used).
 See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
 
-### README tips and examples
+#### README tips and examples
 
 * Create one README file for each dataset
 * Name the file README
@@ -58,7 +59,7 @@ You can check the [OSF guidance for data dictionaries](https://help.osf.io/artic
 
 When using a spreadsheet as a codebook, the same formatting principles apply as to regular [spreadsheet data](#rr-rdm-spreadsheets) 
 
-### Data dictionary examples
+#### Data dictionary examples
 
 * See Tables 1 and 2 in [Horstmann et al. 2020](https://doi.org/10.1027/1015-5759/a000620) or their [templates in spreadsheet format](https://osf.io/nerpa/)
 
