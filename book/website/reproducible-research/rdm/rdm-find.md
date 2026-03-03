@@ -25,6 +25,10 @@ You can find data via:
     * [DataCite Metadata Search](https://search.datacite.org/)
     * [Europäisches Datenportal](https://www.europeandataportal.eu/de)
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
+    * [Kaggle](https://www.kaggle.com/datasets)
+    * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+    * [Open Data Network](https://www.opendatanetwork.com/)
+    * [Awesome Public Dataset](shttps://github.com/awesomedata/awesome-public-datasets#readme)
     * [EOSC Portal](https://eosc-portal.eu/) and search the [data catalogue](https://search.marketplace.eosc-portal.eu/search/dataset?q=*&standard=true&exact=false&radioValueAuthor=A&radioValueExact=A&radioValueTitle=A&radioValueKeyword=A). 
 
 (rr-rdm-find-license)=
