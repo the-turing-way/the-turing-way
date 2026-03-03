@@ -34,13 +34,15 @@ Some journals will not allow a paper to be submitted if it has already been post
 You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-info).
 
 (rr-open-access-preprints-doi)=
-
 #### Preprint DOIs
 
 Most preprint servers automatically assign DOIs (typically from DataCite) when you deposit your manuscript, making your work immediately citable even before peer review.
 It's important to note that a preprint DOI is separate from any future journal publication DOI - both serve as permanent, independent records of your research at different stages.
 ASAPbio provides [detailed guidance on citing preprints](https://asapbio.org/preprint-info/preprint-citation), and major servers like [bioRxiv](https://www.biorxiv.org/about-biorxiv) and [arXiv](https://info.arxiv.org/help/doi.html) offer documentation on their DOI assignment processes.
 For more information on how DOIs work, see our [chapter on persistent identifiers](#rr-rdm-pid).
+
+#### Preprint Resources
+- 10 min talk: [Preprint adoption in the life sciences by ASAPbio](https://www.youtube.com/watch?v=j_G6flATV1c&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=12)
 
 (rr-open-access-journal-publishing)=
 ### Open Access Journal publishing
@@ -169,5 +171,6 @@ The push for open is also prevalent across the globe- initiatives such as [SciEL
 
 Funders have also taken action by becoming publishers themselves (referred to as Diamond Open Access). Platforms such as [Open Research Europe](https://open-research-europe.ec.europa.eu/) and [Wellcome Open Research](https://wellcomeopenresearch.org/) are Open Access publishing platforms for researchers funded by that specific funder.
 Funders see this as a service for their grantees- allowing them a venue to publish rapidly and openly for free (funders cover the cost of the infrastructure and the article processing charges) and to have more flexibility than publishing in a journal.
-These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. You can find out more in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
+These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. 
+You can find out more in our [Chapter on Publishing Different Article Types](#cm-dif-articles).
 These funder supported platforms also help shift the needle and inform new policies on researcher assessment, such as moving away from impact factors.
