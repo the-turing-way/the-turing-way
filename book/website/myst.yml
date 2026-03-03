@@ -899,6 +899,23 @@ project:
               title: Acknowledgements
         - file: community-handbook/contributing.md
           title: Contributing to The Turing Way
+        - file: community-handbook/governance
+          title: Governance and Decision Making
+          children:
+            - file: community-handbook/governance/gov-guiding-principles
+              title: Governance Guiding Principles
+            - file: community-handbook/governance/gov-maintainance
+              title: Maintenance Level Decision Making
+            - file: community-handbook/governance/gov-working-groups
+              title: Working Groups
+            - file: community-handbook/governance/gov-delivery-groups
+              title: Delivery Groups
+            # - file: community-handbook/governance/gov-wg-charter-template
+            #   title: Charter Template for the Working Groups
+            - file: community-handbook/governance/gov-constitutional
+              title: Consitutional Level Decision Making
+            - file: community-handbook/governance/gov-roles
+              title: Roles and Responsibilities
         - file: community-handbook/style.md
           title: Style Guide
           children:
