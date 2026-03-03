@@ -80,13 +80,15 @@ Some other tips for file naming include:
 - Use the file type
 - Use the researcher's name/initials
 - Use the version number of file (v001, v002) or language used in the document (ENG)
+- Use zero padded numbers when generating a lot of data (00001)
 - Do not make file names too long (this can complicate file transfers)
 - Avoid special characters `()?\!@\*%{[<>` and spaces
 - Hyphens `-` and underscores `_` can be used to separate related and unrelated chunks, respectively
-- Keep in mind that some operating systems are case-sensitive, some are not
+- Keep in mind that some operating systems are case-sensitive - by using lowercase you can avoid potential problems
 - Avoid personal data in file names
 
 You can explain the file naming convention in a [README.txt file](#rr-rdm-readme) so that it will also become apparent to others what the file names mean.
+Naming the file names with a schema will also make it easier to keep track of what file corresponds to what variables or settings you have used, facilitating data searches/queries. 
 
 For further guidance on file naming: 
 - [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
