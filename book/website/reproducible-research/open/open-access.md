@@ -28,9 +28,11 @@ However, deciding on whether to share your research openly may depend on how pro
 
 A preprint [{term}`def<Preprint>`] is a scientific manuscript that is uploaded by the authors to a public server before peer review.
 The first preprint server called [arXiv](https://arxiv.org/) was established in 1991 for physical sciences.
-Likely due to the inefficiency of traditional journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of [bioRxiv](https://www.biorxiv.org/), [medRxiv](https://www.medrxiv.org/), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [SocArXiv](https://osf.io/preprints/socarxiv) and many more.
+Likely due to the inefficiency of traditional journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of [bioRxiv](https://www.biorxiv.org/), [medRxiv](https://www.medrxiv.org/), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [SocArXiv](https://osf.io/preprints/socarxiv) and [many more](https://en.wikipedia.org/wiki/List_of_preprint_repositories).
+
 Preprints allow researchers to get their results out quickly and give the opportunity to get feedback on a manuscript before submitting it to a journal.
 Some journals will not allow a paper to be submitted if it has already been posted on a preprint server as they consider it 'prior publication', however, the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them {cite}`elife2020preprints`.
+You can find a [list of academic journal policies on preprints on wikipedia](https://en.wikipedia.org/wiki/List_of_academic_publishers_by_preprint_policy) or enter the journal title in the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
 You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-info).
 
 (rr-open-access-preprints-doi)=
@@ -43,6 +45,7 @@ For more information on how DOIs work, see our [chapter on persistent identifier
 
 #### Preprint Resources
 - 10 min talk: [Preprint adoption in the life sciences by ASAPbio](https://www.youtube.com/watch?v=j_G6flATV1c&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=12)
+- [How to Prepare Your Preprint](https://help.osf.io/article/376-preprints-home-page#How-to-Prepare-Your-Preprint-UwA-q) by OSF
 
 (rr-open-access-journal-publishing)=
 ### Open Access Journal publishing
@@ -113,7 +116,7 @@ Finally, some journals do allow researchers to deposit the final published versi
 
 Concerning the moment to make the paper publicly available, many journals establish a period from its original publication - the embargo period, which can range from zero to 60 months - were making the paper publicly available is not permitted.
 Some journals include or exclude embargoes depending on the versions.
-For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
+For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
 
 ```{figure} ../../../figures/routes-to-OA.*
 ---
