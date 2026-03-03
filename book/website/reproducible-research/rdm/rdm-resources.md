@@ -47,6 +47,16 @@ If you have not read the chapters on [](#rr-open) and [](#cm-citable) yet, you m
 ### Podcasts
 
 - Podcast: Within and Between: [S2E13](https://open.spotify.com/episode/6klHxGUi0v5m5pTFUHbkC4?si=f681d9091fd0490d&nd=1) & [S2E14](https://open.spotify.com/episode/27SXLCsjhtvh4LyfaRIG92?si=9ab8715953584d46&nd=1) on Data Management
+- FAIR Data Podcast: [Frederique Belliard](https://open.spotify.com/episode/7pSo97wP8leDKC4wNP57aB?si=544df27cfe3145a5) & [Sharif Islam](https://open.spotify.com/episode/4kYTe89xys1oeiTZtwE18j?si=e3bf0139dbeb4f08)
+- The Turing Podcast: [Reproducible data science: How hard can it be?](https://open.spotify.com/episode/1OVxFUA5UyIfMSCd842wjD?si=64652726c0314060)
+- Down to Earth: A podcast for Geoscientists by Geoscientist: [S4E02: Dealing with Data: Infrastructure and Standards](https://open.spotify.com/episode/6N7aDfsb4KMaYjSEDpkJ80?si=61a65b5423f7435a) & [S4E08: Demystifying the Scientific Process with Data Management, FAIR and Science Communication](https://open.spotify.com/episode/0nt1rBvbjxmJybCYEKxcil?si=14876c5f6a094594)
+- [Access for Who?](https://africandigitalheritage.org/access-for-who-a-podcast-on-digital-restitution/)
+  - [Episode 2: Digital Collections (Part I)](https://open.spotify.com/episode/4Pz76LeJRCtMOHIXRh37U7?si=a39cf5dd3d84415b)
+  - [Episode 3: Ownership and Intellectual Property](https://open.spotify.com/episode/2GZfNjPiuQQnxzADa9vqvV?si=d77549abf8fa4aa6)
+  - [Episode 4: African Data Futures](https://open.spotify.com/episode/58pG4XOChe2ewzCk0Igryi?si=2c37d776de6e4d2d)
+
+### Policies
+- [Research Data Management and Open Science Policy Faculty of Geosciences](https://geo-data-support.sites.uu.nl/faculty-rdm-policy/) ([pdf](https://geo-data-support.sites.uu.nl/wp-content/uploads/sites/504/2025/05/ResearchDataManagement_policy_Geosciences_2025_V1.0.pdf))
 
 ### Presentations/Slides and videos
 
