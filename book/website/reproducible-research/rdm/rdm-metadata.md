@@ -45,7 +45,7 @@ Example templates:
 * [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
 
 (rr-rdm-codebook)=
-### Codebook/Data dictionary
+### Codebook or Data dictionary
 
 A data dictionary or codebook ensures that the dataset is interpretable and reusable in the future, and has also been called the '[single most important piece of documentation you will create in your research study](https://cghlewis.com/blog/data_dictionary/)'. 
 A guiding question when setting up your data dictionary is: Can another researcher analyse/interpret the data using solely the codebook?
