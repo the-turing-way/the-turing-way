@@ -68,7 +68,7 @@ Consider future technological changes, changing user behavior and new requiremen
 * Select a license when you make your output available on a repository (see the Licensing subchapters on [data](#rr-licensing-data) and [software](#rr-licensing-floss) for more information).
 By selecting a license you tell others how they can reuse your data. 
 If you do not select a license others will not be able to reuse your data without asking you for permission. 
-* You can put your research outputs into context using and introduction text, such as a [README.txt file](#rr-rdm-readme)
+* You can put your research outputs into context using and introduction text, such as a [README.txt or .md file](#rr-rdm-readme)
     * See the [documentation and metadata section](#rr-rdm-metadata)
 
 ### 6. Costs
@@ -108,11 +108,11 @@ See [activeDMPs](https://activedmps.org/) for a full overview.
 - [TU Delft Research Data Management portal](https://www.tudelft.nl/en/library/research-data-management)
 - [Research Data Management](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/) by Science Europe
 - Books
-   - {cite:ps}`Briney2015dmp`
+   - @Briney2015dmp
 - Articles
-   - {cite:ps}`Briney2020dmp`
-   - {cite:ps}`Hart2016dmp`
-   - {cite:ps}`Michener2015dmp` 
+   - @Briney2020dmp
+   - @Hart2016dmp
+   - @Michener2015dmp
 - Videos
    - [Videos (3-7 min) on data management by Kristin Briney](https://www.youtube.com/watch?v=K5_ocBG5xek&list=PLEor4jq8YPgK_sgEiAcpHZLw-62mufXus)
    - Video on [elements of a DMP](https://commons.esipfed.org/node/1442).
