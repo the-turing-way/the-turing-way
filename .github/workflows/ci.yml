@@ -81,7 +81,7 @@ jobs:
       - name: Upload html output as artifact
         # ignore pull requests from the all-contributors bot
         if: contains(matrix.os, 'ubuntu') && !contains(github.head_ref, 'all-contributors')
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: book-html-${{ github.run_id }}
           path: ./book/website/_build/html/
@@ -105,7 +105,7 @@ jobs:
           mkdir -p ./book/website/_build/html
 
       - name: Download book html files from artifact
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: book-html-${{ github.run_id }}
           path: ./book/website/_build/html/
