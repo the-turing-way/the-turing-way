@@ -35,7 +35,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 
 - [Tips to improve interpretability and accessibility](https://www.youtube.com/watch?v=RzT95DVUMnw) by Dr Tracey Weissgerber (video)
 - [Writing Meaningful Alt-Texts for Data Visualisations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
-- [Writing Alt Text to communicate the meaning in data visualizations] by {cite:ps}`Hare2022dataviz`
+- [Writing Alt Text to communicate the meaning in data visualizations] by @Hare2022dataviz
 - [Alt-texts](https://axesslab.com/alt-texts/)
 - [Writing Alt Text](https://dataabinitio.com/?p=1161) for a Scientific Figure by Kristin Briney
 - [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) (To get started, use Amy Cesal's quick formula: [alt text = Chart type of type of data where reason for including chart. Link to data.])
@@ -53,9 +53,9 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - [Data Visualisation, A practical introduction](https://socviz.co/) by {cite:ps}`Healy2018dataviz`
 - [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161) by {cite:ps}`Jambor2021dataviz`
 - [A layered grammar of graphics](http://dx.doi.org/10.1198/jcgs.2009.07098) by {cite:ps}`Wickham2010dataviz`
-- A Field Guide to Digital Color by {cite:ps}`Stone2003dataviz`
-- The Grammar of Graphics by {cite:ps}`Wilkinson1999dataviz`
-- The Visual Display of Quantitative Information by {cite:ps}`Tufte2001dataviz`
+- A Field Guide to Digital Color by @Stone2003dataviz
+- The Grammar of Graphics by @Wilkinson1999dataviz
+- The Visual Display of Quantitative Information by @Tufte2001dataviz
 - [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007/s11948-010-9201-y)
 
 ### Other text resources and examples
@@ -64,7 +64,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
 - [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
 - [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
-- [Friends Don't let Friends Write Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) by {cite:ps}`li2023dataviz`
+- [Friends Don't let Friends Write Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) by @li2023dataviz
 - [Data by Design](https://dataxdesign.io/)
 - [Parallel Coordinates Plots (PCP)](https://visualizationcheatsheets.github.io/pcp.html)
 - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)

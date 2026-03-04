@@ -14,8 +14,8 @@ If you have not read the chapters on [](#rr-open) and [](#cm-citable) yet, you m
 - [Reproducible research](https://coderefinery.github.io/reproducible-research/) by Code Refinery
 - [UKRN Open Research Primers](https://www.ukrn.org/primers/)
 - [Eight principles of good data management](https://doi.org/10.31234/osf.io/5tmfe) by {cite:ps}`Henry2021RDM`
-- [Some simple guidelines for effective data management](https://doi.org/10.1890/0012-9623-90.2.205) by {cite:ps}`Borer2009RDM`
-- [Research data management and services](https://doi.org/10.5860/crln.78.5.274) by {cite:ps}`Barbrow2017librarians`
+- [Some simple guidelines for effective data management](https://doi.org/10.1890/0012-9623-90.2.205) 
+- [Research data management and services](https://doi.org/10.5860/crln.78.5.274)
 - [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
 - [Eight Principles of Good Data Management](https://www.teaguehenry.com/strings-not-factors/2021/2/21/eight-principles-of-good-data-management)
 - [Bare Necessities of Data Management](https://cghlewis.com/blog/project_beginning/) by Crystal Lewis

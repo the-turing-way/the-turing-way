@@ -38,7 +38,7 @@ You can find more about the practical steps to make your data available in the s
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
 Many academics find sharing data difficult.
-Recent surveys {cite:ps}`Stuart2018sharing` conducted amongst researchers list the following reasons:
+Recent surveys @Stuart2018sharing conducted amongst researchers list the following reasons:
 
 - Organising data in a presentable and useful way is challenging (mentioned by 46%)
 - Researchers are unsure about copyright and licensing (mentioned by 37%)

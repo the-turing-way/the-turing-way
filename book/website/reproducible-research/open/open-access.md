@@ -31,7 +31,7 @@ The first preprint server called [arXiv](https://arxiv.org/) was established in 
 Likely due to the inefficiency of traditional journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of [bioRxiv](https://www.biorxiv.org/), [medRxiv](https://www.medrxiv.org/), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [SocArXiv](https://osf.io/preprints/socarxiv) and [many more](https://en.wikipedia.org/wiki/List_of_preprint_repositories).
 
 Preprints allow researchers to get their results out quickly and give the opportunity to get feedback on a manuscript before submitting it to a journal.
-Some journals will not allow a paper to be submitted if it has already been posted on a preprint server as they consider it 'prior publication', however, the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them {cite}`elife2020preprints`.
+Some journals will not allow a paper to be submitted if it has already been posted on a preprint server as they consider it 'prior publication', however, the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them @elife2020preprints.
 You can find a [list of academic journal policies on preprints on wikipedia](https://en.wikipedia.org/wiki/List_of_academic_publishers_by_preprint_policy) or enter the journal title in the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
 You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-info).
 
