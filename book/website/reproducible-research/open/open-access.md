@@ -116,7 +116,8 @@ Finally, some journals do allow researchers to deposit the final published versi
 
 Concerning the moment to make the paper publicly available, many journals establish a period from its original publication - the embargo period, which can range from zero to 60 months - were making the paper publicly available is not permitted.
 Some journals include or exclude embargoes depending on the versions.
-For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
+For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months.
+You can check journal policies on self-archiving using the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
 
 ```{figure} ../../../figures/routes-to-OA.*
 ---
