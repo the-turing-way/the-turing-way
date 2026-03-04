@@ -52,7 +52,8 @@ The following questions may help you to do so:
 
 * What was the original research question?
 * How was the data collected?
-* Who collected the data? [](doi:10.1038/s41597-024-03591-8)
+* Who collected the data? 
+See [](doi:10.1038/s41597-024-03591-8) for some considerations of why it is important to consider who collected data.
 * Are the collection and processing methods appropriate to answer my research question?
 * Is the data collection process well documented? Which instruments were used? What settings/parameters?
 * Are protocols of the data collection shared?
