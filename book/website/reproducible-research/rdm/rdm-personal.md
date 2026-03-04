@@ -15,7 +15,7 @@ The private data ecosystem. _The Turing Way_ project illustration by Scriberia. 
 ## Personal data
 
 Personal data is information about **living people** who can be identified using the data that you are processing, either directly or indirectly (for example, a person's name, address or other unique identifier such as their Social Security number). 
-Find out more about what personal data is and what policies apply to this type of data in the [personal data section](#pd-sdp-personal).
+Find out more about what personal data is and what policies apply to this type of data in the [personal data](#pd-sdp-personal) chapter.
 
 
 (rr-rdm-informed-consent)=
