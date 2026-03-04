@@ -9,7 +9,9 @@ Data are your research asset.
 A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions: "What is the information that I need to use and write about in my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed by others to understand and possibly replicate the research that I have done?". 
 This information is your data.
 
-> Data are: _Facts, measurements, recordings, records, or observations about the world, collected by researchers, that are yet to be processed/interpreted/analysed. Data may be in any format or medium taking the form of writings, notes, numbers, symbols, text, images, films, video, sound recordings, pictorial reproductions, drawings, designs or other graphical representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing algorithms, or statistical records._ [CODATA Research Data Management Terminology ](https://vocabs.ardc.edu.au/viewById/685)
+> Data are: _Facts, measurements, recordings, records, or observations about the world, collected by researchers, that are yet to be processed/interpreted/analysed.
+Data may be in any format or medium taking the form of writings, notes, numbers, symbols, text, images, films, video, sound recordings, pictorial reproductions, drawings, designs or other graphical representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing algorithms, or statistical records._
+[CODATA Research Data Management Terminology ](https://vocabs.ardc.edu.au/viewById/685)
 
 (rr-rdm-data-lifecycle)=
 ## The Research Data Lifecycle - A Model for Data Management
