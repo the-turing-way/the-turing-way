@@ -62,7 +62,10 @@ Next to supplemental materials not being aligned with the FAIR principles, there
 
 ## Why not "data available upon request"? 
 
-Several studies indicate that data available upon request, is not actually available upon request:
+Several studies indicate that "data available upon request", is not actually available upon request!
+
+We encourage you to explore some of the existing research on this question.
+We extract key quotes from a selection of studies here:
 - _"Only "38% of the researchers sent their data immediately or after reminders"_ [Vanpaemel et al. 2015](http://dx.doi.org/10.1525/collabra.13)
 - _"We received only one of ten raw data sets requested."_ [Savage and Vickers 2009](https://doi.org/10.1371/journal.pone.0007078)
 - _"..less than one-third of the contacted authors sent us the requested data."_ [Dutra dos Reis et al. 2021](https://doi.org/10.1080/08989621.2021.1910029)
