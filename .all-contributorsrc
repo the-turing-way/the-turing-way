@@ -5591,6 +5591,24 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "xchen101",
+      "name": "Xiaoli Chen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3393596?v=4",
+      "profile": "https://github.com/xchen101",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mitre88",
+      "name": "Dr Alex Mitre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30060514?v=4",
+      "profile": "https://github.com/mitre88",
+      "contributions": [
+        "bug"
+      ]
     }
   ]
 }
