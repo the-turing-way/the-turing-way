@@ -28,7 +28,7 @@ You can find more information about this in the [Informed Consent section](#pd-s
 (rr-rdm-privacy)=
 ## Safeguard privacy
 There are a number of strategies that you can adopt to **safeguard the privacy** of your research subjects, which are described in detail in the [Data Privacy Strategies section](pd-sdpm-privacy). 
-If you do plan to share or publish the data you should ensure that this can be done so safely: read [](#<pd-sdpm-sharing)
+If you do plan to share or publish the data you should ensure that this can be done so safely: read [](#pd-sdpm-sharing).
 
 ## More resources 
 Check out the resources listed in [](#pd-sdpm-resources) of [](#pd-sdpm).
