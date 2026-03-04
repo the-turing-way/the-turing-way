@@ -261,6 +261,6 @@ For example, open source applications like [logseq](https://logseq.com/) or [zet
 * [Electronic Lab Notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
 * [RSpace](https://www.researchspace.com/)
-* [Exploring ‘The Chemotion Files’: A Gamified Dive into Electronic Lab Notebooks](https://thefairelephant.com/news_digest_archive/exploring-the-chemotion-files-a-gamified-dive-into-electronic-lab-notebooks/)
+* [Exploring 'The Chemotion Files': A Gamified Dive into Electronic Lab Notebooks](https://thefairelephant.com/news_digest_archive/exploring-the-chemotion-files-a-gamified-dive-into-electronic-lab-notebooks/)
   
 
