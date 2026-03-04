@@ -74,7 +74,7 @@ This information is generally available in READme files or in the metadata of th
 (rr-rdm-find-info)=
 ## More information
 
-* [Eleven quick tips for finding research data](https://doi.org/10.1371/journal.pcbi.1006038) by {cite:ps}`Gregory2018finddata`
+* [Eleven quick tips for finding research data](https://doi.org/10.1371/journal.pcbi.1006038)
 * [What's wrong with this data?](https://adsei.org/2024/01/22/whats-wrong-with-this-data/)
 * [AREN - Reusing Open Data](https://doi.org/10.5281/zenodo.11862587)
 
