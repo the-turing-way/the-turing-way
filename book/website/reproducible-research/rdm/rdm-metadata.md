@@ -70,7 +70,7 @@ PID metadata includes core properties like:
 Unlike domain-specific metadata (such as the Brain Imaging Data Structure for neuroimaging data), PID metadata follows standardized schemas that are discipline agnostic.
 Both types of metadata are valuable - PID metadata enables broad discoverability while domain-specific metadata captures the detailed context needed for reuse within your field.
 
-Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](rr-rdm-pid-metadata).
+Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](#rr-rdm-pid-metadata).
 
 (rr-rdm-readme)=
 ## README for datasets

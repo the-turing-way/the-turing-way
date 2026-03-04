@@ -9,7 +9,7 @@ When you "add the DOI of the publication to the dataset" (see {ref}`Reserve DOI<
 But where exactly does this information go, and how do you create these links?
 This section provides practical guidance on using connection metadata to build a connected scholarly record.
 
-For background on persistent identifiers and the infrastructure that makes these connections possible, see our {ref}`chapter on PIDs<rr-rdm-pid>`.
+For background on persistent identifiers and the infrastructure that makes these connections possible, see [](#rr-rdm-pid).
 
 ## Why Link Through Metadata?
 
@@ -276,7 +276,7 @@ As URLs: `https://orcid.org/0000-0001-2345-6789`
 **How to add:**
 - Some repositories support ROR ID fields for affiliations
 - When creating or editing records, look for organization/affiliation fields
-- Search the [ROR Registry](https://ror.org/) to find your institution's ID
+- Search the [ROR Registry](https://ror.org) to find your institution's ID
 
 ### Benefits of Including People and Organization Identifiers
 
@@ -318,4 +318,4 @@ This interconnected graph enables:
 - Reproducibility (access all components needed)
 - Trust (transparent provenance and connections)
 
-For more on the infrastructure enabling these connections, see our {ref}`chapter on persistent identifiers<rr-rdm-pid>`.
+For more on the infrastructure enabling these connections, see [](#rr-rdm-pid).
