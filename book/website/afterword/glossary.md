@@ -142,7 +142,9 @@ CRediT
 
 ```{glossary}
 data 
-: Facts, measurements, recordings, records, or observations about the world, collected by researchers, that are yet to be processed/interpreted/analysed. Data may be in any format or medium taking the form of writings, notes, numbers, symbols, text, images, films, video, sound recordings, pictorial reproductions, drawings, designs or other graphical representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing algorithms, or statistical records. Source: [CODATA](https://terms.codata.org/rdmt/data)
+: Facts, measurements, recordings, records, or observations about the world, collected by researchers, that are yet to be processed/interpreted/analysed.
+Data may be in any format or medium taking the form of writings, notes, numbers, symbols, text, images, films, video, sound recordings, pictorial reproductions, drawings, designs or other graphical representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing algorithms, or statistical records.
+Source: [CODATA](https://terms.codata.org/rdmt/data)
 
 data repository
 : A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
