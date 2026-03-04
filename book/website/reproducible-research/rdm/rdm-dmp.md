@@ -88,7 +88,7 @@ You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-d
 Many funders now encourage or require DMP as part of their open science policies.
 Public DMPs can be updated during the project by depositing new versions with new DOIs while maintaining all previous versions.
 This creates a traceable record of how your data management evolved throughout the research lifecycle.
-See [](#cm-citable-steps-object) for more information on how to make your DMP citable.
+See how to [Identify Your Research Objects](#cm-citable-steps-object) for more information on how to make your DMP citable.
 
 
 (rr-rdm-dmp-tools)=
