@@ -55,7 +55,7 @@ Data should be as open as possible, and as closed as necessary.
 
 It is also important to say that the FAIR principles are aspirational: they do not strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and behaviours that will move a digital resource closer to that goal.
 
-The FAIR principles are also applied to software (see [[LGK+20](https://book.the-turing-way.org/afterword/bibliography.html#id10)]and [[HCH+20](https://book.the-turing-way.org/afterword/bibliography.html#id9)]). 
+The FAIR principles are also applied to software (see [Chue Hong et al. 2022](https://doi.org/10.15497/RDA00068) and [Barker et al. 2022](https://doi.org/10.1038/s41597-022-01710-x)). 
 Watch a [ten minute video on FAIR software](https://www.youtube.com/watch?v=ME8_NRGRhSs&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=16) for a short explanation.
 
 ## FAIR principles and environmental sustainability
