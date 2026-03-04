@@ -114,7 +114,7 @@ Does it use the recognised standards in my discipline?
 - What data formats are allowed? 
 Will it take the data that you want to share?
 - Does it provide a [persistent identifier](#rr-rdm-pid-ecosystem), for example a Digital Object Identifier (DOI)?
-- Does it provide the right type of access control (restricted access/embargo's) that suits the sharing conditions of the data? 
+- Does it provide the right type of access control (restricted access/embargoes) that suits the sharing conditions of the data? 
 - Is there support available on how to curate the data/metadata?
 
 See the [ARDC's Guide to choosing a data repository](https://ardc.edu.au/resource/guide-to-choosing-a-data-repository) or the [DCC checklist for evaluating data repositories](https://www.dcc.ac.uk/guidance/how-guides/where-keep-research-data) for more information. 
