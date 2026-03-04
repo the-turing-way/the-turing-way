@@ -146,6 +146,10 @@ data
 Data may be in any format or medium taking the form of writings, notes, numbers, symbols, text, images, films, video, sound recordings, pictorial reproductions, drawings, designs or other graphical representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing algorithms, or statistical records.
 Source: [CODATA](https://terms.codata.org/rdmt/data)
 
+data article
+: A data article or a data paper is a peer-reviewed academic publication focussed on the description of a dataset.
+Source: [CODATA](https://terms.codata.org/rdmt/data-paper)
+
 data repository
 : A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
@@ -183,6 +187,11 @@ digital object identifier
 ## E
 
 ```{glossary}
+
+electronic laboratory notebook
+: An Electronic Laboratory Notebook (commonly known as an ELN or a digital lab notebook) is a software system designed to help you document and maintain reproducibility of your research and share information more easily. 
+ELNs enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device.
+
 end to end test
 : A test that runs the program from beginning to end and verifies that the output is correct.
 
