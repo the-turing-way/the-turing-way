@@ -33,7 +33,9 @@ You can find examples of these statements in the publishers' (research data) aut
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
 **When code is shared:**
-- "Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)), GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)) and shared on the [Software Heritage](https://archive.softwareheritage.org/) for long term preservation and findability *(URL)*. We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*)." 
+- "Data and code to reproduce the results shown in the paper can be obtained from The Turing Way on Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)), GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)) and shared on the Software Heritage archive [swh:1:dir:ae7bd89ad9c35186ddd8f6869fbceebe32d382b2;origin=https://github.com/the-turing-way/the-turing-way;visit=swh:1:snp:6827073ea24f18029902d0efbf49dc3f09df3d17;anchor=swh:1:rev:c9da9af36e98ad59f231f252ccc8e12676c9492a](https://archive.softwareheritage.org/swh:1:dir:ae7bd89ad9c35186ddd8f6869fbceebe32d382b2;origin=https://github.com/the-turing-way/the-turing-way;visit=swh:1:snp:6827073ea24f18029902d0efbf49dc3f09df3d17;anchor=swh:1:rev:c9da9af36e98ad59f231f252ccc8e12676c9492a) for long term preservation and findability.
+- 
+We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*)." 
 
 **More Data Availability Statement examples:**
 
