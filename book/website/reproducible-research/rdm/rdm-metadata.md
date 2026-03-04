@@ -42,7 +42,7 @@ See [Make a README](https://www.makeareadme.com/) for more information on why RE
 Example templates:
 
 * [Cornell Template](https://cornell.app.box.com/v/ReadmeTemplate)
-* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
+* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf)
 
 (rr-rdm-codebook)=
 ### Codebook or Data dictionary
