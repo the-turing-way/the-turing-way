@@ -1,7 +1,7 @@
 (rr-rdm-fair)=
 # The FAIR Principles
 
-The FAIR guiding principles for scientific data management and stewardship {cite:ps}`Wilkinson2016fair` were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets; all of which support research reproducibility.
+The FAIR guiding principles for scientific data management and stewardship @Wilkinson2016fair were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets; all of which support research reproducibility.
 The FAIR principles play an important role in making your data available to others for reuse.
 The [majority of European funders and research institutes](https://doi.org/10.5281/zenodo.13961123) now also require their researchers to make their research outputs FAIR. 
 
