@@ -67,7 +67,7 @@ Some familiarity with the project and how we work in the community will help our
 If you have previously contributed to a collaborative project or have a specific proposal for contribution in mind, you are highly encouraged to apply.
 Do get in touch with one of the core contributors who can help you shape your idea by identifying where and how they fit in the bigger vision of the project.
 
-If you have not interacted with our community before, but want to take part in a Book Dash, please join one of our [Collaboration Cafés](#ch-community-calls-collabcafe). 
+If you have not interacted with our community before, but want to take part in a Book Dash, please join one of our [Collaboration Cafés](#ch-community-calls-collabcafe).  You will be onboarded into our community so you can be familiarised to the project and the Book Dash. 
 This way, you will get to know about our project and understand more about how you could contribute during a Book Dash.
 
 ## Support in-person, hybrid and remote participation
