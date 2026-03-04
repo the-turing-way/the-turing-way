@@ -37,7 +37,8 @@ See [Make a README](https://www.makeareadme.com/) for more information on why RE
 
 * Create one README file for each dataset
 * Name the file README
-* Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.
+* Use plain text file (`README.txt` or `README.md`).
+  Or use README.pdf when text formatting is important for your file.
 
 Example templates:
 
