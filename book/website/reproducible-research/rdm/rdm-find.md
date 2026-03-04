@@ -37,7 +37,7 @@ You can find data via:
 Once you found a dataset, you need to check the license to see if you can actually reuse the data!
 
 The most commonly used open licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
-See our [Chapter on Licensing](#rr-licensing) for more information.
+See our chapter on [](#rr-licensing) for more information.
 
 Not all datasets that are available to researchers are open datasets. 
 Therefore, if you want to use a restricted dataset, you need to check how you can apply to access it and what the restrictions are on its use. 
