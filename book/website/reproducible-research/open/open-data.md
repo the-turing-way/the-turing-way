@@ -30,7 +30,7 @@ That data should, therefore, be open by default and only as closed as necessary.
 name: data-levels
 alt: A line where different levels of data sharing are described. It starts at the left with the words 'functionally closed' in red. After this is "available upon request". The next level would be a synthetic dataset, followed by Open if a specified process is followed. Then there is Freely open (with the exception of sensitive data), Freely open (analytic dataset), and at the right side freely open (full dataset), in red. 
 ---
-_Figure 1, A continuum of data sharing, in [Syed 2022](https://doi.org/10.31234/osf.io/w8xs2)
+A continuum of data sharing, in [Syed 2022](https://doi.org/10.31234/osf.io/w8xs2)
 ```
 
 You can find more about the practical steps to make your data available in the section describing [Steps to Share your Data](#rr-rdm-sharing-steps).
