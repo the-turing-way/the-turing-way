@@ -81,7 +81,7 @@ Data recovery declines exponentially with time since publication, halving every 
 - _"..we found raw data/code for 133 (47%) of those 283 preprints (15% of all analyzed preprint articles)._ [Strcic et al. 2022](https://doi.org/10.1007/s11192-022-04346-1)
 - only one (0.8%) out of 130 analyzed articles contained a direct link to the analyzed data [Gorman 2020](https://doi.org/10.1007/s11948-020-00203-7)
 
-Unfortunately, journals often [do not mandata data sharing](https://metaresearch.nl/blog/2026/2/3/promised-data-unavailable-im-sorry-maam-theres-nothing-we-can-do) or do not enforce data sharing where these policies are in place. 
+Unfortunately, journals often [do not mandate data sharing](https://metaresearch.nl/blog/2026/2/3/promised-data-unavailable-im-sorry-maam-theres-nothing-we-can-do) or do not enforce data sharing where these policies are in place. 
 
 (rr-rdm-repository-select)=
 ## Selecting an appropriate repository
