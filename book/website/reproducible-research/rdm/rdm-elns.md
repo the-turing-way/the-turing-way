@@ -19,7 +19,7 @@ Electronic Lab Notebooks may provide, among other things, the following **functi
 * Tools for working with **tabular data** (calculations and formatting of tables and graphs)
 * **Template**s for documenting standard procedures
 * **Built-in Laboratory Inventory Management Systems** (LIMS) functionality for managing and documenting samples, reagents, and apparatus, or integration with separate dedicated LIMS.
-*** Collaboration tools** for sharing experimental information
+* **Collaboration tools** for sharing experimental information
 * Some ELNs will allow you to **comply with standards and regulations** because of their certification processes
 
 ELNs also have their **limitations**: 
