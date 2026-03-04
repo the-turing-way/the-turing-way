@@ -12,8 +12,8 @@ Even though the FAIR principles have been defined to allow machines to find and 
 The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in [volume, velocity and
 variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/).
 
-This chapter provides an abstract and broad view of what the FAIR principles are. |
-How to put the FAIR principles into practise is discussed in other sub chapters ([](#rr-rdm-spreadsheets), [](#rr-rdm-metadata) and [](#rr-rdm-sharing)). You can also use the [Wellcome Getting Started Guide](https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf) or the [How To FAIR](https://howtofair.dk/) website to find out more about the FAIR principles and how to get started.
+This chapter provides an abstract and broad view of what the FAIR principles are, how to put the FAIR principles into practice is discussed in other sub chapters ([](#rr-rdm-spreadsheets), [](#rr-rdm-metadata) and [](#rr-rdm-sharing)).
+You can also use the [Wellcome Getting Started Guide](https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf) or the [How To FAIR](https://howtofair.dk/) website to find out more about the FAIR principles and how to get started.
 
 ```{figure} ../../../figures/fair-principles.*
 ---
