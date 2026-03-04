@@ -20,7 +20,7 @@ See also the [](rr-rdm-metadata-documentation) for more information on how to pr
 [protocols.io](https://www.protocols.io/) and [Bio-protocol Exchange](https://bio-protocol.org/exchange) are repositories for protocols. 
 For protocols.io, you can watch two short introduction videos by [Emma Ganley](https://www.youtube.com/watch?v=hva-oTapSWU&list=PL1CvC6Ez54KCcs99wV3eex1v5GUry6Yb7&index=12) and [Lenny Teytelman](https://www.youtube.com/watch?v=1wN6RqCmpqM&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=13) to learn more. 
 
-See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
+See this video on [methods & protocols](https://youtu.be/CzpY4A5G70s?si=YPX9L_LAC5FAv7G3) from the [ReproducibiliTeach](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/reproducibiliteach-strategies-to-make-your-research-more-transparent-robust-reproducible-2) team for the differences between protocol journals and protocol repositories (at 23:33).
 
 You can also choose to [share your electronic lab notes openly](https://www.lornecampbell.org/?p=179).
 
