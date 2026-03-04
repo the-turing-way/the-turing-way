@@ -45,7 +45,7 @@ There are also  metadata standards that already exist to help you with standardi
 
 ### 5. Data preservation
 To ensure data preservation it is helpful to store your data in interoperable or frequently used formats. 
-This way, you increase the chances that files can still be opened after several years have passed. 
+This way, you increase the chances that files can still be opened after several years have passed, avoiding the [example of data loss in this video](https://www.youtube.com/watch?v=N2zK3sAtr-4). 
 See the [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/) or the [Preferred file formats by DANS](https://dans.knaw.nl/en/file-formats/) for examples.
 See [](#rr-rdm-repository) and [](#rr-rdm-sharing) for more information.
 
