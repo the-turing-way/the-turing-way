@@ -36,7 +36,7 @@ Based on what we currently publish, collect information from the listed resource
 * **News from the community**:
   - Check Github issue for updates shared by community members to add to newsletter
   - Check Linkedin for updates on the [official account](https://www.linkedin.com/company/the-turing-way/), tagged posts, and the [#TuringWay Hashtag](https://www.linkedin.com/feed/hashtag/?keywords=TuringWay)
-  - Check Blue Sky for updates on the [official account]() and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
+  - Check Blue Sky for updates on the [official account](https://bsky.app/profile/turingway.bsky.social) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - Check Mastodon for updates on the [official account](https://fosstodon.org/\@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
   - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
