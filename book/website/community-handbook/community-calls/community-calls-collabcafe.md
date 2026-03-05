@@ -10,17 +10,13 @@ alt: Cartoon-like sketch in a green, teal, and orange colour scheme, with three 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-_The Turing Way_ Collaboration Cafes (or 'Cafés' with an accent) are virtual co-working spaces that are held fortnightly on the first and third Wednesdays of each month for 2 hours.
-The schedule will be updated periodically on our [Community Calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) as per the community requirement.
+_The Turing Way_ Collaboration Cafes (or 'Cafés' with an accent) are virtual co-working space.
+The schedule will be updated periodically on our [Community Calendar](#ch-community-calls-calendar) as per the community requirement.
 
-We host these calls online using [Zoom](https://www.zoom.us/) where we make use of the [breakout rooms](#ch-coworking-collabcafe-breakout) feature to allow small groups to use the 2 hours as best fits them.
+We host these calls online using [Zoom](https://www.zoom.us/) where we make use of the [breakout rooms](#ch-coworking-collabcafe-breakout) feature to allow small groups to use the time as best fits them.
 One or two members from the core team are always available on the call to support anyone wanting to learn more about collaborating on GitHub, getting a virtual tour of our GitHub repository or the book, and helping you to make your first pull request (PR).
 
 ## Attending an online Collaboration Cafe
-
-The schedule for the collaboration cafe can be viewed from the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We also announce calls in our [monthly newsletters](https://buttondown.email/turingway/), send a reminder on the [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA) and on [X (formerly Twitter)](https://twitter.com/turingway) and [Mastodon](https://fosstodon.org/\@turingway). 
-Our [LinkedIn account](https://www.linkedin.com/company/the-turing-way/) can also be used to announce calls.
 
 Though scheduled for 2 hours, we understand that for many interested participants, it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
 
@@ -36,9 +32,11 @@ Existing _The Turing Way_ community members may invite their colleagues to join 
 It is important that anyone joining a Collaboration Cafe has an interest in _The Turing Way_ and learning with and feeding back into the community.
 If a meeting is on a topic or for a purpose completely separate from "reproducible, ethical and collaborative data science", it may not be the best fit for a Collaboration Cafe.
 
-When inviting new people, please forward the Zoom call for the meeting and the shared document with introduction text like one of the following:
-- Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved. You can learn more [here](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our code of conduct. Please take a moment to read this [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
-- I look forward to meeting at The Turing Way Collaboration Cafe, which will be a chance for us to discuss, co-work, and share and get feedback on our work with The Turing Way community. You can learn more about the calls [here](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+When inviting new people, please forward the Zoom call for the meeting and the shared document with introduction text like:
+
+Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved.
+All of our calls adhere to our code of conduct.
+Please take a moment to read this [here](#ch-coc).
 
 ### Resources used for the call
 
