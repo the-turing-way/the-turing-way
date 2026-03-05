@@ -128,7 +128,7 @@ Therefore, it is essential to document and use practices that will enable collab
 Considering good team practices even for a project run by an individual makes it easy for them to effectively accomplish their goals.
 For example, you can define goals in your project and identify tasks by asking questions like:
 how can my work be split, how will it be reviewed, how will decisions be made, and so on.
-Learn how [agile methodologies](http://www.agilenutshell.com/) help adapt to changes.
+Learn how [agile methodologies](https://en.wikipedia.org/wiki/Agile_software_development) help adapt to changes.
 Learn about good team practices in our {ref}`section on teamwork<cl-new-community-teamwork>`.
 
 Project design does not ensure that everything will always go as planned or there will be no unexpected challenges.

@@ -69,7 +69,6 @@ venv\Scripts\activate
 :::
 ::::
 
-
 Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
 Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
 That will be explained in more depth in [a later section](#recommend).
@@ -79,6 +78,11 @@ That will be explained in more depth in [a later section](#recommend).
 The next steps use a {term}`Makefile`.
 The Makefile contains instructions to build a set of "targets".
 That way we can easily run the same commands repeatedly, and in different environments, without needing to remember all the parameters.
+
+:::{hint}
+To see a list of all targets the Makefile contains, run `make help` or simply `make` from the `book` subdirectory.
+:::
+
 It is easiest to change into the directory containing the Makefile,
 
 ```console
@@ -133,7 +137,6 @@ make book
 The build process will create a new folder `book/website/_build/html` where all of the HTML files are saved.
 This is the same command used to prepare the book for deployment to the website.
 
-
 ## Clean Up After a Build
 
 The build process generates a lot of files.
@@ -156,6 +159,7 @@ Run the strict build with,
 ```console
 make strict
 ```
+
 (recommend)=
 ## Why We Recommend Using a Virtual Environment
 
