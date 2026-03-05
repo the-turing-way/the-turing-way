@@ -51,9 +51,9 @@ alt: A group of people collaboratively developing a data visualisation by using 
 ### Books and Articles
 
 - [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/) by {cite:ps}`Wilke2019dataviz`
-- [Data Visualisation, A practical introduction](https://socviz.co/) by {cite:ps}`Healy2018dataviz`
-- [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161) by {cite:ps}`Jambor2021dataviz`
-- [A layered grammar of graphics](http://dx.doi.org/10.1198/jcgs.2009.07098) by {cite:ps}`Wickham2010dataviz`
+- Data Visualisation, A practical introduction by @Healy2018dataviz
+- Creating clear and informative image-based figures for scientific publications by @Jambor2021dataviz
+- A layered grammar of graphics by @Wickham2010dataviz
 - A Field Guide to Digital Color by @Stone2003dataviz
 - The Grammar of Graphics by @Wilkinson1999dataviz
 - The Visual Display of Quantitative Information by @Tufte2001dataviz
