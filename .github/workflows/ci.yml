@@ -29,7 +29,7 @@ jobs:
     steps:
       - name: Extract the PR number from the ref
         # only for pull requests from the all-contributors bot
-        if: ${{ contains(github.head_ref, 'all-contributors') }} && contains(matrix.os, 'ubuntu')
+        if: ${{ contains(github.head_ref, 'all-contributors') && contains(matrix.os, 'ubuntu') }}
         id: pr_number
         run: |
           if [[ ${{ github.ref }} =~ [0-9]+ ]]; then
@@ -40,7 +40,7 @@ jobs:
 
       - name: Post a comment about skipping this workflow
         # only for pull requests from the all-contributors bot
-        if: ${{ contains(github.head_ref, 'all-contributors') }} && contains(matrix.os, 'ubuntu')
+        if: ${{ contains(github.head_ref, 'all-contributors') && contains(matrix.os, 'ubuntu') }}
         uses: peter-evans/create-or-update-comment@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
