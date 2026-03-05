@@ -83,7 +83,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
     -   [What should we do to improve our graphics and figures?](https://www.youtube.com/watch?v=00Fha1lkRxk)
     -   [Graphical Excellence](https://www.youtube.com/watch?v=VkyzSAPkQ50)
 - Workshop: [Missing Data Exploration, Imputation, and Evaluation](https://www.youtube.com/watch?v=MTHgZNB5Wxw) by Hanne Oberman
-- [violin plots should not exist](https://www.youtube.com/watch?v=_0QMKFzW9fw) by Angela Collier 
+- [Violin plots should not exist](https://www.youtube.com/watch?v=_0QMKFzW9fw) by Angela Collier 
 
 ### Podcasts
 
