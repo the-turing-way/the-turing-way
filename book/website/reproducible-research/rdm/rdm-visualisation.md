@@ -35,10 +35,11 @@ alt: A group of people collaboratively developing a data visualisation by using 
 
 - [Tips to improve interpretability and accessibility](https://www.youtube.com/watch?v=RzT95DVUMnw) by Dr Tracey Weissgerber (video)
 - [Writing Meaningful Alt-Texts for Data Visualisations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
-- [Writing Alt Text to communicate the meaning in data visualizations] by @Hare2022dataviz
+- Writing Alt Text to communicate the meaning in data visualizations by @Hare2022dataviz
 - [Alt-texts](https://axesslab.com/alt-texts/)
 - [Writing Alt Text](https://dataabinitio.com/?p=1161) for a Scientific Figure by Kristin Briney
-- [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) (To get started, use Amy Cesal's quick formula: [alt text = Chart type of type of data where reason for including chart. Link to data.])
+- [Writing Alt Text for Data Visualization](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
+  To get started, use Amy Cesal's quick formula: [alt text = `chart type` of `type of data` where `reason for including chart`. `Link to data`.]
 
 (rr-rdm-visualisation-colours)=
 ## Colours
@@ -56,7 +57,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - A Field Guide to Digital Color by @Stone2003dataviz
 - The Grammar of Graphics by @Wilkinson1999dataviz
 - The Visual Display of Quantitative Information by @Tufte2001dataviz
-- [Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images](https://doi.org/10.1007/s11948-010-9201-y)
+- Avoiding Twisted Pixels: Ethical Guidelines for the Appropriate Use and Manipulation of Scientific Digital Images by [](https://doi.org/10.1007/s11948-010-9201-y)
 
 ### Other text resources and examples
 

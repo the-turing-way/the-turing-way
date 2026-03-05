@@ -33,7 +33,7 @@ When you are ready to [release the data to the wider community](#rr-rdm-sharing)
 ## Data Organisation
 
 To organise your data, you should use a clear folder structure to ensure that you can find your files. 
-We encourage you to use an existing template, such as the [Tonic Research Project Template](https://github.com/tonic-team/Tonic-Research-Project-Template) (see also [below for more examples](#rr-rdm-storage-organisation-example)).
+We encourage you to use an existing template, such as the [Tonic Research Project Template](https://github.com/tonic-team/Tonic-Research-Project-Template) (see also [below for more examples](#rr-rdm-storage-organisation-examples)).
 
 
 ```{figure}  ../../../figures/file-management-manual.jpg
