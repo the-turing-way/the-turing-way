@@ -43,6 +43,7 @@ If you have not read the chapters on [](#rr-open) and [](#cm-citable) yet, you m
 - [Make Your Research Reproducible: Practical Guide for Researchers](https://doi.org/10.5281/zenodo.11146986)
 - [DANS RDM/FAIR FAQ](https://dans.knaw.nl/en/training-faq/)
 - [Data curation primers](https://datacuration.network/outputs/data-curation-primers/) by the Data Curation Network
+- [A Curated Collection of Data Management Resources](https://cghlewis.com/blog/data_mgmt_resources/)
 
 ### Podcasts
 
