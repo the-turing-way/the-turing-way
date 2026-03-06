@@ -21,21 +21,20 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 - _Cloud storage_ provides a convenient way to store, backup and retrieve data.
 You should check terms of use before using them for your research data.
 
-Especially if you are handling personal or sensitive data, you need to ensure the cloud option is compliant with any data protection rules the data is bound by.
+Especially if you are handling personal or sensitive data (see [](#pd-sdp) for more information), you need to ensure the cloud option is compliant with any data protection rules the data is bound by.
 To add an extra layer of security, you should encrypt devices and files where needed.
 
 Your institution might provide local storage solutions and policies or guidelines restricting what you can use.
 Thus, we recommend you familiarise yourself with your local policies and recommendations.
 
-When you are ready to release the data to the wider community, you can also search for the appropriate databases and repositories in [FAIRsharing](https://fairsharing.org/databases), according to your data type, and type of access to the data.
-Learn more about this in the {ref}`rr-rdm-sharing` subchapter.
+When you are ready to [release the data to the wider community](#rr-rdm-sharing), you can also search for the appropriate databases and repositories in [FAIRsharing](https://fairsharing.org/databases), according to your data type, and type of access to the data.
 
 (rr-rdm-storage-organisation)=
 ## Data Organisation
 
 To organise your data, you should use a clear folder structure to ensure that you can find your files. 
-We encourage you to use an existing template.
-An open source project created a quite complete one at https://github.com/tonic-team/Tonic-Research-Project-Template 
+We encourage you to use an existing template, such as the [Tonic Research Project Template](https://github.com/tonic-team/Tonic-Research-Project-Template) (see also [below for more examples](#rr-rdm-storage-organisation-examples)).
+
 
 ```{figure}  ../../../figures/file-management-manual.jpg
 ---
@@ -60,6 +59,8 @@ You can structure folders based on the person that has generated the data/folder
 - See [this template](https://osf.io/4sdn3/) by Chris Hartgerink for file organisation on the [Open Science Framework](https://osf.io/).
 - [How to Organize Your Digital Files](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/) by Melanie Pinola.
 - [Project structure videos by Danielle Navarro](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=1) (with [slides](https://slides.djnavarro.net/project-structure/#1)).
+- [Research Project Template](https://github.com/HeidiSeibold/research-project-template) by Heidi Seibold
+- [ASCII folder structure diagram: Tree](https://tree.nathanfriend.com/)
 
 ### More Information on Data Organisation
 - [How to organise your data and code](https://renebekkers.wordpress.com/2021/04/02/how-to-organize-your-data-and-code) by Rene Bekkers. 
@@ -67,6 +68,7 @@ You can structure folders based on the person that has generated the data/folder
 (rr-rdm-storage-conventions)=
 ## File Naming Conventions
 
+A File Naming Convention or [Style Guide](https://datamgmtinedresearch.com/style) ensures that your data and [code](https://indrajeetpatil.github.io/second-hardest-cs-thing/#/dealing-with-the-second-hardest-thing-in-computer-science) files are consistently named. 
 Structure your file names and set up a template for this.
 For example, it may be advantageous to start naming your files with the date each file was generated (such as `YYYYMMDD`).
 This will sort your files chronologically and create a unique identifier for each file.
@@ -78,13 +80,15 @@ Some other tips for file naming include:
 - Use the file type
 - Use the researcher's name/initials
 - Use the version number of file (v001, v002) or language used in the document (ENG)
+- Use zero padded numbers when generating a lot of data (00001)
 - Do not make file names too long (this can complicate file transfers)
 - Avoid special characters `()?\!@\*%{[<>` and spaces
 - Hyphens `-` and underscores `_` can be used to separate related and unrelated chunks, respectively
-- Keep in mind that some operating systems are case-sensitive, some are not
+- Keep in mind that some operating systems are case-sensitive - by using lowercase you can avoid potential problems
 - Avoid personal data in file names
 
-You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
+You can explain the file naming convention in a [README.txt file](#rr-rdm-readme) so that it will also become apparent to others what the file names mean.
+Naming the file names with a schema will also make it easier to keep track of what file corresponds to what variables or settings you have used, facilitating data searches/queries. 
 
 For further guidance on file naming: 
 - [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
@@ -115,7 +119,7 @@ To avoid losing your data, you should follow good backup practices.
 Backups are ideally done automatically and should take into consideration your institute's guidelines.
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them proves to be challenging or expensive, you may want to create a set of criteria for when you back up the data.
-This can be part of your {ref}`Data Management Plan<rr-rdm-dmp>`.
+This can be part of your [](#rr-rdm-dmp).
 
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
 
