@@ -49,7 +49,7 @@ If [the spreadsheet is poorly organised](https://luisdva.github.io/pls-don't-do-
 Indeed, a large part of the work of data scientists is to transform the data into a form that the computer can read. 
 However, this is incredibly time-consuming when the information is split between several spreadsheets and when there are no concrete data transformation plans before the data is acquired.
 
-There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815) {cite:ps}`Wickham2014tidydata`. 
+There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815), see @Wickham2014tidydata. 
 The tidy data format allows for filtering and sorting data easily in spreadsheet software. 
 
 In short:
@@ -169,9 +169,9 @@ One needs to make sure the information is entered in the column during digitalis
 The way you enter the information (that is, the way you design your headers and cell content) may be different depending on the analysis you want to perform.
 One should still always try to be as generic and objective as possible and think about any additional analyses one may want to perform. 
  
-As an example, let us suppose you are interested in depicting if the percentage of flowers whose sepal length is longer than 6 mm is different in three iris species.
-You may be inclined to record a true or false column `is-sepal-longer-than-6cm`, but this will restrict the analysis you can perform.
-A better solution is to record the length of the sepal (in mm) and automatically create the categorization later.
+As an example, let us suppose you are interested in depicting if the percentage of [penguins](https://github.com/allisonhorst/palmerpenguins) are taller than 30 cm in three different penguin species.
+You may be inclined to record a true or false column `is-penguin-longer-than-30cm`, but this will restrict the analysis you can perform.
+A better solution is to record the length of the penguin (in mm) and automatically create the categorization later.
 
 Headers names should be chosen with care, and when it is not clear what is meant and what unit is used, you may want to add some explanation in an external document. 
 You may also share a sample spreadsheet to a colleague to receive feedback on how understandable your sheet is.
