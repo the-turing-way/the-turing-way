@@ -168,6 +168,8 @@ project:
               title: Software Management Plan
             - file: reproducible-research/rdm/rdm-fair.md
               title: The FAIR Principles and Practices
+            - file: reproducible-research/rdm/rdm-care.md
+              title: The CARE Principles
             - file: reproducible-research/rdm/rdm-personal.md
               title: Personal data management
             - file: reproducible-research/rdm/rdm-storage.md
