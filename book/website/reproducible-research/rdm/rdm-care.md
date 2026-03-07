@@ -45,7 +45,7 @@ alt: >
   E2 for justice.
   E3 for future use. 
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+The CARE principles, figure by [Carroll et al. 2020](https://doi.org/10.5334/dsj-2020-043).
 ```
 
 The [Global Indigenous Data Alliance](https://www.gida-global.org/care) has made further resources available and translated the CARE principles in other languages. 
