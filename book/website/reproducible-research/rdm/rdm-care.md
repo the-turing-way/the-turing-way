@@ -7,18 +7,46 @@ Concerns about secondary use of data and limited opportunities for benefit-shari
 The CARE Principles of Indigenous Data Sovereignty apply whenever you’re collecting data with or that belong to a particular community:
 
 **Collective Benefit**
+
 Data must facilitate collective benefit to enable Indigenous People to achieve inclusive development and innovation, improve governance and citizen engagement, and realize equitable outcomes.
 
 **Authority to Control**
+
 Recognition of the rights of Indigenous communities to govern data.
 
 **Responsibility**
+
 Those working with Indigenous data have a responsibility to share how those data are used to support Indigenous Peoples’ self determination and collective benefit.
 
 **Ethics**
+
 Indigenous Peoples’ rights and well being should be the primary concern at all stages of the data life cycle and across the data ecosystem.
 
-(CC-BY image of the CARE princples)
+```{figure} ../../../figures/care-principles.*
+---
+name: care-principles
+alt: >
+  Image in teal and grey scale showing the abbreviation CARE with all of the three subprinciples per letter. 
+  In between the CARE letters there is a connection symbol which forms a cross and two smaller squares next to it.
+  C stands for Collective Benefit. 
+  C1 is for inclusive development and innovation.
+  C2 is for improvement governance and citizen engagement.
+  C3 is for equitable outcomes.
+  A stands for Authority to Control. 
+  A1 - recognizing rights and interests.
+  A2 - data for governance
+  A3 - Governance of data
+  R stands for responsibility.
+  R1 for positive relationships
+  R2 for expanding capability and capacity.
+  R3 for Indigenous languages and worldviews
+  E stands for ethics.
+  E1 for minimizing harm and maximizing benefit.
+  E2 for justice.
+  E3 for future use. 
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 The [Global Indigenous Data Alliance](https://www.gida-global.org/care) has made further resources available and translated the CARE principles in other languages. 
 
