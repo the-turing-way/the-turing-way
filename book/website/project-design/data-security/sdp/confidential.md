@@ -5,7 +5,13 @@
 ## Definition of confidential data
 
 Confidential data is sensitive data that doesn't identify someone personally, but it is information that still needs to remain private. 
-You would not want it to be shared with others.  
+
+Confidential data should not be shared when there are: 
+- Commercial constraints
+- Security constraints
+- Ethical considerations
+- Risk of harm to subjects of research
+- Legal constraints
 
 Some ways to recognise confidential data are:
 * information considered private by an individual. 
