@@ -36,9 +36,9 @@ To validate the data you can check if data are:
 
 Creating tables, plots, or calculating summaries and statistics are a helpful way to search for errors.
 
-## 3. Remove unnecessary data, duplicates and consider outliers
+## 3. Remove unnecessary or sensitive data, duplicates and consider outliers
 
-Each unnecessary entry can complicate your analyses distort your findings. 
+Each unnecessary entry can complicate your analyses distort your findings, and you should carefully considered if your dataset contains any sensitive data or [](pd-sdp-personal)that should not be shared. 
 Delete draft or test entries and duplicates, after carefully reviewing if they are indeed test entries or duplicates. 
 Consider unexpected data, such as unusually high or low values. 
 These could be data entry errors, but they may also be the most interesting findings! 
@@ -92,7 +92,10 @@ This may save time and will guarantee that at least one other person is able to 
 Consider setting up a [data cleaning day at the lab](https://www.dataorchard.org.uk/news/introducing-the-data-cleaning-day) to hold each other accountable, and make sure that lab/data cleaning activities are equitably distributed. 
 You can also outline data cleaning activities in the [Team/Lab manual](#cl-team-manual).
 
-## Resources
+(rr-rdm-cleaning-resources)=
+# Resources
 
 * [Data Cleaning](https://datamgmtinedresearch.com/clean), chapter in Data Management in Large-Scale Education Research
+* [Data cleaning for data sharing](https://cghlewis.com/blog/data_clean_01/) by Crystal Lewis
 * [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide/tree/master)
+* [Clean your data](https://theresearchcompanion.com/cleandata/), for a more qualitative perspective on data cleaning
