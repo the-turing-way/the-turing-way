@@ -5,14 +5,7 @@ environment = { PYTHON_VERSION = "3.13" }
 publish = "website/_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
-[context.deploy-preview]
-  ignore = '''
-if echo $HEAD | grep "^all-contributors"; then
-  return 0
-else
-  return 1
-fi
-'''
+ignore = "git log -1 --pretty=%B | grep all-contributors"
 
 # Enable other sites to access and cross-reference the-turing-way content dynamically
 [[headers]]

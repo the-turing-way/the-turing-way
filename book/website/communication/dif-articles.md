@@ -49,6 +49,6 @@ The linking of these articles is one way to fully publish a reproducible researc
 
 Having separate article types for these outputs allows the people involved, such as research software engineers and data stewards, to receive sufficient credit, attribution and visibility for their work and contributions, particularly as publications are still the main currency by which researchers are evaluated.
 
-Theses articles are also important for the sustainability, reproducibility and openness of these research outputs as writing detailed publications means greater care and attention is directed at describing and explaining these outputs and in turn makes these outputs more FAIR (findable, accessible, interoperable and reusable).
+These articles are also important for the sustainability, reproducibility and openness of these research outputs as writing detailed publications means greater care and attention is directed at describing and explaining these outputs and in turn makes these outputs more FAIR (findable, accessible, interoperable and reusable).
 
 Note: in this chapter and subchapter we are using the word 'article' and 'paper' interchangeably. 

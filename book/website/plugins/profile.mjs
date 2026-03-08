@@ -124,7 +124,7 @@ const communityRolesRole = {
   docs: "Create a list of your roles in the community",
   body: {
     type: String,
-    doc: "A semicolon-seperated (;) list of roles",
+    doc: "A semicolon-separated (;) list of roles",
     required: true,
   },
   run(data) {
@@ -291,7 +291,7 @@ const profileDirective = {
     }
 
     // Create label from name
-    const label = "profile-" + name.replace(" ", "-").toLowerCase();
+    const label = "profile-" + name.replaceAll(" ", "-").toLowerCase();
 
     // Create card
     let card = {

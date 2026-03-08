@@ -24,6 +24,47 @@ Illustration about peer review.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
+(rr-rdm-readme)=
+### README for datasets
+
+A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others.
+A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
+
+README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used).
+See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
+
+#### README tips and examples
+
+* Create one README file for each dataset
+* Name the file README
+* Use plain text file (`README.txt` or `README.md`).
+  Or use README.pdf when text formatting is important for your file.
+
+Example templates:
+
+* [Cornell Template](https://cornell.app.box.com/v/ReadmeTemplate)
+* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf)
+
+(rr-rdm-codebook)=
+### Codebook or Data dictionary
+
+A data dictionary or codebook ensures that the dataset is interpretable and reusable in the future, and has also been called the '[single most important piece of documentation you will create in your research study](https://cghlewis.com/blog/data_dictionary/)'. 
+A guiding question when setting up your data dictionary is: Can another researcher analyse/interpret the data using solely the codebook?
+
+* Useful codebooks are human and machine readable (information provided can be accessed using automated approaches) and consistent.
+* The codebook should at least list all variables and labels that are included in the dataset/article, and may include additional variables. 
+* You should explain the (range) of numerical values, units of measurement, sources, classification schemes used, or labels of questions asked.
+* You can also include documentation or metadata not shown in the dataset itself, with an explanation of why it is not included in the final data/article, or outline in detail what missing data means (if there is any in the dataset).
+
+You can check the [OSF guidance for data dictionaries](https://help.osf.io/article/217-how-to-make-a-data-dictionary) for more detailed variable guidance. 
+
+When using a spreadsheet as a codebook, the same formatting principles apply as to regular [spreadsheet data](#rr-rdm-spreadsheets) 
+
+#### Data dictionary examples
+
+* See Tables 1 and 2 in [Horstmann et al. 2020](https://doi.org/10.1027/1015-5759/a000620) or their [templates in spreadsheet format](https://osf.io/nerpa/)
+
+
 (rr-rdm-metadata-metadata)=
 ## Metadata
 
@@ -49,33 +90,29 @@ The use of community-defined standards for metadata is vital for reproducible re
 Metadata standards are also discipline-specific.
 For example, for brain data, the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standard to use.
 Not every discipline may use metadata standards, however.
-You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline. 
-There are also situations when researchers make use of more general metadata standards, for example when they use a generic archive to store their data they have to adhere to the metadata standards of the archive. 
+You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline.
 
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
 
 Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
 
 
-(rr-rdm-readme)=
-## README for datasets
+(rr-rdm-metadata-pid)=
+### PID Metadata
 
-A README file provides information about data (or software) and is intended to help ensure that the data can be correctly interpreted and used, by yourself or others. 
-A README file is generally shared together with an open dataset, or can be the [landing page of your software/project repository](#pd-project-repo-readme).
+{abbr}`PID (Persistent Identifier)` metadata is metadata submitted to PID registration agencies, most repositories handle PID metadata automatically through API integration, it enables your work to be discoverable across disciplines and platforms.
 
-README text files should describe the methods used for data collection and analysis and include data/software-specific information (parameters, variables, column headings, symbols used). 
-See [Make a README](https://www.makeareadme.com/) for more information on why README files are important and how you can set up your own README files.
+PID metadata includes core properties like:
+- Creator names and affiliations
+- Title and description
+- Publication date and resource type
+- Relationships to other research outputs (such as citations or dataset-paper links)
 
-### README tips and examples 
-    
-* Create one README file for each dataset
-* Name the file README
-* Use plain text file (README.txt or README.md). Or use README.pdf when text formatting is important for your file.
+Unlike domain-specific metadata (such as the Brain Imaging Data Structure for neuroimaging data), PID metadata follows standardized schemas that are discipline agnostic.
+Both types of metadata are valuable - PID metadata enables broad discoverability while domain-specific metadata captures the detailed context needed for reuse within your field.
 
-Example templates:
+Learn about how repositories generate PID metadata and the distinction between these metadata types in our [chapter on persistent identifiers](#rr-rdm-pid-metadata).
 
-* [Cornell Template](https://cornell.app.box.com/v/ReadmeTemplate)
-* [4TU.ResearchData’s guidelines for readme files](https://data.4tu.nl/s/documents/Guidelines_for_creating_a_README_file.pdf) (pdf)
 
 
 (rr-rdm-metadata-tagging)=

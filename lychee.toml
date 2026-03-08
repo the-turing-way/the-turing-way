@@ -7,9 +7,6 @@ verbose = "error"
 # Don't show interactive progress bar while checking links.
 no_progress = false
 
-# Path to summary output file.
-# output = ".config.dummy.report.md"
-
 #############################  Cache  ###############################
 
 # Enable link caching. This can be helpful to avoid checking the same links on
@@ -21,10 +18,6 @@ max_cache_age = "2w"
 
 #############################  Runtime  #############################
 
-# Number of threads to utilize.
-# Defaults to number of cores available to the system if omitted.
-# threads = 2
-
 # Maximum number of allowed redirects.
 max_redirects = 10
 
@@ -33,6 +26,12 @@ max_retries = 2
 
 # Maximum number of concurrent link checks.
 max_concurrency = 14
+
+# extension applied to files without extension
+default_extension = "html"
+
+# Resolve directories to index files
+index_files = ["index.html"]
 
 #############################  Requests  ############################
 
@@ -61,23 +60,12 @@ require_https = true
 # Request method
 method = "get"
 
-# Custom request headers
-headers = []
-
-# Remap URI matching pattern to different URI.
-# remap = [ "https://example.com http://example.invalid" ]
-
 # Fallback extensions to apply when a URL does not specify one.
 # This is common in documentation tools that cross-reference files without extensions.
 fallback_extensions = ["md", "html"]
 
-# Base URL or website root directory to check relative URLs.
-# base = "https://example.com"
-
-# HTTP basic auth support. This will be the username and password passed to the
-# authorization HTTP header. See
-# <https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization>
-# basic_auth = "user:pwd"
+# Root path to use when checking absolute local links, must be an absolute path
+root_dir = "book/website/_build/html/"
 
 #############################  Exclusions  ##########################
 
@@ -104,9 +92,6 @@ exclude_path = [
   "book/website/_build/html/build/",
   ]
 
-# URLs to check (supports regex). Has preference over all excludes.
-# include = [ 'gist\.github\.com.*' ]
-
 # Exclude all private IPs from checking.
 # Equivalent to setting `exclude_private`, `exclude_link_local`, and
 # `exclude_loopback` to true.
@@ -121,5 +106,5 @@ exclude_link_local = false
 # Exclude loopback IP address range and localhost from checking.
 exclude_loopback = false
 
-# Exclude all mail addresses from checking.
-exclude_mail = false
+# Include all mail addresses.
+include_mail = true
