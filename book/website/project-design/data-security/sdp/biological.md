@@ -46,17 +46,25 @@ Therefore data should only be restricted when harm to the environment, harm to p
 Some types of biological data, particularly related to biodiversity, should not be shared openly. 
 These data should be kept partially or completely private. 
 However, attempts should be made to provide access to researchers or individuals who can prove a need for these data such as reuse for research purposes or to peer review research.
+Researchers should conduct an assessment of the risks versus benefits of publishing biological data to decide whether (part of the) data can be shared. 
 
 Each country will have specific legal restrictions for rare and endangered species, as well as biosafety regulations, that have to be taken into account for each dataset.
 
+The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts @tulloch2018decision.
+
+(pd-sdp-biological-opening)=
+## Opening up sensitive biological data
 The types of data that need to be considered sensitive include occurrence data surrounding the exact location of rare, endangered or commercially valuable organisms.
 
-Sensitive occurrence data that includes exact locations for organisms can be generalised in different ways to minimise or take away the potential harm of openly publishing the data.
+In order to protect sensitive biological data, several measures can be taken: 
+- Exact locations for organisms can be generalised in different ways to minimise or take away the potential harm (see [Thorpe et al. 2026](https://doi.org/10.5281/zenodo.17588795)
+  - Decreasing the precision or resolution of the coordinates, for example by 0.1 degree.
+  - Using hexagons around the location (the Discrete Global Grid System) ([Caspari et al. 2024](https://doi.org/10.1038/s41597-024-03354-5))
+  - Obscuring the location by adding a buffer around the point or polygon.
+  - Replacing the coordinates by the name of an administrative unit.
+- Different levels of access can be provided, by providing a general location to the public and more detailed information under restricted access only available to other researchers. 
 
 Current best practice is discussed by [Chapham (2020)](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf), who sets out 10 principles for generalising sensitive species occurrence data to enable data sharing.
-
-It is also worth researchers conducting an assessment of the risks versus benefits of publishing biological data.   
-The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts @tulloch2018decision.
 
 (pd-sdp-biological-examples)=
 ## Examples of projects and issues with biological data
