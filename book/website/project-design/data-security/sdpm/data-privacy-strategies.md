@@ -20,7 +20,7 @@ An alternative is the **physical destruction** of the storage media.
 If you [encrypted](#pd-sdpm-privacy-encryption) the data, you can also **delete the encryption key**.
 
 (pd-sdpm-privacy-transfer)=
-## 3. Secure data transfer
+## 3 Secure data transfer
 * Before deciding to transfer personal data, you should consider whether the transfer of identifiable data is necessary.
 For example, can data be de-identified or anonymised? 
 * If data cannot be made unidentifiable then you must ensure you have authority to transfer the personal data, and that there are appropriate safeguards in place to protect the data before, during and after transit.
@@ -65,6 +65,9 @@ Further, data and outputs containing small cell counts may be potentially disclo
 * Watch a presentation on [Amnesia – Data Anonymisation Made Easy](https://www.youtube.com/watch?v=9wu_xGeYsQw) or a webinar on [Amnesia - a tool to make anonymisation easy](https://www.youtube.com/watch?v=9wu_xGeYsQw)
 * Or read an [explanation by the Finnish social science data archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/)
 * [Anonymisation step-by-step](https://ukdataservice.ac.uk/learning-hub/research-data-management/anonymisation/anonymisation-step-by-step/)
+*  McGill Data Anonymization Workshop Series: [Reducing Risk: An Introduction to Data Anonymization](https://www.youtube.com/watch?v=IAmxErXPvHU&list=PLfMfJihLOASUMZwKQ32OQkOfTEv20spmH&index=1) and [Ethically sharing qualitative data](https://www.youtube.com/watch?v=eSZzUD4EVMQ&list=PLfMfJihLOASUMZwKQ32OQkOfTEv20spmH&index=3)
+*  [Anonymisation](https://ukdataservice.ac.uk/learning-hub/research-data-management/#anonymisation) by UK Data Services
+*  [Anonymisation and open data: an introduction to managing the risk of re-identification](https://theodi.hacdn.io/media/documents/OPEN-RDP8-Anonymisation-and-open-data_-An-introduction-to-managing-the-risk-of_thVQCgw.pdf) by the Open Data institute (2019)
 * Tools for anonimisation
    * [Amnesia](https://amnesia.openaire.eu/) (tabular data)
    * [ARX[(https://arx.deidentifier.org/) (tabular data)
@@ -72,6 +75,18 @@ Further, data and outputs containing small cell counts may be potentially disclo
    * [mri_deface](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface) (MRI data)
    * [MITRE Identification Scrubber Toolkit (MIST)](http://mist-deid.sourceforge.net/) (free text medical records)
    * [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) (for unstructured text)
+
+## 7 Synthethic data
+It is also possible to generate a synethic dataset that mimics a real dataset. 
+A syntethic dataset preserves some of the aspects and characteristics of the real data, yet generates a different dataset which can safeguard the original senstive data.
+
+### More syntethic data information
+- Read more about [syntethic data on the Data Impact Blog](https://blog.ukdataservice.ac.uk/not-real-but-really-useful-synthetic-data-a-cost-benefit-analysis-of-its-practical-value/)
+- A webinar on [The Practices of Sharing Synthetic Dataset](https://www.youtube.com/watch?v=0epApx2S5-o)
+- Tools:
+   - [synthcity](https://github.com/vanderschaarlab/synthcity): A library for generating and evaluating synthetic tabular data
+   - [synthea](https://synthetichealth.github.io/synthea/)
+   - [metasyn](https://github.com/sodascience/metasyn)
 
 ## More information
 - [Data minimization and de-identification](https://www.rug.nl/digital-competence-centre/privacy-and-data-protection/data-protection/guide-on-data-minimization-and-de-identification-v0-2.pdf) by the University of Groningen
