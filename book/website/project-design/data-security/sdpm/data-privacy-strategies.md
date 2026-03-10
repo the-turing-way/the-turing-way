@@ -87,6 +87,7 @@ A syntethic dataset preserves some of the aspects and characteristics of the rea
    - [synthcity](https://github.com/vanderschaarlab/synthcity): A library for generating and evaluating synthetic tabular data
    - [synthea](https://synthetichealth.github.io/synthea/)
    - [metasyn](https://github.com/sodascience/metasyn)
+   - [Pointblank](https://posit.co/blog/building-realistic-fake-datasets-with-pointblank/) (Python library)
 
 ## More information
 - [Data minimization and de-identification](https://www.rug.nl/digital-competence-centre/privacy-and-data-protection/data-protection/guide-on-data-minimization-and-de-identification-v0-2.pdf) by the University of Groningen
