@@ -6,29 +6,29 @@
 In this document, we provide an overview of resources and ways of working in the community.
 Although, most of these resources are described in different chapters, you can always return to this page to find quick access to useful pointers and links.
 
-You can get started by exploring different opportunities [listed on our start page](https://the-turing-way.start.page/).
+You can get started by exploring different opportunities [listed on our start page](https://the-turing-way.org).
 
 ## 1. Getting to Know the Project
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
-| Where can I browse its resources and chapters? | Check out the [Online Book](https://the-turing-way.netlify.app) |
+| Where can I browse its resources and chapters? | Check out the [Online Book](https://book.the-turing-way.org) |
+| Where can I learn about the next community event that I can join? | You can look at upcoming events in [the calendar](#ch-community-calls-calendar). We also share them regularly in our [monthly newsletters](https://calendar.the-turing-way.org). |
 | Where are the raw files for these chapters stored? | Online on [GitHub repository](https://github.com/the-turing-way/the-turing-way/) |
-| How Can I get updates regularly? | Follow us on social platform as [listed on our start page](https://the-turing-way.start.page/) |
-| Is there a dedicated chat system for the community? | Join the [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA). |
-| Are there monthly updates I can receive? | We send [newsletters monthly](https://the-turing-way.netlify.app/community-handbook/newsletters.html): [subscribe here](https://buttondown.email/turingway). |
+| How Can I get updates regularly? | Follow us on social platform as [listed on our start page](https://the-turing-way.org) |
+| Is there a dedicated chat system for the community? | Join the [Slack workspace](https://slack.the-turing-way.org). |
+| Are there monthly updates I can receive? | We send [newsletters monthly](#ch-newsletters): [subscribe here](https://news.the-turing-way.org). |
 | What happened in the project last year? | Read previous reports in the [project communication repo](https://github.com/the-turing-way/communications). |
-| Are there some presentations I can look at? | You can find them linked [to this chapter](https://the-turing-way.netlify.app/community-handbook/presenting). |
+| Are there some presentations I can look at? | You can find them linked [to this chapter](#ch-presenting). |
 | I don't feel like reading, can I watch short videos? | Here is a [YouTube playlist with short videos](https://www.youtube.com/playlist?list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe). |
-| Where can I learn about the next community event that I can join? | We share them regularly in our [monthly newsletters](https://buttondown.email/turingway/archive/). |
 
 ## 2. Documentation and Participation Guidelines 
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
 | Can I use its resources without being a part of this project? | Yes! The book is available for free under [CC-BY License](https://github.com/the-turing-way/the-turing-way/blob/master/LICENSE.md). |
-| What is expected of me if I participate in the community? | Please read and abide by the {ref}`Code of Conduct<ch-coc>`. |
-| Is there a guideline for people to contribute to the GitHub repository? | We have a [Contribution Guideline](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md). |
+| What is expected of me if I participate in the community? | Please read and abide by the [](#ch-coc). |
+| Is there a guideline for people to contribute to the GitHub repository? | We have [Contribution Guidelines](#ch-contributing). |
 | I am super new to GitHub. How does it work? | See this chapter on {ref}`Getting Started with GitHub<cl-github-novice>` |
 | Is there a recommended format for the chapters? | Yes. Please see this {ref}`Style guide<ch-style>` and recommendations on how to {ref}`Maintain Consistency<ch-consistency>`|
 | Are there any templates and supporting materials for people writing chapters? | Here are some templates and workflows for {ref}`Contributing and Developing Chapters<ch-contributing>` |
@@ -37,22 +37,24 @@ You can get started by exploring different opportunities [listed on our start pa
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
-| What kind of topics are in the scope for *The Turing Way*? | Any topic in research and data science practices that fit in these guides: [Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html), [Project Design](https://the-turing-way.netlify.app/project-design/project-design.html), [Communication](https://the-turing-way.netlify.app/communication/communication.html), [Collaboration](https://the-turing-way.netlify.app/collaboration/collaboration.html), [Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html) |
-| Where can I learn more about the community? | We have [Community Handbook](https://the-turing-way.netlify.app/community-handbook) describing these aspects. |
+| What kind of topics are in the scope for *The Turing Way*? | Any topic in research and data science practices that fit in these guides: [Reproducible Research](#rr), [Project Design](#pd), [Communication](#cm), [Collaboration](#cl), [Ethical Research](#er) |
+| Where can I learn more about the community? | We have [Community Handbook](#ch) describing these aspects. |
 | What ideas, resources or improvements in the book are being suggested by others? | Browse open [issues on GitHub](https://github.com/the-turing-way/the-turing-way/issues) |
 | What contributions are currently being made by others? | Browse open [Pull Requests (PR) on GitHub](https://github.com/the-turing-way/the-turing-way/pulls) |
 | How do people interact with each other when reviewing contributions? | Click on an open PR that has been commented on to see how people exchange ideas and feedback. [See this example](https://github.com/the-turing-way/the-turing-way/pull/1656). Also, join our Slack Workspace to be part of conversations. |
 
 ## 4. Participating Synchronously
 
-*Note: Find out about the latest events in our [monthly newsletters](https://buttondown.email/turingway/archive/).*
+:::{seealso}
+Find out about the latest events in our [monthly newsletters](https://news.the-turing-way.org).
+:::
 
 | Types of calls/meetings | How |
 |:----------------------- |:---------------------------------|
-| What is a {ref}`ch-community-calls-collabcafe`? | These are open coworking calls for anyone interested in collaborating with _The Turing Way_ members. These take place every first and third Wednesday of each month, 15:00 - 17:00 UK time. |
+| What is a [Collaboration Cafe](#ch-community-calls-collabcafe)? | These are open coworking calls for anyone interested in collaborating with _The Turing Way_ members. You can look for upcoming collaboration cafes in [the community calendar](#ch-community-calls-calendar) |
 | {ref}`ch-bookdash` | These are a week-long events organised twice a year. Participants are selected through open calls for applications. |
 | What is a {ref}`Fireside Chat<ch-fireside-chat>`? | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
-| What is a Community Forum? | These online calls bring together any member of the community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
+| What is a [Community Forum](#ch-community-calls-forums)? | These online calls bring together any member of the community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
 | What are onboarding calls? | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
 | Are there Working Group Meetings? | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. Anyone interested in their work can contact the chair to join these calls. |
 | Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team and community on Slack workspace. |

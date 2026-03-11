@@ -14,15 +14,11 @@ These are good places to begin new discussions by creating a new issue or join t
 If our contributors want to start to get to know the project or want to return after a long break, they can begin with our good first issues.
 If they have a new idea that they would like to add to the project as a new section in an existing chapter, or as a whole new chapter, they can start by creating a new issue.
 
-## Attend our online Collaboration Cafe and coworking calls
+## Attend our online Collaboration Cafe
 
-Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesdays on each month.
-These calls are 2 hour long co-working spaces for the _The Turing Way_ community.
-Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls, you can work on ideas for a new contribution or enhancement of existing content in the project.
-
-Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/\@KirstieJane/CollabCafe.
-Anyone who would like to host these calls at other times, please get in touch with the team members.
-See more details in the {ref}`Coworking Calls<ch-community-calls-coworking>` chapter.
+Our online [Collaboration Cafes](#ch-community-calls-collabcafe) are calls are longer co-working spaces for the _The Turing Way_ community.
+Everyone interested in learning from or developing this project can join us for any duration possible for them.
+At these calls, you can work on ideas for a new contribution or enhancement of existing content in the project.
 
 ## Reviewing open pull requests
 
