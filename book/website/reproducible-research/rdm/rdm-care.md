@@ -14,6 +14,7 @@ Data must facilitate collective benefit to enable Indigenous People to achieve i
 
 Recognition of the rights of Indigenous communities to govern data.
 
+This may also include consideration about the governance structure of the data repository and the location of the data servers.
 **Responsibility**
 
 Those working with Indigenous data have a responsibility to share how those data are used to support Indigenous Peoples’ self determination and collective benefit.
