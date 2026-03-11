@@ -4,7 +4,7 @@ Concerns about secondary use of data and limited opportunities for benefit-shari
 
 > "‘CARE Principles for Indigenous Data Governance’ (Collective Benefit, Authority to Control, Responsibility, and Ethics) in consultation with Indigenous Peoples, scholars, non-profit organizations, and governments. The CARE Principles are people– and purpose-oriented, reflecting the crucial role of data in advancing innovation, governance, and self-determination among Indigenous Peoples." ([Carroll et al. 2020](https://doi.org/10.5334/dsj-2020-043))
 
-The CARE Principles of Indigenous Data Sovereignty apply whenever you’re collecting data with or that belong to a particular community:
+The CARE Principles of Indigenous Data Sovereignty apply whenever you’re collecting data with or that belong to a particular community. CARE stands for **C**ollective benefit, **A**uthority to control, **R**esponsability, and **E**thics.
 
 **Collective Benefit**
 
