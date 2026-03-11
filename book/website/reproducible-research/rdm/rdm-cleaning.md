@@ -6,7 +6,11 @@ During data cleaning mistakes in the data collection and processing phase can be
 In projects where data collection is not structured properly, data cleaning can take up a lot of time. 
 Sometimes, it may even be quicker to restart data collection in order to avoid a messy dataset. 
 
-Therefore, it is important to think about your data collection strategy before collecting data: this can save you a lot of time. This is especially important if several people are collecting data. Refer to the chapter on spreadsheet design: https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets/
+Therefore, it is important to think about your data collection strategy before collecting data: this can save you a lot of time. 
+This is especially important if several people are collecting data.
+
+If your data is in the form of spreadsheet, you may want to check out our chapter on [](#rr-rdm-spreadsheets). 
+
 (rr-rdm-cleaning-how)=
 # How to clean data?
 During data cleaning there are several steps to take into account:
@@ -15,7 +19,8 @@ During data cleaning there are several steps to take into account:
 
 Always save an untouched copy of your dataset before you begin! 
 If you make mistakes during the data cleaning process you can still go back to the original information. 
-All changes to data need to happen in one data file; if you use multiple versions it will be a mess to identify the correct/latest version to work in.  
+All changes to data need to happen in one data file; if you use multiple versions it will be a mess to identify the correct/latest version to work in.
+If it is important to keep track of multiple versions of the data, you can set up a version control strategy using [](#rr-vcs).
 
 ## 2. Understand/Validate the Data
 
