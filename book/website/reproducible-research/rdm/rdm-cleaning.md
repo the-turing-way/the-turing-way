@@ -6,6 +6,7 @@ During data cleaning mistakes in the data collection and processing phase can be
 In projects where data collection is not structured properly, data cleaning can take up a lot of time. 
 Sometimes, it may even be quicker to restart data collection in order to avoid a messy dataset. 
 
+Therefore, it is important to think about your data collection strategy before collecting data: this can save you a lot of time. This is especially important if several people are collecting data. Refer to the chapter on spreadsheet design: https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets/
 (rr-rdm-cleaning-how)=
 # How to clean data?
 During data cleaning there are several steps to take into account:
