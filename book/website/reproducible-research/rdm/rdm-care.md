@@ -55,7 +55,7 @@ The genomic ([Carroll et al. 2022](https://doi.org/10.3389/fgene.2022.1052620)),
 Whenever you are handling data that belongs to an Indigenous or other under-served community, the CARE principles are more important than the benefits of [](#rr-open-data).
 
 (rr-rdm-care-tklabels)=
-## TK labels
+## Labels for Traditional Knowledge (TK label)
 The majority of data and software licenses does not incorporate Indigenous considerations of data sharing. 
 The [Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/) are an initiative for Indigenous communities and local organizations that aims to address this shortcoming. 
 TK Labels allow communities to express local and specific conditions for sharing and engaging in future research and relationships in ways that are consistent with already existing community rules, governance and protocols for using, sharing and circulating knowledge and data. 
