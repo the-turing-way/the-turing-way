@@ -26,4 +26,4 @@ updates:
         patterns:
           - '*'
       # Ignore patch update
-      update_types: minor
+      update-types: minor
