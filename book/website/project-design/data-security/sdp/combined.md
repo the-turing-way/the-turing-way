@@ -17,4 +17,4 @@ A useful link about this issue is the section on planning, and particularly tria
 (pd-sdp-combined-examples)=
 ## Examples of projects with a combination of different datasets
 
-* Hardelid (2014) ["Estimating the prevalence of chronic conditions in children who die in England, Scotland and Wales: a data linkage cohort study" BMJ Open](https://bmjopen.bmj.com/content/bmjopen/4/8/e005331.full.pdf).
+* [Hardelid 2014](https://doi.org/10.1136/bmjopen-2014-005331) on chronic conditions in children in the UK

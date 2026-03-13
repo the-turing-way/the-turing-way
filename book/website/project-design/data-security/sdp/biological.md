@@ -31,10 +31,11 @@ However, some examples of threats that could result from sharing biological data
 
 Certain organisms can pose a direct threat to humans, animals, and plants such as diseases or pests. 
 This can also include newly developed organisms such as genetically-modified plants.
-The whereabouts and the methods of development of these organisms may be considered sensitive.  At the same time, it must be considered that it may be important to share this data openly to prevent harm. 
+The whereabouts and the methods of development of these organisms may be considered sensitive.
+At the same time, it must be considered that it may be important to share this data openly to prevent harm. 
 
 Some biosafety data may fall under the confidential data category due to a need to protect the commercial interests of these developed organisms. 
-However, this unnecessarily limits transparency and public peer review of these datasets, which are then submitted to regulatory authorities {cite:ps}`Nielsen2013biosafety`. 
+However, this unnecessarily limits transparency and public peer review of these datasets, which are then submitted to regulatory authorities @Nielsen2013biosafety. 
 
 (pd-sdp-biological-benefits)=
 ## Benefits of opening up sensitive biological data
@@ -45,23 +46,27 @@ Therefore data should only be restricted when harm to the environment, harm to p
 Some types of biological data, particularly related to biodiversity, should not be shared openly. 
 These data should be kept partially or completely private. 
 However, attempts should be made to provide access to researchers or individuals who can prove a need for these data such as reuse for research purposes or to peer review research.
-
-There are also considerations around data ownership and management of these data relating to personal data identifying the collectors or researchers involved, research use of this data or organisms, and also business activities and commercial interests. 
+Researchers should conduct an assessment of the risks versus benefits of publishing biological data to decide whether (part of the) data can be shared. 
 
 Each country will have specific legal restrictions for rare and endangered species, as well as biosafety regulations, that have to be taken into account for each dataset.
 
+The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts @tulloch2018decision.
 
+(pd-sdp-biological-opening)=
+## Opening up sensitive biological data
 The types of data that need to be considered sensitive include occurrence data surrounding the exact location of rare, endangered or commercially valuable organisms.
 
-Sensitive occurrence data that includes exact locations for organisms can be generalised in different ways to minimise or take away the potential harm of openly publishing the data.
+In order to protect sensitive biological data, several measures can be taken: 
+- Exact locations for organisms can be generalised in different ways to minimise or take away the potential harm (see [Thorpe et al. 2026](https://doi.org/10.5281/zenodo.17588795)
+  - Decreasing the precision or resolution of the coordinates, for example by 0.1 degree.
+  - Using hexagons around the location (the Discrete Global Grid System) ([Caspari et al. 2024](https://doi.org/10.1038/s41597-024-03354-5))
+  - Obscuring the location by adding a buffer around the point or polygon.
+  - Replacing the coordinates by the name of an administrative unit.
+- Different levels of access can be provided, by providing a general location to the public and more detailed information under restricted access only available to other researchers. 
 
 Current best practice is discussed by [Chapham (2020)](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf), who sets out 10 principles for generalising sensitive species occurrence data to enable data sharing.
-
-It is also worth researchers conducting an assessment of the risks versus benefits of publishing biological data.   
-The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts {cite:ps}`tulloch2018decision`.
 
 (pd-sdp-biological-examples)=
 ## Examples of projects and issues with biological data
 
-[Troubling issue at the frontier of animal tracking and for conservation and management](https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.12895)
-
+- [Cooke et al. 2017](https://10.1111/cobi.12895) on animal conservation and management

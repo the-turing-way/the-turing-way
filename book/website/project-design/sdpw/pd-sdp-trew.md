@@ -24,22 +24,22 @@ In general, researchers working in TREs will find that much of the same guidance
 
 There are however some important questions to consider when working in TREs that will affect your development workflow for scientific code writing and data analysis:
     
-**1) Does the TRE have internet access?**
+**1. Does the TRE have internet access?**
     
 TREs set up for researchers to work on particularly sensitive data will likely lack internet access, in order to prevent a data breach or the accidental disclosure of sensitive data outside the TRE. 
 Where this is the case, it is important to understand how the processes particular to your TRE work for things like software ingress (for important software libraries you may require) and code/data egress (to understand what, if anything, can be exported from the TRE). 
 These policies will likely be set by those managing the TRE, for example the IT department at your University.
     
-**2) Does the TRE have a version control system, such as GitLab?**
+**2. Does the TRE have a version control system, such as GitLab?**
     
 Without internet access, websites like GitHub are unavailable for the development of research code within TREs. 
 Version Control Systems (VCS) like Git can be useful even where access to GitHub is impossible. 
 For example, [GitLab](https://about.gitlab.com/) can be used for code developed within the TRE, if it's installed in the environment. 
 
 If the TRE does not have a collaboration/VCS tool such as GitLab installed, it may be preferable to develop the research code outside the TRE, bringing it into the TRE via secure code ingress at appropriate intervals. 
-To learn more about version control, consult the {ref}`Chapter on Version Control<rr-vcs>`.
+To learn more about version control, consult the [Chapter on Version Control](#rr-vcs).
 
-**3) Do you aim to publish research carried out on sensitive data in a TRE?**
+**3. Do you aim to publish research carried out on sensitive data in a TRE?**
     
 Developing research code outside the TRE, for example in a public GitHub repository, can also make publishing the research methods for TRE projects simpler. 
 Developing code you wish to export from the TRE inside the environment carries risks. 
@@ -50,13 +50,13 @@ It's therefore important to consider the time constraints associated with export
 Developing research code within the TRE may be more appropriate where progress is overly slowed by developing externally, such as when data access is critical for any development. 
 As such, it's important to consider the trade-off between developing research code within the TRE and outside of it.
     
-**4) Do you aim to use notebooks (such as Jupyter) for analyses carried out in TREs?** 
+**4. Do you aim to use notebooks (such as Jupyter) for analyses carried out in TREs?** 
 
 Notebooks are a fantastic resource for data analysis, and this is no different in the context of working with sensitive data in a TRE. 
 However, notebooks are a particularly risky for export from TRE. Jupyter notebook files in particular (.ipynb extension) are JSON documents that include metadata not viewable in the rendered form, which could increase the risk of sensitive data being included in any exported notebook by mistake.
 One recommendation when preparing the output of a data analysis carried out in a notebook within a TRE for publication is to convert it to a static format such as PDF.
     
-**5) Do you want those without access to the TRE to be able to run the code used in your research?**
+**5. Do you want those without access to the TRE to be able to run the code used in your research?**
     
 Another suggestion could be to include a small synthetic dataset alongside any published code, which any publicly available code or notebooks containing the data analysis can be run with in lieu of access to the "real" (non-synthetic data) sensitive data from the TRE. 
     
