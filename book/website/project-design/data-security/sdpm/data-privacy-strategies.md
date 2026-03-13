@@ -4,13 +4,13 @@
 There are a number of strategies that you can adopt to **safeguard the privacy** of your research subjects:
 
 (pd-sdpm-privacy-minimisation)=
-## 1 Data minimisation
+## 1. Data minimisation
 * If personal information isn't needed, don't collect it.
 * Periodically review whether you are retaining unnecessary identifying information.
 * When identifying information is no longer needed, safely remove, delete or destroy it.
 
 (pd-sdpm-privacy-retention)=
-## 2 Data retention limits
+## 2. Data retention limits
 * Decide how long you will retain identifiable data before removing direct identifiers, applying more complex anonymisation techniques, or deleting the data altogether.
 * When deleting sensitive data you need to be aware that standard methods for deleting files (for example moving files to the recycle bin and emptying it) are not secure.
 These deleted files may be recovered. 
@@ -20,7 +20,7 @@ An alternative is the **physical destruction** of the storage media.
 If you [encrypted](#pd-sdpm-privacy-encryption) the data, you can also **delete the encryption key**.
 
 (pd-sdpm-privacy-transfer)=
-## 3 Secure data transfer
+## 3. Secure data transfer
 * Before deciding to transfer personal data, you should consider whether the transfer of identifiable data is necessary.
 For example, can data be de-identified or anonymised? 
 * If data cannot be made unidentifiable then you must ensure you have authority to transfer the personal data, and that there are appropriate safeguards in place to protect the data before, during and after transit.
@@ -30,7 +30,7 @@ Consider whether it is possible to provide access to the data, instead of transf
 Contact your research data, privacy or IT support team for guidance. 
 
 (pd-sdpm-privacy-encryption)=
-## 4 Encryption
+## 4. Encryption
 * Encryption provides protection by ensuring that only someone with the relevant encryption key (or password) will be able to access the contents.
     * Protect on disk level: Bitlocker for Windows, FileVault for MacOS
     * Protect on “container” level (a folder containing multiple files):  Veracrypt (or Archive for MacOS)
@@ -41,13 +41,13 @@ Contact your research data, privacy or IT support team for guidance.
     * See the [Ghent University Encryption for Researchers manual](https://osf.io/nx8km/) for more details and step-by-step guides
 
 (pd-sdpm-privacy-access)=
-## 5 Access permissions
+## 5. Access permissions
 * Control who has access to which parts of the data, and which type of permissions they have, such as "read" vs. "write" access.
 * Deny access to sensitive data if that access is no longer needed.
 * Password protection.
 
 (pd-sdpm-privacy-anonymisation)=
-## 6 Anonymisation
+## 6. Anonymisation
 Anonymisation is a process by which identifying information in a dataset is removed. 
 It is used primarily to allow data to be shared or published without revealing the confidential information it contains.
 * Where possible, direct identifiers (such as names, addresses, telephone numbers and account numbers) should be removed as soon as the identifying information is no longer needed. 
@@ -76,13 +76,13 @@ Further, data and outputs containing small cell counts may be potentially disclo
    * [MITRE Identification Scrubber Toolkit (MIST)](http://mist-deid.sourceforge.net/) (free text medical records)
    * [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) (for unstructured text)
 
-## 7 Synthethic data
+## 7. Synthethic data
 It is also possible to generate a synethic dataset that mimics a real dataset. 
 A syntethic dataset preserves some of the aspects and characteristics of the real data, yet generates a different dataset which can safeguard the original senstive data.
 
 ### More syntethic data information
 - Read more about [syntethic data on the Data Impact Blog](https://blog.ukdataservice.ac.uk/not-real-but-really-useful-synthetic-data-a-cost-benefit-analysis-of-its-practical-value/)
-- A webinar on [The Practices of Sharing Synthetic Dataset](https://www.youtube.com/watch?v=0epApx2S5-o)
+- A webinar on [The Practices of Sharing Synthetic Dataset](https://www.youtube.com/watch?v=0epApx2S5-o) or [Using agent-based models as a simulation tool to generate synthetic data](https://www.youtube.com/watch?v=wk9jd9u9mRY)
 - Tools:
    - [synthcity](https://github.com/vanderschaarlab/synthcity): A library for generating and evaluating synthetic tabular data
    - [synthea](https://synthetichealth.github.io/synthea/)
