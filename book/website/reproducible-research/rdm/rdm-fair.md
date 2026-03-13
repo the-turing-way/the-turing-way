@@ -84,4 +84,5 @@ There are two global initiatives that act as umbrella organisations and referenc
 
 ## More information
 - Deep dive into the [FAIR principles by Dr. Maryann Martone](https://www.youtube.com/watch?v=xx2wHxQfcnA) (45 minute video)
+- [Reproducible and FAIR Teaching Materials](https://lennartwittkuhn.com/dra-fair-teaching/#/title-slide)
 - [FAIR: Guía de Referencia General](https://doi.org/10.5281/zenodo.15856491)
