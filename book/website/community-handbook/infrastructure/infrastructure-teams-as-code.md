@@ -15,3 +15,5 @@ As well as this ease of management, we have chosen this approach because it will
 All of this information is now centralised and transparent in a single place and easy-to-read format.
 The bottleneck on the [Infrastructure Working Group](subprojects-infra-wg) and/or GitHub org admins will be removed since those with write access (the teams themselves) will be able to raise, review, and merge their own Pull Requests against this repository.
 We have implemented a [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file that makes each GitHub team responsible for their own YAML file defining it (or a good enough approximation where necessary).
+
+Please see the [teams-as-code repository](https://github.com/the-turing-way/teams-as-code) for more information.
