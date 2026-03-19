@@ -5,14 +5,8 @@ from pathlib import Path
 from typing import Any
 
 import requests
-import yaml
 from jsonschema.validators import Draft202012Validator
-
-try:
-    from yaml import CLoader as Loader
-except ImportError:
-    from yaml import Loader
-
+from ruamel.yaml import YAML
 
 def main() -> None:
     parser = argparse.ArgumentParser(
@@ -38,8 +32,9 @@ def main() -> None:
     v = Draft202012Validator(schema)
 
     # Parse the Dependabot config
+    yaml = YAML()
     with open(args.file) as f:
-        all_contributorsrc = yaml.load(f, Loader=Loader)
+        all_contributorsrc = yaml.load(f)
 
     # Collect validation errors
     errors = list(v.iter_errors(all_contributorsrc))
