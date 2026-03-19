@@ -1,3 +1,4 @@
 jsonschema
+pyyaml
 requests
 ruamel.yaml
