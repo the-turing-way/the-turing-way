@@ -1,0 +1,32 @@
+name: Validate Dependabot configuration
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    paths:
+      - ".github/dependabot.yaml"
+      - "tests/validate-dependabot.py"
+
+jobs:
+  validate:
+    name: Validate Dependabot configuration
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        working-directory: ./tests/
+        run: pip install -r requirements.txt
+
+      - name: Run validation script
+        working-directory: ./tests/
+        run: python3 validate-dependabot.py
