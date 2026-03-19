@@ -25,5 +25,7 @@ updates:
       dependencies:
         patterns:
           - '*'
-      # Ignore patch update
-      update-types: minor
+    # Ignore patch updates
+    ignore:
+      dependency-name: "*"
+      update-types: ["version-update:semver-patch"]
