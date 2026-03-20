@@ -4,7 +4,7 @@
 Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants.
 It is through this consent process that research participants can understand what taking part in a specific study will mean for them, and how their data will be handled during the research project.
 Each person can then choose whether to participate using the consent form.
-See also the {ref}`Guide for Ethical Research<er>`.
+See also the [](#er).
 
 Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data.
 Do not store the consent forms where you store the rest of the data you collect; use a separate locked cabinet or an encrypted folder for example.
@@ -39,18 +39,18 @@ The consent form should cover the following points at a minimum:
     * understands that participation is voluntarily
     * understands that they may withdraw from the study at any time without giving reasons and without penalty
     * understands how the data will be managed, shared and archived (as detailed in the information sheet)
-       * to increase the chance of your data to be re-used, do not promise to delete the data but instead ask for consent to retain and share the data (see {cite}`Meyer2018personaldata`)
+       * to increase the chance of your data to be re-used, do not promise to delete the data but instead ask for consent to retain and share the data (see @Meyer2018personaldata)
 * An action of providing consent.
 This is often a signatures of both the participant and the researcher, and the date of signing.
 However, ticking a simple check box can sometimes also suffice, depending on the type of research.
 
 Think ahead and plan how you will:
 
-* collect, store and manage the data (see {ref}`Data storage and organisation<rr-rdm-storage>`)
+* collect, store and manage the data (see [](#rr-rdm-storage)
 
 * control access permissions
 
-* prepare data for archiving/sharing at the end of the project if possible (see {ref}`Sharing and archiving data<rr-rdm-sharing>`)
+* prepare data for archiving/sharing at the end of the project if possible (see [](#rr-rdm-sharing)
 
 (pd-sdpm-informed-resources)=
 ## Additional resources and templates
