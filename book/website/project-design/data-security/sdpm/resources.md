@@ -32,11 +32,11 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
  
 * [Anonymisation and Personal Data](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/) by the Finnish Social Science Data Archive.
 
-* {cite}`Meyer2018personaldata`, {cite}`Tsai2016qualdata`
+* @Meyer2018personaldata, @Tsai2016qualdata
 
 * ARDC guide on [Publishing Sensitive Data](https://doi.org/10.5281/zenodo.7259742).
 
 * Qualitative Data Repository Guidance on [Human Participants](https://qdr.syr.edu/guidance/human-participants).
 
-*  [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook) for researchers dealing with personal data at Utrecht University (NL) and beyond (work in progress).
+* [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook) for researchers dealing with personal data at Utrecht University (NL) and beyond (work in progress).
 
