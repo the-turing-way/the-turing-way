@@ -14,3 +14,18 @@ updates:
       actions:
         patterns:
           - "*"
+  # "pip" is the package ecosystem value for pip-compile
+  # https://docs.github.com/en/code-security/reference/supply-chain-security/dependabot-options-reference#package-ecosystem-
+  - package-ecosystem: "pip"
+    directory: "/book/"
+    schedule:
+      interval: "monthly"
+    groups:
+      # Group all dependencies into a single PR
+      dependencies:
+        patterns:
+          - '*'
+    # Ignore patch updates
+    ignore:
+      - dependency-name: "*"
+        update-types: ["version-update:semver-patch"]
