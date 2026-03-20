@@ -2,7 +2,7 @@
 
 # _The Turing Way_
 
->_This README.md file in also available in Chinese ([README-Chinese](README-translated/README-Chinese.md)), Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
+>_This README.md file is also available in Chinese ([README-Chinese](README-translated/README-Chinese.md)), Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
 
 *Total Contributors:*
 
@@ -48,7 +48,6 @@ These chapters have been co-authored by contributors who are students, researche
 
 - [_The Turing Way_](#the-turing-way)
     - [About the Project](#about-the-project)
-    - [Project Delivery Team](#project-delivey-team)
     - [Contributing](#contributing)
     - [Citing](#citing)
     - [Get in Touch](#get-in-touch)
@@ -77,7 +76,7 @@ This project is openly developed and any and all questions, comments and recomme
 
 _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
-Contributors to the various Working Groups are considered part of the Maintenance Level Governence.
+Contributors to the various Working Groups are considered part of the Maintenance Level Governance.
 Chairs or representatives from these groups who take on leadership roles in the project, join the Steering Committee.
 Their names are listed in the [Governance Roles document](./GOVERNANCE_ROLES.md).
 
