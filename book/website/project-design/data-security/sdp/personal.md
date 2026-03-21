@@ -61,3 +61,9 @@ In the US the protection of sensitive health information is covered in the Healt
 Processing means doing anything with a person’s information, including collection, storage, analysis, sharing, deletion and destruction. 
 To ensure that you are up to date with the requirements of managing sensitive data, please review the national/institutional policies that apply to your research. 
 See @Smith2015participantdata for recommended practices for sharing clinical trial data.
+
+(pd-sdp-personal-information)=
+## More information
+* CESSDA webinar on [Want to collect personal data? An introduction to processing personal data for research purposes ](https://www.youtube.com/watch?v=B-amFT6DZuU)
+* DARIAH webinar on [Legal&ethical aspects of processing personal data in research](https://www.youtube.com/watch?v=Soe8FnUh4mk&t=592s), particularly 9:50 – 33 min
+
