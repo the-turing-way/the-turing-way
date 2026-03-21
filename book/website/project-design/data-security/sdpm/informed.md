@@ -8,6 +8,7 @@ See also the [](#er).
 
 Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data.
 Do not store the consent forms where you store the rest of the data you collect; use a separate locked cabinet or an encrypted folder for example.
+See [Digitizing Paper Informed Consent Forms](https://fgb-rdm.nl/rdm/archiving/DigitizingICFs.html) for some considerations when digitising informed consent forms.
 
 In case you cannot use a written consent form, try to make a recording of verbal consent.
 
@@ -48,14 +49,17 @@ Think ahead and plan how you will:
 
 * collect, store and manage the data (see [](#rr-rdm-storage)
 
-* control access permissions
+* control access permissions (see this [short video on access concerns when handling data](https://www.youtube.com/watch?v=seauAMsFizI))
 
 * prepare data for archiving/sharing at the end of the project if possible (see [](#rr-rdm-sharing)
+
 
 (pd-sdpm-informed-resources)=
 ## Additional resources and templates
 * [Data User Agreement, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/gdpr/data_user_agreement.html)
 * [Ultimate consent form, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/ultimate.html)
 * [Ultimate consent form - GDPR edition, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/gdpr/ultimate_gdpr.html)
+* Webinar on [Consent issues in data sharing](https://www.youtube.com/watch?v=6ji1ceY0eZI) by UK Data Services
+* [Informed Consent](https://qdr.syr.edu/guidance/human-participants/informed-consent) by the Qualitative Data Repository
 
 
