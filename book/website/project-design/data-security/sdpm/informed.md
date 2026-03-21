@@ -61,5 +61,6 @@ Think ahead and plan how you will:
 * [Ultimate consent form - GDPR edition, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/gdpr/ultimate_gdpr.html)
 * Webinar on [Consent issues in data sharing](https://www.youtube.com/watch?v=6ji1ceY0eZI) by UK Data Services
 * [Informed Consent](https://qdr.syr.edu/guidance/human-participants/informed-consent) by the Qualitative Data Repository
+* [What is valid consent?](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/consent/what-is-valid-consent/) by ICO.uk
 
 
