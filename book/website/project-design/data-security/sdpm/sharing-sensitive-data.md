@@ -21,3 +21,10 @@ Even if research involves sensitive data an increasing number of journals now re
 For example: 
 * The BMJ [requires authors to make anonymised individual patient data available upon on request](https://www.bmj.com/content/350/bmj.h2373) for all clinical trials. 
 * Similarly PLOS journals [require authors to make the data necessary to replicate the study's findings publicly available at the time of publication](https://journals.plos.org/plosone/s/data-availability).
+
+## More information
+* [Reproducibility when data are confidential](https://labordynamicsinstitute.github.io/reproducibility-confidential/#1)
+* [Legal and ethical considerations for sharing research data](https://www.youtube.com/watch?v=7M4_YR7wcFs)
+* [](doi:10.5281/zenodo.17588822)
+* [Assessing risk when sharing data: a guide](https://theodi.org/insights/guides/assessing-risk-when-sharing-data-a-guide/)
+* [](doi:10.1177/25152459251336130); which includes examples and elaborate reasoning for why certain steps are taken
