@@ -1,10 +1,9 @@
 (pd-sdpm-informed)=
 # Informed consent
 
-Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants.
+Informed, voluntary and fair consent to participate in a study is very important for any [ethical research project](#er) involving human participants.
 It is through this consent process that research participants can understand what taking part in a specific study will mean for them, and how their data will be handled during the research project.
 Each person can then choose whether to participate using the consent form.
-See also the [](#er).
 
 Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data.
 Do not store the consent forms where you store the rest of the data you collect; use a separate locked cabinet or an encrypted folder for example.
