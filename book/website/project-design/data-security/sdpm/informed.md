@@ -46,20 +46,21 @@ However, ticking a simple check box can sometimes also suffice, depending on the
 
 Think ahead and plan how you will:
 
-* collect, store and manage the data (see [](#rr-rdm-storage)
+* collect, store and manage the data (see [](#rr-rdm-storage))
 
 * control access permissions (see this [short video on access concerns when handling data](https://www.youtube.com/watch?v=seauAMsFizI))
 
-* prepare data for archiving/sharing at the end of the project if possible (see [](#rr-rdm-sharing)
+* prepare data for archiving/sharing at the end of the project if possible (see [](#rr-rdm-sharing))
 
 
 (pd-sdpm-informed-resources)=
 ## Additional resources and templates
+
 * [Data User Agreement, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/gdpr/data_user_agreement.html)
 * [Ultimate consent form, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/ultimate.html)
 * [Ultimate consent form - GDPR edition, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/gdpr/ultimate_gdpr.html)
 * Webinar on [Consent issues in data sharing](https://www.youtube.com/watch?v=6ji1ceY0eZI) by UK Data Services
 * [Informed Consent](https://qdr.syr.edu/guidance/human-participants/informed-consent) by the Qualitative Data Repository
-* [What is valid consent?](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/consent/what-is-valid-consent/) by ICO.uk
+* [What is valid consent?](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/consent/what-is-valid-consent/) by ICO
 
 
