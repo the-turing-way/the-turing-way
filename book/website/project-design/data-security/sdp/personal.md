@@ -64,6 +64,7 @@ See @Smith2015participantdata for recommended practices for sharing clinical tri
 
 (pd-sdp-personal-information)=
 ## More information
+* [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/) by Utrecht University. 
 * CESSDA webinar on [Want to collect personal data? An introduction to processing personal data for research purposes ](https://www.youtube.com/watch?v=B-amFT6DZuU)
 * DARIAH webinar on [Legal&ethical aspects of processing personal data in research](https://www.youtube.com/watch?v=Soe8FnUh4mk&t=592s), particularly 9:50 – 33 min
 
