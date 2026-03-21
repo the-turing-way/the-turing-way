@@ -18,3 +18,6 @@ A useful link about this issue is the section on planning, and particularly tria
 ## Examples of projects with a combination of different datasets
 
 * [Hardelid 2014](https://doi.org/10.1136/bmjopen-2014-005331) on chronic conditions in children in the UK
+
+## Resources
+* [Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter), a Github repository with resources that enable users to evaluate the privacy risk of algorithms.
