@@ -27,7 +27,8 @@ For example, can data be de-identified or anonymised?
 * Keeping data in one place is safer than transferring it elsewhere. 
 Consider whether it is possible to provide access to the data, instead of transferring them outside of your institution.
 * Often your university or institute will provide solutions for secure file transfer. 
-Contact your research data, privacy or IT support team for guidance. 
+Contact your research data, privacy or IT support team for guidance.
+* Trusted Research Environment (TRE) platforms can provide secure and transparent access to lsensitive data, such as the [Secure Data Environment](https://digital.nhs.uk/services/secure-data-environment-service) and [OpenSAFELY](https://www.opensafely.org/).
 
 (pd-sdpm-privacy-encryption)=
 ## 4. Encryption
