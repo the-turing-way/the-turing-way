@@ -65,7 +65,7 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python_version }}
-          freethreaded: false
+          freethreaded: true
 
       - name: Install dependencies
         # ignore pull requests from the all-contributors bot
