@@ -64,7 +64,7 @@ In order to protect sensitive biological data, several measures can be taken:
   - Replacing the coordinates by the name of an administrative unit.
 - Different levels of access can be provided, by providing a general location to the public and more detailed information under restricted access only available to other researchers. 
 
-Current best practice is discussed by [Chapham (2020)](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf), who sets out 10 principles for generalising sensitive species occurrence data to enable data sharing.
+Current best practice is discussed by [](https://doi.org/10.15468/doc-5jp4-5g10) [pdf](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf), who sets out 10 principles for generalising sensitive species occurrence data to enable data sharing.
 
 (pd-sdp-biological-examples)=
 ## Examples of projects and issues with biological data
