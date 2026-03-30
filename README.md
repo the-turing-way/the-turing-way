@@ -22,14 +22,14 @@
 *Welcome to The Turing Way project GitHub repository. This is where all the components of the project are developed, reviewed and maintained.*
 
 _The Turing Way_ is a handbook to reproducible, ethical and collaborative data science.
-We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
-Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
+We involve and support a diverse community of contributors to make data science more accessible, understandable, and effective for everyone.
+Our goal is to provide researchers and data scientists in academia, industry, and the public sector with the information they need at the start of their projects to ensure reproducibility at the end.
 
 [![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
 
 *The Turing Way is a book, a community and a global collaboration.*
 
-All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
+All stakeholders, including students, researchers, software engineers, project leaders, and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibilities in ensuring reproducibility in data science.
 You can read the book [online](https://book.the-turing-way.org), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)). 
 **We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**. 
 If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://book.the-turing-way.org/community-handbook/translation.html) and join our collaborative efforts.
@@ -62,15 +62,15 @@ _The Turing Way_ overview starts at minute 5:13.
 
 ### About the Project
 
-Reproducible research is necessary to ensure that scientific work can be trusted.
+Reproducible research is essential to ensure that scientific work can be trusted.
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
-The goal is to ensure that all results can be independently verified and built upon in future work.
-This is sometimes easier said than done.
+The goal is to ensure that all results can be independently verified and built upon in future research.
+However, this is often easier said than done.
 Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
-As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
+As these activities are not commonly taught, we recognise that the burden of these requirements and learning new skills can be intimidating for individuals who are new to this field.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: <https://github.com/the-turing-way/the-turing-way>.
+This project is openly developed, and all questions, comments, and recommendations are welcome at our GitHub repository: <https://github.com/the-turing-way/the-turing-way>.
 
 ### Project Governance
 
