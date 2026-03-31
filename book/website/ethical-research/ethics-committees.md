@@ -87,7 +87,7 @@ Setting the legal discussions aside, this question requires following one of two
 1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available.
 The point here is to confirm that the data will be used following the purpose for which they were collected.
 In this respect, []([Data Licenses](rr-licensing-data) outlines different ways online data might be held.
-3. If gathering new data through experiments with human research subjects, both participant information sheets and [informed consent forms](pd-sdpm-informed) must be issued.
+2. If gathering new data through experiments with human research subjects, both participant information sheets and [informed consent forms](pd-sdpm-informed) must be issued.
 On the one hand, participant information sheets provide research participants with all the information they need to know about taking part in the study.
 On the other hand, consent forms summarise the participant information sheet and provide a section for the potential participant to record their acceptance of the conditions.
 The consent form, in particular, should provide contact details for participants to reach out to the research team or institution (depending on internal processes) should they have any queries or concerns about the study in the future.
