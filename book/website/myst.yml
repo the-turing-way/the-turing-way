@@ -89,6 +89,8 @@ project:
               title: Open Access
             - file: reproducible-research/open/open-notebooks.md
               title: Open Notebooks
+            - file: reproducible-research/open/open-infrastructure.md
+              title: Open Infrastructure
             - file: reproducible-research/open/open-scholarship.md
               title: Open Scholarship
             - file: reproducible-research/open/open-checklist.md
