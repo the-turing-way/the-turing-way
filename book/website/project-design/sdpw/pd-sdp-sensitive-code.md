@@ -35,6 +35,15 @@ If you decide that you would like to remove `nbstripout`, simply run `nbstripout
 
 `nbstripout` is generally installed in one local Git repository at a time, so that you can control when it is applied as a filter.
 
+(pd-sdpw-sensitive-code-information)=
+## More information
+
+For more information about using `nbstripout`, please check out the following resources:
+
+* [nbstripout documentation](https://pypi.org/project/nbstripout/)
+* [nbstripout GitHub repository](https://github.com/kynan/nbstripout)
+* [Short YouTube demonstration of how to install and use nbstripout as a Git filter](https://www.youtube.com/watch?v=BEMP4xacrVc)
+
 However, if all of your notebooks deal with sensitive data, it might be a good idea to  install `nbstripout` globally across all of your Git repositories.
 This way, no notebooks risk slipping under the radar. 
 

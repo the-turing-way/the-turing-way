@@ -75,16 +75,16 @@ Individuals from specific geographical or language contexts may also provide exp
 
 ### Governance Tool: [BigScience Catalogue of Language Data and Resources](https://oecd.ai/en/catalogue/tools/bigscience-catalogue-of-language-data-and-resources)
 
-The catalogue visualises through an [interactive world map](https://huggingface.co/spaces/bigscience/SourcingCatalog) the 192 data sources gathered as part of the BigScience project and its natural language text dataset. Through organized public hackathons with resource custodians from around the world, the team collected metadata on 432 different language tags associated with the dataset (each entry can have multiple language tags). The metadata added, such as language location, resource custodian and contact, and license type, was based on the expertise of the local residents and resource experts (primarily librarians) who can provide essential information on the context and content on data in their language. Learn more about the methodology from their paper: [Documenting Geographically and Contextually Diverse Data Sources: The BigScience Catalogue of Language Data and Resources](https://arxiv.org/abs/2201.10066).
+The catalogue visualises through an [interactive world map](https://huggingface.co/spaces/bigscience/SourcingCatalog) the 192 data sources gathered as part of the BigScience project and its natural language text dataset. 
+Through organized public hackathons with resource custodians from around the world, the team collected metadata on 432 different language tags associated with the dataset (each entry can have multiple language tags).
+The metadata added, such as language location, resource custodian and contact, and license type, was based on the expertise of the local residents and resource experts (primarily librarians) who can provide essential information on the context and content on data in their language. 
+Learn more about the methodology from their paper: [Documenting Geographically and Contextually Diverse Data Sources: The BigScience Catalogue of Language Data and Resources](https://arxiv.org/abs/2201.10066).
 
 ### Governance Tool: [PII Redaction Dataset](https://huggingface.co/datasets/bigcode/bigcode-pii-dataset)
 
 Filtering out Personally Identifiable Information (PII) such as email addresses and passwords is an important data processing set.
-Rather than trying to remove this information from trained model weights after the fact, which is an open technical challenge,
-teams can choose to remove PII from the datasets before training.
-In order to perform automated PII redaction, it can help to build a dataset of PII that can be used to develop a rules-based or
-classifier-based approach to removing PII.
-In practice, the BigCode project found that neither regular expression-based approaches or commercial software for PII detection met their
-performance requirements, so they collaborated with Toloka crowd-workers to curate and annotate a PII in source code dataset.
+Rather than trying to remove this information from trained model weights after the fact, which is an open technical challenge, teams can choose to remove PII from the datasets before training.
+In order to perform automated PII redaction, it can help to build a dataset of PII that can be used to develop a rules-based or classifier-based approach to removing PII.
+In practice, the BigCode project found that neither regular expression-based approaches or commercial software for PII detection met their performance requirements, so they collaborated with Toloka crowd-workers to curate and annotate a PII in source code dataset.
 This dataset is available to approved individuals, researchers, and developers who are granted access to use this for their own R&D, as long as they uphold ethical standards and data protection measure.
 To learn more about this work with Toloka crowd workers, read their [blog post on the collaboration](https://toloka.ai/blog/bigcode-project/).
