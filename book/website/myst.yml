@@ -979,6 +979,8 @@ project:
           children:
             - file: community-handbook/infrastructure/infrastructure-contributors.md
               title: Publishing Contributors
+            - file: community-handbook/infrastructure/infrastructure-teams-as-code.md
+              title: Teams as Code
             - file: >-
                 community-handbook/infrastructure/infrastructure-external-link-check.md
               title: External Link Checking
