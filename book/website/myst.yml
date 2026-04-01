@@ -428,7 +428,7 @@ project:
             - file: project-design/data-security/sdpw.md
               title: Working on Sensitive Data Projects
               children:
-                - file: project-design/sdpw/trew.md
+                - file: project-design/sdpw/pd-sdp-trew.md
                   title: Working with Trusted Research Environments
                 - file: project-design/sdpw/pd-sdp-private-learning.md
                   title: Privacy Preserving Machine Learning
@@ -436,10 +436,6 @@ project:
                   title: Keeping Sensitive Files Secure
                 - file: project-design/sdpw/pd-sdp-sensitive-code.md
                   title: Sharing Your Jupyter Notebook
-                - file: project-design/sdpw/pd-sdp-exposing-data.md
-                  title: Removing Sensitive Data From GitHub
-                - file: project-design/sdpw/pd-sdp-resources.md
-                  title: Further Recommendations
             - file: project-design/data-security/data-governance.md
               title: Data Governance
               children:
