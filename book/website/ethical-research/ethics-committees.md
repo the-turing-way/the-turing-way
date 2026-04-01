@@ -86,17 +86,17 @@ In the General Data Protection Regulation (GDPR), for example, *consent* is defi
 Setting the legal discussions aside, this question requires following one of two approaches:
 1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available.
 The point here is to confirm that the data will be used following the purpose for which they were collected.
-In this respect, []([Data Licenses](rr-licensing-data) outlines different ways online data might be held.
-2. If gathering new data through experiments with human research subjects, both participant information sheets and [informed consent forms](pd-sdpm-informed) must be issued.
+In this respect, [](#rr-licensing-data) outlines different ways online data might be held.
+2. If gathering new data through experiments with human research subjects, both participant information sheets and [informed consent forms](#pd-sdpm-informed) must be issued.
 On the one hand, participant information sheets provide research participants with all the information they need to know about taking part in the study.
 On the other hand, consent forms summarise the participant information sheet and provide a section for the potential participant to record their acceptance of the conditions.
 The consent form, in particular, should provide contact details for participants to reach out to the research team or institution (depending on internal processes) should they have any queries or concerns about the study in the future.
-Generally, individual institutions make templates available for their researchers, you can find examples in [](pd-sdpm-informed).
+Generally, individual institutions make templates available for their researchers, you can find examples in [](#pd-sdpm-informed).
 
 ## Privacy and Security
 >How will you ensure that any sensitive information your project uses is kept secure and made accessible only to pertinent members of the research team?
 
-**Justification.** Privacy is a fundamental human right (see [](er-law-policy)).
+**Justification.** Privacy is a fundamental human right (see [](#er-law-policy)).
 
 Therefore, it is critical that projects be conducted in a way that respects privacy.
 
@@ -106,7 +106,7 @@ Some funders also have policies for handling data collected or used in the cours
 Your institution may also have a secure IT infrastructure for the storage of data, as well as to ensure correct levels of access.
 It is worth asking if there are such policies and processes in your institution.
 
-In the case of using personal data, it is also worth noting if any method for [making data anonymous](pd-sdpm-privacy-anonymisation) will be employed.
+In the case of using personal data, it is also worth noting if any method for [making data anonymous](#pd-sdpm-privacy-anonymisation) will be employed.
 
 In either case, data security doesn't apply only to personal data. 
 Consider, for example, a project conducted with a government body that holds certain information that mustn't be released, or a firm providing you with proprietary code.
@@ -120,7 +120,7 @@ Ultimately, this is a broad question that requires that we:
 ## Further Societal Consequences
 >Please describe both positive and negative potential societal consequences of your work.
 
-**Justification.** This question relates with the six dimensions of research ethics provided in the [Guide for Ethical Research](er-intro).
+**Justification.** This question relates with the six dimensions of research ethics provided in the [Guide for Ethical Research](#er-intro).
 The question acknowledges that research is not conducted in a vacuum but in a social world it can deeply impact.
 To this effect, the question should be treated in the broadest sense by considering the impact on the researchers involved, the natural environment, society at large and scientific communities in particular.
 

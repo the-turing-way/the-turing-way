@@ -4,12 +4,12 @@
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
 For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also [](#rr-open-data-barriers)).
 
-After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see #@eyer2018personaldata). 
+After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see @Meyer2018personaldata). 
 
 An additional safety measure, or alternative to anonymisation, is **applying access controls** to ensure the data are shared appropriately and securely. 
 This may involve finding a data repository that can provide suitable access controls (see [here](https://osf.io/tvyxz/wiki/8.%20Approved%20Protected%20Access%20Repositories/) for a list of protected Access Repositories).
-These repositories can provide access to the metadata of the project, which allows others to find and [cite the data](cm-citable-otherscite-how). 
-Restricted or conditional access also provides potential re-users with the information they need to access the data, making the data [FAIR](rr-rdm-fair). 
+These repositories can provide access to the metadata of the project, which allows others to find and [cite the data]( #cm-citable-otherscite-how). 
+Restricted or conditional access also provides potential re-users with the information they need to access the data, making the data [FAIR](#rr-rdm-fair). 
 
 For example, conditions to access the data could require the potential data re-user to: 
   * Register and/or provide contact details to ensure reusers are genuine and aware of their responsibilities.

@@ -182,7 +182,7 @@ This information can also help in analysing that data, making sure that the scri
 However, a good file with tidy columns and rows should not need extra explanation.
 
 As for header names, the size of the headers is not an issue for computers. 
-However, for human readability, it is better to keep it short (up to 32 characters, see [](rr-rdm-storage-conventions).
+However, for human readability, it is better to keep it short (up to 32 characters, see [](#rr-rdm-storage-conventions).
 
 You do not have to think about the order of the columns for the analysis, as it has no importance for data analysis software. 
 You can, therefore, completely optimise that parameter for the data collection step.

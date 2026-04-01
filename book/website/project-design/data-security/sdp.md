@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| [](rr-rdm) | Helpful | Beginner |  |
+| [](#rr-rdm) | Helpful | Beginner |  |
 
 (pd-sdp-summary)=
 ## Summary
