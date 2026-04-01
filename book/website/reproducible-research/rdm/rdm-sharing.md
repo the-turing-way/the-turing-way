@@ -45,7 +45,7 @@ To get maximum value from data sharing, make sure that your paper and code both 
 
 ### Step 4: Upload your data and documentation
 
-In line with the [FAIR principles](rr-rdm-FAIR), upload the data in open formats as much as possible and include sufficient documentation and metadata so that someone else can understand your data.
+In line with the [FAIR principles](#rr-rdm-FAIR), upload the data in open formats as much as possible and include sufficient documentation and metadata so that someone else can understand your data.
 It is also essential to think about the file formats in which the information is provided.
 Data should be presented in structured and standardised formats to support interoperability, traceability, and effective reuse.
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.

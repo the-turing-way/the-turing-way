@@ -3,10 +3,10 @@
 
 Research ethics committees (RECs), also known as institutional review boards (IRBs), exist within institutions to scrutinise the ethical implications of their research projects.
 RECs have historically focused on projects that involve human participants, meaning that they often prioritise the well-being of those directly involved in research projects.
-RECs are also a useful mechanism for the mitigation of reputational damage for their institutions, as they can ensure that research is conducted within the law.
+RECs are also a useful mechanism for the mitigation of reputational damage for their institutions and researchers, as they can ensure that research is conducted within the law.
 Further, RECs are well-positioned to improve the state of scientific inquiry.
 This is because they can provide ethical oversight to expert researchers who do not have sufficient experience or capacity to deeply reflect on the ethical questions their work raises.
-This is not to liberate the researcher of their ethical responsibilities -- ultimately, they make the decisions as to how to conduct their work -- but to provide support in respect to these questions.
+This is not to liberate the researcher of their ethical responsibilities - ultimately, they make the decisions as to how to conduct their work - but to provide support in respect to these questions.
 Whilst there is a great deal of complexity involved in holding individuals accountable in scientific projects, this chapter assumes that RECs seek to improve how science is conducted at large.
 
 ```{figure} ../../figures/ethics-committee-with-text.*
@@ -63,15 +63,15 @@ For example, the data employed may be filled with ["missing data sets"](https://
 Justification must also be provided as to *why* the outlined data are necessary and the described methodology is the best for the job.
 
 A more robust response to this question will describe how the data will be managed for the purpose of the methodology described.
-To this effect, it is advisable to share a data management plan.
+To this effect, it is advisable to share a [](#rr-rdm-dmp).
 It is also helpful to describe how the data and methodology will be made available to other researchers.
 
 Therefore, responding to this question requires providing:
 
 1. Detail about the data and methodologies you will employ;
 2. Justification for the choice of data and methodologies;
-3. Reference to a data management plan -- consider the [Research Data Management chapter](https://book.the-turing-way.org/reproducible-research/rdm.html);
-4. Explanation as to how your chosen tools and methods allow for reproducible research -- consider the benefits listed in the [Added Advantages](https://book.the-turing-way.org/reproducible-research/overview/overview-benefit.html?highlight=method) subchapter.
+3. Reference to a [](#rr-rdm-dmp);
+4. Explanation as to how your chosen tools and methods allow for reproducible research - consider the benefits listed in [](#rr-overview-benefits).
 
 ## Consent
 >How will you ensure any personal data collected for your research is done so with freely-given informed consent?
@@ -80,45 +80,47 @@ Therefore, responding to this question requires providing:
 It is also an important concept enshrined in law.
 In the General Data Protection Regulation (GDPR), for example, *consent* is defined as:
 
->“any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her" ([ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/consent/what-is-valid-consent/))
+>“any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to [them]" GDPR, Article 4.
 
-**Responding to this question** entails reflection on how data are sourced -- where they come from and who they pertain to.
+**Responding to this question** entails reflection on how data are sourced - where they come from and who they pertain to.
 Setting the legal discussions aside, this question requires following one of two approaches:
-1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available. The point here is to confirm that the data will be used following the purpose for which they were collected. In this respect, a useful subchapter in *The Turing Way* is that of [Data Licenses](https://book.the-turing-way.org/reproducible-research/licensing/licensing-data.html?highlight=licen), which outlines different ways online data might be held.
-2. If gathering new data through experiments with human research subjects, both participant information sheets (PISs) and consent forms must be issued.
+1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available.
+The point here is to confirm that the data will be used following the purpose for which they were collected.
+In this respect, [](#rr-licensing-data) outlines different ways online data might be held.
+2. If gathering new data through experiments with human research subjects, both participant information sheets and [informed consent forms](#pd-sdpm-informed) must be issued.
 On the one hand, participant information sheets provide research participants with all the information they need to know about taking part in the study.
 On the other hand, consent forms summarise the participant information sheet and provide a section for the potential participant to record their acceptance of the conditions.
 The consent form, in particular, should provide contact details for participants to reach out to the research team or institution (depending on internal processes) should they have any queries or concerns about the study in the future.
-The UK Data Service offer templates of both documents [online](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms): individual institutions often also make templates available for their researchers.
+Generally, individual institutions make templates available for their researchers, you can find examples in [](#pd-sdpm-informed).
 
 ## Privacy and Security
 >How will you ensure that any sensitive information your project uses is kept secure and made accessible only to pertinent members of the research team?
 
-**Justification.** Privacy is a fundamental human right (see this [chapter](https://book.the-turing-way.org/ethical-research/law-policy.html) for *The Turing Way* for more on human rights).
+**Justification.** Privacy is a fundamental human right (see [](#er-law-policy)).
 
 Therefore, it is critical that projects be conducted in a way that respects privacy.
 
 **Responding to this question** might require a review of your institution's internal policies.
-When handling personal data in particular, your institution might already have a data policy in place, as well as a process to conduct a data protection impact assessment (see [the ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) for more details).
+When handling personal data in particular, your institution might already have a data policy in place, as well as a process to conduct a data protection impact assessment (see [the ICO](https://web.archive.org/web/20210310232612/https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/) for more details).
 Some funders also have policies for handling data collected or used in the course of research that they fund.
 Your institution may also have a secure IT infrastructure for the storage of data, as well as to ensure correct levels of access.
 It is worth asking if there are such policies and processes in your institution.
 
-In the case of using personal data, it is also worth noting if any method for making data anonymous will be employed.
-For more details on anonymisation, see [this subchapter](https://github.com/the-turing-way/the-turing-way/pull/1579) of *The Turing Way*.
+In the case of using personal data, it is also worth noting if any method for [making data anonymous](#pd-sdpm-privacy-anonymisation) will be employed.
 
-In either case, data security doesn't apply only to personal data. Consider, for example, a project conducted with a government body that holds certain information that mustn't be released, or a firm providing you with proprietary code.
+In either case, data security doesn't apply only to personal data. 
+Consider, for example, a project conducted with a government body that holds certain information that mustn't be released, or a firm providing you with proprietary code.
 Ultimately, this is a broad question that requires that we:
 
 1. Describe any privacy concerns and share institutional processes followed in this regard (for example, a data protection impact assessment);
 2. Explain what standards will be used if any anonymisation is conducted;
-3. Explain how data will be stored and kept secure (this can be drawn from your [data management plan](https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp.html))
+3. Explain how data will be stored and kept secure (this can be drawn from your [data management plan](#rr-rdm-dmp));
 4. Consider asking if your institution provides a secure IT environment (an example of this is the Alan Turing Institute's [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud))
 
 ## Further Societal Consequences
 >Please describe both positive and negative potential societal consequences of your work.
 
-**Justification.** This question relates with the six dimensions of research ethics provided in [*Guide for Ethical Research*](https://book.the-turing-way.org/ethical-research/ethics-intro.html).
+**Justification.** This question relates with the six dimensions of research ethics provided in the [Guide for Ethical Research](#er-intro).
 The question acknowledges that research is not conducted in a vacuum but in a social world it can deeply impact.
 To this effect, the question should be treated in the broadest sense by considering the impact on the researchers involved, the natural environment, society at large and scientific communities in particular.
 
@@ -129,23 +131,30 @@ To this effect, the question should be treated in the broadest sense by consider
 The first point requires further reflection on the myriad of topics already outlined in the previous four questions (recall how methodology and data collection practices might raise ethical questions), as well as careful consideration about the potential risks of your project's output.
 
 The second point relates with the actions taken to *mitigate* identified risks.
-It is not sufficient, in other words, to describe what might go wrong -- it is necessary to explain how risks will be reasonably avoided.
+It is not sufficient, in other words, to describe what might go wrong - it is necessary to explain how risks will be reasonably avoided.
 
 There are two further considerations worth making when responding to this question.
 On the one hand, how will the project benefit fellow scientists?
 This question, in turn, can be met by two courses of action.
-Firstly, consider how your work will be made openly accessible by following the [FAIR principles](https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair.html?highlight=research%20cycle).
+Firstly, consider how your work will be made openly accessible by following the [FAIR principles](#rr-rdm-fair).
 Secondly, describe how your work might be used for *further* responsible research and innovation.
 
 On the other hand, it is worth recapitulating the points made in section one.
 In other words, remind the REC of the benefits that are expected of your work.
-This is not to "counter" risks -- the safeguards described should do that.
+This is not to "counter" risks - the safeguards described should do that.
 The point here is to show that ethical reflection is embedded in your project.
 
 ## General suggestions for ethics applications
 Focusing on how to respond to each broad question, we can summarise the advice provided as follows:
-1. Be detailed in your responses -- the more the REC knows, the easier it is for them to consider a project's ethical implications.
-2. Use other documents about your project to provide information to RECs. Although documentation may need updating, using other relevant documents can make this process more straightforward. Such documents might be grant proposals, data management plans, data protection impact assessments...
-3. Find ethical resources that are relevant to your project. Scientific projects can be diverse in object of study. Numerous ethics frameworks have been made available over the years. A well-established framework in data science is that of the [five safes](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes), for example. A comprehensive resource for the governance of artificial intelligence is [*Understanding artificial intelligence ethics and safety*](https://www.turing.ac.uk/sites/default/files/2019-08/understanding_artificial_intelligence_ethics_and_safety.pdf). A much more specific framework has been developed for the wellbeing of researchers exposed to abusive online content: [*Guidelines for researchers working with abusive content*](https://github.com/bvidgen/Challenges-and-frontiers-in-abusive-content-detection/blob/master/Challenges%20and%20frontiers%20in%20abusive%20content%20detection%20Appendix%20-%20researcher%20guidelines.pdf)
+1. Be detailed in your responses - the more the REC knows, the easier it is for them to consider a project's ethical implications.
+2. Use other documents about your project to provide information to RECs.
+Although documentation may need updating, using other relevant documents can make this process more straightforward. 
+Such documents might be grant proposals, data management plans, data protection impact assessments...
+3. Find ethical resources that are relevant to your project.
+Scientific projects can be diverse in object of study.
+Numerous ethics frameworks have been made available over the years.
+A well-established framework in data science is that of the [five safes](https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/), for example.
+A comprehensive resource for the governance of artificial intelligence is [*Understanding artificial intelligence ethics and safety*](https://www.turing.ac.uk/sites/default/files/2019-08/understanding_artificial_intelligence_ethics_and_safety.pdf).
+A much more specific framework has been developed for the wellbeing of researchers exposed to abusive online content: [*Guidelines for researchers working with abusive content*](https://github.com/bvidgen/Challenges-and-frontiers-in-abusive-content-detection/blob/master/Challenges%20and%20frontiers%20in%20abusive%20content%20detection%20Appendix%20-%20researcher%20guidelines.pdf)
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

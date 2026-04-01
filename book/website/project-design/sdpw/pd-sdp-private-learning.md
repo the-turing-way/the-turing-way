@@ -10,15 +10,15 @@ It's important to note that local and international regulations such as the [Gen
 
 Training a complex ML model can often require a very large amount of data, more than a single researcher or organisation could feasibly generate. Sharing our data not only helps us to create more reproducible research, but promotes advancements in the field as a whole. However, this does pose the risk of inadvertently sharing personal information that could be used to identify a subject.
 
-Most researchers will remove uniquely identifying information (such as ID numbers, address, and phone numbers) before publication, but recent research has shown that with access to secondary datasets, such 'pseudonymised' datasets can still be traced back to the individual {cite:ps}`narayananRobustDeanonymizationLarge2008,sunIdentityAnonymizationHighdimensional2012`.
+Most researchers will remove uniquely identifying information (such as ID numbers, address, and phone numbers) before publication, but recent research has shown that with access to secondary datasets, such 'pseudonymised' datasets can still be traced back to the individual @narayanan2008deanonymization @sun2012anonymization.
 
 ### Differential privacy
 
-Differential privacy is a statistical tool which can estimate the risk of uniquely identifying a member of a dataset, whereupon calibrated noise can be added to ensure that privacy is preserved {cite:ps}`yangDifferentialPrivacyData2012`.
+Differential privacy is a statistical tool which can estimate the risk of uniquely identifying a member of a dataset, whereupon calibrated noise can be added to ensure that privacy is preserved @yang2012privacy.
 
 ### Synthetic data generation
 
-If sharing the original data raises privacy or ethical concerns, we can still contribute useful information by sharing synthetic datasets that reproduce statistical features of the original dataset without exposing actual instances {cite:ps}`torfiDifferentiallyPrivateSynthetic2020`. 
+If sharing the original data raises privacy or ethical concerns, we can still contribute useful information by sharing synthetic datasets that reproduce statistical features of the original dataset without exposing actual instances @torfi2020syntethic. 
 
 ### Useful resources
 
@@ -29,19 +29,23 @@ of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytool
 
 ## Learning with privacy
 
-Beyond sharing data with other researchers, we can also share our trained models, or make them available as a service: carrying out predictions on data provided by others without the need for them to invest time and resources in training their own systems. However, this sharing can also carry risks for personal privacy. For instance, many ML solutions require users to send personal data to a central server to process, exposing them to the risk of interception or misuse. The model itself may learn sequences from the dataset that we don't wish to be retained, a process referred to as unintended memorization {cite:ps}`carliniSecretSharerEvaluating2019`. This could be particularly harmful when considering models dealing with large amounts of user-created text {cite:ps}`brownWhatDoesIt2022`.
+Beyond sharing data with other researchers, we can also share our trained models, or make them available as a service: carrying out predictions on data provided by others without the need for them to invest time and resources in training their own systems.
+However, this sharing can also carry risks for personal privacy.
+For instance, many ML solutions require users to send personal data to a central server to process, exposing them to the risk of interception or misuse.
+The model itself may learn sequences from the dataset that we don't wish to be retained, a process referred to as unintended memorization @carlini2019networks.
+This could be particularly harmful when considering models dealing with large amounts of user-created text @brown2022privacy.
 
 ### Federated learning
 
-Federated Learning is a design paradigm in which the users' data never leaves their own devices, with the model itself being broken down into a set of computations that take place on the edge, before updates are sent back to a central coordinator {cite:ps}`kairouzAdvancesOpenProblems2019`.
+Federated Learning is a design paradigm in which the users' data never leaves their own devices, with the model itself being broken down into a set of computations that take place on the edge, before updates are sent back to a central coordinator @kairouz2019openproblems.
 
 ### Adversarial learning
 
-We can also draw on the experience of research in the field of cross-domain training to teach models to ignore undesirable data by directly controlling the training process {cite:ps}`Coavoux2018`. This can also be extended beyond private attributes to elimination of unwanted biases {cite:ps}`zhangMitigatingUnwantedBiases2018`.
+We can also draw on the experience of research in the field of cross-domain training to teach models to ignore undesirable data by directly controlling the training process {cite:ps}`Coavoux2018`. This can also be extended beyond private attributes to elimination of unwanted biases @zhang2018biases.
 
 ### Differential privacy
 
-Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training {cite:ps}`boulemtafesReviewPrivacypreservingTechniques2020,feyisetanPrivacyUtilitypreservingTextual2020`. 
+Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training @boulemtafes2020privacy @feyisetan2020privacy. 
 
 ### Useful resources
 

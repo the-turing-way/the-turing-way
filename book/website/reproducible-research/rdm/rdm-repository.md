@@ -176,7 +176,7 @@ In OSF terminology, these folders with custom privacy settings are called *compo
 OSF has servers in Europe which allows compliance with the [GDPR](#pd-sdp-personal-policies).
 
 ### OSF and FAIR principles
-The following functionality of OSF helps to make such a folder [FAIR](rr-rdm-fair):
+The following functionality of OSF helps to make such a folder [FAIR](#rr-rdm-fair):
 
 - In addition to its own unique, persistent URLs, OSF offers DOIs for public folders.
 - OSF allows to add metadata to your folder.
