@@ -19,7 +19,6 @@ You will find these details in the following chapters:
 - {ref}`fw-navigating`
 - {ref}`fw-emergent-strategy`
 - {ref}`fw-embracing-digital-commons`
-- {ref}`fw-community`
 - {ref}`fw-governance`
 - {ref}`fw-cite`
 - {ref}`fw-faqs`
