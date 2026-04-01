@@ -38,8 +38,6 @@ project:
           title: Emergence as The Turing Way Strategy
         - file: foreword/embracing-digital-commons.md
           title: Embracing the Principles of Digital Commons
-        - file: foreword/community.md
-          title: Community and Community Roles
         - file: foreword/governance.md
           title: Governance
           children:
