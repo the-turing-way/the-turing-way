@@ -45,7 +45,7 @@ Creating tables, plots, or calculating summaries and statistics are a helpful wa
 ## 3. Remove unnecessary or sensitive data, duplicates and consider outliers
 
 Each unnecessary entry can complicate your analyses and/or distort your findings.
-You should carefully consider if your dataset contains any sensitive data or [](pd-sdp-personal) that should not be shared. 
+You should carefully consider if your dataset contains any sensitive data or [](#pd-sdp-personal) that should not be shared. 
 Delete draft or test entries and duplicates, after carefully reviewing if they are indeed test entries or duplicates. 
 Consider unexpected data, such as unusually high or low values. 
 These could be data entry errors, but they may also be the most interesting findings! 
@@ -85,11 +85,6 @@ It is easier to not have to clean data - you can prevent data errors during data
 Define range limits on your data where possible (for example, the score must be a value between 0 and 10 for household members; a birthday must be between certain dates). 
 Prevent blank values by requiring data entry, or ensure that where blank values should be present they are intentional. 
 
-(rr-rdm-cleaning-old)=
-# Cleaning up old data
-
-Sometimes it is needed to make data cleaning decisions after the data is already processed an organized. 
-Data takes up space - which data should be kept for the long term and what can be removed? 
 
 (rr-rdm-cleaning-lab)=
 # Data cleaning with a Team/Lab
