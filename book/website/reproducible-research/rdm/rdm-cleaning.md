@@ -56,7 +56,7 @@ Sum-to-total, range and validity checks can help you to find errors.
 Align all variables, by for example writing all dates out in a similar manner, and keeping capitalisation consistent. 
 For example, "Yes,” “yes,” and “Y” are treated by computers as separate responses. 
 Ensure that all variables are labeled and used in a consistent manner across different data formats. 
-Use clear [naming conventions](#rr-rdm-storage-conventions] for your files and folders.
+Use clear [naming conventions](#rr-rdm-storage-conventions) for your files and folders.
 
 ## 5. One variable is one data entry
 
