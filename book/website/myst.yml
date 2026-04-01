@@ -1,4 +1,5 @@
 version: 1
+extends: ./roles.yml
 project:
   title: The Turing Way
   authors:
@@ -1102,6 +1103,107 @@ project:
           title: Glossary
         - file: afterword/bibliography.md
           title: Bibliography
+  substitutions:
+    roles:
+      chair:
+        name: "Chair"
+        level: constitutional
+        incumbent:
+          - id: kirstie-whitaker
+            start: 2025-01-01
+        previous: []
+        responsibilities:
+          - Set agenda for steering committee meetings
+          - Lead steering committee meetings
+        github_team: null
+      chair_elect:
+        name: "Chair Elect"
+        level: constitutional
+        incumbent:
+          - id: batool-almarzouq
+            start: 2025-01-01
+        previous: []
+        responsibilities: []
+        github_team: null
+      secretary:
+        name: "Secretary"
+        level: constitutional
+        incumbent:
+          - id: arielle-bennett
+            start: 2025-01-01
+        previous: []
+        responsibilities:
+          - Archive minutes from steering committee meetings
+        github_team: null
+      infrastructure_working_group_chair:
+        name: "Infrastructure working group chair"
+        level: constitutional
+        incumbent:
+          - id: jim-madge
+            start: 2025-01-01
+        previous:
+          - id: danny-garside
+            start: 2024-01-01
+            end: 2025-01-01
+        responsibilities:
+          - Represent infrastructure working group at steering committee meetings
+        github_team: null
+      infrastructure_working_group:
+        name: "Infrastructure working group"
+        level: maintenance
+        incumbent:
+          - id: jim-madge
+            start: 2023-01-01
+          - id: danny-garside
+            start: 2023-01-01
+          - id: sarah-gibson
+            start: 2023-01-01
+          - id: brigitta-sipőcz
+            start: 2023-01-01
+        previous:
+          - id: johanna-bayer
+            start: 2025-01-01
+        responsibilities:
+          - Maintain continuous integration
+          - Maintain book build and deployment workflow
+          - Manage hosting
+          - Manage DNS (including redirects)
+          - Maintain MyST plugins
+        github_team:
+          name: "Infrastructure Working Group"
+          description: ""
+          level: infrastructure
+          roles:
+            organisation:
+              - maintain
+            repo:
+              book: maintain
+              infrastructure_working_group: maintain
+      accessibility_working_group:
+        name: "Accessibility working group"
+        level: maintenance
+        incumbent:
+          - id: liz-hare
+            start: 2023-01-01
+        previous:
+          - id: anne-lee-steele
+            start: 2023-01-01
+            end: 2025-01-01
+        responsibilities: []
+        github_team:
+      gardeners:
+        name: "Gardeners"
+        description: ""
+        level: community
+        members: []
+        github_team:
+          name: "Gardeners"
+          description: ""
+          roles:
+            organisation:
+              - triage
+            repo:
+              book: triage
 site:
   options:
     logo: ../figures/logo-detail-with-text.svg
