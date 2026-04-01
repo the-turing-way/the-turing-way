@@ -81,7 +81,7 @@ Further, data and outputs containing small cell counts may be potentially disclo
 It is also possible to generate a synethic dataset that mimics a real dataset. 
 A syntethic dataset preserves some of the aspects and characteristics of the real data, yet generates a different dataset which can safeguard the original senstive data.
 
-### More syntethic data information
+### More synthethic data information
 - Read more about [syntethic data on the Data Impact Blog](https://blog.ukdataservice.ac.uk/not-real-but-really-useful-synthetic-data-a-cost-benefit-analysis-of-its-practical-value/)
 - A webinar on [The Practices of Sharing Synthetic Dataset](https://www.youtube.com/watch?v=0epApx2S5-o) or [Using agent-based models as a simulation tool to generate synthetic data](https://www.youtube.com/watch?v=wk9jd9u9mRY)
 - Tools:
