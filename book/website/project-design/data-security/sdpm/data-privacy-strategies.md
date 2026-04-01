@@ -71,8 +71,8 @@ Further, data and outputs containing small cell counts may be potentially disclo
 *  [Anonymisation and open data: an introduction to managing the risk of re-identification](https://theodi.hacdn.io/media/documents/OPEN-RDP8-Anonymisation-and-open-data_-An-introduction-to-managing-the-risk-of_thVQCgw.pdf) by the Open Data institute (2019)
 * Tools for anonimisation
    * [Amnesia](https://amnesia.openaire.eu/) (tabular data)
-   * [ARX[(https://arx.deidentifier.org/) (tabular data)
-   * [Cornell Anonymization Toolkit[(#https://sourceforge.net/projects/anony-toolkit/) (tabular data)
+   * [ARX](https://arx.deidentifier.org/) (tabular data)
+   * [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/) (tabular data)
    * [mri_deface](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface) (MRI data)
    * [MITRE Identification Scrubber Toolkit (MIST)](http://mist-deid.sourceforge.net/) (free text medical records)
    * [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) (for unstructured text)
@@ -81,7 +81,7 @@ Further, data and outputs containing small cell counts may be potentially disclo
 It is also possible to generate a synethic dataset that mimics a real dataset. 
 A syntethic dataset preserves some of the aspects and characteristics of the real data, yet generates a different dataset which can safeguard the original senstive data.
 
-### More syntethic data information
+### More synthethic data information
 - Read more about [syntethic data on the Data Impact Blog](https://blog.ukdataservice.ac.uk/not-real-but-really-useful-synthetic-data-a-cost-benefit-analysis-of-its-practical-value/)
 - A webinar on [The Practices of Sharing Synthetic Dataset](https://www.youtube.com/watch?v=0epApx2S5-o) or [Using agent-based models as a simulation tool to generate synthetic data](https://www.youtube.com/watch?v=wk9jd9u9mRY)
 - Tools:

@@ -168,6 +168,8 @@ project:
               title: Software Management Plan
             - file: reproducible-research/rdm/rdm-fair.md
               title: The FAIR Principles and Practices
+            - file: reproducible-research/rdm/rdm-care.md
+              title: The CARE Principles
             - file: reproducible-research/rdm/rdm-personal.md
               title: Personal data management
             - file: reproducible-research/rdm/rdm-storage.md
@@ -182,6 +184,8 @@ project:
               title: Methods and Protocols
             - file: reproducible-research/rdm/rdm-elns.md
               title: Electronic Lab Notebooks (ELNs)
+            - file: reproducible-research/rdm/rdm-cleaning.md
+              title: Data Cleaning
             - file: reproducible-research/rdm/rdm-data-curation.md
               title: Data Curation
             - file: reproducible-research/rdm/rdm-visualisation.md
