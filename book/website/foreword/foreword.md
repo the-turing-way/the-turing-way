@@ -11,17 +11,7 @@ Here you will find chapters providing contexts and background on the book, how y
 Kirstie Whitaker, founder and the project lead until November 2024, discussed "Emergent Strategy" and how it has inspired her leadership and the foundation of _The Turing Way_.
 Malvika Sharan, a previous project lead until June 2025 also shared her reflections from working with the community and how _The Turing Way_ applies approaches that underpin the "Principles of Digital Commons."
 
-Finally, we provide details on community roles, citation process and frequently asked questions to help identify the right places for you to get involved.
-
-You will find these details in the following chapters:
-
-- {ref}`fw-background`
-- {ref}`fw-navigating`
-- {ref}`fw-emergent-strategy`
-- {ref}`fw-embracing-digital-commons`
-- {ref}`fw-governance`
-- {ref}`fw-cite`
-- {ref}`fw-faqs`
+We also provide details on the citation process and frequently asked questions to help identify the right places for you to get involved.
 
 ```{figure} ../../figures/banner-welcome.jpg
 ---
