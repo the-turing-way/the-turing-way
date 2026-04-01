@@ -71,8 +71,8 @@ Further, data and outputs containing small cell counts may be potentially disclo
 *  [Anonymisation and open data: an introduction to managing the risk of re-identification](https://theodi.hacdn.io/media/documents/OPEN-RDP8-Anonymisation-and-open-data_-An-introduction-to-managing-the-risk-of_thVQCgw.pdf) by the Open Data institute (2019)
 * Tools for anonimisation
    * [Amnesia](https://amnesia.openaire.eu/) (tabular data)
-   * [ARX[(https://arx.deidentifier.org/) (tabular data)
-   * [Cornell Anonymization Toolkit[(#https://sourceforge.net/projects/anony-toolkit/) (tabular data)
+   * [ARX](https://arx.deidentifier.org/) (tabular data)
+   * [Cornell Anonymization Toolkit](https://sourceforge.net/projects/anony-toolkit/) (tabular data)
    * [mri_deface](https://surfer.nmr.mgh.harvard.edu/fswiki/mri_deface) (MRI data)
    * [MITRE Identification Scrubber Toolkit (MIST)](http://mist-deid.sourceforge.net/) (free text medical records)
    * [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) (for unstructured text)
