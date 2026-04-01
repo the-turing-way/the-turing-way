@@ -32,23 +32,25 @@ project:
           title: Background
         - file: foreword/navigate.md
           title: Navigating the Handbook
-        - file: foreword/guiding-principles.md
-          title: Guiding Principles
-        - file: foreword/emergent-strategy.md
-          title: Emergence as The Turing Way Strategy
-        - file: foreword/embracing-digital-commons.md
-          title: Embracing the Principles of Digital Commons
+        - file: foreword/faqs.md
+          title: Frequently Asked Questions
+        - file: foreword/cite.md
+          title: How to Cite
         - file: foreword/governance.md
           title: Governance
           children:
+            - file: foreword/governance/guiding-principles.md
+              title: Guiding Principles
             - file: foreword/governance/governance-roles.md
               title: Governance Roles
             - file: foreword/governance/ways-of-working.md
               title: Ways of Working
-        - file: foreword/cite.md
-          title: How to Cite
-        - file: foreword/faqs.md
-          title: Frequently Asked Questions
+        - title: Philosophy of The Turing Way
+          children:
+            - file: foreword/philosophy/emergent-strategy.md
+              title: Emergence as The Turing Way Strategy
+            - file: foreword/philosophy/embracing-digital-commons.md
+              title: Embracing the Principles of Digital Commons
     # ===== Pathways ===============================================================
     - title: Pathways
       file: pathways/pathways.md
