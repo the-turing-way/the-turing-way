@@ -24,7 +24,7 @@ If it is important to keep track of multiple versions of the data, you can set u
 
 ## 2. Understand/Validate the Data
 
-Data validation is a process used to determine if data are inaccurate, incomplete, or unreasonable (@Chapman2005data).
+Data validation is a process used to determine if data are inaccurate, incomplete, or unreasonable ([](https://doi.org/10.15468/doc.jrgg-a190)).
 
 To validate the data you can check if data are:
 
@@ -44,7 +44,7 @@ Creating tables, plots, or calculating summaries and statistics are a helpful wa
 
 ## 3. Remove unnecessary or sensitive data, duplicates and consider outliers
 
-Each unnecessary entry can complicate your analyses distort your findings, and you should carefully considered if your dataset contains any sensitive data or [](pd-sdp-personal)that should not be shared. 
+Each unnecessary entry can complicate your analyses distort your findings, and you should carefully considered if your dataset contains any sensitive data or [](pd-sdp-personal) that should not be shared. 
 Delete draft or test entries and duplicates, after carefully reviewing if they are indeed test entries or duplicates. 
 Consider unexpected data, such as unusually high or low values. 
 These could be data entry errors, but they may also be the most interesting findings! 
@@ -59,7 +59,7 @@ Use clear [naming conventions](#rr-rdm-storage-conventions] for your files and f
 
 ## 5. One variable is one data entry
 
-Each variable should only collect one piece of information (@Wickham2014tidydata) (see [Data Organisation in Spreadsheets for more tips](#rr-rdm-spreadsheets-format).
+Each variable should only collect one piece of information (@Wickham2014tidydata) (see [Data Organisation in Spreadsheets for more tips](#rr-rdm-spreadsheets-format)).
 Consider how to split variables into multiple variables if more than one thing is measured. 
 
 ## 6. Handle Missing Data Thoughtfully
