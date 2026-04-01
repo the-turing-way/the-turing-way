@@ -53,10 +53,10 @@ They should ensure that the information is:
 
 There are various policies in place in different countries to protect the rights of individuals over their personal data. 
 
-For example, in Australia personal data is regulated under the [Australian Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act). 
+For example, in Australia personal data is regulated under the [Australian Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act).
 In the European Union, the [GDPR (General Data Protection Regulation)](https://gdpr.eu/) applies to the processing of personal data. 
 Similarly, in the UK, it falls under the regulation of the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted), which is the UK’s implementation of the GDPR, and may be required to carry out a [Data Protection Impact Assessment (DPIA)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/what-is-a-dpia/) as a part of their accountability obligations.
-In the US the protection of sensitive health information is covered in the Health Insurance Portability and Accountability Act (HIPAA), see @Filip2023hipaa for a [pdf](https://www.sjsu.edu/research/docs/irb-data-management-handbook.pdf) with detailed guidance.
+In the US the protection of sensitive health information is covered in the Health Insurance Portability and Accountability Act (HIPAA), see @filip2023hipaa for a [pdf](https://www.sjsu.edu/research/docs/irb-data-management-handbook.pdf) with detailed guidance.
 
 Processing means doing anything with a person’s information, including collection, storage, analysis, sharing, deletion and destruction. 
 To ensure that you are up to date with the requirements of managing sensitive data, please review the national/institutional policies that apply to your research. 

@@ -7,7 +7,7 @@
 
 | Prerequisite | Importance | 
 | -------------|----------|
-| [](rr-rdm) | Helpful |
+| [](#rr-rdm) | Helpful |
 
 (pd-dg-summary)=
 ## Summary

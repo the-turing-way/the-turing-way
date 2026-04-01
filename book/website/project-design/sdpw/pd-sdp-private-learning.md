@@ -45,7 +45,7 @@ We can also draw on the experience of research in the field of cross-domain trai
 
 ### Differential privacy
 
-Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training @boulem2020privacy @feyisetan2020privacy. 
+Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training @boulemtafes2020privacy @feyisetan2020privacy. 
 
 ### Useful resources
 

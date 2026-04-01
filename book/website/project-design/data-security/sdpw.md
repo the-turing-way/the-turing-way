@@ -16,8 +16,7 @@ In this chapter, we describe how you can work with sensitive data in a practical
 We cover working on projects that use [trusted research environments (TREs)](#pd-sdpw-trew) such as data safe havens, including writing code and version control in TREs. 
 
 There are also sub-chapters that describe steps that are good to think about at the start of your project, such as how to [ensure that your sensitive files remain secure](#pd-sdpw-sensitive-files) when using GitHub.
-We also show how you can [safely share your code](#pd-sdpw-sensitive-code), even though it uses sensitive data, and draw attention to [what you should do if you inadvertently expose sensitive data on GitHub](#pd-sdpw-exposing-data).
-
+We also show how you can [safely share your code](#pd-sdpw-sensitive-code), even though it uses sensitive data.
 
 (pd-sdpw-motivation)=
 ## Motivation

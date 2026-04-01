@@ -3,7 +3,7 @@
 
 _The Turing Way_ uses [GitHub Teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) to organise its members and manage access/permissions to various repositories, most notably [Working Groups](#subprojects-working-groups).
 However, as the community grows and we create more teams and repositories, managing the GitHub Teams will become more difficult and time consuming.
-Also, a bottleneck will be created if only a small number of community members (for example the GitHub organisation owners or the [Infrastructure Working Group](subprojects-infra-wg)) have the ability to manage the teams.
+Also, a bottleneck will be created if only a small number of community members (for example the GitHub organisation owners or the [Infrastructure Working Group](#subprojects-infra-wg)) have the ability to manage the teams.
 Therefore, a repository has been setup using [infrastructure-as-code principles](https://en.wikipedia.org/wiki/Infrastructure_as_code) specifically targeting teams management: [the-turing-way/teams-as-code#README.md](https://github.com/the-turing-way/teams-as-code/blob/HEAD/README.md).
 This repository enables each team to manage their membership independently.
 
@@ -15,7 +15,7 @@ This will allow easier management and control of teams, their members, and permi
 As well as this ease of management, we have chosen this approach because it will make the teams easier to audit. 
 Who made what changes will be captured in the git history of the repository.
 All of this information is now centralised and transparent in a single place and easy-to-read format.
-The bottleneck on the [Infrastructure Working Group](subprojects-infra-wg) and/or GitHub org admins will be removed since those with write access (the teams themselves) will be able to raise, review, and merge their own Pull Requests against this repository.
+The bottleneck on the [Infrastructure Working Group](#subprojects-infra-wg) and/or GitHub org admins will be removed since those with write access (the teams themselves) will be able to raise, review, and merge their own Pull Requests against this repository.
 We have implemented a [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file that makes each GitHub team responsible for their own YAML file defining it (or a good enough approximation where necessary).
 
 Please see the [teams-as-code repository](https://github.com/the-turing-way/teams-as-code) for more information.
