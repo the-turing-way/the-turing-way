@@ -64,6 +64,7 @@ TK Labels allow communities to express local and specific conditions for sharing
 
 (rr-rdm-care-information)=
 ## More information
+- [Indigenous Data Sovereignty toolkit](https://nwac-afac.ca/assets-documents/Indigenous-Data-Sovereignty-Toolkit-EN.pdf) by the Native Women's Association of Canada
 - [The Dissonance between Scientific Altruism... - Joseph M Yracheta - BOSC](https://www.youtube.com/watch?v=c7CKpbW1RoQ)
 - [Working with the CARE principles: operationalising Indigenous data governance](https://www.adalovelaceinstitute.org/blog/care-principles-operationalising-indigenous-data-governance/)
 - [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
