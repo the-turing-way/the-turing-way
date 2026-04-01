@@ -60,7 +60,7 @@ Use clear [naming conventions](#rr-rdm-storage-conventions) for your files and f
 
 ## 5. One variable is one data entry
 
-Each variable should only collect one piece of information (@Wickham2014tidydata) (see [Data Organisation in Spreadsheets for more tips](#rr-rdm-spreadsheets-format)).
+Each variable should only collect one piece of information (@Wickham2014tidydata). See [Data Organisation in Spreadsheets](#rr-rdm-spreadsheets-format) for more tips.
 Consider how to split variables into multiple variables if more than one thing is measured. 
 
 ## 6. Handle Missing Data Thoughtfully
