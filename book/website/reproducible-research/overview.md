@@ -32,6 +32,7 @@ For further reading resources on reproducibility, please check out the [Resource
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
 
+The following example illustrates how a simple reproducible data science workflow can be structured in practice:
 ### Example: A Simple Reproducible Data Science Workflow
 
 A reproducible data science workflow helps others understand, repeat, and verify a piece of work. A simple workflow might include the following steps:
