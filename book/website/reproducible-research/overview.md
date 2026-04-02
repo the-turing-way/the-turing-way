@@ -31,3 +31,32 @@ In addition, "negative results" can be published easily, helping avoid other res
 For further reading resources on reproducibility, please check out the [Resources](#rr-overview-resources) subchapter.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
+
+### Example: A Simple Reproducible Data Science Workflow
+
+A reproducible data science workflow helps others understand, repeat, and verify a piece of work. A simple workflow might include the following steps:
+
+1. **Data collection**
+   - Store raw data in a dedicated folder such as `data/raw/`
+   - Avoid modifying original data files directly
+
+2. **Data processing**
+   - Use scripts (for example, in Python or R) to clean and transform the data
+   - Save outputs in a separate folder such as `data/processed/`
+
+3. **Version control**
+   - Track code and documentation changes using Git
+   - Avoid committing large raw datasets where possible
+
+4. **Analysis**
+   - Run analysis in scripts or notebooks
+   - Ensure the workflow can be executed from start to finish without manual intervention
+
+5. **Environment management**
+   - Record dependencies in files such as `requirements.txt` or `environment.yml`
+   - This helps others recreate the same computational environment
+
+6. **Documentation**
+   - Include a README describing the project structure, how to run the analysis, and expected outputs
+
+This kind of structure improves transparency, reproducibility, and collaboration in research workflows.
