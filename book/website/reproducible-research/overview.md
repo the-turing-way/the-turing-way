@@ -31,3 +31,24 @@ In addition, "negative results" can be published easily, helping avoid other res
 For further reading resources on reproducibility, please check out the [Resources](#rr-overview-resources) subchapter.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
+
+## Practical Example: Data Validation using Python
+
+Ensuring data quality is a critical step in reproducible research. Poor data quality can lead to unreliable results and reduced trust in scientific findings.
+
+Below is a simple example using Python and pandas to validate a dataset:
+
+```python
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("data.csv")
+
+# Check for missing values
+print("Missing values:\n", df.isnull().sum())
+
+# Remove duplicate rows
+df = df.drop_duplicates()
+
+# Basic data summary
+print(df.describe())
