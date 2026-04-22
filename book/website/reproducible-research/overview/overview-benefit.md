@@ -58,3 +58,34 @@ This ensures the continuity of a research idea and can even find fresh applicati
 Progress of such projects can easily be tracked and continued - either by other researchers, or yourself if you want to build on your own work after a longer period {cite:ps}`Markowetz2015`.
 
 To learn about other benefits of working reproducibly on Open Research projects are covered in our {ref}`rr-open` chapter.
+
+These benefits often become clearer when reproducibility is embedded into day-to-day research practice. The following example shows how a simple reproducible data science workflow can support transparency, continuity, and collaboration.
+
+### Example: A simple reproducible data science workflow
+
+A reproducible data science workflow helps others understand, repeat, and verify a piece of work. A simple workflow may include the following steps:
+
+1. **Data collection**
+   - Store raw data in a dedicated folder such as `data/raw/`
+   - Avoid modifying original data files directly
+
+2. **Data processing**
+   - Use scripts (for example, in Python or R) to clean and transform the data
+   - Save processed outputs in a separate folder such as `data/processed/`
+
+3. **Version control**
+   - Track code and documentation changes using Git
+   - Avoid committing large raw datasets where possible
+
+4. **Analysis**
+   - Run analysis in scripts or notebooks
+   - Ensure the workflow can be executed from start to finish without manual intervention
+
+5. **Environment management**
+   - Record dependencies in files such as `requirements.txt` or `environment.yml`
+   - This helps others recreate the same computational environment
+
+6. **Documentation**
+   - Include a README describing the project structure, how to run the analysis, and the expected outputs
+
+This kind of structure can improve transparency, reproducibility, and collaboration in research workflows.
