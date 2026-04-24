@@ -84,3 +84,55 @@ website using low-code or high-code options.
 #### Dynamic website generator
 
 * [Django](https://www.djangoproject.com/)
+
+# Building an academic website with Quarto
+
+Quarto is a powerful open-source scientific and technical publishing system that
+enables researchers to create dynamic and interactive websites, documents, and
+presentations using a combination of markdown and code. It supports multiple
+programming languages, including R, Python, and Julia, making it a versatile tool
+for researchers across various disciplines.
+
+## Why use Quarto for academic websites?
+Using Quarto for building academic websites offers several advantages:
+* **Ease of Use**: Quarto's markdown-based syntax is user-friendly, allowing researchers to create content without extensive web development knowledge.
+* **Integration with Code**: Quarto seamlessly integrates code and data, enabling researchers to include dynamic visualizations, analyses, and interactive elements directly within their websites. It allows you to mix text, code, and outputs in a single document. Similar to R Markdown, you can create documents that combine narrative text with code chunks that generate figures, tables, and other outputs.
+* **Integraton with Latex**: Quarto has robust support for LaTeX, making it easy to include mathematical equations and scientific notation in your website content.
+* **Customizability**: Quarto provides a range of themes and templates. This allows academics to customize their website. 
+* **Reproducibility**: Quarto promotes reproducible research by allowing researchers to document their workflows and analyses alongside their content.
+* **Open Source**: Quarto is open-source software, which means it is freely available and can be modified to suit individual needs.
+
+## Getting Started with Quarto
+To get started with Quarto, follow these steps:
+1. **Install Quarto**: Download and install Quarto from the official website (https://quarto.org/).
+2. Choose your preferred IDE (for example, RStudio, VS Code) for editing Quarto files. We recommend RStudio for R users and VS Code for Python and Julia users. This tutorial will use VS Code.
+3. **Install VS Code**: Download and install Visual Studio Code from the official website (https://code.visualstudio.com/).
+4. **Install Quarto Extension**: In VS Code, go to the Extensions view (Ctrl+Shift+X), search for "Quarto", and install the Quarto extension.
+5. **Set Up Git and GitHub**: If you plan to host your website on GitHub Pages, ensure you have Git installed on your computer and create a GitHub account if you don't have one already.
+
+## Creating a Quarto Website
+1. **Set Up a New Project**: Create a new Quarto project. You can do this by opening VS Code, and typing `Ctrl+Shift+P` to open the command palette. Then, type "Quarto: Create New Project" and select it. Choose "Website" as the project type and specify a folder for your project. In the next step, you willbe promted to give your project a name. 
+
+This step creates the basic structure of your Quarto website, including necessary files and folders. Let's have a look at them.
+
+![The file structure of a newly create Quarto project](book/figures/file_structure_quarto_project.png)
+
+First, we see the `_quarto.yml` file. This is the main configuration file for your Quarto website. It contains metadata about your site, such as the title (which you can change immediately, if you want), information about the location of the navbar (in this case, left) and the theme. You should also see that two pages are already created for you: `index.qmd` and `about.qmd`. From these two examples, you cans see that there are two ways to link content to the navbar: either by specifying the file name directly (as in the case of `about.qmd`) or by providing a title and a file name (as in the case of `index.qmd`). In the latter case, the title specified ("text") will be displayed in the navbar instead of the title from the file itself.
+
+You can open these files to see their content. The `index.qmd` file is the homepage of your website, while the `about.qmd` file contains information about you or your research.
+
+2. **Customize Your Website**: Open the `_quarto.yml` file and modify the title to reflect your personal information. You can also customize the theme and layout of your website by exploring the Quarto documentation (https://quarto.org/docs/websites/).
+
+::: {.callout-note title="About qmd files"}
+.qmd files are Quarto markdown files. They are similar to .Rmd files used in R Markdown but are more versatile as they support multiple programming languages, including R, Python, and Julia. These files allow you to combine narrative text with code chunks that can generate figures, tables, and other outputs, making them ideal for creating dynamic and interactive content. 
+
+Quarto renders .qmd files into various formats, including HTML for websites, which can be displayed in a web browser. We use this feature to create our website.
+:::
+
+3. Preview your website.
+Quarto allows you to preview your website locally before deploying it online. Now would be a good time to do that and see how your website looks so far. In VS Code, open the terminal (Ctrl+`), navigate to your project directory using the `cd` command, and run the following command:
+
+```bash
+quarto preview
+```
+This command will render your website (convert the .qmd files to HTML) and start a local web server. You can then open your web browser and go to `http://localhost:4200` to see your website.
