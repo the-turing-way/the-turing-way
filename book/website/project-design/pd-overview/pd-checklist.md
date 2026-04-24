@@ -22,7 +22,8 @@ Finally, we can plan for publishing and sharing research components before, duri
 * Determine the appropriate research methods and materials.
 * Consider the necessary code and data requirements for your project.
 * Document the workflow for data collection, analysis, and interpretation.
-* Define data governance processes to ensure data is kept securely, used appropriately, and complies with data regulations in relevant countries or geographic areas. Consider ethical implications such as data privacy, bias, and responsible use of data in research workflows.
+* Define data governance processes to ensure data is kept securely, used appropriately, and complies with data regulations in relevant countries or geographic areas. 
+* Consider ethical implications such as data privacy, bias, and responsible use of data in research workflows.
 * Useful documentation: [data management plan](#rr-rdm-dmp), [code repository](#pd-project-repo), [electronic lab notebooks](#rr-open-notebooks), [Data Governance Chapter](#pd-dg)
 
 ## Operations 
