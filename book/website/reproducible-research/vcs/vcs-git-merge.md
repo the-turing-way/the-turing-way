@@ -17,7 +17,8 @@ Merge branch_A into branch_B by:
 git merge branch_A
 ```
 
-This will bring the changes from branch_A into branch_B. Merging will not be possible if there are changes in either your working directory or staging area that could be written over by the files that you are merging in.
+This will bring the changes from branch_A into branch_B. 
+Merging will not be possible if there are changes in either your working directory or staging area that could be written over by the files that you are merging in.
 If this happens, there are no merge conflicts in individual files.
 You need to commit or stash the files it lists and then try again.
 The error messages are as follows:
