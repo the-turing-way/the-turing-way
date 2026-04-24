@@ -7,16 +7,17 @@
 Once you have finished up some work on a branch and you are ready to integrate it to your main project (or any other branch), you can merge the branch that you worked on into the main branch or any other target branch of your interest.
 You can also use merging to combine work that other people have done with your own and vice versa.
 
-To merge a branch, branch_A, into another branch, branch_B, switch to branch_A via:
+To merge changes from a branch, e.g., branch_A, into another branch, branch_B, switch to branch_B via:
 ```
-git checkout branch_A
+git checkout branch_B
 ```
-Merge it into branch_B by:
+Merge branch_A into branch_B by:
 
 ```
-git merge branch_B
+git merge branch_A
 ```
 
+This will bring the changes from branch_A into branch_B. 
 Merging will not be possible if there are changes in either your working directory or staging area that could be written over by the files that you are merging in.
 If this happens, there are no merge conflicts in individual files.
 You need to commit or stash the files it lists and then try again.
