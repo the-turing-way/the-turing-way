@@ -3,20 +3,20 @@
 
 Having clear onboarding processes ensure that group members are off to a good start in the lab. 
 Offboarding processes ensure that everything is taken care off when lab members leave for a future step. 
-The on- and offboarding checklists below provide some pointers on how to set up the on/off boarding checklists of your group, that can be a part of your {ref}`Team Manual <cl-team-manual>`.
+The on- and offboarding checklists below provide some pointers on how to set up the on/off boarding checklists of your group, that can be a part of your [](#cl-team-manual).
 
 (cl-team-manual-on-boarding)=
 ## Onboarding Checklist
-* Review relevant documents provided in a main resource such the {ref}`Team Manual <cl-team-manual>`. 
+* Review relevant documents provided in a main resource such the [](#cl-team-manual). 
 Information may include:
     * List of team members, their roles and projects
     * Institutional policies as well as participation guidelines of the research group, institute, funder or country.
     * Code of Conduct and reporting mechanism.
     * Point of contacts for IT, HR, data protection, legal, communications  or other teams who you might need to connect for different purposes.
     * Authorship and contributorship guidelines.
-* Check whether the team has a {ref}`Data Management Plan<rr-rdm-dmp>` or whether you need to set this up yourself 
-    * Review your storage options and access to software and tools such as {ref}`Electronic Lab Notebooks<rr-rdm-elns>`.
-    * Especially when working with {ref}`sensitive data<pd-sdp>` it is important to familiarise new team members with the recommended practices.
+* Check whether the team has a [](#rr-rdm-dmp) or whether you need to set this up yourself 
+    * Review your storage options and access to software and tools such as [](#rr-rdm-elns).
+    * Especially when working with [](#pd-sdp) it is important to familiarise new team members with the recommended practices.
     * Consider options for long term storage and data sharing
 * Set up documentation for your workflows (lab notes, project repository, README files) based on the recommendations provided by your team (ideally outlined in the Team Manual or Data management Plan). 
     * Check whether there are existing templates that can be reused. 
@@ -40,6 +40,7 @@ Information may include:
 ### Examples
 
 - [example offboarding checklist](https://doi.org/10.5281/zenodo.7520527)
+- [Offboarding Template for Research Data and Knowledge Transfer](https://doi.org/10.5281/zenodo.19351936)
 
 (cl-team-manual-on-off-boarding-resources)=
 ## More information
