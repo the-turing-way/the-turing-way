@@ -27,7 +27,7 @@ We see peer review as an important exercise in {ref}`collaboration<cl>` not limi
 However, in current research practice, peer review often appears as a hurdle everyone needs to pass through.
 
 
-```{figure} ../../../figures/peer-review-reply.*
+```{figure} http://www.phdcomics.com/comics/archive/phd050305s.gif
 ---
 height: 1154px
 label: peer-review-repl
