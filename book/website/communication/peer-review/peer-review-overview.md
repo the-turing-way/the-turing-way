@@ -29,7 +29,6 @@ However, in current research practice, peer review often appears as a hurdle eve
 
 ```{figure} http://www.phdcomics.com/comics/archive/phd050305s.gif
 ---
-height: 1154px
 label: peer-review-repl
 alt: >
   Recommendations on Addressing reviewer comments by www.phdcomics.com, copyrighted by Jorge Cham (2005).
