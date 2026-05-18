@@ -650,7 +650,10 @@ roles: |
 github: EKaroune
 orcid: 0000-0002-6576-6053
 bio: |
-    I'm a Principal Investigator at The Alan Turing Institute and co-founder of [RCM Cooperative](https://www.rcmcooperative.com/). At Turing, I lead metascience research projects that aims to create a better understanding of skills, roles and team science approaches in biomedical data science. I also lead and support multiple research communities including the Clinical AI Interest Group, AI for Womens Health Group, and Open Phytoliths. I have a PhD in Palaeoecology from the Institute of Archaeology, University College London. All of my research and community building embraces an Open Scholarship approach in which I strive to develop more open and sustainable research practices within her discipline and beyond.
+    I'm a Principal Investigator at The Alan Turing Institute and co-founder of [RCM Cooperative](https://www.rcmcooperative.com/). 
+    At Turing, I lead metascience research projects that aims to create a better understanding of skills, roles and team science approaches in biomedical data science. I also lead and support multiple research communities including the Clinical AI Interest Group, AI for Womens Health Group, and Open Phytoliths. 
+    I have a PhD in Palaeoecology from the Institute of Archaeology, University College London. 
+    All of my research and community building embraces an Open Scholarship approach in which I strive to develop more open and sustainable research practices within her discipline and beyond.
 highlights: |
     I love our Book Dashes! I really enjoy working in such a collaborative way. I have had interesting discussions concerning the accessibility of The Turing way, collaboration, communication and research in general with other contributors.
     I first contributed to TTW by further developing my GitHub skills by working in collaboration with \@paulowoicho, \@malvikasharan and \@KirstieJane to develop a chapter on 'Getting Started on Github'.
