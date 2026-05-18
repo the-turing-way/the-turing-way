@@ -650,14 +650,15 @@ roles: |
 github: EKaroune
 orcid: 0000-0002-6576-6053
 bio: |
-    I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Institute. I’m also a post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. I have a PhD in Palaeoecology from the Institute of Archaeology, University College London. I am leading a project to improve the FAIRness of phytolith data. I am also working on a project with Historic England concerning the development of novel methodologies in phytolith research for application to British Archaeological remains.
+    I'm a Principal Investigator at The Alan Turing Institute and co-founder of [RCM Cooperative](https://www.rcmcooperative.com/). At Turing, I lead metascience research projects that aims to create a better understanding of skills, roles and team science approaches in biomedical data science. I also lead and support multiple research communities including the Clinical AI Interest Group, AI for Womens Health Group, and Open Phytoliths. I have a PhD in Palaeoecology from the Institute of Archaeology, University College London. All of my research and community building embraces an Open Scholarship approach in which I strive to develop more open and sustainable research practices within her discipline and beyond.
 highlights: |
-    I have really enjoyed working in such a collaborative way during the Book Dash. I have had interesting discussions concerning the accessibility of The Turing way, collaboration, communication and research in general with other contributors.
-    I have further developed my GitHub skills by working in collaboration with \@paulowoicho, \@malvikasharan and \@KirstieJane to develop a chapter on 'Getting Started on Github'.
-    This improvement in my skills will really benefit my own personal research to develop my own collaborative working groups and teach others how to use these research tools.
+    I love our Book Dashes! I really enjoy working in such a collaborative way. I have had interesting discussions concerning the accessibility of The Turing way, collaboration, communication and research in general with other contributors.
+    I first contributed to TTW by further developing my GitHub skills by working in collaboration with \@paulowoicho, \@malvikasharan and \@KirstieJane to develop a chapter on 'Getting Started on Github'.
+    This improvement in my skills has really benefited my own personal research to develop my own collaborative working groups and teach others how to use these research tools.
     At the May 2021 Book Dash, I enjoyed mentoring new contributors' contributions, reviewing pull requests and helping to run sessions during the Book Dash. It was great to work collaboratively to improve and publish a new chapter on 'Communicating with wider audiences' in the Guide for Communication.
     I've been the lead author and organiser of the academic authorship chapter.
     At the November 2021 Book Dash, I have been hosting sessions and helping to review pull requests #2160, #1919 and #2167. I've also worked with \@MariaEriksson to plan and start writing an overview of sensitive data.
+    I have since attended lots more book dashes and I am now one of the leads of the Book Dash working group. 
 more: |
     I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data.
 quote: |
