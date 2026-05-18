@@ -39,7 +39,7 @@ Information may include:
 (cl-team-manual-off-boarding-example)=
 ### Examples
 
-- [example offboarding checklist](https://doi.org/10.5281/zenodo.7520527)
+- [Example offboarding checklist](https://doi.org/10.5281/zenodo.7520527)
 - [Offboarding Template for Research Data and Knowledge Transfer](https://doi.org/10.5281/zenodo.19351936)
 
 (cl-team-manual-on-off-boarding-resources)=
