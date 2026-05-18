@@ -58,7 +58,7 @@ This means that many of our contributors do not have the technical expertise to 
 Therefore, we need to ensure that our roadmap is accessible for all and thus not only accessed via GitHub. Therefore, our roadmap will be hosted:
 - On our website
 - In a shared document for internal use (Excel sheet)
-- Github repository (MarkDown file)
+- Github repository ({term}`Markdown` file)
 
 However, we will address this technical barrier as our roadmap will include a link to issues in the repository.
 To overcome this, we have planned to teach basic skills in GitHub, such as creating an account and accessing our issues list.

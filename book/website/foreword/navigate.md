@@ -42,7 +42,7 @@ All community processes are captured in {ref}`ch` to provide workflows, guidelin
 
 We have also developed {ref}`fw` and {ref}`aw` to share contexts, backgrounds and supplementary resources from and about _The Turing Way_.
 
-Chapters in the Community Handbook, Foreword and afterword are written by both the project delivery team and community members involved in the different leadership, maintenance or community support roles. 
+Chapters in the Community Handbook, Foreword and afterword are written by the previous project delivery team (now replaced by maintainers and Steering Committee) and community members involved in the different leadership, maintenance or community support roles. 
 
 *Browse the different guides and sections that make up the book, or use the search box to search for whatever you would like to learn about first.*
 
@@ -66,5 +66,5 @@ The scope of _The Turing Way_ can be broadly described across six categories, wi
 5. **Project Partnership:** Proactively partnering with organisations and projects aligned with our vision and mission, combining knowledge, expertise, and resources for the shared benefits of our communities.
 6. **Global Impact:** Extending the impact of _The Turing Way_ by conducting global outreach, engaging with different sectors, supporting the localisation of resources, advocating for policy changes and facilitating cross-community efforts
 
-**Get Involved:** If you have ideas and plans for _The Turing Way_, please reach out to _The Turing Way_ team via email at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). Your input is valuable to the ongoing development of the project.
+**Get Involved:** If you have ideas and plans for _The Turing Way_, please reach out to _The Turing Way_ maintainers and Steering Committee by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com). Your input is valuable to the ongoing development of the project.
 

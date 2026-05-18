@@ -25,7 +25,7 @@ This allowed attendees to appreciate that ethics is complex, situational and imp
 **This case study is an account of our first-hand experiences organising and hosting an event. It may be useful to you if you would like to host or organise your own accessible workshop in data ethics and reproducibility (whether a Data Hazards workshop or not).**
 ```
 
-For more detailed information and checklists, please see the Turing Way page for {ref}`Organising a Conference<cl-organising-conferences>`.
+For more detailed information and checklists, please see the Turing Way page for {ref}`Organising a Conference<cl-mec-organising-conferences>`.
 
 (er-datahazardscasestudy-goals)=
 ### DER Symposium Goals
@@ -168,9 +168,9 @@ It might be that the caterer you are ordering from requires a purchase order to 
 
 (er-datahazardscasestudy-hosting)=
 ## Hosting the Event 
-There is already a chapter on {ref}`cl-organising-conferences` which includes an in-depth dive into requirements for accessibility. 
+There is already a chapter on {ref}`cl-mec-organising-conferences` which includes an in-depth dive into requirements for accessibility. 
 Likewise, there is also a section for {ref}`cm-comms-overview-accessibly`.
-As well as on {ref}`cl-hybrid-collab-guidelines`. 
+As well as on {ref}`cl-mec-hybrid-collab-guidelines`. 
 
 From our experience, here are some extra tips on the day of the event.
 

@@ -16,10 +16,10 @@ jobs:
     environment: crowdin
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Generate Crowdin Contributors table
-        uses: andrii-bodnar/action-crowdin-contributors@v2.0.0
+        uses: andrii-bodnar/action-crowdin-contributors@v3.2.0
         with:
           contributors_per_line: 5
           max_contributors: 10000
@@ -31,14 +31,14 @@ jobs:
           crowdin_project_link: https://turingway.crowdin.com/turing-way
           files: |
             README.md
-            book/website/afterword/contributors-record.md
+            book/website/afterword/contributors/translators.md
         env:
           CROWDIN_PROJECT_ID: 1
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
           CROWDIN_ORGANIZATION: turingway
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.CROWDIN_ACTION_TOKEN }}
           title: Update Crowdin Contributors table

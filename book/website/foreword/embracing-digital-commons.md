@@ -1,7 +1,7 @@
 (fw-embracing-digital-commons)=
 # Embracing the principles of Digital Commons
 
-_In this document, Dr Malvika Sharan, co-lead of The Turing Way shares her insights from working in open science since 2010 and with _The Turing Way_ community since 2019._
+_In this document, Dr Malvika Sharan, a previous co-lead of The Turing Way shared her insights from working in open science and with _The Turing Way_ community._
 
 _The Turing Way_ means different things to different people, shaped by factors such as our backgrounds, identities, interests, locations and areas of work, as well as different contexts as learners, educators and practitioners in data science.
 

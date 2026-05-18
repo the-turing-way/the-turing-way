@@ -103,6 +103,48 @@ Based on your request, they will share their quotes for each service.
 When confirmed, block the dates/times and share details about your event (agenda, logistics, and anything else they should know). 
 When agreed, you will receive a contract for the service, terms and conditions and an invoice to be paid after the service is delivered.
 
+### Sample schedule
+
+```
+Turing Way Book Dash - Proposed Schedule for Scriberia Artist
+
+Timings	Length of session	Activity
+09:00:00	20	Group 1
+09:20:00	10	Artist colour Group 1
+09:30:00	20	Group 2
+09:50:00	10	Artist colour Group 2
+10:00:00	20	Group 3
+10:20:00	10	Artist colour Group 3
+10:30:00	20	Artist break
+10:50:00	20	Group 4
+11:10:00	10	Artist colour Group 4
+11:20:00	20	Group 5
+11:40:00	10	Artist colour Group 5
+11:50:00	10	Artist break
+12:00:00	20	Group 6
+12:20:00	10	Artist colour Group 6
+12:30:00	20	Group 7
+12:50:00	10	Artist colour Group 7
+13:00:00	45	Artist lunch
+13:45:00	20	Group 8
+14:05:00	10	Artist colour Group 8
+14:15:00	20	Group 9
+14:35:00	10	Artist colour Group 9
+14:45:00	20	Group 10
+15:05:00	10	Artist colour Group 10
+15:15:00	10	Artist break
+15:25:00	20	Group 11
+15:45:00	10	Artist colour Group 11
+15:55:00	20	Group 12
+16:15:00	10	Artist colour Group 12
+16:25:00	20	Group 13
+16:45:00	10	Artist colour Group 13
+16:55:00	20	Group 14
+17:15:00	10	Artist colour Group 14
+17:25:00	35	Finalise artwork/upload files to GDrive folder provided by client
+18:00:00		Finish
+```
+
 ## Pro tips
 
 To enhance the use of these illustrations, we have learned to keep the concepts simple, self-contained and reusable in different contexts. 

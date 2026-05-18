@@ -6,7 +6,7 @@ Despite the amount of data available, finding the right data for your research p
 The tips below may help you in finding data suitable for your project.
 
 You also need to consider if data is actually reusable - does it have the correct license? 
-And does it contain enough metadata and documentation for reuse? 
+And does it contain enough [metadata and documentation](#rr-rdm-metadata) for reuse? 
 
 (rr-rdm-find-data)=
 ## Finding a dataset
@@ -16,8 +16,8 @@ You can find open and restricted datasets by conducting searches of the metadata
 You can find data via:
 * Direct browsing of discipline-specific and multidisciplinary repositories such as Zenodo, Open Science Framework, Figshare. 
     * Search for discipline-specific data repositories on [Re3data](https://www.re3data.org/), [FAIRsharing](https://fairsharing.org/) or look at this list of [data repositories](https://oad.simmons.edu/oadwiki/Data_repositories).
-    * See {ref}`Data Repositories <rr-rdm-repository>` for more information.
-* Search in data journals and research articles - you can start by looking at our {ref}`Chapter on Data Articles<rr-rdm-article>`.
+    * See [](#rr-rdm-repository) for more information.
+* Search in data journals and research articles - you can start by looking at our [Chapter on Data Articles](#rr-rdm-article).
 * Use your network to find datasets.
 * Use specific data search tools:
     * [B2FIND data search](http://b2find.eudat.eu/)
@@ -25,6 +25,10 @@ You can find data via:
     * [DataCite Metadata Search](https://search.datacite.org/)
     * [Europäisches Datenportal](https://www.europeandataportal.eu/de)
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
+    * [Kaggle](https://www.kaggle.com/datasets)
+    * [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+    * [Open Data Network](https://www.opendatanetwork.com/)
+    * [Awesome Public Dataset](shttps://github.com/awesomedata/awesome-public-datasets#readme)
     * [EOSC Portal](https://eosc-portal.eu/) and search the [data catalogue](https://search.marketplace.eosc-portal.eu/search/dataset?q=*&standard=true&exact=false&radioValueAuthor=A&radioValueExact=A&radioValueTitle=A&radioValueKeyword=A). 
 
 (rr-rdm-find-license)=
@@ -33,11 +37,10 @@ You can find data via:
 Once you found a dataset, you need to check the license to see if you can actually reuse the data!
 
 The most commonly used open licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
-See our {ref}`Chapter on Licensing<rr-licensing>` for more information.
+See our chapter on [](#rr-licensing) for more information.
 
 Not all datasets that are available to researchers are open datasets. 
 Therefore, if you want to use a restricted dataset, you need to check how you can apply to access it and what the restrictions are on its use. 
-Use of restricted datasets is more likely to have a cost so plan for these costs in advance.
 Restricted datasets still have a license on them and there should be a clear application process such as a data request form or an email address to inquire about the access. 
 
 (rr-rdm-find-metadata)=
@@ -48,7 +51,9 @@ After a metadata check to see if the data is of use to you, you'll need to evalu
 The following questions may help you to do so:
 
 * What was the original research question?
-* How was the data collected? 
+* How was the data collected?
+* Who collected the data? 
+See [](doi:10.1038/s41597-024-03591-8) for some considerations of why it is important to consider who collected data.
 * Are the collection and processing methods appropriate to answer my research question?
 * Is the data collection process well documented? Which instruments were used? What settings/parameters?
 * Are protocols of the data collection shared?
@@ -61,7 +66,7 @@ The following questions may help you to do so:
 Once you have used someone elses dataset, you'll need to cite the data to provide credit to the original data creator(s)!
 
 You need to do this clearly in your research documentation as well as in any research articles you publish. 
-See {ref}`Citing Research Objects<cm-citable-cite>` for more information about how to properly cite datasets.
+See [](#cm-citable-cite) for more information about how to properly cite datasets.
 
 Always check how the original dataset should be cited: sometimes researchers want you to cite the accompanying publication instead of the dataset itself. 
 This information is generally available in READme files or in the metadata of the repository.
@@ -70,5 +75,7 @@ This information is generally available in READme files or in the metadata of th
 (rr-rdm-find-info)=
 ## More information
 
-* [Eleven quick tips for finding research data](https://doi.org/10.1371/journal.pcbi.1006038) by {cite:ps}`Gregory2018finddata`
+* [Eleven quick tips for finding research data](https://doi.org/10.1371/journal.pcbi.1006038)
+* [What's wrong with this data?](https://adsei.org/2024/01/22/whats-wrong-with-this-data/)
+* [AREN - Reusing Open Data](https://doi.org/10.5281/zenodo.11862587)
 

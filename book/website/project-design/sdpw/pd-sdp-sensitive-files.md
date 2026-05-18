@@ -63,3 +63,26 @@ It is, however, possible to have multiple `.gitignore` files within subdirectori
 In such cases, the rules within the `.gitignore` file will only be applied to the subdirectory within which it is located.
 This means that different `.gitignore` rules can be applied across the same repository.
 
+(pd-sdpw-sensitive-files-github)=
+# What do you do if you inadvertently expose sensitive data on GitHub?
+
+Sometimes - no matter how careful we try to be - we might inadvertently expose sensitive data on GitHub.
+Unfortunately, it is not as easy as you might think to remove this data again.
+
+Say that you mistakenly commit a file containing sensitive data to your GitHub repository.
+Simply removing the file from the repository, or indeed deleting the entire repository, will not fix the problem, as...
+
+> "*commits may still be accessible in any clones or forks of your repository, directly via their SHA-1 hashes in cached views on GitHub, and through any pull requests that reference them*" [- GitHub Docs: Removing sensitive data from a repository](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+> 
+
+(pd-sdpw-sensitive-files-resources)=
+## Further Resources
+
+For more information about`.gitignore`, please check out the following resources:
+
+* Git `.gitignore` [documentation](http://git-scm.com/docs/gitignore)
+* Pro Git book's section on [ignoring files](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring)
+* GitHub Docs's section on [ignoring files](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files)
+* Atlassian's [tutorial on `.gitignore`](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
+* freeCodeCamp's blog post [*Gitignore Explained: What is Gitignore and How to Add it to Your Repo*](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/)
+* Linuxize's blog post on [*Ignoring Files and Directories in Git (.gitignore)*](https://linuxize.com/post/gitignore-ignoring-files-in-git/)

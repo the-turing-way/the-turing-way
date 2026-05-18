@@ -49,8 +49,8 @@ On the right side of the webpage we have the following features:
 
 Unless you have added any other files or included a license file during repo creation, you should have one file in your repository now - README.md.
 We'll need to edit this file to add information about the repo.
-This file is a Markdown file; you can see this because it has “.md” after the name of the file.
-This is where you start to use the Markdown formatting.
+This file is a {term}`Markdown` file; you can see this because it has “.md” after the name of the file.
+This is where you start to use the {term}`Markdown` formatting.
 Whatever you write in this file will be shown on the landing (front) page of your project on GitHub, so use it to tell people all about your project.
 
 ### Navigating the GitHub editing interface
@@ -76,7 +76,7 @@ Annotated diagram of README.md file, if you click on the file name on your landi
 - **2. Main branch:** currently active branch ("main" is the default). Use to change to different branches of your repo (if there are more branches previously created).
 - **3. Contributors:** number of contributors (users) to your file.
 - **4. README.md file content:** the content of your README.md file appears here. This content will expand once we add more information..
-- **5. Raw file:** view the raw markdown text file.
+- **5. Raw file:** view the raw {term}`Markdown` text file.
 - **6. Blame:** view the last modification made to each line of the file. It can be used to track when and who made changes and go back to older versions of the file to fix bugs.
 - **7. Edit file:** click this pencil to edit your README.md file.
 - **8. Delete file:** click the bin to delete this file.
@@ -91,7 +91,7 @@ align: left
 Annotated diagram of README.md file in edit mode – before editing.
 - **1. Preview changes:** press to see your text rendered (how it would appear on GitHub or on a web page).
 - **2. Edit file:** press this tab to edit the content of your README.md file.
-- **3. Add content to README.md:** write the Markdown text for your README.md file. You currently only have the repository title in this file.
+- **3. Add content to README.md:** write the {term}`Markdown` text for your README.md file. You currently only have the repository title in this file.
 ```
 
 ### Tips for writing your README file
@@ -103,15 +103,15 @@ Annotated diagram of README.md file in edit mode – before editing.
 
 **NOTE: If you’re having trouble getting started, it’s a good idea to look at other peoples' `README.md` files.**
 
-If you can’t get your raw markdown content to render in the way you want, it is also a good idea to find a file that has what you want and then look at the raw file.
+If you can’t get your raw {term}`Markdown` content to render in the way you want, it is also a good idea to find a file that has what you want and then look at the raw file.
 You can copy and paste other people’s raw file content into your `README.md` file and then edit it.
 
 Here is an example of a really well formatted `README.md` file: [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
 
 If you click the link above, it will take you to their README file. You can use this as a template for your `README.md` file.
 
-* To look at the raw markdown file you need to click on the raw button (top right of the white box).
-* This takes you to the markdown raw file that is rendered into a nicely formatted `README.md` file on GitHub.
+* To look at the raw {term}`Markdown` file you need to click on the raw button (top right of the white box).
+* This takes you to the {term}`Markdown` raw file that is rendered into a nicely formatted `README.md` file on GitHub.
 * Now just copy and paste it into your `README.md` edit tab. You can now edit this for your project.
 * Remember to check what it looks like by clicking on the preview changes tab.
 * When you have finished editing, you need to scroll down to the bottom of the page and press the green commit changes button.
@@ -123,7 +123,7 @@ alt: Annotated diagram of README.md file in edit mode – with a template added.
 align: left
 ---
 Annotated diagram of README.md file in edit mode – with a template added.
-- **1. Using MarkDown to add content to README.md:** the Markdown (denoted by ‘.md’ in the file extension) text for your README.md file. This example shows the template file that has different sections (headers and subheaders are created by using one or more of ‘#’ symbol. See the {ref}`formatting consistency section of the Community Handbook<ch-consistency-formatting-hr-markdown>` for some more information on using Markdown.
+- **1. Using {term}`Markdown` to add content to README.md:** the Markdown (denoted by ‘.md’ in the file extension) text for your README.md file. This example shows the template file that has different sections (headers and subheaders are created by using one or more of ‘#’ symbol. See the {ref}`formatting consistency section of the Community Handbook<ch-consistency-formatting-hr-markdown>` for some more information on using Markdown.
 ```
 ### Committing - or saving - your changes
 Committing your changes is like hitting the "save button" for a file.
@@ -151,7 +151,7 @@ The standard licenses offered on GitHub are most appropriate for software and wo
 To add a license to your repository, the first thing to do is create a `LICENSE.md` file:
 
 * To do this, click on the Add file button, and click create file. This will give you a blank file.
-* Then, you need to name the file, so call it `LICENSE.md`. This makes it into a markdown file.
+* Then, you need to name the file, so call it `LICENSE.md`. This makes it into a {term}`Markdown` file.
 * You can find all the creative commons licenses in the link above so copy the text of the license you want and then paste it into this file.
 * Don’t forget to press the green commit new file button at the bottom and write a commit message to describe what you have done.
 * You can also add a link to the license to the bottom of your `README.md` file. Here is a link to a repository that you can copy to add in a [CC BY 4.0 license](https://github.com/santisoler/cc-licenses).

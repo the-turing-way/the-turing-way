@@ -33,7 +33,7 @@ We provide an example of alt text in the section below.
 (ch-accessibility-alttext-syntax)=
 ## Using MyST syntax to add a figure to a _Turing Way_ chapter
 
-All our chapters are written in Markdown files.
+All our chapters are written in {term}`Markdown` files.
 Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../../figures/file-collection.*)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
@@ -48,7 +48,7 @@ Using the parameter: `name`, you can reference figures in other chapters in a si
 **The example figure we have used here can be explained with this alt text:**
 *Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.*
 
-All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in a section within a markdown file using the following directive:
+All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in a section within a {term}`Markdown` file using the following directive:
 
 ````
 ```{figure} ../../../figures/file-collection.*
@@ -139,4 +139,4 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 
 Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.
-Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
+Also ensure that you have created a link to the source using {term}`Markdown` link formatting: `[text](url)`.

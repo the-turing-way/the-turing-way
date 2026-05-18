@@ -16,8 +16,7 @@ The checks that deal with the _The Turing Way's_ formatting include:
 (ch-consistency-formatting-hr-markdown)=
 ### Check 1:  Use Markdown for creating your content
 
-_The Turing Way_ should be written in [Markdown](https://en.wikipedia.org/wiki/Markdown) where possible, so that the Jupyter Book renders as intended.
-
+_The Turing Way_ should be written in {term}`Markdown`, in particular [MyST Markdown](xref:myst-guide) where possible, so that the Jupyter Book renders as intended.
 
 #### Markdown x HTML
 
@@ -33,21 +32,21 @@ alt: A screenshot of a poorly formatted table written in HTML. The table is squi
 Content written in HTML may not render properly.
 ```
 
-When reformatted to Markdown, the table became cleaner and easier to read:
+When reformatted to {term}`Markdown`, the table became cleaner and easier to read:
 
 ```{figure} ../../../../figures/html-to-markdown2.*
 ---
 name: html-to-markdown2
-alt: A screenshot of a table converted to Markdown from HTML. The table becomes easier to read and understand when converted to Markdown.
+alt: A screenshot of a table converted to {term}`Markdown` from HTML. The table becomes easier to read and understand when converted to Markdown.
 ---
-Converting HTML to Markdown makes The Turing Way book easier to read.
+Converting HTML to {term}`Markdown` makes The Turing Way book easier to read.
 ```
 ```{note} A PR that addresses this check can be found [here](https://github.com/the-turing-way/the-turing-way/pull/1460).
 ```
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`.
-[W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and Markdown reference guides, such as [this cheatsheet](https://www.markdownguide.org/cheat-sheet/), can help translate `HTML` formatting to Markdown.
-There are also helpful tools on the web, such as [Turndown](https://domchristie.github.io/turndown/) and [CloudConvert](https://cloudconvert.com/html-to-md), that convert `HTML` to Markdown with a single click.
+[W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and {term}`Markdown` reference guides, such as [this cheatsheet](https://www.markdownguide.org/cheat-sheet/), can help translate `HTML` formatting to Markdown.
+There are also helpful tools on the web, such as [Turndown](https://domchristie.github.io/turndown/) and [CloudConvert](https://cloudconvert.com/html-to-md), that convert `HTML` to {term}`Markdown` with a single click.
 
 Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test).
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
@@ -80,8 +79,9 @@ For example:
 # Heading
 ### Another Heading
 ```
+
 Such an increase of two header levels results in warnings when building _The Turing Way_ locally.
-Ideally, all Markdown files should start with a level 1 heading and increase sequentially as appropriate:
+Ideally, all {term}`Markdown` files should start with a level 1 heading and increase sequentially as appropriate:
 
 ```
 # Heading
@@ -115,10 +115,10 @@ This helps make _The Turing Way_ more navigable and accessible.
 (ch-consistency-formatting-hr-images)=
 ### Check 4: Use `MyST` for image formatting
 
-Some figures and images in _The Turing Way_ are embedded using Markdown syntax.
+Some figures and images in _The Turing Way_ are embedded using {term}`Markdown` syntax.
 While this works, it does not allow the images to adapt to the screen size of the device the book is read from.
 
-Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this and enables responsive images in _The Turing Way_.
+Markedly Structured Text (`MyST`) is a flavour of {term}`Markdown` that addresses this and enables responsive images in _The Turing Way_.
 
 It also allows the use of captions and alternative text (ALT text), which are the invisible image descriptions that are read aloud to readers of _The Turing Way_ who use a screen reader.
 If no ALT text is provided with an image, these users will be unable to understand the purpose of the image.

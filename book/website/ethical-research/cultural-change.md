@@ -77,5 +77,6 @@ The works described in this section provide some guidance and places to start yo
 - [Explaining Kurt Lewin's Change Theory](https://www.youtube.com/watch?v=WtaYloI-WAQ)
 - [FORCE11 Board Completes Strategic Planning Exercise](https://force11.org/post/force11-board-completes-strategic-planning-exercise/)
 - TedX: [The inner side of Organizational Change by Thijs Homan](https://www.youtube.com/watch?v=3n-c6iAKFgg)
+- [CAMPS : The Best Method for Leading Change at Work](https://www.lifelabslearning.com/blog/camps-your-tried-and-true-tool-for-leading-change-like-a-boss)
 
 

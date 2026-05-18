@@ -11,7 +11,7 @@ Finally, we can plan for publishing and sharing research components before, duri
 ## Aims & Values 
 * Define the main research questions and objectives.
 * Identify the core values and principles that guide your project.
-* Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), [values document](https://rebelsguidetopm.com/what-are-your-project-values/), [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
+* Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), [values document](https://web.archive.org/web/20240523192550/https://rebelsguidetopm.com/what-are-your-project-values/), [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
 
 ## Timeline & Milestones 
 * Establish a project timeline with key milestones, output, and deadlines.

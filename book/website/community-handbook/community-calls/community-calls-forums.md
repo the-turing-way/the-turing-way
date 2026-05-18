@@ -11,6 +11,7 @@ From June 2022 to September 2023, the Project Delivery Team hosted a regular mee
 These meetings, although not open to the broader community, discussed community-wide projects and reported updates broadly via our newsletters.
 
 As the community has grown, decision-making processes and structures have also needed different levels of formalisation and transparency, which is why instead of closed meetings, we opted for regular community-wide Community Forums starting in 2024. 
+Community Forums are our public-facing calls to share updates from across different levels of governance in _The Turing Way_.
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. 
 Our aim is to leverage the expertise across our community in reviewing our processes and recommend improvements. 
 These calls are a mix of celebration, feedback, and opportunities to build connections with other organisations and initiatives around the world.

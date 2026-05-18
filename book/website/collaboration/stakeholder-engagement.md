@@ -85,8 +85,8 @@ It is important to take these conversations in order, so that strategy alignment
 
 ### Example resources
 - [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/team_strategy/index.md) on facilitating Why/How/What conversations
-- {ref}`Chairing Events <cl-chairing>`
-- {ref}`Tools for Collaboration <cl-event-tools>`
+- {ref}`Chairing Events <cl-mec-chairing>`
+- {ref}`Tools for Collaboration <cl-mec-event-tools>`
 
 ### RAM insights
 - Using the basic "Why/How/What" format as a starting point for the conversation helps provide focus and clarity and can lead to a better outcome. 

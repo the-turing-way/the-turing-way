@@ -6,9 +6,10 @@ Here, we provide explanations for citing data, physical samples, and software.
 
 (cm-citable-cite-data)=
 ## Citing Data
-When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
+When sharing a dataset, use the assigned DOI (from the [data repository](#rr-rdm-repository)) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
 It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
-Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers, and might be required when data is shared under a license that requires citation (for example, CC-BY). For more information check the chapter about {ref}`rr-licensing`.
+Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers, and might be required when data is shared under a license that requires citation (for example, CC-BY). 
+For more information check the chapter about [](#rr-licensing).
 
 Data citation also provides recognition and visibility for the repositories that share data.
 
@@ -32,7 +33,9 @@ You can find examples of these statements in the publishers' (research data) aut
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
 **When code is shared:**
-- "Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*)." 
+- "Data and code to reproduce the results shown in the paper can be obtained from The Turing Way on Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)), GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)) and shared on the Software Heritage archive [swh:1:dir:ae7bd89ad9c35186ddd8f6869fbceebe32d382b2;origin=https://github.com/the-turing-way/the-turing-way;visit=swh:1:snp:6827073ea24f18029902d0efbf49dc3f09df3d17;anchor=swh:1:rev:c9da9af36e98ad59f231f252ccc8e12676c9492a](https://archive.softwareheritage.org/swh:1:dir:ae7bd89ad9c35186ddd8f6869fbceebe32d382b2;origin=https://github.com/the-turing-way/the-turing-way;visit=swh:1:snp:6827073ea24f18029902d0efbf49dc3f09df3d17;anchor=swh:1:rev:c9da9af36e98ad59f231f252ccc8e12676c9492a) for long term preservation and findability.
+- 
+We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*)." 
 
 **More Data Availability Statement examples:**
 
@@ -93,7 +96,7 @@ This file tells Zenodo what information or metadata you want to include with you
 
 - Add `.zenodo.json` to your repository.
 - Use the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) package to publish a snapshot of your repository to your Zenodo instance.
-By following the installation and setup instructions of this package, you will get a workflow on your {ref}`CI <rr-ci-options>` that will take care of the publication to Zenodo.
+By following the installation and setup instructions of this package, you will get a workflow on your [CI](#rr-ci-options) that will take care of the publication to Zenodo.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
 ```{note}
@@ -104,3 +107,16 @@ Detailed instructions for this process can be found in the [gitlab2zenodo](https
 
 :::
 ::::
+
+(cm-citable-cite-DMP)=
+
+## Citing Data Management Plans
+
+You can deposit your DMP in a repository like Zenodo or your institutional repository to receive a DOI, or use a DMP platform that assigns DOI, making it formally citable.
+Consider publishing your DMP at project award or start to establish your data management approach early.
+
+When preparing a public DMP, you may want to redact sensitive information such as detailed budget figures or preliminary hypotheses, while keeping the data management methodology transparent.
+Publishing your DMP demonstrates transparency, provides templates for others planning similar projects, and shows funders and institutions your commitment to rigorous data management.
+
+For more information on obtaining DOIs and making research outputs citable, see our [chapter on persistent identifiers](#rr-rdm-pid) and [making research citable](#cm-citable).
+Examples of published DMPs can be found by searching Zenodo for "data management plan" or exploring public DMPs on [DMPtool](https://dmptool.org).

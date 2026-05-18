@@ -13,11 +13,11 @@ What to document will be different for each software, and how to document it wil
 Below, there is guidance on how writing extended software documentation can be approached.
 
 (divio-documentation-system)=
-### Divio Documentation System
+### Diataxis Documentation Framework
 When extended documentation is necessary, common questions are: What to document? and 
 How to organise documentation concisely?
-To answer such questions, David Laing, proposed a [documentation system](https://docs.divio.com/documentation-system/) to organise software documentation. 
-The system distinguish between four types of documentation: tutorial, how-to guides, explanatios and reference guides.
+To answer such questions, Daniele Procida proposed the [Diátaxis documentation framework](https://diataxis.fr/) to organise software documentation.
+The system distinguishes between four types of documentation: tutorials, how-to guides, explanation and reference.
 
 * **Tutorials** aim to teach others how to use the software by describing things step by step.
 For example, how to navigate the graphical interface of software $X$.
@@ -60,4 +60,4 @@ How to write code comments depends on the programming language and the codinging
 - [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 - [Docstrings Converntions for Python](https://peps.python.org/pep-0257/)
 - [Creating docstrings in R](https://josephcrispell.github.io/2021/07/26/creating-R-docstring.html)
-- {ref}`pd-code-styling-readability`
+- [](#rr-code-quality-readability)

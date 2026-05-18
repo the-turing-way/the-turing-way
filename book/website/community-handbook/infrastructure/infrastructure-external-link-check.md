@@ -27,7 +27,7 @@ An example configuration file with explanations can be found in [the Lychee docu
 The configuration file can be used to improve the usefulness of the broken links issue.
 In particular, it is possible to exclude domains which are known to produce false negatives using the [`--exclude` argument](https://lychee.cli.rs/#/recipes/filtering-links) on the command line or the equivalent `exclude` key in the [configuration file](https://lychee.cli.rs/#/usage/config).
 
-Lychee produces a report of broken links and saves this to a Markdown file.
+Lychee produces a report of broken links and saves this to a {term}`Markdown` file.
 The workflow then concatenates this report with an [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) and updates the broken links issue.
 
 ## Issue

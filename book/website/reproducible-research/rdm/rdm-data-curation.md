@@ -24,7 +24,7 @@ Data capture is the process of gathering or collecting data from different sourc
 These sources may be research articles in electronic format or databases like electronic databases among others. 
 This stage focuses on ensuring that the data captured is actually fit for purpose and ready for curation.
 
-- See {ref}`Finding data<rr-rdm-find>` for more information
+- See [](#rr-rdm-find) for more information
 
 ### 2. Data appraisal
 In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data. 
@@ -40,20 +40,23 @@ You need to have an appraisal policy which will guide you on the data required f
 
 ### 4. Data description
 Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation and prepare the data for preservation. 
-So it is important that you describe the research data so that it is discoverable and usable over time, {ref}`Documentation and Metadata<rr-rdm-metadata>` for more information. 
+So it is important that you describe the research data so that it is discoverable and usable over time (see [](#rr-rdm-metadata) for more information. 
 There are also  metadata standards that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
-See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
+To ensure data preservation it is helpful to store your data in interoperable or frequently used formats. 
+This way, you increase the chances that files can still be opened after several years have passed, avoiding the [example of data loss in this video](https://www.youtube.com/watch?v=N2zK3sAtr-4). 
+See the [File formats recommended by the UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/) or the [Preferred file formats by DANS](https://dans.knaw.nl/en/file-formats/) for examples.
+See [](#rr-rdm-repository) and [](#rr-rdm-sharing) for more information.
 
 ### 6. Data access 
 Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or reuse it.
 You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data. 
-See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
+See [](#rr-rdm-repository) and [](#rr-rdm-sharing) for more information.
 
 ### 7. Data transformation
 Data transformation is the practice of examining large datasets to generate new information. 
 You can reanalyze the research data and make relationships that may not have been previously discovered. 
 
 ## Additional resources on data curation
-* [10 Things for Curating Reproducible and FAIR Research](https://doi.org/10.15497/RDA00074)
+* [10 Things for Curating Reproducible and FAIR Research](https://doi.org/10.15497/RDA00074) (see also their [webpage](https://curating4reproducibility.org/10things/)
