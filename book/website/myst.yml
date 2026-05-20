@@ -255,6 +255,7 @@ project:
               title: Style and Formatting Tools
             - file: reproducible-research/code-quality/code-quality-resources.md
               title: Checklist and Resources
+        - file: reproducible-research/security.md
         - file: reproducible-research/testing.md
           title: Code Testing
           children:
