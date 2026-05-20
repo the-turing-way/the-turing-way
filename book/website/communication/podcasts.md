@@ -15,7 +15,8 @@ You don’t need fancy equipment or expensive software to create a podcast, but 
 
 ### Why do you want to start a podast?
 Think about the main goal of your podcast. 
-Is it meant to inform, inspire, entertain, raise awareness, or build community around a research topic? Your purpose will guide your content, guests, and overall direction.
+Is it meant to inform, inspire, entertain, raise awareness, or build community around a research topic?
+Your purpose will guide your content, guests, and overall direction.
 
 You may also want to think about how your podcast connects to your broader initiative or project goals.
 
@@ -23,14 +24,16 @@ _Learn more_<br>
 [Episode 1: Why start a research podcast?](https://open.spotify.com/episode/1WpS2sD1YeStqZL9WjZCqR?si=GEBoHYOSTHSEML21uMwKPw)
 
 ### What is the structure of your podcast?
-A clear structure helps listeners know what to expect. Consider whether your episodes will follow a consistent format with an intro, discussion, interview, and outro.
+A clear structure helps listeners know what to expect.
+Consider whether your episodes will follow a consistent format with an intro, discussion, interview, and outro.
 You might also want to create templates for show notes and episode scripts to make production easier and create consistency across episodes.
 
 _Learn more_<br>
 [Episode 2: Anatomy of a podcast](https://open.spotify.com/episode/12p6bnrcgmvqMEZ7mqzMQ7?si=5iibVBFOTEGngiMsJGfknQ)
 
 ### Who is your podcast for?
-Define your target audience early on. Your podcast may be aimed at researchers, students, practitioners, policymakers, or the general public.
+Define your target audience early on.
+Your podcast may be aimed at researchers, students, practitioners, policymakers, or the general public.
 Understanding your audience helps shape the language, tone, level of detail, and topics you choose for your episodes.
 
 _Learn more_<br> 
@@ -40,17 +43,19 @@ _Learn more_<br>
 You do not need expensive equipment to start podcasting. 
 A simple setup with a laptop or smartphone microphone can work for beginners.
 
-For higher-quality audio, popular USB microphones include Blue Yeti, Rode, Shure, and Audio-Technica models. 
+For higher-quality audio, popular USB microphones include Blue Yeti, RØDE, Shure, and Audio-Technica models. 
 
 For recording interviews, you can use platforms such as Zoom, Teams, Zencastr, or Riverside.fm.
 
-For editing, beginner-friendly tools include Audacity (free and open source), GarageBand (free on Mac), and Hindenburg Pro or Riverside.fm. Some podcast hosting platforms also include built-in recording and editing tools.
+For editing, beginner-friendly tools include Audacity (free and open source), GarageBand (free on Mac), and Hindenburg Pro or Riverside.fm.
+Some podcast hosting platforms also include built-in recording and editing tools.
 
 _Learn more_<br>
-[Episode 4: Equipment and Basic Technical Setup on a Budget](https://open.spotify.com/episode/12p6bnrcgmvqMEZ7mqzMQ7?si=5iibVBFOTEGngiMsJGfknQ)
+[Episode 4: Equipment and Basic Technical Setup on a Budget](https://open.spotify.com/episode/1TYCzPc7L2Qx0dSblzVbqo)
 
 ### What style will your podcast be in?
-Decide on the overall style and format of your show. Your podcast could be interview-based, storytelling-focused, documentary-style, conversational, or educational.
+Decide on the overall style and format of your show.
+Your podcast could be interview-based, storytelling-focused, documentary-style, conversational, or educational.
 
 You should also think about the tone of the podcast — formal, relaxed, academic, or community-driven — and whether episodes will follow a scripted or more spontaneous format.
 
@@ -62,7 +67,7 @@ Choosing a hosting platform is an important step in publishing your podcast.
 Popular options include Buzzsprout, Podbean, Spotify for Podcasters, or self-hosting solutions with RSS feeds.
 
 To help people discover your podcast, create engaging show notes, share episodes on social media, invite guests to promote episodes, and include useful resources and links for listeners. 
-You may also want to release your podcast under an open license such as CC-BY 4.0 to encourage sharing and reuse.
+You may also want to release your podcast under an open [license](#rr-licensing), such as CC-BY 4.0, to encourage sharing and reuse.
 
 _Learn more_<br>
 [Episode 6: Publishing and Promoting Your Podcast](https://open.spotify.com/episode/51mY9nlN9eWtgs8Q9YIY93?si=GS-gq9ULS6ecY44K4hHNaw)
