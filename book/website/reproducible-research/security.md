@@ -43,7 +43,7 @@ and how?"
 2. {ref}`Web Server Setup<rr-webserver>`
 4. Server Security 
 5. Third-party platforms and services
-4. Integrity: Use commit signing for code repositories
+4. Integrity: Signing commits
 5. Authorization: Protect development and deployment environments. 
     - Examples: Use 2FA on GitHub accounts; use trusted publishing in CD
 6. Confidentiality: Protect from injections by untrusted sources
@@ -89,6 +89,17 @@ Topics around the execution layer, ensuring that where your code runs
 
 1. {ref}`Security in Containers (Docker, Singularity/Apptainer)<rr-renv-containers-rootlesspodman>`
 2. {ref}`SSL certificates<ch-infrastructure-dns>`
+
+### Signing commits and tags
+
+To verify that commits are from a trusted source, you can use GPG in `git`.
+Read more about GPG here: https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+
+In git, you can sign individual commits, tags, and you can verify the signature
+of tags by other people.
+
+Read more about signing commits in the git documentation: https://git-scm.com/book/ms/v2/Git-Tools-Signing-Your-Work
+
 
 ## Further Reading
 
