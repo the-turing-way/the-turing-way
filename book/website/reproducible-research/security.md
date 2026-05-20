@@ -20,6 +20,8 @@ Because every institutional infrastructure is unique, we strongly recommend cons
 
 1. Dependency Management 
 2. {ref}`Web Server Setup<rr-webserver>`
+1. {ref}`Dependency Management <rr-security-dependencies>`
+2. Server Security
 3. Third-party platforms and services
 4. 
 
