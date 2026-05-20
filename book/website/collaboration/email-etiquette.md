@@ -28,7 +28,9 @@ If there are any deadlines involved, communicate these clearly. In general it is
 (cl-email-etiquette-scheduling)=
 # Scheduling a meeting
 
-If you expect to schedule a meeting with the person, indicate some possible dates or ask if they prefer a different way of planning a meeting.
+Before trying to schedule a meeting, consider whether you can achieve your goal via an email exchange. 
+
+If a meeting is necessary and you want to schedule this, indicate some possible dates or ask if they prefer a different way of planning a meeting.
 Sometimes people use tools like Calendly that will allow you to check their calendar for their availability.
 Don’t offload the scheduling responsibilities to the other person.
 Don’t expect the person to be available on short notice, ask them on time!
