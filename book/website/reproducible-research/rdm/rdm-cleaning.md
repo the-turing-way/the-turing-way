@@ -81,6 +81,7 @@ You can also keep a text file with the changes, such as a "Data Cleaning Log.”
 Record what you changed, when, and most importantly: why. 
 This documentation increases transparency and by adding clear and detailed notes you will allow others to replicate your data cleaning process. 
 Ensure that any old files are clearly labeled as such to avoid any confusion in the future.
+You can also delete older/messy data if you are sure that you no longer need this version of the data.
 Versioning files and updating documentation takes time and consideration - and is worthwhile in the long run to save future you and others time trying to retrace your steps.
 
 ## 8. Update the data collection process to prevent future mistakes
@@ -89,6 +90,11 @@ It is easier to not have to clean data - you can prevent data errors during data
 Define range limits on your data where possible (for example, the score must be a value between 0 and 10 for household members; a birthday must be between certain dates). 
 Prevent blank values by requiring data entry, or ensure that where blank values should be present they are intentional. 
 
+# Sharing cleaned data
+
+Once you are happy with your cleaned dataset, you can consider [sharing the data on a data repository](#rr-rdm-sharing).
+Once this data is shared on a [data repository](#rr-rdm-repository), you can also consider deleting the data from your local storage if you require more space for the storage of other datasets.
+In any case, you should delete the older/messy datasets to avoid confusion and relinquish yourself from the dumpsterfire. 
 
 (rr-rdm-cleaning-lab)=
 # Data cleaning with a Team/Lab
