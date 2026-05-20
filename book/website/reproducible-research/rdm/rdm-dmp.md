@@ -42,7 +42,7 @@ Some data repositories, such as [Zenodo](https://zenodo.org/), allow versioning 
 * It is helpful to know the approximate size (in the range of MB, GB, TB or PB) of the data in these various stages because this will affect the storage solutions available for you (discussed in the next point). 
 
 ### 3. Type of data storage used and back up procedures that are in place
-* Check the [data storage and organisation section](rr-rdm-storage) for storage and back-up solutions and ways to organise your files 
+* Check the [data storage and organisation section](#rr-rdm-storage) for storage and back-up solutions and ways to organise your files 
 * Keeping track of who made specific changes in your data/code will be important, particularly for code.
 See [](#rr-vcs) for more information.
 * Determine who has access to the data and who grants access. 

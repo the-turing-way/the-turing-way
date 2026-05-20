@@ -12,7 +12,7 @@ In both cases the lab notes should record what you did or observed in the labora
 It should be recording why steps were taken, including mistakes and thoughts or difficulties experienced during data collection and processing. 
 You should take notes in a manner that someone else, with a similar research background or yourself in six months, could use your notebook and repeat the work with the same results. 
 It is very important to clearly describe every step taken and to be specific, otherwise reusers might misinterpret your documentation which will lead to challenges (as can be seen in this [exact instruction challenge video](https://www.youtube.com/watch?v=cDA3_5982h8)). 
-See also the [](rr-rdm-metadata-documentation) for more information on how to properly document your workflow. 
+See also the [](#rr-rdm-metadata-documentation) for more information on how to properly document your workflow. 
 
 (rr-rdm-methods-open)=
 ## Open Methods/Protocols
