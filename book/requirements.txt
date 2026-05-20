@@ -6,8 +6,6 @@
 #
 anyio==4.13.0
     # via jupyter-server
-appnope==0.1.4
-    # via ipykernel
 argon2-cffi==25.1.0
     # via jupyter-server
 argon2-cffi-bindings==25.1.0
@@ -40,7 +38,7 @@ fastjsonschema==2.21.2
     # via nbformat
 fqdn==1.5.1
     # via jsonschema
-idna==3.14
+idna==3.15
     # via
     #   anyio
     #   jsonschema
