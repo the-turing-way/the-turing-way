@@ -18,12 +18,14 @@ Because every institutional infrastructure is unique, we strongly recommend cons
 ## Outline
 
 
-1.
-1. Dependency Management
-1.
-1.
-1.
-1. Server Security
+1. Dependency Management 
+2. Server Security
+3. Third-party platforms and services
+4. 
+
+### Third-party platforms and Services
+
+It is essential to understand the security implications of the third-party platforms and services used in your research software workflows. For instance, the University of Sheffield provides an excellent example of this with their security guidelines for GitHub Organizations [(RSE Sheffield Infrastructure Guidelines)](https://rse.shef.ac.uk/blog/2026-01-30-github-organisations/). Check if your organization has similar guidelines. 
 
 ## Further Reading
 
