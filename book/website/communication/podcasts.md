@@ -9,9 +9,14 @@ They also vary in frequency from daily to monthly.
 
 (cm-podcasts-how)=
 ## Start a Podcast
+There's a podcast series for that! -> [Research Podcasting Essentials](https://open.spotify.com/show/5lmkVt26K5z9IspeCYaiaQ)
+You don't need fancy equipment or expensive advance software to put a podcast together, but here are several compoents that do need to be given some thought to before you start one.
+1. The motivation behind your podcast
+   [Episode 1: Why start a research podcast?](https://open.spotify.com/episode/1WpS2sD1YeStqZL9WjZCqR?si=GEBoHYOSTHSEML21uMwKPw)
+2. Anatomy of a podcast
 
+You can plan all these components out using this [workbook for starting your own podcast](https://zenodo.org/records/17093484?preview_file=OSPARK_workbook-email-course-05_podcasting.pdf) developed as a part of the [Open Science Promotion and Advocacy of Research Knowledge (OSPARK) Bootcamp](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp) funded by the [OSCARS consortium](https://oscars-project.eu/).
 * [How to start a podcast](https://www.podcastinsights.com/start-a-podcast/?gclid=CjwKCAiA9vOABhBfEiwATCi7GNV7zJl0tHaVkW-7DCjVdAwGa4q0vbaXB44xsSBHp7YBO8K6pH0syBoCVtUQAvD_BwE)
-If you have experience making podcasts and would like to write in more detail about this to help others, then please get in touch with us.
 
 (cm-podcasts-recommendations)=
 ## Some of Our Recommended Podcasts
