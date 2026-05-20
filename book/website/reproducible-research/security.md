@@ -50,6 +50,17 @@ and how?"
     - SQL injection attacks on databases
     - Prompt injection attacks in LLMs
 
+## Signing commits and tags
+
+To verify that commits are from a trusted source, you can use GPG in `git`.
+Read more about GPG here: https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+
+In git, you can sign individual commits, tags, and you can verify the signature
+of tags by other people.
+
+Read more about signing commits in the git documentation: https://git-scm.com/book/ms/v2/Git-Tools-Signing-Your-Work
+
+
 ## Links to other chapters
 
 Beyond the topics mentioned so far, you can find related security mentions in other sections of the book, including:
@@ -90,15 +101,6 @@ Topics around the execution layer, ensuring that where your code runs
 1. {ref}`Security in Containers (Docker, Singularity/Apptainer)<rr-renv-containers-rootlesspodman>`
 2. {ref}`SSL certificates<ch-infrastructure-dns>`
 
-### Signing commits and tags
-
-To verify that commits are from a trusted source, you can use GPG in `git`.
-Read more about GPG here: https://en.wikipedia.org/wiki/GNU_Privacy_Guard
-
-In git, you can sign individual commits, tags, and you can verify the signature
-of tags by other people.
-
-Read more about signing commits in the git documentation: https://git-scm.com/book/ms/v2/Git-Tools-Signing-Your-Work
 
 
 ## Further Reading
