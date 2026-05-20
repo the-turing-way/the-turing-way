@@ -2,14 +2,14 @@
 # Data Cleaning
 
 Data cleaning is an important part of the RDM process. 
-During data cleaning mistakes in the data collection and processing phase can be fixed. 
+During data cleaning, mistakes in the data collection and processing phase can be fixed. 
 In projects where data collection is not structured properly, data cleaning can take up a lot of time. 
 Sometimes, it may even be quicker to restart data collection in order to avoid a messy dataset. 
 
 Therefore, it is important to think about your data collection strategy before collecting data: this can save you a lot of time. 
 This is especially important if several people are collecting data.
 
-If your data is in the form of spreadsheet, you may want to check out our chapter on [](#rr-rdm-spreadsheets). 
+If your data is in the form of spreadsheets, you may want to check out our chapter on [](#rr-rdm-spreadsheets). 
 
 (rr-rdm-cleaning-how)=
 # How to clean data?
@@ -20,7 +20,8 @@ During data cleaning there are several steps to take into account:
 Always save an untouched copy of your dataset before you begin! 
 If you make mistakes during the data cleaning process you can still go back to the original information. 
 All changes to data need to happen in one data file; if you use multiple versions it will be a mess to identify the correct/latest version to work in.
-If it is important to keep track of multiple versions of the data, you can set up a version control strategy using [](#rr-vcs).
+If it is important to keep track of multiple versions of the data, you can set up a version control strategy using [](#rr-vcs), or ensure that you are using the right [filename](#rr-rdm-storage-conventions).
+Don't forget to document all the changes you made - see step 7 below!
 
 ## 2. Understand/Validate the Data
 
@@ -57,10 +58,12 @@ Align all variables, by for example writing all dates out in a similar manner, a
 For example, "Yes,” “yes,” and “Y” are treated by computers as separate responses. 
 Ensure that all variables are labeled and used in a consistent manner across different data formats. 
 Use clear [naming conventions](#rr-rdm-storage-conventions) for your files and folders.
+Standardizing data entry can also help if you have to integrate different datasets resulting from the use of various methods and/or instruments. 
 
 ## 5. One variable is one data entry
 
-Each variable should only collect one piece of information (@Wickham2014tidydata). See [Data Organisation in Spreadsheets](#rr-rdm-spreadsheets-format) for more tips.
+Each variable should only collect one piece of information (@Wickham2014tidydata).
+See [Data Organisation in Spreadsheets](#rr-rdm-spreadsheets-format) for more tips.
 Consider how to split variables into multiple variables if more than one thing is measured. 
 
 ## 6. Handle Missing Data Thoughtfully
@@ -77,6 +80,7 @@ If your data is under [version control](#vcs), changes to the data will be autom
 You can also keep a text file with the changes, such as a "Data Cleaning Log.” 
 Record what you changed, when, and most importantly: why. 
 This documentation increases transparency and by adding clear and detailed notes you will allow others to replicate your data cleaning process. 
+Ensure that any old files are clearly labeled as such to avoid any confusion in the future.
 Versioning files and updating documentation takes time and consideration - and is worthwhile in the long run to save future you and others time trying to retrace your steps.
 
 ## 8. Update the data collection process to prevent future mistakes
