@@ -50,10 +50,45 @@ and how?"
     - SQL injection attacks on databases
     - Prompt injection attacks in LLMs
 
+## Links to other chapters
 
-### Third-party platforms and Services
+Beyond the topics mentioned so far, you can find related security mentions in other sections of the book, including:
 
-It is essential to understand the security implications of the third-party platforms and services used in your research software workflows. For instance, the University of Sheffield provides an excellent example of this with their security guidelines for GitHub Organizations [(RSE Sheffield Infrastructure Guidelines)](https://rse.shef.ac.uk/blog/2026-01-30-github-organisations/). Check if your organization has similar guidelines. 
+### Institutional Compliance & Project Design
+Topics that cover the foundational steps taken before code is written, ensuring alignment 
+with institutional policies and ethical standards. 
+1. {ref}`Privacy and Security in Research Ethics Committees<er-committees>`
+2. {ref}`Data Security and Project Planning<pd-sdp>` 
+
+### Sensitive Data and use of Third-party platforms/Services
+
+Topics focusing on securing the inputs of your research, tracking data gathering responsibly, 
+and keeping sensitive files safe. 
+
+1. {ref}`Electronic Lab Notebooks (ELNs)<rr-rdm-elns>` section mentions security concerns around ELNs. 
+2. {ref}`Keeping Sensitive Files Secure<pd-sdpw-sensitive-files>`, for instance, by preventing .env, passwords or API tokens from being committed to public repositories
+
+It is essential to understand the security implications of the third-party platforms and services 
+used in your research software workflows. For instance, the University of Sheffield provides an 
+excellent example of this with their security guidelines for GitHub Organizations [(RSE Sheffield Infrastructure Guidelines)](https://rse.shef.ac.uk/blog/2026-01-30-github-organisations/). Check if your organization has similar guidelines. 
+
+
+### Secure Code Development & Quality Assurance
+
+Topics covering the active development phase, where code quality, input/output sanitation, 
+and configuration formats are strictly evaluated. 
+
+1. Code Quality chapter specifically mentions {ref}`Static Code Analysis <rr-code-quality>`
+2. Example of code execution vulnerabilities is given by {ref}`YAML Security Issues <rr-renv-yaml-security>`
+3. Checklist for the Code Review Process mentions {ref}`Security of New Code<rr-checklist-for-code-review-security-new-code>`
+
+### Infrastructure, Deployment & Environments
+
+Topics around the execution layer, ensuring that where your code runs 
+(containers, networks, domains) is isolated and secure from outside manipulation:
+
+1. {ref}`Security in Containers (Docker, Singularity/Apptainer)<rr-renv-containers-rootlesspodman>`
+2. {ref}`SSL certificates<ch-infrastructure-dns>`
 
 ## Further Reading
 
