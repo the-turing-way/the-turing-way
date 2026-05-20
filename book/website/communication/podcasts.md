@@ -11,16 +11,16 @@ They also vary in frequency from daily to monthly.
 ## Start a Podcast
 There's a podcast series for that! -> [Research Podcasting Essentials](https://open.spotify.com/show/5lmkVt26K5z9IspeCYaiaQ)
 
-You don't need fancy equipment or expensive advance software to put a podcast together, but here are several components that do need to be given some thought to before you start one.
+You don’t need fancy equipment or expensive software to create a podcast, but there are a few important elements worth planning before you get started.
 
-### Your motiviation for starting a podcast
+### Why do you want to start a podast?
 Think about the main goal of your podcast. Is it meant to inform, inspire, entertain, raise awareness, or build community around a research topic? Your purpose will guide your content, guests, and overall direction.
 You may also want to think about how your podcast connects to your broader initiative or project goals.
 
 _Learn more_
 [Episode 1: Why start a research podcast?](https://open.spotify.com/episode/1WpS2sD1YeStqZL9WjZCqR?si=GEBoHYOSTHSEML21uMwKPw)
 
-### The structure of your podcast
+### What is the structure of your podcast?
 A clear structure helps listeners know what to expect. Consider whether your episodes will follow a consistent format with an intro, discussion, interview, and outro.
 You might also want to create templates for show notes and episode scripts to make production easier and create consistency across episodes.
 
@@ -34,7 +34,7 @@ Understanding your audience helps shape the language, tone, level of detail, and
 _Learn more_ 
 [Episode 3: Identifying your Audience and Defining your Podcast's Purpose](https://open.spotify.com/episode/4STTYuivPOz8e8itqPu9DG?si=vJdQrWAEQTumlJLchuXiDw)
 
-### Equipment and Technical Setup
+### Which equipment and technical setup are necessary?
 You do not need expensive equipment to start podcasting. A simple setup with a laptop or smartphone microphone can work for beginners.
 
 For higher-quality audio, popular USB microphones include Blue Yeti, Rode, Shure, and Audio-Technica models. 
@@ -46,7 +46,7 @@ For editing, beginner-friendly tools include Audacity (free and open source), Ga
 _Learn more_
 [Episode 4: Equipment and Basic Technical Setup on a Budget](https://open.spotify.com/episode/12p6bnrcgmvqMEZ7mqzMQ7?si=5iibVBFOTEGngiMsJGfknQ)
 
-### The style of your podcast
+### What style will your podast be in?
 Decide on the overall style and format of your show. Your podcast could be interview-based, storytelling-focused, documentary-style, conversational, or educational.
 
 You should also think about the tone of the podcast — formal, relaxed, academic, or community-driven — and whether episodes will follow a scripted or more spontaneous format.
@@ -54,15 +54,15 @@ You should also think about the tone of the podcast — formal, relaxed, academi
 _Learn more_
 [Episode 5: Interviewing and Storytelling Techniques](https://open.spotify.com/episode/1Xdetu5grUTvNmpCceYLkK?si=Ix5Dj9u2TqqXpn14AzAfmg)
 
-### How to get your podcast out there
+### How to get your podcast out there!
 Choosing a hosting platform is an important step in publishing your podcast. Popular options include Buzzsprout, Podbean, Spotify for Podcasters, or self-hosting solutions with RSS feeds.
 To help people discover your podcast, create engaging show notes, share episodes on social media, invite guests to promote episodes, and include useful resources and links for listeners. You may also want to release your podcast under an open license such as CC-BY 4.0 to encourage sharing and reuse.
 
 _Learn more_
 [Episode 6: Publishing and Promoting Your Podcast](https://open.spotify.com/episode/51mY9nlN9eWtgs8Q9YIY93?si=GS-gq9ULS6ecY44K4hHNaw)
 
-## Workbook to pull it all together
-You can plan all these components out using this [workbook for starting your own podcast](https://zenodo.org/records/17093484?preview_file=OSPARK_workbook-email-course-05_podcasting.pdf) developed as a part of the [Open Science Promotion and Advocacy of Research Knowledge (OSPARK) Bootcamp](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp) funded by the [OSCARS consortium](https://oscars-project.eu/).
+## Workbook to help you pull it all together
+You can plan all these elements out using this [workbook for starting your own podcast](https://zenodo.org/records/17093484?preview_file=OSPARK_workbook-email-course-05_podcasting.pdf) developed as a part of the [Open Science Promotion and Advocacy of Research Knowledge (OSPARK) Bootcamp](https://oscars-project.eu/projects/ospark-bootcamp-open-science-promotion-and-advocacy-research-knowledge-bootcamp) funded by the [OSCARS consortium](https://oscars-project.eu/).
 
 ### Other resources
 * [How to start a podcast](https://www.podcastinsights.com/start-a-podcast/?gclid=CjwKCAiA9vOABhBfEiwATCi7GNV7zJl0tHaVkW-7DCjVdAwGa4q0vbaXB44xsSBHp7YBO8K6pH0syBoCVtUQAvD_BwE)
