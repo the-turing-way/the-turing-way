@@ -70,7 +70,7 @@ alt: This image shows a world map indicating the locations of all the contributo
 Geographies of all the contributors to the _The Turing Way_ Project. The size of the dot indicates the propotion of the contributions that any give contributor has made via GitHub. 
 ```
 
-## Interactive Contributor Geography Map
+### Interactive Contributor Geography Map
 
 [Open the interactive contributor map](../_static/all_contributors_world_map.html)
 
