@@ -5,7 +5,7 @@
 ```{admonition} Info
 :class: info
 This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
-Learn more about tools and best practices for data governance activities in the {ref}`Data Governance for the Machine Learning Pipeline <pd-dg-ml>` chapter.
+Learn more about tools and best practices for data governance activities in the [](#pd-dg-ml) chapter.
 ```
  
 [BigCode](https://www.bigcode-project.org/) is an open scientific collaboration working on the responsible development and use of large language models (LLM) for code, aiming to empower the machine learning and open source communities through open governance.
@@ -29,7 +29,6 @@ In this context, the data collection and data management plans were carefully cr
 The following sections will dive into the details of how the team approached key data governance activities like data collection, data management & opt-out, and data processing.
 
 ### Data Collection
-
 The StarCoder model was trained on The Stack v1.2, which exclusively contains 6.4TB of permissively licensed data from GitHub repositories, processed from an original source dataset of 102TB. 
 Selecting repositories based on licenses is only the first step, however, so this approach is complemented by also giving repository owners the ability to opt out of having their repositories included in The Stack, described further in the Data Management & Opt-out section.
 - **Data selection**: One of the goals of BigCode is to give developers agency over their source code and let them decide whether or not it can be used to develop and evaluate LLMs.
@@ -62,7 +61,6 @@ Selecting repositories based on licenses is only the first step, however, so thi
 At the time of the data processing for the StarCoder model training, 44 people had opted out of The Stack and associated repositories were removed.
 
 ### Data Processing
-
 One significant concern with respect to privacy was the risk that the code LLM may generate private information found in its training data, including private tokens or passwords matched with identifiers or email addresses. 
 Additionally, while users can (and have) requested that data be removed from The Stack dataset because it contains personal data, removing specific information from trained model weights after the fact remains an open technical challenge. 
 In order to minimize this risk, they chose to apply automated PII redaction at the pre-processing stage during training.

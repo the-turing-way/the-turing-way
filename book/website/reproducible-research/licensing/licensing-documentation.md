@@ -40,15 +40,15 @@ There are six different license types, listed from most to least permissive natu
 height: 500px
 name: Creative Commons License Types
 alt: >
-Down the left-hand side of the image, there is a list of Creative Commons license types and their corresponding symbols, across the top is a list of properties of these licenses.
-This creates a matrix to indicate which licenses have which properties using checkmarks.
-Public Domain is represented by a C in a circle with a line through it.
-Attribution is represented by a person in a circle.
-CC By attribution Share Alike is represented by a person in a circle and a circular arrow in a circle.
-CC By attribution no derivatives is represented by a person in a circle and an equals sign in a circle
-CC By attribution non commercial is represented by a person in a circle and a dollar sign in a circle with a line through it
-CC By attribution non commercial share alike (NC-SA) is represented by a person in a circle, a dollar sign in a circle with a line through it, and a circular arrow in a circle.
-CC By attribution non commercial no derivatives is represented by a person in a circle, a dollar sign in a circle with a line through it, and an equals sign in a circle.
+  Down the left-hand side of the image, there is a list of Creative Commons license types and their corresponding symbols, across the top is a list of properties of these licenses.
+  This creates a matrix to indicate which licenses have which properties using checkmarks.
+  Public Domain is represented by a C in a circle with a line through it.
+  Attribution is represented by a person in a circle.
+  CC By attribution Share Alike is represented by a person in a circle and a circular arrow in a circle.
+  CC By attribution no derivatives is represented by a person in a circle and an equals sign in a circle
+  CC By attribution non commercial is represented by a person in a circle and a dollar sign in a circle with a line through it
+  CC By attribution non commercial share alike (NC-SA) is represented by a person in a circle, a dollar sign in a circle with a line through it, and a circular arrow in a circle.
+  CC By attribution non commercial no derivatives is represented by a person in a circle, a dollar sign in a circle with a line through it, and an equals sign in a circle.
 ---
 Creative Commons License Types. From [George Washington University Libraries Open Textbooks](https://libguides.gwu.edu/opentextbooks/creative_commons). Used under a CC-BY 4.0 licence.
 ```

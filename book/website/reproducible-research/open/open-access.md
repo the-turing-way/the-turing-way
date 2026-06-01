@@ -9,11 +9,11 @@ The first scientific journal, Philosophical Transactions, was established in 166
 The 'commercialisation' of scientific publishing began in the 1940s and for many years publications, such as through a journal, conference proceedings or book, were available to the public if purchased through a subscription fee or individually.
 
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
-At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) and the Berlin Declaration on Open Access.
+At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) and the Berlin Declaration on Open Access. 
 A quote from the Budapest Open Access Initiative sums up the objective:
 >"We mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles...the only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited"
 
-It has been estimated around 28% of the scholarly literature is Open Access {cite}`Piwowar2018stateofOA` and in 2020 more outputs were published through Open Access channels than traditional subscription channels globally {cite}`Dimensions2021openaccesssurpasses`.
+It has been estimated around 28% of the scholarly literature is Open Access @Piwowar2018stateofOA and in 2020 more outputs were published through Open Access channels than traditional subscription channels globally @Dimensions2021openaccesssurpasses.
 
 (rr-open-access-routes)=
 ## Routes for Open Access
@@ -28,19 +28,24 @@ However, deciding on whether to share your research openly may depend on how pro
 
 A preprint [{term}`def<Preprint>`] is a scientific manuscript that is uploaded by the authors to a public server before peer review.
 The first preprint server called [arXiv](https://arxiv.org/) was established in 1991 for physical sciences.
-Likely due to the inefficiency of traditional journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of [bioRxiv](https://www.biorxiv.org/), [medRxiv](https://www.medrxiv.org/), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [SocArXiv](https://osf.io/preprints/socarxiv) and many more.
+Likely due to the inefficiency of traditional journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of [bioRxiv](https://www.biorxiv.org/), [medRxiv](https://www.medrxiv.org/), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [SocArXiv](https://osf.io/preprints/socarxiv) and [many more](https://en.wikipedia.org/wiki/List_of_preprint_repositories).
+
 Preprints allow researchers to get their results out quickly and give the opportunity to get feedback on a manuscript before submitting it to a journal.
-Some journals will not allow a paper to be submitted if it has already been posted on a preprint server as they consider it 'prior publication', however, the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them {cite}`elife2020preprints`.
+Some journals will not allow a paper to be submitted if it has already been posted on a preprint server as they consider it 'prior publication', however, the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them @elife2020preprints.
+You can find a [list of academic journal policies on preprints on wikipedia](https://en.wikipedia.org/wiki/List_of_academic_publishers_by_preprint_policy) or enter the journal title in the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
 You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-info).
 
 (rr-open-access-preprints-doi)=
-
 #### Preprint DOIs
 
 Most preprint servers automatically assign DOIs (typically from DataCite) when you deposit your manuscript, making your work immediately citable even before peer review.
 It's important to note that a preprint DOI is separate from any future journal publication DOI - both serve as permanent, independent records of your research at different stages.
 ASAPbio provides [detailed guidance on citing preprints](https://asapbio.org/preprint-info/preprint-citation), and major servers like [bioRxiv](https://www.biorxiv.org/about-biorxiv) and [arXiv](https://info.arxiv.org/help/doi.html) offer documentation on their DOI assignment processes.
-For more information on how DOIs work, see our [chapter on persistent identifiers](rr-rdm-pid).
+For more information on how DOIs work, see our [chapter on persistent identifiers](#rr-rdm-pid).
+
+#### Preprint Resources
+- 10 min talk: [Preprint adoption in the life sciences by ASAPbio](https://www.youtube.com/watch?v=j_G6flATV1c&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=12)
+- [How to Prepare Your Preprint](https://help.osf.io/article/376-preprints-home-page#How-to-Prepare-Your-Preprint-UwA-q) by OSF
 
 (rr-open-access-journal-publishing)=
 ### Open Access Journal publishing
@@ -111,7 +116,8 @@ Finally, some journals do allow researchers to deposit the final published versi
 
 Concerning the moment to make the paper publicly available, many journals establish a period from its original publication - the embargo period, which can range from zero to 60 months - were making the paper publicly available is not permitted.
 Some journals include or exclude embargoes depending on the versions.
-For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
+For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months.
+You can check journal policies on self-archiving using the [Open Policy Finder](https://openpolicyfinder.jisc.ac.uk/).
 
 ```{figure} ../../../figures/routes-to-OA.*
 ---
@@ -136,7 +142,7 @@ Furthermore, it can be argued that taxpayers who pay for much of the research pu
 
 Publishing openly also has benefits for you as an author.
 Your work is likely to reach a larger audience meaning it may have a broader societal impact.
-Papers published openly are also more likely to have a citation advantage {cite}`Tennant2016openaccess`.
+Papers published openly are also more likely to have a citation advantage @Tennant2016openaccess.
 
 ```{figure} ../../../figures/share-work-openly.*
 ---
@@ -163,11 +169,31 @@ They have also switched many of their journals from a closed, subscription model
 However, [many are critical](https://www.the-scientist.com/news-opinion/for-a-hefty-fee-nature-journals-offer-open-access-publishing-68181) of the increasing cost publishers are charging to publish in Open Access.
 
 Further pushes to make more research open and advocate for change in slow-changing publishers has come from initiatives such as [Plan S](https://www.coalition-s.org/why-plan-s/) which is backed by a coalition of funders and stakeholders.
-UKRI has also recently announced a new Open Access policy {cite}`ukri2021openaccess` for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
+UKRI has also recently announced a new Open Access policy @ukri2021openaccess for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
 
 The push for open is also prevalent across the globe- initiatives such as [SciELO](https://en.wikipedia.org/wiki/SciELO) which was created to meet the scientific communication needs of developing countries and provides an efficient way to increase visibility and access to scientific literature.
 
 Funders have also taken action by becoming publishers themselves (referred to as Diamond Open Access). Platforms such as [Open Research Europe](https://open-research-europe.ec.europa.eu/) and [Wellcome Open Research](https://wellcomeopenresearch.org/) are Open Access publishing platforms for researchers funded by that specific funder.
 Funders see this as a service for their grantees- allowing them a venue to publish rapidly and openly for free (funders cover the cost of the infrastructure and the article processing charges) and to have more flexibility than publishing in a journal.
-These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. You can find out more in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
+These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. 
+You can find out more in our [Chapter on Publishing Different Article Types](#cm-dif-articles).
 These funder supported platforms also help shift the needle and inform new policies on researcher assessment, such as moving away from impact factors.
+
+### What can you do for sustainable Open Access publishing? 
+
+[Stefanie Haustein outlined 13 steps](https://www.uottawa.ca/research-innovation/news-all/why-economics-scientific-publishing-need-urgent-reform) that researchers can take to advocate for a more sustainable Open Access publishing culture: 
+
+1.	Post preprints
+2.	Self-archive via green OA
+3.	Refuse to sign over copyright to publishers
+4.	Submit to non-profit journals
+5.	Decline invitations to review for exploitative publishers
+6.	Push for transparency in peer review
+7.	Decline invitations or resign from editorial boards for exploitative publishers
+8.	Support or launch new journals
+9.	Declare journal independence
+10.	Push for APC, R&P and subscription deals reform
+11.	Disclose APC costs
+12.	Mentor on ethical publishing
+13.	Advocate for research assessment reform
+

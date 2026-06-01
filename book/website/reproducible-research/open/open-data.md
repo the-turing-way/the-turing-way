@@ -15,24 +15,36 @@ Accordingly, there is an ongoing global data revolution that seeks to advance co
 Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
 Open data is freely available on the internet.
 Any user is permitted to download, copy, analyse, re-process, and reuse it for any other purpose with minimal financial, legal, and technical barriers.
+See the [Open Data Handbook](https://opendatahandbook.org/guide/en/what-is-open-data/) for more details. 
 
-This represents a real shift in how research works. Funders are starting to require researchers to make their data available and submit data management plans {ref}`Data Management Plans<rr-rdm-dmp>` as part of project proposals.
+This represents a real shift in how research works.
+Funders are starting to require researchers to make their data available and submit [Data Management Plans](#rr-rdm-dmp) as part of project proposals.
 At the moment, anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
 "Open by default" remedies this with a presumption of publication for all.
 If access to data is restricted, for instance, due to security reasons, the justification for this should be made clear.
 Free access to and subsequent use of data is of [significant value to society and the economy and also has benefits to researchers](https://blog.datadryad.org/2025/07/24/benefits-of-open-data/).
 That data should, therefore, be open by default and only as closed as necessary.
 
-You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
+```{figure} ../../../figures/data-levels.*
+---
+name: data-levels
+alt: A line where different levels of data sharing are described. It starts at the left with the words 'functionally closed' in red. After this is "available upon request". The next level would be a synthetic dataset, followed by Open if a specified process is followed. Then there is Freely open (with the exception of sensitive data), Freely open (analytic dataset), and at the right side freely open (full dataset), in red. 
+---
+A continuum of data sharing, in [Syed 2022](https://doi.org/10.31234/osf.io/w8xs2)
+```
+
+You can find more about the practical steps to make your data available in the section describing [Steps to Share your Data](#rr-rdm-sharing-steps).
 
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
 Many academics find sharing data difficult.
-Recent surveys {cite:ps}`Stuart2018sharing` conducted amongst researchers list the following reasons:
+Recent surveys @Stuart2018sharing conducted amongst researchers list the following reasons:
 
 - Organising data in a presentable and useful way is challenging (mentioned by 46%)
 - Researchers are unsure about copyright and licensing (mentioned by 37%)
 - Researchers do not know which repository to use for different data types (raised by 33%)
+
+For answers to arguments why data should be closed, please see the [How to argue with a closed scientist FAQ](https://codeberg.org/bbartholdy/open-science-faq/).
 
 These are cultural challenges that might be addressed in changing practice going forward.
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
@@ -51,9 +63,8 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 ### Privacy And Data Protection
 
 Many fields of research involve working with sensitive personal data, with medical research being the most obvious example. 
-Please see the {ref}`sensitive data<pd-sdp>` chapter for more information about different types of sensitive data. 
-You can check the {ref}`Managing Sensitive Data Projects<pd-sdpm>` chapter on how you should manage these data. 
-Particularly the {ref}`Data Privacy Strategies<pd-sdpm-privacy>` section can help you to safely manage and protect sensitive personal data. 
+Please see the [](#pd-sdp) for more information about different types of sensitive data and how to [manage](#pd-sdpm) these data. 
+Particularly the [Pata Privacy Strategies](#pd-sdpm-privacy) section can help you to safely manage and protect sensitive personal data. 
 
 (rr-open-data-barriers-consent)=
 ### Consent

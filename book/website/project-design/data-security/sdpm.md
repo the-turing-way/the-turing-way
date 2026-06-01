@@ -13,7 +13,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 | Prerequisite |  Importance  |  Skill Level | Notes |
 | ------------ |------------- | ------|----|
-| {ref}`Sensitive Data Projects <pd-sdp>` | Helpful | Beginner |  |
+| [](#pd-sdp) | Helpful | Beginner |  |
 
 (pd-sdpm-summary)=
 ## Summary

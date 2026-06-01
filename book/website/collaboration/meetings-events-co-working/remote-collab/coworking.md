@@ -5,9 +5,6 @@ The concept of coworking is generally associated with the practice of sharing ph
 
 This allows people - who may otherwise feel isolated while working alone at home - to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
 
-In our Community Handbook, we discuss online coworking calls hosted for _The Turing Way_ community (see the chapter on {ref}`The Turing Way Coworking Calls<ch-community-calls-coworking>`).
-It includes our motivation, background, techniques, format, templates, and materials, which can be repurposed and adapted to support your teams and communities by setting up virtual coworking calls for them.
-
 Below are descriptions of different aspects that one should take into consideration when planning or designing your coworking calls Online.
 These recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
