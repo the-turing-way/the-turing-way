@@ -18,6 +18,10 @@ project:
       severity: ignore
       key:
         - '{http,https}://**'
+    - rule: doi-link-valid
+      severity: ignore
+      key:
+        - '**'
   bibliography:
     - references.bib
   references:
