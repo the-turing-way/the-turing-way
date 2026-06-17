@@ -23,7 +23,7 @@ project:
   references:
     myst-spec: https://mystmd.org/spec
     myst-guide: https://mystmd.org/guide/
-    vojh-report: "https://jupyterbook.org/"
+    vojh-report: "https://voicesofjupyterhub.orgmycology.com/"
   toc:
     - file: index.md
     - file: foreword/foreword.md
@@ -823,7 +823,7 @@ project:
             - file: collaboration/understanding-community/community-insight-report.md
               title: Running a Community Insight Report
             - file: collaboration/understanding-community/community-insight-report-example.md
-              title: Example Community Insight Report: Voices of JupyterHub
+              title: "Example Community Insight Report: Voices of JupyterHub"
     # ===== Guide for Ethical Research ========================================
     - file: ethical-research/ethical-research.md
       children:
