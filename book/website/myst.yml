@@ -14,10 +14,6 @@ project:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
     - plugins/profile.mjs
   error_rules:
-    - rule: link-resolves
-      severity: ignore
-      key:
-        - '{http,https}://**'
     - rule: doi-link-valid
       severity: ignore
       key:
