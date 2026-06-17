@@ -9,11 +9,11 @@ The first scientific journal, Philosophical Transactions, was established in 166
 The 'commercialisation' of scientific publishing began in the 1940s and for many years publications, such as through a journal, conference proceedings or book, were available to the public if purchased through a subscription fee or individually.
 
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
-At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) and the Berlin Declaration on Open Access.
+At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) and the Berlin Declaration on Open Access. 
 A quote from the Budapest Open Access Initiative sums up the objective:
 >"We mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles...the only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited"
 
-It has been estimated around 28% of the scholarly literature is Open Access {cite}`Piwowar2018stateofOA` and in 2020 more outputs were published through Open Access channels than traditional subscription channels globally {cite}`Dimensions2021openaccesssurpasses`.
+It has been estimated around 28% of the scholarly literature is Open Access @Piwowar2018stateofOA and in 2020 more outputs were published through Open Access channels than traditional subscription channels globally @Dimensions2021openaccesssurpasses.
 
 (rr-open-access-routes)=
 ## Routes for Open Access
@@ -142,7 +142,7 @@ Furthermore, it can be argued that taxpayers who pay for much of the research pu
 
 Publishing openly also has benefits for you as an author.
 Your work is likely to reach a larger audience meaning it may have a broader societal impact.
-Papers published openly are also more likely to have a citation advantage {cite}`Tennant2016openaccess`.
+Papers published openly are also more likely to have a citation advantage @Tennant2016openaccess.
 
 ```{figure} ../../../figures/share-work-openly.*
 ---
@@ -169,7 +169,7 @@ They have also switched many of their journals from a closed, subscription model
 However, [many are critical](https://www.the-scientist.com/news-opinion/for-a-hefty-fee-nature-journals-offer-open-access-publishing-68181) of the increasing cost publishers are charging to publish in Open Access.
 
 Further pushes to make more research open and advocate for change in slow-changing publishers has come from initiatives such as [Plan S](https://www.coalition-s.org/why-plan-s/) which is backed by a coalition of funders and stakeholders.
-UKRI has also recently announced a new Open Access policy {cite}`ukri2021openaccess` for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
+UKRI has also recently announced a new Open Access policy @ukri2021openaccess for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
 
 The push for open is also prevalent across the globe- initiatives such as [SciELO](https://en.wikipedia.org/wiki/SciELO) which was created to meet the scientific communication needs of developing countries and provides an efficient way to increase visibility and access to scientific literature.
 
@@ -178,3 +178,22 @@ Funders see this as a service for their grantees- allowing them a venue to publi
 These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. 
 You can find out more in our [Chapter on Publishing Different Article Types](#cm-dif-articles).
 These funder supported platforms also help shift the needle and inform new policies on researcher assessment, such as moving away from impact factors.
+
+### What can you do for sustainable Open Access publishing? 
+
+[Stefanie Haustein outlined 13 steps](https://www.uottawa.ca/research-innovation/news-all/why-economics-scientific-publishing-need-urgent-reform) that researchers can take to advocate for a more sustainable Open Access publishing culture: 
+
+1.	Post preprints
+2.	Self-archive via green OA
+3.	Refuse to sign over copyright to publishers
+4.	Submit to non-profit journals
+5.	Decline invitations to review for exploitative publishers
+6.	Push for transparency in peer review
+7.	Decline invitations or resign from editorial boards for exploitative publishers
+8.	Support or launch new journals
+9.	Declare journal independence
+10.	Push for APC, R&P and subscription deals reform
+11.	Disclose APC costs
+12.	Mentor on ethical publishing
+13.	Advocate for research assessment reform
+
