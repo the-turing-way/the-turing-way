@@ -73,7 +73,7 @@ Depending on your goals and areas of interest for the Community Insight Report, 
 
 In general, it is best to plan to recruit using a mixture of methods, with a general call to the community highlighting the areas of focus, and specific invites to a cross-section of the community aligned with your goals for the report to ensure a diversity of participants, backgrounds, and roles. 
 
-:::warning
+:::{warning}
 It's important to consider whether you should interview community members who have moved on from the project. 
 They may be a valuable source of insights into what has worked in the community, and also what needs to change. 
 However, some may prefer not to contribute if they have left the project, or may not have the time. 
