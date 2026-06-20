@@ -82,7 +82,7 @@ jupyter-core==5.9.1
     #   nbformat
 jupyter-events==0.12.1
     # via jupyter-server
-jupyter-server==2.18.2
+jupyter-server==2.20.0
     # via jupyter-book
 jupyter-server-terminals==0.5.4
     # via jupyter-server
