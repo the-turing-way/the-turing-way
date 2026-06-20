@@ -20,7 +20,7 @@ attrs==26.1.0
     #   referencing
 beautifulsoup4==4.14.3
     # via nbconvert
-bleach[css]==6.3.0
+bleach[css]==6.4.0
     # via nbconvert
 cffi==2.0.0
     # via argon2-cffi-bindings
