@@ -30,7 +30,7 @@ strict: ## Build the book stopping on errors
 	rm website/_build/html/*thebe*.js
 
 ci: ## Build the book in a non-interactive environment (for CI)
-	cd website && jupyter-book build --html --ci
+	cd website && jupyter-book build --html --ci --strict
 	# Temporary hack to remove unused thebe JS
 	rm website/_build/html/*thebe*.js
 
