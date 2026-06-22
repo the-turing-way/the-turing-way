@@ -22,7 +22,7 @@ Have you heard of it before?
 Does it have a reputation in your discipline?
 Are you planning to submit your own work there? 
 Is this journal an [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access.html) journal?
-Beware of [predatory journals](https://predatoryjournals.com/journals/).
+To make sure you are dealing with a trusted journal or publishers follow the checklists by [Think.Check.Submit](https://thinkchecksubmit.org/). 
 
 1. Check if this paper is of interest to review and if you are the right person to review the paper. 
 Reviewers do not need to be experts in all respects. 

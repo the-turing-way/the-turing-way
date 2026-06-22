@@ -20,7 +20,7 @@ attrs==26.1.0
     #   referencing
 beautifulsoup4==4.14.3
     # via nbconvert
-bleach[css]==6.3.0
+bleach[css]==6.4.0
     # via nbconvert
 cffi==2.0.0
     # via argon2-cffi-bindings
@@ -82,7 +82,7 @@ jupyter-core==5.9.1
     #   nbformat
 jupyter-events==0.12.1
     # via jupyter-server
-jupyter-server==2.18.2
+jupyter-server==2.20.0
     # via jupyter-book
 jupyter-server-terminals==0.5.4
     # via jupyter-server
@@ -198,7 +198,7 @@ terminado==0.18.1
     #   jupyter-server-terminals
 tinycss2==1.4.0
     # via bleach
-tornado==6.5.5
+tornado==6.5.7
     # via
     #   ipykernel
     #   jupyter-client

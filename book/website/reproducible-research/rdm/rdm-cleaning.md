@@ -76,7 +76,7 @@ Deleting missing data entirely may not always make sense as missing data can pro
 
 ## 7. Document Cleaning Steps
 
-If your data is under [version control](#vcs), changes to the data will be automatically tracked. 
+If your data is under [version control](#rr-vcs), changes to the data will be automatically tracked.
 You can also keep a text file with the changes, such as a "Data Cleaning Log.” 
 Record what you changed, when, and most importantly: why. 
 This documentation increases transparency and by adding clear and detailed notes you will allow others to replicate your data cleaning process. 
