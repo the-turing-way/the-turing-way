@@ -14,10 +14,18 @@ project:
     - https://github.com/the-turing-way/myst-curation/releases/download/v0.0.2/curation.mjs
     - plugins/profile.mjs
   error_rules:
-    - rule: link-resolves
+    - rule: reference-target-resolves
+      severity: error
+    - rule: reference-syntax-valid
+      severity: error
+    - rule: reference-target-explicit
+      severity: error
+    - rule: citation-is-unique
+      severity: error
+    - rule: doi-link-valid
       severity: ignore
       key:
-        - '{http,https}://**'
+        - '**'
   bibliography:
     - references.bib
   references:
