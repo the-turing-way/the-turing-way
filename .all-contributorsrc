@@ -5636,6 +5636,33 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "joyceykao",
+      "name": "Joyce",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52547142?v=4",
+      "profile": "https://www.jykao.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gitti1",
+      "name": "Birgit Schmidt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4895693?v=4",
+      "profile": "https://github.com/gitti1",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hyosubkim",
+      "name": "Hyosub Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32351455?v=4",
+      "profile": "https://ccmlab.org/",
+      "contributions": [
+        "content"
+      ]
     }
   ]
 }
