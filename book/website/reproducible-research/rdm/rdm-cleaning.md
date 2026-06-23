@@ -58,7 +58,7 @@ Align all variables, by for example writing all dates out in a similar manner, a
 For example, "Yes,” “yes,” and “Y” are treated by computers as separate responses. 
 Ensure that all variables are labeled and used in a consistent manner across different data formats. 
 Use clear [naming conventions](#rr-rdm-storage-conventions) for your files and folders.
-Standardizing data entry can also help if you have to integrate different datasets resulting from the use of various methods and/or instruments. 
+Standardising data entry can also help if you have to integrate different datasets resulting from the use of various methods and/or instruments. 
 
 ## 5. One variable is one data entry
 
