@@ -9,7 +9,7 @@ You can also use merging to combine work that other people have done with your o
 
 To merge a branch, branch_B, into another branch, branch_A, switch to branch_A via:
 ```
-git checkout branch_A
+git switch branch_A
 ```
 Merge branch_B into branch_A by:
 
