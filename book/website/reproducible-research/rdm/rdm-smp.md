@@ -73,7 +73,9 @@ For example, when you release major versions of your software.
 (rr-rdm-smp-tools)=
 ## SMP tools
 
-- [SMP decision tree](https://smp.research.software/)
+- [SMP decision tree](https://smp.research.software/) is SMP decision tree is a questionnaire based tool for creating a Software Management Plan (SMP).
+It asks the user a series of questions about the purpose of your software and recommends a SMP template that fits your needs.
+- [Research Software Sharing, Publication, & Distribution Checklists(RSSPDC)](https://rsspdc.org/) is provides checklists (in Markdown format) of practices to adopt into your research software project.
 
 (rr-rdm-smp-resources)=
 ## Additional Resources
