@@ -69,7 +69,7 @@ _The Turing Way_ 是一个开放式协作和社区主导的项目。
 
 :construction: 这个资源库一直在开发中，我们鼓励**每个人**帮助我们建立对许多人有用的东西。 :construction:
 
-每个加入项目的人都应该遵守我们的 [行为准则](CODE_OF_CONDUCT.md) ，并查看我们的 [贡献指南](CONTRIBUTING.md) ，了解更多关于如何开始的信息。
+每个加入项目的人都应该遵守我们的 [行为准则](../CODE_OF_CONDUCT.md) ，并查看我们的 [贡献指南](../CONTRIBUTING.md) ，了解更多关于如何开始的信息。
 我们希望能够满足我们的贡献者的需求。
 因此，我们根据你的兴趣、有效性或技能要求，为你的贡献提供多个切入点。
 
@@ -91,7 +91,7 @@ DOI允许我们对资源库进行归档，它们对于确保学术出版物对�
 > The Turing Way Community. (2021, November 10). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. [http://doi.org/10.5281/zenodo.3233853](http://doi.org/10.5281/zenodo.3233853)
 
 
-要查看我们为不同版本发布的工作流，并提出改进建议，请前往 [发布工作流文档。](./release-workflow.md).
+要查看我们为不同版本发布的工作流，并提出改进建议，请前往 [发布工作流文档。](../release-workflow.md).
 
 您可以将人们可读取的链接 共享到书中的某个页面，例如 <https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html>，但请注意该项目正在开发中，因此这些链接可能会不断更新。
 您可能需要包含一个网络存档链接，例如 <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> 以确保不是失效链接！
