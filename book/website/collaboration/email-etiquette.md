@@ -20,9 +20,10 @@ Acknowledge in your message that the individual may not be the right person to a
 Make it clear why you are asking this individual something, and what exactly it is you are asking of them.
 Provide context and be specific, but keep your message as concise as possible.
 
-Try to provide an estimate of the amount of time the request may take, or try to be specific about the tasks and role division so that the individual can determine the time involved themselves. 
-
-If there are any deadlines involved, communicate these clearly. In general it is good practice to plan things out well in advance when you need input from other people.
+Try to provide an estimate of how long the request will take.
+Be specific about the tasks and how they will be divided  so that the individual can make their own assessment. 
+If there are any deadlines involved, communicate these clearly.
+In general it is good practice to plan things out well in advance when you need input from other people.
 
 (cl-email-etiquette-scheduling)=
 # Scheduling a meeting
