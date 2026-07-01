@@ -408,7 +408,6 @@ project:
               title: File Naming Convention
             - file: project-design/info-management/code-styling.md
               title: Code Styling
-              children:
         - title: Data Security and Governance
           file: project-design/data-security.md
           children:
@@ -484,6 +483,7 @@ project:
               title: Discrimination and Bias
     # ===== Guide for Communication ========================================
     - file: communication/communication.md
+      title: Guide for Communication
       children:
         - file: communication/comms-overview.md
           title: Overview of Guide for Communication
@@ -832,7 +832,6 @@ project:
               title: Running a Community Insight Report
             - file: collaboration/understanding-community/community-insight-report-example.md
               title: "Example Community Insight Report: Voices of JupyterHub"
-    # ===== Guide for Ethical Research ========================================
     - file: ethical-research/ethical-research.md
       children:
         - file: ethical-research/ethics-intro.md
