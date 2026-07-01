@@ -54,6 +54,6 @@ For more information about how to collaborate remotely, read [](#cl-mec-remote-c
 
 (cl-email-etiquette-resources)=
 # Resources
-- https://eiratansey.com/2025/03/04/how-to-ask-a-busy-person-for-something/ (including example messages)
+- Blog on '[how to ask a busy person for something](https://eiratansey.com/2025/03/04/how-to-ask-a-busy-person-for-something/)' (including example messages)
 
 
