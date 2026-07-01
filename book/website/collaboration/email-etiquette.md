@@ -31,7 +31,7 @@ In general it is good practice to plan things out well in advance when you need 
 Before trying to schedule a meeting, consider whether you can achieve your goal via an email exchange. 
 
 If a meeting is necessary and you want to schedule this, indicate some possible dates or ask if they prefer a different way of planning a meeting.
-Sometimes people use tools like Calendly that will allow you to check their calendar for their availability.
+Sometimes people use online appointment scheduling software, such as [Calendly](https://calendly.com/), that will allow you to check their calendar for their availability.
 Don’t offload the scheduling responsibilities to the other person.
 Don’t expect the person to be available on short notice, ask them on time!
 
@@ -49,6 +49,8 @@ However, wait at least a week before doing this and do not send a ton of reminde
 Unless of course something is very urgent (but is it really?).
 
 If a person follows through with your request for help, send them a thank you email. 
+
+For more information about how to collaborate remotely, read [](#cl-mec-remote-collab-guidelines).
 
 (cl-email-etiquette-resources)=
 # Resources
