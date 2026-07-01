@@ -30,7 +30,8 @@ project:
     - references.bib
   references:
     myst-spec: https://mystmd.org/spec
-    myst-guide: https://mystmd.org/guide/
+    myst-guide: https://mystmd.org/guide
+    vojh-report: https://voicesofjupyterhub.orgmycology.com/index
   toc:
     - file: index.md
     - file: foreword/foreword.md
@@ -407,7 +408,6 @@ project:
               title: File Naming Convention
             - file: project-design/info-management/code-styling.md
               title: Code Styling
-              children:
         - title: Data Security and Governance
           file: project-design/data-security.md
           children:
@@ -483,6 +483,7 @@ project:
               title: Discrimination and Bias
     # ===== Guide for Communication ========================================
     - file: communication/communication.md
+      title: Guide for Communication
       children:
         - file: communication/comms-overview.md
           title: Overview of Guide for Communication
@@ -822,7 +823,15 @@ project:
           children:
             - file: collaboration/oss-sustainability/oss-sustainability-examples.md
               title: Examples of Open Source Business Models
-    # ===== Guide for Ethical Research ========================================
+        - file: collaboration/understanding-community.md
+          title: Understanding Your Community
+          children:
+            - file: collaboration/understanding-community/community-insights-summary.md
+              title: Summary of Different Community Assessment Processes
+            - file: collaboration/understanding-community/community-insight-report.md
+              title: Running a Community Insight Report
+            - file: collaboration/understanding-community/community-insight-report-example.md
+              title: "Example Community Insight Report: Voices of JupyterHub"
     - file: ethical-research/ethical-research.md
       children:
         - file: ethical-research/ethics-intro.md
