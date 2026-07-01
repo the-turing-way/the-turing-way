@@ -11,7 +11,7 @@
 | {ref}`Ethical Considerations when Choosing an Open Source Governance Model <er-ethics-open-source-governance>`  | Helpful    | Intermediate    | This chapter looks at how governance and decision making models for open source projects can embed ethics and community building into their frameworks from the beginning. 
 | {ref}`Facilitating Stakeholder Engagement <cl-stakeholder-engagement>`  | Helpful    | Intermediate    | This chapter covers identifying the different parts of your community and how to incorporate their perspectives into parts of the project design process
 
-(cl-understanding-community-summary)=
+(cl-understanding-community-chapter-summary)=
 ## Summary
 This chapter is intended to cover some of the different approaches and strategies you can use to make an assessment of your community, it's strengths and weaknesses, and any possible areas for focused development going forward. 
 There are a lot of different ways to do this, from community insight reports, to community health metrics. 

@@ -1,4 +1,4 @@
-(cl-understanding-community-summary)=
+(cl-understanding-community-assessment-summary)=
 # Summary of Different Community Assessment Processes
 
 The table below offers a brief overview of some of the different techniques and methods you can use to assess your community. 

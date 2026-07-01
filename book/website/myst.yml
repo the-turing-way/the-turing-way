@@ -31,7 +31,7 @@ project:
   references:
     myst-spec: https://mystmd.org/spec
     myst-guide: https://mystmd.org/guide/
-    vojh-report: "https://voicesofjupyterhub.orgmycology.com/"
+    vojh-report: https://voicesofjupyterhub.orgmycology.com/
   toc:
     - file: index.md
     - file: foreword/foreword.md

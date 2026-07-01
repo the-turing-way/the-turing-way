@@ -4,6 +4,7 @@
 What is a community insight report? 
 In this chapter, we use this phrase to refer to a report covering a single, well-defined community or project, that uses qualitative interviews of community members to draw conclusions about the community as a whole, and make recommendations on where it should go next. 
 In this chapter we'll talk about identifying your goals for a community insight report, the considerations which go into the process of conducting the report, the different ways in which these can be solved, and the benefits of conducting one. 
+
 (cl-understanding-community-insight-process)= 
 ## Process for running a Community Insight Report 
 * Agree goals for the Community Insight Report 
@@ -23,7 +24,7 @@ As mentioned in the introduction to this [chapter](#cl-understanding-community),
 A Community Insight Report is a great way to do achieve all of the above, but you cannot possibly cover all the topics you might want to ask about in a single interview and different topics might mean you want to interview different community members. 
 Defining the specific goals for the Community Insight Report at the beginning will help to guide both the interview questions asked and the people approached for interviews. 
 
-To get an idea of what you would like to achieve through a Community Insight Report, a good place to start are your project aims (read more in [xref#pd-checklist]). 
+To get an idea of what you would like to achieve through a Community Insight Report, a good place to start are your project aims (read more in [](#pd-checklist)). 
 How could a community insight report support the project achieving these aims? 
 Where are you currently stalled, or not making as much progress as you would like to? 
 This reflection should give you some ideas about what you would like to get out of the community insight report, which will in turn guide the questions you ask. 
@@ -42,7 +43,8 @@ Communicating with the wider community about the process of producing a Communit
 The exercise in and of itself can be a great community engagement strategy and you will need people to know it is happening if you want them to participate in the interviews.  
 
 At a minimum, notice should be shared on standard community channels (newsletters, Slack, or GitHub, for example) to let people know that this work is going ahead, with sufficient notice to allow people to raise concerns or questions they have about the process. 
-Ideally, people involved in the production of the Community Insight Report will provide regular updates across channels as the project progresses, including clear ways to get in touch with the project team and how to volunteer to be interviewed if that is part of the process. 
+Ideally, people involved in the production of the Community Insight Report will provide regular updates across channels as the project progresses, including clear ways to get in touch with the project team and how to volunteer to be interviewed if that is part of the process.
+
 ### What sources will you use? 
 Although the main data source for community insight reports are qualitative interviews with community members, you might also want to consider whether you will also analyse other sources of community interaction data. 
 This could be Slack discussions, GitHub exchanges, or community call notes. 
@@ -93,7 +95,7 @@ How will you prevent or mitigate negative consequences for community members who
 You will also need to consult national and international data protection laws to ensure that your proposed solutions comply with any regulations that apply to your community. 
 
 These questions should be answered well in advance of the interviews commencing so that you can communicate the mechanisms in place to potential interviewees before they commit to interviewing. 
-For more reading on this topic you can check out the [Data Security](#data-security) chapter in the Guide to Project Design. 
+For more reading on this topic you can check out the [Data Security](#pd-data-security) chapter in the Guide to Project Design. 
 
 ### How will you act on the findings of the report? 
 A key aspect and central goal of many Community Insight Reports is generating findings which can be translated into concrete steps for the community and leadership to enact. 
@@ -103,7 +105,7 @@ Preparing to take action from the beginning helps to ensure the report results i
 
 ### How will you communicate the results of the report?
 As part of deciding how to act on a Community Insight Report is also identifying a communication plan for the results. 
-You can explore different options in the [`Guide to Communication`](#communication) or look at your existing communications infrastructure to see how it can be used to disseminate the report.
+You can explore different options in the [Guide to Communication](#cm) or look at your existing communications infrastructure to see how it can be used to disseminate the report.
 As a general rule however, you should consider utilising multiple options over a longer time period to ensure that the results reach everyone who might be interested in the outcomes.
 For example, you might submit a presentation to a community conference, host a webinar, publish the report online, and share all of these via newsletters and social media channels active for the project. 
 
