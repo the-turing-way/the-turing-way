@@ -15,8 +15,7 @@ Before asking anyone for help, it is important to keep these three questions in 
 # Reaching out 
 
 If you still need to contact an individual for help or information, you will sooner receive a reply if you anticipate the questions that this individual may have for you. 
-
-Acknowledge in your ask that the individual may not be the right person to address the question to or may not have the time and/or energy to help you right now. 
+Acknowledge in your message that the individual may not be the right person to address the question to or may not have the time and/or energy to help you right now. 
 
 Make it clear why you are asking this individual something, and what exactly it is you are asking of them.
 Provide context and be specific, but keep your message as concise as possible.
