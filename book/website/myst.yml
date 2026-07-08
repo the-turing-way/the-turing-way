@@ -691,6 +691,8 @@ project:
                   title: Technology Considerations
                 - file: collaboration/meetings-events-co-working/ppie-events/ppie-events-resources.md
                   title: Additional Resources
+        - file: collaboration/email-etiquette.md
+          title: Email Etiquette
         - file: collaboration/github-novice.md
           title: Getting Started With GitHub
           children:
