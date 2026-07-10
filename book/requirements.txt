@@ -98,7 +98,7 @@ matplotlib-inline==0.2.2
     # via
     #   ipykernel
     #   ipython
-mistune==3.2.1
+mistune==3.3.0
     # via nbconvert
 nbclient==0.10.4
     # via nbconvert
