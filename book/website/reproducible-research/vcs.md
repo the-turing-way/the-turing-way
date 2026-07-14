@@ -17,13 +17,13 @@ No matter how your group is organized, the work of multiple contributors must be
 Management of changes or revisions to any type of information made in a file or project is called versioning.
 
 In particular, reproducibility requires providing **the code and the data** that were used to produce a figure.
-In practice, data and code are modified regularly and one needs to record what was changed when, in order to provide provenance information. 
-As we will see in this chapter, version control offers many other advantages, which explains why most data science projects are hosted on Git platforms.
+In practice, data, documentation and code are modified regularly.
+Each new change produces a new version of file, and within a project we need to record what was changed in a version, when, by whom and why, in order to provide provenance information.
 
 **Version control is an approach to record changes made in a file** or set of files over time so that you and your collaborators can track their history, review any changes, and revert or go back to earlier versions.
 For example, when writing a paper with multiple collaborators, version control can help track what changed, who made the changes, and what updates were made.
 
-
+As we will see in this chapter, version control offers many other advantages, which is why most data science projects are hosted on platforms built on 'Git', one of the most widely used open source {ref}`version control systems<rr-vcs-vcs>` in the world.
 
 ```{figure}  ../../figures/project-history.*
 ---
@@ -45,13 +45,17 @@ In this chapter, we introduce versioning best practices regardless of tools {ref
 Most instructions given in this chapter will be indeed geared towards Git, which is most commonly used by researchers, and a web-based Git repository hosting service, [GitHub](https://github.com/), which facilitates online collaborations. 
 We also provide information about {ref}`larger dataset versioning<rr-vcs-data>`, and introduce tools that allow the use of Git workflows for this purpose, although Git is not suitable for versioning binary files.
 
+(rr-vcs-vcs)=
 ### Version control systems
 
-Different version control systems can be used through a program with a graphical user interface, web browser-based applications, or command-line tools.
+Version control systems (VCS) are software that enable users to track and manage changes in a project's files over time.
+VCS records what changes were made, when and by whom, and allow review and reverting files to a previous version.
+Some VCS also allow users to annotate and describe why and how the changes were made.
+Different VCS can be used through a program with a graphical user interface, web browser-based applications, or command-line tools.
 Tools such as Google Drive and Dropbox offer platforms to update files and share them with others in real-time, collaboratively.
 More sophisticated version control system exists within tools like [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
 These allow collaborators to update files while storing each version in its version history (we will discuss this in detail).
-Advanced version control systems (VCS) such as [Git](https://en.wikipedia.org/wiki/Git), [Mercurial](https://www.mercurial-scm.org/), and [SVN](https://subversion.apache.org/) provide much more powerful tools.
+Advanced VCS such as [Git](https://en.wikipedia.org/wiki/Git), [Mercurial](https://www.mercurial-scm.org/), and [SVN](https://subversion.apache.org/) provide much more powerful tools.
 Accessing the version history and keeping control over the main version of your files are particular feature of these advanced tools.
 
 Versioning practices mainly come from managing changes in the code repositories.
