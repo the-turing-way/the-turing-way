@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Helpful |  |
+| [Experience with the command line](#rr-overview-resources-commandline) | Helpful |  |
 
 **Recommended Skill Level**: _Beginner-Intermediate_
 
@@ -23,7 +23,7 @@ Each new change produces a new version of file, and within a project we need to 
 **Version control is an approach to record changes made in a file** or set of files over time so that you and your collaborators can track their history, review any changes, and revert or go back to earlier versions.
 For example, when writing a paper with multiple collaborators, version control can help track what changed, who made the changes, and what updates were made.
 
-As we will see in this chapter, version control offers many other advantages, which is why most data science projects are hosted on platforms built on 'Git', one of the most widely used open source {ref}`version control systems<rr-vcs-vcs>` in the world.
+As we will see in this chapter, version control offers many other advantages, which is why most data science projects are hosted on platforms built on 'Git', one of the most widely used open source [version control systems](#rr-vcs-vcs) in the world.
 
 ```{figure}  ../../figures/project-history.*
 ---
@@ -41,9 +41,9 @@ alt: >
 ```
 
 
-In this chapter, we introduce versioning best practices regardless of tools {ref}`in the workflow chapter<rr-vcs-workflow>`, before describing in more detail the use of version control and {ref}`git for research projects<rr-vcs-git4research>` that comprise  documentation, datasets and code.
+In this chapter, we introduce versioning best practices regardless of tools in the [workflow chapter](#rr-vcs-workflow), before describing in more detail the use of version control and [git for research projects](#rr-vcs-git4research) that comprise  documentation, datasets and code.
 Most instructions given in this chapter will be indeed geared towards Git, which is most commonly used by researchers, and a web-based Git repository hosting service, [GitHub](https://github.com/), which facilitates online collaborations. 
-We also provide information about {ref}`larger dataset versioning<rr-vcs-data>`, and introduce tools that allow the use of Git workflows for this purpose, although Git is not suitable for versioning binary files.
+We also provide information about [larger dataset versioning](#rr-vcs-data), and introduce tools that allow the use of Git workflows for this purpose, although Git is not suitable for versioning binary files.
 
 (rr-vcs-vcs)=
 ### Version control systems
@@ -85,4 +85,4 @@ Finally, version control is invaluable for collaborative projects where differen
 Using a version control system, **changes made by different people can be tracked and often automatically combined**, saving a great deal of painstaking manual efforts.
 Using version control makes your research more transparent.
 Since all your actions are recorded, your studies become easier to reproduce and build upon.
-Moreover, version control hosting services such as {ref}`GitHub<cl-github-novice-motivation>`, GitLab and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
+Moreover, version control hosting services such as [GitHub](#cl-github-novice-motivation), GitLab and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
