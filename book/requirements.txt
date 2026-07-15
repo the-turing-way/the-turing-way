@@ -98,7 +98,7 @@ matplotlib-inline==0.2.2
     # via
     #   ipykernel
     #   ipython
-mistune==3.2.1
+mistune==3.3.0
     # via nbconvert
 nbclient==0.10.4
     # via nbconvert
@@ -188,7 +188,7 @@ six==1.17.0
     # via
     #   python-dateutil
     #   rfc3339-validator
-soupsieve==2.8.3
+soupsieve==2.8.4
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
