@@ -7,7 +7,7 @@
 
 Culture is defined in many ways, one of which is about the social environment in which you partake, or the customs and behaviours that define a group of people.
 Culture has an influence on your views, values, concerns and your identity. 
-Culture can be difficult to change as it is hard to address directly and shared values can be deeply ingrained @Kotter2012change. 
+Culture can be difficult to change as it is hard to address directly and shared values can be deeply ingrained (@Kotter2012change). 
 Instead, norms of behaviour may be easier to change. 
 
 Here, cultural change is defined as inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation.
@@ -33,9 +33,9 @@ Generally, you will either be affected by cultural change, or, you want to invok
 Researchers advocating for improvements in reproducible, ethical, and collaborative research practices often have to advocate for cultural change at their institutions and other organisations. 
 
 When you are affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
-Cassandra Worthy wrote 'Change Enthusiasm' @Worthy2021change to provide you with exercises and tools to see changes as an opportunity for learning and growth.
+Cassandra @Worthy2021change wrote 'Change Enthusiasm' to provide you with exercises and tools to see changes as an opportunity for learning and growth.
 As an Early Career Researcher you may also have to deal with systemic cultural change in your discipline. 
-The work by {cite:ps}`Kent2022change` contains recommendations that may support you in this change journey.
+The work by @Kent2022change contains recommendations that may support you in this change journey.
 
 You can also change the culture and get involved in committees that update policies, or add new ones (see the [Guide to Accelerate Public Access to Research Data](https://www.aplu.org/news-and-media/News/aplu-and-aau-issue-guide-to-accelerate-public-access-to-research-data) for some pointers that are applicable beyond a research data policy). 
 You may be advocating to make your work environment more inclusive, at the office or within your research association.
