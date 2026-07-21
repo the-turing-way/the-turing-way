@@ -2,11 +2,12 @@
 # Getting Started with Project Design
 
 Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools. 
-Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of the {ref}`Research Cycle<research-cycle>`). 
+Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of the [](#research-cycle)). 
 By documenting and sharing project workflows and processes for research and researchers, we can ensure the sustainability and reusability of research for both developers and future users. 
 In addition, planning your project at the start can help you make sure that you are meeting any funder requirements.
 
-A human-centered approach in the context of the research project can lead to a better development process, maintenance, and future extension of our work. Furthermore, it will help improve the quality of future project design as we can learn lessons from what worked and what can be improved.
+A human-centered approach in the context of the research project can lead to a better development process, maintenance, and future extension of our work.
+Furthermore, it will help improve the quality of future project design as we can learn lessons from what worked and what can be improved.
 
 ```{note}
 **Top three 'selfish' reasons to use project design practices**
@@ -27,11 +28,14 @@ Project design practices help all stakeholders to be certain about their roles a
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
 
-Every piece of research has the capacity to generate change - this is the basis of discovery and progress. Therefore, it is necessary to consider how your investigation could impact other people's lives and under which ethical and legal standards it should be conducted.
+Every piece of research has the capacity to generate change - this is the basis of discovery and progress.
+Therefore, it is necessary to consider how your investigation could impact other people's lives and under which ethical and legal standards it should be conducted.
 
-A project must be designed considering legal and ethical issues at every step: from the formulation of questions and data collection to analysis, results, and interpretation. It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications and social expectations and adhering to ethical principles and professional standards.
+A project must be designed considering legal and ethical issues at every step: from the formulation of questions and data collection to analysis, results, and interpretation.
+It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications and social expectations and adhering to ethical principles and professional standards.
 
-Obtaining ethical and legal approval is a crucial step in the project to ensure that your research is being conducted in a responsible and ethical manner. Research ethics committees (RECs) proceed in several ways, but there are five principal topics that the ethics committee might want to know about:
+Obtaining ethical and legal approval is a crucial step in the project to ensure that your research is being conducted in a responsible and ethical manner.
+Research ethics committees (RECs) proceed in several ways, but there are five principal topics that the ethics committee might want to know about:
 
 1. Project Description
 2. Data and Methodology
@@ -39,7 +43,7 @@ Obtaining ethical and legal approval is a crucial step in the project to ensure 
 4. Privacy and Security
 5. Further Societal Consequences
 
-The {ref}`Research Ethics Committees Processes<er-committees>` chapter provides more information about each item. Refer to other chapters in the {ref}`Guide for Ethical Research<er>` for further guidance.
+The {ref}`Research Ethics Committees Processes<er-committees>` chapter provides more information about each item. Refer to other chapters in the [](#er) for further guidance.
 
 ```{warning}
 Even if you do not need institutional ethical approval, your project will still benefit from planning using self-reflection techniques and including ethical considerations in the project design. 
@@ -52,8 +56,13 @@ Create a shared repository to allow easy access to information and different doc
 A project repository can be openly available if you are developing an open source project, or can be shared only with your collaborators.
 In the chapter {ref}`pd-project-repo`, you can learn about how to set up a repository with key documents like a landing page, contribution guidelines and communication pathways.
 
-Start by documenting your vision, mission, goals and roadmap in a README file (see the {ref}`pd-project-repo-readme` chapter), followed by a description of resources and norms for collaboration and communication.
+Start by documenting your vision, mission, goals and roadmap in a README file (see [](#pd-project-repo-readme)), followed by a description of resources and norms for collaboration and communication.
 In the next chapter, we discuss how project design enables good communication and collaboration in research.
 In the subsequent chapters, we describe different methods and tools for ensuring research reproducibility.
+
+(pd-overview-planning-resources)=
+## Resources
+
+* [ManyBabies workshop on Project Management](https://www.youtube.com/watch?v=BmGlx6acRyg&list=PLynqjZusW6nv30QKSo-I4CrI7Xsm2ph1D&index=10&t=755s) (video)
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
