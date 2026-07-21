@@ -14,7 +14,7 @@ Below follow some questions that you can consider when you set up a Team Manual.
 - Group members will think more actively about how to do research
 - Answers to frequently asked questions will be available (knowledge management)
 - Can contribute to a safer lab environment (technically and socially)
-- You can hold people more easily {ref}`accountable<cl-team-manual-accountable>`
+- You can hold people more easily [accountable](#cl-team-manual-accountable)
 
 (cl-team-manual-content)=
 ## What to include in a Team Manual? 
@@ -44,7 +44,7 @@ How is the code written, version controlled?
 See for example the [Research toolkit by the Open Data Institute](https://theodi.org/article/check-out-our-rd-open-research-tools/). 
 Is work of lab members reproduced by other lab members (for example, to learn new techniques and to validate previous work)?
 - Communication: 
-How do people engage with each other? For suggestion on how to organise communication, see {ref}`cl-mec-remote-organising-meetings`.
+How do people engage with each other? For suggestion on how to organise communication, see [](#cl-mec-remote-organising-meetings).
 - Under what condition can people provide their best work? 
 What support is needed? 
 How do people work? 
@@ -59,7 +59,7 @@ What do lab members need access to (servers, software, tools, room keys, library
 - On/off boarding: 
 A list of what new members need to do when they start out, and a list what leaving members need to do before they go. 
 - Behaviour: 
-Consider setting up a code of conduct or policy on scientific integrity (and align with the {ref}`institutional/national policies<cl-team-manual-policies>` on this). 
+Consider setting up a code of conduct or policy on scientific integrity (and align with the [institutional/national policies](#cl-team-manual-policies) on this). 
 What should people do when they encounter harassment/discrimination? What is the lab culture? 
 - Credit: How to provide appropriate credit to the right people? 
 How to ensure that each contribution is recognised and rewarded? 
@@ -70,16 +70,16 @@ How are successes celebrated?
 How are reproducible, ethical and inclusive data science practices included in this assessment? 
 How is maintenance work evaluated and celebrated? 
 - Culture: 
-How are mistakes handled (see {cite:ps}`Rouder2019minimizing`)? 
+How are mistakes handled (see @Rouder2019minimizing)? 
 How is insecurity being normalised? How is feedback given and acted upon?
 - Engagement: 
 what are the expectations around public outreach? 
 What is the social media policy for personal accounts? 
-How are all the materials made accessible (image descriptions - see {ref}`ch-style-figures-alttext`, translations)?
+How are all the materials made accessible (image descriptions - see [](#ch-style-figures-alttext), translations)?
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
-What are the journal preferences? How does the lab deal with authorship ({ref}`cm-aa`)? 
-see {cite:ps}`Liboiron2017equity` and {cite:ps}`Chawla2018assigning` for author order discussions. 
+What are the journal preferences? How does the lab deal with authorship ([](cm-aa)? 
+see @Liboiron2017equity and @Chawla2018assigning for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
 - Conferences: 
 How do you give a talk? 
@@ -106,7 +106,7 @@ What is the budget available?
 - Support: Where to go for help? 
 This can be support in/outside the lab.
 - Scientific resources: Is there a reading list that lab members should read?
-- Accountability: How do all lab members {ref}`hold each other accountable<cl-team-manual-accountable>`? 
+- Accountability: How do all lab members [hold each other accountable](#cl-team-manual-accountable)? 
 What are procedures to follow? 
 How to ensure that this accountability is not on individuals but the collective?
 
@@ -117,7 +117,7 @@ Institutional and national policies and guidelines prevail over the Manual.
 Is there a research integrity office? 
 - Research Integrity and culture: Is there an institutional policy on this? 
 If there is a dispute, what would be the procedure? Can you contact Human Resources about this?
-- What are the guidelines for research with animals, humans, personal data? See for example the {ref}`Guide on Ethical Research<er>`.
+- What are the guidelines for research with animals, humans, personal data? See for example the [Guide on Ethical Research](#er).
 - Where is institutional support situated? (Human Resources, Integrity Office, Research Data Management, Education).
  
 ### Collaboration and consortium guidelines that extend beyond the Team's Manual
@@ -134,7 +134,7 @@ This does not mean only senior members can be involved: the whole group should b
 
 If you want to convince your supervisor that having a Team Manual is important: 
 - Check if a comparable lab is using a Lab Manual and show them this. 
-You can also use the list provided (see below {ref}`cl-team-manual-examples`) as an example. 
+You can also use the list provided (see [below](#cl-team-manual-examples)) as an example. 
 - Team up with group members so that you're not the only person that wants to implement it.
 - Start out with a simplified template or share a draft so that the supervisor can easily start.
 
@@ -163,7 +163,7 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 (cl-team-manual-assess)=
 ## How to assess your lab culture?
 * Leslie Vosshall's [lab survey](https://docs.google.com/forms/d/e/1FAIpQLScGCi7iACgmVBhFcE7G90oPwuTs-g9CQkrDmOUoQ4FvoT9CfA/viewform) to measure whether your lab is happy 
-* [Improving lab culture through self-assessment: a case study](https://doi.org/10.1101/2021.12.08.471870) {cite:ps}`Hernandez2021improving`
+* [Improving lab culture through self-assessment: a case study](https://doi.org/10.1101/2021.12.08.471870) @Hernandez2021improving
 
 (cl-team-manual-examples)=
 ## Examples of Team Manuals
@@ -184,7 +184,8 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 * Non-scientific approaches to internal collaboration: [Oxide's Request-for-discussion process template](https://oxide.computer/blog/rfd-1-requests-for-discussion), modelled after the original spirit of the [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) process
 * [Open Science Team Agreements](https://zenodo.org/doi/10.5281/zenodo.7154100)
 * [Team Manual Template](https://docs.google.com/document/d/1LqGdtHg0dMbj9lsCnC1QOoWzIsnSNRTSek6i3Kls2Ik/edit)
-* [Lab manuals for efficient and high quality science in a happy and safe work environment](https://osf.io/gtn63) {cite:ps}`Kovacs2024labmanual`
+* [Lab manuals for efficient and high quality science in a happy and safe work environment](https://osf.io/gtn63) @Kovacs2024labmanual
+* [Illinois Library Lab Handbook Template](https://www.ideals.illinois.edu/items/139950)
 
 ## Credit
 This summary is based on an [X (formerly Twitter) Thread by \@samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
@@ -194,13 +195,13 @@ This summary is based on an [X (formerly Twitter) Thread by \@samuelmehr](https:
 * [Research Culture - UKRIO Webinar](https://www.youtube.com/watch?v=WH2cAChUzFA)
 * [Research Culture: Why every lab needs a handbook](https://doi.org/10.7554/eLife.88853) {cite:ps}`Tendler2023culture`
 * [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq), [including Health tips for research groups](https://doi.org/10.1038/d41586-018-05146-5) {cite:ps}`Norris2018health`.
-* [Welcome to the lab](https://doi.org/10.7554/elife.79627) {cite:ps}`Andreev2022welcome`
+* [Welcome to the lab](https://doi.org/10.7554/elife.79627) @Andreev2022welcome
 * [Guidelines Toward Inclusive Practices in Academics by eLife Community Ambassadors](https://osf.io/muk7v/wiki/home/)
-* [Ten simple rules towards healthier research labs](https://doi.org/10.1371/journal.pcbi.1006914) {cite:ps}`Maestre2019ten`
-* [Safety and belonging in the field: a checklist for educators](https://doi.org/10.31223/x53p6h) {cite:ps}`Greene2021safety`
-* [Ten simple rules for building an antiracist lab](https://doi.org/10.1371/journal.pcbi.1008210) {cite:ps}`Chaudhary2020ten`
-* [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928) {cite:ps}`Pike2022simple`
-* [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688) {cite:ps}`RuedasGracia2022ten`
-* [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673) {cite:ps}`Rillig2022ten`
-* [Ten simple rules to cultivate belonging in collaborative data science research teams](https://doi.org/10.1371/journal.pcbi.1010567) {cite:ps}`Gaynor2022ten`
+* [Ten simple rules towards healthier research labs](https://doi.org/10.1371/journal.pcbi.1006914) @Maestre2019ten
+* [Safety and belonging in the field: a checklist for educators](https://doi.org/10.31223/x53p6h) {@Greene2021safety
+* [Ten simple rules for building an antiracist lab](https://doi.org/10.1371/journal.pcbi.1008210) @Chaudhary2020ten
+* [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928) @Pike2022simple
+* [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688) @RuedasGracia2022ten
+* [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673) @Rillig2022ten
+* [Ten simple rules to cultivate belonging in collaborative data science research teams](https://doi.org/10.1371/journal.pcbi.1010567) @Gaynor2022ten
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
