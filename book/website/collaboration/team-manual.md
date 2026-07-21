@@ -78,7 +78,7 @@ What is the social media policy for personal accounts?
 How are all the materials made accessible (image descriptions - see [](#ch-style-figures-alttext), translations)?
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
-What are the journal preferences? How does the lab deal with authorship ([](cm-aa)? 
+What are the journal preferences? How does the lab deal with authorship ([](#cm-aa)? 
 see @Liboiron2017equity and @Chawla2018assigning for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
 - Conferences: 
@@ -153,7 +153,7 @@ It could be that the Lab Manual needs to be updated, or a discussion needs to ta
 
 If someone breaks the agreements it needs to be clear what the consequences are. 
 The Team/Lab needs to be held accountable, as otherwise there is no point of having a Lab Manual. 
-See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:ps}`Lencioni2012five`): 
+See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' @Lencioni2012five: 
 - Absence of trust
 - Fear of Conflict
 - Lack of commitment
