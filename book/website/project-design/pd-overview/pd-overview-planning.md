@@ -2,7 +2,7 @@
 # Getting Started with Project Design
 
 Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools. 
-Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of the [](#research-cycle)). 
+Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see [this illustration](#research-cycle)). 
 By documenting and sharing project workflows and processes for research and researchers, we can ensure the sustainability and reusability of research for both developers and future users. 
 In addition, planning your project at the start can help you make sure that you are meeting any funder requirements.
 
@@ -43,7 +43,8 @@ Research ethics committees (RECs) proceed in several ways, but there are five pr
 4. Privacy and Security
 5. Further Societal Consequences
 
-The {ref}`Research Ethics Committees Processes<er-committees>` chapter provides more information about each item. Refer to other chapters in the [](#er) for further guidance.
+The [Research Ethics Committees Processes](#er-committees) chapter provides more information about each item.
+Refer to other chapters in the [](#er) for further guidance.
 
 ```{warning}
 Even if you do not need institutional ethical approval, your project will still benefit from planning using self-reflection techniques and including ethical considerations in the project design. 
