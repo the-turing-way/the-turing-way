@@ -263,6 +263,11 @@ project:
               title: Style and Formatting Tools
             - file: reproducible-research/code-quality/code-quality-resources.md
               title: Checklist and Resources
+        - file: reproducible-research/security.md
+          title: Secure Software Development
+          children:
+            - file: reproducible-research/security/webserver.md
+              title: Web Server Security
         - file: reproducible-research/testing.md
           title: Code Testing
           children:
