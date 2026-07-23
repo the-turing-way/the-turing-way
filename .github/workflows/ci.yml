@@ -18,7 +18,8 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        python_version: ["3.13"]
+        # NOTE: This version should match the version we are setting in netlify.toml
+        python_version: ["3.14"]
       fail-fast: false # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
