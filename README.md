@@ -135,6 +135,8 @@ You can also follow us on [Mastodon](https://fosstodon.org/@turingway), [Bluesky
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
+![This image shows a world map indicating the locations of all the contributors to The Turing Way Community Handbook. The size of the dot indicates the propotion of the contributions that any give contributor has made via GitHub](book/figures/README_imgs/README_all_contributor_geographies.png)
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
