@@ -6,7 +6,7 @@
 Since its inception in 2019, *The Turing Way* has experienced significant growth, with a diverse community of contributors creating a range of chapters covering various aspects of data science practices.
 
 This expansion, although necessary for enhancing the usability of *The Turing Way* for diverse user groups, has introduced a challenge for both the new and returning users of the book: *how can users efficiently locate the information most relevant to their specific needs and skill levels?*
-To address this, the 'Pathways' feature was developed and implemented within *The Turing Way*, which is briefly described in this chapter.
+To address this, the '[Pathways](#pw)' feature was developed and implemented within *The Turing Way*, which is briefly described in this chapter.
 
 ### Background
 
