@@ -21,7 +21,7 @@ Your non-response means a delay for the authors and the editor.
 Have you heard of it before?
 Does it have a reputation in your discipline?
 Are you planning to submit your own work there? 
-Is this journal an [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access.html) journal?
+Is this journal an {ref}`Open Access <rr-open-access>` journal?
 To make sure you are dealing with a trusted journal or publishers follow the checklists by [Think.Check.Submit](https://thinkchecksubmit.org/). 
 
 1. Check if this paper is of interest to review and if you are the right person to review the paper. 
@@ -37,7 +37,7 @@ Recommending other potential reviewers when declining is helpful, but not necess
 If you do, you might describe how you know the author(s) and ask the editor whether it is appropriate for you to review the paper.
 If you have a conflict of interest, notify the editor and politely decline. 
 
-1. Check whether the authors have made the data and code available - see also [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access.html).
+1. Check whether the authors have made the data and code available - see also {ref}`Open Access <rr-open-access>`.
 You can set a requirement for the author to make the data available for peer review or openly available before you accept an invitation to review their work. 
 It needs to be taken into account that some data  would be illegal or dangerous to make available, such as datasets that contain identifying information that cannot be removed. 
 In most cases, the authors can provide at least partial access to the data by excluding variables that contain personal information.
