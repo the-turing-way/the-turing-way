@@ -87,6 +87,19 @@ jobs:
           name: book-html-${{ github.run_id }}
           path: ./book/website/_build/html/
 
+  check-build-success:
+    # job to check the book has successfully built on all three OS's
+    runs-on: ubuntu-latest
+    needs: build-jb
+    if: always()
+    steps:
+      - name: All builds ok
+        if: ${{ !(contains(needs.*.result, 'failure')) }}
+        run: exit 0
+      - name: Some build jobs failed
+        if: ${{ contains(needs.*.result, 'failure') }}
+        run: exit 1
+
   offline-link-check:
     name: Link Check
     needs: build-jb
