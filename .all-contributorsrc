@@ -5672,6 +5672,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "deltaahead",
+      "name": "Gabriele Di Gesù",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60932561?v=4",
+      "profile": "https://github.com/deltaahead",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ]
 }
