@@ -216,6 +216,9 @@ ethical source software
 ## F
 
 ```{glossary}
+fail-fast environment
+: A development setup that rapidly identifies failures introduced by code changes, allowing researchers to catch errors as early as possible before they propagate.
+
 FAIR
 : Findable, Accessible, Interoperable and Reusable.
 
