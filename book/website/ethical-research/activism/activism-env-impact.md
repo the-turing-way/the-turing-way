@@ -56,14 +56,16 @@ Bars with Scale, by Ed Hawkins.
 Below we share some thought-provoking questions about the Environmental Impact of Digital Research.
 
 - Where in the world did your last computer end up? An estimated 50 million tons of electronic waste are discarded each year.
-This is equivalent to throwing out 1000 laptops every single second. Less than 20% of e-waste is formally recycled, with 80% either ending up in landfill on developing countries, exposing vulnerable populations and their environment to health and pollution impacts (ref: https://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf).
+This is equivalent to throwing out 1000 laptops every single second. [Less than 20% of e-waste is formally recycled, with 80% either ending up in landfill on developing countries](https://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf), exposing vulnerable populations and their environment to health and pollution impacts.
 
 - How much unused or inaccessible data do you have on the cloud?
 In 2021, on average, 35% of enterprise data is “dark,” meaning it has an unknown value, while 50% is redundant, obsolete or trivial.
-Only about 16% is business-critical, the study concluded. (ref: https://www.veritas.com/content/dam/Veritas/docs/reports/GA_ENT_AR_Veritas-Vulnerability-Gap-Report-Global_V1414.pdf)
+Only about 16% is business-critical, [the study](https://www.veritas.com/content/dam/Veritas/docs/reports/GA_ENT_AR_Veritas-Vulnerability-Gap-Report-Global_V1414.pdf) concluded. 
 
 - How much of the world's total electricity will the technological sector use by 2025?
-It is predicted that by 2025, the technology sector will consume 20% of the world’s total electricity (compared to 7% in 2022). Ref: https://www.tier1.com/the-environmental-impact-of-our-data-storage/)
+It is predicted that by 2025, [the technology sector will consume 20% of the world’s total electricity (compared to 7% in 2022)](https://www.tier1.com/the-environmental-impact-of-our-data-storage). 
+
+- See [Introduction to Green Computing](https://www.software.ac.uk/guide/introduction-green-computing) for more resources and statistics about the environmental impact of digital research.
 
 (er-activism-env-impact-reduction-strategies)=
 ## Strategies for reduction
@@ -81,7 +83,8 @@ In this section, we explore approaches that can be employed to mitigate the envi
 
 (er-activism-env-impact-code-efficiency)=
 #### Improve code efficiency
-As mentioned above, the amount of energy spent on running a computation depends on how long the particular computation runs. One way of reducing the energy spent is to optimize the code to make it run faster. 
+As mentioned above, the amount of energy spent on running a computation depends on how long the particular computation runs.
+One way of reducing the energy spent is to [optimize the code to make it run more efficient](https://www.software.ac.uk/guide/writing-energy-efficient-code). 
 
 Several studies show the energy intensity of computing tasks such as training Natural Language Processing models @strubell2019nlpenergy @Schwartz2020greenai, astrophysics simulations @Portegies2020ecologicalimpact, bioinformatics @Grealey2022carbonfootprint, and so forth. 
 
@@ -105,7 +108,7 @@ Some examples include:
 For example: do not run unit tests when changes are made in the documentation and not on the code. 
 * If you do test-driven development, run only tests that have previously failed.
 In this way you do not need to test code which you already know has been tested.
-You can use [a GH action](https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed) for limiting when tests (pytest) are run.
+You can use [a GH action](https://github.com/marketplace/actions/pytest-last-failed) for limiting when tests (pytest) are run.
 * Run CI with smaller datasets.
 
 (er-activism-env-impact-schedule-low-emission)=
