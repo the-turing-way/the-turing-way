@@ -3,9 +3,9 @@
 
 This page provides access to various group-based initiatives or subprojects, listed under three themes:
 
-- working groups, that guide the different areas of work as a formal part of _The Turing Way's_ governance
-- funded projects, that are led by members in a paid capacity
-- informal initiatives, that are led by members through collaboration around shared interests
+- [working groups](#fw-governance-groups-working), that guide the different areas of work as a formal part of _The Turing Way's_ governance
+- [delivery groups](#fw-governance-groups-delivery), that are led by members in a paid capacity
+- [informal initiatives](#fw-governance-groups-informal), that are led by members through collaboration around shared interests
 
 These subprojects are often time-bound and are supported by community members who take open leadership roles in response to the emergent and timely opportunities in the research and open science ecosystem.
 
@@ -69,6 +69,7 @@ These subprojects are often time-bound and are supported by community members wh
 - Member: [Carlos Martinez Ortiz](#profile-carlos-martinez-oritz)
 - Member: [Susana Roman Garcia](#profile-susana-roman-garcia)
 
+(fw-governance-groups-delivery)=
 ## Delivery Groups
 
 ### Professionalising Data Science Roles - Turing's Skills Policy Award
@@ -133,6 +134,7 @@ These subprojects are often time-bound and are supported by community members wh
 - [Julien Colomb](#profile-julien-colomb)
 - [Malvika Sharan](#profile-malvika-sharan)
 
+(fw-governance-groups-informal)=
 ## Informal Initiatives
 
 ## Cite.Software: Centalising Recommendation for Research Stakeholders
