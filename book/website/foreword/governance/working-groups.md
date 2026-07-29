@@ -148,7 +148,7 @@ These subprojects are often time-bound and are supported by community members wh
 - [Christopher Erdmann](#profile-christopher-erdmann)
 - [Malvika Sharan](#profile-malvika-sharan)
 
-## Recognising Research Infrastructure Roles (RIR)
+### Recognising Research Infrastructure Roles (RIR)
 
 #### Project Information
 
