@@ -16,7 +16,7 @@ jobs:
     environment: crowdin
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: Generate Crowdin Contributors table
         uses: andrii-bodnar/action-crowdin-contributors@v3.2.0
