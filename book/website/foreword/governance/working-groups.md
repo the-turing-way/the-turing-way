@@ -137,7 +137,7 @@ These subprojects are often time-bound and are supported by community members wh
 (fw-governance-groups-informal)=
 ## Informal Initiatives
 
-## Cite.Software: Centalising Recommendation for Research Stakeholders
+### Cite.Software: Centalising Recommendation for Research Stakeholders
 
 #### Project Information
 
