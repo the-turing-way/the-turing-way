@@ -18,8 +18,6 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        # NOTE: This version should match the version we are setting in netlify.toml
-        python_version: ["3.14"]
       fail-fast: false # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
@@ -60,12 +58,13 @@ jobs:
         if: ${{ !contains(github.head_ref, 'all-contributors') }}
         uses: actions/checkout@v7
 
-      - name: Setup Python ${{ matrix.python_version }}
+      - name: Setup Python
         # ignore pull requests from the all-contributors bot
         if: ${{ !contains(github.head_ref, 'all-contributors') }}
         uses: actions/setup-python@v6
         with:
-          python-version: ${{ matrix.python_version }}
+          # NOTE: This version should match the version we are setting in netlify.toml
+          python-version: "3.14"
 
       - name: Install dependencies
         # ignore pull requests from the all-contributors bot
