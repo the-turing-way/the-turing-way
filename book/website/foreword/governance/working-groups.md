@@ -1,40 +1,48 @@
-(subprojects)=
-# Working Groups, Funded Projects and Informal Initiatives
+(fw-governance-groups)=
+# Working Groups and Delivery Groups
 
-This page provides access to various group-based initiatives or subprojects, listed under three themes: working groups that guide the different areas of work as a formal part of Turing's governance, funded projects that are led by members in a paid capacity and informal initiatives that are led by members through collaboration around shared interests.
+This page provides access to various group-based initiatives or subprojects, listed under three themes:
+
+- working groups, that guide the different areas of work as a formal part of _The Turing Way's_ governance
+- funded projects, that are led by members in a paid capacity
+- informal initiatives, that are led by members through collaboration around shared interests
+
 These subprojects are often time-bound and are supported by community members who take open leadership roles in response to the emergent and timely opportunities in the research and open science ecosystem.
 
-(subprojects-working-groups)=
-## Working Groups Led by Community Members
+(fw-governance-groups-working)=
+## Working Groups Led
 
+(fw-governance-groups-working-translation)=
 ### Translation and Localisation Working Group
 
 #### Project Information
 
-- [Chapter in the Community Handbook](https://book.the-turing-way.org/community-handbook/translation)
+- [Chapter in the Community Handbook](#ch-translation)
 
 #### People
 
-- [Andrea Sanchez Tapia](https://book.the-turing-way.org/afterword/contributors-record#andrea-sanchez-tapia)
-- [Batool Almarzouq](https://book.the-turing-way.org/afterword/contributors-record#batool-almarzouq)
-- [Melissa Black](https://book.the-turing-way.org/afterword/contributors-record#melissa-black)
+- [Andrea Sanchez Tapia](#profile-andrea-sanchez-tapia)
+- [Batool Almarzouq](#profile-batool-almarzouq)
+- Melissa Black
 
-(subprojects-infra-wg)=
+(fw-governance-groups-working-infra)=
 ### Infrastructure Working Group
 
 #### Project Information
 
+- [Chapter in the Community Handbook](#ch-infrastructure)
 - [Project board](https://github.com/orgs/the-turing-way/projects/9)
 - [Working group repository](https://github.com/the-turing-way/infrastructure-working-group)
 
 #### People
 
-- Chair: [Jim Madge](https://book.the-turing-way.org/afterword/contributors-record#jim-madge)
-- Secretary: [Sarah Gibson](https://book.the-turing-way.org/afterword/contributors-record#sarah-gibson)
-- Member: [Danny Garside](https://book.the-turing-way.org/afterword/contributors-record#danny-garside)
-- Member: [Brigitta Sipőcz](https://book.the-turing-way.org/afterword/contributors-record#brigitta-sipocz)
-- Member: [Johana Bayer](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)
+- Chair: [Jim Madge](#profile-jim-madge)
+- Secretary: [Sarah Gibson](#profile-sarah-gibson)
+- Member: [Danny Garside](#profile-danny-garside)
+- Member: [Brigitta Sipőcz](`#profile-brigitta-sipőcz`)
+- Member: [Johanna Bayer](#profile-johanna-bayer)
 
+(fw-governance-groups-working-accessibility)=
 ### Accessibility Working Group
 
 #### Project Information
@@ -43,23 +51,25 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### People
 
-- [Liz Hare](https://book.the-turing-way.org/afterword/contributors-record#liz-hare)
-- [Anne Lee Steele](https://book.the-turing-way.org/afterword/contributors-record#anne-lee-steele)
+- [Liz Hare](#profile-liz-hare)
+- [Anne Lee Steele](#profile-anne-lee-steele)
 
+(fw-governance-groups-working-book-dash)=
 ### Book Dash Planning Committee and Working Group
 
 #### Project Information
-[Chapter in the Community Handbook](https://book.the-turing-way.org/community-handbook/bookdash)
+
+[Chapter in the Community Handbook](#ch-bookdash)
 
 #### People
 
-- Chair: [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp)
-- Secretary: [Arielle Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)
-- Secretary: [Emma Karoune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)
-- Member: [Carlos Martinez](https://book.the-turing-way.org/afterword/contributors-record#c-martinez)
-- Member: [Susana Roman Garcia](https://book.the-turing-way.org/afterword/contributors-record#susana465)
+- Chair: [Esther Plomp](#profile-esther-plomp)
+- Secretary: [Arielle Bennett](#profile-arielle-bennett)
+- Secretary: [Emma Karoune](#profile-emma-karoune)
+- Member: [Carlos Martinez Ortiz](#profile-carlos-martinez-oritz)
+- Member: [Susana Roman Garcia](#profile-susana-roman-garcia)
 
-## Funded Projects
+## Delivery Groups
 
 ### Professionalising Data Science Roles - Turing's Skills Policy Award
 
@@ -69,9 +79,9 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### People
 
-- [Emma Karoune](https://book.the-turing-way.org/afterword/contributors-record#emma-karoune)
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
-- [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
+- [Emma Karoune](#profile-emma-karoune)
+- [Malvika Sharan](#profile-malvika-sharan)
+- [Alexandra Araujo Alvarez](#profile-alexandra-araujo-alvarez)
 
 ### *The Turing Way* Practitioners Hub - BridgeAI-funded Project
 
@@ -81,9 +91,9 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### People
 
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
-- [Kirstie Whitaker](https://book.the-turing-way.org/afterword/contributors-record#kirstie-whitaker)
-- [Alexandra Araujo Alvarez](https://book.the-turing-way.org/afterword/contributors-record#alexandra-araujo-alvarez)
+- [Malvika Sharan](#profile-malvika-sharan)
+- [Kirstie Whitaker](#profile-kirstie-whitaker)
+- [Alexandra Araujo Alvarez](#profile-alexandra-araujo-alvarez)
 
 ### Pathways Python Package for Curated Access to Book Chapters
 
@@ -99,8 +109,8 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### Maintainers
 
-- [Arya A](https://book.the-turing-way.org/afterword/contributors-record#arya-a)
-- [Infrastructure working group](#subprojects-infra-wg)
+- [Arya A](#profile-arya-a.)
+- [Infrastructure working group](#fw-governance-groups-working-infra)
 
 ### Data Science Project Management for Project Leaders
 
@@ -120,8 +130,8 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### Maintainers
 
-- [Julien Colomb](https://book.the-turing-way.org/afterword/contributors-record#julien-colomb)
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
+- [Julien Colomb](#profile-julien-colomb)
+- [Malvika Sharan](#profile-malvika-sharan)
 
 ## Informal Initiatives
 
@@ -133,8 +143,8 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### People
 
-- [Christopher Erdmann](https://book.the-turing-way.org/afterword/contributors-record#christopher-erdmann)
-- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan)
+- [Christopher Erdmann](#profile-christopher-erdmann)
+- [Malvika Sharan](#profile-malvika-sharan)
 
 ## Recognising Research Infrastructure Roles (RIR)
 
@@ -144,7 +154,7 @@ These subprojects are often time-bound and are supported by community members wh
 
 #### People
 
-- [Arielle Bennett](https://book.the-turing-way.org/afterword/contributors-record#arielle-bennett)
-- [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp)
-- [Danny Garside](https://book.the-turing-way.org/afterword/contributors-record#danny-garside)
+- [Arielle Bennett](#profile-arielle-bennett)
+- [Esther Plomp](#profile-esther-plomp)
+- [Danny Garside](#profile-danny-garside)
 - [Hao Ye](https://www.weecology.org/author/hao-ye/)
