@@ -53,7 +53,7 @@ project:
             - file: foreword/governance/governance-roles.md
               title: Governance Roles
             - file: foreword/governance/working-groups.md
-              title: Working and Deliver Groups
+              title: Working and Delivery Groups
             - file: foreword/governance/ways-of-working.md
               title: Ways of Working
         - file: foreword/cite.md
