@@ -39,7 +39,7 @@ These subprojects are often time-bound and are supported by community members wh
 - Chair: [Jim Madge](#profile-jim-madge)
 - Secretary: [Sarah Gibson](#profile-sarah-gibson)
 - Member: [Danny Garside](#profile-danny-garside)
-- Member: [Brigitta Sipőcz](`#profile-brigitta-sipőcz`)
+- Member: [Brigitta Sipőcz](#profile-brigitta-sipocz)
 - Member: [Johanna Bayer](#profile-johanna-bayer)
 
 (fw-governance-groups-working-accessibility)=
