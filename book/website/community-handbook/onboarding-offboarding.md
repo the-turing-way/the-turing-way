@@ -11,4 +11,8 @@ As you will learn from being in this community: this is a constantly-evolving pr
 
 Or alternatively, whether it's changed responsibilities, a new job, shifting interests, or any other reason –– we understand that life happens, and that communities will always be shifting and evolving! While we are sad to see you go for now, we hope that you'll stay engaged with us in *The Turing Way* community! 
 
-Whether you are joining
+Whether you are joining the community for the first time or transitioning out of a role, we want to ensure you have the resources and support you need. The following sections provide guidance for different onboarding and offboarding scenarios:
+
+- {ref}`General Onboarding Calls<ch-general-onboarding>`: Learn about our community onboarding calls for new members
+- {ref}`Core Team Onboarding<ch-core-team-onboarding-checklist>`: Guidance for community members taking on leadership roles (archived)
+- {ref}`Core Team Offboarding<ch-core-team-offboarding-checklist>`: Support for those transitioning out of leadership roles (archived)
