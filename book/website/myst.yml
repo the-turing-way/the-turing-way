@@ -1101,6 +1101,8 @@ project:
               title: Individual Contributors
             - file: afterword/contributors/all-contributors.md
               title: All Contributors
+            - file: afterword/contributors/all-contributors-geographies.ipynb
+              title: Geographical Distribution of Contributors
             - file: afterword/contributors/translators.md
               title: Translators
         - file: afterword/collaborators.md
