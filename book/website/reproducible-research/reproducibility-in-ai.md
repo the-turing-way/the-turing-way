@@ -1,3 +1,7 @@
+---
+abbreviations:
+  OSI: Open Source Initiative
+---
 # Reproducibility in AI
 
 At the time of this writing, AI has become a large part of human life and part of our daily processes.
