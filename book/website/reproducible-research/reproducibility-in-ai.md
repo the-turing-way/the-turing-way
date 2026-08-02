@@ -51,10 +51,7 @@ More specifically:
 
 ## Why is reproducibility important
 
-Reproducibility is important because it ensures that research findings or experimental results can be repeated by others using the same methods, data, and procedures.
-This helps verify the accuracy and reliability of the results, increasing confidence in the conclusions.
-Reproducibility also promotes transparency by encouraging researchers to clearly document their methods, making it easier for others to understand, validate, and build upon existing work.
-As a result, it supports scientific progress, reduces errors, and enables informed decision-making in fields such as science, medicine, engineering, and technology.
+We write about this extensively in the [Added Advantages](https://book.the-turing-way.org/reproducible-research/overview/overview-benefit/) chapter of _The Turing Way_ book. 
 
 In summary: open data and code, ease of access, and review.
 
