@@ -22,7 +22,7 @@ There are two definitions to be highlighted in this article.
 
 **Organisation for Economic Co-operation and Development (OECD)**
 > An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments.
-> Different AI systems vary in their levels of autonomy and adaptiveness after deployment. (OECD, Artificial Intelligence Papers, March 2024)
+> Different AI systems vary in their levels of autonomy and adaptiveness after deployment. ([OECD, Artificial Intelligence Papers, March 2024](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf))
 
 For the sake of this chapter, we lean more towards the OECD definition.
 
