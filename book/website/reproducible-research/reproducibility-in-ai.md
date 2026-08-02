@@ -1,6 +1,6 @@
 ---
 abbreviations:
-  OSI: Open Source Initiative
+  OSI: Open Source Initiative (https://opensource.org/) 
 ---
 # Reproducibility in AI
 
