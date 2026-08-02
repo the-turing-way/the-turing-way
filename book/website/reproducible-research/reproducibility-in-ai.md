@@ -37,6 +37,8 @@ In that regard, we define AI with respect to Open Source, using the Open Source 
 > - Study how the system works and inspect its components.
 > - Modify the system for any purpose, including to change its output.
 > - Share the system for others to use with or without modifications, for any purpose.
+>
+> -- [OSI open source AI definition](https://opensource.org/ai/open-source-ai-definition)
 
 Finally, we define what reproducibility is according to The Turing Way, and narrow it down with the definition by Gundersen, Coakley, et al. (2023).
 
