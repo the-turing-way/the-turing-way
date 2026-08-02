@@ -15,9 +15,10 @@ The topic of reproducibility in AI is important, as it helps us build on systems
 
 There are two definitions to be highlighted in this article.
 
-**Wikipedia**
 > Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.
-> It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals ([Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence#)).
+> It is a field of research in engineering, mathematics and computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals 
+>
+> -- [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence#).
 
 **Organisation for Economic Co-operation and Development (OECD)**
 > An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments.
