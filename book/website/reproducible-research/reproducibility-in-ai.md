@@ -22,7 +22,7 @@ There are two definitions to be highlighted in this article.
 
 **Organisation for Economic Co-operation and Development (OECD)**
 > An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments.
-> Different AI systems vary in their levels of autonomy and adaptiveness after deployment. ([OECD, Artificial Intelligence Papers, March 2024](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf))
+> Different AI systems vary in their levels of autonomy and adaptiveness after deployment as defined by the OECD [@oecd2024ai].
 
 For the sake of this chapter, we lean more towards the OECD definition.
 
@@ -40,14 +40,15 @@ An example of this is the OSI definition.
 >
 > -- [OSI open source AI definition](https://opensource.org/ai/open-source-ai-definition)
 
-Finally, we define what reproducibility is according to The Turing Way, and narrow it down with the definition by Gundersen, Coakley, et al. (2023).
+Finally, we define what reproducibility is according to The Turing Way and narrow it down with the definition by Gundersen, Coakley, et al. [@gundersen2022sources].
 
 According to The Turing Way, reproducible research is work that can be independently recreated from the same data and the same code that the original team used.
+
 More specifically:
 
 > Interpretation reproducibility does not require the reproduced experiment to have the same or similar outcome nor analysis, but requires the interpretation to be the same as the original one.
 >
-> -- Gundersen, Coakley, et al. (2023)
+> -- Gundersen, Coakley, et al. (2022)
 
 ## Why is reproducibility important
 
@@ -61,7 +62,7 @@ In Artificial Intelligence, reproducibility takes on a slightly more complex app
 For example, models are trained on data, and this data is converted to numbers, which the system matches to each other, producing responses for users.
 
 The fact that there are some parts of the process that cannot be easily interpreted by humans gives credence to some of the debate on how much of an AI system should be open.
-In this book, we won't lean on either side of the principle, but stick to The Turing Way philosophy of "as closed as necessary, as open as possible."
+In this book, we won't lean on either side of the principle, but stick to _The Turing Way_ philosophy of "as closed as necessary, as open as possible."
 
 To aid this, here are some steps to factor in when working on an AI system:
 
