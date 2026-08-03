@@ -23,6 +23,16 @@
   url = {https://doi.org/10.48550/arXiv.2412.17859}
 }
 
+@techreport{oecd2024ai,
+  author = {{OECD}},
+  title = {Explanatory Memorandum on the Updated OECD Definition of an AI System},
+  institution = {Organisation for Economic Co-operation and Development},
+  series = {OECD Artificial Intelligence Papers},
+  year = {2024},
+  month = mar,
+  url = {https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf}
+}
+
 @article{pineau2020reproducibility,
   title = {Improving Reproducibility in Machine Learning Research: A Report from the NeurIPS 2019 Reproducibility Program},
   author = {Pineau, Joelle and Vincent-Lamarre, Philippe and Sinha, Koustuv and Larivi{\`e}re, Vincent and Beygelzimer, Alina and d'Alch{\'e}-Buc, Florence and Fox, Emily and Larochelle, Hugo},
@@ -31,7 +41,5 @@
   doi = {10.48550/arXiv.2003.12206},
   url = {https://doi.org/10.48550/arXiv.2003.12206}
 }
-
-```
 
 ```
