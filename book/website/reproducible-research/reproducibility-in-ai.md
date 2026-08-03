@@ -89,8 +89,3 @@ To aid this, here are some steps to factor in when working on an AI system:
 Most "open" models only tick the first box.
 Full reproducibility needs all three.
 
-### References
-
-- Gundersen, O. E., Cappelen, O., Mølnå, M., & Nilsen, N. G. (2024). The unreasonable effectiveness of open science in AI: A replication study (arXiv No. 2412.17859). arXiv. https://doi.org/10.48550/arXiv.2412.17859 
-- Pineau, J., Vincent-Lamarre, P., Sinha, K., Larivière, V., Beygelzimer, A., d'Alché-Buc, F., Fox, E., & Larochelle, H. (2020). Improving reproducibility in machine learning research: A report from the NeurIPS 2019 reproducibility program (arXiv No. 2003.12206). arXiv. https://doi.org/10.48550/arXiv.2003.12206
-- Gundersen, O. E., Coakley, K., Kirkpatrick, C. R., & Gil, Y. (2022). Sources of irreproducibility in machine learning: A review. arXiv. https://doi.org/10.48550/arXiv.2204.07610
