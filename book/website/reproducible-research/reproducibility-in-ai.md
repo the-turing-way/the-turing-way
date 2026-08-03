@@ -47,7 +47,7 @@ More specifically:
 
 > Interpretation reproducibility does not require the reproduced experiment to have the same or similar outcome nor analysis, but requires the interpretation to be the same as the original one.
 >
-> — Gundersen, Coakley, et al. (2023)
+> -- Gundersen, Coakley, et al. (2023)
 
 ## Why is reproducibility important
 
