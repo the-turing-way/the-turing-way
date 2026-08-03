@@ -27,7 +27,8 @@ There are two definitions to be highlighted in this article.
 For the sake of this chapter, we lean more towards the OECD definition.
 
 When discussing reproducibility, although it is not always the same definition as "open," there is a tendency to have open principles, as they sometimes overlap.
-An example of this is the OSI definition.
+
+An example of this is the [Open Source Initiative](https://opensource.org/) definition: 
 
 > In this case, a 'system' encompasses both a fully functional structure and its discrete structural elements.
 > To be considered Open Source, the requirements are the same, whether applied to a system, a model, weights and parameters, or other structural elements.
