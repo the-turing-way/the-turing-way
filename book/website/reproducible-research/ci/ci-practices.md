@@ -25,7 +25,7 @@ One approach is to use different levels of testing, with different subgroups bei
 
 ## Dependencies tracking
 
-Checking for dependency updates should be done regularly. It can save a lot of time, avoiding bugs due to code dependent on deprecated functionality. Also see the 'Reducing dependency risks' section in the {ref}`Security Principles <rr-security-principles>` section.
+Checking for dependency updates should be done regularly. It can save a lot of time, avoiding bugs due to code dependent on deprecated functionality. Also see the 'Reducing dependency risks' section in the [Security Principles section](#rr-security-principles).
 
 ## Consistency throughout the pipeline
 

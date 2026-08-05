@@ -44,11 +44,11 @@ Examples
 
 ## Application Areas
 
-0. Software security principles: {ref}`Security Principles <rr-security-principles>`
-1. Secure development: {ref}`Secure development <rr-secure-development>`
-2. Secure deployment: {ref}`Secure deployment <rr-secure-deployment>`
+0. [Software security principles](#rr-security-principles)
+1. [Secure development](#rr-secure-development)
+2. [Secure deployment](#rr-secure-deployment)
 ~~5. Privacy -> https://book.the-turing-way.org/project-design/data-security/sdpm/data-privacy-strategies/#pd-sdpm-privacy-minimisation~~
-1. {ref}`Web Server Setup<rr-webserver>`
+1. [Web server security](#rr-webserver)
 
 
 

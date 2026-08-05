@@ -25,7 +25,7 @@ developer that aims to steal others' credentials?
 - An application that is distributed to hundreds of users: How does
 the application protect from an attacker that uses the application to
 infiltrate users' systems?
-- An application that is exposed to the internet on a server: {ref}`Web Server Setup<rr-webserver>`.
+- An application that is exposed to the internet on a server: [Web Server Setup](#rr-webserver).
 
 Depending on what can go wrong, one needs to define **what to 
 do about it**. Incorporating this early in the design process
