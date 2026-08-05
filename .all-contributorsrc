@@ -5636,6 +5636,78 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "joyceykao",
+      "name": "Joyce",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52547142?v=4",
+      "profile": "https://www.jykao.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gitti1",
+      "name": "Birgit Schmidt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4895693?v=4",
+      "profile": "https://github.com/gitti1",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hyosubkim",
+      "name": "Hyosub Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32351455?v=4",
+      "profile": "https://ccmlab.org/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "adv0r",
+      "name": "Nicolò Paternoster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/776957?v=4",
+      "profile": "https://github.com/adv0r",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "deltaahead",
+      "name": "Gabriele Di Gesù",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60932561?v=4",
+      "profile": "https://github.com/deltaahead",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "evasafi",
+      "name": "Eva Safi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127869335?v=4",
+      "profile": "https://github.com/evasafi",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "EoinTrial",
+      "name": "Eoin Shaughnessy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45000144?v=4",
+      "profile": "https://github.com/EoinTrial",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "nine03",
+      "name": "Yeongjun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60682087?v=4",
+      "profile": "https://github.com/nine03",
+      "contributions": [
+        "content"
+      ]
     }
   ]
 }

@@ -91,7 +91,7 @@ If you are working on a personal branch and some other changes were made in the 
 git pull origin main
 ```
 
-When everyone has a copy of the project on their own branch (checkout your branch with `git checkout branch-name`), they can *push* their changes to their branch using the following command:
+When everyone has a copy of the project on their own branch (switch to your branch with `git switch branch-name`), they can *push* their changes to their branch using the following command:
 
 ```
 git push origin branch-name
@@ -147,7 +147,7 @@ You can now work on your copy using the command line, via the following steps (m
     git branch -va
     ```
 
-Make sure that you are on your main branch locally, if not, then checkout your main branch using the command `git checkout main`
+Make sure that you are on your main branch locally, if not, then switch to your main branch using the command `git switch main`
 
 6. Keep your fork updated by merging those commits (fetched from the upstream) to your own local main branch.
 
@@ -163,7 +163,7 @@ If there are no unique commits on the local main branch, git will simply perform
 Once your fork is in sync with the upstream main repository, you can always keep your local cloned repository in sync with origin (fork in this case) by using:
 
 ```
-git checkout main
+git switch main
 git pull
 ```
 
@@ -173,7 +173,7 @@ When using `git fetch`, the resulting commits are stored as the remote branch al
 Similarly, if you have created more branches other than main, you can also keep them in sync with your main, once it is in sync with the upstream repository.
 
 ```
-git checkout my-other-branch
+git switch my-other-branch
 git pull origin main
 ```
 
