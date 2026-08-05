@@ -24,7 +24,7 @@ developer that aims to steal others' credentials?
 - An application that is distributed to hundreds of users: How does
 the application protect from an attacker that uses the application to
 infiltrate users' systems?
-- An application that is exposed to the internet on a server: TBD.
+- An application that is exposed to the internet on a server: {ref}`Web Server Setup<rr-webserver>`.
 
 Depending on what can go wrong, one needs to define **what to 
 do about it**. Incorporating this early in the design process
@@ -100,6 +100,9 @@ repository. The policy gives instructions on how to report a security
 vulnerability, avoiding a public report [4], and thus reducing the risk 
 that the report is exploited by an attacker.
 
+In 2026, GitHub has added an experimental [feature for private vulnerability reports](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository).
+These are enabled per repository and allow a user to report a security-related issue to the repository maintainers.
+
 
 ### Managing dependencies
 
@@ -118,7 +121,7 @@ and pose a threat to the security of the developer's machine.
 Not only code and software, but also trained machine learning models
 are dependencies and can represent a threat. For instance, using the `pickle`
 module in Python to store and distribute machine learning model weights is vulnerable
-to arbitrary code execution. This is why the `safetensors` format was
+to arbitrary code execution. This is why the [`safetensors`](https://huggingface.co/docs/safetensors/index) format was
 introduced and should be used.
 
 #### Reducing dependency risks
@@ -133,7 +136,7 @@ introduced and should be used.
 fixes from your dependencies.
     - To reduce exposure to supply chain attacks, consider reducing 
     immediate upgrades to new versions: For instance, `uv` allows for 
-    specifying a time lag (1 week) for upgrading dependencies in deployed software. 
+    specifying a time lag (e.g. 1 week) for upgrading dependencies in deployed software ([dependency cooldowns](https://docs.astral.sh/uv/concepts/resolution/#dependency-cooldowns)). 
     This gives maintainers of dependencies time to react.
 - Run vulnerability scans for dependencies.
     - [GitHub Dependabot](https://docs.github.com/en/code-security/tutorials/secure-your-dependencies/dependabot-quickstart) for generic dependency checks
