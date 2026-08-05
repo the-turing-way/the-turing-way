@@ -22,7 +22,7 @@ Therefore, the rest of this section avoids the terms as much as possible, or dis
 
 Every computer on the internet is assigned a unique *IP address* through which it can be located by others. These IP addresses are shaped in a specific numeric format.
 
-In version 4 of the Internet Protocol (IPv4), IP addresses have a form like this: `172.16.254.1`. IPv4 has been used since 1983 and is the first IP address specification for the internet. In version 6 (IPv6), they look like this: `0123:4567:89ab:cdef:0123:4567:89ab:cdef`. IPv6 has been designed as successor for IPv4 to address the problem of IP address depletion caused by the limited number of total addresses available through IPv4.
+In version 4 of the Internet Protocol (IPv4), IP addresses have a form like this: `172.16.254.1`. IPv4 has been used since 1983 and is the first IP address specification for the internet. In version 6 (IPv6), they look like this: `0123:4567:89ab:cdef:0123:4567:89ab:cdef`. IPv6 has been designed as successor for IPv4 because IPv4 does not provide enough IP addresses.
 
 An IP address is considered unique and can only be used by a single computer on the internet at a given moment. Nevertheless, IP addresses can be re-assigned to another computer.
 
