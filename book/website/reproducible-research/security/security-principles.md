@@ -11,8 +11,9 @@ This activity is part of a design process called threat modeling.
 
 The threat model differs case by case. Here are some example use cases
 and security aspects:
+
 - An application with public data, few developers and users: What
-happens if one of the developers' laptops is stolen? How does the team
+happens if one of the developers' laptop is stolen? How does the team
 minimize the risks from this?
 - An application that handles sensitive data: How does the system
 protect data from the curious eyes of a stakeholder---an
@@ -43,7 +44,7 @@ matters for [managing dependencies](#managing-dependencies).
 ### Least privilege and separation of duties
 
 Least privilege means that users should only be given access to the 
-resources they need to do their job.
+resources they need for doing their job.
 Separation of duties means that tasks and responsibilities are distributed
 across different roles, so that no single person has access to everything.
 
@@ -106,8 +107,9 @@ These are enabled per repository and allow a user to report a security-related i
 
 ### Managing dependencies
 
-Tracking dependencies used is important also from a security point of view 
-because they can be an entry point for an attacker, for multiple reasons:
+Tracking dependencies is important also from a security point of view 
+because they can be an entry point for an attacker:
+
 - If a dependency has a vulnerability, all users are potentially
 exposed to it. 
 - In contrast to vulnerabilities, supply chain attacks are 
@@ -118,7 +120,7 @@ extracts secrets such as passwords whenever Python is called.
 - Developer tools such as editor extensions or plugins are also dependencies,
 and pose a threat to the security of the developer's machine.
 
-Not only code and software, but also trained machine learning models
+Not only code and software, but also machine learning models
 are dependencies and can represent a threat. For instance, using the `pickle`
 module in Python to store and distribute machine learning model weights is vulnerable
 to arbitrary code execution. This is why the [`safetensors`](https://huggingface.co/docs/safetensors/index) format was
@@ -126,11 +128,11 @@ introduced and should be used.
 
 #### Reducing dependency risks
 - Choose dependencies carefully.
-    - This is about trade-offs.
+    - This is about trade-offs:
     - On the one hand, don't reinvent the wheel -- existing frameworks and tools are likely
     more secure because they have been hardened "in the wild".
     - On the other hand, do not add dependencies that are obscure or 
-    for functionality that you can easily implement yourself.
+    provide trivial functionality.
 - Keep dependencies up to date. 
     - This ensures your users receive vulnerability
 fixes from your dependencies.
@@ -145,12 +147,6 @@ fixes from your dependencies.
       and [`uv audit`](https://docs.astral.sh/uv/reference/cli/#uv-audit)
 - Run security scans for files.
     - Example: [clamscan](https://docs.clamav.net/manual/Usage/Scanning.html)
-
-
-
-TODO
-- link to other page in the guide on tracking dependencies?
-
 
 ## Further Reading
 
