@@ -42,3 +42,17 @@ In many version control systems (or in a special document if you do manual versi
 Clear and concise comments make it easier to get an fast overview of the changes that were made in each versions.
 This ensures that it is easy to find what you are looking for when you need to go back to a past version.
 Your collaborators will thank you, but so will future versions of yourself.
+
+## Signing commits and tags
+
+In bigger development teams, signing commits helps ensure the integrity of the 
+contributions---by verifying the identities behind commits. In `git`,
+one can use GPG to verify that commits and tags come from a trusted source. 
+
+#### Further reading
+
+- Read more about GPG here: https://en.wikipedia.org/wiki/GNU_Privacy_Guard.
+- Read more about signing commits in the git documentation: https://git-scm.com/book/ms/v2/Git-Tools-Signing-Your-Work
+
+
+
