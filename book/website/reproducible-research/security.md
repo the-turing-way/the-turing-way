@@ -23,32 +23,34 @@ what they can do with it [2].
 
 Security can be characterized by three closely related goals:
 - *Confidentiality* protects data against unauthorized disclosure.
+
+Examples
+- personal data of survey participants must not be public
+- software must prevent access to database (-> authorization)
+
 - *Integrity* protects data against unauthorized modification or assures that 
 data are trustworthy.
+
+Examples
+- bank transfer: validate receiver is not manipulated
+
 - *Availability* protects services that provide access to data, such as through
 load balancing.
 
-The goals can be achieved through three action categories:
-- *Authentication* confirms the identity of an entity that wants to interact with a 
-secure system.
-- *Authorization* specifies access rights to secure resources.
-- *Auditing* tracks events in a system, answering the questions "Who did what, when
-and how?"
+Examples
+- prevent downtime through DDoS attacks
 
 
-## Outline
+## Application Areas
+
+0. Software development security principles: {ref}`Dependency Management <rr-security-dependencies>`, SQL injections
+2. Version control: signed commits, 2FA -> new sub-section in https://book.the-turing-way.org/reproducible-research/vcs/vcs-workflow/ ?
+3. Secure deployment, trusted publishing in CD, releases
+~~5. Privacy -> https://book.the-turing-way.org/project-design/data-security/sdpm/data-privacy-strategies/#pd-sdpm-privacy-minimisation~~
+1. {ref}`Web Server Setup<rr-webserver>`
 
 
-1. {ref}`Dependency Management <rr-security-dependencies>`
-2. {ref}`Web Server Setup<rr-webserver>`
-4. Server Security 
-5. Third-party platforms and services
-4. Integrity: Signing commits
-5. Authorization: Protect development and deployment environments. 
-    - Examples: Use 2FA on GitHub accounts; use trusted publishing in CD
-6. Confidentiality: Protect from injections by untrusted sources
-    - SQL injection attacks on databases
-    - Prompt injection attacks in LLMs
+# TODO: move/link to appropriate chapters
 
 ## Signing commits and tags
 
