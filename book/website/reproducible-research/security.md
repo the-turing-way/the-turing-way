@@ -199,13 +199,14 @@ The security principles can be applied to application areas such as:
 2. [Secure deployment](#rr-secure-deployment)
 1. [Web server security](#rr-webserver)
 
-~~5. Privacy -> https://book.the-turing-way.org/project-design/data-security/sdpm/data-privacy-strategies/#pd-sdpm-privacy-minimisation~~
 
 
-## Security aspects covered elsewhere in the _Turing Way_
+## Ethics & Data Privacy
 
-Beyond the topics mentioned so far, security is also mentioned 
-in other sections of the book, including:
+The present section touches on ethics and data privacy from a perspective of software
+design and development.
+However, these topics have many other aspects, and they are covered throughout
+the _Turing Way_.
 
 ### Institutional Compliance & Project Design
 Topics that cover the foundational steps taken before code is written, ensuring alignment 
@@ -213,17 +214,11 @@ with institutional policies and ethical standards.
 1. {ref}`Privacy and Security in Research Ethics Committees<er-committees>`
 2. {ref}`Data Security and Project Planning<pd-sdp>` 
 
-### Sensitive Data and use of Third-party platforms/Services
+### Data Privacy Strategies
+The chapter {ref}`Data Privacy Strategies<pd-sdpm-privacy>` discusses specific 
+strategies for keeping sensitive research data secure.
 
-Topics focusing on securing the inputs of your research, tracking data gathering responsibly, 
-and keeping sensitive files safe. 
 
-1. {ref}`Electronic Lab Notebooks (ELNs)<rr-rdm-elns>` section mentions security concerns around ELNs. 
-2. {ref}`Keeping Sensitive Files Secure<pd-sdpw-sensitive-files>`, for instance, by preventing .env, passwords or API tokens from being committed to public repositories
-
-It is essential to understand the security implications of the third-party platforms and services 
-used in your research software workflows. For instance, the University of Sheffield provides an 
-excellent example of this with their security guidelines for GitHub Organizations [(RSE Sheffield Infrastructure Guidelines)](https://rse.shef.ac.uk/blog/2026-01-30-github-organisations/). Check if your organization has similar guidelines. 
 
 
 ## Further Reading
