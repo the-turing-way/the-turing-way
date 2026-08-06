@@ -29,7 +29,7 @@ infiltrate users' systems?
 
 Depending on what can go wrong, one needs to define **what to 
 do about it**. Incorporating this early in the design process
-ensures that security is not an afterthought in the application.
+ensures that security is not an afterthought.
 When designing the security of an application, it is useful to
 follow security principles such as [2,3]:
 
