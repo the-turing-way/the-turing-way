@@ -5,10 +5,11 @@
 
 ## Trusted publishing and signing releases
 
-TBD.
+*_This is a Work In Progress. More information will be added soon._*
 
+<!--
 See perhaps as a source: https://devguide.owasp.org/en/05-implementation/
-
+-->
 
 ### Infrastructure, Deployment & Environment Security in the _Turing Way_
 
