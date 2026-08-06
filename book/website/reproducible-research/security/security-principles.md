@@ -36,7 +36,7 @@ follow security principles such as [2,3]:
 ### No security guarantee
 
 No application or system is guaranteed to be protected from all attacks.
-The goal of software security is to make it for an attacker as unattractive
+The goal of security is to make attacking a software as unattractive
 as possible, by making it hard and reducing the rewards.
 Since it applies to all software, the principle also 
 matters for [managing dependencies](#managing-dependencies).
