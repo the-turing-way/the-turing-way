@@ -85,7 +85,7 @@ The goal of security is to make an attack as unattractive
 as possible, by increasing the hurdles for a successful attack,
 and by minimizing the reward of an attack. 
 Since it applies to all software, the principle also 
-matters for [managing dependencies](#managing-dependencies).
+matters for [managing dependencies](#rr-security-managing-dependencies).
 
 #### Least privilege and separation of duties
 
@@ -151,6 +151,7 @@ In 2026, GitHub has added an experimental [feature for private vulnerability rep
 These are enabled per repository and allow a user to report a security-related issue to the repository maintainers.
 
 
+(rr-security-managing-dependencies)=
 #### Managing dependencies
 
 Tracking dependencies is important also from a security point of view 
