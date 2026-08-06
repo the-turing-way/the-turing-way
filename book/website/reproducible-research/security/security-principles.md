@@ -3,6 +3,8 @@
 
 # Software Security Principles
 
+Software security concerns both its design and its implementation.
+
 ## Secure design
 
 When designing an application from a security perspective,
@@ -16,8 +18,8 @@ and security aspects:
 happens if one of the developers' laptop is stolen? How does the team
 minimize the risks from this?
 - An application that handles sensitive data: How does the system
-protect data from the curious eyes of a stakeholder---an
-administrator, analyst, or developer? Do they all need access 
+protect data from illegitimate requests from an insider---an
+administrator, analyst or developer? Do they all need access 
 to the entire data system?
 - An application with many contributors where not everyone knows each other:
 How does the development process protect from an adversarial
@@ -31,13 +33,14 @@ Depending on what can go wrong, one needs to define **what to
 do about it**. Incorporating this early in the design process
 ensures that security is not an afterthought.
 When designing the security of an application, it is useful to
-follow security principles such as [2,3]:
+be aware of, and follow, security principles such as [2,3]:
 
 ### No security guarantee
 
 No application or system is guaranteed to be protected from all attacks.
-The goal of security is to make attacking a software as unattractive
-as possible, by making it hard and reducing the rewards.
+The goal of security is to make an attack as unattractive
+as possible, by increasing the hurdles for a successful attack,
+and by minimizing the reward of an attack. 
 Since it applies to all software, the principle also 
 matters for [managing dependencies](#managing-dependencies).
 
@@ -59,10 +62,10 @@ see the data they need to see.
 
 ### Defense-in-depth
 
-This means that a system is secured across different layers: if one layer
+This reduces the risk of a successful attack by securing a system across
+different layers: if one layer
 fails, other layers still stand and protect the asset. The layers of security
-can be network security, application security, and data security. Defense-in-depth
-reduces the risk of a successful attack.
+can be network security, application security, and data security.
 
 Example:
 - To protect a data system, application security can come from
@@ -92,7 +95,7 @@ managing the defects.
 
 Software development teams should have good documentation about
 security techniques, tools and threats. This increases
-awareness for everyone in the development process and helps following
+awareness for all contributors and helps following
 good practices.
 
 In cases where users interact in public with developers---such as
@@ -127,24 +130,27 @@ to arbitrary code execution. This is why the [`safetensors`](https://huggingface
 introduced and should be used.
 
 #### Reducing dependency risks
-- Choose dependencies carefully.
-    - This is about trade-offs:
-    - On the one hand, don't reinvent the wheel -- existing frameworks and tools are likely
+
+A few rules help reduce risks from dependencies:
+
+- Choose dependencies carefully -- this is about trade-offs:
+    - On the one hand, don't reinvent the wheel -- existing frameworks and tools, especially
+    those implementing core security features, are likely
     more secure because they have been hardened "in the wild".
     - On the other hand, do not add dependencies that are obscure or 
     provide trivial functionality.
 - Keep dependencies up to date. 
-    - This ensures your users receive vulnerability
-fixes from your dependencies.
+    - This ensures users receive vulnerability
+fixes from dependencies.
     - To reduce exposure to supply chain attacks, consider reducing 
     immediate upgrades to new versions: For instance, `uv` allows for 
     specifying a time lag (e.g. 1 week) for upgrading dependencies in deployed software ([dependency cooldowns](https://docs.astral.sh/uv/concepts/resolution/#dependency-cooldowns)). 
     This gives maintainers of dependencies time to react.
 - Run vulnerability scans for dependencies.
-    - [GitHub Dependabot](https://docs.github.com/en/code-security/tutorials/secure-your-dependencies/dependabot-quickstart) for generic dependency checks
-    - [OWASP dependency check for web applications](https://devguide.owasp.org/en/05-implementation/02-dependencies/01-dependency-check/)
+    - [GitHub Dependabot](https://docs.github.com/en/code-security/tutorials/secure-your-dependencies/dependabot-quickstart) for generic dependency checks.
+    - [OWASP dependency check for web applications](https://devguide.owasp.org/en/05-implementation/02-dependencies/01-dependency-check/).
     - Python dependency checks: [`pip-audit`](https://github.com/pypa/pip-audit) 
-      and [`uv audit`](https://docs.astral.sh/uv/reference/cli/#uv-audit)
+      and [`uv audit`](https://docs.astral.sh/uv/reference/cli/#uv-audit).
 - Run security scans for files.
     - Example: [clamscan](https://docs.clamav.net/manual/Usage/Scanning.html)
 
