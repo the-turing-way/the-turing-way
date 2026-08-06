@@ -68,7 +68,7 @@ Example:
 - To protect a data system, application security can come from
 requiring authentication to log in to the system. Data security can come 
 from role-based access and/or from encrypting/hashing sensitive columns
-such as person's name. 
+such as person names. 
 
 ### Zero trust
 
