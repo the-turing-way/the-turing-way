@@ -95,7 +95,7 @@ security techniques, tools and threats. This increases
 awareness for everyone in the development process and helps following
 good practices.
 
-In cases where users can interact in public with developers---such as
+In cases where users interact in public with developers---such as
 by opening issues on GitHub---, a security policy can be added to the 
 repository. The policy gives instructions on how to report a security
 vulnerability, avoiding a public report [4], and thus reducing the risk 
