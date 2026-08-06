@@ -52,7 +52,7 @@ Examples:
 - In a shared file system such as a HPC cluster, 
 implement access controls so that users can only read/modify/execute 
 files per their needs.
-- In the sensitive data system mentioned above, use role-based
+- Use role-based
 database access so that developers, users and administrators only 
 see the data they need to see.
 
