@@ -1,7 +1,7 @@
 
 (rr-secure-deployment)=
 
-# Secure software deployment
+# Secure Software Deployment
 
 ## Trusted publishing and signing releases
 
