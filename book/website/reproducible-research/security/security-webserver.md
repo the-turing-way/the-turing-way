@@ -60,7 +60,7 @@ graph LR
 #### Servers and Ports
 
 Each server application uses a specific *port* through which clients can communicate with it. Ports are numbered from 0 to 65535.
-The port numbers do not have inherent meaning, but many ports are widely used by specific applications. For instance, the ports 80 and 8080 are used for (unencrypted) web applications, or port 22 for SSH (Secure Shell); Wikipedia provides an (ever-changing) [overview](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports) of these *well-known ports*.
+The port numbers do not have inherent meaning, but many ports are widely used by specific applications. For instance, the ports 80 and 8080 are used for (unencrypted) web applications, or port 22 for SSH (Secure Shell); Wikipedia provides an [overview](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports) of these *well-known ports*.
 
 The port numbers from 0 to 1023 are called *system ports*. Operating systems typically require special privileges to assign an application to a system port.
 
