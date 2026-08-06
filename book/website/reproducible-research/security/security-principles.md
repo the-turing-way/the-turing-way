@@ -65,7 +65,7 @@ can be network security, application security, and data security. Defense-in-dep
 reduces the risk of a successful attack.
 
 Example:
-- To protect the sensitive data system, application security can come from
+- To protect a data system, application security can come from
 requiring authentication to log in to the system. Data security can come 
 from role-based access and/or from encrypting/hashing sensitive columns
 such as person's name. 
