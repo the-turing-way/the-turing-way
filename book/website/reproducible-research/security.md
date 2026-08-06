@@ -16,6 +16,13 @@ Written by research software developers rather than security specialists, this s
 Because every institutional infrastructure is unique, we strongly recommend consulting your local IT security team for tailored guidance that aligns with your organization's specific rules and policies.
 ```
 
+## Application Areas
+
+The security principles introduced on this page can be applied to application areas such as:
+
+1. [Secure development](#rr-secure-development)
+2. [Secure deployment](#rr-secure-deployment)
+1. [Web server security](#rr-webserver)
 
 ## Foundations
 
@@ -190,14 +197,6 @@ fixes from dependencies.
 - Run security scans for files.
     - Example: [clamscan](https://docs.clamav.net/manual/Usage/Scanning.html)
 
-
-## Application Areas
-
-The security principles can be applied to application areas such as:
-
-1. [Secure development](#rr-secure-development)
-2. [Secure deployment](#rr-secure-deployment)
-1. [Web server security](#rr-webserver)
 
 
 
