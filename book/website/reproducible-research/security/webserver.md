@@ -60,11 +60,11 @@ graph LR
 #### Servers and Ports
 
 Each server application uses a specific *port* through which clients can communicate with it. Ports are numbered from 0 to 65535.
-The port number do not have inherent meaning, but many ports are widely used by specific applications. For instance, the ports 80 and 8080 are used for (unencrypted) web applications, or port 22 for SSH (Secure Shell); Wikipedia provides an (ever-changing) [overview](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports) of these *well-known ports*.
+The port numbers do not have inherent meaning, but many ports are widely used by specific applications. For instance, the ports 80 and 8080 are used for (unencrypted) web applications, or port 22 for SSH (Secure Shell); Wikipedia provides an (ever-changing) [overview](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports) of these *well-known ports*.
 
 The port numbers from 0 to 1023 are called *system ports*. Operating systems typically require special privileges to assign an application to a system port.
 
-When a server application is configured to use a specific ports, it is said to 'listen' to that port. This is also used by firewalls to 'close' or 'open' specific ports to block or allow incoming specific requests to a server.
+When a server application is configured to use a specific port, it is said to 'listen' to that port. This is also used by firewalls to 'close' or 'open' specific ports to block or allow incoming specific requests to a server.
 
 Similarly, a server application can allow or block clients originating from specific IP addresses or address ranges only. The configuration details are server-specific, but typical configurations include:
 
@@ -102,7 +102,7 @@ Outside the testing and development scenario, a web server's purpose is to allow
 
 <!-- The definition of IP ranges depends on the specific application, but often uses the [CIDR annotation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing) that uses annotations like `198.51.100.0/22` (IP addresses from 198.51.100.0 to 198.51.103.255). The number following the `/` defines the *network mask*, hence the number of IP addresses in the range in a bitmask notation. -->
 
-A (web) server that is accessible through the internet, it will be accessed for a variety of reasons. Apart from legitimate users connecting to the web application, many of them are malicious. There are bots that continuously try to gain access to unprotected servers by randomly trying host and port combinations. Once they have been able to establish a network connection, they often try to apply security holes. These can be simple, like trying `GET` with various URLs to retrieve data from the server, `POST` with manipulated data, or `PUT` with malicious files.
+A (web) server that is accessible through the internet will be accessed for a variety of reasons. Apart from legitimate users connecting to the web application, many of them are malicious. There are bots that continuously try to gain access to unprotected servers by randomly trying host and port combinations. Once they have been able to establish a network connection, they often try to apply security holes. These can be simple, like trying `GET` with various URLs to retrieve data from the server, `POST` with manipulated data, or `PUT` with malicious files.
 
 Therefore, an application server should *never* be exposed to the internet. Given the number and sophisticated nature of attacks, it is considered virtually impossible to develop a web application in a way that is secure enough.
 
@@ -160,10 +160,10 @@ In the simplest use case, a reverse proxy runs on the same machine as the web ap
 caddy reverse-proxy --from :2080 --to :8080
 ```
 
-This command uses non-system ports (larger than 1024) because it would require system privileges to forward well-known HTTP ports like 80 and 443. The recommend way for handling this is running it as a [system service](https://caddyserver.com/docs/running#linux-service).
+This command uses non-system ports (larger than 1024) because it would require system privileges to forward to well-known HTTP ports like 80 and 443. The recommend way for handling this is running it as a [system service](https://caddyserver.com/docs/running#linux-service).
 
 For a slightly more complex example, imagine a web app with an HTML file as entry point: `/my-app-1.html`. As part of the app's functionality, it also serves the file `/my-app-2.html`.
-Furthermore, the application stores images shown on the web page in the `/assets` directory, provides custom fonts in `/fonts`, and stylesheets in `/css`. User can upload files to the `/uploads` directory using `PUT` requests through the WebDAV HTTP extension.
+Furthermore, the application stores images shown on the web page in the `/assets` directory, provides custom fonts in `/fonts`, and stylesheets in `/css`. Users can upload files to the `/uploads` directory using `PUT` requests through the WebDAV HTTP extension.
 
 A simple configuration for the ruleset described above looks like this:
 
