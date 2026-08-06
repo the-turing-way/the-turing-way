@@ -26,7 +26,7 @@ and configuration formats are strictly evaluated.
 
 1. Code Quality chapter specifically mentions {ref}`Static Code Analysis <rr-code-quality>`
 2. Example of code execution vulnerabilities is given by {ref}`YAML Security Issues <rr-renv-yaml-security>`
-3. Checklist for the Code Review Process mentions {ref}`Security of New Code<rr-checklist-for-code-review-security-new-code>`
+3. Checklist for the Code Review Process mentions {ref}`Security of New Code<rr-checklist-for-code-review:security-new-code>`
 4. Signed commits ensure integrity of the data in a version control system. See {ref}`Version Control workflow<rr-vcs-workflow>`
 
 
