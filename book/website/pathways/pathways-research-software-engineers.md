@@ -37,6 +37,7 @@ label: pathway-research-software-engineers
         - item: ../reproducible-research/open/open-source.md
     - item: ../reproducible-research/vcs.md
     - item: ../reproducible-research/licensing.md
+    - item: ../reproducible-research/security.md
     - item: ../reproducible-research/code-quality.md
     - item: ../reproducible-research/testing.md
     - item: ../reproducible-research/reviewing.md
