@@ -38,6 +38,10 @@ label: pathway-research-software-engineers
     - item: ../reproducible-research/vcs.md
     - item: ../reproducible-research/licensing.md
     - item: ../reproducible-research/security.md
+      children:
+        - item: ../reproducible-research/security/security-development.md
+        - item: ../reproducible-research/security/security-deployment.md
+        - item: ../reproducible-research/security/security-webserver.md
     - item: ../reproducible-research/code-quality.md
     - item: ../reproducible-research/testing.md
     - item: ../reproducible-research/reviewing.md

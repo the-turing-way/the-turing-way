@@ -36,6 +36,8 @@ label: pathway-data-science-without-borders
         - item: ../reproducible-research/rdm/rdm-checklist.md
     - item: ../reproducible-research/code-documentation.md
     - item: ../reproducible-research/security.md
+      children:
+        - item: ../reproducible-research/security/security-development.md
     - item: ../reproducible-research/testing.md
       children:
         - item: ../reproducible-research/testing/testing-overview.md
