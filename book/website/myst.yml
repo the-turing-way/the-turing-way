@@ -266,6 +266,10 @@ project:
         - file: reproducible-research/security.md
           title: Secure Software Development
           children:
+            - file: reproducible-research/security/secure-development.md
+              title: Secure Development
+            - file: reproducible-research/security/secure-deployment.md
+              title: Secure Deployment
             - file: reproducible-research/security/webserver.md
               title: Web Server Security
         - file: reproducible-research/testing.md
