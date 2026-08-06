@@ -66,16 +66,14 @@ The port numbers from 0 to 1023 are called *system ports*. Operating systems typ
 
 When a server application is configured to use a specific port, it is said to 'listen' to that port. This is also used by firewalls to 'close' or 'open' specific ports to block or allow incoming specific requests to a server.
 
-Similarly, a server application can allow or block clients originating from specific IP addresses or address ranges only. The configuration details are server-specific, but typical configurations include:
-
-- only accept requests from the same computer (`localhost`)
+Similarly, a server application can allow or block clients originating from specific IP addresses or address ranges only. By default, most frameworks are preconfigured to listen to connections from the same computer only (`localhost`). This is usually sufficient during development, whereas permissions can be extended when needed.
 
 #### Connecting to a Server
 
 The communication between a client application and a server takes thus place on different levels, often represented as a *Uniform Resource Identifier* (URI). It comprises the following components:
 
-- *scheme*: for instance `ftp` or `https`
-- *userinfo*: typically a username for logging in, if provided
+- *scheme*: for instance `ftp`, `https`, `tel`, `file`, ...; can indicate the protocol to use (HTTP), an application to use (a phone app), or merely the location (a local file).
+- *userinfo*: a username for logging in, if provided
 - *host*: the name or IP address of the server
 - *port*: the port on which the server application listens
 
@@ -94,7 +92,11 @@ The [OSI layer architecture](https://en.wikipedia.org/wiki/OSI_model#Layer_archi
 
 ### Running a (Web) Server
 
-Running a web application on any computer (for instance by running `npm run server` for a Node.js application) means that it starts *listening* to a specific port (for instance *8080*). Most servers allow an IP-based restriction too.
+The server hosting a web application is called an *application server*. These are often implemented using frameworks like [Node.js](https://nodejs.org/) (JavaScript), [Django](https://www.djangoproject.com/), [FastAPI](https://fastapi.tiangolo.com/) (both Python), [Spring](https://spring.io/) (Java) etc.
+
+These frameworks differ widely regarding the defaults and options they provide. Most of them are not designed with security in mind, but assume to be running in an environment that prevents unrestricted external access, for instance behind a *reverse proxy* (see below).
+
+Running a web application on any computer (for instance with the command `npm run server` for a Node.js application) means that it starts *listening* to a specific port (for instance *8080*). Most servers allow an IP-based restriction too.
 
 A server for testing a web application locally if often configured to listen to *127.0.0.1:8080* by default. This allows it to run without requiring system privileges because the port number is larger than 1023, and it only accepts connections from the same machine (127.0.0.1).
 
@@ -102,31 +104,32 @@ Outside the testing and development scenario, a web server's purpose is to allow
 
 <!-- The definition of IP ranges depends on the specific application, but often uses the [CIDR annotation](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing) that uses annotations like `198.51.100.0/22` (IP addresses from 198.51.100.0 to 198.51.103.255). The number following the `/` defines the *network mask*, hence the number of IP addresses in the range in a bitmask notation. -->
 
-A (web) server that is accessible through the internet will be accessed for a variety of reasons. Apart from legitimate users connecting to the web application, many of them are malicious. There are bots that continuously try to gain access to unprotected servers by randomly trying host and port combinations. Once they have been able to establish a network connection, they often try to apply security holes. These can be simple, like trying `GET` with various URLs to retrieve data from the server, `POST` with manipulated data, or `PUT` with malicious files.
+### Securing a Web Server
 
-Therefore, an application server should *never* be exposed to the internet. Given the number and sophisticated nature of attacks, it is considered virtually impossible to develop a web application in a way that is secure enough.
+A (web) server that is accessible through the internet will be accessed for a variety of reasons. Apart from legitimate users connecting to the web application, many of them are malicious. There are bots that continuously try to gain access to unprotected servers by randomly trying host and port combinations. Once they have been able to establish a network connection, they often try to exploit common security holes. These can be simple, like requesting `GET` with various URLs to retrieve data from the server, `POST` with manipulated data, or `PUT` with malicious files.
 
-#### Securing a Web Server
+Therefore, an application server should *never* be exposed directly to the internet. Given the number and sophisticated nature of attacks, it is considered virtually impossible to develop a web application in a way that is secure enough.
 
-The server hosting a web application is called an *application server*. These are often implemented using frameworks like [Node.js](https://nodejs.org/) (JavaScript), [Django](https://www.djangoproject.com/), [FastAPI](https://fastapi.tiangolo.com/) (both Python), [Spring](https://spring.io/) (Java) etc.
+#### Application Security
 
-These frameworks differ widely regarding the defaults and options they provide. Many, however, are not designed with security in mind, but assume to be running in an environment that prevents uncontrolled external access, for instance behind a firewall.
-
-Following the *principle of separation duties*, an application server should focus on implementing its functionality, but not be expected to implement security principles sufficient for exposure to the internet. Nevertheless, basic security principles as described in (TODO: link to Fundamentals section) should be followed by default. For instance,
+An application server should focus on implementing its functionality, but not be expected to implement security principles sufficient for exposure to the internet. Nevertheless, following the *defence-in-depth* principle (see {ref}`rr-security`), a few simple mechanisms help to secure it even when illegitimate requests pass the first line of defence:
 
 - only provide functionality that is necessary for the specific application,
 - run with low privileges,
 - validate all user input,
 - do not run in a context that contains files that are not part of the web application
 
+An application developer should not be expected to implement those and others to a degree that makes an application server secure enough, but should not enable requests that are unnecessary.
+
 #### Reverse Proxy
 
-Following the *defence-in-depth* security principle, however, a web application should run on a server that is not reachable for external networks requests by default, only being exposed to explicitly legitimate request types. On the network level, only connections to the port used by the server application should be allowed. Depending on the application, access can also be restricted to specific IP address ranges, for instance a geographical region or a subnet that belongs to the same organisation.
+Rather than aiming for a perfectly secure web application, a dedicated server is used to filter internet requests.
+A *reverse proxy* is situated between the application server and the internet, and forwards requests to the correct server -- if they are legitimate.
 
-On the application protocol level, requests should be restricted to the methods that are required by the web application, for instance only the `GET` and `PUT` HTTP methods. Furthermore, a filter on specific resource paths can be added to define which files can be retrieved or uploaded.
+A reverse proxy should only allow connections to ports used by an application server. Depending on the application, external access can also be restricted to specific IP address ranges, for instance a geographical region or a subnet that belongs to the same organisation.
 
-For such restrictions, a dedicated *reverse proxy* is recommended. This is a specific type of web server that does not implement application logic. It only handles network requests from the internet, for instance:
-"forward all request to my public server at `https://myapp.example.com:443` to my internal server at `http://192.168.10.1:8080`".
+Other restrictions are more specific to the application. It should only allow methods that are required by the web application, for instance only accepting the `GET` and `PUT` HTTP methods. Furthermore, a filter on specific resource paths can be added to define which files can be retrieved or uploaded.
+For instance: "forward all `GET` request to my public server at `https://myapp.example.com:443` to my internal server at `http://192.168.10.1:8080`".
 
 ```mermaid
 graph LR
@@ -150,7 +153,9 @@ graph LR
     class AppServer app;
 ```
 
-[nginx](https://nginx.org/) is probably the software most frequently used as reverse proxy on the internet. It provides all the functionality necessary to run a highly performant web server on the internet. The [Apache web server](https://httpd.apache.org/) is a similarly comprehensive web server also useable as reverse proxy. This example, however, uses a [Caddyserver](https://caddyserver.com/) because its reduced functionality allows for a more beginners-friendly configuration.
+Apart from security features, reverse proxies use cases include load balancing -- distributing incoming requests among multiple server instances --, caching, handling encryption certificates, manipulating requests and many more.
+The most common software solutions like [nginx](https://nginx.org/) and [Apache web server](https://httpd.apache.org/) are therefore quite complex.
+This example, however, uses a [Caddyserver](https://caddyserver.com/) because its configuration illustrates the concepts in a beginners-friendly way.
 
 ##### Example: Set up Caddyserver
 
@@ -207,8 +212,6 @@ After storing the adapted configuration file as `Caddyfile`, run it with
 caddy run --config Caddyfile
 ```
 
-Note that a reverse proxy provides much more functionality than only forwarding and blocking requests. It can be used for load balancing -- distributing incoming requests among multiple server instances --, caching, or handling encryption certificates.
-
 ## Conclusions
 
 Deploying a web server securely comprises many steps that need to be adapted to the specific context. Understanding basic networking principles, however, enables developers to avoid exposure to the lion's share of common attacks. A reverse proxy provides fundamental security mechanisms that a web application should not (re-)implement. The *separation of duties* principle comes to play: the web application server provides functionality, while a dedicated reverse proxy handles requests.
@@ -217,4 +220,4 @@ Deploying a web server securely comprises many steps that need to be adapted to 
 - *Defense-in-depth principle*: Use a specialised reverse proxy instead of implementing security features in the application
 - *Principle of zero trust*: block all requests by default, only forward explicitly legitimate requests
 - Monitor the log files of the web application server and the reverse proxy
-- Perfect security is not achievable, but significantly deploying a web application in a setup that handles the majority of security threats is possible and necessary.
+- Perfect security is not achievable, but deploying a web application in a setup that handles the majority of security threats is possible and necessary.
