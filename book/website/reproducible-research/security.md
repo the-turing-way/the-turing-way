@@ -91,7 +91,7 @@ do about it**. Incorporating this early in the design process
 ensures that security is not an afterthought.
 
 For the secure design of software, it is useful to be aware of, and follow,
-security principles such as [4, 5]:
+security principles such as:
 
 #### No security guarantee
 
@@ -140,7 +140,6 @@ Example:
 - When collecting survey data through a questionnaire, there is a risk that
 an attacker enters malicious answers that allow them to extract data from the 
 survey database. This can be avoided by sanitization techniques.
-
 
 ### Secure implementation
 
@@ -214,20 +213,18 @@ fixes from dependencies.
 - Run security scans for files.
     - Example: [clamscan](https://docs.clamav.net/manual/Usage/Scanning.html)
 
-
-
-
 ## Ethics & Data Privacy
 
 The present section touches on ethics and data privacy from a perspective of software
 design and development.
-For more information on ethics and data privacy, check out these sections
-- [](##er-intro)
-- [](##er-social-data)
-- [](##er-committees)
-- [](##er-law-policy)
-- [](##er-datahazardsintro)
-- [](##er-ethics-open-source-governance)
+For more information on ethics and data privacy, check out these sections:
+- {ref}`Introduction to Research Ethics<er-intro>`
+- {ref}`Research Ethics for Social Data<er-social-data>`
+- {ref}`Research Ethics Committees Processes<er-committees>`
+- {ref}`Law, Policy and Human Rights in Ethics<er-law-policy>`
+- {ref}`Introduction to Data Hazards Project<er-datahazardsintro>`
+- {ref}`Ethical Considerations when Choosing an Open Source Governance Model<er-ethics-open-source-governance>`
+
 
 ### Institutional Compliance & Project Design
 Topics that cover the foundational steps taken before code is written, ensuring alignment 
