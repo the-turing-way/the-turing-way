@@ -16,6 +16,7 @@ Written by research software developers rather than security specialists, this s
 Because every institutional infrastructure is unique, we strongly recommend consulting your local IT security team for tailored guidance that aligns with your organization's specific rules and policies.
 ```
 
+
 ## Application Areas
 
 The security principles introduced on this page can be applied to:
@@ -38,6 +39,13 @@ data are trustworthy.
 - *Availability* protects services that provide access to data.
     - For instance, [denial-of-service-attacks](https://en.wikipedia.org/wiki/Denial-of-service_attack) 
     reduce a server's uptime and thus its availability to users.
+
+Modern computing systems, particularly cloud services, are highly complex and
+rely on many interacting hardware and software components maintained by different 
+organizations. As a result, individual users usually have only limited control 
+over the overall security of these systems. Rather than attempting to make existing
+systems more secure, users should focus on avoiding introducing vulnerabilities
+or creating new attack paths.
 
 (rr-security-principles)=
 
