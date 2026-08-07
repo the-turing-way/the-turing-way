@@ -11,9 +11,10 @@ The audience of these instructions are research software engineers without parti
 This guide will allow them to conceptually understand different types of risks and to enable best practices to avoid the most common caveats.
 
 ```{warning}
-Written by research software developers rather than security specialists, this section is designed to raise awareness of cybersecurity risks in research workflows.
+Written by research software developers rather than security specialists, 
+this section is designed to raise awareness of cybersecurity risks in research workflows.
 
-Because every institutional infrastructure is unique, we strongly recommend consulting your local IT security team for tailored guidance that aligns with your organization's specific rules and policies.
+Consult with your institution for aligning with their policies.
 ```
 
 
