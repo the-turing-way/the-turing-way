@@ -7,12 +7,17 @@
 
 The principles of security can also be applied to the development and 
 collaboration workflow:
-- **Defense in depth**: Securing ssh keys adds a layer of security: If a developer's
-laptop is stolen, the attacker may gain access to development environments 
-in the cloud or on an HPC system. Securing ssh keys reduce the chances of this happening.
-- **Least privilege**: Give different privileges to different developers on platforms such as
-GitHub. For instance, only core maintainers can make releases, or letting
-certain developers only modify parts of the code base.
+- **Defense in depth**:
+    - Securing ssh keys adds a layer of security: If a developer's
+    laptop is stolen, the attacker may gain access to development environments 
+    in the cloud or on an HPC system. Securing ssh keys reduce the chances of this happening.
+    - When working in a bigger team on data in a shared file system, use 
+    access control policies so that users can only read/modify/execute 
+    files as they need. 
+- **Least privilege**: 
+    - Give different privileges to different developers on platforms such as
+    GitHub. For instance, only core maintainers can make releases, or letting
+    certain developers only modify parts of the code base.
 
 
 ## Security in research and software development in the _Turing Way_

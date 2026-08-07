@@ -109,13 +109,15 @@ Separation of duties means that tasks and responsibilities are distributed
 across different roles, so that no single person has access to everything.
 
 Examples:
-- In a shared file system such as an HPC cluster, 
-implement access controls so that users can only read/modify/execute 
-files per their needs.
-- Use role-based
-database access so that developers, users and administrators only 
-see the data they need to see.
-
+- A team develops code that uses an API to collect information. 
+Each team member uses their own API key that they store locally.
+They make sure that they do not accidentally include their key in the shared codebase.
+- In the spirit of Open Science, a team shares their code publicly via GitHub
+repositories. Sensitive participant data is, however, only shared via 
+institutionally approved services.
+- In a system that collects sensitive personal data from a survey, use role-based 
+database access so that developers, users and administrators only see
+the data they need to see.
 
 #### Defense-in-depth
 
