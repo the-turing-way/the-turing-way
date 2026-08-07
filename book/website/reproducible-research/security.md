@@ -78,6 +78,12 @@ developer that aims to steal others' credentials?
 - Software that is distributed to hundreds of users: How does it protect from
 an attacker that uses the software to infiltrate users' systems?
 - An application that is exposed to the internet on a server: [Web Server Setup](#rr-webserver).
+- Third-party software that is used during development
+(interpreters, dependencies, IDE's and plugins, etc.): Are they obtained from
+trusted sources? What level of access rights do they have on the user's system
+and data? What happens if a tool is compromised? For further discussion
+on dependencies, also see the [specific section](#rr-security-managing-dependencies).
+
 
 Depending on what can go wrong, one needs to define **what to 
 do about it**. Incorporating this early in the design process
