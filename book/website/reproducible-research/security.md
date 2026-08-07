@@ -58,7 +58,7 @@ building/distributing it securely.
 ### Secure design
 
 
-When designing an application from a security perspective,
+When designing software from a security perspective,
 the first question is to ask **what can go wrong**.
 This activity is part of a design process called threat modeling. 
 
@@ -75,16 +75,16 @@ to the entire data system?
 - Software with many contributors where not everyone knows each other:
 How does the development process protect from an adversarial
 developer that aims to steal others' credentials?
-- Software that is distributed to hundreds of users: How does
-the application protect from an attacker that uses the application to
-infiltrate users' systems?
+- Software that is distributed to hundreds of users: How does it protect from
+an attacker that uses the software to infiltrate users' systems?
 - An application that is exposed to the internet on a server: [Web Server Setup](#rr-webserver).
 
 Depending on what can go wrong, one needs to define **what to 
 do about it**. Incorporating this early in the design process
 ensures that security is not an afterthought.
-When designing the security of an application, it is useful to
-be aware of, and follow, security principles such as [4, 5]:
+
+For the secure design of software, it is useful to be aware of, and follow,
+security principles such as [4, 5]:
 
 #### No security guarantee
 
