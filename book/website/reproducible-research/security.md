@@ -186,6 +186,14 @@ A few rules help reduce risks from dependencies:
 - Be conscious about _dependencies_ and _developer tools_ you choose to use -- it is about trade-offs:
     - On the one hand, don't reinvent the wheel -- there are myriads of great open source tools that are there for you to use. That means you do not need to build that functionality on your own!
     - Be careful with dependencies that only add trivial or obscure functionality.
+- Obtain _dependencies_ and _developer tools_ from trusted sources
+    - Choose providers that have an effective security policy in place for their content. 
+    For example, GitHub only performs minimal checks on repositories. 
+    Instead, for R, CRAN [8] has a thorough review process and strict guidelines.
+    For Python, while PyPI does not review software by default, it has a mechanism
+    for reporting and removing malware [7].
+    - Download software such as VSCode, RStudio, conda-forge and git directly from the developers' websites.
+    - Prefer software and packages that have been available for some time. This increases the likelihood that the community has not found any structural vulnerabilities or exposed the developer as being malicious.
 - Prefer widely used existing frameworks and tools, especially those implementing core security features. They are likely more secure because they have been hardened "in the wild".
 - Prefer software and packages that are still under active development and that don't rely on outdated dependencies.
 - Be mindful of the number of dependencies that are used in your project, including the ones used by the dependencies on their own.
@@ -242,5 +250,5 @@ strategies for keeping sensitive research data secure.
 4. OWASP Foundation. "Principles of security". https://devguide.owasp.org/en/02-foundations/03-security-principles/
 5. OWASP Foundation. "Secure Product Design Cheat Sheet". https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet
 6. GitHub. Adding a security policy to your repository. https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/add-security-policy
-7. PyPI has completed its second audit. https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/
+7. PyPI security. https://pypi.org/security/
 8. CRAN. CRAN Repository Policy. https://cran.r-project.org/web/packages/policies.html
