@@ -121,28 +121,24 @@ the data they need to see.
 
 #### Defense-in-depth
 
-This reduces the risk of a successful attack by securing a system across
-different layers: if one layer
-fails, other layers still stand and protect the asset. The layers of security
-can be network security, application security, and data security.
+Securing a system across different layers reduces the risk of a successful attack:
+if one layer fails, other layers still stand and protect the asset. 
 
 Example:
-- To protect a data system, application security can come from
-requiring authentication to log in to the system. Data security can come 
-from role-based access and/or from encrypting/hashing sensitive columns
-such as person names. 
+- To protect a data system, requiring users to log in gives one layer of protection.
+Another layer comes from restricting which data a user can see, for instance
+by restricting access to information on the person name.
+
 
 #### Zero trust
 
 This principle assumes that all users, devices, and networks are untrusted
-and must be verified before access is granted. This includes data provided 
-by users.
+and must be verified before they are processed further.
 
 Example:
-- When exposing a database to user queries, the user inputs need to be validated
-and queries parameterized. This prevents from [injection attacks](https://en.wikipedia.org/wiki/Code_injection)
-where the user can exfiltrate data they are not supposed to see, or change data they are not 
-supposed to change.
+- When collecting survey data through a questionnaire, there is a risk that
+an attacker enters malicious answers that allow them to extract data from the 
+survey database. This can be avoided by sanitization techniques.
 
 
 ### Secure implementation
