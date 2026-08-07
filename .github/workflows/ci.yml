@@ -61,7 +61,7 @@ jobs:
       - name: Setup Python
         # ignore pull requests from the all-contributors bot
         if: ${{ !contains(github.head_ref, 'all-contributors') }}
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
           # NOTE: This version should match the version we are setting in netlify.toml
           python-version: "3.14"
