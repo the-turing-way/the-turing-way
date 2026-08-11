@@ -5,6 +5,17 @@
 
 ```{bibliography}
 
+@article{gundersen2018state,
+  title = {State of the Art: Reproducibility in Artificial Intelligence},
+  author = {Gundersen, Odd Erik and Kjensmo, Steinar},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume = {32},
+  number = {1},
+  year = {2018},
+  doi = {10.1609/aaai.v32i1.11503},
+  url = {https://doi.org/10.1609/aaai.v32i1.11503}
+}
+
 @article{gundersen2022sources,
   title = {Sources of Irreproducibility in Machine Learning: A Review},
   author = {Gundersen, Odd Erik and Coakley, Kevin and Kirkpatrick, C. R. and Gil, Yolanda},
@@ -23,6 +34,22 @@
   url = {https://doi.org/10.48550/arXiv.2412.17859}
 }
 
+@article{liesenfeld2023opening,
+  title = {Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-Tuned Text Generators},
+  author = {Liesenfeld, Andreas and Lopez, Alianda and Dingemanse, Mark},
+  journal = {Proceedings of the 5th International Conference on Conversational User Interfaces},
+  year = {2023},
+  doi = {10.1145/3571884.3604316},
+  url = {https://doi.org/10.1145/3571884.3604316}
+}
+
+@misc{liesenfeldopening,
+  title = {Opening up ChatGPT},
+  author = {Liesenfeld, Andreas and Lopez, Alianda and Dingemanse, Mark},
+  year = {2023},
+  url = {https://opening-up-chatgpt.github.io/}
+}
+
 @techreport{oecd2024ai,
   author = {{OECD}},
   title = {Explanatory Memorandum on the Updated OECD Definition of an AI System},
@@ -31,6 +58,20 @@
   year = {2024},
   month = mar,
   url = {https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf}
+}
+
+@misc{openweightsdefinition,
+  author = {{Open Weights}},
+  title = {Open Weights Definition},
+  year = {n.d.},
+  url = {https://github.com/Open-Weights/Definition/blob/main/Definition.md}
+}
+
+@misc{osi2024opensourceai,
+  author = {{Open Source Initiative}},
+  title = {The Open Source AI Definition 1.0},
+  year = {2024},
+  url = {https://opensource.org/ai/open-source-ai-definition}
 }
 
 @article{pineau2020reproducibility,
@@ -42,4 +83,10 @@
   url = {https://doi.org/10.48550/arXiv.2003.12206}
 }
 
+@misc{turingway,
+  author = {{The Turing Way Community}},
+  title = {The Turing Way: A Handbook for Reproducible, Ethical and Collaborative Research},
+  year = {n.d.},
+  url = {https://book.the-turing-way.org/}
+}
 ```
