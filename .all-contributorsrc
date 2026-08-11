@@ -5708,6 +5708,18 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "f-hafner",
+      "name": "f-hafner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55716026?v=4",
+      "profile": "https://github.com/f-hafner",
+      "contributions": [
+        "security",
+        "ideas",
+        "research",
+        "content"
+      ]
     }
   ]
 }
