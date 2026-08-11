@@ -5,7 +5,7 @@
 
 ## Trusted publishing and signing releases
 
-*_This is a Work In Progress. More information will be added soon._*
+*_This section is unfinished._*
 
 <!--
 See perhaps as a source: https://devguide.owasp.org/en/05-implementation/
