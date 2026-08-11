@@ -60,13 +60,6 @@
   url = {https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/03/explanatory-memorandum-on-the-updated-oecd-definition-of-an-ai-system_3c815e51/623da898-en.pdf}
 }
 
-@misc{openweightsdefinition,
-  author = {{Open Weights}},
-  title = {Open Weights Definition},
-  year = {n.d.},
-  url = {https://github.com/Open-Weights/Definition/blob/main/Definition.md}
-}
-
 @misc{osi2024opensourceai,
   author = {{Open Source Initiative}},
   title = {The Open Source AI Definition 1.0},
@@ -83,10 +76,4 @@
   url = {https://doi.org/10.48550/arXiv.2003.12206}
 }
 
-@misc{turingway,
-  author = {{The Turing Way Community}},
-  title = {The Turing Way: A Handbook for Reproducible, Ethical and Collaborative Research},
-  year = {n.d.},
-  url = {https://book.the-turing-way.org/}
-}
 ```
