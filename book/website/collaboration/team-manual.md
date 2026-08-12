@@ -198,7 +198,7 @@ This summary is based on an [X (formerly Twitter) Thread by \@samuelmehr](https:
 * [Welcome to the lab](https://doi.org/10.7554/elife.79627) @Andreev2022welcome
 * [Guidelines Toward Inclusive Practices in Academics by eLife Community Ambassadors](https://osf.io/muk7v/wiki/home/)
 * [Ten simple rules towards healthier research labs](https://doi.org/10.1371/journal.pcbi.1006914) @Maestre2019ten
-* [Safety and belonging in the field: a checklist for educators](https://doi.org/10.31223/x53p6h) {@Greene2021safety
+* [Safety and belonging in the field: a checklist for educators](https://doi.org/10.31223/x53p6h) @Greene2021safety
 * [Ten simple rules for building an antiracist lab](https://doi.org/10.1371/journal.pcbi.1008210) @Chaudhary2020ten
 * [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928) @Pike2022simple
 * [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688) @RuedasGracia2022ten
