@@ -111,7 +111,7 @@ Each of these steps can affect the final result.
 
 Two researchers may use the same model architecture and dataset but obtain different results because they use different software versions, hardware, hyperparameters, random seeds, preprocessing methods, or training configurations.
 
-Similarly, even when model weights are available, reproducing the process that generated those weights may require information about the training data, training code, computational environment, and training procedure.
+In the same way, even when model weights are available, reproducing the process that generated those weights may require information about the training data, training code, computational environment, and training procedure.
 
 This is why an AI system should not necessarily be considered only in terms of its final model or its weights. For reproducibility, it may be necessary to document the broader process through which the model was developed, trained, and evaluated.
 
