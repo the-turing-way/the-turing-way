@@ -86,4 +86,4 @@ We ask contributors to (re)read our note on [low-effort contributions](https://b
   - **tldraw** — [Contributions policy discussion](https://github.com/tldraw/tldraw/issues/7695) ([CONTRIBUTING.md](https://github.com/tldraw/tldraw/blob/main/CONTRIBUTING.md))
   - **MyST-Parser** — no standalone policy yet; see the related [Jupyter AI-assisted code policy discussion](https://github.com/jupyter/governance/issues/326)
 - Supporting document for authors: [SSI post](https://docs.google.com/document/d/1gInmbK-o00MRhihPzZBE0Hl4x8ZIgjdh7VJcV2haprU/edit?tab=t.0)
-- Example `AGENTS.md` from the SSI Community: [ersilia-os/eos-analysis-template](https://github.com/ersilia-os/eos-analysis-template/blob/main/CLAUDE.md)
+- Example `AGENTS.md` from Ersilia: [ersilia-os/eos-analysis-template](https://github.com/ersilia-os/eos-analysis-template/blob/main/CLAUDE.md)
