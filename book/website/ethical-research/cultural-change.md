@@ -7,7 +7,7 @@
 
 Culture is defined in many ways, one of which is about the social environment in which you partake, or the customs and behaviours that define a group of people.
 Culture has an influence on your views, values, concerns and your identity. 
-Culture can be difficult to change as it is hard to address directly and shared values can be deeply ingrained (@Kotter2012change). 
+Culture can be difficult to change as it is hard to address directly and shared values can be deeply ingrained [@Kotter2012change]. 
 Instead, norms of behaviour may be easier to change. 
 
 Here, cultural change is defined as inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation.
