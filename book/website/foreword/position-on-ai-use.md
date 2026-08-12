@@ -19,11 +19,12 @@ It is a shortcut around the part we care about most in Open Science, and want to
 We recognise that contributors may use AI to help with parts of their work, 
 and we ask that this be done thoughtfully, deliberately, and with a clear understanding of what should stay human.
 
-
+```{admonition} Disclaimer
 **We understand that our position on AI/LLM use may not suit everyone's preferred way of working.**
 If what you are looking for is a fast way to generate finished content with minimal back-and-forth, *The Turing Way* is probably not the right project for you right now.
 We would like to invite you to engage with *The Turing Way* and help protect the space we have created over the years.
 We are always delighted to work with people and institutions who want to continue improving research practices, including how best we can use AI to improve transparency, reproducibility and ethical approaches in data science.
+```
 
 ## Here are some of the main considerations for the use of AI in *The Turing Way*
 
@@ -47,7 +48,6 @@ If you use AI in your interactions with GitHub, other community spaces, or in dr
 Please describe which tools were used and how. Provide prompts or workflows where possible.
 
 ```{admonition} Template for AI Use Disclaimer
-
 [Generative AI and Model] was used in drafting this document.
 
 The co-authors have reviewed the contribution and take responsibility for its quality, accuracy, and references.
