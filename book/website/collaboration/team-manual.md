@@ -153,7 +153,7 @@ It could be that the Lab Manual needs to be updated, or a discussion needs to ta
 
 If someone breaks the agreements it needs to be clear what the consequences are. 
 The Team/Lab needs to be held accountable, as otherwise there is no point of having a Lab Manual. 
-See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' @Lencioni2012five: 
+See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' [@Lencioni2012five]: 
 - Absence of trust
 - Fear of Conflict
 - Lack of commitment
@@ -163,7 +163,7 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' @Lencion
 (cl-team-manual-assess)=
 ## How to assess your lab culture?
 * Leslie Vosshall's [lab survey](https://docs.google.com/forms/d/e/1FAIpQLScGCi7iACgmVBhFcE7G90oPwuTs-g9CQkrDmOUoQ4FvoT9CfA/viewform) to measure whether your lab is happy 
-* [Improving lab culture through self-assessment: a case study](https://doi.org/10.1101/2021.12.08.471870) @Hernandez2021improving
+* [Improving lab culture through self-assessment: a case study](https://doi.org/10.1101/2021.12.08.471870)
 
 (cl-team-manual-examples)=
 ## Examples of Team Manuals
@@ -184,7 +184,7 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' @Lencion
 * Non-scientific approaches to internal collaboration: [Oxide's Request-for-discussion process template](https://oxide.computer/blog/rfd-1-requests-for-discussion), modelled after the original spirit of the [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) process
 * [Open Science Team Agreements](https://zenodo.org/doi/10.5281/zenodo.7154100)
 * [Team Manual Template](https://docs.google.com/document/d/1LqGdtHg0dMbj9lsCnC1QOoWzIsnSNRTSek6i3Kls2Ik/edit)
-* [Lab manuals for efficient and high quality science in a happy and safe work environment](https://osf.io/gtn63) @Kovacs2024labmanual
+* [Lab manuals for efficient and high quality science in a happy and safe work environment](https://osf.io/gtn63)
 * [Illinois Library Lab Handbook Template](https://www.ideals.illinois.edu/items/139950)
 
 ## Credit
@@ -193,15 +193,15 @@ This summary is based on an [X (formerly Twitter) Thread by \@samuelmehr](https:
 (cl-team-manual-resources)=
 ## Additional Resources on improving Research Culture
 * [Research Culture - UKRIO Webinar](https://www.youtube.com/watch?v=WH2cAChUzFA)
-* [Research Culture: Why every lab needs a handbook](https://doi.org/10.7554/eLife.88853) {cite:ps}`Tendler2023culture`
-* [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq), [including Health tips for research groups](https://doi.org/10.1038/d41586-018-05146-5) {cite:ps}`Norris2018health`.
-* [Welcome to the lab](https://doi.org/10.7554/elife.79627) @Andreev2022welcome
+* [Research Culture: Why every lab needs a handbook](https://doi.org/10.7554/eLife.88853)
+* [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq), [including Health tips for research groups](https://doi.org/10.1038/d41586-018-05146-5)
+* [Welcome to the lab](https://doi.org/10.7554/elife.79627)
 * [Guidelines Toward Inclusive Practices in Academics by eLife Community Ambassadors](https://osf.io/muk7v/wiki/home/)
-* [Ten simple rules towards healthier research labs](https://doi.org/10.1371/journal.pcbi.1006914) @Maestre2019ten
-* [Safety and belonging in the field: a checklist for educators](https://doi.org/10.31223/x53p6h) @Greene2021safety
-* [Ten simple rules for building an antiracist lab](https://doi.org/10.1371/journal.pcbi.1008210) @Chaudhary2020ten
-* [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928) @Pike2022simple
-* [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688) @RuedasGracia2022ten
-* [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673) @Rillig2022ten
-* [Ten simple rules to cultivate belonging in collaborative data science research teams](https://doi.org/10.1371/journal.pcbi.1010567) @Gaynor2022ten
+* [Ten simple rules towards healthier research labs](https://doi.org/10.1371/journal.pcbi.1006914)
+* [Safety and belonging in the field: a checklist for educators](https://doi.org/10.31223/x53p6h)
+* [Ten simple rules for building an antiracist lab](https://doi.org/10.1371/journal.pcbi.1008210)
+* [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928)
+* [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688)
+* [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673)
+* [Ten simple rules to cultivate belonging in collaborative data science research teams](https://doi.org/10.1371/journal.pcbi.1010567)
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
