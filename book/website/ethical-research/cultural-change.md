@@ -35,7 +35,7 @@ Researchers advocating for improvements in reproducible, ethical, and collaborat
 When you are affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
 Cassandra Worthy wrote 'Change Enthusiasm' [@Worthy2021change] to provide you with exercises and tools to see changes as an opportunity for learning and growth.
 As an Early Career Researcher you may also have to deal with systemic cultural change in your discipline. 
-The work by @Kent2022change contains recommendations that may support you in this change journey.
+@Kent2022change contains recommendations that may support you in this change journey.
 
 You can also change the culture and get involved in committees that update policies, or add new ones (see the [Guide to Accelerate Public Access to Research Data](https://www.aplu.org/news-and-media/News/aplu-and-aau-issue-guide-to-accelerate-public-access-to-research-data) for some pointers that are applicable beyond a research data policy). 
 You may be advocating to make your work environment more inclusive, at the office or within your research association.
