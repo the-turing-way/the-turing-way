@@ -33,7 +33,7 @@ Generally, you will either be affected by cultural change, or, you want to invok
 Researchers advocating for improvements in reproducible, ethical, and collaborative research practices often have to advocate for cultural change at their institutions and other organisations. 
 
 When you are affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
-Cassandra @Worthy2021change wrote 'Change Enthusiasm' to provide you with exercises and tools to see changes as an opportunity for learning and growth.
+Cassandra Worthy wrote 'Change Enthusiasm' [@Worthy2021change] to provide you with exercises and tools to see changes as an opportunity for learning and growth.
 As an Early Career Researcher you may also have to deal with systemic cultural change in your discipline. 
 The work by @Kent2022change contains recommendations that may support you in this change journey.
 
