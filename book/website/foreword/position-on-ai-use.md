@@ -1,8 +1,8 @@
 # Position on the Use of Generative AI in *The Turing Way* Contributions
 
 *The Turing Way* is created by people, for people.
-That is not merely an idea we attach to our work — it is the reason our collective work in *The Turing Way* exists.
-Regardless of which technologies we use, we remain committed to community empowerment, transparency, and inclusion in every aspect of how we build this book together.
+That is not merely an idea we attach to our work but a practice that has guided our collective work in *The Turing Way*.
+Regardless of which technologies we use, we remain committed to our [guiding principles](#guiding-principles) of community empowerment, transparency, and inclusion in every aspect of how we maintain our community and build the book together.
 
 What makes *The Turing Way* valuable is not only the chapters we develop, but the process that leads to their production.
 The active discussion during Collaboration Café and Book Dash on specific sets of research and data practices,
