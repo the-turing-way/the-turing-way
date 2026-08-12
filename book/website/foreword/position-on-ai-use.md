@@ -4,10 +4,9 @@
 That is not merely an idea we attach to our work but a practice that has guided our collective work in *The Turing Way*.
 Regardless of which technologies we use, we remain committed to our [guiding principles](#guiding-principles) of community empowerment, transparency, and inclusion in every aspect of how we maintain our community and build the book together.
 
-What makes *The Turing Way* valuable is not only the chapters we develop, but the process that leads to their production.
-The active discussion during Collaboration Café and Book Dash on specific sets of research and data practices,
-comments and recommendations on GitHub issue threads,
-the mentoring a maintainer gives a first-time contributor,
+What makes *The Turing Way* valuable is the process that leads to the co-production of chapters that guide practices across research organizations and community spaces we inhabit.
+Our work is a cumulative result of numerous active discussions during Collaboration Cafés and Book Dash events,
+comments and recommendations on GitHub issue threads, the mentoring a maintainer gives a first-time contributor,
 the differences that gets talked through in a Pull Request review, 
 the thoughtful process of working together as a community about how research and data practices should evolve.
 That process **is** *The Turing Way* project.
