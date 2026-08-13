@@ -46,6 +46,7 @@ For more information on how DOIs work, see our [chapter on persistent identifier
 #### Preprint Resources
 - 10 min talk: [Preprint adoption in the life sciences by ASAPbio](https://www.youtube.com/watch?v=j_G6flATV1c&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=12)
 - [How to Prepare Your Preprint](https://help.osf.io/article/376-preprints-home-page#How-to-Prepare-Your-Preprint-UwA-q) by OSF
+- [Posting a preprint checklist by Rippling Ideas](https://doi.org/10.5281/zenodo.20478396)
 
 (rr-open-access-journal-publishing)=
 ### Open Access Journal publishing
