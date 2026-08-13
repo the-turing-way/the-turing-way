@@ -64,7 +64,9 @@ These subprojects are often time-bound and are supported by community members wh
 #### People
 
 - Chair: [Esther Plomp](#profile-esther-plomp)
+- Vice Chair: [Alexandra Araujo Alvarez](#profile-alexandra-araujo-alvarez)
 - Secretary: [Arielle Bennett](#profile-arielle-bennett)
+
 - Secretary: [Emma Karoune](#profile-emma-karoune)
 - Member: [Carlos Martinez Ortiz](#profile-carlos-martinez-oritz)
 - Member: Precious Onyewuchi
