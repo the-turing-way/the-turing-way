@@ -67,7 +67,7 @@ These subprojects are often time-bound and are supported by community members wh
 - Secretary: [Arielle Bennett](#profile-arielle-bennett)
 - Secretary: [Emma Karoune](#profile-emma-karoune)
 - Member: [Carlos Martinez Ortiz](#profile-carlos-martinez-oritz)
-- Member: [Susana Roman Garcia](#profile-susana-roman-garcia)
+- Member: Precious Onyewuchi
 
 (fw-governance-groups-delivery)=
 ## Delivery Groups
