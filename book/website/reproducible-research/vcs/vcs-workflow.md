@@ -47,7 +47,7 @@ Your collaborators will thank you, but so will future versions of yourself.
 
 In bigger development teams, signing commits helps ensure the integrity of the 
 contributions---by verifying the identities behind commits. In `git`,
-one can use GPG to verify that commits and tags come from a trusted source. 
+one can use "GNU privacy guard" (GPG) to verify that commits and tags come from a trusted source. 
 
 #### Further reading
 
