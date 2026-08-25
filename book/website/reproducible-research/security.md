@@ -239,16 +239,17 @@ with institutional policies and ethical standards.
 The chapter {ref}`Data Privacy Strategies<pd-sdpm-privacy>` discusses specific 
 strategies for keeping sensitive research data secure.
 
-
-
-
 ## Further Reading
 
-1. OWASP Foundation, "OWASP Application Security Verification Standard 5.0.0," Open Web Application Security Project, v5.0.0, 2023. [Online]. Available: https://raw.githubusercontent.com/OWASP/ASVS/v5.0.0/5.0/OWASP_Application_Security_Verification_Standard_5.0.0_en.pdf
-2. OWASP Foundation. "OWASP Developer Guide". [Online]. Available: https://devguide.owasp.org/.
-3. OWASP Foundation. "Secure Design". https://devguide.owasp.org/en/04-design/
-4. OWASP Foundation. "Principles of security". https://devguide.owasp.org/en/02-foundations/03-security-principles/
-5. OWASP Foundation. "Secure Product Design Cheat Sheet". https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet
-6. GitHub. Adding a security policy to your repository. https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/add-security-policy
-7. PyPI security. https://pypi.org/security/
-8. CRAN. CRAN Repository Policy. https://cran.r-project.org/web/packages/policies.html
+The Application Security Verification Standard (@cuthbert_application_2025) is a list of application security requirements that architects, developers, testers, security professionals, tool vendors, and consumers can use to define, build, test, and verify secure applications.
+
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software: @noauthor_devguide_nodate
+It provides dedicated sections about security design and security principles with a secure product design cheat sheet:
+
+- @noauthor_security_design_nodate
+- @noauthor_security_principles_nodate
+- @noauthor_secure_cheatsheet_nodate
+
+In Github and similar services, you can give instructions for how to report a security vulnerability in your project by adding a security policy to your repository: @noauthor_github_security_policy_nodate.
+
+PyPI and CRAN provide programming language-specific policies for Python  and R  packages respectively: @noauthor_pypi_reporting_nodate, @noauthor_cran_policy_nodate.
