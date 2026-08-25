@@ -4,11 +4,14 @@
 ## Summary
 
 Software security has various aspects that touch upon all parts of software development.
-This guide intents to raise awareness of security concerns in data science and 
-research software applications, and to provide practical guidelines to address common security threats.
+This introductory guide intents to raise awareness of security concerns in data science and research software applications, and to provide practical guidelines to address common security threats.
 
-The audience of these instructions are research software engineers without particular security expertise.
-This guide will allow them to conceptually understand different types of risks and to enable best practices to avoid the most common caveats.
+| Prerequisite | Importance | Notes |
+| ------------- | ------------ | ------- |
+| {ref}`Code Quality<rr-code-quality>` | Helpful | Understand the impact of robust and maintainable code |
+| {ref}`Testing<rr-testing-guidance>` | Helpful | Understanding fundamentals of software testing. |
+ {ref}`Code Reviewing<rr-checklist-for-code-review>` | Helpful | Understanding the principles of code reviews. |
+| {ref}`Version Control<rr-vcs>` | Helpful | Understanding the way that [GitHub](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
 ```{warning}
 Written by research software developers rather than security specialists, 
