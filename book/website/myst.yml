@@ -52,6 +52,8 @@ project:
           children:
             - file: foreword/governance/governance-roles.md
               title: Governance Roles
+            - file: foreword/governance/working-groups.md
+              title: Working and Delivery Groups
             - file: foreword/governance/ways-of-working.md
               title: Ways of Working
         - file: foreword/cite.md
@@ -1105,8 +1107,6 @@ project:
               title: Translators
         - file: afterword/collaborators.md
           title: Collaborators
-        - file: afterword/subprojects.md
-          title: Sub-projects, Working Groups, Informal Initiatives
         - file: afterword/glossary.md
           title: Glossary
         - file: afterword/bibliography.md
