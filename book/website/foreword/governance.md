@@ -1,3 +1,7 @@
+---
+abbreviations:
+  WG: working group
+---
 (fw-governance)=
 # Governance in _The Turing Way_ 
 
@@ -49,6 +53,7 @@ We want to ensure that all roles are recognised and valued in _The Turing Way_.
 Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
 You can read the details in our community handbook in the [acknowledging contributors] chapter (https://the-turing-way.netlify.app/community-handbook/acknowledgement).
 
+(fw-governance-community)=
 ### 1. Community Level
 
 This level encompasses all members of *The Turing Way* community, both longstanding and new.
@@ -79,7 +84,8 @@ We have discussed specific roles under this level in {ref}`fw-community`.
 Guidelines and processes for this level are described in the [contribution guidelines](#ch-contributing) and [Community Handbook](#ch).
 These processes and resources are co-developed by maintenance-level members with the involvement of members from the community and constitution levels as needed.
 
-### Maintenance Level
+(fw-governance-maintenance)=
+### 2. Maintenance Level
 
 This level includes members from different Working Groups of _The Turing Way_.
 
@@ -121,6 +127,7 @@ Decisions at the maintainer level may include the following:
 * Clarifying unclear processes that guide the work of a  WGs.
 * Escalating issues that can not be addressed at the maintainer level.
 
+(fw-governance-steering)=
 ### 3. Constitution Level - Steering Committee
 
 The constitution level is represented by _The Turing Way_ Steering committee, which is comprised of the 1) chairs of Working Groups, and 2) leads of Delivery Groups of projects in _The Turing Way_, both with defined goals and deliverables.
