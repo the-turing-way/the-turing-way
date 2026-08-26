@@ -1,5 +1,6 @@
 ![Alt: Two people, one woman with a long orange shirt and one guy with a blue shirt and a tie, and a large Welcome! sign at the back](https://i.imgur.com/NXOPPc4.jpg)
 
+(ch-communication-slack)=
 # Welcome to *The Turing Way* Slack!
 
 **Not a member of our Slack workspace? You can join using the [this link](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)**

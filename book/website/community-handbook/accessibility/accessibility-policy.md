@@ -45,7 +45,7 @@ In all contexts, we aim to facilitate access in a broad sense through:
 
 1. **Removing barriers**: We actively advocate for and employ tactics that seek to remove barriers for any current or future participants in our community.
   This may include people who have historically been limited or structurally excluded from participating due to any of the barriers listed above.
-2. **Sharing openly**: We aim to draft, write, review, and edit our open access guides using open practices documented in our [guides](https://book.the-turing-way.org/reproducible-research/open).
+2. **Sharing openly**: We aim to draft, write, review, and edit our open access guides using open practices documented in our [guides](#rr-open).
   We do this in order to enable people from a broad range of backgrounds to get involved in the project.
 3. **Supporting inclusive participation**: We acknowledge that openness alone does not make a project accessible in a broad sense, and we are committed to maintaining a socio-technical infrastructure that enables inclusive participation more broadly.
   This includes hosting spaces for contribution, documenting our practices, and actively gathering feedback.
@@ -59,11 +59,11 @@ As an open source community that relies on projects and platforms for our underl
 With this being said, we are committed to ensuring greater access to our guides, events, and community platforms through a variety of ways. 
 
 1. **Ensuring web accessibility for our open access resources**:  Our project is built with [JupyterBook](https://jupyter-accessibility.readthedocs.io/en/latest/index.html) on the [Github](https://accessibility.github.com/) platform, which have initiatives that address their compliance with [W3C WAI's Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG/).
-  As a community documentation project, we aim to use and employ appropriate and relevant [alt text (also known as 'alternative text'](https://book.the-turing-way.org/community-handbook/accessibility/alt-text) for all of our images, charts, and data visualisations.
+  As a community documentation project, we aim to use and employ appropriate and relevant [alt text (also known as 'alternative text'](#ch-accessibility-alttext) for all of our images, charts, and data visualisations.
 2. **Enabling accessibility of our shared community platforms**: Our community is dedicated to enabling access across the various platforms we communicate on, which extends not only to the accessibility practices mentioned above, but also to the language we employ to ensure a broad audience.
-  Our [slack welcome guide](https://the-turing-way.netlify.app/community-handbook/communication-channels/slack-welcome-guide.html) delineates best practices we use on the platform.
+  Our [slack welcome guide](#ch-communication-slack) delineates best practices we use on the platform.
 3. **Implementing accessible practices for community events**: As a community, we frequently organise events for a variety of purposes: for coworking, training, workshops, panels, conference talks, and more.
-  We are committed to supplying and recording audio transcripts and closed captioning, uploading slides and/or presentation materials, and enabling broad access to our program content [as described in our community handbook](https://book.the-turing-way.org/community-handbook/accessibility/event-organising).
+  We are committed to supplying and recording audio transcripts and closed captioning, uploading slides and/or presentation materials, and enabling broad access to our program content [as described in our community handbook](#ch-accessibility-events).
 
 ### 3.0 How we work with Access-related Feedback
 
@@ -73,12 +73,12 @@ We would like to offer a a few ways of sharing feedback with us, and are current
 1. **Feedback form**: Please submit access related comments to our [accessibility feedback form](https://forms.gle/Ngr2eUtQmf7aEeao6).
   All of the information in this form is processed anonymously, with the option of submitting contact information by choice. 
 2. **Drop-in sessions**: Throughout the calendar year, we would like to facilitate drop-in session to receive feedback about access related different parts of project.
-  These may take place at our [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) or may be hosted separately. 
+  These may take place at our [Collaboration Cafe](#ch-community-calls-collabcafe) or may be hosted separately. 
 3. **Email us**: You can reach out to the Project Delivery Team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
   You can also reach out to [specific members of the team](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md).
 4. **Attend the Accessibility Working Group meeting**: The
    Accessibility Working Group meetings may be a place where you can deliver feedback in a small group environment.
-   Monthly meetings are held concurrently with the first [Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) of each month. 
+   Monthly meetings are held concurrently with the first [Collaboration Cafe](#ch-community-calls-collabcafe) of each month. 
    Please [subscribe to the community calendar](https://calendar.the-turing-way.org) or [download the calendar](https://ics.the-turing-way.org) to stay up to date with meeting times.
    Please join the #Accessibility channel on slack for more information.
 
