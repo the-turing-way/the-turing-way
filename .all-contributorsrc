@@ -5672,6 +5672,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "deltaahead",
+      "name": "Gabriele Di Gesù",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60932561?v=4",
+      "profile": "https://github.com/deltaahead",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "evasafi",
+      "name": "Eva Safi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127869335?v=4",
+      "profile": "https://github.com/evasafi",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "EoinTrial",
+      "name": "Eoin Shaughnessy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45000144?v=4",
+      "profile": "https://github.com/EoinTrial",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "nine03",
+      "name": "Yeongjun Kim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60682087?v=4",
+      "profile": "https://github.com/nine03",
+      "contributions": [
+        "content"
+      ]
     }
   ]
 }

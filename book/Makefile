@@ -13,7 +13,7 @@ deps: ## Install build dependencies
 upgrade: ## Upgrade python packages and update the requirements files
 	python -m pip install --upgrade pip
 	pip install pip-tools
-	pip-compile --upgrade
+	pip-compile --upgrade --output-file requirements.txt requirements.in
 	pip-sync
 
 serve: ## Start a webserver serving the book locally
