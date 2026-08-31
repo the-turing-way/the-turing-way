@@ -5708,6 +5708,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "StefKirsch",
+      "name": "Stefan Kirsch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113800603?v=4",
+      "profile": "https://github.com/StefKirsch",
+      "contributions": [
+        "review"
+      ]
     }
   ]
 }
