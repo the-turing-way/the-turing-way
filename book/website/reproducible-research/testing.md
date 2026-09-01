@@ -51,7 +51,7 @@ Further, by formalising the testing process into a suite of tests that can be ru
 
 Testing also affords researchers much more peace of mind when working on/improving a project.
 After changing their code a researcher will want to check that their changes or fixes have not broken anything.
-Providing researchers with a fail-fast environment allows the rapid identification of failures introduced by changes to the code.
+Providing researchers with a {term}`fail-fast environment` allows the rapid identification of failures introduced by changes to the code.
 The alternative, of the researcher writing and running whatever small tests they have time for is far inferior to a good testing suite which can thoroughly check the code.
 
 Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality.

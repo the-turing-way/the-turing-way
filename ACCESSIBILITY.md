@@ -77,7 +77,7 @@ These may include:
 - Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback.
   Currently, this process is under development.
 - Liaising with appropriate groups within _The Turing Way_ project (for example, the Infrastructure Working Group) in order to create or resource technical changes that may be needed.
-  Information about these working groups can be found in {ref}`subprojects`.
+  Information about these working groups can be found in [the governance guide](#fw-governance-groups-working).
 - Escalating feedback to the project co-leads, funders, and others at the constitutional level of the project as needed.
 
 ## Confidentiality
