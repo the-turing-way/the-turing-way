@@ -85,4 +85,4 @@ Finally, version control is invaluable for collaborative projects where differen
 Using a version control system, **changes made by different people can be tracked and often automatically combined**, saving a great deal of painstaking manual efforts.
 Using version control makes your research more transparent.
 Since all your actions are recorded, your studies become easier to reproduce and build upon.
-Moreover, version control hosting services such as [GitHub](#cl-github-novice-motivation), GitLab and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
+Moreover, version control hosting services such as [GitHub](#cl-github-novice-motivation), [GitLab](https://about.gitlab.com), [Codeberg](https://codeberg.org), [Bitbucket](https://bitbucket.org) and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
