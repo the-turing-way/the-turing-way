@@ -88,7 +88,7 @@ Contributors are responsible for resolving these concerns rather than leaving th
 
 ### Further reading
 
-- Software Freedom Conservancy: [Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/)
-- Matthew Butterick: [This copilot is stupid and wants to kill me](https://matthewbutterick.com/chron/this-copilot-is-stupid-and-wants-to-kill-me.html)
-- Supporting document for authors: [SSI post](https://docs.google.com/document/d/1gInmbK-o00MRhihPzZBE0Hl4x8ZIgjdh7VJcV2haprU/edit?tab=t.0)
+- Cutting through the bull: AI slop and MIL by Alex Bodine, October 2025: [Deutsche Welle Akademie](https://akademie.dw.com/en/ai-slop-and-media-literacy/a-74471386)
+- I’m begging you: Never write with AI by Bret Stephens, August 2026: [Opinion piece originally published in New York Times](https://www.sltrib.com/opinion/commentary/2026/08/09/opinion-im-begging-you-never-write/)
+- Supporting document for authors from Institute for Software Research (previously Software Sustainability Institute), 2026: [Blog post from Collaboration Workshop 2026](https://docs.google.com/document/d/1gInmbK-o00MRhihPzZBE0Hl4x8ZIgjdh7VJcV2haprU/edit?tab=t.0)
 - Example instructions for AI agents from Ersilia: [ersilia-os/eos-analysis-template](https://github.com/ersilia-os/eos-analysis-template/blob/main/CLAUDE.md)
