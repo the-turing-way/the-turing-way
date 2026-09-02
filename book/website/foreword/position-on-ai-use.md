@@ -51,7 +51,7 @@ Being transparent allows reviewers to spend their limited time on discussion and
 We recognise that AI tools can improve accessibility and lower barriers to participation.
 Examples include accessibility support, translation, co-drafting alongside a contributor's own thinking (in the language they prefer), and help navigating unfamiliar tools.
 Used this way, AI can bring more people into the conversation.
-Therefore, we recognize and support that community members will take responsibility for the tools they use to support their contributions, while respecting community participation and contributing guidelines.
+Therefore, we recognize that community members will select workflows and tools required to support their contributions, while respecting community participation and contributing guidelines.
 ```
 
 ### 3. Keep contributions concise
