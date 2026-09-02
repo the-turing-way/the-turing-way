@@ -22,6 +22,14 @@ Fixes #<NUM>
 * *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 * *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 
+### Use of generative AI
+
+<!-- Please select the option that applies. If you used generative AI, briefly describe the tools and how they contributed below. You do not need to share prompts or repeat this disclosure in each comment. -->
+
+- [ ] I did not use generative AI to prepare this contribution.
+- [ ] I used generative AI and have described its use below.
+
+*Tool(s) and contribution:*
 
 ### What should a reviewer concentrate their feedback on?
 
