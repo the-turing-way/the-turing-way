@@ -28,18 +28,11 @@ We would like to invite you to engage with *The Turing Way* and help protect the
 We are always delighted to work with people and institutions who want to continue improving research practices, including how best we can use AI to improve transparency, reproducibility and ethical approaches in data science.
 ```
 
-```{admonition} AI tools can support participation
-We recognise that AI tools can improve accessibility and lower barriers to participation.
-Examples include accessibility support, translation, co-drafting alongside a contributor's own thinking, and help navigating unfamiliar tools.
-Used this way, AI can bring more people into the conversation.
-We do not restrict which tools people use to help them contribute.
-```
-
 ## Main considerations for using AI in *The Turing Way*
 
-### 1. AI must never be used to solely address `good-first-issue` tasks
+### 1. AI must never be used for addressing `good-first-issue` tasks
 
-Issues labelled `good-first-issue`, and pull requests intended to help a new contributor learn our collaborative ways of working, are not tasks for an AI tool or agent to solve independently.
+Issues labelled `good-first-issue`, and pull requests intended to help a new (human) contributor learn our collaborative ways of working, are not tasks identified for an AI tool or agent to solve.
 They exist specifically so people can enter the community, ask questions, make mistakes, receive supportive feedback, and build confidence.
 Handing that entry point to a model defeats its purpose for both the newcomer and the maintainer who would otherwise mentor them.
 
@@ -53,6 +46,13 @@ When reviewing a contribution, judge it on accuracy, quality, relevance, scope, 
 If AI tools made a substantive contribution to a pull request, use the AI-use section of the pull request template to describe which tools were used and how.
 This single disclosure is enough; contributors do not need to repeat it in every comment.
 Being transparent allows reviewers to spend their limited time on discussion and mentoring rather than detective work.
+
+```{admonition} AI tools can support participation
+We recognise that AI tools can improve accessibility and lower barriers to participation.
+Examples include accessibility support, translation, co-drafting alongside a contributor's own thinking (in the language they prefer), and help navigating unfamiliar tools.
+Used this way, AI can bring more people into the conversation.
+Therefore, we recognize and support that community members will take responsibility for the tools they use to support their contributions, while respecting community participation and contributing guidelines.
+```
 
 ### 3. Keep contributions concise
 
