@@ -67,7 +67,7 @@ We ask contributors to (re)read our note on [low-effort contributions](#ch-contr
 AI-generated text carries copyright and licensing uncertainty of its own, independent of how much reviewer time it costs to check.
 We want contributors and reviewers to treat this as a real risk to flag and resolve on its own terms, ensuring that original creators are appropriately credited when content is reused.
 Contributors are responsible for resolving these concerns rather than leaving them for maintainers or allowing them to slow down the review process.
-
+Further reading section has listed a few resources on copyright in the context of generative AI.
 ## References and Reading Recommendations
 
 ### Policies from other open source communities
