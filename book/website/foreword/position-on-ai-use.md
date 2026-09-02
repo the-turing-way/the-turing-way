@@ -90,5 +90,6 @@ Contributors are responsible for resolving these concerns rather than leaving th
 
 - Cutting through the bull: AI slop and MIL by Alex Bodine, October 2025: [Deutsche Welle Akademie](https://akademie.dw.com/en/ai-slop-and-media-literacy/a-74471386)
 - I’m begging you: Never write with AI by Bret Stephens, August 2026: [Opinion piece originally published in New York Times](https://www.sltrib.com/opinion/commentary/2026/08/09/opinion-im-begging-you-never-write/)
+- Generative AI training and copyright law (preprint): [Stober, S., & Dornis, T. W. (2025).  arXiv preprint arXiv:2502.15858](https://arxiv.org/abs/2502.15858)
 - Supporting document for authors from Institute for Software Research (previously Software Sustainability Institute), 2026: [Blog post from Collaboration Workshop 2026](https://docs.google.com/document/d/1gInmbK-o00MRhihPzZBE0Hl4x8ZIgjdh7VJcV2haprU/edit?tab=t.0)
 - Example instructions for AI agents from Ersilia: [ersilia-os/eos-analysis-template](https://github.com/ersilia-os/eos-analysis-template/blob/main/CLAUDE.md)
