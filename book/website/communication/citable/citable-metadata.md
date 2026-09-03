@@ -160,8 +160,8 @@ Complete funding metadata includes:
 **Funder Information:**
 - **Funder Name**: The organization providing funding
 - **Funder Identifier**: A persistent identifier for the funder (usually from Crossref Funder Registry)
-  - Example: National Science Foundation = `https://doi.org/10.13039/00000001`
-  - Example: Wellcome Trust = `https://doi.org/10.13039/00000035`
+  - Example: National Science Foundation = `https://doi.org/10.13039/100000001`
+  - Example: Wellcome Trust = `https://doi.org/10.13039/100010269`
 
 **Grant Information:**
 - **Award Number**: The specific grant identifier
