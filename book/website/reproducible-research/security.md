@@ -10,7 +10,7 @@ This introductory guide intents to raise awareness of security concerns in data 
 | ------------- | ------------ | ------- |
 | {ref}`Code Quality<rr-code-quality>` | Helpful | Understand the impact of robust and maintainable code |
 | {ref}`Testing<rr-testing-guidance>` | Helpful | Understanding fundamentals of software testing. |
- {ref}`Code Reviewing<rr-checklist-for-code-review>` | Helpful | Understanding the principles of code reviews. |
+|  [Code Reviewing](#rr-checklist-for-code-review) | Helpful | Understanding the principles of code reviews. |
 | {ref}`Version Control<rr-vcs>` | Helpful | Understanding the way that [GitHub](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
 ```{warning}
@@ -221,7 +221,7 @@ fixes from dependencies.
 The present section touches on ethics and data privacy from a perspective of software
 design and development.
 For more information on ethics and data privacy, check out these sections:
-- {ref}`Introduction to Research Ethics<er-intro>`
+- [](#er-intro)
 - {ref}`Research Ethics for Social Data<er-social-data>`
 - {ref}`Research Ethics Committees Processes<er-committees>`
 - {ref}`Law, Policy and Human Rights in Ethics<er-law-policy>`
