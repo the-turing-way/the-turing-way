@@ -24,8 +24,6 @@ alt: A garden full of folks working on different parts of the garden. Someone is
 
 Please follow [](#ch-contributing) and [](#ch-coc) to participate in and contribute to _The Turing Way_.
 
-Read the {ref}`fw-community` for details about community and community roles.
-
 Find information about the members involved in the governance of _The Turing Way_, including the project delivery team in {ref}`fw-governance-roles`.
 An overview of how they collaborate across the different levels of governance in the {ref}`fw-ways-of-working` documentation.
 

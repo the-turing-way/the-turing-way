@@ -1,10 +1,11 @@
 (fw-governance-roles)=
-# Governance Roles
+# Roles
 
-```{note}
-This page displays the [`GOVERNANCE_ROLES.md`](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE_ROLES.md), a base file with information about different groups involves in the governance of _The Turing Way_.
-```
+## Steering Committee
 
-```{include} ../../../../GOVERNANCE_ROLES.md
-:start-after: # Governance Roles in _The Turing Way_
-```
+:::{substitution}
+| role | person |
+| --- | --- |
+{% for key, role in roles %} {% if role.level == "constitutional" %} | {{ role.name }} | {% set comma = joiner() %} {% for person in role.incumbent -%} {{ comma() }} [](#profile-{{ person.id }}) {%- endfor %} |
+{% endif %} {% endfor %}
+:::
