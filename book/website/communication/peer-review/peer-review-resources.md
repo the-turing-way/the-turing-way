@@ -15,6 +15,7 @@ If you have not read the {ref}`chapter on Open Research<rr-open>`, you might wan
 * [How to read a manuscript as a peerreviewer](https://plos.org/resource/how-to-read-a-manuscript-as-a-peer-reviewer)
 * [EASE Peer Review Toolkit](https://ease.org.uk/communities/peer-review-committee/peer-review-toolkit/)
 * [Introduction: “Thinking With” When Peer Reviewing](https://polarjournal.org/2022/06/13/introduction-thinking-with-when-peer-reviewing/)
+* [Collection of Open Science Integrity Guides (COSIG)](https://reeserichardson.blog/2025/06/04/introducing-cosig-the-collection-of-open-science-integrity-guides/), a community-led open source resource for performing post-publication peer review
 
 # Courses
 * [FOSTER open peer review course](https://www.fosteropenscience.eu/learning/open-peer-review/#/id/5a17e150c2af651d1e3b1bce)
