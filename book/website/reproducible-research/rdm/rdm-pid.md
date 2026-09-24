@@ -94,13 +94,13 @@ ROR IDs appear in research output metadata to indicate:
 
 ### PIDs for Funders
 
-The Crossref Funder Registry and ROR provides identifiers for funding organizations.
-These enable researchers to formally cite the grants that supported their work, not just acknowledge them in text.
+The [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/) and [ROR](https://ror.org/) provide identifiers for funding organizations.
+A funder identifier identifies the organization; on its own, it does not identify an individual award or its recipients.
 
-This creates a traceable connection between:
-- The grant that funded the research
-- The researchers who received funding
-- The research outputs that resulted
+### PIDs for Funding
+
+A grant DOI can persistently identify a specific grant or award. For example, [10.55776/p37291](https://doi.org/10.55776/p37291) is registered in Crossref as a grant record with award number `P37291` ([metadata](https://api.crossref.org/works/10.55776/p37291)).
+A funder ID identifies the awarding organization, while an award number identifies the award within the funder’s scheme. When available, record the grant DOI alongside both. Connections to recipients and research outputs depend on the metadata actually deposited; they are not guaranteed by the identifier alone.
 
 For more on citing funding, see the section on [connection metadata in linking research outputs](#cm-citable-linking-funding).
 
@@ -111,7 +111,7 @@ These PID systems don't operate in isolation - they're designed to interconnect:
 - A **dataset** (DataCite DOI) can be linked to:
   - The **researchers** who created it (ORCIDs)
   - Their **institutions** (ROR IDs)
-  - The **grants** that funded it (Funder IDs)
+  - The **grants** that funded it (grant DOIs or award numbers, alongside funder IDs)
   - The **article** that describes it (Crossref DOI)
   - The **software** used to analyze it (DataCite DOI)
 
