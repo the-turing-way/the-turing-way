@@ -37,7 +37,7 @@ Scientists can also be contacted directly by the public, which enables a more ap
 However recent changes to the platform have also alienated some academics and in the longer term this may result in a more widespread move by researchers away from X to more open platforms {cite:ps}`VidalValero2023twitter,Hiltzik2023twitter`.
 
 Despite this X remains popular and, given its wide ranging uses for academic purposes, the next two sub-chapters focus on how to use it effectively.
-Below we also offer a brief overview of the most popular general social media sites used by researchers - X, LinkedIn, Facebook and Instagram.
+Below we also offer a brief overview of the most popular general social media sites used by researchers - X, LinkedIn, Bluesky, Mastodon, Facebook and Instagram.
 
 ### X (formerly Twitter)
 
