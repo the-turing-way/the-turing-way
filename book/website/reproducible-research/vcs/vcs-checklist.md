@@ -11,7 +11,7 @@
   - No generated files committed.
   - Commit messages are meaningful, with a ~50 character summary at the top.
   - Commit messages are in the present tense and imperative.
-- Develop new features on their own branches, which you can create via `git checkout -b branch_name` and switch between via `git checkout branch_name`.
+- Develop new features on their own branches, which you can create via `git switch -c branch_name` and switch between via `git switch branch_name`.
   - Make sure branches have informative names.
   - Make sure the main branch is kept clean.
   - Make sure each branch has a single purpose and only changes related to that purpose are made on it.

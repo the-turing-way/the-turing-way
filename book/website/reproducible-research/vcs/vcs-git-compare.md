@@ -14,13 +14,13 @@ If you want to retrieve a version from weeks or months ago, start by using `git 
 To reset your entire project to this version run the following commands:
 
 ```
-git checkout SHA_of_the_version
+git switch -d SHA_of_the_version
 ```
 
 If you want the old version of a single file and not the previous version of the entire project, you can do so by using the following command:
 
  ```
- git checkout SHA_of_the_version -- your_file_name
+ git restore SHA_of_the_version your_file_name
  ```
 
 (rr-vcs-versions-retrieving-practice)=

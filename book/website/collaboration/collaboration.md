@@ -26,5 +26,6 @@ In this guide, we welcome contributions in developing guidance on the following 
 * Chairing a meeting
 * Defining explicit expectations
 * Participatory co-creation
+* Reaching out to collaborators
 
 Check out our [contributing guidelines](#ch-contributing) to get involved.
