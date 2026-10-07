@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Generate Crowdin Contributors table
-        uses: andrii-bodnar/action-crowdin-contributors@v3.2.0
+        uses: andrii-bodnar/action-crowdin-contributors@v3.3.0
         with:
           contributors_per_line: 5
           max_contributors: 10000
