@@ -26,6 +26,9 @@ label: pathway-early-career-researchers
         - item: ../reproducible-research/overview/overview-resources.md
     - item: ../reproducible-research/rdm.md
     - item: ../reproducible-research/vcs.md
+    - item: ../reproducible-research/security.md
+      children:
+        - item: ../reproducible-research/security/security-development.md
 - item: ../project-design/project-design.md
   children:
     - item: ../project-design/pd-overview.md

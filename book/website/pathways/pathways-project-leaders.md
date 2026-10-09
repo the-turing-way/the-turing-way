@@ -32,6 +32,7 @@ label: pathway-project-leaders
       children:
         - item: ../reproducible-research/open/open-data.md
         - item: ../reproducible-research/open/open-source.md
+    - item: ../reproducible-research/security.md
 - item: ../communication/communication.md
   children:
     - item: ../communication/aa.md
