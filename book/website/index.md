@@ -62,6 +62,18 @@ Accordingly, everyone who participates in _The Turing Way_ project is expected t
 
 Learn more about our community members and community-level approaches in the {ref}`aw` of this book. 
 
+```{figure} ../figures/README_imgs/README_all_contributor_geographies.png
+---
+name: all-contributor-geographies
+alt: This image shows a world map indicating the locations of all the contributors to The Turing Way Community Handbook. The size of the dot indicates the propotion of the contributions that any give contributor has made via GitHub
+---
+Geographies of all the contributors to the _The Turing Way_ Project. The size of the dot indicates the propotion of the contributions that any give contributor has made via GitHub. 
+```
+
+### Interactive Contributor Geography Map
+
+[Open the interactive contributor map](../_static/all_contributors_world_map.html)
+
 ```{figure} ../_static/videos/contributors.mp4
 ---
 name: contributors-table-video

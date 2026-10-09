@@ -1,1 +1,8 @@
+cartopy[ows]~=0.26
+geopy~=2.0
 jupyter-book>=2.1.6
+pandas~=3.0
+pykdtree~=1.4
+requests~=2.0
+scipy~=1.18
+tqdm~=4.0
