@@ -1,6 +1,25 @@
 <a href="https://book.the-turing-way.org"><img src="book/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
 
+## Which repo to use
+
+**Use `stjude-biohackathon/the-turing-way` when:**
+- Building an AI agent that guides people through Turing Way content
+- Creating interactive experiences around Turing Way material
+- Developing tools that surface or navigate Turing Way chapters
+
+**Use `stjude/data-ai-learning-resources` when:**
+- Creating AI learning materials for St Jude staff
+- Drafting educational content about AI tools/methods
+- Building internal tutorials or training resources
+
+**Use `stjude/stjude-skills-internal` when:**
+- Writing AI prompts or Claude skills
+- Documenting prompt engineering patterns
+- Creating reusable AI tool configurations
+
 # _The Turing Way_
+
+
 
 >_This README.md file is also available in Chinese ([README-Chinese](README-translated/README-Chinese.md)), Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
 
