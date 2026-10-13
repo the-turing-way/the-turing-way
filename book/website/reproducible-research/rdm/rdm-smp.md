@@ -1,6 +1,6 @@
 ---
 abbreviations:
-  - SMP: Software Management Plan
+  SMP: Software Management Plan
 ---
 
 (rr-rdm-smp)=
