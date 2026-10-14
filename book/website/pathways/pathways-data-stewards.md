@@ -41,6 +41,7 @@ label: pathway-data-stewards
         - item: ../reproducible-research/licensing/licensing-compatibility.md
         - item: ../reproducible-research/licensing/licensing-ethical-source.md
         - item: ../reproducible-research/licensing/licensing-data.md
+    - item: ../reproducible-research/security.md
     - item: ../reproducible-research/rdm.md
       children:
         - item: ../reproducible-research/rdm/rdm-data.md
