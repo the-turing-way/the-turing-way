@@ -194,7 +194,7 @@ docker exec --name mycontainer /
 The GitHub repository is also linked with [zenodo.org](https://zenodo.org/) to ensure long-term
 archiving, see {ref}`cm-citable-cite-software`
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3899943.svg)](https://doi.org/10.5281/zenodo.3899943)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.3899943-blue)](https://doi.org/10.5281/zenodo.3899943)
 
 Note that a DOI provided by Zenodo can also be used with BinderHub to turn a
 repository snapshot backed up on Zenodo in an interactive environment
