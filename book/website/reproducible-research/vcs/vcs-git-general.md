@@ -8,7 +8,7 @@ Its functions allow for parallel development and maintenance of large projects, 
 (rr-vcs-gitpros)=
 ## Why everyone is using git
 
-While developed for software, Git has been used for many different kind of projects and platforms such as GitHub, GitLab, Gogs, GitLea and others. 
+While developed for software, Git has been used for many different kind of projects and platforms such as GitHub, GitLab, Gogs, Gitea and others. 
 These platforms brought project management tools into the Git workflow, facilitating community building around projects like the Turing Way book. 
 Sometimes, users of these platform do not even know about Git. 
 

@@ -31,12 +31,12 @@ An illustration of branching in Git
 
 You can create a branch and switch to it using:
 ```
-git checkout -b name_of_your_new_branch
+git switch -c name_of_your_new_branch
 ```
 
 To change between branches, use the following command:
 ```
-git checkout name_of_the_branch
+git switch name_of_the_branch
 ```
 
 You must commit any work you have in progress before you can to switch to another branch.

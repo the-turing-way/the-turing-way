@@ -216,6 +216,10 @@ ethical source software
 ## F
 
 ```{glossary}
+fail-fast environment
+: A development setup or software design approach that immediately reports any condition likely to indicate a failure, rather than attempting to continue running despite errors. In software engineering and production environments, this approach prevents the propagation of corrupt data, reduces debugging time, and ensures that issues are caught early during testing or continuous integration phases.
+  For more information, see the [Fail-fast article on Wikipedia](https://en.wikipedia.org/wiki/Fail-fast).
+
 FAIR
 : Findable, Accessible, Interoperable and Reusable.
 

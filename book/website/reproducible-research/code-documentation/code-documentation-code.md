@@ -12,7 +12,7 @@ such as explanations about how to start using the software, or examples of how t
 What to document will be different for each software, and how to document it will be different for each audience.   
 Below, there is guidance on how writing extended software documentation can be approached.
 
-(divio-documentation-system)=
+(diataxis-documentation-framework)=
 ### Diataxis Documentation Framework
 When extended documentation is necessary, common questions are: What to document? and 
 How to organise documentation concisely?
@@ -35,7 +35,7 @@ A reference guide for $S$ should describe what inputs it expects, what outputs i
 
 Another way to think about software documentation is to distinguish between the documentation for the end user of the software, 
 and the documentation oriented to describe the insides of the software to other developers. 
-This approach for organising documentation is simpler than [Divios Documentation System](#divio-documentation-system), 
+This approach for organising documentation is simpler than [Diátaxis Documentation Framework](#diataxis-documentation-framework), 
 but it does not offer further guidance about how to distinguish which aspects of software documentation are relevant for an end user and which are relevant for a developer. 
 It is up to the developer's experience to decide what content is relevant and for whom.
 The table below offers some examples on what might be included as user and developer documentation.
@@ -43,7 +43,7 @@ The table below offers some examples on what might be included as user and devel
 | User Documentation | Developer Documentation |
 |----------|----------|
 | Installation instructions  | Development setup  |
-| Default settings  | How to run tests  |s
+| Default settings  | How to run tests  |
 | Tutorials | Development roadmap |
 
 > Regardless of which approach is used to document software. The bottom line is 'some documentation is better than no documentation'

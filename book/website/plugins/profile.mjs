@@ -291,7 +291,12 @@ const profileDirective = {
     }
 
     // Create label from name
-    const label = "profile-" + name.replaceAll(" ", "-").toLowerCase();
+    // This,
+    // - prepends "profile-"
+    // - replaces spaces with hyphens (-)
+    // - changes all characters to lower case
+    // - removes diacritics (for example ö → o, é → e)
+    const label = "profile-" + name.replaceAll(" ", "-").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, '');
 
     // Create card
     let card = {

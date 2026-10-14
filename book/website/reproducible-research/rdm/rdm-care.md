@@ -50,7 +50,7 @@ alt: >
 The CARE principles, figure by [](https://doi.org/10.5334/dsj-2020-043).
 ```
 
-The [Global Indigenous Data Alliance](https://www.gida-global.org/care) has made further resources available and translated the CARE principles in other languages. 
+The [Global Indigenous Data Alliance](https://www.gida-global.org/) has made further resources available and translated the CARE principles in other languages. 
 
 The genomic ([](https://doi.org/10.3389/fgene.2022.1052620)), as well as the ecology/biodiversity ([](https://doi.org/10.1038/s41559-023-02161-2)), research communities have worked on a framework for enhancing ethical genomic research with Indigenous communities.
 
