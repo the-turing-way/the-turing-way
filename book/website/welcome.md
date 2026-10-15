@@ -141,7 +141,7 @@ The Turing Way Guides
 ::::
 
 ::::{card}
-:::{iframe} https://youtu.be/doxkrYfVjjk?si=VANK4EZwhG9FkpD8
+:::{iframe} https://www.youtube.com/embed/doxkrYfVjjk
 :width: 100%
 {button}`Book Dash <https://youtube.com/playlist?list=PLBxcQEfGu3DnrZgO9xGR2OTn0kTMtmtAU&si=ABv_qucO4Bd4XWu->`
 :::
