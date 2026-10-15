@@ -148,7 +148,7 @@ The Turing Way Guides
 ::::
 
 ::::{card}
-:::{iframe} https://youtu.be/FvXAHhcQP74?si=FVTwpTtFXwDFdlUd 
+:::{iframe} https://youtube.com/embed/FvXAHhcQP74
 :width: 100% 
 {button}`Community Forums<https://youtu.be/FvXAHhcQP74?si=FVTwpTtFXwDFdlUd>`
 :::
