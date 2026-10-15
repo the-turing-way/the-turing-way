@@ -97,33 +97,6 @@ The Turing Way Guides
 ::::
 
 :::::
-<!-- +++ {"kind": "centered", "class": "col-body"}
-
-### Community Events
-
-:::::{grid} 1 2 3 4
-
-:::{figure} ../figures/book-dash-collaboration.jpg
-:height: 130px
-[Book Dash](https://github.com/the-turing-way/bookdash/tree/main/reports)
-:::
-
-:::{figure} ../figures/collaboration-cafe.jpg
-:height: 130px
-[Collaborations Cafe](https://book.the-turing-way.org/community-handbook/community-calls/community-calls-collabcafe/)
-:::
-
-:::{figure} ../figures/community-exchange.jpg
-:height: 130px
-[Community Forum](https://youtube.com/playlist?list=PLBxcQEfGu3DkB1cLjSD5nEFvb_JkMPVqf&si=1HTS8tcQfmk0V82N)
-:::
-
-:::{figure} ../figures/fireside-chat.jpg
-:height: 130px
-[Fireside Chats](https://youtube.com/playlist?list=PLBxcQEfGu3Dnyw035fMTH7S_cAompfiSz&si=UIfZDuwDNTwZlIH5)
-:::
-
-::::: -->
 
 +++ { "kind": "justified"}
 
