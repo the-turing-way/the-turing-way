@@ -133,7 +133,7 @@ The Turing Way Guides
 
 ::::{card}
 
-:::{iframe} https://www.youtube.com/watch?v=HSk6WypbXQA&list=PLBxcQEfGu3Dnyw035fMTH7S_cAompfiSz 
+:::{iframe} https://www.youtube.com/embed/HSk6WypbXQA
 :width: 100%
 {button}`Fireside Chats <https://youtube.com/playlist?list=PLBxcQEfGu3Dnyw035fMTH7S_cAompfiSz&si=UIfZDuwDNTwZlIH5>`
 :::
