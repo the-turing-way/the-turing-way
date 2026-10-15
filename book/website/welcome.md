@@ -20,7 +20,7 @@ Making reproducibility too easy not to do.
 
 {button}`Read The Book <index.md>`
 
-{button}`Join Us on Slack <https://book.the-turing-way.org/>`
+{button}`Join Us on Slack <https://slack.the-turing-way.org/>`
 
 +++ { "kind": "justified"}
 
