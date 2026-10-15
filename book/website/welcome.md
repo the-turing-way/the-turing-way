@@ -18,7 +18,7 @@ Making reproducibility too easy not to do.
 :width: 60%
 :::
 
-{button}`Read The Book <https://book.the-turing-way.org/>`
+{button}`Read The Book <index.md>`
 
 {button}`Join Us on Slack <https://book.the-turing-way.org/>`
 
