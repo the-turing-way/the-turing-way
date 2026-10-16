@@ -7,7 +7,7 @@ depth: 2
 description: >
   The [UKRI Research Data Policy](https://www.ukri.org/news/ukri-publishes-new-research-data-policy/) sets out expectations for managing and sharing research data and research-relevant digital objects, including code, models, software and artificial intelligence artefacts, arising from UKRI-funded research (effective in April 2027).
   These curated chapters will support researchers to plan research data management including the development of documentation that guide data storage, data sharing process and metadata information in line with the policy to ensure that their work is as open as possible and as closed as necessary. Chapters will also assist in choosing licences and designing repository, assigning persistent identifiers, writing data access statements, acknowledging contributors, and preserving data in line with the FAIR principles.
-  This pathway is a learning resource and should not be treated as an alternative to their institutional compliance resquirements. Consult your institution's research data service and the official UKRI policy, your institutional policies and grant terms.
+  This pathway is a learning resource and should not be treated as an alternative to their institutional compliance resquirements. Always consult your institution's research data service and follow your institutional data policies, the official UKRI policy and grant terms supporting your work.
 label: pathway-ukri-research-data-policy
 ---
 - item: ../reproducible-research/reproducible-research.md
