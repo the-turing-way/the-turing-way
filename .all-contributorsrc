@@ -5717,6 +5717,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dhairyaagrawalcode",
+      "name": "Dhairya Agrawal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/285950528?v=4",
+      "profile": "https://dhairya-agrawal.vercel.app/",
+      "contributions": [
+        "bug"
+      ]
     }
   ]
 }
