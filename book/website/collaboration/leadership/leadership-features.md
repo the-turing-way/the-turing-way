@@ -18,7 +18,7 @@ With this basic understanding of leadership, we discuss some essential leadershi
 ## Assigned Leadership
 
 Like a project manager in a team-based research project or a tech company CEO, there are formally-assigned leadership positions.
-A company CEO have the power to make decisions to provide organisational resources which can impact the overall efficiency and the ability of teams to deliver on organisational goals.
+A company CEO has the power to make decisions to make decisions to provide organisational resources which can impact the overall efficiency and the ability of teams to deliver on organisational goals.
 
 They hire and assign leaders to lead different teams.
 Individuals within those teams also inspire other members, and play huge role in keeping team motivated as they make progress in their own rights, and take on leadership roles themselves.
