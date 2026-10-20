@@ -1,0 +1,27 @@
+/* Turing Way teal buttons — landing page only */
+[class*="myst-landing-"] .button {
+  background-color: #009C9A !important;
+  border-color: #009C9A !important;
+  color: #FFFFFF !important;
+}
+
+[class*="myst-landing-"] .button:hover {
+  background-color: #007876 !important;
+}
+
+/* Hero logo — scale to fit, so it doesn't crop */
+.tw-hero-logo,
+.tw-hero-logo img {
+  width: 100%;
+  height: auto;
+  object-fit: contain !important;
+}
+
+/* Grid card thumbnails */
+.tw-grid-thumb,
+.tw-grid-thumb img {
+  width: 100%;
+  height: 256px;
+  object-fit: contain;
+  background-color: #FFFFFF; /* fills any empty space around a non-matching aspect ratio */
+}
