@@ -21,13 +21,17 @@ Making reproducibility too easy not to do.
 
 {button}`Read The Book <index.md>`
 
-{button}`Join Us on Slack <https://slack.the-turing-way.org/>`
+{button}`Join us on Slack <https://slack.the-turing-way.org/>`
 
 +++ { "kind": "justified"}
 
 The Turing Way Guides
 
 ## Our Guides
+
+*The Turing Way* is an open science, open collaboration, and community-driven project. We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
+
+Learn from our guides. 
 
 :::::{grid} 1 2 2 2
 
