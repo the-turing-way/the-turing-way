@@ -32,8 +32,9 @@ project:
     myst-spec: https://mystmd.org/spec
     myst-guide: https://mystmd.org/guide/
   toc:
-    # - file: index.md
     - file: welcome.md
+    - file: index.md
+      title: Welcome to The Turing Way
     - file: foreword/foreword.md
       children:
         - file: foreword/background.md
