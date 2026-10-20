@@ -143,7 +143,7 @@ Tambe bo por sigui nos riba [Mastodon](https://fosstodon.org/@turingway), [Blues
 
 ## Colaboradornan
 
-Danki na e personanan aki ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Danki na e personanan aki ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 [Lista di personanan cu a colabora](https://github.com/the-turing-way/the-turing-way#contributors)
 
