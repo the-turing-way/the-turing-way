@@ -144,7 +144,7 @@ Puoi anche seguirci su Twitter ([@turingway](https://twitter.com/turingway)).
 
 ## Collaboratori
 
-Vorremmo ringraziare queste persone meravigliose ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Vorremmo ringraziare queste persone meravigliose ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 [Elenco di persone che hanno collaborato](https://github.com/the-turing-way/the-turing-way#contributors)
 
