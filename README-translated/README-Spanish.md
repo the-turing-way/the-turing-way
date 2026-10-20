@@ -146,7 +146,7 @@ También puedes seguirnos en [Mastodon](https://fosstodon.org/@turingway), [Blue
 
 ## Colaboradores
 
-Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Gracias a estas personas maravillosas ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 [Lista de personas que han colaborado](https://github.com/the-turing-way/the-turing-way#contributors)
 
