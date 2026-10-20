@@ -1117,6 +1117,7 @@ site:
   options:
     logo: ../figures/logo-detail-with-text.svg
     favicon: ../figures/logo/favicon-32x32.png
+    style: ./_static/stylesheet/landing-page.css
     analytics_google: UA-167881009-1
     folders: true
   template: book-theme

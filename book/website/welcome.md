@@ -16,6 +16,7 @@ Making reproducibility too easy not to do.
 :::{figure} ../figures/logo-detail-with-text.jpg
 :alt: The Turing Way Logo
 :width: 60%
+:class: tw-hero-logo
 :::
 
 {button}`Read The Book <index.md>`
@@ -37,6 +38,7 @@ The Turing Way Guides
 :::{figure} ../figures/reproducibility.jpg
 :alt: The Turing Way Logo
 :height: 256px
+:class: tw-grid-thumb
 :::
 
 ::::
@@ -48,6 +50,7 @@ The Turing Way Guides
 :::{figure} ../figures/project-design.jpg
 :alt: The Turing Way Logo
 :height: 256px
+:class: tw-grid-thumb
 :::
 
 ::::
@@ -59,6 +62,7 @@ The Turing Way Guides
 :::{figure} ../figures/communication.jpg
 :alt: The Turing Way Logo
 :height: 256px
+:class: tw-grid-thumb
 :::
 
 ::::
@@ -70,6 +74,7 @@ The Turing Way Guides
 :::{figure} ../figures/collaboration.jpg
 :alt: The Turing Way Logo
 :height: 256px
+:class: tw-grid-thumb
 :::
 
 ::::
@@ -81,6 +86,7 @@ The Turing Way Guides
 :::{figure} ../figures/ethical-research.png
 :alt: The Turing Way Logo
 :height: 256px
+:class: tw-grid-thumb
 :::
 
 ::::
@@ -92,11 +98,24 @@ The Turing Way Guides
 :::{figure} ../figures/community.jpg
 :alt: The Turing Way Logo
 :height: 256px
+:class: tw-grid-thumb
 :::
 
 ::::
 
 :::::
+
++++ {"kind": "centered", "class": "col-body"}
+
+### Join a Community Call
+
+::: {iframe} https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Africa%2FLagos&color=%23009C9A&bgcolor=%23FFFFFF
+:class: tw-calendar-embed
+:width: 100%
+:align: center
+::: 
+
+The Turing Way's community calendar of events and calls.
 
 +++ { "kind": "justified"}
 
