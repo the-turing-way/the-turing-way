@@ -305,6 +305,9 @@ hosting
 
 human readable
 : A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
+
+hyperparameter
+: In machine learning, a hyperparameter is a parameter that can be set to define any configurable part of a model's learning process. It is not to be confused with the term hyperparameter in Bayesian statistics.
 ```
 
 ---
@@ -554,6 +557,9 @@ push
 ## R
 
 ```{glossary}
+random seed
+: A random seed is a number (or vector) used to initialize a pseudorandom number generator. 
+
 RDM
 : Abbreviation for research data management - see research data management for definition.
 
@@ -686,6 +692,9 @@ testing framework
 
 Travis
 : A commonly used continuous integration platform.
+
+training data
+: This is data used to train a machine learning model. 
 ```
 
 ---
@@ -706,13 +715,16 @@ unit testing
 
 ```{glossary}
 virtual machine
-: A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
+: A simulated computer that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
 ```
 
 ---
 
 ## W
-
+```{glossary}
+weights
+: In machine learning, weights, fully known as model weights, are the numerical values in a machine learning model. These are learned by the model during training. 
+```
 ---
 
 ## X
@@ -723,7 +735,7 @@ virtual machine
 
 ```{glossary}
 YAML
-: A human readable/writable data serialisation language which used by many projects for configuration files.
+: A human readable/writable data serialisation language which is used by many projects for configuration files.
 ```
 
 ---
