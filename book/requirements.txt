@@ -102,7 +102,7 @@ mistune==3.3.4
     # via nbconvert
 nbclient==0.11.0
     # via nbconvert
-nbconvert==7.17.1
+nbconvert==7.17.2
     # via jupyter-server
 nbformat==5.10.4
     # via
