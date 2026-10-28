@@ -92,7 +92,7 @@ Atau, Anda dapat menghubungi pemimpin investigator **Kirstie Whitaker** melalui 
 
 ## [Kontributor](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors)
 
-Terima kasih untuk orang-orang yang luar biasa ini ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Terima kasih untuk orang-orang yang luar biasa ini ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 Proyek ini mengikuti spesifikasi [all-contributors](https://github.com/all-contributors/all-contributors).
 Terima Kontribusi dalam bentuk apa pun!
