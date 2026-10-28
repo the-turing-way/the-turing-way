@@ -31,7 +31,7 @@ For example, you should:
 - Use respectful, gender-neutral and inclusive language.
 - Aim to include perspectives of researchers from different research backgrounds.
 - Make sure that the colour palettes are accessible to colour-blind readers and contributors.
-  See the blog post [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
+  See the blog post [Designing Scientific Figures for Colour Blindness](https://mackenzie-lab.org/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 (ch-contributing-join)=
 ## Join the Community
