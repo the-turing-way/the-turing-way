@@ -20,6 +20,9 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
   - If you are planning a meeting that includes time zones with over 12 hours difference, consider having two sessions to avoid holding a meeting very early or very late in the day.
   - Assign different chairs when holding calls in two different time zones.
 - Use a standard time with a custom link like [arewemeetingyet](https://arewemeetingyet.com/) or [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html) to different time zones when communicating.
+  - For recurring meetings, recheck the next occurrence in each participant's time zone when anyone's clocks change.
+    The [US](https://www.nist.gov/pml/time-and-frequency-division/popular-links/daylight-saving-time-dst) and [UK](https://www.gov.uk/when-do-the-clocks-change) use different daylight-saving schedules.
+    [ToLocalTime's meeting planner](https://tolocaltime.com/time-zone-meeting-planner) shows each participant's local time and flags nearby clock changes.
 - Set a protocol for your meeting participants (if there is not one available already), which should include basic etiquette explaining the following:
   - Is keeping the webcam and microphone on recommended? Can they be turned off during the call?
   - Is there a password needed to join the call? Can attendees join before the host?
