@@ -194,7 +194,7 @@ To add yourself or someone else as a {term}`contributor <contributors>`, comment
 @all-contributors please add <username> for <contributions>
 ```
 
-You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/the-turing-way/the-turing-way/issues/274).
+You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/en/reference/emoji-key/) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/the-turing-way/the-turing-way/issues/274).
 The bot will then create a {term}`pull request` to add the contributor and reply with the pull request details.
 
 :::{warning} Please only add one contributor at a time with the bot!
