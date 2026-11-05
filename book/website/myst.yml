@@ -356,6 +356,8 @@ project:
           children:
             - file: reproducible-research/case-studies/case-study-statistical.md
               title: A Statistical Methods Manuscript
+        - file: reproducible-research/reproducibility-in-ai.md
+          title: Reproducibility in AI
     # ===== Guide for Project Design ========================================
     - title: Guide for Project Design
       file: project-design/project-design.md
