@@ -22,7 +22,7 @@ The process of developing this record is described below.
 
 ### All Contributors Table
 
-The [all contributors table](#contributors-record-all) is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/)'s [emoji key](https://allcontributors.org/docs/en/emoji-key).
+The [all contributors table](#contributors-record-all) is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/)'s [emoji key](https://allcontributors.org/en/reference/emoji-key/).
 
 Instructions for using the all contributors bot are given in [the contributing guide](#ch-style-roles-profile).
 
@@ -36,7 +36,7 @@ height: 400px
 name: AllContributorsEmojiKey
 alt: Table with different emojis that is used by the contributors bot
 ---
-[Emoji key table](https://allcontributors.org/docs/en/emoji-key) of the all contributors bot that _The Turing Way_ uses for acknowledging different contributions from community members.
+[Emoji key table](https://allcontributors.org/en/reference/emoji-key/) of the all contributors bot that _The Turing Way_ uses for acknowledging different contributions from community members.
 ```
 
 (ch-acknowledgement-record-individual)=

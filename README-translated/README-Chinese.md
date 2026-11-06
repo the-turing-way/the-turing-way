@@ -141,7 +141,7 @@ Zenodo的最新版本可以引用如下：
 
 ## 贡献者
 
-感谢这些了不起的人 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+感谢这些了不起的人 ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

@@ -118,7 +118,7 @@ Alternativ können Sie **Kirstie Whitaker** per Mail unter [kwhitaker@turing.ac.
 
 ## Beitragende
 
-Ein großer Dank geht an alle, die mitgearbeitet haben ([emoji key](https://allcontributors.org/docs/en/emoji-key))
+Ein großer Dank geht an alle, die mitgearbeitet haben ([emoji key](https://allcontributors.org/en/reference/emoji-key/))
 
 [Liste der Personen, die zusammengearbeitet haben](https://github.com/the-turing-way/the-turing-way#contributors)
 

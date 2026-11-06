@@ -138,7 +138,7 @@ Zenodo의 최신 버전은 다음과 같이 인용할 수 있습니다.
 Twitter([@turingway](https://twitter.com/turingway))에서도 우리를 팔로우할 수 있습니다.
 
 ## 기부자
-정말 고마워요: 이 멋진 사람들에게 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+정말 고마워요: 이 멋진 사람들에게 ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->

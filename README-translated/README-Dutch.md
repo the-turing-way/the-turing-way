@@ -97,7 +97,7 @@ Of je kan de hoofdonderzoeker van het project, **Kirstie Whitaker**, contacteren
 
 ## Bijdragers
 
-Dank gaat uit naar deze geweldige mensen ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Dank gaat uit naar deze geweldige mensen ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 [Lijst met mensen die hebben samengewerkt](https://github.com/the-turing-way/the-turing-way#contributors)
 

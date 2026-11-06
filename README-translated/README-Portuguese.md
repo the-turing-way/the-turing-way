@@ -97,7 +97,7 @@ Alternativamente, você pode entrar em contato com o investigador principal **Ki
 
 ## Contribuidores
 
-Os agradecimentos vão para essas pessoas maravilhosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Os agradecimentos vão para essas pessoas maravilhosas ([emoji key](https://allcontributors.org/en/reference/emoji-key/)):
 
 [Lista de pessoas que colaboraram](https://github.com/the-turing-way/the-turing-way#contributors)
 

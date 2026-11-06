@@ -14,7 +14,7 @@ In this page we describe the infrastructure supporting publishing contributors.
 
 ## All Contributors
 
-The [All Contributors section](#contributors-record-all) displays the same [all contributors](https://allcontributors.org/docs/en/overview) table as [`README.md`](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
+The [All Contributors section](#contributors-record-all) displays the same [all contributors](https://allcontributors.org/en/) table as [`README.md`](https://github.com/the-turing-way/the-turing-way/blob/main/README.md).
 
 The information to build this table is contained in [`.all-contributorsrc`](https://github.com/the-turing-way/the-turing-way/blob/main/.all-contributorsrc), the configuration file for all contributors.
 This JSON file controls the appearance of the table and also specifies where to write the all contributors table in the `"files"` list.
