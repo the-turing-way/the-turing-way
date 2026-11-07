@@ -41,6 +41,8 @@ project:
           title: Navigating the Handbook
         - file: foreword/guiding-principles.md
           title: Guiding Principles
+        - file: foreword/position-on-ai-use.md
+          title: Our Position on AI Use
         - file: foreword/emergent-strategy.md
           title: Emergence as The Turing Way Strategy
         - file: foreword/embracing-digital-commons.md
