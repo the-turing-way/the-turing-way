@@ -592,6 +592,8 @@ project:
               title: Issue Tracking
             - file: communication/os-comms/os-comms-channels.md
               title: Communication Channels
+            - file: communication/os-comms/os-comms-checklist-resources.md
+              title: Checklist and Resources
         - file: communication/aa.md
           title: Authorship and Contributions on Academic Articles
           children:
