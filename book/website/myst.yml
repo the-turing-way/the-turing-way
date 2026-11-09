@@ -1085,8 +1085,6 @@ project:
               title: Book Dash Template for Feedback
             - file: community-handbook/templates/template-coworking-collabcafe.md
               title: Online Collaboration Cafe Templates
-            - file: community-handbook/templates/template-newsletter-draft.md
-              title: Template for Drafting Newsletters
             - file: community-handbook/templates/template-fireside-chat.md
               title: Template for Fireside Chat Shared Notes
     # ===== Afterword ========================================
