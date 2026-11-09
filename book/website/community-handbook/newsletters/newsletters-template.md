@@ -1,8 +1,8 @@
-(ch-newsltters-template)
+(ch-newsletters-template)
 # Template for Drafting Newsletters
 
-The templates outlined below is what we have been using as a guide for collecting news items for _The Turing Way_ newsletters over the past years.
-These two templates have evolved greatly over the years and in no way claims to be the 'perfect' format.
+The template outlined below is what we have been using as a guide for collecting news items for _The Turing Way_ newsletters over the past years.
+It has evolved greatly over the years and in no way claims to be the 'perfect' format.
 When reusing this template, you should experiment with what works for your community.
 Your suggestions in the earlier subchapters are very welcome.
 
@@ -94,68 +94,4 @@ You are welcome to join *The Turing Way* community, and learn more about the pro
 If you'd like to contribute to the next newsletter, please email Anne Lee Steele at asteele@turing.ac.uk! Feel free to send her a message on Slack, or [book some time in on Anne's calendly](calendly.com/aleesteele/) to say hello.
 
 _Did you miss the last newsletters?_ _Check them out [here](https://tinyletter.com/TuringWay/archive)._
-```
-
-## March 2025 Template
-
-The template outlined below is what we have been using as a guide for collecting news items for _The Turing Way_ newsletters since September 2022.
-
-## September 2019 Template
-
-The template outlined below is what we have been using as a guide for collecting news items for _The Turing Way_ newsletters since September 2019.
-
-```
-Date: DD Month YYYY
-
-# title
-
-Hello Turing Way friends!
-
-This month ...
-
-Shout out ...
-
-Events ...
-
-Find more details on these topics below 👇
-
-
-## Community meetings
-
-    <About events like Collaboration Café, book dash, other meetings>
-
-## News from the community
-
-    <Any news from the team, community members, and new chapters>
-
-## Relevant resources
-
-    <Any useful resources like relevant publication, training items, and materials from collaborators>
-
-## Tips & Tricks for new contributors
-
-    <Any material that helps the new contributor to relate to the project like impact statement, story, and contributor in focus>
-
-## Acknowledgments and celebrations
-
-    <Shout out and wishes to celebratory news from members, recent meetings where someone talked about Turing Way, Tweets and other online mentions from people other than the team members>
-
-## Special mentions
-
-    <Shout out to the reviewers for this newsletter other than the team members>
-
-## Connect with us!
-
-- [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://book.the-turing-way.org)
-- [GitHub repository](https://github.com/the-turing-way/the-turing-way)
-- [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA)
-- [Public Gitter channel](https://gitter.im/the-turing-way/the-turing-way)
-- [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-
-You are welcome to contribute content for the next newsletter by
-emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
-
-*Did you miss the last newsletters?*
-*Check them out [here](https://buttondown.com/turingway/archive).*
 ```
