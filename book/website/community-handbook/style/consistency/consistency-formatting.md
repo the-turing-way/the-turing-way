@@ -46,7 +46,7 @@ Converting HTML to {term}`Markdown` makes The Turing Way book easier to read.
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`.
 [W3Schools](https://www.w3schools.com/html/html_elements.asp) is an excellent resource for understanding what these tags mean, and {term}`Markdown` reference guides, such as [this cheatsheet](https://www.markdownguide.org/cheat-sheet/), can help translate `HTML` formatting to Markdown.
-There are also helpful tools on the web, such as [Turndown](https://domchristie.github.io/turndown/) and [CloudConvert](https://cloudconvert.com/html-to-md), that convert `HTML` to {term}`Markdown` with a single click.
+There are also helpful tools on the web, such as [Turndown](https://mixmark-io.github.io/turndown/), [CloudConvert](https://cloudconvert.com/html-to-md) and [file2markdown](https://www.file2markdown.ai/convert/html-to-markdown), that convert `HTML` to {term}`Markdown` with a single click.
 
 Please note that if `HTML` is the only option for you to format your text the way you desire, you can use it only if the content in the online book can still be read and understood (use the Netlify preview in your PR to test).
 For example, [superscripts and subscripts](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet#toc-superscript-and-subscript) can be written in `HTML` because they always appear as intended.
