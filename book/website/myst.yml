@@ -32,7 +32,9 @@ project:
     myst-spec: https://mystmd.org/spec
     myst-guide: https://mystmd.org/guide/
   toc:
+    - file: welcome.md
     - file: index.md
+      title: Welcome to The Turing Way
     - file: foreword/foreword.md
       children:
         - file: foreword/background.md
@@ -1115,6 +1117,7 @@ site:
   options:
     logo: ../figures/logo-detail-with-text.svg
     favicon: ../figures/logo/favicon-32x32.png
+    style: ./_static/stylesheet/landing-page.css
     analytics_google: UA-167881009-1
     folders: true
   template: book-theme
