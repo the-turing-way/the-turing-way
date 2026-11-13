@@ -1,6 +1,4 @@
 version: 1
-site:
-  template: https://github.com/jupyter-book/myst-theme/releases/download/myst-to-react%401.4.1/book-theme.zip
 project:
   title: The Turing Way
   authors:
@@ -1119,4 +1117,4 @@ site:
     favicon: ../figures/logo/favicon-32x32.png
     analytics_google: UA-167881009-1
     folders: true
-  template: book-theme
+  template: https://github.com/jupyter-book/myst-theme/releases/download/myst-to-react%401.4.1/book-theme.zip
